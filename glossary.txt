@@ -1,0 +1,21 @@
+# واژه‌نامه: هر خط به شکل  English = فارسی
+# خط‌هایی که با # شروع می‌شوند نادیده گرفته می‌شوند.
+# هر ترجمه‌ای را که نپسندیدی همین‌جا اصلاح کن؛ بدون تغییر در کد اعمال می‌شود.
+Strait of Hormuz = تنگه هرمز
+IRGC = سپاه پاسداران
+Houthis = حوثی‌ها
+Ansarallah = انصارالله
+Hezbollah = حزب‌الله
+Hamas = حماس
+IDF = ارتش اسرائیل
+Pentagon = پنتاگون
+White House = کاخ سفید
+Kremlin = کرملین
+Zelensky = زلنسکی
+Putin = پوتین
+Trump = ترامپ
+Netanyahu = نتانیاهو
+Arakan Army = ارتش آراکان
+junta = ژونتا
+Shahed = شاهد
+OSINT = اوسینت
