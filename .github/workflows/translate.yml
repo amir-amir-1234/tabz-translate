@@ -1,0 +1,52 @@
+name: translate-channel
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"     # هر ۱۰ دقیقه (برای ریپوی خصوصی بهتر است "*/30 * * * *" بگذاری)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "فقط چاپ کن، چیزی ارسال نشود (true/false)"
+        default: "false"
+      backfill:
+        description: "اولین اجرا: چند پست آخر هم منتقل شود؟"
+        default: "0"
+
+# جلوگیری از اجرای هم‌زمان دو نسخه
+concurrency:
+  group: translate-channel
+  cancel-in-progress: false
+
+permissions:
+  contents: write              # برای ذخیره state.json
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run bot
+        run: python bot.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TARGET_CHAT: ${{ secrets.TARGET_CHAT }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DRY_RUN: ${{ inputs.dry_run }}
+          INITIAL_BACKFILL: ${{ inputs.backfill }}
+
+      - name: Save state
+        run: |
+          git config user.name "translate-bot"
+          git config user.email "translate-bot@users.noreply.github.com"
+          git add state.json
+          git diff --staged --quiet || (git commit -m "update state [skip ci]" && git push)
