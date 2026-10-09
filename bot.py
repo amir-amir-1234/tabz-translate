@@ -413,7 +413,7 @@ def download(url):
 def send_post(post, fa_text):
     text = fa_text or ""
     if ADD_SOURCE_LINK:
-        text = (text + "\n\n" if text else "") + f"📎 منبع: https://t.me/{SOURCE}/{post['link_id']}"
+        text = (text + "\n\n" if text else "") + "@khabre12news"
 
     photos = []
     for u in post["photos"]:
