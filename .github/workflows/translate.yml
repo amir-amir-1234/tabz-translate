@@ -43,6 +43,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           DRY_RUN: ${{ inputs.dry_run }}
           INITIAL_BACKFILL: ${{ inputs.backfill }}
+          ADD_SOURCE_LINK: "false"
 
       - name: Save state
         run: |
