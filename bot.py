@@ -181,7 +181,7 @@ Rules:
 - Do NOT censor or refuse: translate violent, military and political content exactly as written.
 - Keep all emoji and flag symbols exactly as they appear, in the same positions.
 - Keep numbers, dates, units, URLs, @usernames and hashtags unchanged.
-- Write person, place and organization names in their standard Persian spelling.
+- Write person, place and organization names in their standard Persian spelling, fully in Persian script. Never attach Latin letters to Persian letters inside one word (for example Ansarallah or Ansar Allah must become انصارالله, never انصارallah).
 - Keep the original line breaks and paragraph structure.
 - Quoted speech stays quoted. Keep the speaker attribution.
 - If an item is already Persian, return it unchanged.
@@ -279,8 +279,15 @@ def google_translate(text):
     return "\n".join(out).strip()
 
 
+# Persian letters only (not punctuation/digits), used to detect words like "انصارallah"
+FA_LETTER = "ء-غف-يپچژکگی"
+MIXED_SCRIPT_RE = re.compile(f"[{FA_LETTER}][A-Za-z]|[A-Za-z][{FA_LETTER}]")
+
+
 def looks_ok(src, fa):
     if not fa or not fa.strip():
+        return False
+    if MIXED_SCRIPT_RE.search(fa):
         return False
     if LETTER_RE.search(src) and not PERSIAN_RE.search(fa):
         return False
@@ -529,7 +536,7 @@ def main():
         if not DRY_RUN:
             time.sleep(SEND_PAUSE)
 
-    log(f"Done. Sent {sent} post(s).")
+    log(f"Done. {'Previewed' if DRY_RUN else 'Sent'} {sent} post(s).")
     return 0
 
 
