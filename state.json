@@ -1,4 +1,31 @@
 {
-  "last_id": 107472,
-  "fails": {}
+ "channels": {
+  "tabzlive": {
+   "last_id": 107473
+  },
+  "khabarfouri": {
+   "last_id": 568892
+  },
+  "KH_B2": {
+   "last_id": 131144
+  },
+  "TelNews_Magazine": {
+   "last_id": 100830
+  },
+  "NE_WG": {
+   "last_id": 113945
+  }
+ },
+ "fails": {},
+ "recent": [
+  {
+   "t": 1791653393.0,
+   "n": "a senior israeli official told channel 12 that israel will not launch a preemptive strike against iran before the october 27 legislative election",
+   "fa": "🔴 🇮🇱🇮🇷⚡️ — یک مقام ارشد اسرائیلی به شبکه ۱۲ گفت اسرائیل پیش از انتخابات پارلمانی ۲۷ اکتبر هیچ حمله پیشگیرانه‌ای علیه ایران انجام نخواهد داد."
+  }
+ ],
+ "usage": {
+  "date": "2026-10-10",
+  "requests": 1
+ }
 }
