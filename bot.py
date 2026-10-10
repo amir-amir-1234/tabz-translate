@@ -5,8 +5,10 @@ Telegram channel translator (EN -> FA), designed to run on GitHub Actions.
 Flow per run:
   1. Read the public web preview of the source channel (https://t.me/s/<channel>)
   2. Find posts newer than the last processed one (state.json)
-  3. Translate text/captions: Gemini (free tier) -> next Gemini model -> Google Translate
-  4. Post to your channel with the official Bot API (text, or photos + caption)
+  3. AI topic filter + translation in ONE Gemini request (free tier), falling back to the next model,
+     then to keyword matching + Google Translate when no AI answer is available
+  4. Post relevant items to your channel with the official Bot API (text, or photos + caption);
+     rejected items (with a one-line reason) go to an optional private review channel
 
 No personal Telegram account is used anywhere.
 """
@@ -40,8 +42,14 @@ DRY_RUN = env_bool("DRY_RUN", False)
 INITIAL_BACKFILL = int(env("INITIAL_BACKFILL", "0"))   # posts to publish on the very first run
 MAX_POSTS_PER_RUN = int(env("MAX_POSTS_PER_RUN", "40"))
 MAX_PAGES = int(env("MAX_PAGES", "4"))
-ADD_SOURCE_LINK = env_bool("ADD_SOURCE_LINK", True)
+ADD_SOURCE_LINK = env_bool("ADD_SOURCE_LINK", False)   # off: no source line under posts
+# Text added at the very end of every post, e.g. "@my_channel". Defaults to TARGET_CHAT when that is an @username.
+FOOTER = env("CHANNEL_FOOTER", TARGET if TARGET.startswith("@") else "")
 SKIP_VIDEO_POSTS = env_bool("SKIP_VIDEO_POSTS", False)  # True: skip posts that contain a video entirely
+REVIEW_CHAT = env("REVIEW_CHAT")                  # optional private channel/chat that receives rejected posts
+PUBLISH_PHOTO_ONLY = env_bool("PUBLISH_PHOTO_ONLY", False)  # photos without any text cannot be judged -> skipped by default
+TOPICS_FILE = Path(env("TOPICS_FILE", "topics.txt"))
+KEYWORDS_FILE = Path(env("KEYWORDS_FILE", "keywords.txt"))
 SEND_PAUSE = float(env("SEND_PAUSE", "3"))
 
 BATCH_SIZE = 8            # posts per Gemini request
@@ -171,12 +179,21 @@ def load_glossary():
         return []
 
 
-SYSTEM_PROMPT = """You are a professional news translator working from English to Persian (Farsi) for a Telegram news channel about geopolitics, conflicts and politics.
+SYSTEM_PROMPT = """You are the editor and translator of a Persian (Farsi) Telegram news channel about wars, geopolitics, Iran, the Middle East, US/Europe foreign policy, and markets.
 
-You receive a JSON array of items: [{"id": <number>, "text": "<english text>"}].
-Return a JSON array: [{"id": <same number>, "fa": "<persian translation>"}] with exactly one entry per input item.
+You receive a JSON array: [{"id": <number>, "text": "<post text>"}].
+Return a JSON array with exactly one entry per input item:
+{"id": <same number>, "relevant": true|false, "urgent": true|false, "reason": "<one short Persian sentence>", "fa": "<Persian translation, or empty string>"}
 
-Rules:
+STEP 1 - relevance. Decide with the TOPICS list below.
+- relevant=true when the post is about (or quotes) anything in the list. When unsure, choose true: missing important news is worse than publishing a borderline item.
+- For the two broad categories "AI news" and "important world news", publish everything that is genuine news.
+- relevant=false for advertisements, channel promotion, giveaways, memes, entertainment and sports, and anything clearly outside the list.
+- "reason": one short Persian sentence. For rejected items say why; for accepted items name the matching topic.
+
+STEP 2 - urgent. urgent=true ONLY for genuinely breaking items about Iran, Israel, the US military, sanctions or negotiations: a new strike or attack, a new sanctions decision, a deal announced or talks collapsing, or a direct statement by a top leader. Everything else (including AI and general world news) is urgent=false.
+
+STEP 3 - translation, only when relevant=true (otherwise "fa" is an empty string):
 - Translate faithfully into fluent, natural, formal news Persian. Do not add, remove, summarize, soften, or comment on anything.
 - Do NOT censor or refuse: translate violent, military and political content exactly as written.
 - Keep all emoji and flag symbols exactly as they appear, in the same positions.
@@ -185,14 +202,41 @@ Rules:
 - Keep the original line breaks and paragraph structure.
 - Quoted speech stays quoted. Keep the speaker attribution.
 - If an item is already Persian, return it unchanged.
+- Do not put any emoji or label for urgency yourself; the system adds it.
 - Output only the JSON array, nothing else."""
 
 
+def load_text_file(path):
+    try:
+        lines = [l.rstrip() for l in path.read_text(encoding="utf-8").splitlines()]
+        return [l for l in lines if l.strip() and not l.lstrip().startswith("#")]
+    except Exception:
+        return []
+
+
 def build_system_prompt():
+    prompt = SYSTEM_PROMPT
+    topics = load_text_file(TOPICS_FILE)
+    if topics:
+        prompt += "\n\nTOPICS (what the channel covers):\n" + "\n".join(topics)
     g = load_glossary()
-    if not g:
-        return SYSTEM_PROMPT
-    return SYSTEM_PROMPT + "\n\nGlossary (always use these translations):\n" + "\n".join(g)
+    if g:
+        prompt += "\n\nGlossary (always use these translations):\n" + "\n".join(g)
+    return prompt
+
+
+def load_keywords():
+    kws = [l.strip().lower() for l in load_text_file(KEYWORDS_FILE)]
+    ascii_kw = [re.compile(r"\b" + re.escape(k) + r"\b") for k in kws if k.isascii()]
+    other_kw = [k for k in kws if not k.isascii()]
+    return ascii_kw, other_kw
+
+
+def keyword_match(text, kws=None):
+    """Cheap fallback used only when no AI answer is available."""
+    ascii_kw, other_kw = kws if kws is not None else load_keywords()
+    low = text.lower()
+    return any(r.search(low) for r in ascii_kw) or any(k in text for k in other_kw)
 
 
 class QuotaError(Exception):
@@ -203,13 +247,16 @@ GEMINI_SCHEMA = {
     "type": "ARRAY",
     "items": {
         "type": "OBJECT",
-        "properties": {"id": {"type": "INTEGER"}, "fa": {"type": "STRING"}},
-        "required": ["id", "fa"],
+        "properties": {"id": {"type": "INTEGER"}, "relevant": {"type": "BOOLEAN"},
+                       "urgent": {"type": "BOOLEAN"}, "reason": {"type": "STRING"},
+                       "fa": {"type": "STRING"}},
+        "required": ["id", "relevant", "urgent", "reason", "fa"],
     },
 }
 
 
-def gemini_translate(model, items, system_prompt):
+def gemini_filter(model, items, system_prompt):
+    """-> {id: {'relevant': bool, 'urgent': bool, 'reason': str, 'fa': str}}"""
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     body = {
         "systemInstruction": {"parts": [{"text": system_prompt}]},
@@ -247,7 +294,15 @@ def gemini_translate(model, items, system_prompt):
             raise RuntimeError(f"{model}: no content ({reason})")
         text = "".join(p.get("text", "") for p in cand["content"].get("parts", []))
         arr = json.loads(text)
-        return {int(x["id"]): str(x["fa"]).strip() for x in arr if x.get("fa")}
+        out = {}
+        for x in arr:
+            try:
+                out[int(x["id"])] = {"relevant": bool(x.get("relevant")), "urgent": bool(x.get("urgent")),
+                                     "reason": str(x.get("reason", "")).strip(),
+                                     "fa": str(x.get("fa", "")).strip()}
+            except (KeyError, TypeError, ValueError):
+                continue
+        return out
     raise RuntimeError(f"{model}: failed after retries ({last_err})")
 
 
@@ -310,10 +365,12 @@ def make_batches(posts):
     return batches
 
 
-def translate_posts(posts):
-    """posts: list of {'id','text'}  ->  {id: persian_text} (missing ids = failed)."""
+def process_posts(posts):
+    """posts: list of {'id','text'} -> {id: {'relevant','urgent','reason','fa','ai'}}.
+    Missing ids = nothing worked (will be retried on the next run)."""
     result = {}
     system_prompt = build_system_prompt()
+    kws = load_keywords()
     dead = set()      # models that hit quota/auth problems during this run
 
     def try_models(need):
@@ -323,7 +380,7 @@ def translate_posts(posts):
             if model in dead:
                 continue
             try:
-                got = gemini_translate(model, [{"id": i, "text": t} for i, t in need.items()], system_prompt)
+                got = gemini_filter(model, [{"id": i, "text": t} for i, t in need.items()], system_prompt)
             except QuotaError as e:
                 log("  quota:", e)
                 dead.add(model)
@@ -333,9 +390,14 @@ def translate_posts(posts):
                 if "HTTP 400" in str(e) or "HTTP 401" in str(e) or "HTTP 403" in str(e):
                     dead.add(model)
                 continue
-            for i, fa in got.items():
-                if i in need and looks_ok(need[i], fa):
-                    result[i] = fa
+            for i, v in got.items():
+                if i not in need:
+                    continue
+                if not v["relevant"]:
+                    result[i] = {**v, "fa": "", "ai": True}
+                    del need[i]
+                elif looks_ok(need[i], v["fa"]):
+                    result[i] = {**v, "ai": True}
                     del need[i]
 
     for batch in make_batches(posts):
@@ -347,14 +409,20 @@ def translate_posts(posts):
                 for i in list(need):
                     try_models({i: need[i]})
                     if i in result:
-                        del need[i]
+                        need.pop(i, None)
+        # no AI answer: keyword match decides, Google Translate translates
         for i, t in list(need.items()):
             if i in result:
+                continue
+            if not keyword_match(t, kws):
+                result[i] = {"relevant": False, "urgent": False, "fa": "", "ai": False,
+                             "reason": "هوش مصنوعی در دسترس نبود و کلیدواژه‌ای پیدا نشد"}
                 continue
             try:
                 fa = google_translate(t)
                 if looks_ok(t, fa):
-                    result[i] = fa
+                    result[i] = {"relevant": True, "urgent": False, "fa": fa, "ai": False,
+                                 "reason": "بدون هوش مصنوعی (کلیدواژه)"}
                 else:
                     log(f"  post {i}: google translate output rejected")
             except Exception as e:
@@ -411,9 +479,14 @@ def download(url):
 
 
 def send_post(post, fa_text):
-    text = fa_text or ""
+    parts = []
+    if fa_text:
+        parts.append(fa_text)
     if ADD_SOURCE_LINK:
-        text = (text + "\n\n" if text else "") + "@khabre12news"
+        parts.append(f"📎 منبع: https://t.me/{SOURCE}/{post['link_id']}")
+    if FOOTER:
+        parts.append(FOOTER)
+    text = "\n\n".join(parts)
 
     photos = []
     for u in post["photos"]:
@@ -448,6 +521,22 @@ def send_post(post, fa_text):
     if not caption_ok:
         for part in split_message(text):
             tg("sendMessage", data={"chat_id": TARGET, "text": part, "disable_web_page_preview": "true"})
+
+
+def send_review(post, verdict):
+    """Rejected posts go to a private review channel so you can check the filter. Never blocks the run."""
+    if not REVIEW_CHAT:
+        return
+    note = "" if verdict.get("ai", True) else "\n(بدون هوش مصنوعی)"
+    text = f"⛔ {verdict.get('reason') or 'رد شد'}{note}\n\n{post['text'][:1500]}\n\nhttps://t.me/{SOURCE}/{post['link_id']}"
+    if DRY_RUN:
+        log(f"  [dry-run] REJECTED post {post['id']}: {verdict.get('reason')}\n    " + post["text"][:120].replace("\n", " "))
+        return
+    try:
+        tg("sendMessage", data={"chat_id": REVIEW_CHAT, "text": text, "disable_web_page_preview": "true"})
+        time.sleep(1.2)
+    except Exception as e:
+        log(f"  review channel send failed: {str(e)[:150]}")
 
 
 # -------------------------------------------------------------------- main ---
@@ -488,34 +577,44 @@ def main():
         log("No new posts.")
         return 0
 
-    # decide what is worth translating
-    to_translate = [p for p in new if p["text"] and not (SKIP_VIDEO_POSTS and p["has_video"])]
-    log(f"{len(new)} new post(s), translating {len(to_translate)}")
-    translated = translate_posts(to_translate) if to_translate else {}
+    # posts with text go through the AI filter; photos without any text cannot be judged
+    to_check = [p for p in new if p["text"] and not (SKIP_VIDEO_POSTS and p["has_video"])]
+    log(f"{len(new)} new post(s), checking {len(to_check)}")
+    verdicts = process_posts(to_check) if to_check else {}
 
-    sent = 0
+    sent = rejected = 0
     for p in new:
         pid = p["id"]
-        skip = (SKIP_VIDEO_POSTS and p["has_video"]) or (not p["text"] and not p["photos"])
+        skip = (SKIP_VIDEO_POSTS and p["has_video"]) or (not p["text"] and not (p["photos"] and PUBLISH_PHOTO_ONLY))
         if skip:
             state["last_id"] = pid
             save_state(state)
             continue
 
-        photos_only = not p["text"]
-        fa = "" if photos_only else translated.get(pid)
-        if fa is None:
-            n = state["fails"].get(str(pid), 0) + 1
-            state["fails"][str(pid)] = n
-            save_state(state)
-            if n >= MAX_FAILS:
-                log(f"post {pid}: translation failed {n} times, skipping it")
+        if not p["text"]:
+            fa = ""
+        else:
+            v = verdicts.get(pid)
+            if v is None:
+                n = state["fails"].get(str(pid), 0) + 1
+                state["fails"][str(pid)] = n
+                save_state(state)
+                if n >= MAX_FAILS:
+                    log(f"post {pid}: processing failed {n} times, skipping it")
+                    state["last_id"] = pid
+                    state["fails"].pop(str(pid), None)
+                    save_state(state)
+                    continue
+                log(f"post {pid}: processing failed ({n}/{MAX_FAILS}), will retry next run")
+                break
+            if not v["relevant"]:
+                send_review(p, v)
+                rejected += 1
                 state["last_id"] = pid
                 state["fails"].pop(str(pid), None)
                 save_state(state)
                 continue
-            log(f"post {pid}: translation failed ({n}/{MAX_FAILS}), will retry next run")
-            break
+            fa = ("🔴 " if v["urgent"] else "") + v["fa"]
         try:
             send_post(p, fa)
         except Exception as e:
@@ -536,7 +635,7 @@ def main():
         if not DRY_RUN:
             time.sleep(SEND_PAUSE)
 
-    log(f"Done. {'Previewed' if DRY_RUN else 'Sent'} {sent} post(s).")
+    log(f"Done. {'Previewed' if DRY_RUN else 'Sent'} {sent} post(s), {rejected} rejected by the filter.")
     return 0
 
 
