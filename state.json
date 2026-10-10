@@ -13,15 +13,15 @@
    "last_id": 100852
   },
   "NE_WG": {
-   "last_id": 113961
+   "last_id": 113962
   }
  },
  "fails": {
-  "NE_WG/113962": 4,
-  "khabarfouri/568907": 3,
-  "KH_B2/131165": 3,
-  "tabzlive/107489": 1,
-  "TelNews_Magazine/100853": 1
+  "khabarfouri/568907": 4,
+  "KH_B2/131165": 4,
+  "tabzlive/107489": 2,
+  "TelNews_Magazine/100853": 2,
+  "NE_WG/113963": 1
  },
  "recent": [
   {
@@ -32,6 +32,6 @@
  ],
  "usage": {
   "date": "2026-10-10",
-  "requests": 205
+  "requests": 215
  }
 }
