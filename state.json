@@ -4,24 +4,23 @@
    "last_id": 107474
   },
   "khabarfouri": {
-   "last_id": 568893
+   "last_id": 568894
   },
   "KH_B2": {
-   "last_id": 131146
+   "last_id": 131150
   },
   "TelNews_Magazine": {
-   "last_id": 100836
+   "last_id": 100840
   },
   "NE_WG": {
-   "last_id": 113949
+   "last_id": 113951
   }
  },
  "fails": {
-  "khabarfouri/568894": 4,
-  "KH_B2/131147": 4,
-  "TelNews_Magazine/100837": 4,
-  "NE_WG/113950": 4,
-  "tabzlive/107475": 2
+  "tabzlive/107475": 3,
+  "khabarfouri/568895": 1,
+  "KH_B2/131151": 1,
+  "NE_WG/113952": 1
  },
  "recent": [
   {
@@ -32,6 +31,6 @@
  ],
  "usage": {
   "date": "2026-10-10",
-  "requests": 16
+  "requests": 19
  }
 }
