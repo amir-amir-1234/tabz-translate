@@ -1,0 +1,43 @@
+name: hourly-prices
+
+# هیچ زمان‌بندی داخلی (cron) نداریم؛ cron-job.org هر ساعت این workflow را صدا می‌زند.
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "فقط چاپ کن، چیزی ارسال نشود (true/false)"
+        default: "false"
+      force:
+        description: "ساعت ۸ تا ۱ را نادیده بگیر و همین حالا اجرا کن (true/false)"
+        default: "false"
+
+concurrency:
+  group: hourly-prices
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Post prices
+        run: python prices.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TARGET_CHAT: ${{ secrets.TARGET_CHAT }}
+          CHANNEL_FOOTER: ${{ vars.CHANNEL_FOOTER }}
+          DRY_RUN: ${{ inputs.dry_run }}
+          FORCE: ${{ inputs.force }}
