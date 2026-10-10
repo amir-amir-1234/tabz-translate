@@ -1,0 +1,38 @@
+# موضوع‌ها و افراد کانال. هر خط یک مورد. این فایل را می‌توانی بدون تغییر در کد ویرایش کنی.
+# خط‌هایی که با # شروع می‌شوند نادیده گرفته می‌شوند. این متن مستقیم به هوش مصنوعی داده می‌شود.
+
+== TOPICS ==
+- The Iran war and Iran-Israel conflict; Israel-Iran strikes; US-Iran confrontation and any US/Israeli military action involving Iran
+- Saudi-Houthi conflict, Houthis/Ansarallah attacks, Red Sea and Bab el-Mandeb shipping
+- Hezbollah and Lebanon; Hamas, Gaza and Palestinian territories
+- Strait of Hormuz: closures, tanker attacks, shipping, insurance
+- US Treasury / OFAC sanctions (especially Iran, oil, shipping, banks), sanctions relief or snapback
+- Mediation and negotiations by Turkey, Pakistan, Qatar, Egypt, Oman or anyone else; every negotiation news item (US-Iran, Israel-Hamas, Russia-Ukraine)
+- US midterm elections; Israeli elections
+- Iran-related economic news: rial and dollar rate, Iranian economy, oil exports, central bank, budget, inflation, Iranian stock market
+- Statements by Iranian MPs and any Iranian official
+- ANY country or government speaking about Iran
+- Russia-Ukraine war: only important economic or geographic developments (front-line changes, strikes on energy infrastructure, sanctions, oil price cap, grain, gas) plus ALL negotiation news
+- Oil and energy markets: OPEC and OPEC+ decisions, Saudi production, oil price moves, gas, tankers
+- Markets that matter to Iranian traders: US dollar, gold, Federal Reserve and interest rates, US tariffs, major sanctions
+- Nuclear programme: enrichment, IAEA inspections, snapback of UN sanctions
+- AI news (broad category: publish every genuine AI news item): new models, regulation, big deals, chips and export controls, major company moves (OpenAI, Google, Anthropic, Nvidia, Meta, Microsoft, xAI, DeepSeek)
+- Important world news (broad category: publish every genuine important world event): disease outbreaks such as a new plague or pandemic warnings, WHO alerts, major natural disasters, major accidents, coups, big terror attacks, events that move markets
+- China and Taiwan only when linked to Iran, oil, sanctions or the war
+
+== PEOPLE (any statement by or about them; also match their titles) ==
+- Donald Trump and his advisors; Steve Witkoff; Jared Kushner
+- Marco Rubio (Secretary of State) and his advisors
+- Pete Hegseth (Defense Secretary) and his advisors; key US military commanders; the CENTCOM commander
+- US Treasury Secretary; US Energy Secretary; US ambassador to the UN; key pro-Trump senators
+- Benjamin Netanyahu; Israeli military commanders and other important Israeli figures
+- Masoud Pezeshkian; Ali Khamenei; Abdolnaser Hemmati (head of the Central Bank of Iran); Madanizadeh (Iran's economy minister); Iranian military commanders; Mohsen Rezaei; Abbas Araghchi; head of the Atomic Energy Organization of Iran (AEOI); Iranian MPs
+- UK Prime Minister; Emmanuel Macron; Rafael Grossi (IAEA); the UN Secretary-General
+- Vladimir Putin, Sergey Lavrov, Dmitry Peskov, Volodymyr Zelensky and the Russian and Ukrainian negotiators
+- Saudi crown prince, the Emir of Qatar, Erdogan, foreign ministers of Turkey, Pakistan, Qatar and Egypt, Houthi and Hezbollah leaders
+- Federal Reserve chair
+- Statements by these people count when they talk about the Iran/Israel war, Saudi-Houthi, Hezbollah, Hamas, sanctions, Hormuz, mediation, negotiations, elections or Iran's economy; when in doubt, publish.
+
+== NOT RELEVANT ==
+- Channel advertisements, promotions, giveaways, sponsored posts, memes, celebrity/entertainment and sports news
+- Local crime or conflicts in countries unrelated to the topics above (for example Myanmar) unless they affect oil, sanctions or the Iran war
