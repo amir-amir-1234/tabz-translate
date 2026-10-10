@@ -1,27 +1,32 @@
 #!/usr/bin/env python3
 """
-Telegram channel translator (EN -> FA), designed to run on GitHub Actions.
+Telegram news aggregator (public channels -> your channel), designed to run on GitHub Actions.
 
 Flow per run:
-  1. Read the public web preview of the source channel (https://t.me/s/<channel>)
-  2. Find posts newer than the last processed one (state.json)
-  3. AI topic filter + translation in ONE Gemini request (free tier), falling back to the next model,
-     then to keyword matching + Google Translate when no AI answer is available
-  4. Post relevant items to your channel with the official Bot API (text, or photos + caption);
-     rejected items (with a one-line reason) go to an optional private review channel
+  1. Read the public web preview (https://t.me/s/<channel>) of every source in sources.txt
+  2. Collect posts newer than the last processed one per channel (state.json), oldest first
+  3. Clean them (handles, t.me links, hashtags), drop near-identical repeats with a free text check
+  4. ONE Gemini request per batch does: topic filter + duplicate check against recently published news
+     + urgency + English->Persian translation (Persian posts are only cleaned, never translated).
+     Falls back to the next Gemini model, then to keywords (+ Google Translate) when no AI answer exists
+  5. Post relevant items with the official Bot API (text, or photos + caption); rejected items and
+     duplicates (with a one-line reason) go to an optional private review channel
 
 No personal Telegram account is used anywhere.
 """
+import difflib
 import io
 import json
 import os
 import re
 import sys
 import time
+from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
+
 
 # ----------------------------------------------------------------- config ---
 def env(name, default=""):
@@ -33,14 +38,15 @@ def env_bool(name, default=False):
     return env(name, "true" if default else "false").lower() in ("1", "true", "yes", "on")
 
 
-SOURCE = env("SOURCE_CHANNEL", "tabzlive").lstrip("@")
+LEGACY_CHANNEL = env("SOURCE_CHANNEL", "tabzlive").lstrip("@")   # owner of an old single-channel state.json
 BOT_TOKEN = env("TELEGRAM_BOT_TOKEN")
 TARGET = env("TARGET_CHAT")                       # @my_channel or -100123456789
 GEMINI_KEY = env("GEMINI_API_KEY")                # optional
 GEMINI_MODELS = [m.strip() for m in env("GEMINI_MODELS", "gemini-3.5-flash-lite,gemini-3.1-flash-lite").split(",") if m.strip()]
 DRY_RUN = env_bool("DRY_RUN", False)
-INITIAL_BACKFILL = int(env("INITIAL_BACKFILL", "0"))   # posts to publish on the very first run
-MAX_POSTS_PER_RUN = int(env("MAX_POSTS_PER_RUN", "40"))
+VERBOSE_LOG = env_bool("VERBOSE_LOG", False)      # public repos: logs are public, so channel names are hidden unless on
+INITIAL_BACKFILL = int(env("INITIAL_BACKFILL", "0"))   # posts to publish on the very first run of a channel
+MAX_POSTS_PER_RUN = int(env("MAX_POSTS_PER_RUN", "80"))
 MAX_PAGES = int(env("MAX_PAGES", "4"))
 ADD_SOURCE_LINK = env_bool("ADD_SOURCE_LINK", False)   # off: no source line under posts
 # Text added at the very end of every post, e.g. "@my_channel". Defaults to TARGET_CHAT when that is an @username.
@@ -48,23 +54,58 @@ FOOTER = env("CHANNEL_FOOTER", TARGET if TARGET.startswith("@") else "")
 SKIP_VIDEO_POSTS = env_bool("SKIP_VIDEO_POSTS", False)  # True: skip posts that contain a video entirely
 REVIEW_CHAT = env("REVIEW_CHAT")                  # optional private channel/chat that receives rejected posts
 PUBLISH_PHOTO_ONLY = env_bool("PUBLISH_PHOTO_ONLY", False)  # photos without any text cannot be judged -> skipped by default
-TOPICS_FILE = Path(env("TOPICS_FILE", "topics.txt"))
-KEYWORDS_FILE = Path(env("KEYWORDS_FILE", "keywords.txt"))
 SEND_PAUSE = float(env("SEND_PAUSE", "3"))
 
-BATCH_SIZE = 8            # posts per Gemini request
-BATCH_CHARS = 6000        # max characters per Gemini request
-MAX_FAILS = 5             # after this many failed runs a post is skipped
+TOPICS_FILE = Path(env("TOPICS_FILE", "topics.txt"))
+KEYWORDS_FILE = Path(env("KEYWORDS_FILE", "keywords.txt"))
+SOURCES_FILE = Path(env("SOURCES_FILE", "sources.txt"))
 STATE_FILE = Path(env("STATE_FILE", "state.json"))
 GLOSSARY_FILE = Path(env("GLOSSARY_FILE", "glossary.txt"))
 
-UA = {"User-Agent": "Mozilla/5.0 (compatible; ChannelTranslator/1.0)"}
+BATCH_SIZE = 12           # posts per Gemini request
+BATCH_CHARS = 9000        # max characters per Gemini request
+MAX_FAILS = 5             # after this many failed runs a post is skipped
+RECENT_KEEP = 60          # published items remembered for duplicate detection
+RECENT_HOURS = 12
+RECENT_IN_PROMPT = 40     # how many of them the AI sees
+NEAR_DUP = 0.88           # text similarity that counts as "the same post"
+
+UA = {"User-Agent": "Mozilla/5.0 (compatible; ChannelAggregator/1.0)"}
 PERSIAN_RE = re.compile(r"[؀-ۿ]")
 LETTER_RE = re.compile(r"[A-Za-z]")
 
 
 def log(*a):
     print(*a, flush=True)
+
+
+# ------------------------------------------------------------ config files ---
+def load_lines(env_name, path):
+    """Lines from an environment variable (if set) or from a file; blanks and # comments removed."""
+    raw = env(env_name)
+    if raw:
+        lines = raw.replace("\\n", "\n").splitlines()
+    else:
+        try:
+            lines = path.read_text(encoding="utf-8").splitlines()
+        except Exception:
+            lines = []
+    lines = [l.rstrip() for l in lines]
+    return [l for l in lines if l.strip() and not l.lstrip().startswith("#")]
+
+
+def load_sources():
+    out = []
+    for l in load_lines("SOURCE_CHANNELS", SOURCES_FILE):
+        for part in re.split(r"[,\s]+", l.strip()):
+            part = re.sub(r"^(?:https?://)?(?:t\.me/)?(?:s/)?@?", "", part).strip("/")
+            if part and part not in out:
+                out.append(part)
+    return out or [LEGACY_CHANNEL]
+
+
+def load_glossary():
+    return [l.strip() for l in load_lines("GLOSSARY_TEXT", GLOSSARY_FILE) if "=" in l]
 
 
 # ------------------------------------------------------------------ state ---
@@ -75,20 +116,25 @@ def load_state():
             raise ValueError
     except Exception:
         data = {}
-    data.setdefault("last_id", None)
-    data.setdefault("fails", {})
-    return data
+    chans = data.get("channels")
+    if not isinstance(chans, dict):          # old single-channel format
+        chans = {}
+        if data.get("last_id") is not None:
+            chans[LEGACY_CHANNEL] = {"last_id": data["last_id"]}
+    fails = {k: v for k, v in (data.get("fails") or {}).items() if "/" in k}
+    return {"channels": chans, "fails": fails,
+            "recent": list(data.get("recent") or []), "usage": dict(data.get("usage") or {})}
 
 
 def save_state(state):
     if DRY_RUN:
         return
-    STATE_FILE.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
+    STATE_FILE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
 # ---------------------------------------------------------------- scraping ---
-def fetch_page(before=None):
-    url = f"https://t.me/s/{SOURCE}" + (f"?before={before}" if before else "")
+def fetch_page(channel, before=None):
+    url = f"https://t.me/s/{channel}" + (f"?before={before}" if before else "")
     r = requests.get(url, headers=UA, timeout=30)
     r.raise_for_status()
     return BeautifulSoup(r.text, "html.parser")
@@ -118,7 +164,7 @@ def extract_text(node):
     return txt.strip()
 
 
-def parse_messages(soup):
+def parse_messages(soup, channel=""):
     """Return {id: post} for every message found on a preview page."""
     out = {}
     for w in soup.select("div.tgme_widget_message[data-post]"):
@@ -150,19 +196,27 @@ def parse_messages(soup):
                       if not d.find_parent(class_="tgme_widget_message_reply")]
         text = extract_text(text_nodes[0]) if text_nodes else ""
 
+        ts = 0.0
+        t = w.select_one("a.tgme_widget_message_date time[datetime]")
+        if t:
+            try:
+                ts = datetime.fromisoformat(t["datetime"]).timestamp()
+            except (ValueError, KeyError):
+                ts = 0.0
+
         pid = max(ids)
-        out[pid] = {"id": pid, "link_id": main_id, "text": text,
-                    "photos": photos[:10], "has_video": has_video}
+        out[pid] = {"id": pid, "link_id": main_id, "text": text, "photos": photos[:10],
+                    "has_video": has_video, "channel": channel, "ts": ts}
     return out
 
 
-def collect_posts(last_id):
+def collect_posts(channel, last_id):
     posts = {}
-    page = parse_messages(fetch_page())
+    page = parse_messages(fetch_page(channel), channel)
     posts.update(page)
     pages = 1
     while last_id is not None and page and pages < MAX_PAGES and min(page) > last_id + 1:
-        page = parse_messages(fetch_page(before=min(page)))
+        page = parse_messages(fetch_page(channel, before=min(page)), channel)
         if not page:
             break
         posts.update(page)
@@ -170,20 +224,59 @@ def collect_posts(last_id):
     return posts
 
 
-# ------------------------------------------------------------ translation ---
-def load_glossary():
-    try:
-        lines = [l.strip() for l in GLOSSARY_FILE.read_text(encoding="utf-8").splitlines()]
-        return [l for l in lines if l and not l.startswith("#") and "=" in l]
-    except Exception:
-        return []
+# --------------------------------------------------------------- cleaning ---
+URL_TME_RE = re.compile(r"(?:https?://)?(?:www\.)?(?:t|telegram)\.me/\S*", re.I)
+HANDLE_RE = re.compile(r"(?<![\w.])@[A-Za-z][A-Za-z0-9_]{3,}")
+HASHTAG_RE = re.compile(r"(?<!\w)#[\w‌]+")
+LEAD_DECOR_RE = re.compile("^[ \t]*(?:[\U0001F53A\U0001F53B\U0001F539\U0001F538▪◾◽][️]?[ \t]*)+")
 
 
+def is_persian(text):
+    return len(PERSIAN_RE.findall(text)) > len(LETTER_RE.findall(text))
+
+
+def clean_text(text, strip_decor=False):
+    """Remove channel handles, t.me links and hashtags. A line that held nothing else disappears."""
+    out = []
+    for line in text.splitlines():
+        new = URL_TME_RE.sub("", line)
+        new = HANDLE_RE.sub("", new)
+        new = HASHTAG_RE.sub("", new)
+        if strip_decor:
+            new = LEAD_DECOR_RE.sub("", new)
+        if line.strip() and new != line and not re.sub(r"[\W_]+", "", new):
+            continue                      # the line was only a credit / tag / link
+        out.append(re.sub(r"[ \t]{2,}", " ", new).rstrip())
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(out)).strip()
+
+
+def norm(text):
+    t = URL_TME_RE.sub(" ", text)
+    t = re.sub(r"https?://\S+", " ", t)
+    t = HANDLE_RE.sub(" ", t)
+    t = HASHTAG_RE.sub(" ", t)
+    t = t.lower().replace("ي", "ی").replace("ك", "ک").replace("‌", " ")
+    t = re.sub(r"[^\w\s]|_", " ", t)
+    return re.sub(r"\s+", " ", t).strip()[:400]
+
+
+def near_dup(a, b):
+    if not a or not b:
+        return False
+    if a == b:
+        return True
+    if len(a) < 25 or len(b) < 25:
+        return False
+    return difflib.SequenceMatcher(None, a, b).ratio() >= NEAR_DUP
+
+
+# ----------------------------------------------------------- AI processing ---
 SYSTEM_PROMPT = """You are the editor and translator of a Persian (Farsi) Telegram news channel about wars, geopolitics, Iran, the Middle East, US/Europe foreign policy, and markets.
 
-You receive a JSON array: [{"id": <number>, "text": "<post text>"}].
-Return a JSON array with exactly one entry per input item:
-{"id": <same number>, "relevant": true|false, "urgent": true|false, "reason": "<one short Persian sentence>", "fa": "<Persian translation, or empty string>"}
+Input is a JSON object: {"recent": [{"ref": "R1", "fa": "<Persian text already published>"}], "items": [{"id": <number>, "text": "<post text>"}]}
+"recent" is what the channel published in the last hours. "items" are new posts, oldest first.
+Return a JSON array with exactly one entry per item:
+{"id": <same number>, "relevant": true|false, "urgent": true|false, "duplicate_of": "<ref or item id or empty>", "update": true|false, "reason": "<one short Persian sentence>", "fa": "<Persian translation, or empty string>"}
 
 STEP 1 - relevance. Decide with the TOPICS list below.
 - relevant=true when the post is about (or quotes) anything in the list. When unsure, choose true: missing important news is worse than publishing a borderline item.
@@ -191,32 +284,30 @@ STEP 1 - relevance. Decide with the TOPICS list below.
 - relevant=false for advertisements, channel promotion, giveaways, memes, entertainment and sports, and anything clearly outside the list.
 - "reason": one short Persian sentence. For rejected items say why; for accepted items name the matching topic.
 
-STEP 2 - urgent. urgent=true ONLY for genuinely breaking items about Iran, Israel, the US military, sanctions or negotiations: a new strike or attack, a new sanctions decision, a deal announced or talks collapsing, or a direct statement by a top leader. Everything else (including AI and general world news) is urgent=false.
+STEP 2 - duplicates (only for relevant items).
+- If the item reports the SAME event or the SAME statement as a "recent" entry, set duplicate_of to its ref (for example "R3"). If it repeats an EARLIER item of this same list, set duplicate_of to that item's id as a string (for example "2"). Otherwise leave duplicate_of empty.
+- If it is the same story but adds genuinely new facts or numbers (new casualty count, new detail, new official reaction to the same fact), keep duplicate_of and set update=true.
+- A DIFFERENT person or country commenting on the same event is NOT a duplicate: their own statement must be covered, so leave duplicate_of empty.
+- Same news from another outlet with identical facts is a duplicate (update=false).
 
-STEP 3 - translation, only when relevant=true (otherwise "fa" is an empty string):
-- Translate faithfully into fluent, natural, formal news Persian. Do not add, remove, summarize, soften, or comment on anything.
+STEP 3 - urgent. urgent=true ONLY for genuinely breaking items about Iran, Israel, the US military, sanctions or negotiations: a new strike or attack, a new sanctions decision, a deal announced or talks collapsing, or a direct statement by a top leader. Everything else (including AI and general world news) is urgent=false.
+
+STEP 4 - translation, only when relevant=true (otherwise "fa" is an empty string):
+- If the item is already Persian, set "fa" to an empty string; the system publishes the original text.
+- Otherwise translate faithfully into fluent, natural, formal news Persian. Do not add, remove, summarize, soften, or comment on anything.
 - Do NOT censor or refuse: translate violent, military and political content exactly as written.
 - Keep all emoji and flag symbols exactly as they appear, in the same positions.
-- Keep numbers, dates, units, URLs, @usernames and hashtags unchanged.
+- Keep numbers, dates, units and URLs unchanged.
 - Write person, place and organization names in their standard Persian spelling, fully in Persian script. Never attach Latin letters to Persian letters inside one word (for example Ansarallah or Ansar Allah must become انصارالله, never انصارallah).
 - Keep the original line breaks and paragraph structure.
 - Quoted speech stays quoted. Keep the speaker attribution.
-- If an item is already Persian, return it unchanged.
-- Do not put any emoji or label for urgency yourself; the system adds it.
+- Do not add any emoji or label for urgency or updates yourself; the system adds them.
 - Output only the JSON array, nothing else."""
-
-
-def load_text_file(path):
-    try:
-        lines = [l.rstrip() for l in path.read_text(encoding="utf-8").splitlines()]
-        return [l for l in lines if l.strip() and not l.lstrip().startswith("#")]
-    except Exception:
-        return []
 
 
 def build_system_prompt():
     prompt = SYSTEM_PROMPT
-    topics = load_text_file(TOPICS_FILE)
+    topics = load_lines("TOPICS_TEXT", TOPICS_FILE)
     if topics:
         prompt += "\n\nTOPICS (what the channel covers):\n" + "\n".join(topics)
     g = load_glossary()
@@ -226,7 +317,7 @@ def build_system_prompt():
 
 
 def load_keywords():
-    kws = [l.strip().lower() for l in load_text_file(KEYWORDS_FILE)]
+    kws = [l.strip().lower() for l in load_lines("KEYWORDS_TEXT", KEYWORDS_FILE)]
     ascii_kw = [re.compile(r"\b" + re.escape(k) + r"\b") for k in kws if k.isascii()]
     other_kw = [k for k in kws if not k.isascii()]
     return ascii_kw, other_kw
@@ -248,19 +339,24 @@ GEMINI_SCHEMA = {
     "items": {
         "type": "OBJECT",
         "properties": {"id": {"type": "INTEGER"}, "relevant": {"type": "BOOLEAN"},
-                       "urgent": {"type": "BOOLEAN"}, "reason": {"type": "STRING"},
+                       "urgent": {"type": "BOOLEAN"}, "duplicate_of": {"type": "STRING"},
+                       "update": {"type": "BOOLEAN"}, "reason": {"type": "STRING"},
                        "fa": {"type": "STRING"}},
-        "required": ["id", "relevant", "urgent", "reason", "fa"],
+        "required": ["id", "relevant", "urgent", "duplicate_of", "update", "reason", "fa"],
     },
 }
 
+REQ_COUNT = 0        # Gemini HTTP requests made in this run
 
-def gemini_filter(model, items, system_prompt):
-    """-> {id: {'relevant': bool, 'urgent': bool, 'reason': str, 'fa': str}}"""
+
+def gemini_filter(model, items, recent, system_prompt):
+    """-> {id: {'relevant','urgent','duplicate_of','update','reason','fa'}}"""
+    global REQ_COUNT
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+    payload = {"recent": recent, "items": items}
     body = {
         "systemInstruction": {"parts": [{"text": system_prompt}]},
-        "contents": [{"role": "user", "parts": [{"text": json.dumps(items, ensure_ascii=False)}]}],
+        "contents": [{"role": "user", "parts": [{"text": json.dumps(payload, ensure_ascii=False)}]}],
         "generationConfig": {
             "temperature": 0.2,
             "responseMimeType": "application/json",
@@ -270,6 +366,7 @@ def gemini_filter(model, items, system_prompt):
     headers = {"x-goog-api-key": GEMINI_KEY, "Content-Type": "application/json"}
     last_err = None
     for attempt in range(3):
+        REQ_COUNT += 1
         try:
             r = requests.post(url, headers=headers, json=body, timeout=90)
         except requests.RequestException as e:
@@ -297,7 +394,11 @@ def gemini_filter(model, items, system_prompt):
         out = {}
         for x in arr:
             try:
+                dup = str(x.get("duplicate_of") or "").strip()
+                if dup.lower() in ("none", "null", "-", "no"):
+                    dup = ""
                 out[int(x["id"])] = {"relevant": bool(x.get("relevant")), "urgent": bool(x.get("urgent")),
+                                     "duplicate_of": dup, "update": bool(x.get("update")),
                                      "reason": str(x.get("reason", "")).strip(),
                                      "fa": str(x.get("fa", "")).strip()}
             except (KeyError, TypeError, ValueError):
@@ -365,13 +466,16 @@ def make_batches(posts):
     return batches
 
 
-def process_posts(posts):
-    """posts: list of {'id','text'} -> {id: {'relevant','urgent','reason','fa','ai'}}.
-    Missing ids = nothing worked (will be retried on the next run)."""
+def process_posts(posts, recent=None):
+    """posts: list of {'id','text'} (text already cleaned); recent: [{'ref','fa'}].
+    -> {id: {'relevant','urgent','duplicate_of','update','reason','fa','ai'}}.
+    Missing ids = nothing worked (they are retried on the next run)."""
     result = {}
+    recent = recent or []
     system_prompt = build_system_prompt()
     kws = load_keywords()
     dead = set()      # models that hit quota/auth problems during this run
+    fa_ids = {p["id"] for p in posts if is_persian(p["text"])}
 
     def try_models(need):
         for model in GEMINI_MODELS:
@@ -380,7 +484,7 @@ def process_posts(posts):
             if model in dead:
                 continue
             try:
-                got = gemini_filter(model, [{"id": i, "text": t} for i, t in need.items()], system_prompt)
+                got = gemini_filter(model, [{"id": i, "text": t} for i, t in need.items()], recent, system_prompt)
             except QuotaError as e:
                 log("  quota:", e)
                 dead.add(model)
@@ -396,6 +500,9 @@ def process_posts(posts):
                 if not v["relevant"]:
                     result[i] = {**v, "fa": "", "ai": True}
                     del need[i]
+                elif i in fa_ids:                      # Persian: publish the cleaned original
+                    result[i] = {**v, "fa": need[i], "ai": True}
+                    del need[i]
                 elif looks_ok(need[i], v["fa"]):
                     result[i] = {**v, "ai": True}
                     del need[i]
@@ -410,23 +517,26 @@ def process_posts(posts):
                     try_models({i: need[i]})
                     if i in result:
                         need.pop(i, None)
-        # no AI answer: keyword match decides, Google Translate translates
+        # no AI answer: keyword match decides, Google Translate translates (Persian is published as is)
         for i, t in list(need.items()):
             if i in result:
                 continue
+            base = {"relevant": True, "urgent": False, "duplicate_of": "", "update": False, "ai": False}
             if not keyword_match(t, kws):
-                result[i] = {"relevant": False, "urgent": False, "fa": "", "ai": False,
+                result[i] = {**base, "relevant": False, "fa": "",
                              "reason": "هوش مصنوعی در دسترس نبود و کلیدواژه‌ای پیدا نشد"}
+                continue
+            if i in fa_ids:
+                result[i] = {**base, "fa": t, "reason": "بدون هوش مصنوعی (کلیدواژه)"}
                 continue
             try:
                 fa = google_translate(t)
                 if looks_ok(t, fa):
-                    result[i] = {"relevant": True, "urgent": False, "fa": fa, "ai": False,
-                                 "reason": "بدون هوش مصنوعی (کلیدواژه)"}
+                    result[i] = {**base, "fa": fa, "reason": "بدون هوش مصنوعی (کلیدواژه)"}
                 else:
-                    log(f"  post {i}: google translate output rejected")
+                    log(f"  item {i}: google translate output rejected")
             except Exception as e:
-                log(f"  post {i}: google translate failed: {str(e)[:200]}")
+                log(f"  item {i}: google translate failed: {str(e)[:200]}")
     return result
 
 
@@ -483,7 +593,7 @@ def send_post(post, fa_text):
     if fa_text:
         parts.append(fa_text)
     if ADD_SOURCE_LINK:
-        parts.append(f"📎 منبع: https://t.me/{SOURCE}/{post['link_id']}")
+        parts.append(f"📎 منبع: https://t.me/{post.get('channel', LEGACY_CHANNEL)}/{post['link_id']}")
     if FOOTER:
         parts.append(FOOTER)
     text = "\n\n".join(parts)
@@ -528,7 +638,8 @@ def send_review(post, verdict):
     if not REVIEW_CHAT:
         return
     note = "" if verdict.get("ai", True) else "\n(بدون هوش مصنوعی)"
-    text = f"⛔ {verdict.get('reason') or 'رد شد'}{note}\n\n{post['text'][:1500]}\n\nhttps://t.me/{SOURCE}/{post['link_id']}"
+    src = f"https://t.me/{post.get('channel', LEGACY_CHANNEL)}/{post['link_id']}"
+    text = f"⛔ {verdict.get('reason') or 'رد شد'}{note}\n\n{post['text'][:1500]}\n\n{src}"
     if DRY_RUN:
         log(f"  [dry-run] REJECTED post {post['id']}: {verdict.get('reason')}\n    " + post["text"][:120].replace("\n", " "))
         return
@@ -539,6 +650,19 @@ def send_review(post, verdict):
         log(f"  review channel send failed: {str(e)[:150]}")
 
 
+# ------------------------------------------------------------ recent items ---
+def prune_recent(state, now=None):
+    now = now or time.time()
+    state["recent"] = [r for r in state["recent"]
+                       if isinstance(r, dict) and r.get("t", 0) >= now - RECENT_HOURS * 3600][-RECENT_KEEP:]
+
+
+def add_recent(state, post, cleaned, fa_text):
+    snippet = re.sub(r"\s+", " ", fa_text).strip()[:160]
+    state["recent"].append({"t": post.get("ts") or time.time(), "n": norm(cleaned), "fa": snippet})
+    state["recent"] = state["recent"][-RECENT_KEEP:]
+
+
 # -------------------------------------------------------------------- main ---
 def main():
     if not DRY_RUN and (not BOT_TOKEN or not TARGET):
@@ -547,94 +671,155 @@ def main():
     if GEMINI_KEY:
         log("Gemini key found; models:", ", ".join(GEMINI_MODELS))
     else:
-        log("No Gemini key: using Google Translate only.")
+        log("No Gemini key: keywords + Google Translate only.")
 
+    sources = load_sources()
     state = load_state()
-    last_id = state["last_id"]
+    prune_recent(state)
 
-    try:
-        posts = collect_posts(last_id)
-    except Exception as e:
-        log("ERROR: could not read the source channel:", str(e)[:200])
-        return 1
-    if not posts:
-        log("ERROR: no posts found on the preview page (channel private, or preview disabled?).")
-        return 1
-    ids = sorted(posts)
-    log(f"Fetched {len(ids)} posts (ids {ids[0]}..{ids[-1]}), last processed: {last_id}")
+    def tag(ch):
+        return ch if (DRY_RUN or VERBOSE_LOG) else f"#{sources.index(ch) + 1}"
 
-    if last_id is None:
-        if INITIAL_BACKFILL > 0:
-            last_id = ids[-INITIAL_BACKFILL - 1] if len(ids) > INITIAL_BACKFILL else ids[0] - 1
-        else:
-            state["last_id"] = ids[-1]
-            save_state(state)
-            log(f"First run: starting from post {ids[-1]}; nothing published. New posts will be copied from now on.")
-            return 0
+    # 1. collect new posts from every source
+    all_new = []
+    for ch in sources:
+        cs = state["channels"].setdefault(ch, {"last_id": None})
+        try:
+            posts = collect_posts(ch, cs.get("last_id"))
+        except Exception as e:
+            log(f"[{tag(ch)}] cannot read channel: {str(e)[:150]}")
+            continue
+        if not posts:
+            log(f"[{tag(ch)}] no posts found on the preview page (private channel, or preview disabled?)")
+            continue
+        ids = sorted(posts)
+        last = cs.get("last_id")
+        if last is None:
+            if INITIAL_BACKFILL > 0:
+                last = ids[-INITIAL_BACKFILL - 1] if len(ids) > INITIAL_BACKFILL else ids[0] - 1
+            else:
+                cs["last_id"] = ids[-1]
+                log(f"[{tag(ch)}] first run: starting from post {ids[-1]}; nothing published from the past.")
+                continue
+        new = [posts[i] for i in ids if i > last]
+        log(f"[{tag(ch)}] {len(new)} new post(s)")
+        all_new.extend(new)
+    save_state(state)
 
-    new = [posts[i] for i in ids if i > last_id][:MAX_POSTS_PER_RUN]
-    if not new:
+    if not all_new:
         log("No new posts.")
         return 0
+    all_new.sort(key=lambda p: (p.get("ts", 0), p["channel"], p["id"]))
+    all_new = all_new[:MAX_POSTS_PER_RUN]
 
-    # posts with text go through the AI filter; photos without any text cannot be judged
-    to_check = [p for p in new if p["text"] and not (SKIP_VIDEO_POSTS and p["has_video"])]
-    log(f"{len(new)} new post(s), checking {len(to_check)}")
-    verdicts = process_posts(to_check) if to_check else {}
+    # 2. clean, free duplicate check, collect what the AI must judge
+    recent_norms = [r.get("n", "") for r in state["recent"]]
+    run_norms, entries, to_check = [], [], []
+    for p in all_new:
+        e = {"post": p, "kind": "check", "cleaned": ""}
+        entries.append(e)
+        if SKIP_VIDEO_POSTS and p["has_video"]:
+            e["kind"] = "skip"
+        elif not p["text"]:
+            e["kind"] = "photo" if (p["photos"] and PUBLISH_PHOTO_ONLY) else "skip"
+        else:
+            cleaned = clean_text(p["text"], strip_decor=is_persian(p["text"]))
+            e["cleaned"] = cleaned
+            n = norm(cleaned)
+            if not cleaned.strip():
+                e["kind"] = "skip"
+            elif any(near_dup(n, r) for r in recent_norms + run_norms):
+                e["kind"] = "dup_text"
+            else:
+                run_norms.append(n)
+                e["idx"] = len(to_check) + 1
+                to_check.append({"id": e["idx"], "text": cleaned})
 
+    recent_prompt = [{"ref": f"R{k}", "fa": r.get("fa", "")}
+                     for k, r in enumerate(state["recent"][-RECENT_IN_PROMPT:], 1)]
+    recent_refs = {x["ref"] for x in recent_prompt}
+    log(f"{len(all_new)} post(s) to handle, {len(to_check)} go to the AI filter")
+    verdicts = process_posts(to_check, recent_prompt) if to_check else {}
+    if GEMINI_KEY:
+        today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        if state["usage"].get("date") != today:
+            state["usage"] = {"date": today, "requests": 0}
+        state["usage"]["requests"] = state["usage"].get("requests", 0) + REQ_COUNT
+        log(f"Gemini requests: {REQ_COUNT} this run, {state['usage']['requests']} today (UTC)")
+
+    # 3. decide, publish, remember
     sent = rejected = 0
-    for p in new:
-        pid = p["id"]
-        skip = (SKIP_VIDEO_POSTS and p["has_video"]) or (not p["text"] and not (p["photos"] and PUBLISH_PHOTO_ONLY))
-        if skip:
-            state["last_id"] = pid
+    published_idx = set()
+    blocked = set()
+    for e in entries:
+        p, ch = e["post"], e["post"]["channel"]
+        if ch in blocked:
+            continue
+        cs = state["channels"][ch]
+        key = f"{ch}/{p['id']}"
+
+        def advance():
+            cs["last_id"] = p["id"]
+            state["fails"].pop(key, None)
             save_state(state)
+
+        def fail(what):
+            n = state["fails"].get(key, 0) + 1
+            state["fails"][key] = n
+            if n >= MAX_FAILS:
+                log(f"[{tag(ch)}] post {p['id']}: {what} failed {n} times, skipping it")
+                advance()
+            else:
+                log(f"[{tag(ch)}] post {p['id']}: {what} failed ({n}/{MAX_FAILS}), will retry next run")
+                blocked.add(ch)
+                save_state(state)
+
+        if e["kind"] == "skip":
+            advance()
+            continue
+        if e["kind"] == "dup_text":
+            send_review(p, {"reason": "تکراری (متن مشابه)", "ai": True})
+            rejected += 1
+            advance()
             continue
 
-        if not p["text"]:
+        if e["kind"] == "photo":
             fa = ""
         else:
-            v = verdicts.get(pid)
+            v = verdicts.get(e["idx"])
             if v is None:
-                n = state["fails"].get(str(pid), 0) + 1
-                state["fails"][str(pid)] = n
-                save_state(state)
-                if n >= MAX_FAILS:
-                    log(f"post {pid}: processing failed {n} times, skipping it")
-                    state["last_id"] = pid
-                    state["fails"].pop(str(pid), None)
-                    save_state(state)
-                    continue
-                log(f"post {pid}: processing failed ({n}/{MAX_FAILS}), will retry next run")
-                break
+                fail("processing")
+                continue
             if not v["relevant"]:
                 send_review(p, v)
                 rejected += 1
-                state["last_id"] = pid
-                state["fails"].pop(str(pid), None)
-                save_state(state)
+                advance()
                 continue
-            fa = ("🔴 " if v["urgent"] else "") + v["fa"]
+            dup = v.get("duplicate_of", "")
+            valid_dup = bool(dup) and (dup in recent_refs or (dup.isdigit() and int(dup) in published_idx))
+            if valid_dup and not v.get("update"):
+                send_review(p, {**v, "reason": f"تکراری: {v.get('reason', '')}"})
+                rejected += 1
+                advance()
+                continue
+            prefix = ("🔴 " if v["urgent"] else "") + ("🔄 به‌روزرسانی\n" if valid_dup and v.get("update") else "")
+            fa = prefix + v["fa"]
+
         try:
             send_post(p, fa)
-        except Exception as e:
-            n = state["fails"].get(str(pid), 0) + 1
-            state["fails"][str(pid)] = n
-            log(f"post {pid}: send failed ({n}/{MAX_FAILS}): {str(e)[:200]}")
-            if n >= MAX_FAILS:
-                state["last_id"] = pid
-                state["fails"].pop(str(pid), None)
-            save_state(state)
-            if n < MAX_FAILS:
-                break
+        except Exception as ex:
+            log(f"[{tag(ch)}] post {p['id']}: send error: {str(ex)[:200]}")
+            fail("sending")
             continue
         sent += 1
-        state["last_id"] = pid
-        state["fails"].pop(str(pid), None)
-        save_state(state)
+        if e["kind"] == "check":
+            published_idx.add(e["idx"])
+            add_recent(state, p, e["cleaned"], fa)
+        advance()
         if not DRY_RUN:
             time.sleep(SEND_PAUSE)
 
+    save_state(state)
     log(f"Done. {'Previewed' if DRY_RUN else 'Sent'} {sent} post(s), {rejected} rejected by the filter.")
     return 0
 
