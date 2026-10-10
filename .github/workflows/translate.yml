@@ -41,9 +41,10 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TARGET_CHAT: ${{ secrets.TARGET_CHAT }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CHANNEL_FOOTER: ${{ vars.CHANNEL_FOOTER }}
+          REVIEW_CHAT: ${{ secrets.REVIEW_CHAT }}
           DRY_RUN: ${{ inputs.dry_run }}
           INITIAL_BACKFILL: ${{ inputs.backfill }}
-          ADD_SOURCE_LINK: "false"
 
       - name: Save state
         run: |
