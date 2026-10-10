@@ -17,11 +17,11 @@
   }
  },
  "fails": {
-  "khabarfouri/568895": 3,
-  "KH_B2/131151": 3,
-  "NE_WG/113952": 3,
-  "tabzlive/107476": 1,
-  "TelNews_Magazine/100841": 1
+  "khabarfouri/568895": 4,
+  "KH_B2/131151": 4,
+  "NE_WG/113952": 4,
+  "tabzlive/107476": 2,
+  "TelNews_Magazine/100841": 2
  },
  "recent": [
   {
@@ -32,6 +32,6 @@
  ],
  "usage": {
   "date": "2026-10-10",
-  "requests": 25
+  "requests": 29
  }
 }
