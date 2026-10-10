@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107480
+   "last_id": 107481
   },
   "khabarfouri": {
    "last_id": 568898
@@ -17,11 +17,11 @@
   }
  },
  "fails": {
-  "tabzlive/107481": 4,
-  "TelNews_Magazine/100847": 3,
-  "khabarfouri/568899": 2,
-  "NE_WG/113957": 2,
-  "KH_B2/131161": 1
+  "TelNews_Magazine/100847": 4,
+  "khabarfouri/568899": 3,
+  "NE_WG/113957": 3,
+  "KH_B2/131161": 2,
+  "tabzlive/107482": 1
  },
  "recent": [
   {
@@ -32,6 +32,6 @@
  ],
  "usage": {
   "date": "2026-10-10",
-  "requests": 93
+  "requests": 101
  }
 }
