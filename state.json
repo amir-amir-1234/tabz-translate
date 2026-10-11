@@ -1,16 +1,16 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107574
+   "last_id": 107577
   },
   "khabarfouri": {
-   "last_id": 569051
+   "last_id": 569052
   },
   "KH_B2": {
    "last_id": 131255
   },
   "TelNews_Magazine": {
-   "last_id": 100898
+   "last_id": 100899
   },
   "NE_WG": {
    "last_id": 114042
@@ -185,16 +185,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791717204.0,
-   "n": "پزشکیان با کمال افتخار مشکل نخبگان را حل خواهیم کرد برای اشتغال قهرمانان برنامه ریزی خواهیم کرد",
-   "fa": "💢پزشکیان: با کمال افتخار مشکل نخبگان را حل خواهیم کرد/ برای اشتغال قهرمانان برنامه‌ریزی خواهیم کرد"
-  },
-  {
-   "t": 1791717264.0,
-   "n": "بارندگی شدید رودخانه دربند جاجرم را سیلابی کرد",
-   "fa": "⛈بارندگی شدید رودخانه دربند جاجرم را سیلابی کرد"
-  },
   {
    "t": 1791717516.0,
    "n": "اختلال در ثبت نام کالابرگ به زودی برطرف می شود سازمان فناوری اطلاعات اقدامات لازم برای رفع اختلال پنجره ملی خدمات دولت هوشمند در حال انجام و روند بازگشت خدمات به وضعیت عادی در دست پیگیری است",
@@ -484,10 +474,20 @@
    "t": 1791727804.0,
    "n": "iran s supreme national security council secretary mohsen rezaee trump has turned to smuggling by hiring a number of criminals operating in oman s coastal waters every day he claims that the strait of hormuz is open but in response i say you are engaged in smuggling while the strait is under iran s control and we are managing it over the past few months we have targeted five vessels used by smuggl",
    "fa": "🔴 🇮🇷🇺🇸⚡️ — محسن رضایی، دبیر شورای عالی امنیت ملی ایران: ترامپ با استخدام تعدادی از جنایتکاران فعال در آب‌های ساحلی عمان به قاچاق روی آورده است. او هر روز ادعا می‌کند که تنگه هرمز باز است، اما در پاسخ به او می‌گویم: شما به قاچاق مشغول هستید، در حالی که تنگه تحت کنترل ایران است و ما آن را مدیریت می‌کنیم. طی چند ماه گذشته، ما هر شب پنج فروند کشتی مورد استفاده قاچاقچیان را در تنگه هرمز هدف قرار داده‌ا"
+  },
+  {
+   "t": 1791727861.0,
+   "n": "محسن رضایی ترامپ تعدادی از اشرار عمانی استخدام کرده تا نفت را در سواحل عمان قاچاق کنند فرمانده سنتکام کارهای قاچاق را رهبری می کند و او همچنین از ارتش امارات استفاده می کند",
+   "fa": "🔄 به‌روزرسانی ⭕️ محسن رضایی: ترامپ تعدادی از اشرار عمانی استخدام کرده تا نفت را در سواحل عمان قاچاق کنند فرمانده سنتکام کارهای قاچاق را رهبری می‌کند و او همچنین از ارتش امارات استفاده می‌کند"
+  },
+  {
+   "t": 1791727868.0,
+   "n": "iran s supreme national security council secretary mohsen rezaee the centcom commander is leading the smuggling operations in the strait of hormuz and he is also using the uae military they use five or six small vessels to transfer oil to larger tankers but we also target five or six of them every night",
+   "fa": "🔄 به‌روزرسانی 🇮🇷🇺🇸🇦🇪⚡️ — دبیر شورای عالی امنیت ملی ایران محسن رضایی: فرمانده سنتکام عملیات قاچاق در تنگه هرمز را رهبری می‌کند و او همچنین از ارتش امارات استفاده می‌کند. آن‌ها از پنج یا شش شناور کوچک برای انتقال نفت به نفتکش‌های بزرگ‌تر استفاده می‌کنند، اما ما هم هر شب پنج یا شش فروند از آن‌ها را هدف قرار می‌دهیم."
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 337
+  "requests": 338
  }
 }
