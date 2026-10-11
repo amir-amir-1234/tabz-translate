@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107614
+   "last_id": 107616
   },
   "khabarfouri": {
-   "last_id": 569068
+   "last_id": 569069
   },
   "KH_B2": {
-   "last_id": 131272
+   "last_id": 131274
   },
   "TelNews_Magazine": {
-   "last_id": 100912
+   "last_id": 100917
   },
   "NE_WG": {
-   "last_id": 114058
+   "last_id": 114061
   }
  },
  "fails": {},
@@ -192,31 +192,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791721407.0,
-   "n": "elon musk has backed president trump s call for a new president in ukraine saying i agree time for ukraine to get a new leader",
-   "fa": "🇺🇸🇺🇦⚡️ — ایلان ماسک از درخواست رئیس‌جمهور ترامپ برای انتخاب رئیس‌جمهوری جدید در اوکراین حمایت کرد و گفت: «من موافقم، وقت آن رسیده که اوکراین رهبر جدیدی پیدا کند"
-  },
-  {
-   "t": 1791721446.0,
-   "n": "حملات اسرائیل به شهر نبطیه الفوقه در جنوب لبنان",
-   "fa": "🇮🇱🇱🇧 حملات اسرائیل به شهر نبطیه الفوقه در جنوب لبنان"
-  },
-  {
-   "t": 1791721530.0,
-   "n": "kremlin spokesman dmitry peskov zelensky is currently in a state of hysteria and incapable of making well considered decisions",
-   "fa": "🇷🇺🇺🇦⚡️ — دیمیتری پسکوف، سخنگوی کرملین: زلنسکی در حال حاضر در حالت هیستری به سر می‌برد و قادر به اتخاذ تصمیمات سنجیده نیست."
-  },
-  {
-   "t": 1791721634.0,
-   "n": "ادامه ی رایزنی برای برقراری پروازها معاون دیپلماسی اقتصادی وزیر امور خارجه کارگروهی برای رصد و رفع مشکلات صنعت هواپیمایی کشور در پی تحریم های اخیر تشکیل شده است",
-   "fa": "ادامه‌ی رایزنی‌ برای برقراری پروازها معاون دیپلماسی اقتصادی وزیر امور خارجه: کارگروهی برای رصد و رفع مشکلات صنعت هواپیمایی کشور در پی تحریم‌های اخیر تشکیل شده ا"
-  },
-  {
-   "t": 1791721651.0,
-   "n": "israel s defense minister katz erdoğan continues to roll out the red carpet for hamas s murderers and rapists and to support the terrorist activities they promote from türkiye together with the muslim brotherhood against israel and against important muslim countries in the region we eliminated hamas s leaders in gaza and al hayya s turn will also come and he will be sent to meet haniyeh and his as",
-   "fa": "🔄 به‌روزرسانی 🇮🇱❌🇹🇷🇵🇸 — کاتز، وزیر دفاع اسرائیل: اردوغان همچنان به فرش قرمز پهن کردن برای قاتلان و متجاوزان حماس ادامه می‌دهد و از فعالیت‌های تروریستی آن‌ها که "
-  },
   {
    "t": 1791721326.0,
    "n": "abbas delays palestinian elections again making more than two decades without vote more than two decades after being elected to what was supposed to be a four year term palestinian authority president mahmoud abbas has once again postponed elections extending a nearly 20 year wait for voters to choose a new legislature abbas issued a decree friday pushing palestinian legislative council elections ",
@@ -491,10 +466,35 @@
    "t": 1791738240.0,
    "n": "air travel emerges as dangerous front line in global conflicts missile launches have led airlines to abandon a critical flight path through saudi airspace which had connected two of the world s biggest economic engines",
    "fa": "به گزارش وال‌استریت ژورنال پروازهای هوایی به عنوان یک خط مقدم خطرناک در درگیری‌های جهانی پدیدار شده‌اند. پرتاب موشک‌ها باعث شده است تا شرکت‌های هواپیمایی یک مسیر پروازی حیاتی را که از حریم هوایی عربستان سعودی عبور می‌کرد و دو مورد از بزرگ‌ترین موتورهای اقتصادی جهان را به یکدیگر متصل می‌نمود، رها کنند."
+  },
+  {
+   "t": 1791739269.0,
+   "n": "ادعای روزنامه خراسان واشنگتن و تل آویو تصمیم برای شروع جنگ بعدی را گرفته اند",
+   "fa": "🇮🇷 ادعای روزنامه خراسان: واشنگتن و تل آویو تصمیم برای شروع جنگ بعدی را گرفته‌اند."
+  },
+  {
+   "t": 1791739536.0,
+   "n": "according to the french media l express the french directorate of defense intelligence and security drsd agency warned multiple ceos of defense companies of extreme vigilance during their business trip to ukraine due to increasing russian intelligence threats",
+   "fa": "🇫🇷🇫🇷🇺🇦🇷🇺 — به گزارش رسانه فرانسوی لکسپرس، آژانس اطلاعات و امنیت دفاعی فرانسه (DRSD) به چندین مدیر اجرایی شرکت‌های دفاعی هشدار داد که در جریان سفر کاری خود به اوکراین به دلیل افزایش تهدیدهای اطلاعاتی روسیه، حداکثر هوشیاری را به خرج دهند."
+  },
+  {
+   "t": 1791739622.0,
+   "n": "همتی اقای بسنت وعده ای که دادی چیشد",
+   "fa": "⭕️همتی: اقای بسنت وعده ای که دادی چیشد؟"
+  },
+  {
+   "t": 1791739647.0,
+   "n": "سازمان عمومی هوانوردی مدنی عربستان سعودی gaca اعلام کرد که فرودگاه بین المللی ملک خالد در ریاض در یک حمله دیگر در بعدازظهر یکشنبه ۱۱ اکتبر هدف قرار گرفت این نهاد تأیید کرد که این حمله منجر به زخمی شدن افراد شده است و گفت که ارزیابی خسارات و بازرسی های ایمنی از تأسیسات فرودگاه در حال انجام است و با نهادهای ذی ربط هماهنگی دارد",
+   "fa": "🔄 به‌روزرسانی 🇸🇦❌🇾🇪سازمان عمومی هوانوردی مدنی عربستان سعودی (GACA) اعلام کرد که فرودگاه بین‌المللی ملک خالد در ریاض در یک حمله دیگر در بعدازظهر یکشنبه، ۱۱ اکتبر، هدف قرار گرفت. این نهاد تأیید کرد که این حمله منجر به زخمی شدن افراد شده است و گفت که ارزیابی خسارات و بازرسی‌های ایمنی از تأسیسات فرودگاه در حال انجام است و با نهادهای ذی‌ربط هماهنگی دارد."
+  },
+  {
+   "t": 1791739837.0,
+   "n": "همتی بسنت اول بگوید وعده ای که داد چی شد رئیس بانک مرکزی در پاسخ به صحبت های وزیر خزانه داری آمریکا بسنت به جای اینکه صحبت از نتیجه وعده دو هفته ای خود درباره فروپاشی اقتصادی در ایران به میان آورد صحبت از چاپ پول در ایران کرده است واقعیت های اقتصادی را باید با شاخص های قابل اندازه گیری سنجید نه با مواضع سیاسی رشد نقدینگی در شهریور به کمترین مقدار یعنی ۱ ۳ درصد رسید و با مداخله بانک مرکزی در بازار ",
+   "fa": "همتی: بسنت اول بگوید وعده‌‌ای که داد چی شد رئیس بانک مرکزی در پاسخ به صحبت‌های وزیر خزانه‌داری آمریکا: بسنت به جای اینکه صحبت از نتیجه وعده دو هفته‌ای خود درباره فروپاشی اقتصادی در ایران به میان آورد، صحبت از چاپ پول در ایران کرده است. واقعیت‌های اقتصادی را باید با شاخص‌های قابل اندازه‌گیری سنجید، نه با مواضع سیاسی. رشد نقدینگی در شهریور به کمترین مقدار یعنی ۱.۳ درصد رسید و با مداخله بانک مرکزی در"
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 358
+  "requests": 359
  }
 }
