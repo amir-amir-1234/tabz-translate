@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107650
+   "last_id": 107651
   },
   "khabarfouri": {
    "last_id": 569084
   },
   "KH_B2": {
-   "last_id": 131318
+   "last_id": 131319
   },
   "TelNews_Magazine": {
    "last_id": 100936
@@ -49,7 +49,8 @@
     "https://www.foxnews.com/world/pope-leo-announces-tumor-lung-surgery-planned-next-few-days",
     "https://www.foxnews.com/world/abbas-delays-palestinian-elections-again-making-more-than-two-decades-without-vote",
     "https://www.foxnews.com/world/italys-school-veil-ban-exposes-europes-assimilation-fight-expert-warns-us-could-next",
-    "https://www.foxnews.com/world/mojtaba-khamenei-defies-malicious-attacks-us-army-zeroes-irans-350000-troops"
+    "https://www.foxnews.com/world/mojtaba-khamenei-defies-malicious-attacks-us-army-zeroes-irans-350000-troops",
+    "https://www.foxnews.com/world/trump-russia-deal-could-fuel-putins-war-ex-nato-commander-warns-zelenskyy-says-nyet"
    ]
   },
   "WSJ": {
@@ -198,11 +199,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791733293.0,
-   "n": "the international organization for migration has raised the death toll from a migrant boat sinking off djibouti while en route to yemen to at least 139 up from 109 earlier another 84 people remain missing while more than 80 survived",
-   "fa": "🔄 به‌روزرسانی 🇩🇯🇾🇪⚡️ — سازمان بین‌المللی مهاجرت آمار جان‌باختگان غرق شدن قایق مهاجران در آب‌های جیبوتی در مسیر یمن را به دست‌کم ۱۳۹ نفر افزایش داد که نسبت به آمار قبلی ۱۰۹ نفر بیشتر است. ۸۴ نفر دیگر همچنان مفقود هستند و بیش از ۸۰ نفر نجات یافته‌اند."
-  },
   {
    "t": 1791734044.0,
    "n": "گزارش هفتگی تحلیلی طلا و نقره لوتوس پارسیان منتهی به ۱۴۰۵ ۰۷ ۱۵ منتشر شد سرفصل های گزارش روند اونس جهانی طلا و نقره و عوامل مؤثر بر قیمت ها بررسی نرخ ارز و معاملات سکه و شمش طلا و نقره در بورس کالا تحلیل وضعیت صندوق های طلا و نقره ارزش دارایی ها و حباب قیمتی بررسی ابزارهای سرمایه گذاری غیرمستقیم در بازار فلزات گران بها نسخه کامل گزارش را از اینجا دریافت کنید گزارش هفتگی تحلیلی طلا و نقره لوتوس پار",
@@ -497,10 +493,15 @@
    "t": 1791756241.0,
    "n": "u s mission saudi arabia announces u s government employees are now required to have special authorization to use king khalid intl airport riyadh king fahd intl airport dammam and king abdulaziz intl airport jeddah u s government employees also need special authorization to travel to the cities of qatif yanbu and taif u s government employees also are no longer allowed to travel within 20 miles of",
    "fa": "🔴 🇺🇸🇸🇦⚡️ — ماموریت ایالات متحده در عربستان سعودی اعلام کرد که کارمندان دولت ایالات متحده اکنون برای استفاده از فرودگاه بین‌المللی ملک خالد در ریاض، فرودگاه بین‌المللی ملک فهد در دمام و فرودگاه بین‌المللی ملک عبدالعزیز در جده به مجوز ویژه نیاز دارند. کارمندان دولت ایالات متحده همچنین برای سفر به شهرهای قطیف، ینبع و طائف به مجوز ویژه نیاز دارند. کارمندان دولت ایالات متحده همچنین دیگر اجازه ندارند در"
+  },
+  {
+   "t": 1791755815.0,
+   "n": "trump russia deal could fuel putin s war ex nato commander warns as zelenskyy says nyet president donald trump s efforts to reach a diesel agreement with russia could provide russian president vladimir putin with fresh revenue to fund his war against ukraine while allowing moscow to buy time through negotiations it has little intention of honoring a former nato commander warned sunday retired gen ",
+   "fa": "به گزارش فاکس نیوز، یک فرمانده پیشین ناتو روز یکشنبه هشدار داد که تلاش‌های دونالد ترامپ، رئیس‌جمهور آمریکا، برای دستیابی به توافق دیزل با روسیه می‌تواند درآمد تازه‌ای را برای تأمین مالی جنگ ولادیمیر پوتین، رئیس‌جمهور روسیه، علیه اوکراین فراهم کند و در عین حال به مسکو اجازه دهد از طریق مذاکراتی که قصد چندانی برای پایبندی به آن‌ها ندارد، زمان بخرد. ژنرال بازنشسته فیلیپ بریدلاو، فرمانده عالی پیشین مت"
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 389
+  "requests": 391
  }
 }
