@@ -7,7 +7,7 @@
    "last_id": 568925
   },
   "KH_B2": {
-   "last_id": 131180
+   "last_id": 131182
   },
   "TelNews_Magazine": {
    "last_id": 100859
@@ -17,10 +17,10 @@
   }
  },
  "fails": {
-  "KH_B2/131181": 4,
-  "khabarfouri/568926": 3,
-  "NE_WG/113972": 3,
-  "tabzlive/107496": 2
+  "khabarfouri/568926": 4,
+  "NE_WG/113972": 4,
+  "tabzlive/107496": 3,
+  "KH_B2/131183": 1
  },
  "recent": [
   {
@@ -31,6 +31,6 @@
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 225
+  "requests": 233
  }
 }
