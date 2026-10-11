@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107606
+   "last_id": 107614
   },
   "khabarfouri": {
-   "last_id": 569066
+   "last_id": 569067
   },
   "KH_B2": {
-   "last_id": 131269
+   "last_id": 131272
   },
   "TelNews_Magazine": {
-   "last_id": 100911
+   "last_id": 100912
   },
   "NE_WG": {
-   "last_id": 114056
+   "last_id": 114058
   }
  },
  "fails": {},
@@ -129,7 +129,8 @@
     "WP-WSJ-0003966166",
     "WP-WSJ-0003966535",
     "WP-WSJ-0003967162",
-    "SB10888506833709624716704593473410382529842"
+    "SB10888506833709624716704593473410382529842",
+    "WP-WSJ-0003965088"
    ]
   },
   "NYT": {
@@ -191,16 +192,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791721201.0,
-   "n": "فیلم جدید از حمله به فرودگاه ریاض که دیروز رخ داد",
-   "fa": "🔄 به‌روزرسانی 🇸🇦🇾🇪🎬فیلم جدید از حمله به فرودگاه ریاض که دیروز رخ داد."
-  },
-  {
-   "t": 1791721221.0,
-   "n": "pope leo xiv announced that he will undergo surgery to remove a small lung nodule discovered during routine medical examinations the pope said the nodule was detected at an early stage and was well defined with doctors recommending its removal the vatican confirmed that surgery is scheduled for early next week and that leo is expected to remain hospitalized for approximately one week while recover",
-   "fa": "🔄 به‌روزرسانی 🇻🇦⚡️ — پاپ لئو چهاردهم اعلام کرد که برای برداشتن یک توده کوچک ریوی که در جریان معاینات پزشکی معمول کشف شده بود، تحت عمل جراحی قرار خواهد گرفت. پاپ"
-  },
   {
    "t": 1791721407.0,
    "n": "elon musk has backed president trump s call for a new president in ukraine saying i agree time for ukraine to get a new leader",
@@ -490,10 +481,20 @@
    "t": 1791738027.0,
    "n": "indian embassy in riyadh ksa announces an indian died of his injuries caused by yesterday s strike against terminal 3 of king khalid intl airport riyadh raising the death toll to 13 people",
    "fa": "🔴 🔄 به‌روزرسانی 🇾🇪🇮🇳🇸🇦⚡️ — سفارت هند در ریاض، عربستان سعودی اعلام کرد که یک شهروند هندی بر اثر جراحات ناشی از حمله روز گذشته به ترمینال ۳ فرودگاه بین‌المللی ملک خالد در ریاض جان باخته و به این ترتیب شمار جان‌باختگان به ۱۳ نفر افزایش یافته است."
+  },
+  {
+   "t": 1791738214.0,
+   "n": "اسرائیل امشب در مورد ایران جلسه امنیتی برگزار می کند کابینه امنیتی رژیم صهیونیستی امشب یکشنبه شب جلسه ای با محوریت بررسی اوضاع در چند جبهه از جمله لبنان سوریه غزه و ایران تشکیل خواهد شد",
+   "fa": "🔴 اسرائیل امشب در مورد ایران جلسه امنیتی برگزار می‌کند کابینه امنیتی رژیم صهیونیستی امشب (یکشنبه شب) جلسه‌ای با محوریت بررسی اوضاع در چند جبهه از جمله لبنان، سوریه، غزه و ایران تشکیل خواهد شد."
+  },
+  {
+   "t": 1791738240.0,
+   "n": "air travel emerges as dangerous front line in global conflicts missile launches have led airlines to abandon a critical flight path through saudi airspace which had connected two of the world s biggest economic engines",
+   "fa": "به گزارش وال‌استریت ژورنال پروازهای هوایی به عنوان یک خط مقدم خطرناک در درگیری‌های جهانی پدیدار شده‌اند. پرتاب موشک‌ها باعث شده است تا شرکت‌های هواپیمایی یک مسیر پروازی حیاتی را که از حریم هوایی عربستان سعودی عبور می‌کرد و دو مورد از بزرگ‌ترین موتورهای اقتصادی جهان را به یکدیگر متصل می‌نمود، رها کنند."
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 355
+  "requests": 357
  }
 }
