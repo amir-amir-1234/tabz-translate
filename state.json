@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107602
+   "last_id": 107603
   },
   "khabarfouri": {
-   "last_id": 569060
+   "last_id": 569063
   },
   "KH_B2": {
-   "last_id": 131263
+   "last_id": 131265
   },
   "TelNews_Magazine": {
    "last_id": 100909
   },
   "NE_WG": {
-   "last_id": 114049
+   "last_id": 114051
   }
  },
  "fails": {},
@@ -188,16 +188,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791720692.0,
-   "n": "new western intelligence agencies have warned european defense industry executives of an increasing threat of russian assassination plots according to ft citing officials from five european intelligence services senior executives particularly those involved in drone manufacturing and supplying military equipment to ukraine are being targeted by russian operatives russia s gru military intelligence",
-   "fa": "🇷🇺🇪🇺⚡️ — تازه: آژانس‌های اطلاعاتی غربی به مدیران صنایع دفاعی اروپا درباره افزایش خطر توطئه‌های ترور توسط روسیه هشدار داده‌اند، بر اساس گزارش فایننشال تایمز به ن"
-  },
-  {
-   "t": 1791720877.0,
-   "n": "pope leo xiv the death penalty is inadmissible because it is an attack on the inviolability and dignity of the person the common good can be safeguarded and the requirements of justice can be met without recourse to capital punishment effective systems of detention have been developed that protect citizens while at the same time do not completely deprive those who are guilty of the possibility of ",
-   "fa": "🇻🇦⚡️ — پاپ لئو چهاردهم: مجازات اعدام غیرقابل قبول است زیرا این حمله به مصونیت و کرامت انسانی است. منافع عمومی را می‌توان حفظ کرد و الزامات عدالت را بدون متوسل ش"
-  },
   {
    "t": 1791720958.0,
    "n": "schools across riyadh will switch to remote learning for one week following yesterday s deadly attack on king khalid international airport according to an email sent to parents citing instructions from saudi arabia s ministry of education this marks the second time in less than a month that schools in the saudi capital have been ordered to suspend in person classes",
@@ -487,10 +477,20 @@
    "t": 1791735303.0,
    "n": "ansarallah announces conducting 4 operations against ksa and 1 against plc involving ballistic missiles cruise missiles uavs targeting king khalid intl airport riyadh in 3 separate phases causing the airport to completely close at least 1 of the phases were successful striking shegdum gas plant eastern province causing a fire striking tanajib oil complex eastern province causing a fire striking ki",
    "fa": "🔴 🇾🇪❌🇸🇦 — انصارالله اعلام کرد که ۴ عملیات علیه عربستان سعودی و ۱ عملیات علیه شورای رهبری ریاست‌جمهوری یمن با استفاده از موشک‌های بالستیک، کروز و پهپادها انجام داده است: - هدف قرار دادن فرودگاه بین‌المللی ملک خالد ریاض در ۳ مرحله جداگانه که منجر به تعطیلی کامل فرودگاه شد [حداقل یکی از مراحل موفقیت‌آمیز بوده است] - حمله به تأسیسات گازی شقین در استان شرقی که منجر به آتش‌سوزی شد - حمله به مجتمع نفتی ا"
+  },
+  {
+   "t": 1791735708.0,
+   "n": "دبیر شورای عالی امنیت ملی بدون مدیریت ایران بر تنگه هرمز خلیج فارس نمی تواند امن باشد کنترل بر تنگه هرمز نمایانگر ثروت ملی عظیم و یک دارایی ملی بزرگ است منظور ما صرفا بستن گذرگاه و دریافت عوارض عبور نیست منافع ما بسیار فراتر از این هاست البته ما قطعا می توانیم از تنگه هرمز منافع اقتصادی ایجاد کنیم",
+   "fa": "‌🔺دبیر شورای‌عالی امنیت ملی: بدون مدیریت ایران بر تنگهٔ هرمز، خلیج فارس نمی‌تواند امن باشد کنترل بر تنگهٔ هرمز نمایانگر ثروت ملی عظیم و یک دارایی ملی بزرگ است. منظور ما صرفاً بستن گذرگاه و دریافت عوارض عبور نیست. منافع ما بسیار فراتر از این‌هاست. البته ما قطعا می‌توانیم از تنگه هرمز منافع اقتصادی ایجاد کنیم."
+  },
+  {
+   "t": 1791735964.0,
+   "n": "ورود سامانه بارشی جدید به کشور از سه شنبه تقویت بارش ها در ۱۳ استان کارشناس هواشناسی از ورود سامانه بارشی جدید به کشور از روز سه شنبه ۲۱ مهر خبر داد و گفت بارش ها در ۱۳ استان تقویت می شود و در برخی مناطق احتمال وقوع سیلاب وجود دارد روز دوشنبه در امتداد ارتفاعات زاگرس از شمال تا جنوب این رشته کوه احتمال وقوع رگبار و رعدوبرق وجود دارد شاخص های ناپایداری نیز حاکی از احتمال وقوع صاعقه است ازاین رو به ",
+   "fa": "ورود سامانه بارشی جدید به کشور از سه‌شنبه؛ تقویت بارش‌ها در ۱۳ استان کارشناس هواشناسی، از ورود سامانه بارشی جدید به کشور از روز سه‌شنبه (۲۱ مهر) خبر داد و گفت: بارش‌ها در ۱۳ استان تقویت می‌شود و در برخی مناطق احتمال وقوع سیلاب وجود دارد. روز دوشنبه در امتداد ارتفاعات زاگرس، از شمال تا جنوب این رشته‌کوه، احتمال وقوع رگبار و رعدوبرق وجود دارد. شاخص‌های ناپایداری نیز حاکی از احتمال وقوع صاعقه است؛ از"
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 350
+  "requests": 351
  }
 }
