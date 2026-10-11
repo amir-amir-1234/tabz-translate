@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107652
+   "last_id": 107653
   },
   "khabarfouri": {
    "last_id": 569084
@@ -199,11 +199,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791734951.0,
-   "n": "هم اکنون گزارش شلیک موشک از جنوب ایران به سمت تنگه هرمز",
-   "fa": "🔴 ⭕️هم اکنون گزارش شلیک موشک از جنوب ایران به سمت تنگه هرمز"
-  },
   {
    "t": 1791735303.0,
    "n": "ansarallah announces conducting 4 operations against ksa and 1 against plc involving ballistic missiles cruise missiles uavs targeting king khalid intl airport riyadh in 3 separate phases causing the airport to completely close at least 1 of the phases were successful striking shegdum gas plant eastern province causing a fire striking tanajib oil complex eastern province causing a fire striking ki",
@@ -498,10 +493,15 @@
    "t": 1791757053.0,
    "n": "ksa s general authority of civil aviation announces 1 death of a pakistani national and 11 injuries as the result of an ansarallah strike against terminal 4 of king khalid intl airport riyadh earlier today",
    "fa": "🔴 🔄 به‌روزرسانی 🇾🇪🇸🇦⚡️ — سازمان هواپیمایی کشوری عربستان سعودی از کشته شدن یک تبعه پاکستانی و ۱۱ زخمی در نتیجه حمله انصارالله به ترمینال ۴ فرودگاه بین‌المللی ملک خالد در ریاض خبر داد."
+  },
+  {
+   "t": 1791757806.0,
+   "n": "reuters reports the u s federal aviation administration sent a faa notice to airmen lasting until december 10 advising flights operating in ksa at all altitudes could face threats currently fedex is the only company to fly directly from usa to ksa all commercial airlines fly from usa to ksa via codeshare partners however delta air lines is set to begin direct flights to king khalid intl airport ri",
+   "fa": "🔴 🔄 به‌روزرسانی 🇺🇸🇸🇦⚡️ — رویترز گزارش می‌دهد که اداره هوانوردی فدرال ایالات متحده یک اخطاریه هوانوردی (NOTAM) صادر کرده است که تا ۱۰ دسامبر اعتبار دارد و هشدار می‌دهد پروازهایی که در تمام ارتفاعات در عربستان سعودی فعالیت می‌کنند ممکن است با تهدیداتی مواجه شوند. در حال حاضر، فدکس تنها شرکتی است که مستقیماً از ایالات متحده به عربستان سعودی پرواز می‌کند. تمامی خطوط هوایی تجاری از طریق شرکای کُدسِیر ا"
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 392
+  "requests": 393
  }
 }
