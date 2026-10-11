@@ -54,7 +54,9 @@ MAX_PAGES = int(env("MAX_PAGES", "4"))
 ADD_SOURCE_LINK = env_bool("ADD_SOURCE_LINK", False)   # off: no source line under posts
 # Text added at the very end of every post, e.g. "@my_channel". Defaults to TARGET_CHAT when that is an @username.
 FOOTER = env("CHANNEL_FOOTER", TARGET if TARGET.startswith("@") else "")
-SKIP_VIDEO_POSTS = env_bool("SKIP_VIDEO_POSTS", True)   # posts that contain a video are skipped entirely (caption too)
+SKIP_VIDEO_POSTS = env_bool("SKIP_VIDEO_POSTS", False)  # true: every post with a video is skipped (caption too)
+# Videos are sent by giving Telegram the video URL (Telegram downloads it itself, nothing passes through the runner).
+# A video that has no URL, or that Telegram rejects (e.g. too big), is skipped together with its caption.
 REVIEW_CHAT = env("REVIEW_CHAT")                  # optional private channel/chat that receives rejected posts
 PUBLISH_PHOTO_ONLY = env_bool("PUBLISH_PHOTO_ONLY", False)  # photos without any text cannot be judged -> skipped by default
 SEND_PAUSE = float(env("SEND_PAUSE", "3"))
@@ -216,9 +218,19 @@ def parse_messages(soup, channel=""):
             except (ValueError, KeyError):
                 ts = 0.0
 
+        video_url = ""
+        for vel in w.select("video[src], video source[src], a.tgme_widget_message_video_player[data-video], "
+                            "a.tgme_widget_message_roundvideo_player[data-video]"):
+            u = vel.get("src") or vel.get("data-video") or ""
+            if u.startswith("//"):
+                u = "https:" + u
+            if u.startswith("http"):
+                video_url = u
+                break
+
         pid = max(ids)
         out[pid] = {"id": pid, "link_id": main_id, "text": text, "photos": photos[:10],
-                    "has_video": has_video, "channel": channel, "ts": ts}
+                    "has_video": has_video, "video_url": video_url, "channel": channel, "ts": ts}
     return out
 
 
@@ -740,6 +752,10 @@ def _text_only(text):
         tg("sendMessage", data={"chat_id": TARGET, "text": part, "disable_web_page_preview": "true"})
 
 
+class VideoRejected(Exception):
+    """Telegram would not take the video; the post (and its caption) is dropped, never sent as text."""
+
+
 def send_post(post, fa_text, allow_text_only=False):
     """Text, or photos + caption. A post that has photos is never silently sent as text only:
     if the download fails, Telegram is given the photo URL; if that fails too, the error is raised
@@ -752,6 +768,28 @@ def send_post(post, fa_text, allow_text_only=False):
     if FOOTER:
         parts.append(FOOTER)
     text = "\n\n".join(parts)
+
+    if post.get("has_video"):
+        url = post.get("video_url", "")
+        if not url:
+            raise VideoRejected("no video URL in the preview")
+        if DRY_RUN:
+            log(f"  [dry-run] post {post['id']}: VIDEO {url[:80]}\n" + "\n".join("    " + l for l in text.splitlines()))
+            return
+        caption_ok = len(text) <= 1024
+        data = {"chat_id": TARGET, "video": url, "supports_streaming": "true"}
+        if caption_ok:
+            data["caption"] = text
+        try:
+            tg("sendVideo", data=data)
+        except Exception as e:
+            raise VideoRejected(str(e)[:150])
+        if not caption_ok:
+            try:
+                _text_only(text)
+            except Exception as e:
+                log("  video sent, long caption part failed:", str(e)[:100])
+        return
 
     photos = []                # bytes when downloaded, else the URL itself (Telegram then fetches it)
     for u in post["photos"]:
@@ -922,8 +960,10 @@ def main():
     for p in all_new:
         e = {"post": p, "kind": "check", "cleaned": ""}
         entries.append(e)
-        if SKIP_VIDEO_POSTS and p["has_video"]:
+        if p["has_video"] and (SKIP_VIDEO_POSTS or not p.get("video_url")):
             e["kind"] = "skip"
+            if not SKIP_VIDEO_POSTS:
+                log(f"[{tag(p['channel'])}] post {p['id']}: video without a usable URL, skipped")
         elif not p["text"]:
             e["kind"] = "photo" if (p["photos"] and PUBLISH_PHOTO_ONLY) else "skip"
         else:
@@ -1043,6 +1083,11 @@ def main():
 
         try:
             send_post(p, fa, allow_text_only=state["fails"].get(key, 0) >= MAX_FAILS - 1)
+        except VideoRejected as ex:
+            log(f"[{tag(ch)}] post {p['id']}: video rejected ({ex}), post skipped, caption not sent")
+            send_review(p, {"reason": f"ویدیو ارسال نشد ({str(ex)[:80]}) و کپشن منتشر نشد", "ai": True})
+            advance()
+            continue
         except Exception as ex:
             log(f"[{tag(ch)}] post {p['id']}: send error: {str(ex)[:200]}")
             fail("sending")
