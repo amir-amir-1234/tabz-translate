@@ -1,0 +1,15 @@
+# سایت‌های خبری و صفحه‌های رسمی. هر خط یک منبع. خط‌های # نادیده گرفته می‌شوند.
+#   RSS:   نام | rss  | آدرس فید | نام فارسی منبع (برای «به گزارش ...»)
+#   HTML:  نام | html | آدرس صفحهٔ فهرست | الگوی (regex) لینک مقاله‌ها | نام فارسی منبع
+# فقط آنچه سایت خودش آزادانه منتشر می‌کند خوانده می‌شود. مقالهٔ پولی هرگز باز نمی‌شود و robots.txt رعایت می‌شود.
+# هر منبعی که فید یا صفحه‌اش کار نکند فقط همان منبع رد می‌شود و بقیه ادامه می‌دهند.
+Fox News | rss | https://moxie.foxnews.com/google-publisher/world.xml | فاکس نیوز
+WSJ | rss | https://feeds.content.dowjones.io/public/rss/RSSWorldNews | وال‌استریت ژورنال
+NYT | rss | https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml | نیویورک تایمز
+Treasury | html | https://home.treasury.gov/news/press-releases | /news/press-releases/sb\d+ | وزارت خزانه‌داری آمریکا
+OFAC | html | https://ofac.treasury.gov/recent-actions | /recent-actions/20\d{6}(_\d+)?/?$ | دفتر کنترل دارایی‌های خارجی آمریکا (اوفک)
+# تست‌نشده؛ اگر خواستی یکی‌یکی روشن کن و لاگ اجرای dry run را نگاه کن:
+# CNN | rss | http://rss.cnn.com/rss/edition_world.rss | سی‌ان‌ان
+# FT | rss | https://www.ft.com/world?format=rss | فایننشال تایمز
+# CENTCOM | html | https://www.centcom.mil/MEDIA/PRESS-RELEASES/ | /Media/Press-Releases/Press-Release-View/Article/ | فرماندهی مرکزی آمریکا (سنتکام)
+# Axios و Reuters: Axios در robots.txt ربات‌ها را رد می‌کند و Reuters فید رسمی رایگان ندارد؛ خبرهایشان از کانال‌های تلگرامی می‌آید.
