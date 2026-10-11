@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107640
+   "last_id": 107641
   },
   "khabarfouri": {
-   "last_id": 569081
+   "last_id": 569082
   },
   "KH_B2": {
-   "last_id": 131310
+   "last_id": 131311
   },
   "TelNews_Magazine": {
    "last_id": 100930
   },
   "NE_WG": {
-   "last_id": 114088
+   "last_id": 114089
   }
  },
  "fails": {},
@@ -133,7 +133,8 @@
     "SB10888506833709624716704593473410382529842",
     "WP-WSJ-0003965088",
     "WP-WSJ-0003967209",
-    "SB10250048116742454433604593501932393825510"
+    "SB10250048116742454433604593501932393825510",
+    "SB10500279467753764085504593505683552225480"
    ]
   },
   "NYT": {
@@ -196,16 +197,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791729623.0,
-   "n": "سخنگوی ائتلاف رهبری شده توسط عربستان سعودی اعلام کرد که پاره ای از یک پرتابه چند لحظه پیش به ترمینال ۴ فرودگاه بین المللی ملک خالد در ریاض اصابت کرده است",
-   "fa": "⭕️سخنگوی ائتلاف رهبری شده توسط عربستان سعودی اعلام کرد که پاره‌ای از یک پرتابه چند لحظه پیش به ترمینال ۴ فرودگاه بین‌المللی ملک خالد در ریاض اصابت کرده است."
-  },
-  {
-   "t": 1791730261.0,
-   "n": "سراج نماینده مجلس ۹۰ مردم خواهان انتقام از دشمنن",
-   "fa": "⭕️سراج نماینده مجلس: ۹۰٪ مردم خواهان انتقام از دشمنن"
-  },
   {
    "t": 1791730907.0,
    "n": "دبیر شورای عالی امنیت ملی اگر دوباره جنگی در بگیرد بسیاری از کابل ها دیتاسنترها تأسیسات هوش مصنوعی و سایت های دیگر موجود در منطقه نابود خواهند شد",
@@ -495,10 +486,20 @@
    "t": 1791750879.0,
    "n": "mojtaba khamenei defies malicious attacks as us army zeroes in on iran s 350 000 troops iranian supreme leader mojtaba khamenei claimed oct 8 that u s and israeli strikes had failed to undermine iran s domestic security forces praising police personnel for resisting attacks launched in february under operations epic fury and roaring lion khamenei s remarks on x also came as the u s army released a",
    "fa": "🔴 به گزارش فاکس نیوز مجتبی خامنه‌ای، رهبر ایران، روز ۸ اکتبر مدعی شد که حملات ایالات متحده و اسرائیل نتوانել است نیروهای امنیت داخلی ایران را تضعیف کند و از پرسنل پلیس به دلیل مقاومت در برابر حملات انجام شده در ماه فوریه در جریان عملیات‌های «خشم حماسی» و «شیر غران» تمجید کرد. اظهارات خامنه‌ای در شبکه اجتماعی ایکس همچنین همزمان با انتشار یک راهنمای جدید شناسایی در میدان نبرد از سوی ارتش ایالات متحد"
+  },
+  {
+   "t": 1791751267.0,
+   "n": "شبکه ۱۳ عبری نتانیاهو امشب پس از اظهارات ترامپ درباره احتمال از سرگیری حملات به ایران مشاوره های امنیتی برگزار می کند",
+   "fa": "🔴 شبکه ۱۳ عبری: نتانیاهو امشب پس از اظهارات ترامپ درباره احتمال از سرگیری حملات به ایران، مشاوره‌ های امنیتی برگزار می‌کند."
+  },
+  {
+   "t": 1791751402.0,
+   "n": "iranian foreign minister abbas araghchi and saudi foreign minister faisal bin farhan held a telephone conversation this evening to discuss escalating tensions and ongoing developments in the region araghchi expressed concern over the continued escalation warning that pursuing military action instead of diplomatic solutions would further complicate the situation he stressed that regional crises can",
+   "fa": "🇮🇷📞🇸🇦 — وزیر امور خارجه ایران، عباس عراقچی، و وزیر امور خارجه عربستان، فیصل بن فرحان، غروب امروز در یک تماس تلفنی درباره تشدید تنش‌ها و تحولات جاری در منطقه گفتگو کردند. عراقچی ضمن ابراز نگرانی نسبت به تداوم تنش‌زایی، هشدار داد که پیگیری اقدامات نظامی به جای راه حل‌های دیپلماتیک وضعیت را پیچیده‌تر خواهد کرد. وی تأکید کرد بحران‌های منطقه‌ای از طریق نظامی قابل حل نیستند و گفت ایران آمادگی دارد به تس"
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 380
+  "requests": 381
  }
 }
