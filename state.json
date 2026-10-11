@@ -1,16 +1,16 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107631
+   "last_id": 107634
   },
   "khabarfouri": {
-   "last_id": 569078
+   "last_id": 569079
   },
   "KH_B2": {
    "last_id": 131302
   },
   "TelNews_Magazine": {
-   "last_id": 100925
+   "last_id": 100926
   },
   "NE_WG": {
    "last_id": 114082
@@ -195,11 +195,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791725762.0,
-   "n": "large scale military exercises involving iran s irgc and regular air force took place today across the country marking the largest drills since february 28 footage shows shahed 136 one way attack drones and ballistic missiles being launched and iranian air force fighter jets operating over tehran and other cities iran is clearly preparing for another round of war",
-   "fa": "🔴 🇮🇷⚡️ — رزمایش نظامی گسترده‌ای شامل سپاه پاسداران و نیروی هوایی ارتش ایران امروز در سراسر کشور برگزار شد که بزرگترین رزمایش از ۲۸ فوریه تاکنون به شمار می‌رود. "
-  },
   {
    "t": 1791726298.0,
    "n": "وزیر خزانه داری آمریکا ایران در نهایت مجبور به تسلیم خواهد شد",
@@ -494,10 +489,15 @@
    "t": 1791746570.0,
    "n": "عضو کمیسیون امنیت ملی رهبری به صداوسیما تذکر داد",
    "fa": "🇮🇷عضو کمیسیون امنیت ملی: رهبری به صداوسیما تذکر داد"
+  },
+  {
+   "t": 1791747540.0,
+   "n": "کانال۱۳ عبری ارتش اسرائیل در آماده باش بسیار سطح بالایی قرار دارد و خود را برای سه سناریو آماده می کند ۱ حمله مستقل به ایران ۲ عملیات مشترک با آمریکا ۳ مقابله با حملات احتمالی موشکی ایران",
+   "fa": "🔴 🚨کانال۱۳ عبری: ارتش اسرائیل در آماده باش بسیار سطح بالایی قرار دارد و خود را برای سه سناریو آماده می‌کند: ۱- حمله مستقل به ایران. ۲- عملیات مشترک با آمریکا. ۳- مقابله با حملات احتمالی موشکی ایران."
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 372
+  "requests": 373
  }
 }
