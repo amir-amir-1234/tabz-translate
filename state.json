@@ -4,7 +4,7 @@
    "last_id": 107492
   },
   "khabarfouri": {
-   "last_id": 568918
+   "last_id": 568919
   },
   "KH_B2": {
    "last_id": 131173
@@ -17,10 +17,10 @@
   }
  },
  "fails": {
-  "khabarfouri/568919": 4,
-  "tabzlive/107493": 3,
-  "NE_WG/113968": 2,
-  "KH_B2/131175": 1
+  "tabzlive/107493": 4,
+  "NE_WG/113968": 3,
+  "KH_B2/131175": 2,
+  "khabarfouri/568921": 1
  },
  "recent": [
   {
@@ -31,6 +31,6 @@
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 126
+  "requests": 135
  }
 }
