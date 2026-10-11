@@ -54,7 +54,7 @@ MAX_PAGES = int(env("MAX_PAGES", "4"))
 ADD_SOURCE_LINK = env_bool("ADD_SOURCE_LINK", False)   # off: no source line under posts
 # Text added at the very end of every post, e.g. "@my_channel". Defaults to TARGET_CHAT when that is an @username.
 FOOTER = env("CHANNEL_FOOTER", TARGET if TARGET.startswith("@") else "")
-SKIP_VIDEO_POSTS = env_bool("SKIP_VIDEO_POSTS", False)  # True: skip posts that contain a video entirely
+SKIP_VIDEO_POSTS = env_bool("SKIP_VIDEO_POSTS", True)   # posts that contain a video are skipped entirely (caption too)
 REVIEW_CHAT = env("REVIEW_CHAT")                  # optional private channel/chat that receives rejected posts
 PUBLISH_PHOTO_ONLY = env_bool("PUBLISH_PHOTO_ONLY", False)  # photos without any text cannot be judged -> skipped by default
 SEND_PAUSE = float(env("SEND_PAUSE", "3"))
@@ -78,7 +78,7 @@ BATCH_CHARS = 9000        # max characters per Gemini request
 MAX_FAILS = 5             # after this many failed runs a post is skipped
 RECENT_KEEP = 60          # published items remembered for duplicate detection
 RECENT_HOURS = 12
-RECENT_IN_PROMPT = 40     # how many of them the AI sees
+RECENT_IN_PROMPT = 30     # how many of them the AI sees
 NEAR_DUP = 0.88           # text similarity that counts as "the same post"
 
 UA = {"User-Agent": "Mozilla/5.0 (compatible; ChannelAggregator/1.0)"}
@@ -288,7 +288,7 @@ SYSTEM_PROMPT = """You are the editor and translator of a Persian (Farsi) Telegr
 Input is a JSON object: {"recent": [{"ref": "R1", "fa": "<Persian text already published>"}], "items": [{"id": <number>, "text": "<post text>"}]}
 "recent" is what the channel published in the last hours. "items" are new posts, oldest first.
 Return a JSON array with exactly one entry per item:
-{"id": <same number>, "relevant": true|false, "urgent": true|false, "duplicate_of": "<ref or item id or empty>", "update": true|false, "reason": "<one short Persian sentence>", "fa": "<Persian translation, or empty string>"}
+{"id": <same number>, "relevant": true|false, "urgent": true|false, "duplicate_of": "<ref or item id or empty>", "update": true|false, "new_fact": "<what is new, or empty>", "reason": "<one short Persian sentence>", "fa": "<Persian translation, or empty string>"}
 
 STEP 1 - relevance. Decide with the TOPICS list below.
 - relevant=true when the post is about (or quotes) anything in the list. When unsure, choose true: missing important news is worse than publishing a borderline item.
@@ -298,7 +298,10 @@ STEP 1 - relevance. Decide with the TOPICS list below.
 
 STEP 2 - duplicates (only for relevant items).
 - If the item reports the SAME event or the SAME statement as a "recent" entry, set duplicate_of to its ref (for example "R3"). If it repeats an EARLIER item of this same list, set duplicate_of to that item's id as a string (for example "2"). Otherwise leave duplicate_of empty.
-- If it is the same story but adds genuinely new facts or numbers (new casualty count, new detail, new official reaction to the same fact), keep duplicate_of and set update=true.
+- update=true ONLY when the new item states a specific new fact that the earlier item does not contain: a changed number, a new development, a new official reaction. Then keep duplicate_of and write ONE short Persian sentence in "new_fact" that names exactly what is new.
+- NOT an update (set update=false, new_fact empty, duplicate_of set): rewording, another outlet or channel repeating the same facts, a longer or more detailed retelling of the same facts, the same quote again, a headline of the same story.
+- When you are not sure that something is new, treat the item as a duplicate (update=false).
+- Compare against the FULL text of the recent entry, not only its first words.
 - A DIFFERENT person or country commenting on the same event is NOT a duplicate: their own statement must be covered, so leave duplicate_of empty.
 - Same news from another outlet with identical facts is a duplicate (update=false).
 
@@ -353,9 +356,9 @@ GEMINI_SCHEMA = {
         "type": "OBJECT",
         "properties": {"id": {"type": "INTEGER"}, "relevant": {"type": "BOOLEAN"},
                        "urgent": {"type": "BOOLEAN"}, "duplicate_of": {"type": "STRING"},
-                       "update": {"type": "BOOLEAN"}, "reason": {"type": "STRING"},
-                       "fa": {"type": "STRING"}},
-        "required": ["id", "relevant", "urgent", "duplicate_of", "update", "reason", "fa"],
+                       "update": {"type": "BOOLEAN"}, "new_fact": {"type": "STRING"},
+                       "reason": {"type": "STRING"}, "fa": {"type": "STRING"}},
+        "required": ["id", "relevant", "urgent", "duplicate_of", "update", "new_fact", "reason", "fa"],
     },
 }
 
@@ -407,7 +410,7 @@ def _gemini_json(model, system_prompt, payload, schema):
 
 
 def gemini_filter(model, items, recent, system_prompt):
-    """-> {id: {'relevant','urgent','duplicate_of','update','reason','fa'}}"""
+    """-> {id: {'relevant','urgent','duplicate_of','update','new_fact','reason','fa'}}"""
     arr = _gemini_json(model, system_prompt, {"recent": recent, "items": items}, GEMINI_SCHEMA)
     out = {}
     for x in arr:
@@ -417,6 +420,7 @@ def gemini_filter(model, items, recent, system_prompt):
                 dup = ""
             out[int(x["id"])] = {"relevant": bool(x.get("relevant")), "urgent": bool(x.get("urgent")),
                                  "duplicate_of": dup, "update": bool(x.get("update")),
+                                 "new_fact": str(x.get("new_fact") or "").strip(),
                                  "reason": str(x.get("reason", "")).strip(),
                                  "fa": str(x.get("fa", "")).strip()}
         except (KeyError, TypeError, ValueError):
@@ -580,7 +584,7 @@ def process_posts(posts, recent=None):
         for i, t in list(need.items()):
             if i in result:
                 continue
-            base = {"relevant": True, "urgent": False, "duplicate_of": "", "update": False, "ai": False}
+            base = {"relevant": True, "urgent": False, "duplicate_of": "", "update": False, "new_fact": "", "ai": False}
             if not keyword_match(t, kws):
                 result[i] = {**base, "relevant": False, "fa": "",
                              "reason": "هوش مصنوعی در دسترس نبود و کلیدواژه‌ای پیدا نشد"}
@@ -600,6 +604,11 @@ def process_posts(posts, recent=None):
             except Exception as e:
                 log(f"  item {i}: google translate failed: {str(e)[:200]}")
     return result
+
+
+def is_update(v):
+    """An update must name the new fact; otherwise it is treated as a plain duplicate."""
+    return bool(v.get("update") and v.get("new_fact", "").strip())
 
 
 def rewrite_ok(src, fa, outlet_fa):
@@ -709,12 +718,16 @@ def split_message(text, limit=4096):
     return parts
 
 
-def download(url):
+def download(url, retry=False):
+    headers = dict(UA)
+    if retry:      # second attempt looks like a normal browser coming from t.me
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                                 "Chrome/124.0 Safari/537.36", "Referer": "https://t.me/"}
     try:
-        r = requests.get(url, headers=UA, timeout=30, stream=True)
+        r = requests.get(url, headers=headers, timeout=30)
         r.raise_for_status()
         buf = r.content
-        if len(buf) > 10 * 1024 * 1024:
+        if len(buf) > 10 * 1024 * 1024 or not buf:
             return None
         return buf
     except Exception as e:
@@ -722,49 +735,67 @@ def download(url):
         return None
 
 
-def send_post(post, fa_text):
+def _text_only(text):
+    for part in split_message(text):
+        tg("sendMessage", data={"chat_id": TARGET, "text": part, "disable_web_page_preview": "true"})
+
+
+def send_post(post, fa_text, allow_text_only=False):
+    """Text, or photos + caption. A post that has photos is never silently sent as text only:
+    if the download fails, Telegram is given the photo URL; if that fails too, the error is raised
+    (the post is retried next run) unless allow_text_only is set (last attempt: the news matters more)."""
     parts = []
     if fa_text:
         parts.append(fa_text)
     if ADD_SOURCE_LINK:
-        parts.append("📎 منبع: " + (post.get("link") or f"https://t.me/{post.get('channel', LEGACY_CHANNEL)}/{post['link_id']}"))
+        parts.append(f"📎 منبع: https://t.me/{post.get('channel', LEGACY_CHANNEL)}/{post['link_id']}")
     if FOOTER:
         parts.append(FOOTER)
     text = "\n\n".join(parts)
 
-    photos = []
+    photos = []                # bytes when downloaded, else the URL itself (Telegram then fetches it)
     for u in post["photos"]:
-        b = download(u)
-        if b:
-            photos.append(b)
+        b = download(u) or download(u, retry=True)
+        photos.append(b if b else u)
 
     if DRY_RUN:
-        log(f"  [dry-run] post {post['id']}: {len(photos)} photo(s)\n" + "\n".join("    " + l for l in text.splitlines()))
+        got = sum(1 for p in photos if isinstance(p, bytes))
+        log(f"  [dry-run] post {post['id']}: {len(photos)} photo(s), {got} downloaded\n" + "\n".join("    " + l for l in text.splitlines()))
         return
 
     if not photos:
-        for part in split_message(text):
-            tg("sendMessage", data={"chat_id": TARGET, "text": part, "disable_web_page_preview": "true"})
+        _text_only(text)
         return
 
-    caption_ok = len(text) <= 1024
-    if len(photos) == 1:
-        data = {"chat_id": TARGET}
-        if caption_ok:
-            data["caption"] = text
-        tg("sendPhoto", data=data, files={"photo": ("photo.jpg", io.BytesIO(photos[0]))})
-    else:
-        media, files = [], {}
-        for n, b in enumerate(photos):
-            item = {"type": "photo", "media": f"attach://p{n}"}
-            if n == 0 and caption_ok:
-                item["caption"] = text
-            media.append(item)
-            files[f"p{n}"] = (f"p{n}.jpg", io.BytesIO(b))
-        tg("sendMediaGroup", data={"chat_id": TARGET, "media": json.dumps(media)}, files=files)
+    try:
+        caption_ok = len(text) <= 1024
+        if len(photos) == 1:
+            data, files = {"chat_id": TARGET}, None
+            if caption_ok:
+                data["caption"] = text
+            if isinstance(photos[0], bytes):
+                files = {"photo": ("photo.jpg", io.BytesIO(photos[0]))}
+            else:
+                data["photo"] = photos[0]
+            tg("sendPhoto", data=data, files=files)
+        else:
+            media, files = [], {}
+            for n, p in enumerate(photos):
+                item = {"type": "photo", "media": f"attach://p{n}" if isinstance(p, bytes) else p}
+                if n == 0 and caption_ok:
+                    item["caption"] = text
+                media.append(item)
+                if isinstance(p, bytes):
+                    files[f"p{n}"] = (f"p{n}.jpg", io.BytesIO(p))
+            tg("sendMediaGroup", data={"chat_id": TARGET, "media": json.dumps(media)}, files=files or None)
+    except Exception as e:
+        if not allow_text_only:
+            raise
+        log(f"  photos could not be sent ({str(e)[:100]}); sending text only on the last attempt")
+        _text_only(text)
+        return
     if not caption_ok:
-        for part in split_message(text):
-            tg("sendMessage", data={"chat_id": TARGET, "text": part, "disable_web_page_preview": "true"})
+        _text_only(text)
 
 
 def send_review(post, verdict):
@@ -792,7 +823,7 @@ def prune_recent(state, now=None):
 
 
 def add_recent(state, post, cleaned, fa_text):
-    snippet = re.sub(r"\s+", " ", fa_text).strip()[:160]
+    snippet = re.sub(r"\s+", " ", fa_text).strip()[:400]
     state["recent"].append({"t": post.get("ts") or time.time(), "n": norm(cleaned), "fa": snippet})
     state["recent"] = state["recent"][-RECENT_KEEP:]
 
@@ -924,7 +955,7 @@ def main():
     rw_entries = [e for e in entries
                   if e["kind"] == "check" and e["post"].get("source") and verdicts.get(e["idx"])
                   and verdicts[e["idx"]]["relevant"]
-                  and (not verdicts[e["idx"]]["duplicate_of"] or verdicts[e["idx"]]["update"])]
+                  and (not verdicts[e["idx"]]["duplicate_of"] or is_update(verdicts[e["idx"]]))]
     if rw_entries and GEMINI_KEY:
         rewrites = rewrite_articles([rewrite_item(e) for e in rw_entries])
         attempted = {e["idx"] for e in rw_entries}
@@ -995,12 +1026,12 @@ def main():
                 continue
             dup = v.get("duplicate_of", "")
             valid_dup = bool(dup) and (dup in recent_refs or (dup.isdigit() and int(dup) in published_idx))
-            if valid_dup and not v.get("update"):
+            if valid_dup and not is_update(v):
                 send_review(p, {**v, "reason": f"تکراری: {v.get('reason', '')}"})
                 rejected += 1
                 advance()
                 continue
-            prefix = ("🔴 " if v["urgent"] else "") + ("🔄 به‌روزرسانی\n" if valid_dup and v.get("update") else "")
+            prefix = ("🔴 " if v["urgent"] else "") + ("🔄 به‌روزرسانی\n" if valid_dup and is_update(v) else "")
             if p.get("source"):
                 body_fa = get_rewrite(e)
                 if not body_fa:
@@ -1011,7 +1042,7 @@ def main():
             fa = prefix + body_fa
 
         try:
-            send_post(p, fa)
+            send_post(p, fa, allow_text_only=state["fails"].get(key, 0) >= MAX_FAILS - 1)
         except Exception as ex:
             log(f"[{tag(ch)}] post {p['id']}: send error: {str(ex)[:200]}")
             fail("sending")
