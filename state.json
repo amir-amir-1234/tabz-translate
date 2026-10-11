@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107641
+   "last_id": 107644
   },
   "khabarfouri": {
    "last_id": 569083
@@ -13,7 +13,7 @@
    "last_id": 100932
   },
   "NE_WG": {
-   "last_id": 114093
+   "last_id": 114095
   }
  },
  "fails": {},
@@ -198,16 +198,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791732151.0,
-   "n": "french president emmanuel macron s popularity has fallen to 15 its lowest level since he took office in 2017 according to an ipsos bva cesi poll among potential presidential successors jordan bardella and marine le pen recorded the highest approval ratings at 33 and 32 respectively",
-   "fa": "🇫🇷⚡️ — بر اساس نظرسنجی مؤسسه ایپسوس BVA-Cesi، محبوبیت امانوئل مکرون، رئیس‌جمهور فرانسه، به ۱۵ درصد کاهش یافته که پایین‌ترین سطح از زمان آغاز ریاست‌جمهوری او در سال ۲۰۱۷ است. در میان نامزدهای احتمالی جانشینی ریاست‌جمهوری، جردن باردلا و مارین لوپن بالاترین میزان محبوبیت را به ترتیب با ۳۳ و ۳۲ درصد به ثبت رساندند."
-  },
-  {
-   "t": 1791732370.0,
-   "n": "iran s supreme national security council secretary mohsen rezaee we are dealing with a group of ignorant and foolish people in the united states who have not studied history and do not know the iranian nation as a result we have reached this situation",
-   "fa": "🇮🇷🇺🇸⚡️ — محسن رضایی، دبیر شورای عالی امنیت ملی ایران: ما در ایالات متحده با گروهی از افراد نادان و احمق سر و کار داریم که تاریخ را مطالعه نکرده و ملت ایران را نمی‌شناسند؛ در نتیجه، به این وضعیت رسیده‌ایم."
-  },
   {
    "t": 1791732929.0,
    "n": "iran s supreme national security council secretary mohsen rezaee iranians will never surrender to you and they will never back down from their demands until they obtain their rights from you bessent is known in the united states as a lying minister he has been making statements and promises for more than a year that he has failed to fulfill this man is someone who wants to confront the iranian nat",
@@ -497,10 +487,20 @@
    "t": 1791752726.0,
    "n": "علی اکبر جاویدان فرمانده مرزبانی اجازه نمی دهیم اتباع غیرمجاز وارد عمق کشور شوند روزانه ۵۰۰ تا ۶۰۰ نفر طرد می شوند با افرادی که مسلح باشند یا اهداف امنیتی داشته باشند در شرایط جنگی برخورد می شود",
    "fa": "❌ علی‌اکبر جاویدان، فرمانده مرزبانی: اجازه نمی‌دهیم اتباع غیرمجاز وارد عمق کشور شوند / روزانه ۵۰۰ تا ۶۰۰ نفر طرد می‌شوند / با افرادی که مسلح باشند یا اهداف امنیتی داشته باشند در شرایط جنگی برخورد می‌شود"
+  },
+  {
+   "t": 1791753457.0,
+   "n": "a drone struck a tanker in the vicinity of the anchorage area for the port of sohar oman earlier today omani authorities are evacuating the crew damage assessment and environmental impact are unknown",
+   "fa": "🔴 🇮🇷🇴🇲⚡️ — یک فروند پهپاد امروز به یک فروند نفتکش در نزدیکی منطقه لنگرگاه بندر صحار در عمان اصابت کرد. مقام‌های عمانی در حال تخلیه خدمه هستند. ارزیابی خسارات و میزان آسیب‌های زیست‌محیطی هنوز نامشخص است."
+  },
+  {
+   "t": 1791753625.0,
+   "n": "president trump via truth social i just want to pay my respect and thanks to karoline leavitt for the fantastic job she has done as white house press secretary could not have been better",
+   "fa": "🇺🇸⚡️ — دونالد ترامپ در توتروث سوشال: من می‌خواهم احترام و تشکر خود را به کارولین لیویت به خاطر کار فوق‌العاده‌ای که به عنوان سخنگوی کاخ سفید انجام داده است، ابراز کنم — از این بهتر نمی‌شد!"
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 384
+  "requests": 385
  }
 }
