@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107625
+   "last_id": 107627
   },
   "khabarfouri": {
-   "last_id": 569077
+   "last_id": 569078
   },
   "KH_B2": {
-   "last_id": 131293
+   "last_id": 131295
   },
   "TelNews_Magazine": {
-   "last_id": 100923
+   "last_id": 100924
   },
   "NE_WG": {
-   "last_id": 114077
+   "last_id": 114080
   }
  },
  "fails": {},
@@ -195,31 +195,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791723919.0,
-   "n": "ارتش آمریکا یک کشتی تجاری در خلیج عمان را پس از نادیده گرفتن هشدارها و تلاش برای شکستن محاصره دریایی بنادر ایران از کار انداخت",
-   "fa": "🔴 🇺🇸🇴🇲🇮🇷💢ارتش آمریکا یک کشتی تجاری در خلیج عمان را پس از نادیده گرفتن هشدارها و تلاش برای شکستن محاصره دریایی بنادر ایران از کار انداخت."
-  },
-  {
-   "t": 1791723965.0,
-   "n": "ukrainian president zelensky ukraine will be ready to stop strikes on russian oil refineries if russia stops striking our energy infrastructure any de escalation steps must be mutual and with real guarantees",
-   "fa": "🇺🇦🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: اوکراین آماده است اگر روسیه حملات به زیرساخت‌های انرژی ما را متوقف کند، حملات به پالایشگاه‌های نفت روسیه را متوقف "
-  },
-  {
-   "t": 1791724210.0,
-   "n": "at least 109 migrants including 15 children have died and dozens remain missing after a boat carrying approximately 350 people capsized off djibouti s coast near the port town of obock on thursday night according to the international organization for migration the vessel was traveling from djibouti to yemen when it sank around 80 passengers were rescued while recovery teams have retrieved the bodi",
-   "fa": "🇩🇯🇾🇪⚡️ — به گفته سازمان بین‌المللی مهاجرت، دست‌کم ۱۰۹ مهاجر از جمله ۱۵ کودک در پی واژگونی قاچقی یک فروند قاچق حامل حدود ۳۵۰ نفر در آب‌های جیبوتی در نزدیکی شهر ب"
-  },
-  {
-   "t": 1791724363.0,
-   "n": "new ukmto reports that a tanker transiting the strait of hormuz outbound has been struck on the port side by a projectile resulting in damage to the vessel all crew members are reported safe and no environmental impact has been reported",
-   "fa": "🔴 🔄 به‌روزرسانی 🇮🇷🇴🇲⚡️ — فوری: سازمان عملیات تجارت دریایی بریتانیا (UKMTO) گزارش داد که یک نفتکش در حال عبور از تنگه هرمز، از سمت چپ مورد اصابت یک پرتابه قرار گ"
-  },
-  {
-   "t": 1791724568.0,
-   "n": "فارس با پایان دو هفته وعده بسنت درباره فروپاشی اقتصاد ایران محقق نشد و دلار از ۲۷۲ هزارتومان به ۲۶۵ هزارتومان رسیده",
-   "fa": "⭕️فارس: با پایان دو هفته، وعده بسنت درباره فروپاشی اقتصاد ایران محقق نشد و دلار از ۲۷۲ هزارتومان به ۲۶۵ هزارتومان رسیده"
-  },
   {
    "t": 1791724928.0,
    "n": "poland s pm donald tusk after my today s talk with president zelensky i m absolutely convinced that no one and nothing can break ukraine and its president in their fight against the russian aggression i have assured him that he can count on poland s and europe s full solidarity with the ukrainian nation",
@@ -494,10 +469,35 @@
    "t": 1791744948.0,
    "n": "پیام محسن رضایی و قالیباف خطاب به وزیر خارجه آمریکا روی بیلبورد های شهری در مقابل ایران زانو خواهید زد",
    "fa": "💢\"پیام محسن رضایی و قالیباف خطاب به وزیر خارجه آمریکا\" روی بیلبورد‌های شهری در مقابل ایران زانو خواهید زد"
+  },
+  {
+   "t": 1791745520.0,
+   "n": "israeli prime minister benjamin netanyahu has ordered a criminal investigation into soldiers who anonymously appeared in the documentary naza which features testimony from 24 israeli soldiers who reveled that the military killed large numbers of civilians in gaza using ai powered targeting systems in a letter to idf chief of staff eyal zamir shin bet chief david zini and attorney general gali baha",
+   "fa": "🇮🇱🇵🇸⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل، خواستار تحقیق کیفری درباره سربازانی شد که به طور ناشناس در مستند «نازا» ظاهر شدند؛ مستندی که شامل شهادت ۲۴ سرباز اسرائیلی است که فاش کردند ارتش با استفاده از سیستم‌های هدف‌گیری مبتنی بر هوش مصنوعی، تعداد زیادی از غیرنظامیان را در غزه کشته است. نتانیاهو در نامه‌ای به ایال زامیر، رئیس ارتش اسرائیل، دیوید زینی، رئیس شاباک، و گالی بهاراو-میارا، دادستان کل،"
+  },
+  {
+   "t": 1791745646.0,
+   "n": "جان مرشایمر تحلیلگر آمریکایی به نفع امارات و عربستان است روابط خصمانه ای با ایران نداشته باشند امریکا دیگر نمیتواند از انها دفاع کند از این به بعد هیچ کشوری در خلیج فارس جرات اقدام علیه ایران را ندارد ایران خیلی قدرتمندتر از همه انها خودش را نشان داد",
+   "fa": "🇮🇷🇸🇦🇦🇪❌جان مرشایمر، تحلیلگر آمریکایی: به نفع امارات و عربستان است روابط خصمانه ای با ایران نداشته باشند، امریکا دیگر نمیتواند از انها دفاع کند از این به بعد هیچ کشوری در خلیج فارس جرات اقدام علیه ایران را ندارد. ایران خیلی قدرتمندتر از همه انها خودش را نشان داد."
+  },
+  {
+   "t": 1791745674.0,
+   "n": "معاون عراقچی در حال بررسی پاسخ آمریکا به شروط هفتگانه خود هستیم",
+   "fa": "🔄 به‌روزرسانی 🚨معاون عراقچی: در حال بررسی پاسخ آمریکا به شروط هفتگانه خود هستیم"
+  },
+  {
+   "t": 1791745773.0,
+   "n": "sudanese human rights group emergency lawyers says the egyptian air force carried out an airstrike on a gold mine on the sudan egypt border on saturday killing 72 civilian miners the group said the death toll was preliminary and that efforts to document and verify the casualties remain ongoing",
+   "fa": "🇪🇬🇸🇩⚡️ — گروه حقوق بشری سودانی «وکلای اضطرار» اعلام کرد که نیروی هوایی مصر روز شنبه یک معدن طلا را در مرز سودان و مصر هدف حمله هوایی قرار داده که بر اثر آن ۷۲ معدنچی غیرنظامی کشته شدند. این گروه اعلام کرد که آمار تلفات اولیه است و تلاش‌ها برای مستندسازی و راستی‌آزمایی تلفات همچنان ادامه دارد."
+  },
+  {
+   "t": 1791745821.0,
+   "n": "بیانیه مشترک عربستان سعودی ترکیه پاکستان و مصر ما حملات مداوم شبه نظامیان حوثی به عربستان سعودی را محکوم می کنیم این حملات تشدید خطرناک تنش ها است و ما از پادشاهی عربستان سعودی در اقداماتی که برای مقابله با آنها انجام می دهد حمایت می کنیم ما شبه نظامیان حوثی را مسئول این حملات می دانیم و از آنها می خواهیم که فورا آنها را متوقف کنند",
+   "fa": "بیانیه مشترک عربستان سعودی، ترکیه، پاکستان و مصر: ما حملات مداوم شبه‌نظامیان حوثی به عربستان سعودی را محکوم می‌کنیم این حملات تشدید خطرناک تنش‌ها است و ما از پادشاهی [عربستان سعودی] در اقداماتی که برای مقابله با آنها انجام می‌دهد، حمایت می‌کنیم. ما شبه‌نظامیان حوثی را مسئول این حملات می‌دانیم و از آنها می‌خواهیم که فوراً آنها را متوقف کنند."
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 369
+  "requests": 370
  }
 }
