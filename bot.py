@@ -21,11 +21,14 @@ import os
 import re
 import sys
 import time
+import zlib
 from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
+
+import web_sources
 
 
 # ----------------------------------------------------------------- config ---
@@ -59,6 +62,14 @@ SEND_PAUSE = float(env("SEND_PAUSE", "3"))
 TOPICS_FILE = Path(env("TOPICS_FILE", "topics.txt"))
 KEYWORDS_FILE = Path(env("KEYWORDS_FILE", "keywords.txt"))
 SOURCES_FILE = Path(env("SOURCES_FILE", "sources.txt"))
+WEB_SOURCES_FILE = Path(env("WEB_SOURCES_FILE", "sources_web.txt"))
+WEB_MAX_PER_SOURCE = int(env("WEB_MAX_PER_SOURCE", "10"))   # new articles taken from one site per run
+REWRITE_BATCH = 3         # articles per rewrite request
+REWRITE_CHARS = 12000
+REWRITE_BODY_MAX = 6000   # characters of one article sent to the rewrite step
+WEB_SEEN_KEEP = 400
+WEB_FILTER_CHARS = 700    # how much of an article the relevance filter sees (title + first lines)
+WEB_PHOTOS = env_bool("WEB_PHOTOS", False)   # news-agency photos are licensed: off by default
 STATE_FILE = Path(env("STATE_FILE", "state.json"))
 GLOSSARY_FILE = Path(env("GLOSSARY_FILE", "glossary.txt"))
 
@@ -122,7 +133,8 @@ def load_state():
         if data.get("last_id") is not None:
             chans[LEGACY_CHANNEL] = {"last_id": data["last_id"]}
     fails = {k: v for k, v in (data.get("fails") or {}).items() if "/" in k}
-    return {"channels": chans, "fails": fails,
+    web = data.get("web") if isinstance(data.get("web"), dict) else {}
+    return {"channels": chans, "fails": fails, "web": web,
             "recent": list(data.get("recent") or []), "usage": dict(data.get("usage") or {})}
 
 
@@ -293,6 +305,7 @@ STEP 2 - duplicates (only for relevant items).
 STEP 3 - urgent. urgent=true ONLY for genuinely breaking items about Iran, Israel, the US military, sanctions or negotiations: a new strike or attack, a new sanctions decision, a deal announced or talks collapsing, or a direct statement by a top leader. Everything else (including AI and general world news) is urgent=false.
 
 STEP 4 - translation, only when relevant=true (otherwise "fa" is an empty string):
+- Items that have a "source" field are website articles (title plus the first lines): always set "fa" to an empty string for them; a separate step writes their Persian text.
 - If the item is already Persian, set "fa" to an empty string; the system publishes the original text.
 - Otherwise translate faithfully into fluent, natural, formal news Persian. Do not add, remove, summarize, soften, or comment on anything.
 - Do NOT censor or refuse: translate violent, military and political content exactly as written.
@@ -349,18 +362,17 @@ GEMINI_SCHEMA = {
 REQ_COUNT = 0        # Gemini HTTP requests made in this run
 
 
-def gemini_filter(model, items, recent, system_prompt):
-    """-> {id: {'relevant','urgent','duplicate_of','update','reason','fa'}}"""
+def _gemini_json(model, system_prompt, payload, schema):
+    """One structured Gemini call -> parsed JSON array. Raises QuotaError on a hard rate limit."""
     global REQ_COUNT
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
-    payload = {"recent": recent, "items": items}
     body = {
         "systemInstruction": {"parts": [{"text": system_prompt}]},
         "contents": [{"role": "user", "parts": [{"text": json.dumps(payload, ensure_ascii=False)}]}],
         "generationConfig": {
             "temperature": 0.2,
             "responseMimeType": "application/json",
-            "responseSchema": GEMINI_SCHEMA,
+            "responseSchema": schema,
         },
     }
     headers = {"x-goog-api-key": GEMINI_KEY, "Content-Type": "application/json"}
@@ -368,7 +380,7 @@ def gemini_filter(model, items, recent, system_prompt):
     for attempt in range(3):
         REQ_COUNT += 1
         try:
-            r = requests.post(url, headers=headers, json=body, timeout=90)
+            r = requests.post(url, headers=headers, json=body, timeout=120)
         except requests.RequestException as e:
             last_err = e
             time.sleep(2 * (attempt + 1))
@@ -390,21 +402,61 @@ def gemini_filter(model, items, recent, system_prompt):
             reason = (data.get("promptFeedback") or {}).get("blockReason") or (cand or {}).get("finishReason")
             raise RuntimeError(f"{model}: no content ({reason})")
         text = "".join(p.get("text", "") for p in cand["content"].get("parts", []))
-        arr = json.loads(text)
-        out = {}
-        for x in arr:
-            try:
-                dup = str(x.get("duplicate_of") or "").strip()
-                if dup.lower() in ("none", "null", "-", "no"):
-                    dup = ""
-                out[int(x["id"])] = {"relevant": bool(x.get("relevant")), "urgent": bool(x.get("urgent")),
-                                     "duplicate_of": dup, "update": bool(x.get("update")),
-                                     "reason": str(x.get("reason", "")).strip(),
-                                     "fa": str(x.get("fa", "")).strip()}
-            except (KeyError, TypeError, ValueError):
-                continue
-        return out
+        return json.loads(text)
     raise RuntimeError(f"{model}: failed after retries ({last_err})")
+
+
+def gemini_filter(model, items, recent, system_prompt):
+    """-> {id: {'relevant','urgent','duplicate_of','update','reason','fa'}}"""
+    arr = _gemini_json(model, system_prompt, {"recent": recent, "items": items}, GEMINI_SCHEMA)
+    out = {}
+    for x in arr:
+        try:
+            dup = str(x.get("duplicate_of") or "").strip()
+            if dup.lower() in ("none", "null", "-", "no"):
+                dup = ""
+            out[int(x["id"])] = {"relevant": bool(x.get("relevant")), "urgent": bool(x.get("urgent")),
+                                 "duplicate_of": dup, "update": bool(x.get("update")),
+                                 "reason": str(x.get("reason", "")).strip(),
+                                 "fa": str(x.get("fa", "")).strip()}
+        except (KeyError, TypeError, ValueError):
+            continue
+    return out
+
+
+REWRITE_PROMPT = """You are a Persian-language news reporter. You receive website articles as JSON: [{"id": <number>, "outlet": "<English outlet name>", "outlet_fa": "<Persian outlet name>", "title": "...", "body": "..."}].
+Return a JSON array with one entry per article: {"id": <same number>, "fa": "<Persian report>"}.
+
+How to write each report:
+- Write it as a reporter conveying what the outlet reported, in fluent, natural, formal news Persian. Begin with the attribution «به گزارش <outlet_fa>» (use the outlet_fa value exactly) followed by the main news.
+- Do NOT translate sentence by sentence. Restructure sentences and choose your own wording, so the text is not a literal translation.
+- Do NOT summarize and do NOT drop details: keep every fact, name, number, date, place, claim, and every direct quote. Quotes stay in quotation marks with the speaker's name and role.
+- Do not add anything that is not in the article: no analysis, no opinion, no background of your own.
+- Do NOT censor or refuse: report violent, military and political content exactly as the article states it.
+- Write person, place and organization names in their standard Persian spelling, fully in Persian script. Never attach Latin letters to Persian letters inside one word.
+- Keep numbers, dates and units unchanged. Use short paragraphs separated by one blank line.
+- Do not use emoji or hashtags, and do not mention that the text was rewritten.
+- Output only the JSON array, nothing else."""
+
+REWRITE_SCHEMA = {
+    "type": "ARRAY",
+    "items": {"type": "OBJECT",
+              "properties": {"id": {"type": "INTEGER"}, "fa": {"type": "STRING"}},
+              "required": ["id", "fa"]},
+}
+
+
+def gemini_rewrite(model, items, system_prompt):
+    """-> {id: persian_text}"""
+    arr = _gemini_json(model, system_prompt, items, REWRITE_SCHEMA)
+    out = {}
+    for x in arr:
+        try:
+            if str(x.get("fa", "")).strip():
+                out[int(x["id"])] = str(x["fa"]).strip()
+        except (KeyError, TypeError, ValueError):
+            continue
+    return out
 
 
 def google_translate(text):
@@ -452,11 +504,13 @@ def looks_ok(src, fa):
     return True
 
 
-def make_batches(posts):
+def make_batches(posts, max_items=None, max_chars=None, field="text"):
+    max_items = max_items or BATCH_SIZE
+    max_chars = max_chars or BATCH_CHARS
     batches, cur, size = [], [], 0
     for p in posts:
-        n = len(p["text"])
-        if cur and (len(cur) >= BATCH_SIZE or size + n > BATCH_CHARS):
+        n = len(p[field])
+        if cur and (len(cur) >= max_items or size + n > max_chars):
             batches.append(cur)
             cur, size = [], 0
         cur.append(p)
@@ -476,6 +530,7 @@ def process_posts(posts, recent=None):
     kws = load_keywords()
     dead = set()      # models that hit quota/auth problems during this run
     fa_ids = {p["id"] for p in posts if is_persian(p["text"])}
+    src_of = {p["id"]: p["source"] for p in posts if p.get("source")}     # website articles
 
     def try_models(need):
         for model in GEMINI_MODELS:
@@ -484,7 +539,8 @@ def process_posts(posts, recent=None):
             if model in dead:
                 continue
             try:
-                got = gemini_filter(model, [{"id": i, "text": t} for i, t in need.items()], recent, system_prompt)
+                got = gemini_filter(model, [{"id": i, "text": t, **({"source": src_of[i]} if i in src_of else {})}
+                                            for i, t in need.items()], recent, system_prompt)
             except QuotaError as e:
                 log("  quota:", e)
                 dead.add(model)
@@ -502,6 +558,9 @@ def process_posts(posts, recent=None):
                     del need[i]
                 elif i in fa_ids:                      # Persian: publish the cleaned original
                     result[i] = {**v, "fa": need[i], "ai": True}
+                    del need[i]
+                elif i in src_of:                      # website article: rewritten in a separate step
+                    result[i] = {**v, "fa": "", "ai": True}
                     del need[i]
                 elif looks_ok(need[i], v["fa"]):
                     result[i] = {**v, "ai": True}
@@ -529,6 +588,9 @@ def process_posts(posts, recent=None):
             if i in fa_ids:
                 result[i] = {**base, "fa": t, "reason": "بدون هوش مصنوعی (کلیدواژه)"}
                 continue
+            if i in src_of:
+                result[i] = {**base, "fa": "", "reason": "بدون هوش مصنوعی (کلیدواژه)"}
+                continue
             try:
                 fa = google_translate(t)
                 if looks_ok(t, fa):
@@ -538,6 +600,78 @@ def process_posts(posts, recent=None):
             except Exception as e:
                 log(f"  item {i}: google translate failed: {str(e)[:200]}")
     return result
+
+
+def rewrite_ok(src, fa, outlet_fa):
+    if not fa or not PERSIAN_RE.search(fa) or MIXED_SCRIPT_RE.search(fa):
+        return False
+    return len(fa) >= 0.45 * len(src)          # "no summary": a short result means details were dropped
+
+
+def rewrite_articles(items):
+    """items: [{'id','outlet','outlet_fa','title','body'}] -> {id: persian text with attribution}.
+    Gemini rewrites in a reporter's voice. There is deliberately no literal-translation fallback."""
+    result = {}
+    prompt = REWRITE_PROMPT
+    g = load_glossary()
+    if g:
+        prompt += "\n\nGlossary (always use these translations):\n" + "\n".join(g)
+    dead = set()
+    for it in items:
+        it["body"] = it["body"][:REWRITE_BODY_MAX]
+        it["_len"] = len(it["title"]) + len(it["body"])
+    by_id = {it["id"]: it for it in items}
+
+    def src_len(i):
+        return by_id[i]["_len"]
+
+    def attribute(i, fa):
+        o = by_id[i]["outlet_fa"]
+        return fa if o in fa[:200] else f"به گزارش {o}:\n{fa}"
+
+    def try_models(batch):
+        need = {it["id"] for it in batch}
+        for model in GEMINI_MODELS:
+            if not need or not GEMINI_KEY:
+                return
+            if model in dead:
+                continue
+            payload = [{k: by_id[i][k] for k in ("id", "outlet", "outlet_fa", "title", "body")} for i in sorted(need)]
+            try:
+                got = gemini_rewrite(model, payload, prompt)
+            except QuotaError as e:
+                log("  quota:", e)
+                dead.add(model)
+                continue
+            except Exception as e:
+                log("  gemini rewrite error:", str(e)[:200])
+                if "HTTP 400" in str(e) or "HTTP 401" in str(e) or "HTTP 403" in str(e):
+                    dead.add(model)
+                continue
+            for i, fa in got.items():
+                if i in need and rewrite_ok("x" * src_len(i), fa, by_id[i]["outlet_fa"]):
+                    result[i] = attribute(i, fa)
+                    need.discard(i)
+
+    for batch in make_batches([{**it, "text": it["title"] + it["body"]} for it in items], REWRITE_BATCH, REWRITE_CHARS):
+        try_models(batch)
+        for it in batch:
+            i = it["id"]
+            if i in result:
+                continue
+            if len(batch) > 1:
+                try_models([by_id[i]])
+        # no literal machine-translation fallback for website articles: missing ids are retried next run
+    return result
+
+
+def web_post(src, it, ts):
+    """A website article in the same shape as a Telegram post."""
+    head = (it["title"] + "\n\n" + it["body"][:WEB_FILTER_CHARS]).strip()
+    return {"id": zlib.crc32(it["key"].encode("utf-8")), "link_id": 0, "key": it["key"], "link": it.get("link", ""),
+            "text": head, "title": it["title"], "body": it["body"], "channel": f"web:{src['name']}",
+            "ts": it.get("ts") or ts, "source": src["outlet_fa"], "outlet": src["name"],
+            "photos": [it["image"]] if (WEB_PHOTOS and it.get("image")) else [], "has_video": False}
 
 
 # ---------------------------------------------------------------- telegram ---
@@ -593,7 +727,7 @@ def send_post(post, fa_text):
     if fa_text:
         parts.append(fa_text)
     if ADD_SOURCE_LINK:
-        parts.append(f"📎 منبع: https://t.me/{post.get('channel', LEGACY_CHANNEL)}/{post['link_id']}")
+        parts.append("📎 منبع: " + (post.get("link") or f"https://t.me/{post.get('channel', LEGACY_CHANNEL)}/{post['link_id']}"))
     if FOOTER:
         parts.append(FOOTER)
     text = "\n\n".join(parts)
@@ -638,7 +772,7 @@ def send_review(post, verdict):
     if not REVIEW_CHAT:
         return
     note = "" if verdict.get("ai", True) else "\n(بدون هوش مصنوعی)"
-    src = f"https://t.me/{post.get('channel', LEGACY_CHANNEL)}/{post['link_id']}"
+    src = post.get("link") or f"https://t.me/{post.get('channel', LEGACY_CHANNEL)}/{post['link_id']}"
     text = f"⛔ {verdict.get('reason') or 'رد شد'}{note}\n\n{post['text'][:1500]}\n\n{src}"
     if DRY_RUN:
         log(f"  [dry-run] REJECTED post {post['id']}: {verdict.get('reason')}\n    " + post["text"][:120].replace("\n", " "))
@@ -677,8 +811,12 @@ def main():
     state = load_state()
     prune_recent(state)
 
+    web_srcs = web_sources.parse_sources(load_lines("WEB_SOURCES", WEB_SOURCES_FILE))
+    labels = {c: f"#{i + 1}" for i, c in enumerate(sources)}
+    labels.update({f"web:{w['name']}": f"web{i + 1}" for i, w in enumerate(web_srcs)})
+
     def tag(ch):
-        return ch if (DRY_RUN or VERBOSE_LOG) else f"#{sources.index(ch) + 1}"
+        return ch if (DRY_RUN or VERBOSE_LOG) else labels.get(ch, "?")
 
     # 1. collect new posts from every source
     all_new = []
@@ -704,6 +842,41 @@ def main():
         new = [posts[i] for i in ids if i > last]
         log(f"[{tag(ch)}] {len(new)} new post(s)")
         all_new.extend(new)
+
+    # 1b. news websites and official pages (seen-list instead of last_id)
+    for src in web_srcs:
+        ch = f"web:{src['name']}"
+        ws = state["web"].setdefault(src["name"], {"seen": None})
+        try:
+            items = web_sources.list_items(src)
+        except Exception as e:
+            log(f"[{tag(ch)}] cannot read source: {str(e)[:150]}")
+            continue
+        if not items:
+            log(f"[{tag(ch)}] source returned no items")
+            continue
+        if ws.get("seen") is None:
+            ws["seen"] = [it["key"] for it in items][-WEB_SEEN_KEEP:]
+            log(f"[{tag(ch)}] first run: {len(items)} existing item(s) marked as seen; nothing published from the past.")
+            continue
+        seen = set(ws["seen"])
+        new = [it for it in items if it["key"] not in seen]
+        if any(it.get("ts") for it in new):
+            new.sort(key=lambda it: it.get("ts") or 0)
+        else:
+            new.reverse()                                  # listing pages show the newest first
+        if len(new) > WEB_MAX_PER_SOURCE:                  # a big backlog: keep the newest, mark the rest as seen
+            ws["seen"] = (list(ws["seen"]) + [it["key"] for it in new[:-WEB_MAX_PER_SOURCE]])[-WEB_SEEN_KEEP:]
+            new = new[-WEB_MAX_PER_SOURCE:]
+        log(f"[{tag(ch)}] {len(new)} new article(s)")
+        now_ts = time.time()
+        for n, it in enumerate(new):
+            try:
+                full = web_sources.materialize(src, it)
+            except Exception as e:
+                log(f"[{tag(ch)}] article fetch failed: {str(e)[:120]}")
+                continue
+            all_new.append(web_post(src, full, now_ts + n * 0.001))
     save_state(state)
 
     if not all_new:
@@ -733,13 +906,35 @@ def main():
             else:
                 run_norms.append(n)
                 e["idx"] = len(to_check) + 1
-                to_check.append({"id": e["idx"], "text": cleaned})
+                to_check.append({"id": e["idx"], "text": cleaned, **({"source": p["source"]} if p.get("source") else {})})
 
     recent_prompt = [{"ref": f"R{k}", "fa": r.get("fa", "")}
                      for k, r in enumerate(state["recent"][-RECENT_IN_PROMPT:], 1)]
     recent_refs = {x["ref"] for x in recent_prompt}
     log(f"{len(all_new)} post(s) to handle, {len(to_check)} go to the AI filter")
     verdicts = process_posts(to_check, recent_prompt) if to_check else {}
+
+    # 2b. website articles that will be published: rewritten in a reporter's voice (separate step)
+    def rewrite_item(e):
+        p = e["post"]
+        return {"id": e["idx"], "outlet": p["outlet"], "outlet_fa": p["source"],
+                "title": p["title"], "body": clean_text(p["body"])}
+
+    rewrites, attempted = {}, set()
+    rw_entries = [e for e in entries
+                  if e["kind"] == "check" and e["post"].get("source") and verdicts.get(e["idx"])
+                  and verdicts[e["idx"]]["relevant"]
+                  and (not verdicts[e["idx"]]["duplicate_of"] or verdicts[e["idx"]]["update"])]
+    if rw_entries and GEMINI_KEY:
+        rewrites = rewrite_articles([rewrite_item(e) for e in rw_entries])
+        attempted = {e["idx"] for e in rw_entries}
+
+    def get_rewrite(e):
+        if e["idx"] not in attempted and GEMINI_KEY:
+            attempted.add(e["idx"])
+            rewrites.update(rewrite_articles([rewrite_item(e)]))
+        return rewrites.get(e["idx"], "")
+
     if GEMINI_KEY:
         today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
         if state["usage"].get("date") != today:
@@ -755,11 +950,14 @@ def main():
         p, ch = e["post"], e["post"]["channel"]
         if ch in blocked:
             continue
-        cs = state["channels"][ch]
         key = f"{ch}/{p['id']}"
 
         def advance():
-            cs["last_id"] = p["id"]
+            if ch.startswith("web:"):
+                ws = state["web"][ch[4:]]
+                ws["seen"] = (list(ws.get("seen") or []) + [p["key"]])[-WEB_SEEN_KEEP:]
+            else:
+                state["channels"][ch]["last_id"] = p["id"]
             state["fails"].pop(key, None)
             save_state(state)
 
@@ -803,7 +1001,14 @@ def main():
                 advance()
                 continue
             prefix = ("🔴 " if v["urgent"] else "") + ("🔄 به‌روزرسانی\n" if valid_dup and v.get("update") else "")
-            fa = prefix + v["fa"]
+            if p.get("source"):
+                body_fa = get_rewrite(e)
+                if not body_fa:
+                    fail("rewriting")
+                    continue
+            else:
+                body_fa = v["fa"]
+            fa = prefix + body_fa
 
         try:
             send_post(p, fa)
