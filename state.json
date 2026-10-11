@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107605
+   "last_id": 107606
   },
   "khabarfouri": {
    "last_id": 569066
   },
   "KH_B2": {
-   "last_id": 131267
+   "last_id": 131269
   },
   "TelNews_Magazine": {
-   "last_id": 100910
+   "last_id": 100911
   },
   "NE_WG": {
-   "last_id": 114054
+   "last_id": 114056
   }
  },
  "fails": {},
@@ -191,11 +191,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791721101.0,
-   "n": "yemen s houthis ansarallah renewed their warning to airlines aviation personnel and travelers against using saudi airports and airspace declaring them potential military targets with the exception of airports in the holy cities of mecca and medina the houthis urged airlines and passengers to take the warning seriously and said saudi arabia would bear responsibility for any consequences resulting f",
-   "fa": "🇾🇪❌🇸🇦 — حوثی‌های یمن (انصارالله) هشدار خود به خطوط هوایی، خدمه هوانوردی و مسافران را در خصوص عدم استفاده از فرودگاه‌ها و حریم هوایی عربستان تکرار کردند و آنها ر"
-  },
   {
    "t": 1791721201.0,
    "n": "فیلم جدید از حمله به فرودگاه ریاض که دیروز رخ داد",
@@ -490,10 +485,15 @@
    "t": 1791736671.0,
    "n": "محسن رضایی دیگر پاسخی به پیشنهاد های آمریکا برای توافق نمی دهیم",
    "fa": "🔴 ⭕️محسن رضایی: دیگر پاسخی به پیشنهاد های آمریکا برای توافق نمی‌دهیم!"
+  },
+  {
+   "t": 1791738027.0,
+   "n": "indian embassy in riyadh ksa announces an indian died of his injuries caused by yesterday s strike against terminal 3 of king khalid intl airport riyadh raising the death toll to 13 people",
+   "fa": "🔴 🔄 به‌روزرسانی 🇾🇪🇮🇳🇸🇦⚡️ — سفارت هند در ریاض، عربستان سعودی اعلام کرد که یک شهروند هندی بر اثر جراحات ناشی از حمله روز گذشته به ترمینال ۳ فرودگاه بین‌المللی ملک خالد در ریاض جان باخته و به این ترتیب شمار جان‌باختگان به ۱۳ نفر افزایش یافته است."
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 354
+  "requests": 355
  }
 }
