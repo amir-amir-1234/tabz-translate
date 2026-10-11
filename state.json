@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107603
+   "last_id": 107605
   },
   "khabarfouri": {
-   "last_id": 569063
+   "last_id": 569065
   },
   "KH_B2": {
-   "last_id": 131265
+   "last_id": 131266
   },
   "TelNews_Magazine": {
-   "last_id": 100909
+   "last_id": 100910
   },
   "NE_WG": {
-   "last_id": 114051
+   "last_id": 114052
   }
  },
  "fails": {},
@@ -47,7 +47,8 @@
     "https://www.foxnews.com/world/france-explodes-students-riot-education",
     "https://www.foxnews.com/world/inside-israels-plot-kill-hezbollah-chief-netanyahu-warned-biden-aide-would-jump-out-his-skin",
     "https://www.foxnews.com/world/pope-leo-announces-tumor-lung-surgery-planned-next-few-days",
-    "https://www.foxnews.com/world/abbas-delays-palestinian-elections-again-making-more-than-two-decades-without-vote"
+    "https://www.foxnews.com/world/abbas-delays-palestinian-elections-again-making-more-than-two-decades-without-vote",
+    "https://www.foxnews.com/world/italys-school-veil-ban-exposes-europes-assimilation-fight-expert-warns-us-could-next"
    ]
   },
   "WSJ": {
@@ -127,7 +128,8 @@
     "WP-WSJ-0003966642",
     "WP-WSJ-0003966166",
     "WP-WSJ-0003966535",
-    "WP-WSJ-0003967162"
+    "WP-WSJ-0003967162",
+    "SB10888506833709624716704593473410382529842"
    ]
   },
   "NYT": {
@@ -155,7 +157,8 @@
     "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
     "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html",
     "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
-    "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html"
+    "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
+    "https://www.nytimes.com/2026/10/11/world/middleeast/pakistan-federal-control-khyber-pakhtunkhwa.html"
    ]
   },
   "Treasury": {
@@ -188,16 +191,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791720958.0,
-   "n": "schools across riyadh will switch to remote learning for one week following yesterday s deadly attack on king khalid international airport according to an email sent to parents citing instructions from saudi arabia s ministry of education this marks the second time in less than a month that schools in the saudi capital have been ordered to suspend in person classes",
-   "fa": "🇸🇦⚡️ — مدارس سراسر ریاض به دنبال حمله مرگبار روز گذشته به فرودگاه بین‌المللی کلالخالد، به مدت یک هفته به آموزش مجازی روی خواهند آورد، این مطلب بر اساس ایمیلی که"
-  },
-  {
-   "t": 1791721092.0,
-   "n": "تصاویر ماهواره ای آتش سوزی ای را در سواحل عمان در پی هدف قرار گرفتن یک کشتی ثبت کرده اند",
-   "fa": "🔄 به‌روزرسانی 💢تصاویر ماهواره‌ای آتش‌سوزی‌ای را در سواحل عمان در پی هدف قرار گرفتن یک کشتی ثبت کرده‌اند."
-  },
   {
    "t": 1791721101.0,
    "n": "yemen s houthis ansarallah renewed their warning to airlines aviation personnel and travelers against using saudi airports and airspace declaring them potential military targets with the exception of airports in the holy cities of mecca and medina the houthis urged airlines and passengers to take the warning seriously and said saudi arabia would bear responsibility for any consequences resulting f",
@@ -487,10 +480,20 @@
    "t": 1791735964.0,
    "n": "ورود سامانه بارشی جدید به کشور از سه شنبه تقویت بارش ها در ۱۳ استان کارشناس هواشناسی از ورود سامانه بارشی جدید به کشور از روز سه شنبه ۲۱ مهر خبر داد و گفت بارش ها در ۱۳ استان تقویت می شود و در برخی مناطق احتمال وقوع سیلاب وجود دارد روز دوشنبه در امتداد ارتفاعات زاگرس از شمال تا جنوب این رشته کوه احتمال وقوع رگبار و رعدوبرق وجود دارد شاخص های ناپایداری نیز حاکی از احتمال وقوع صاعقه است ازاین رو به ",
    "fa": "ورود سامانه بارشی جدید به کشور از سه‌شنبه؛ تقویت بارش‌ها در ۱۳ استان کارشناس هواشناسی، از ورود سامانه بارشی جدید به کشور از روز سه‌شنبه (۲۱ مهر) خبر داد و گفت: بارش‌ها در ۱۳ استان تقویت می‌شود و در برخی مناطق احتمال وقوع سیلاب وجود دارد. روز دوشنبه در امتداد ارتفاعات زاگرس، از شمال تا جنوب این رشته‌کوه، احتمال وقوع رگبار و رعدوبرق وجود دارد. شاخص‌های ناپایداری نیز حاکی از احتمال وقوع صاعقه است؛ از"
+  },
+  {
+   "t": 1791736620.0,
+   "n": "opinion the race to defeat russia s jet drones the west needs to pay attention as ukraine defends itself against a novel russian weapon",
+   "fa": "به گزارش وال‌استریت ژورنال، غرب باید در شرایطی که اوکراین از خود در برابر یک سلاح نوین روسی دفاع می‌کند، توجه لازم را مبذول دارد."
+  },
+  {
+   "t": 1791736671.0,
+   "n": "محسن رضایی دیگر پاسخی به پیشنهاد های آمریکا برای توافق نمی دهیم",
+   "fa": "🔴 ⭕️محسن رضایی: دیگر پاسخی به پیشنهاد های آمریکا برای توافق نمی‌دهیم!"
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 351
+  "requests": 353
  }
 }
