@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107637
+   "last_id": 107639
   },
   "khabarfouri": {
-   "last_id": 569080
+   "last_id": 569081
   },
   "KH_B2": {
-   "last_id": 131304
+   "last_id": 131307
   },
   "TelNews_Magazine": {
    "last_id": 100928
   },
   "NE_WG": {
-   "last_id": 114084
+   "last_id": 114085
   }
  },
  "fails": {},
@@ -195,21 +195,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791727804.0,
-   "n": "iran s supreme national security council secretary mohsen rezaee trump has turned to smuggling by hiring a number of criminals operating in oman s coastal waters every day he claims that the strait of hormuz is open but in response i say you are engaged in smuggling while the strait is under iran s control and we are managing it over the past few months we have targeted five vessels used by smuggl",
-   "fa": "🔴 🇮🇷🇺🇸⚡️ — محسن رضایی، دبیر شورای عالی امنیت ملی ایران: ترامپ با استخدام تعدادی از جنایتکاران فعال در آب‌های ساحلی عمان به قاچاق روی آورده است. او هر روز ادعا می‌کند که تنگه هرمز باز است، اما در پاسخ به او می‌گویم: شما به قاچاق مشغول هستید، در حالی که تنگه تحت کنترل ایران است و ما آن را مدیریت می‌کنیم. طی چند ماه گذشته، ما هر شب پنج فروند کشتی مورد استفاده قاچاقچیان را در تنگه هرمز هدف قرار داده‌ا"
-  },
-  {
-   "t": 1791727861.0,
-   "n": "محسن رضایی ترامپ تعدادی از اشرار عمانی استخدام کرده تا نفت را در سواحل عمان قاچاق کنند فرمانده سنتکام کارهای قاچاق را رهبری می کند و او همچنین از ارتش امارات استفاده می کند",
-   "fa": "🔄 به‌روزرسانی ⭕️ محسن رضایی: ترامپ تعدادی از اشرار عمانی استخدام کرده تا نفت را در سواحل عمان قاچاق کنند فرمانده سنتکام کارهای قاچاق را رهبری می‌کند و او همچنین از ارتش امارات استفاده می‌کند"
-  },
-  {
-   "t": 1791727868.0,
-   "n": "iran s supreme national security council secretary mohsen rezaee the centcom commander is leading the smuggling operations in the strait of hormuz and he is also using the uae military they use five or six small vessels to transfer oil to larger tankers but we also target five or six of them every night",
-   "fa": "🔄 به‌روزرسانی 🇮🇷🇺🇸🇦🇪⚡️ — دبیر شورای عالی امنیت ملی ایران محسن رضایی: فرمانده سنتکام عملیات قاچاق در تنگه هرمز را رهبری می‌کند و او همچنین از ارتش امارات استفاده می‌کند. آن‌ها از پنج یا شش شناور کوچک برای انتقال نفت به نفتکش‌های بزرگ‌تر استفاده می‌کنند، اما ما هم هر شب پنج یا شش فروند از آن‌ها را هدف قرار می‌دهیم."
-  },
   {
    "t": 1791728457.0,
    "n": "ترامپ روسیه و اوکراین توافق کردند از این لحظه آتش بس انرژی در جنگ اوکراین برقرار می شود",
@@ -494,10 +479,25 @@
    "t": 1791749320.0,
    "n": "آسوشیتدپرس بن بست مذاکرات ایران و آمریکا تهران پاسخ واشینگتن را ناکافی دانست محسن رضایی اعلام کرد پاسخ اخیر آمریکا به پیشنهاد ایران برای پایان جنگ خواسته های تهران را تأمین نمی کند و واشینگتن باید موضع خود را درباره موارد مبهم روشن کند به گفته او آمریکا برخی از هفت شرط ایران را پذیرفته اما وضعیت سایر شروط مشخص نیست",
    "fa": "🔴 🔄 به‌روزرسانی 🇺🇸🇮🇷 آسوشیتدپرس ، بن‌بست مذاکرات ایران و آمریکا؛ 💢تهران پاسخ واشینگتن را ناکافی دانست: محسن رضایی اعلام کرد پاسخ اخیر آمریکا به پیشنهاد ایران برای پایان جنگ، خواسته‌های تهران را تأمین نمی‌کند و واشینگتن باید موضع خود را درباره موارد مبهم روشن کند. به گفته او، آمریکا برخی از هفت شرط ایران را پذیرفته، اما وضعیت سایر شروط مشخص نیست."
+  },
+  {
+   "t": 1791749645.0,
+   "n": "the saudi led coalition announces the interception of a drone in saudi arabia s eastern province",
+   "fa": "🔴 🇸🇦⚡️ — ائتلاف تحت رهبری عربستان سعودی از رهگیری و انهدام یک فروند پهپاد در استان شرقی عربستان خبر داد."
+  },
+  {
+   "t": 1791749738.0,
+   "n": "تعویق سفر ویتکاف و کوشنر به مسکو بنابر گزارش ها سفر برنامه ریزی شده استیو ویتکاف و جرد کوشنر نمایندگان آمریکا به مسکو به تعویق افتاد",
+   "fa": "تعویق سفر ویتکاف و کوشنر به مسکو بنابر گزارش‌ها، سفر برنامه ریزی شده استیو ویتکاف و جرد کوشنر، نمایندگان آمریکا به مسکو به تعویق افتاد."
+  },
+  {
+   "t": 1791749958.0,
+   "n": "seven bipartisan u s senators led by senate foreign relations committee ranking member jeanne shaheen have accused president trump of violating a 2022 law banning russian energy imports by authorizing russian diesel shipments to the u s the senators including republicans susan collins lisa murkowski thom tillis and john curtis alongside democrats richard blumenthal and ron wyden argued that the ad",
+   "fa": "🇺🇸🇷🇺⚡️ — هفت سناتور آمریکایی از دو حزب، به رهبری جین شاهین، عضو ارشد کمیته روابط خارجی سنا، دولت ترامپ را به نقض قانون سال ۲۰۲۲ ممنوعیت واردات انرژی از روسیه متهم کردند؛ این اقدام پس از صدور مجوز برای محموله‌های گازوئیل روسیه به ایالات متحده صورت گرفته است. این سناتورها، از جمله جمهوری‌خواهان سوزان کالینز، لیسا مورکوفسکی، تام تیلیس، و جان کورتیس، در کنار دموکرات‌ها ریچارد بلومنتال و رون وایدن، است"
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 376
+  "requests": 377
  }
 }
