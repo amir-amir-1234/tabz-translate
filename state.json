@@ -4,16 +4,16 @@
    "last_id": 107624
   },
   "khabarfouri": {
-   "last_id": 569075
+   "last_id": 569076
   },
   "KH_B2": {
-   "last_id": 131285
+   "last_id": 131287
   },
   "TelNews_Magazine": {
    "last_id": 100922
   },
   "NE_WG": {
-   "last_id": 114072
+   "last_id": 114074
   }
  },
  "fails": {},
@@ -160,7 +160,8 @@
     "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html",
     "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
     "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
-    "https://www.nytimes.com/2026/10/11/world/middleeast/pakistan-federal-control-khyber-pakhtunkhwa.html"
+    "https://www.nytimes.com/2026/10/11/world/middleeast/pakistan-federal-control-khyber-pakhtunkhwa.html",
+    "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html"
    ]
   },
   "Treasury": {
@@ -193,16 +194,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791723301.0,
-   "n": "اسرائیل کاتس وزیر دفاع اسرائیل اردوغان همچنان برای قاتلان و متجاوزان حماس فرش قرمز پهن می کند و از فعالیت های تروریستی ای که آن ها با همراهی اخوان المسلمین از خاک ترکیه علیه اسرائیل و کشورهای مهم مسلمان منطقه پیش می برند حمایت می کند ما رهبران حماس در غزه را از بین بردیم و نوبت خلیل الحیه هم خواهد رسید او نیز به اعماق جهنم فرستاده خواهد شد تا به اسماعیل هنیه و همراهانش بپیوندد",
-   "fa": "🔄 به‌روزرسانی 🇮🇱🇵🇸🇹🇷 اسرائیل کاتس، وزیر دفاع اسرائیل: اردوغان همچنان برای قاتلان و متجاوزان حماس فرش قرمز پهن می‌کند و از فعالیت‌های تروریستی‌ای که آن‌ها با همر"
-  },
-  {
-   "t": 1791723575.0,
-   "n": "حسام الدین آشنا راننده تاکسی بازنشسته سپاه بهم گفت شما اینقدر نامردید و لج منو در اوردید که از لج شما می گویم رضا پهلوی تا بسوزید و این بلارو شما به سر من اوردید",
-   "fa": "🇮🇷🇮🇷حسام الدین آشنا: راننده تاکسی بازنشسته سپاه بهم گفت شما اینقدر نامردید و لج منو در اوردید، که از لج شما می گویم رضا پهلوی تا بسوزید و این بلارو شما به سر من"
-  },
   {
    "t": 1791723721.0,
    "n": "وزیر خزانه داری آمریکا با پاکستان و ترکیه همکاری می کنیم تا همه مسیرهای زمینی ایران را قطع کنیم ایالات متحده در چارچوب آنچه اسکات بسنت وزیر خزانه داری آمریکا کارزار انزوای مطلق علیه تهران خوانده است با ترکیه و پاکستان برای مسدود کردن مسیرهای تجارت زمینی ایران همکاری می کند او همچنین گفت واشنگتن ممکن است حدود یک میلیارد دلار دارایی رمزارزی ایران را توقیف کند بسنت در مصاحبه ای با گرتا ون ساسترن در ش",
@@ -492,10 +483,20 @@
    "t": 1791743699.0,
    "n": "ksa s general authority of civil aviation announces a strike occured against king fahd intl airport dammam a few hours ago and announced a damage assessment and safety inspection is underway",
    "fa": "🔴 🇾🇪🇸🇦⚡️ — سازمان عمومی هوانوردی مدنی عربستان سعودی اعلام کرد که چند ساعت پیش فرودگاه بین‌المللی ملک فهد در دمام هدف حمله قرار گرفته و ارزیابی خسارات و بازرسی‌های ایمنی در جریان است."
+  },
+  {
+   "t": 1791743909.0,
+   "n": "saudi and yemeni airports hit in new round of strikes the airport in the saudi capital riyadh was struck a day after suffering a devastating attack the houthis said saudi aircraft hit the yemeni capital s airport",
+   "fa": "🔴 به گزارش نیویورک تایمز فرودگاه واقع در ریاض، پایتخت عربستان سعودی، یک روز پس از آنکه متحمل حمله‌ای ویرانگر شده بود، مورد اصابت قرار گرفت. حوثی‌ها اعلام کردند که هواپیماهای سعودی فرودگاه پایتخت یمن را هدف قرار داده‌اند."
+  },
+  {
+   "t": 1791744088.0,
+   "n": "تسنیم باراک راوید خبرنگار آکسیوس افسر واحد ۸۲۰۰ ارتش اسرائیل است",
+   "fa": "‼️تسنیم: باراک راوید، خبرنگار آکسیوس، افسر واحد ۸۲۰۰ ارتش اسرائیل است"
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 366
+  "requests": 368
  }
 }
