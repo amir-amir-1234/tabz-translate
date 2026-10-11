@@ -4,16 +4,16 @@
    "last_id": 107641
   },
   "khabarfouri": {
-   "last_id": 569082
+   "last_id": 569083
   },
   "KH_B2": {
-   "last_id": 131311
+   "last_id": 131313
   },
   "TelNews_Magazine": {
-   "last_id": 100930
+   "last_id": 100931
   },
   "NE_WG": {
-   "last_id": 114089
+   "last_id": 114091
   }
  },
  "fails": {},
@@ -134,7 +134,8 @@
     "WP-WSJ-0003965088",
     "WP-WSJ-0003967209",
     "SB10250048116742454433604593501932393825510",
-    "SB10500279467753764085504593505683552225480"
+    "SB10500279467753764085504593505683552225480",
+    "SB10772738430799224887904593503040801625934"
    ]
   },
   "NYT": {
@@ -197,16 +198,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791730907.0,
-   "n": "دبیر شورای عالی امنیت ملی اگر دوباره جنگی در بگیرد بسیاری از کابل ها دیتاسنترها تأسیسات هوش مصنوعی و سایت های دیگر موجود در منطقه نابود خواهند شد",
-   "fa": "🔴 ‌دبیر شورای‌ عالی امنیت ملی: اگر دوباره جنگی در بگیرد، بسیاری از کابل‌ها، دیتاسنترها، تأسیسات هوش مصنوعی و سایت‌های دیگر موجود در منطقه نابود خواهند شد"
-  },
-  {
-   "t": 1791731786.0,
-   "n": "iran s supreme national security council secretary mohsen rezaee we are fully prepared to demonstrate new capabilities if war breaks out again the united states has extremely expensive assets in the uae and around the strait of hormuz that we have not yet included among our targets",
-   "fa": "🔴 🇮🇷🇺🇸🇦🇪⚡️ — محسن رضایی، دبیر شورای عالی امنیت ملی ایران: ما کاملاً آماده‌ایم تا در صورت وقوع مجدد جنگ، قابلیت‌های جدیدی را به نمایش بگذاریم. ایالات متحده دارایی‌های فوق‌العاده گران‌قیمتی در امارات و پیرامون تنگه هرمز دارد که ما هنوز آن‌ها را در زمره اهداف خود قرار نداده‌ایم."
-  },
   {
    "t": 1791731877.0,
    "n": "دبیر شورای عالی امنیت ملی تهران به رویه های دیپلماتیک گذشتۀ خود باز نخواهد گشت",
@@ -496,10 +487,20 @@
    "t": 1791751402.0,
    "n": "iranian foreign minister abbas araghchi and saudi foreign minister faisal bin farhan held a telephone conversation this evening to discuss escalating tensions and ongoing developments in the region araghchi expressed concern over the continued escalation warning that pursuing military action instead of diplomatic solutions would further complicate the situation he stressed that regional crises can",
    "fa": "🇮🇷📞🇸🇦 — وزیر امور خارجه ایران، عباس عراقچی، و وزیر امور خارجه عربستان، فیصل بن فرحان، غروب امروز در یک تماس تلفنی درباره تشدید تنش‌ها و تحولات جاری در منطقه گفتگو کردند. عراقچی ضمن ابراز نگرانی نسبت به تداوم تنش‌زایی، هشدار داد که پیگیری اقدامات نظامی به جای راه حل‌های دیپلماتیک وضعیت را پیچیده‌تر خواهد کرد. وی تأکید کرد بحران‌های منطقه‌ای از طریق نظامی قابل حل نیستند و گفت ایران آمادگی دارد به تس"
+  },
+  {
+   "t": 1791751800.0,
+   "n": "opinion trump s diesel insult to lindsey graham the president s oil deal with putin helps the kremlin s war on ukraine s cities",
+   "fa": "به گزارش وال‌استریت ژورنال توافق نفتی رئیس‌جمهور با پوتین به جنگ کرملین علیه شهرهای اوکراین کمک می‌کند."
+  },
+  {
+   "t": 1791752022.0,
+   "n": "ظریف هرجور شده باید با آمریکا توافق کنیم",
+   "fa": "💢ظریف: هرجور شده باید با آمریکا توافق کنیم"
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 381
+  "requests": 383
  }
 }
