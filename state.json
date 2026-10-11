@@ -17,10 +17,10 @@
   }
  },
  "fails": {
-  "KH_B2/131181": 3,
-  "khabarfouri/568926": 2,
-  "NE_WG/113972": 2,
-  "tabzlive/107496": 1
+  "KH_B2/131181": 4,
+  "khabarfouri/568926": 3,
+  "NE_WG/113972": 3,
+  "tabzlive/107496": 2
  },
  "recent": [
   {
@@ -31,6 +31,6 @@
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 218
+  "requests": 225
  }
 }
