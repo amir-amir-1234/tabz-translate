@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107546
+   "last_id": 107549
   },
   "khabarfouri": {
-   "last_id": 569040
+   "last_id": 569041
   },
   "KH_B2": {
-   "last_id": 131240
+   "last_id": 131242
   },
   "TelNews_Magazine": {
    "last_id": 100888
   },
   "NE_WG": {
-   "last_id": 114033
+   "last_id": 114035
   }
  },
  "fails": {},
@@ -184,31 +184,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791708624.0,
-   "n": "عراقچی حملات اخیر به تأسیسات نفتی پالایشگاهی انرژی و هسته ای ایران خطرات جدی زیست محیطی ایجاد کرده",
-   "fa": "🔴 ⭕️عراقچی: حملات اخیر به تأسیسات نفتی، پالایشگاهی، انرژی و هسته‌ای ایران، خطرات جدی زیست‌محیطی ایجاد کرده"
-  },
-  {
-   "t": 1791708800.0,
-   "n": "درگیری در مرز پاکستان افغانستان ۱۲ کشته برجای گذاشت ارتش پاکستان اعلام کرد که تلاش گروهی از عناصر تروریستی برای نفوذ به قلمروی این کشور از افغانستان پس از شناسایی از سوی نیروهای امنیتی خنثی شد و طی این درگیری دست کم ۱۲ نفر از مهاجمان کشته شدند",
-   "fa": "درگیری در مرز پاکستان-افغانستان ۱۲ کشته‌ برجای گذاشت ⠀ ️ارتش پاکستان اعلام کرد که تلاش گروهی از عناصر تروریستی برای نفوذ به قلمروی این‌ کشور از افغانستان پس از "
-  },
-  {
-   "t": 1791709285.0,
-   "n": "wringing hope from the rubble of gaza the cease fire last october ostensibly brought an end to israel s war in gaza after the hamas led attacks on oct 7 2023 a year later however israeli strikes though less frequent haven t stopped",
-   "fa": "به گزارش نیویورک تایمز آتش‌بس اکتبر گذشته ظاهراً به جنگ اسرائیل در غزه پس از حملات به رهبری حماس در ۷ اکتبر ۲۰۲۳ پایان داد. با این حال، یک سال بعد، حملات اسرائی"
-  },
-  {
-   "t": 1791709512.0,
-   "n": "رئیس جمهور پاکستان وضعیت اضطراری اعلام کرد رئیس جمهور پاکستان به دنبال افزایش بی سابقه حوادث تروریستی خشونت ها و بحران شدید امنیت و انتظامات در ایالت پشتون نشین خیبرپختونخوا وضعیت اضطراری اعلام کرد",
-   "fa": "رئیس‌جمهور پاکستان وضعیت اضطراری اعلام کرد رئیس‌جمهور پاکستان به دنبال افزایش بی‌سابقه حوادث تروریستی، خشونت‌ها و بحران شدید امنیت و انتظامات در ایالت پشتون‌نشی"
-  },
-  {
-   "t": 1791709525.0,
-   "n": "آیا ایران پیش از انتخابات آمریکا حمله پیش دستانه می کند صادق الحسینی اگر تهران حمله آمریکا پس از انتخابات را قطعی بداند ممکن است به حمله پیش دستانه فکر کند اما چنین اقدامی می تواند بهانه ای برای پاسخ گسترده تر واشنگتن فراهم کند در نهایت همه چیز به میزان اطمینان تهران از تصمیمات بعدی ترامپ بستگی دارد",
-   "fa": "👨‍💻آیا ایران پیش از انتخابات آمریکا حمله پیش دستانه می‌کند؟ صادق الحسینی: اگر تهران حمله آمریکا پس از انتخابات را قطعی بداند، ممکن است به حمله پیش‌دستانه فکر کن"
-  },
   {
    "t": 1791709531.0,
    "n": "فرماندار مینودشت گلستان جسد یکی از مفقودین سیلاب کلاله کشف شد",
@@ -483,10 +458,35 @@
    "t": 1791721221.0,
    "n": "pope leo xiv announced that he will undergo surgery to remove a small lung nodule discovered during routine medical examinations the pope said the nodule was detected at an early stage and was well defined with doctors recommending its removal the vatican confirmed that surgery is scheduled for early next week and that leo is expected to remain hospitalized for approximately one week while recover",
    "fa": "🔄 به‌روزرسانی 🇻🇦⚡️ — پاپ لئو چهاردهم اعلام کرد که برای برداشتن یک توده کوچک ریوی که در جریان معاینات پزشکی معمول کشف شده بود، تحت عمل جراحی قرار خواهد گرفت. پاپ"
+  },
+  {
+   "t": 1791721407.0,
+   "n": "elon musk has backed president trump s call for a new president in ukraine saying i agree time for ukraine to get a new leader",
+   "fa": "🇺🇸🇺🇦⚡️ — ایلان ماسک از درخواست رئیس‌جمهور ترامپ برای انتخاب رئیس‌جمهوری جدید در اوکراین حمایت کرد و گفت: «من موافقم، وقت آن رسیده که اوکراین رهبر جدیدی پیدا کند"
+  },
+  {
+   "t": 1791721446.0,
+   "n": "حملات اسرائیل به شهر نبطیه الفوقه در جنوب لبنان",
+   "fa": "🇮🇱🇱🇧 حملات اسرائیل به شهر نبطیه الفوقه در جنوب لبنان"
+  },
+  {
+   "t": 1791721530.0,
+   "n": "kremlin spokesman dmitry peskov zelensky is currently in a state of hysteria and incapable of making well considered decisions",
+   "fa": "🇷🇺🇺🇦⚡️ — دیمیتری پسکوف، سخنگوی کرملین: زلنسکی در حال حاضر در حالت هیستری به سر می‌برد و قادر به اتخاذ تصمیمات سنجیده نیست."
+  },
+  {
+   "t": 1791721634.0,
+   "n": "ادامه ی رایزنی برای برقراری پروازها معاون دیپلماسی اقتصادی وزیر امور خارجه کارگروهی برای رصد و رفع مشکلات صنعت هواپیمایی کشور در پی تحریم های اخیر تشکیل شده است",
+   "fa": "ادامه‌ی رایزنی‌ برای برقراری پروازها معاون دیپلماسی اقتصادی وزیر امور خارجه: کارگروهی برای رصد و رفع مشکلات صنعت هواپیمایی کشور در پی تحریم‌های اخیر تشکیل شده ا"
+  },
+  {
+   "t": 1791721651.0,
+   "n": "israel s defense minister katz erdoğan continues to roll out the red carpet for hamas s murderers and rapists and to support the terrorist activities they promote from türkiye together with the muslim brotherhood against israel and against important muslim countries in the region we eliminated hamas s leaders in gaza and al hayya s turn will also come and he will be sent to meet haniyeh and his as",
+   "fa": "🔄 به‌روزرسانی 🇮🇱❌🇹🇷🇵🇸 — کاتز، وزیر دفاع اسرائیل: اردوغان همچنان به فرش قرمز پهن کردن برای قاتلان و متجاوزان حماس ادامه می‌دهد و از فعالیت‌های تروریستی آن‌ها که "
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 320
+  "requests": 321
  }
 }
