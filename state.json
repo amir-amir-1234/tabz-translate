@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107649
+   "last_id": 107650
   },
   "khabarfouri": {
    "last_id": 569084
   },
   "KH_B2": {
-   "last_id": 131317
+   "last_id": 131318
   },
   "TelNews_Magazine": {
    "last_id": 100936
   },
   "NE_WG": {
-   "last_id": 114096
+   "last_id": 114097
   }
  },
  "fails": {},
@@ -198,11 +198,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791733241.0,
-   "n": "دبیر شورای عالی امنیت ملی ما درحال بررسی تأسیس یک شورای جنگ اقتصادی هستیم احتمالا چنین شورایی تشکیل خواهد شد و ما به ترامپ و بسنت نشان خواهیم داد جنگ اقتصادی واقعا به چه معناست و آن ها در این نبرد در چه جایگاهی قرار دارند",
-   "fa": "دبیر شورای‌عالی امنیت ملی: ما درحال بررسی تأسیس یک «شورای جنگ اقتصادی» هستیم احتمالاً چنین شورایی تشکیل خواهد شد و ما به ترامپ و بسنت نشان خواهیم داد جنگ اقتصادی واقعاً به چه معناست و آن‌ها در این نبرد در چه جایگاهی قرار دارند."
-  },
   {
    "t": 1791733293.0,
    "n": "the international organization for migration has raised the death toll from a migrant boat sinking off djibouti while en route to yemen to at least 139 up from 109 earlier another 84 people remain missing while more than 80 survived",
@@ -497,10 +492,15 @@
    "t": 1791755359.0,
    "n": "earlier iraqi air force f 16iq fighting falcon fighter jets conducted airstrikes against an isis hideout in the hamrin mountains diyala governorate northeastern iraq",
    "fa": "🇮🇶❌🏴‍☠️ — پیش‌تر، جنگنده‌های اف-۱۶آی‌کیو نیروی هوایی عراق حملات هوایی علیه یک مخفیگاه داعش در کوه‌های حمرین در استان دیاله در شمال شرقی عراق انجام دادند."
+  },
+  {
+   "t": 1791756241.0,
+   "n": "u s mission saudi arabia announces u s government employees are now required to have special authorization to use king khalid intl airport riyadh king fahd intl airport dammam and king abdulaziz intl airport jeddah u s government employees also need special authorization to travel to the cities of qatif yanbu and taif u s government employees also are no longer allowed to travel within 20 miles of",
+   "fa": "🔴 🇺🇸🇸🇦⚡️ — ماموریت ایالات متحده در عربستان سعودی اعلام کرد که کارمندان دولت ایالات متحده اکنون برای استفاده از فرودگاه بین‌المللی ملک خالد در ریاض، فرودگاه بین‌المللی ملک فهد در دمام و فرودگاه بین‌المللی ملک عبدالعزیز در جده به مجوز ویژه نیاز دارند. کارمندان دولت ایالات متحده همچنین برای سفر به شهرهای قطیف، ینبع و طائف به مجوز ویژه نیاز دارند. کارمندان دولت ایالات متحده همچنین دیگر اجازه ندارند در"
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 388
+  "requests": 389
  }
 }
