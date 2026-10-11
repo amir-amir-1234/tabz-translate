@@ -7,13 +7,13 @@
    "last_id": 569071
   },
   "KH_B2": {
-   "last_id": 131275
+   "last_id": 131277
   },
   "TelNews_Magazine": {
    "last_id": 100918
   },
   "NE_WG": {
-   "last_id": 114061
+   "last_id": 114064
   }
  },
  "fails": {},
@@ -130,7 +130,8 @@
     "WP-WSJ-0003966535",
     "WP-WSJ-0003967162",
     "SB10888506833709624716704593473410382529842",
-    "WP-WSJ-0003965088"
+    "WP-WSJ-0003965088",
+    "WP-WSJ-0003967209"
    ]
   },
   "NYT": {
@@ -192,11 +193,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791722094.0,
-   "n": "آتش سوزی یک کشتی در مسیر جنوبی تنگه هرمز بر اثر اصابت یک پرتابه برخی ماهواره های حرارتی هم یک آتش سوزی بزرگ در این منطقه را ثبت کرده اند",
-   "fa": "🔄 به‌روزرسانی 🎥آتش‌سوزی یک کشتی در مسیر جنوبی تنگهٔ هرمز بر اثر اصابت یک پرتابه برخی ماهواره‌های حرارتی هم یک آتش‌سوزی بزرگ در این منطقه را ثبت کرده‌اند."
-  },
   {
    "t": 1791722292.0,
    "n": "polish security services held an emergency meeting on sunday after receiving intelligence about a potential attack targeting prime minister donald tusk and defense minister władysław kosiniak kamysz special services spokesman jacek dobrzyński described the threat as deadly serious warning that authorities believe there is a high probability it could be carried out officials said the state protecti",
@@ -491,10 +487,15 @@
    "t": 1791740246.0,
    "n": "بیانیه سفارت آمریکا درباره تلفات حمله به فرودگاه بین المللی ملک خالد سفارت آمریکا در ریاض مراتب اندوه عمیق خود را از تلفات جانی ناشی از حمله ۱۰ اکتبر به فرودگاه بین المللی ملک خالد ابراز کرد حمله ای که به کشته شدن یک شهروند آمریکایی و ۱۲ نفر دیگر انجامید",
    "fa": "بیانیه سفارت آمریکا درباره تلفات حمله به فرودگاه بین‌المللی ملک خالد سفارت آمریکا در ریاض مراتب اندوه عمیق خود را از تلفات جانی ناشی از حمله ۱۰ اکتبر به فرودگاه بین‌المللی ملک خالد ابراز کرد؛ حمله‌ای که به کشته شدن یک شهروند آمریکایی و ۱۲ نفر دیگر انجامید"
+  },
+  {
+   "t": 1791740340.0,
+   "n": "houthis and ukraine put trump in treacherous territory the spiraling global energy mess is ensnaring more countries and it isn t helping republican candidates",
+   "fa": "به گزارش وال‌استریت ژورنال آشفتگی رو به گسترش انرژی در جهان کشورهای بیشتری را درگیر خود کرده است و این وضعیت کمکی به نامزدهای حزب جمهوری‌خواه نمی‌کند."
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 360
+  "requests": 362
  }
 }
