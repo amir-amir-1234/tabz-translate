@@ -4,7 +4,7 @@
    "last_id": 107495
   },
   "khabarfouri": {
-   "last_id": 568925
+   "last_id": 568926
   },
   "KH_B2": {
    "last_id": 131182
@@ -13,14 +13,14 @@
    "last_id": 100859
   },
   "NE_WG": {
-   "last_id": 113971
+   "last_id": 113972
   }
  },
  "fails": {
-  "khabarfouri/568926": 4,
-  "NE_WG/113972": 4,
-  "tabzlive/107496": 3,
-  "KH_B2/131183": 1
+  "tabzlive/107496": 4,
+  "KH_B2/131183": 2,
+  "khabarfouri/568927": 1,
+  "NE_WG/113973": 1
  },
  "recent": [
   {
@@ -31,6 +31,6 @@
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 233
+  "requests": 240
  }
 }
