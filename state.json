@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107634
+   "last_id": 107636
   },
   "khabarfouri": {
    "last_id": 569080
   },
   "KH_B2": {
-   "last_id": 131302
+   "last_id": 131303
   },
   "TelNews_Magazine": {
-   "last_id": 100926
+   "last_id": 100927
   },
   "NE_WG": {
-   "last_id": 114082
+   "last_id": 114083
   }
  },
  "fails": {},
@@ -195,16 +195,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791726298.0,
-   "n": "وزیر خزانه داری آمریکا ایران در نهایت مجبور به تسلیم خواهد شد",
-   "fa": "⭕️وزیر خزانه‌داری آمریکا: ایران در نهایت مجبور به تسلیم خواهد شد"
-  },
-  {
-   "t": 1791727009.0,
-   "n": "محسن رضایی عاقبت قدرت هایی بزرگ تر از آمریکا که تلاش کرده اند ایران را فتح کنند زباله دان تاریخ بوده است",
-   "fa": "⭕️محسن رضایی: عاقبت قدرت‌هایی بزرگ‌تر از آمریکا که تلاش کرده‌اند ایران را فتح کنند، زباله‌دان تاریخ بوده است."
-  },
   {
    "t": 1791727168.0,
    "n": "houthi run al masirah reports that royal saudi air force airstrikes targeted sanaa international airport a short while ago",
@@ -494,10 +484,20 @@
    "t": 1791747540.0,
    "n": "کانال۱۳ عبری ارتش اسرائیل در آماده باش بسیار سطح بالایی قرار دارد و خود را برای سه سناریو آماده می کند ۱ حمله مستقل به ایران ۲ عملیات مشترک با آمریکا ۳ مقابله با حملات احتمالی موشکی ایران",
    "fa": "🔴 🚨کانال۱۳ عبری: ارتش اسرائیل در آماده باش بسیار سطح بالایی قرار دارد و خود را برای سه سناریو آماده می‌کند: ۱- حمله مستقل به ایران. ۲- عملیات مشترک با آمریکا. ۳- مقابله با حملات احتمالی موشکی ایران."
+  },
+  {
+   "t": 1791748377.0,
+   "n": "president trump s proposed energy ceasefire between russia and ukraine would initially require both sides to halt attacks on oil refineries with washington expecting ukrainian president zelensky to comply according to axios citing a white house official the administration hopes a refinery for refinery agreement could eventually expand to include power plants and electricity grids the russians are ",
+   "fa": "🔄 به‌روزرسانی 🇺🇸🇺🇦🇷🇺⚡️ — پیشنهاد آتش‌بس انرژی رئیس‌جمهور ترامپ میان روسیه و اوکراین در ابتدا نیازمند توقف حملات دو طرف به پالایشگاه‌های نفت است و به گفته آکسیوس به نقل از یک مقام کاخ سفید، واشنگتن انتظار دارد ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، از آن تبعیت کند. این دولت امیدوار است که توافق «پالایشگاه در ازای پالایشگاه» در نهایت بتواند نیروگاه‌ها و شبکه‌های برق را نیز در بر بگیرد. این مقام کاخ سف"
+  },
+  {
+   "t": 1791748429.0,
+   "n": "white house officials warn that ukraine s attacks on russian oil refineries are hurting zelensky s relationship with trump more than they re damaging russia axios reports trump is really mad he feels zelensky is taking the u s for granted a white house official said",
+   "fa": "🔄 به‌روزرسانی 🇺🇸🇺🇦🇷🇺⚡️ — مقامات کاخ سفید هشدار می‌دهند که حملات اوکراین به پالایشگاه‌های نفت روسیه، بیش از آنکه به روسیه آسیب برساند، به رابطه زلنسکی با ترامپ لطمه می‌زند، آکسیوس گزارش می‌دهد. یک مقام کاخ سفید گفت: «ترامپ واقعاً عصبانی است. او احساس می‌کند زلنسکی ایالات متحده را امری بدیهی فرض می‌کند.»"
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 374
+  "requests": 375
  }
 }
