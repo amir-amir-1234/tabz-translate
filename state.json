@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107541
+   "last_id": 107546
   },
   "khabarfouri": {
    "last_id": 569040
   },
   "KH_B2": {
-   "last_id": 131239
+   "last_id": 131240
   },
   "TelNews_Magazine": {
-   "last_id": 100887
+   "last_id": 100888
   },
   "NE_WG": {
-   "last_id": 114032
+   "last_id": 114033
   }
  },
  "fails": {},
@@ -150,7 +150,8 @@
     "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html",
     "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
     "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html",
-    "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html"
+    "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
+    "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html"
    ]
   },
   "Treasury": {
@@ -183,51 +184,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791706801.0,
-   "n": "سریلانکا برنامه ای فوری برای کمک به 19 نفتکش ایرانی که در آب های بین المللی نزدیک سواحل آن سرگردان شده اند ندارد علی رغم گزارش ها مبنی بر کمبود غذا آب و سوخت این کشتی ها ماه ها پس از محاصره تنگه هرمز توسط نیروی دریایی آمریکا سرگردان بوده اند سریلانکا می گوید باید منافع ملی خود را در اولویت قرار دهد و خطر تحریم های ثانویه ایالات متحده را در نظر بگیرد اگرچه واشنگتن هیچ هشدار مستقیمی صادر نکرده است",
-   "fa": "🇱🇰🇮🇷🇺🇸❌سریلانکا برنامه‌ای فوری برای کمک به 19 نفتکش ایرانی که در آب‌های بین‌المللی نزدیک سواحل آن سرگردان شده‌اند، ندارد، علی‌رغم گزارش‌ها مبنی بر کمبود غذا، آب"
-  },
-  {
-   "t": 1791707101.0,
-   "n": "پاسخ مجلس به ثابتی جلسات حضوری برای از نصاب نیفتادن تعطیل شده نه قالیباف ایمان شمسایی رییس مرکز ارتباطات رسانه و امور فرهنگی مجلس شورای اسلامی در پاسخ به ادعای ثابتی مبنی بر تعطیلی صحن بخاطر حفظ جان قالیباف نوشت آنچه باعث تعطیلی جلسات حضوری صحن شده حفظ جان رییس مجلس نیست بلکه از نصاب نیفتادن پارلمان است وی ادامه داد مجلس اگر از ۱۹۲ نماینده کمتر داشته باشد دیگر امکان برگزاری ندارد لذا نباید یکجا هم",
-   "fa": "💢پاسخ مجلس به ثابتی/ جلسات حضوری برای از نصاب نیفتادن تعطیل شده نه قالیباف 💢ایمان شمسایی رییس مرکز ارتباطات، رسانه و امور فرهنگی مجلس شورای اسلامی در پاسخ به اد"
-  },
-  {
-   "t": 1791707281.0,
-   "n": "المیادین عربستان سعودی از دولت چین خواسته است تا رسما با صنعا برای اعلام آتش بس بین دو طرف میانجیگری کند",
-   "fa": "⭕️المیادین: عربستان سعودی از دولت چین خواسته است تا رسماً با صنعا برای اعلام آتش‌بس بین دو طرف میانجیگری کند"
-  },
-  {
-   "t": 1791707416.0,
-   "n": "ادعای یک روحانی بعضی از پایگاه های آمریکا تا ۵۰ سال آینده قابل بازسازی نیستند به نقطه رهایی رسیدیم سپر دفاعی اسرائیل از بین رفته",
-   "fa": "💢ادعای یک روحانی: بعضی از پایگاه های آمریکا تا ۵۰ سال آینده قابل بازسازی نیستند؛به نقطه رهایی رسیدیم/سپر دفاعی اسرائیل از بین رفته"
-  },
-  {
-   "t": 1791707601.0,
-   "n": "مین ها نفت عربستان را به آتش کشیدند منابع رهیابی محموله های دریایی می گویند ابرنفتکشی که دیشب در مسیر غیرقانونی تنگه هرمز منفجر شد حامل ۲ میلیون نفت خام عربستان بوده است شب گذشته نیروی دریایی سپاه ویدئویی از آتش سوزی یک ابرنفتکش در مسیر پرخطر هرمز منتشر کرد که قصد خروج غیرمجاز از تنگه را داشت",
-   "fa": "🔴 مین‌ها نفت عربستان را به آتش کشیدند منابع رهیابی‌ محموله‌های دریایی می‌گویند ابرنفتکشی که دیشب در مسیر غیرقانونی تنگهٔ هرمز منفجر شد، حامل ۲ میلیون نفت خام عر"
-  },
-  {
-   "t": 1791707906.0,
-   "n": "صدای بلندی که امروز ساعت ۶ صبح حوالی فرودگاه مهرآباد شنیده می شد و باعث وحشت ساکنین شد وسیله ای که سوت شدید می کشد و چیزی شبیه یک جنگنده دنبالش در پرواز بوده است",
-   "fa": "🔴 💢صدای بلندی که امروز ساعت ۶ صبح حوالی فرودگاه مهرآباد شنیده می‌شد و باعث وحشت ساکنین شد وسیله‌ای که سوت شدید می‌کشد و چیزی شبیه یک جنگنده دنبالش در پرواز بوده"
-  },
-  {
-   "t": 1791707992.0,
-   "n": "ریزش بازار سهام عربستان در پی حمله انصارالله به فرودگاه ریاض شاخص اصلی بازار سهام عربستان tasi با افت 1 درصدی مواجه شد و اکثر نمادهای تشکیل دهنده آن از جمله بانک ملی عربستان بزرگترین وام دهنده این کشور که 1 درصد کاهش داشت روندی نزولی را تجربه کردند ارزش سهام غول نفتی آرامکو نیز 0 6 درصد افت کرد",
-   "fa": "ریزش بازار سهام عربستان در پی حمله انصارالله به فرودگاه ریاض شاخص اصلی بازار سهام عربستان (TASI) با افت 1 درصدی مواجه شد و اکثر نمادهای تشکیل‌دهنده آن، از جمله "
-  },
-  {
-   "t": 1791708061.0,
-   "n": "روزنامه خراسان واشنگتن و تل آویو تصمیم برای شروع جنگ بعدی را گرفته اند",
-   "fa": "🔴 🚨روزنامه خراسان: واشنگتن و تل آویو تصمیم برای شروع جنگ بعدی را گرفته‌اند"
-  },
-  {
-   "t": 1791708451.0,
-   "n": "اگر همه با هم باشیم قدرتمندیم و دشمن نمی تواند جسارتی کند پزشکیان در جشن لبخند وطن به مناسبت هفته ملی کودک با کنار هم بودن ایرانی بسازیم پرقدرت باصلابت و در همه زمینه ها رشد کنیم",
-   "fa": "🇮🇷 اگر همه با هم باشیم قدرتمندیم و دشمن نمی تواند جسارتی کند 💢پزشکیان در جشن لبخند وطن به مناسبت هفته ملی کودک: با کنار هم بودن ایرانی بسازیم پرقدرت، باصلابت و "
-  },
   {
    "t": 1791708624.0,
    "n": "عراقچی حملات اخیر به تأسیسات نفتی پالایشگاهی انرژی و هسته ای ایران خطرات جدی زیست محیطی ایجاد کرده",
@@ -482,10 +438,55 @@
    "t": 1791720537.0,
    "n": "ستون های دود از فرودگاه بین المللی دمام در عربستان در پی حملات حوثی های یمن",
    "fa": "🔴 🇸🇦ستون‌های دود از فرودگاه بین‌المللی دمام در عربستان در پی حملات حوثی‌های یمن"
+  },
+  {
+   "t": 1791720517.0,
+   "n": "saudi arabia has few options as houthis aim at heart of its ambitions three deadly attacks by the iran backed houthis in yemen on an airport in the saudi capital underscored the asymmetrical nature of their conflict with the kingdom",
+   "fa": "به گزارش نیویورک تایمز سه حمله مرگبار از سوی شورشیان حوثی در یمن که از حمایت ایران برخوردارند به فرودگاهی در پایتخت عربستان سعودی، ماهیت نامتقارن درگیری آن‌ها ب"
+  },
+  {
+   "t": 1791720634.0,
+   "n": "وزیر دفاع اسرائیل تهدید کرد اسرائیل بزودی خلیل الحیه رهبر سیاسی حماس که در ترکیه یا قطر حضور دارد را ترور خواهد کرد",
+   "fa": "🔴 ⭕️وزیر دفاع اسرائیل تهدید کرد: اسرائیل بزودی خلیل الحیه، رهبر سیاسی حماس که در ترکیه یا قطر حضور دارد را ترور خواهد کرد"
+  },
+  {
+   "t": 1791720692.0,
+   "n": "new western intelligence agencies have warned european defense industry executives of an increasing threat of russian assassination plots according to ft citing officials from five european intelligence services senior executives particularly those involved in drone manufacturing and supplying military equipment to ukraine are being targeted by russian operatives russia s gru military intelligence",
+   "fa": "🇷🇺🇪🇺⚡️ — تازه: آژانس‌های اطلاعاتی غربی به مدیران صنایع دفاعی اروپا درباره افزایش خطر توطئه‌های ترور توسط روسیه هشدار داده‌اند، بر اساس گزارش فایننشال تایمز به ن"
+  },
+  {
+   "t": 1791720877.0,
+   "n": "pope leo xiv the death penalty is inadmissible because it is an attack on the inviolability and dignity of the person the common good can be safeguarded and the requirements of justice can be met without recourse to capital punishment effective systems of detention have been developed that protect citizens while at the same time do not completely deprive those who are guilty of the possibility of ",
+   "fa": "🇻🇦⚡️ — پاپ لئو چهاردهم: مجازات اعدام غیرقابل قبول است زیرا این حمله به مصونیت و کرامت انسانی است. منافع عمومی را می‌توان حفظ کرد و الزامات عدالت را بدون متوسل ش"
+  },
+  {
+   "t": 1791720958.0,
+   "n": "schools across riyadh will switch to remote learning for one week following yesterday s deadly attack on king khalid international airport according to an email sent to parents citing instructions from saudi arabia s ministry of education this marks the second time in less than a month that schools in the saudi capital have been ordered to suspend in person classes",
+   "fa": "🇸🇦⚡️ — مدارس سراسر ریاض به دنبال حمله مرگبار روز گذشته به فرودگاه بین‌المللی کلالخالد، به مدت یک هفته به آموزش مجازی روی خواهند آورد، این مطلب بر اساس ایمیلی که"
+  },
+  {
+   "t": 1791721092.0,
+   "n": "تصاویر ماهواره ای آتش سوزی ای را در سواحل عمان در پی هدف قرار گرفتن یک کشتی ثبت کرده اند",
+   "fa": "🔄 به‌روزرسانی 💢تصاویر ماهواره‌ای آتش‌سوزی‌ای را در سواحل عمان در پی هدف قرار گرفتن یک کشتی ثبت کرده‌اند."
+  },
+  {
+   "t": 1791721101.0,
+   "n": "yemen s houthis ansarallah renewed their warning to airlines aviation personnel and travelers against using saudi airports and airspace declaring them potential military targets with the exception of airports in the holy cities of mecca and medina the houthis urged airlines and passengers to take the warning seriously and said saudi arabia would bear responsibility for any consequences resulting f",
+   "fa": "🇾🇪❌🇸🇦 — حوثی‌های یمن (انصارالله) هشدار خود به خطوط هوایی، خدمه هوانوردی و مسافران را در خصوص عدم استفاده از فرودگاه‌ها و حریم هوایی عربستان تکرار کردند و آنها ر"
+  },
+  {
+   "t": 1791721201.0,
+   "n": "فیلم جدید از حمله به فرودگاه ریاض که دیروز رخ داد",
+   "fa": "🔄 به‌روزرسانی 🇸🇦🇾🇪🎬فیلم جدید از حمله به فرودگاه ریاض که دیروز رخ داد."
+  },
+  {
+   "t": 1791721221.0,
+   "n": "pope leo xiv announced that he will undergo surgery to remove a small lung nodule discovered during routine medical examinations the pope said the nodule was detected at an early stage and was well defined with doctors recommending its removal the vatican confirmed that surgery is scheduled for early next week and that leo is expected to remain hospitalized for approximately one week while recover",
+   "fa": "🔄 به‌روزرسانی 🇻🇦⚡️ — پاپ لئو چهاردهم اعلام کرد که برای برداشتن یک توده کوچک ریوی که در جریان معاینات پزشکی معمول کشف شده بود، تحت عمل جراحی قرار خواهد گرفت. پاپ"
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 317
+  "requests": 320
  }
 }
