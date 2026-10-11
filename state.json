@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107595
+   "last_id": 107598
   },
   "khabarfouri": {
    "last_id": 569056
   },
   "KH_B2": {
-   "last_id": 131260
+   "last_id": 131261
   },
   "TelNews_Magazine": {
    "last_id": 100906
   },
   "NE_WG": {
-   "last_id": 114047
+   "last_id": 114048
   }
  },
  "fails": {},
@@ -186,16 +186,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791719466.0,
-   "n": "تصاویر از لحظه وقوع زلزله ۷ ۶ ریشتری در پاناما ریزش بخشی از ساختمان روی سقف خودروها",
-   "fa": "💢تصاویر از لحظه وقوع زلزله ۷/۶ ریشتری در پاناما؛ ریزش بخشی از ساختمان روی سقف خودروها"
-  },
-  {
-   "t": 1791719522.0,
-   "n": "هاآرتص هزینه حمل ونقل یک نفتکش در حال حاضر از هزینه پرتاب یک موشک اسپیس ایکس هم بیشتر شده است",
-   "fa": "📸هاآرتص:‌ هزینه حمل‌ونقل یک نفتکش در حال حاضر از هزینه پرتاب یک موشک اسپیس‌ایکس هم بیشتر شده است!"
-  },
   {
    "t": 1791719596.0,
    "n": "جروزالم پست در میان 8 کشور کویت لبنان و سوریه در صدر گزینه ها برای گسترش توافق نامه های ابراهیم عادی سازی روابط قرار دارند طبق گزارشی از شورای امنیت ملی آمریکا",
@@ -485,10 +475,20 @@
    "t": 1791732370.0,
    "n": "iran s supreme national security council secretary mohsen rezaee we are dealing with a group of ignorant and foolish people in the united states who have not studied history and do not know the iranian nation as a result we have reached this situation",
    "fa": "🇮🇷🇺🇸⚡️ — محسن رضایی، دبیر شورای عالی امنیت ملی ایران: ما در ایالات متحده با گروهی از افراد نادان و احمق سر و کار داریم که تاریخ را مطالعه نکرده و ملت ایران را نمی‌شناسند؛ در نتیجه، به این وضعیت رسیده‌ایم."
+  },
+  {
+   "t": 1791732929.0,
+   "n": "iran s supreme national security council secretary mohsen rezaee iranians will never surrender to you and they will never back down from their demands until they obtain their rights from you bessent is known in the united states as a lying minister he has been making statements and promises for more than a year that he has failed to fulfill this man is someone who wants to confront the iranian nat",
+   "fa": "🇮🇷🇺🇸⚡️ — محسن رضایی، دبیر شورای عالی امنیت ملی ایران: ایرانیان هرگز در برابر شما تسلیم نخواهند شد و تا زمانی که حقوق خود را از شما نگ گیرند، از خواسته‌های خود عقب‌نشینی نخواهند کرد. بسنت در ایالات متحده به عنوان یک «وزیر دروغگو» شناخته می‌شود. او بیش از یک سال است که بیانیه‌ها و وعده‌هایی داده که نتوانسته آن‌ها را محقق کند. این مرد کسی است که می‌خواهد با ملت ایران مقابله کند و علیه معیشت آن‌ها جنگ"
+  },
+  {
+   "t": 1791732964.0,
+   "n": "iran s supreme national security council secretary mohsen rezaee just as the americans were defeated in the military war we will also defeat them in the economic war we have already prepared our plans and god willing we will announce a series of economic defense measures",
+   "fa": "🇮🇷🇺🇸⚡️ — محسن رضایی، دبیر شورای عالی امنیت ملی ایران: همان‌طور که آمریکایی‌ها در جنگ نظامی شکست خوردند، ما آن‌ها را در جنگ اقتصادی نیز شکست خواهیم داد. ما برنامه‌های خود را از پیش آماده کرده‌ایم و ان‌شاءالله مجموعه‌ای از اقدامات دفاع اقتصادی را اعلام خواهیم کرد."
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 345
+  "requests": 346
  }
 }
