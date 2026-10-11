@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107657
+   "last_id": 107660
   },
   "khabarfouri": {
    "last_id": 569084
@@ -199,16 +199,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791738027.0,
-   "n": "indian embassy in riyadh ksa announces an indian died of his injuries caused by yesterday s strike against terminal 3 of king khalid intl airport riyadh raising the death toll to 13 people",
-   "fa": "🔴 🔄 به‌روزرسانی 🇾🇪🇮🇳🇸🇦⚡️ — سفارت هند در ریاض، عربستان سعودی اعلام کرد که یک شهروند هندی بر اثر جراحات ناشی از حمله روز گذشته به ترمینال ۳ فرودگاه بین‌المللی ملک خالد در ریاض جان باخته و به این ترتیب شمار جان‌باختگان به ۱۳ نفر افزایش یافته است."
-  },
-  {
-   "t": 1791738214.0,
-   "n": "اسرائیل امشب در مورد ایران جلسه امنیتی برگزار می کند کابینه امنیتی رژیم صهیونیستی امشب یکشنبه شب جلسه ای با محوریت بررسی اوضاع در چند جبهه از جمله لبنان سوریه غزه و ایران تشکیل خواهد شد",
-   "fa": "🔴 اسرائیل امشب در مورد ایران جلسه امنیتی برگزار می‌کند کابینه امنیتی رژیم صهیونیستی امشب (یکشنبه شب) جلسه‌ای با محوریت بررسی اوضاع در چند جبهه از جمله لبنان، سوریه، غزه و ایران تشکیل خواهد شد."
-  },
   {
    "t": 1791738240.0,
    "n": "air travel emerges as dangerous front line in global conflicts missile launches have led airlines to abandon a critical flight path through saudi airspace which had connected two of the world s biggest economic engines",
@@ -498,10 +488,20 @@
    "t": 1791761238.0,
    "n": "منابع خبری از شنیده شدن صدای چند انفجار در حومه شهر سلیمانیه در اقلیم کردستان عراق خبر دادند",
    "fa": "🔴 🇮🇶🚨منابع خبری از شنیده شدن صدای چند انفجار در حومه شهر سلیمانیه در اقلیم کردستان عراق خبر دادند"
+  },
+  {
+   "t": 1791762150.0,
+   "n": "alert in abha city southwestern ksa",
+   "fa": "🇾🇪❌🇸🇦 — هشدار در شهر ابها، جنوب غربی عربستان سعودی."
+  },
+  {
+   "t": 1791762206.0,
+   "n": "all clear issued in abha city southwestern ksa after one minute probably glitch mistake",
+   "fa": "🇾🇪🇸🇦⚡️ — وضعیت سفید پس از یک دقیقه در شهر ابها، جنوب غربی عربستان سعودی اعلام شد. احتمالاً خطا یا اشتباه بوده است."
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 399
+  "requests": 400
  }
 }
