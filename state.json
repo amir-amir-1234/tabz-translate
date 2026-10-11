@@ -4,16 +4,16 @@
    "last_id": 107618
   },
   "khabarfouri": {
-   "last_id": 569072
+   "last_id": 569074
   },
   "KH_B2": {
    "last_id": 131281
   },
   "TelNews_Magazine": {
-   "last_id": 100919
+   "last_id": 100920
   },
   "NE_WG": {
-   "last_id": 114068
+   "last_id": 114069
   }
  },
  "fails": {},
@@ -193,11 +193,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791722292.0,
-   "n": "polish security services held an emergency meeting on sunday after receiving intelligence about a potential attack targeting prime minister donald tusk and defense minister władysław kosiniak kamysz special services spokesman jacek dobrzyński described the threat as deadly serious warning that authorities believe there is a high probability it could be carried out officials said the state protecti",
-   "fa": "🇵🇱⚡️ — سرویس‌های امنیتی لهستان روز یکشنبه پس از دریافت اطلاعاتی مبنی بر احتمال حمله به دونالد توسک، نخست‌وزیر، و ووادیسواف کوشینیاک-کامیش، وزیر دفاع این کشور، ج"
-  },
   {
    "t": 1791722356.0,
    "n": "انفجار جدید در تنگه",
@@ -492,10 +487,15 @@
    "t": 1791740340.0,
    "n": "houthis and ukraine put trump in treacherous territory the spiraling global energy mess is ensnaring more countries and it isn t helping republican candidates",
    "fa": "به گزارش وال‌استریت ژورنال آشفتگی رو به گسترش انرژی در جهان کشورهای بیشتری را درگیر خود کرده است و این وضعیت کمکی به نامزدهای حزب جمهوری‌خواه نمی‌کند."
+  },
+  {
+   "t": 1791742576.0,
+   "n": "سپاه با کشتی هایی که سامانه های ناوبری خود را خاموش کنند قاطعانه برخورد می کنیم نیروی دریایی سپاه اعلام می کند تمام کشتی های در محدوده تنگه هرمز که سامانه های ناوبری و شناسایی خود را خاموش کنند به عنوان متخاصم شناسایی و با آن به شدت و قاطعیت برخورد خواهد شد",
+   "fa": "🔴 سپاه: با کشتی‌هایی که سامانه‌های ناوبری خود را خاموش کنند قاطعانه برخورد می‌کنیم نیروی دریایی سپاه اعلام می کند: تمام کشتی‌های در محدوده تنگه هرمز که سامانه‌های ناوبری و شناسایی خود را خاموش کنند به عنوان متخاصم شناسایی و با آن به شدت و قاطعیت برخورد خواهد شد."
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 363
+  "requests": 364
  }
 }
