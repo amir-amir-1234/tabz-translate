@@ -120,13 +120,22 @@ def parse_brent(text):
     return m.group(1) if m else None
 
 
-_OUNCE_RE = re.compile(rf"^\s*[🔴🔵]\ufe0f?\s*({NUM})(?:\s+[\d:/\-.\s]{{3,25}})?\s*$")
+_OUNCE_RE = re.compile(rf"^[^\w]*({NUM})(?:\s+[\d:/\-.\s]{{3,25}})?\s*$")
 
 
 def parse_ounce(text):
-    """Strict: the whole post must be '🔴/🔵 number [timestamp]'."""
-    m = _OUNCE_RE.match(text.strip())
-    return m.group(1) if m else None
+    """Strict: the whole post must be '<emoji> number [timestamp]' (any emoji, e.g. 🔴/🔵),
+    and the number must look like a gold ounce price. Closed-market / other posts are skipped,
+    so the search goes back to the last real price (same rule as Brent)."""
+    t = text.strip().translate(_DIGITS)
+    m = _OUNCE_RE.match(t)
+    if not m:
+        return None
+    try:
+        v = float(m.group(1).replace(",", ""))
+    except ValueError:
+        return None
+    return m.group(1) if 1000 <= v <= 20000 else None
 
 
 def _line_number(line):
@@ -205,7 +214,7 @@ def build_message(p, footer=FOOTER):
     if p.get("usd"):
         lines.append(f"{RLM}💵 دلار آمریکا : {p['usd']}")
     if p.get("ounce"):
-        lines.append(f"{RLM}✴️انس جهانی : {p['ounce']}")
+        lines.append(f"{RLM}⚜انس جهانی : {p['ounce']}")
     if p.get("gold18"):
         lines.append(f"{RLM}🏅طلای 18 عیار : {p['gold18']}")
     if p.get("coin"):
