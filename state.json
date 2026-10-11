@@ -1,16 +1,16 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107549
+   "last_id": 107550
   },
   "khabarfouri": {
-   "last_id": 569041
+   "last_id": 569043
   },
   "KH_B2": {
-   "last_id": 131242
+   "last_id": 131244
   },
   "TelNews_Magazine": {
-   "last_id": 100888
+   "last_id": 100889
   },
   "NE_WG": {
    "last_id": 114035
@@ -46,7 +46,8 @@
     "https://www.foxnews.com/world/alleged-jalisco-cartel-leader-accused-drug-trafficking-fuel-smuggling-arrested-mexico",
     "https://www.foxnews.com/world/france-explodes-students-riot-education",
     "https://www.foxnews.com/world/inside-israels-plot-kill-hezbollah-chief-netanyahu-warned-biden-aide-would-jump-out-his-skin",
-    "https://www.foxnews.com/world/pope-leo-announces-tumor-lung-surgery-planned-next-few-days"
+    "https://www.foxnews.com/world/pope-leo-announces-tumor-lung-surgery-planned-next-few-days",
+    "https://www.foxnews.com/world/abbas-delays-palestinian-elections-again-making-more-than-two-decades-without-vote"
    ]
   },
   "WSJ": {
@@ -184,31 +185,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791709531.0,
-   "n": "فرماندار مینودشت گلستان جسد یکی از مفقودین سیلاب کلاله کشف شد",
-   "fa": "🔄 به‌روزرسانی 👨‍💻فرماندار مینودشت گلستان: جسد یکی از مفقودین سیلاب کلاله کشف شد"
-  },
-  {
-   "t": 1791709578.0,
-   "n": "شاخص کل بورس در پایان معاملات امروز با کاهش ۲۲ هزار واحدی به ۸ میلیون و ۲۴۴ هزار واحد رسید",
-   "fa": "🔄 به‌روزرسانی شاخص کل بورس در پایان معاملات امروز با کاهش ۲۲ هزار واحدی به ۸ میلیون و ۲۴۴ هزار واحد رسید."
-  },
-  {
-   "t": 1791710419.0,
-   "n": "منابع رهگیری کشتیرانی اعلام کردند ابرنفتکشی که شب گذشته هنگام عبور غیرقانونی از تنگه هرمز منفجر شد حامل دو میلیون تن نفت خام عربستان بود نیروی دریایی سپاه پاسداران انقلاب اسلامی شب گذشته ویدئویی را منتشر کرد که نشان می دهد یک سوپرنفتکش در گذرگاه خطرناک تنگه هرمز در حال آتش گرفتن است که قصد خروج غیرقانونی از تنگه را دارد",
-   "fa": "🔴 🔄 به‌روزرسانی 🇸🇦🇮🇷منابع رهگیری کشتیرانی اعلام کردند ابرنفتکشی که شب گذشته هنگام عبور غیرقانونی از تنگه هرمز منفجر شد حامل دو میلیون تن نفت خام عربستان بود. نی"
-  },
-  {
-   "t": 1791710445.0,
-   "n": "آزمایش موشکی در جنوب تهران",
-   "fa": "🔴 💢آزمایش موشکی در جنوب تهران."
-  },
-  {
-   "t": 1791711182.0,
-   "n": "سخنگوی سازمان انرژی اتمی منافعمان را یا با دیپلماسی می گیریم یا با نبرد",
-   "fa": "👨‍💻سخنگوی سازمان انرژی اتمی: منافعمان را یا با دیپلماسی می‌گیریم یا با نبرد"
-  },
   {
    "t": 1791711194.0,
    "n": "دریادار سیاری لازم باشد بازهم به شناورهای دشمن ضربه می زنیم معاون هماهنگ کننده ارتش امکانات و توانمندی هایی داریم که در دنیا زبانزد خاص و عام است",
@@ -483,10 +459,35 @@
    "t": 1791721651.0,
    "n": "israel s defense minister katz erdoğan continues to roll out the red carpet for hamas s murderers and rapists and to support the terrorist activities they promote from türkiye together with the muslim brotherhood against israel and against important muslim countries in the region we eliminated hamas s leaders in gaza and al hayya s turn will also come and he will be sent to meet haniyeh and his as",
    "fa": "🔄 به‌روزرسانی 🇮🇱❌🇹🇷🇵🇸 — کاتز، وزیر دفاع اسرائیل: اردوغان همچنان به فرش قرمز پهن کردن برای قاتلان و متجاوزان حماس ادامه می‌دهد و از فعالیت‌های تروریستی آن‌ها که "
+  },
+  {
+   "t": 1791721326.0,
+   "n": "abbas delays palestinian elections again making more than two decades without vote more than two decades after being elected to what was supposed to be a four year term palestinian authority president mahmoud abbas has once again postponed elections extending a nearly 20 year wait for voters to choose a new legislature abbas issued a decree friday pushing palestinian legislative council elections ",
+   "fa": "به گزارش فاکس نیوز محمود عباس، رئیس تشکیلات خودگردان فلسطین، بیش از دو دهه پس از انتخاب شدن برای یک دوره چهارساله، بار دیگر انتخابات را به تعویق انداخت و انتظار"
+  },
+  {
+   "t": 1791722079.0,
+   "n": "فلای دبی لغو پروازهای خود را به تل آویو تا پایان ماه جاری تمدید کرد شرکت هواپیمایی فلای دبی اعلام کرد که در پی تداوم شرایط ناپایدار امنیتی لغو تمامی پروازهای خود از مبدأ و به مقصد تل آویو را تا پایان ماه جاری میلادی تمدید کرده است",
+   "fa": "فلای ‌دبی لغو پروازهای خود را به تل‌آویو تا پایان ماه جاری تمدید کرد شرکت هواپیمایی «فلای‌دبی» اعلام کرد که در پی تداوم شرایط ناپایدار امنیتی، لغو تمامی پروازها"
+  },
+  {
+   "t": 1791722094.0,
+   "n": "آتش سوزی یک کشتی در مسیر جنوبی تنگه هرمز بر اثر اصابت یک پرتابه برخی ماهواره های حرارتی هم یک آتش سوزی بزرگ در این منطقه را ثبت کرده اند",
+   "fa": "🔄 به‌روزرسانی 🎥آتش‌سوزی یک کشتی در مسیر جنوبی تنگهٔ هرمز بر اثر اصابت یک پرتابه برخی ماهواره‌های حرارتی هم یک آتش‌سوزی بزرگ در این منطقه را ثبت کرده‌اند."
+  },
+  {
+   "t": 1791722292.0,
+   "n": "polish security services held an emergency meeting on sunday after receiving intelligence about a potential attack targeting prime minister donald tusk and defense minister władysław kosiniak kamysz special services spokesman jacek dobrzyński described the threat as deadly serious warning that authorities believe there is a high probability it could be carried out officials said the state protecti",
+   "fa": "🇵🇱⚡️ — سرویس‌های امنیتی لهستان روز یکشنبه پس از دریافت اطلاعاتی مبنی بر احتمال حمله به دونالد توسک، نخست‌وزیر، و ووادیسواف کوشینیاک-کامیش، وزیر دفاع این کشور، ج"
+  },
+  {
+   "t": 1791722356.0,
+   "n": "انفجار جدید در تنگه",
+   "fa": "🔴 🔄 به‌روزرسانی 🚨🚨انفجار جدید در تنگه"
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 321
+  "requests": 326
  }
 }
