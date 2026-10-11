@@ -7,13 +7,13 @@
    "last_id": 569081
   },
   "KH_B2": {
-   "last_id": 131308
+   "last_id": 131310
   },
   "TelNews_Magazine": {
-   "last_id": 100929
+   "last_id": 100930
   },
   "NE_WG": {
-   "last_id": 114086
+   "last_id": 114088
   }
  },
  "fails": {},
@@ -48,7 +48,8 @@
     "https://www.foxnews.com/world/inside-israels-plot-kill-hezbollah-chief-netanyahu-warned-biden-aide-would-jump-out-his-skin",
     "https://www.foxnews.com/world/pope-leo-announces-tumor-lung-surgery-planned-next-few-days",
     "https://www.foxnews.com/world/abbas-delays-palestinian-elections-again-making-more-than-two-decades-without-vote",
-    "https://www.foxnews.com/world/italys-school-veil-ban-exposes-europes-assimilation-fight-expert-warns-us-could-next"
+    "https://www.foxnews.com/world/italys-school-veil-ban-exposes-europes-assimilation-fight-expert-warns-us-could-next",
+    "https://www.foxnews.com/world/mojtaba-khamenei-defies-malicious-attacks-us-army-zeroes-irans-350000-troops"
    ]
   },
   "WSJ": {
@@ -195,11 +196,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791729592.0,
-   "n": "the saudi led coalition spokesperson reports that air defenses intercepted a cruise missile in the vicinity of riyadh s king khalid international airport",
-   "fa": "🔴 🇸🇦🇾🇪⚡️ — سخنگوی ائتلاف تحت رهبری عربستان گزارش داد که پدافند هوایی یک موشک کروز را در نزدیکی فرودگاه بین‌المللی ملک خالد در ریاض رهگیری کرده است."
-  },
   {
    "t": 1791729623.0,
    "n": "سخنگوی ائتلاف رهبری شده توسط عربستان سعودی اعلام کرد که پاره ای از یک پرتابه چند لحظه پیش به ترمینال ۴ فرودگاه بین المللی ملک خالد در ریاض اصابت کرده است",
@@ -494,10 +490,15 @@
    "t": 1791750524.0,
    "n": "u s envoys steve witkoff and jared kushner have postponed their planned visit to moscow amid tensions with ukraine pending clarification on whether kyiv and european governments are prepared to support a new unified peace proposal to present to russian president vladimir putin axios reports",
    "fa": "🔄 به‌روزرسانی 🇺🇸🇺🇦🇷🇺⚡️ — نمایندگان ایالات متحده، استیو ویتکاف و جرد کوشنر، سفر برنامه‌ریزی‌شده خود به مسکو را در میان تنش‌ها با اوکراین و در انتظار شفاف‌سازی درباره آمادگی کی‌یف و دولت‌های اروپایی برای حمایت از پیشنهاد صلح واحد جدید جهت ارائه به ولادیمیر پوتین، رئیس‌جمهور روسیه، به تعویق انداختند، آکسیوس گزارش می‌دهد."
+  },
+  {
+   "t": 1791750879.0,
+   "n": "mojtaba khamenei defies malicious attacks as us army zeroes in on iran s 350 000 troops iranian supreme leader mojtaba khamenei claimed oct 8 that u s and israeli strikes had failed to undermine iran s domestic security forces praising police personnel for resisting attacks launched in february under operations epic fury and roaring lion khamenei s remarks on x also came as the u s army released a",
+   "fa": "🔴 به گزارش فاکس نیوز مجتبی خامنه‌ای، رهبر ایران، روز ۸ اکتبر مدعی شد که حملات ایالات متحده و اسرائیل نتوانել است نیروهای امنیت داخلی ایران را تضعیف کند و از پرسنل پلیس به دلیل مقاومت در برابر حملات انجام شده در ماه فوریه در جریان عملیات‌های «خشم حماسی» و «شیر غران» تمجید کرد. اظهارات خامنه‌ای در شبکه اجتماعی ایکس همچنین همزمان با انتشار یک راهنمای جدید شناسایی در میدان نبرد از سوی ارتش ایالات متحد"
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 378
+  "requests": 380
  }
 }
