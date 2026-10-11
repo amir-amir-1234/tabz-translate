@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107492
+   "last_id": 107493
   },
   "khabarfouri": {
    "last_id": 568919
@@ -17,10 +17,10 @@
   }
  },
  "fails": {
-  "tabzlive/107493": 4,
-  "NE_WG/113968": 3,
-  "KH_B2/131175": 2,
-  "khabarfouri/568921": 1
+  "NE_WG/113968": 4,
+  "KH_B2/131175": 3,
+  "khabarfouri/568921": 2,
+  "tabzlive/107494": 1
  },
  "recent": [
   {
@@ -31,6 +31,6 @@
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 135
+  "requests": 144
  }
 }
