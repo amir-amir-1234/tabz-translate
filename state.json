@@ -1,36 +1,447 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107496
+   "last_id": 107537
   },
   "khabarfouri": {
-   "last_id": 568926
+   "last_id": 568948
   },
   "KH_B2": {
-   "last_id": 131183
+   "last_id": 131190
   },
   "TelNews_Magazine": {
    "last_id": 100859
   },
   "NE_WG": {
-   "last_id": 113972
+   "last_id": 113993
   }
  },
- "fails": {
-  "khabarfouri/568927": 4,
-  "NE_WG/113973": 4,
-  "tabzlive/107497": 3,
-  "KH_B2/131184": 1
+ "fails": {},
+ "web": {
+  "Fox News": {
+   "seen": [
+    "https://www.foxnews.com/world/israeli-combat-medicine-slashes-idf-deaths-after-oct-7-draws-us-military-interest",
+    "https://www.foxnews.com/world/inside-global-anti-israel-protests-organizers-activate-digital-playbook-street-demands-vilify-israel",
+    "https://www.foxnews.com/world/france-devouring-itself-school-riots-reveal-crisis-far-bigger-than-broken-classrooms",
+    "https://www.foxnews.com/world/massive-7-7-magnitude-earthquake-strikes-panama-officials-investigate-potential-tsunami-threat",
+    "https://www.foxnews.com/world/who-navi-pillay-nobel-peace-prize-winners-un-record-renews-fierce-antisemitism-accusations",
+    "https://www.foxnews.com/world/thousands-flood-brussels-streets-anti-austerity-protests-erupt-clashes-police",
+    "https://www.foxnews.com/world/nobel-peace-prize-awarded-un-jurist-accused-israel-committing-genocide-gaza",
+    "https://www.foxnews.com/world/behind-frances-student-riots-communists-unions-global-propaganda-network",
+    "https://www.foxnews.com/world/foreign-nationals-breach-us-nato-intel-hub-uk-military-base-556m-expansion",
+    "https://www.foxnews.com/world/woman-87-dies-carried-home-70-years-stretcher-eviction-spain",
+    "https://www.foxnews.com/world/iranian-protester-hanged-hours-after-marrying-imprisoned-fiancee-jail-phone-line",
+    "https://www.foxnews.com/world/mother-dead-russian-anti-plague-institute-worker-know-truth",
+    "https://www.foxnews.com/world/teen-wearing-helmet-camera-kills-worker-polish-school-amid-fears-copycat-attacks",
+    "https://www.foxnews.com/world/world-standing-christian-leaders-122-countries-unite-jerusalem-oct-7",
+    "https://www.foxnews.com/world/mike-waltz-fights-back-tears-revealing-what-hamas-hostage-refused-do-before-release",
+    "https://www.foxnews.com/world/former-cia-officer-warns-against-trusting-russia-account-mysterious-death-siberia",
+    "https://www.foxnews.com/world/french-school-riots-deepen-experts-point-far-left-alliance-fueling-broader-confrontation",
+    "https://www.foxnews.com/world/french-pm-rejects-police-brutality-claims-teens-severely-injured-protests-accidents-happen",
+    "https://www.foxnews.com/world/former-german-spy-chief-arrested-suspicion-espionage-attempted-treason",
+    "https://www.foxnews.com/world/alleged-killing-marine-prompts-us-military-restrict-off-base-liberty-okinawa",
+    "https://www.foxnews.com/world/drone-strike-sinks-ship-nato-waters-zelenskyy-warns-looming-massive-strike",
+    "https://www.foxnews.com/world/us-could-play-role-united-ireland-push-after-trumps-backing-irish-pm-says",
+    "https://www.foxnews.com/world/trump-waltz-link-france-riots-mass-immigration-thousands-arrested",
+    "https://www.foxnews.com/world/alleged-jalisco-cartel-leader-accused-drug-trafficking-fuel-smuggling-arrested-mexico",
+    "https://www.foxnews.com/world/france-explodes-students-riot-education"
+   ]
+  },
+  "WSJ": {
+   "seen": [
+    "WP-WSJ-0003952664",
+    "WP-WSJ-0003921269",
+    "WP-WSJ-0003966161",
+    "WP-WSJ-0003966492",
+    "WP-WSJ-0003966120",
+    "WP-WSJ-0003965530",
+    "WP-WSJ-0003964225",
+    "WP-WSJ-0003962961",
+    "WP-WSJ-0003964404",
+    "WP-WSJ-0003917366",
+    "WP-WSJ-0003961989",
+    "WP-WSJ-0003943774",
+    "WP-WSJ-0003959404",
+    "WP-WSJ-0003956042",
+    "WP-WSJ-0003949883",
+    "WP-WSJ-0003951850",
+    "WP-WSJ-0003961798",
+    "WP-WSJ-0003960448",
+    "WP-WSJ-0003959395",
+    "WP-WSJ-0003953882",
+    "WP-WSJ-0003951043",
+    "WP-WSJ-0003960699",
+    "WP-WSJ-0003953474",
+    "WP-WSJ-0003938512",
+    "WP-WSJ-0003940049",
+    "WP-WSJ-0003937599",
+    "SB10250048116742454433604593501911711032652",
+    "SB10250048116742454433604593501911052996842",
+    "SB10250048116742454433604593497890399069184",
+    "SB10250048116742454433604593493502246329168",
+    "SB10772738430799224887904593497561426031052",
+    "SB10772738430799224887904593497890763215304",
+    "WP-WSJ-0003963977",
+    "WP-WSJ-0003964227",
+    "WP-WSJ-0003961224",
+    "WP-WSJ-0003960375",
+    "WP-WSJ-0003960601",
+    "WP-WSJ-0003955352",
+    "WP-WSJ-0003948517",
+    "WP-WSJ-0003915338",
+    "WP-WSJ-0003948378",
+    "WP-WSJ-0003945483",
+    "WP-WSJ-0003964821",
+    "WP-WSJ-0003952374",
+    "WP-WSJ-0003953702",
+    "WP-WSJ-0003949226",
+    "WP-WSJ-0003901156",
+    "WP-WSJ-0003963047",
+    "WP-WSJ-0003952933",
+    "WP-WSJ-0003916210",
+    "WP-WSJ-0003941477",
+    "WP-WSJ-0003919845",
+    "WP-WSJ-0003423576",
+    "WP-WSJ-0003314675",
+    "WP-WSJ-0003273577",
+    "WP-WSJ-0003263620",
+    "WP-WSJ-0003201858",
+    "WP-WSJ-0003952598",
+    "WP-WSJ-0003939976",
+    "WP-WSJ-0003884214",
+    "WP-WSJ-0003868241",
+    "WP-WSJ-0003855714",
+    "WP-WSJ-0003961491",
+    "WP-WSJ-0003960796",
+    "WP-WSJ-0003947694",
+    "WP-WSJ-0003947116",
+    "WP-WSJ-0003966161",
+    "WP-WSJ-0003953882",
+    "WP-WSJ-0003947679",
+    "CRED-7570",
+    "CRED-3698",
+    "CRED-8082"
+   ]
+  },
+  "NYT": {
+   "seen": [
+    "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
+    "https://www.nytimes.com/2026/10/10/world/middleeast/palestinian-authority-elections-abbas.html",
+    "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html",
+    "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html",
+    "https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html",
+    "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
+    "https://www.nytimes.com/2026/10/08/business/iran-war-oil-prices.html",
+    "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
+    "https://www.nytimes.com/2026/10/08/world/middleeast/israel-embassy-milstein-huckabee.html",
+    "https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html",
+    "https://www.nytimes.com/2026/10/07/world/asia/malaysia-shipping-iran-oil-us-sanctions.html",
+    "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
+    "https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html",
+    "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html",
+    "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
+    "https://www.nytimes.com/2026/10/05/business/hormuz-saudi-iran-houthis.html",
+    "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-yemen-houthis-bab-al-mandab-strait.html",
+    "https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html",
+    "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
+    "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html",
+    "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
+    "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html"
+   ]
+  },
+  "Treasury": {
+   "seen": [
+    "https://home.treasury.gov/news/press-releases/sb0654/",
+    "https://home.treasury.gov/news/press-releases/sb0653/",
+    "https://home.treasury.gov/news/press-releases/sb0652/",
+    "https://home.treasury.gov/news/press-releases/sb0651/",
+    "https://home.treasury.gov/news/press-releases/sb0650/",
+    "https://home.treasury.gov/news/press-releases/sb0648/",
+    "https://home.treasury.gov/news/press-releases/sb0647/",
+    "https://home.treasury.gov/news/press-releases/sb0646/",
+    "https://home.treasury.gov/news/press-releases/sb0645/",
+    "https://home.treasury.gov/news/press-releases/sb0649/"
+   ]
+  },
+  "OFAC": {
+   "seen": [
+    "https://ofac.treasury.gov/recent-actions/20261009",
+    "https://ofac.treasury.gov/recent-actions/20261009_33",
+    "https://ofac.treasury.gov/recent-actions/20261008",
+    "https://ofac.treasury.gov/recent-actions/20261005",
+    "https://ofac.treasury.gov/recent-actions/20261002",
+    "https://ofac.treasury.gov/recent-actions/20261001",
+    "https://ofac.treasury.gov/recent-actions/20260930",
+    "https://ofac.treasury.gov/recent-actions/20260929",
+    "https://ofac.treasury.gov/recent-actions/20260929_33",
+    "https://ofac.treasury.gov/recent-actions/20260928"
+   ]
+  }
  },
  "recent": [
   {
    "t": 1791653393.0,
    "n": "a senior israeli official told channel 12 that israel will not launch a preemptive strike against iran before the october 27 legislative election",
    "fa": "🔴 🇮🇱🇮🇷⚡️ — یک مقام ارشد اسرائیلی به شبکه ۱۲ گفت اسرائیل پیش از انتخابات پارلمانی ۲۷ اکتبر هیچ حمله پیشگیرانه‌ای علیه ایران انجام نخواهد داد."
+  },
+  {
+   "t": 1791663619.0,
+   "n": "هشدار امنیتی سفارت آمریکا در ریاض به شهروندان آمریکایی سفارت آمریکا در ریاض با انتشار اعلامیه ای از همه شهروندان آمریکایی خواست از تردد به سمت فرودگاه بین المللی ملک خالد و مناطق اطراف آن دوری کنند",
+   "fa": "‌ هشدار امنیتی سفارت آمریکا در ریاض به شهروندان آمریکایی سفارت آمریکا در ریاض با انتشار اعلامیه‌ای از همه شهروندان آمریکایی خواست از تردد به سمت فرودگاه بین‌الم"
+  },
+  {
+   "t": 1791664222.0,
+   "n": "سخنگوی کاخ سفید قیمت سوخت و مواد غذایی کاهش خواهد یافت سخنگوی جدید کاخ سفید از توافق دونالد ترامپ برای واردات گازوئیل روسیه در آستانه انتخابات میان دوره ای کنگره آمریکا سوم نوامبر ۱۲ آبان دفاع کرد و وعده داد این توافق به کاهش قیمت سوخت و مواد غذایی در آمریکا کمک خواهد کرد",
+   "fa": "سخنگوی کاخ سفید: قیمت سوخت و مواد غذایی کاهش خواهد یافت سخنگوی جدید کاخ سفید، از توافق دونالد ترامپ برای واردات گازوئیل روسیه در آستانه انتخابات میان دوره ای کن"
+  },
+  {
+   "t": 1791664913.0,
+   "n": "president trump on iran we can end it really quick they don t know how nice i ve been to them",
+   "fa": "🇺🇸🇮🇷⚡️ — دونالد ترامپ درباره ایران: ما می‌توانیم خیلی سریع به این ماجرا پایان دهیم. آن‌ها نمی‌دانند من چقدر با آن‌ها مهربان بوده‌ام."
+  },
+  {
+   "t": 1791665732.0,
+   "n": "ترامپ داریم به این فکر می کنیم که نام تنگه هرمز را به تنگه ترامپ تغییر بدهیم",
+   "fa": "🇺🇸🇮🇷💢ترامپ: داریم به این فکر می‌کنیم که نام تنگه هرمز را به تنگه ترامپ تغییر بدهیم."
+  },
+  {
+   "t": 1791665786.0,
+   "n": "ترامپ متوهم ایرانیان عملا هیچ چیزی دیگر ندارند رئیس جمهور آمریکا کشتی های جنگی ایران کف دریا هستند و ایران دیگر نیروی هوایی ندارند توانایی موشکی و پهپادی ایران نیز از بین رفته است",
+   "fa": "ترامپ متوهم : ایرانیان عملا هیچ چیزی دیگر ندارند! رئیس جمهور آمریکا: کشتی های جنگی ایران کف دریا هستند و ایران دیگر نیروی هوایی ندارند. توانایی موشکی و پهپادی ا"
+  },
+  {
+   "t": 1791666113.0,
+   "n": "امارات از آتش گرفتن نفتکش خود خبر داد به دنبال صدور بیانیه نیروی دریایی سپاه درباره انفجار نفتکش متخلف در خلیج فارس امارات هم از آتش گرفتن نفتکش خود در این منطقه خبر داد در بیانیه گارد ملی امارات که عصر شنبه منتشر شد آمده تمامی ۲۲ خدمه که از اتباع آسیایی بودند نجات یافته و کمک های اولیه لازم به آن ها ارائه شده است از سوی دیگر ساعاتی پیش نیروی دریایی سپاه اعلام کرد یک فروند سوپرنفتکش متخلف حامل نفت",
+   "fa": "🔴 امارات از آتش گرفتن نفتکش خود خبر داد به‌دنبال صدور بیانیهٔ نیروی دریایی سپاه دربارهٔ انفجار نفتکش متخلف در خلیج‌فارس،‌ امارات هم از آتش‌گرفتن نفتکش خود در ای"
+  },
+  {
+   "t": 1791666293.0,
+   "n": "president trump we would go in blow up half of the middle east and leave under our great geniuses what a bunch of dopes we had standing here we had the dopiest people let s go to war with people blow up a country and then leave and then the country hates us and we don t understand why",
+   "fa": "🇺🇸⚡️ — پرزیدنت ترامپ: ما وارد می‌شدیم، نیمی از خاورمیانه را منفجر می‌کردیم و با حضور نابغه‌های بزرگمان خارج می‌شدیم. چه مشت احمق‌هایی آنجا داشتیم. ما احمق‌ترین "
+  },
+  {
+   "t": 1791666324.0,
+   "n": "saudi led coalition to restore legitimacy in yemen announces a projectile impacted in the vicinity of king fahd intl airport dammam eastern ksa",
+   "fa": "🔴 🇾🇪❌🇸🇦 — ائتلاف به رهبری عربستان سعودی برای بازگرداندن مشروعیت به یمن اعلام کرد یک پرتابه در نزدیکی فرودگاه بین‌المللی ملک فهد در دمام، واقع در شرق عربستان سعو"
+  },
+  {
+   "t": 1791666543.0,
+   "n": "president trump on abdul el sayed mohammed el sayed i call him mohammed somebody said his name isn t mohammed his name is abdul to me it s mohammed i m the president i can call him whatever the hell i want to me he s mohammed and he s a radical jihadist the guy s a jihadist i don t want a jihadist as a senator from michigan",
+   "fa": "🇺🇸⚡️ — پرزیدنت ترامپ درباره عبدال‌السید: محمد السید. من او کسی را محمد صدا می‌کنم. شخصی گفت: «نام او محمد نیست! نام او عبدال است.» برای من، او محمد است. من رئیس"
+  },
+  {
+   "t": 1791666773.0,
+   "n": "president trump on france s macron i don t know why i imitate him but i do because he s got a beautiful french accent the president of france he s not too happy lately i don t think how s france doing",
+   "fa": "🇺🇸🇫🇷⚡️ — پرزیدنت ترامپ درباره مکرون رئیس‌جمهور فرانسه: نمی‌دانم چرا از او تقلید می‌کنم، اما این کار را می‌کنم زیرا او لهجه زیبای فرانسوی دارد. رئیس‌جمهور فرانسه"
+  },
+  {
+   "t": 1791667409.0,
+   "n": "new israeli air force fighter jet takeoffs from tel nof ab central israel and another airbase in northern israel within the past 20 minutes",
+   "fa": "🔴 🇮🇱⚡️ — برخاستن جنگنده‌های جدید نیروی هوایی اسرائیل از پایگاه هوایی تل نوف در مرکز اسرائیل و یک پایگاه هوایی دیگر در شمال اسرائیل، طی ۲۰ دقیقه گذشته."
+  },
+  {
+   "t": 1791667509.0,
+   "n": "reports originating from iraqi channels that iran s airspace has closed are completely false",
+   "fa": "🔴 🇮🇷⚡️ — گزارش‌های منتشره از سوی کانال‌های عراقی مبنی بر بسته شدن حریم هوایی ایران کاملاً نادرست است."
+  },
+  {
+   "t": 1791667869.0,
+   "n": "حمله موشکی حوثی ها به فرودگاه ملک فهد دمام عربستان",
+   "fa": "🔴 🇸🇦🇾🇪 حمله موشکی حوثی ها به فرودگاه ملک فهد دمام عربستان"
+  },
+  {
+   "t": 1791667939.0,
+   "n": "iran has preserved much of its missile and drone manufacturing capacity despite months of u s and israeli airstrikes allowing tehran to replenish its arsenals as president trump holds off on further strikes ahead of the u s midterm elections according to bloomberg citing western officials officials say iran retains substantial ballistic missile stockpiles and some anti ship weapons with the abilit",
+   "fa": "🇮🇷🇺🇸🇮🇱⚡️ — به گزارش بلومبرگ به نقل از مقامات غربی، ایران علی‌رغم ماه‌ها حملات هوایی ایالات متحده و اسرائیل، بخش عمده‌ای از ظرفیت تولید موشک و پهپاد خود را حفظ ک"
+  },
+  {
+   "t": 1791668161.0,
+   "n": "تصاویر منتسب به فرودگاه ملک خالد عربستان پس از حملات حوثی های یمن",
+   "fa": "🔴 🇸🇦🇾🇪💢تصاویر منتسب به فرودگاه ملک خالد عربستان پس از حملات حوثی های یمن"
+  },
+  {
+   "t": 1791668402.0,
+   "n": "پرواز جنگنده های اسرائیلی از دو پایگاه هوایی طی ۲۰ دقیقه گذشته جنگنده های نیروی هوایی اسرائیل از پایگاه هوایی تل نوف در مرکز اسرائیل و یک پایگاه هوایی دیگر در شمال این کشور به پرواز درآمده اند",
+   "fa": "🔴 🇮🇱🚨پرواز جنگنده‌های اسرائیلی از دو پایگاه هوایی 💢طی ۲۰ دقیقهٔ گذشته، جنگنده‌های نیروی هوایی اسرائیل از پایگاه هوایی تل‌نوف در مرکز اسرائیل و یک پایگاه هوایی د"
+  },
+  {
+   "t": 1791668467.0,
+   "n": "these jets flew above southern syria second group of fighter jet sorties above southern syria tonight in my opinion the ongoing heightened israeli air force activity above syria is related to idf operations in syria there is no evidence the jets are related to lebanon or iran",
+   "fa": "🇮🇱🇸🇾⚡️ — این جنگنده‌ها بر فراز جنوب سوریه پرواز کردند. این دومین دسته از سورتی پروازی جنگنده‌ها بر فراز جنوب سوریه در امشب است. به نظر من، فعالیت‌های رو به افزا"
+  },
+  {
+   "t": 1791668471.0,
+   "n": "former vice president mike pence president trump s decision to lift sanctions on russian fuel amidst putin s ongoing and brutal attacks on civilian targets in ukraine makes no sense and is a betrayal of the legacy and leadership of the late senator lindsey graham now instead of implementing the tough sanctions lindsey graham fought to his last breath to enact president trump has announced the unit",
+   "fa": "🇺🇸🇷🇺🇺🇦⚡️ — مایک پنس، معاون رئیس‌جمهور سابق: تصمیم رئیس‌جمهور ترامپ برای لغو تحریم‌ها علیه سوخت روسیه در میان حملات مداوم و وحشیانه پوتین به اهداف غیرنظامی در او"
+  },
+  {
+   "t": 1791668601.0,
+   "n": "دو هواپیما با مبدأ فرودگاه نجف که به سمت ایران در حال پرواز بودند مجبور به بازگشت و فرود در فرودگاه نجف شدند",
+   "fa": "🔴 💢دو هواپیما با مبدأ فرودگاه نجف که به سمت ایران در حال پرواز بودند مجبور به بازگشت و فرود در فرودگاه نجف شدند!"
+  },
+  {
+   "t": 1791668935.0,
+   "n": "روزنامه نیویورک تایمز اعلام کرد که در حمله به فرودگاه پایتخت عربستان سعودی ریاض حداقل ۱۲ نفر کشته و ۵۰ نفر دیگر زخمی شده اند",
+   "fa": "🔴 🇸🇦📰 روزنامه نیویورک تایمز اعلام کرد که در حمله به فرودگاه پایتخت عربستان سعودی، ریاض، حداقل ۱۲ نفر کشته و ۵۰ نفر دیگر زخمی شده‌اند."
+  },
+  {
+   "t": 1791669231.0,
+   "n": "new ksa s general authority of civil aviation reports that 12 people were killed and 309 people were injured as a result of an ansarallah strike against king khalid intl airport riyadh 4 saudis 2 bangladeshis and 1 american egyptian jordanian syrian palestinian sudanese were killed",
+   "fa": "🔴 🔄 به‌روزرسانی 🇾🇪🇸🇦⚡️ — جدید: اداره کل هوانوردی کشوری عربستان سعودی گزارش می‌دهد که در نتیجه حمله انصارالله به فرودگاه بین‌المللی ملک خالد در ریاض، ۱۲ نفر کشته"
+  },
+  {
+   "t": 1791669862.0,
+   "n": "فعالیت جنگنده های ارتش اسرائیل بر فراز سوریه",
+   "fa": "🇮🇱🇸🇾 فعالیت جنگنده های ارتش اسرائیل بر فراز سوریه"
+  },
+  {
+   "t": 1791670095.0,
+   "n": "fighter jet activity above iraq",
+   "fa": "🇮🇶⚡️ — فعالیت جنگنده‌ها بر فراز عراق."
+  },
+  {
+   "t": 1791670252.0,
+   "n": "ukmto announces receiving a report of an oil tanker conducting a transit out of the strait of hormuz being struck by a projectile on the port side of the ship causing a fire environmental impact and damages are unknown as of now",
+   "fa": "🔴 🇮🇷⚡️ — سازمان تجارت دریایی بریتانیا (UKMTO) از دریافت گزارشی خبر داد که بر اساس آن یک فروند نفتکش در حال خروج از تنگه هرمز از سمت چپ هدف اصابت یک پرتابه قرار "
+  },
+  {
+   "t": 1791670305.0,
+   "n": "president trump on iran those young people we lost in the war against iran did not die in vain you can t let a total lunatic have nuclear weapons",
+   "fa": "🔴 🇺🇸🇮🇷⚡️ — دونالد ترامپ درباره ایران: آن جوانانی که در جنگ علیه ایران از دست دادیم، بیهوده جان خود را از دست ندادند. شما نمی‌توانید اجازه دهید یک دیوانه تمام‌عی"
+  },
+  {
+   "t": 1791670321.0,
+   "n": "علی قلهکی باید به پوتین حق داد او هم بر اساس منافع کشورش عمل می کند اشتباه از ماست که روسیه را شریک راهبردی می دانیم",
+   "fa": "📲علی قلهکی: باید به پوتین حق داد؛ او هم بر اساس منافعِ کشورش عمل می‌کند!/ اشتباه از ماست که «روسیه» را شریک راهبردی می‌دانیم!"
+  },
+  {
+   "t": 1791671003.0,
+   "n": "saudi led coalition to restore legitimacy in yemen announces the interception of an ansarallah ballistic missile above al kharj governorate ksa either targeting prince sultan ab or king khalid intl airport",
+   "fa": "🇸🇦🇾🇪⚡️ — ائتلاف به رهبری عربستان سعودی برای بازگرداندن مشروعیت به یمن از رهگیری یک فروند موشک بالستیک متعلق به انصارالله بر فراز استان الخرج در عربستان سعودی خب"
+  },
+  {
+   "t": 1791671311.0,
+   "n": "تحلیلگر فاکس نیوز به احتمال زیاد ایالات متحده ۱۳ آبان یک روز پس از انتخابات همزمان با سالروز اشغال سفارت امریکا در تهران به ایران حمله کند",
+   "fa": "🔴 🇺🇸🇮🇷🚨تحلیلگر فاکس‌نیوز: به احتمال زیاد، ایالات متحده ۱۳ آبان (یک روز پس از انتخابات) همزمان با سالروز اشغال سفارت امریکا در تهران، به ایران حمله کند!"
+  },
+  {
+   "t": 1791671359.0,
+   "n": "u s coast guard has purchased 4 mq 9b ucavs and supporting equipment for 247 8m u s coast guard states the mq 9bs will assist in isr homeland defense search rescue and countering drug trafficking illegal fishing",
+   "fa": "🇺🇸⚡️ — گارد ساحلی ایالات متحده ۴ فروند پهپاد رزمی MQ-9B و تجهیزات پشتیبانی را به مبلغ ۲۴۷.۸ میلیون دلار خریداری کرده است. گارد ساحلی ایالات متحده اعلام کرد این "
+  },
+  {
+   "t": 1791671364.0,
+   "n": "سازمان عملیات تجارت دریایی انگلیس یک نفتکش در تنگه هرمز هدف قرار گرفت و آتش سوزی در آن رخ داد",
+   "fa": "🔴 🚨سازمان عملیات تجارت دریایی انگلیس: یک نفتکش در تنگه هرمز هدف قرار گرفت و آتش‌سوزی در آن رخ داد."
+  },
+  {
+   "t": 1791671743.0,
+   "n": "massive ukrainian drone attack on sochi adler explosions in several parts of sochi russian s 300 400 has been operating for over an hour",
+   "fa": "❗️حمله پهپادی سنگین اوکراین به سوچی/ادلر 💥انفجارها در چندین نقطه سوچی ⚠️سامانه اس-۳۰۰/۴۰۰ روسیه بیش از یک ساعت است که فعال است"
+  },
+  {
+   "t": 1791673570.0,
+   "n": "the saudi led coalition has vowed a firm response to saturday s houthi ansarallah attack on king khalid international airport in riyadh which struck terminal 3 and killed 12 people and injured 309 people coalition spokesman major general turki al maliki condemned the attack as a full fledged war crime under international humanitarian law stating that coalition forces will respond decisively while ",
+   "fa": "🔴 🇸🇦❌🇾🇪 — ائتلاف به رهبری عربستان سعودی متعهد شد پاسخی قاطع به حمله روز شنبه حوثی‌ها (انصارالله) به فرودگاه بین‌المللی ملک خالد در ریاض بدهد؛ حمله‌ای که ترمینال"
+  },
+  {
+   "t": 1791674247.0,
+   "n": "ترامپ آن جوانانی که در جنگ علیه ایران از دست دادیم جان خود را بیهوده از دست ندادند نباید اجازه داد یک گروه کاملا دیوانه به سلاح های هسته ای دسترسی پیدا کند",
+   "fa": "🔴 🇺🇸🇮🇷ترامپ: آن جوانانی که در جنگ علیه ایران از دست دادیم، جان خود را بیهوده از دست ندادند. ‼️نباید اجازه داد یک گروه کاملاً دیوانه به سلاح‌های هسته‌ای دسترسی پ"
+  },
+  {
+   "t": 1791677511.0,
+   "n": "secretary of state marco rubio the united states strongly condemns the recent attacks on the kingdom of saudi arabia by the terrorist houthis including today s strike on king khalid international airport in riyadh that took numerous innocent lives including an american citizen these reprehensible attacks demonstrate a blatant disregard for innocent civilian life they must stop now we stand with th",
+   "fa": "🇺🇸🇸🇦🇾🇪⚡️ — مارکو روبیو، وزیر امور خارجه: ایالات متحده حملات اخیر به پادشاهی عربستان سعودی توسط حوثی‌های تروریست، از جمله حمله امروز به فرودگاه بین‌المللی ملک خا"
+  },
+  {
+   "t": 1791677652.0,
+   "n": "breaking u s central command announces a u s fighter jet struck the stern of the m v ocean molica disabling the vessel s propulsion system the vessel had departed from an iranian port and was attempting to transit regional waters in violation of the ongoing u s blockade against iranian ports this is the 4th vessel to be disabled since the start of the u s blockade against iran",
+   "fa": "🔴 🇺🇸🇮🇷⚡️ — فوری: سنتکام (ستاد فرماندهی مرکزی ایالات متحده) اعلام کرد یک جنگنده آمریکایی بخش عقبی کشتی تجاری «اوشن مولیکا» را هدف قرار داد و سیستم پیشرانش آن را "
+  },
+  {
+   "t": 1791678456.0,
+   "n": "reporter what do you think about the deadly houthi attack on riyadh s airport trump i think it s terrible reporter are you going to get the u s involved trump well you re going to find out",
+   "fa": "🇺🇸🇸🇦🇾🇪⚡️ — خبرنگار: نظرتان درباره حمله مرگبار حوثی‌ها به فرودگاه ریاض چیست؟ ترامپ: فکر می‌کنم افتضاح است. خبرنگار: آیا ایالات متحده وارد درگیری خواهد شد؟ ترامپ:"
+  },
+  {
+   "t": 1791678692.0,
+   "n": "president trump we have communications with the houthis we ll see what happens what they did was very bad",
+   "fa": "🇺🇸🇸🇦🇾🇪⚡️ — رئیس‌جمهور ترامپ: ما با حوثی‌ها ارتباطاتی داریم. خواهیم دید چه اتفاقی می‌افتد. کاری که آن‌ها انجام دادند بسیار بد بود."
+  },
+  {
+   "t": 1791678842.0,
+   "n": "گزارشگر نظر شما درباره حمله مرگبار حوثی ها به فرودگاه ریاض چیست ترامپ به نظر من این یک فاجعه است گزارشگر آیا ایالات متحده در این ماجرا دخالت خواهد کرد ترامپ خب شما به زودی متوجه خواهید شد",
+   "fa": "⁉️گزارشگر: نظر شما درباره حمله مرگبار حوثی‌ها به فرودگاه ریاض چیست؟ 🇺🇸ترامپ: به نظر من، این یک فاجعه است. ⁉️گزارشگر: آیا ایالات متحده در این ماجرا دخالت خواهد ک"
+  },
+  {
+   "t": 1791678848.0,
+   "n": "president trump on the houthi attack on riyadh s airport i will be speaking with mbs what happened in saudi arabia is not acceptable",
+   "fa": "🇺🇸🇸🇦🇾🇪⚡️ — رئیس‌جمهور ترامپ درباره حمله حوثی‌ها به فرودگاه ریاض: من با بن سلمان گفتگو خواهم کرد. آنچه در عربستان سعودی رخ داد قابل قبول نیست."
+  },
+  {
+   "t": 1791679117.0,
+   "n": "riyadh s king khalid international airport will resume operations within the next few hours according to al arabiya",
+   "fa": "🇸🇦⚡️ — به گزارش العربیه، فرودگاه بین‌المللی ملک خالد ریاض طی ساعات آینده فعالیت خود را از سر خواهد گرفت."
+  },
+  {
+   "t": 1791680557.0,
+   "n": "president trump on zelensky i think it would have been smart if he would have made a deal two years ago he would have been a lot better off he could have made a much better deal two years ago",
+   "fa": "🇺🇸🇺🇦🇷🇺⚡️ — رئیس‌جمهور ترامپ درباره زلنسکی: من فکر می‌کنم هوشمندانه این بود که — اگر او دو سال پیش توافقی کرده بود، وضعیت خیلی بهتری داشت. او می‌توانست دو سال پی"
+  },
+  {
+   "t": 1791680621.0,
+   "n": "president trump on the ukraine war president putin would like to see a settlement strongly and look putin is freeing up a lot of oil for the world okay that s a good thing",
+   "fa": "🇺🇸🇷🇺🇺🇦⚡️ — رئیس‌جمهور ترامپ درباره جنگ اوکراین: رئیس‌جمهور پوتین به شدت مایل است شاهد توافقی باشد. و ببینید، پوتین نفت زیادی را برای جهان آزاد می‌کند، درست است؟"
+  },
+  {
+   "t": 1791681052.0,
+   "n": "president trump on ukraine zelensky could have settled this thing many times and he should have an election ukraine russia should have never happened if i were president it never would have happened but president zelensky could have solved this war or he could have made a deal many times",
+   "fa": "🔄 به‌روزرسانی 🇺🇸🇺🇦🇷🇺⚡️ — رئیس‌جمهور ترامپ درباره اوکراین: زلنسکی می‌توانست بارها این مسئله را حل‌وفصل کند. و او باید انتخابات برگزار کند. جنگ اوکراین-روسیه هرگز"
+  },
+  {
+   "t": 1791681135.0,
+   "n": "president trump on ukraine russia russia would like to make a deal but for whatever reason zelensky does not want to make a deal and if you look at the odds you know you re talking about millions more soldiers on one side than the other",
+   "fa": "🔄 به‌روزرسانی 🇺🇸🇺🇦🇷🇺⚡️ — رئیس‌جمهور ترامپ درباره اوکراین-روسیه: روسیه مایل است توافقی انجام دهد، اما به هر دلیلی، زلنسکی نمی‌خواهد توافق کند. و اگر به شانس‌ها ن"
+  },
+  {
+   "t": 1791684964.0,
+   "n": "5 u s air force kc 135r t stratotanker aerial refueling tankers from conus are crossing about to cross the atlantic ocean",
+   "fa": "🇺🇸⚡️ — ۵ فروند تانکر سوخت‌رسانی هوایی کی‌سی-۱۳۵آر/تی استراتوتانکر نیروی هوایی ایالات متحده از خاک اصلی آمریکا در حال عبور از اقیانوس اطلس هستند یا در آستانه عبو"
+  },
+  {
+   "t": 1791686127.0,
+   "n": "ukrainian uav strike against a yandex data center in vladimir oblast russia large scale outages have occured on yandex cloud and the data center is non operational following the strike",
+   "fa": "🇺🇦❌🇷🇺 — حمله پهپادی اوکراین به مرکز داده یاندکس در استان ولادیمیر روسیه. قطعی‌های گسترده‌ای در یاندکس کلود رخ داده است و این مرکز داده پس از حمله از کار افتاده "
+  },
+  {
+   "t": 1791688074.0,
+   "n": "ukmto announces receiving a report from unnamed military authorities of an incident involving a tanker and military forces in the gulf of oman in my opinion the wording of this memo strongly suggests this was an operation conducted by the u s military rather than the irgc navy though this is unconfirmed",
+   "fa": "🇮🇷🇴🇲🇺🇸⚡️ — سازمان عملیات تجارت دریایی بریتانیا (UKMTO) اعلام کرد گزارشی از سوی مقام‌های نظامی ناشناس درباره وقوع حادثه‌ای میان یک تانکر و نیروهای نظامی در دریای"
+  },
+  {
+   "t": 1791689472.0,
+   "n": "سیل در مینودشت جان یک نفر را گرفت رئیس اورژانس گلستان از مرگ یک مرد ۴۰ ساله و مفقود شدن ۲ زن در پی وقوع سیل در شهرستان مینودشت خبر داد و اعلام کرد تمامی پایگاه ها و نیروهای اورژانس استان در آماده باش کامل قرار دارند",
+   "fa": "سیل در مینودشت جان یک نفر را گرفت رئیس اورژانس گلستان از مرگ یک مرد ۴۰ ساله و مفقود شدن ۲ زن در پی وقوع سیل در شهرستان مینودشت خبر داد و اعلام کرد: تمامی پایگاه"
+  },
+  {
+   "t": 1791689565.0,
+   "n": "ادعای سنتکام یک کشتی تجاری با پرچم پاناما را پس از خروج از یک بندر ایرانی در آب های سرزمینی هدف قرار دادیم",
+   "fa": "🔴 ادعای سنتکام: یک کشتی تجاری با پرچم پاناما را پس از خروج از یک بندر ایرانی در آب‌ های سرزمینی هدف قرار دادیم."
+  },
+  {
+   "t": 1791689743.0,
+   "n": "بانک مرکزی بانک ها دیگر اجازۀ فروش طلا ندارند بانک مرکزی با صدور بخشنامه ای ورود شبکه بانکی به خرید و فروش آنلاین طلا و نقره را ممنوع کرد مسئول گروه فین تک بانک مرکزی گفته این تصمیم باتوجه به بروز ریسک های عملیاتی جدی در یکی از پلتفرم های فروش آنلاین طلا و احتمال سرایت آثار آن به شبکه بانکی اتخاذ شده است بانک مرکزی این تصمیم را از ۱۳ مهر گرفته و کاربران بلوبانک سامان نیز از هفته گذشته اعلام کرده ب",
+   "fa": "بانک مرکزی: بانک‌ها دیگر اجازۀ فروش طلا ندارند بانک مرکزی با صدور بخشنامه‌ای ورود شبکه بانکی به خرید و فروش آنلاین طلا و نقره را ممنوع کرد. مسئول گروه فین‌تک با"
+  },
+  {
+   "t": 1791689929.0,
+   "n": "تانکر ترکرز صادرات نفت کویت دوباره در حال کاهش است تانکر ترکرز می گوید افت دوباره صادرات نفت خام کویت احتمالا به کمبود نفتکش های عملیاتی مرتبط است چند ابرنفتکش شرکت kotc در حال تعمیر هستند و حملات اخیر در هرمز نیز به ناوگان این شرکت آسیب زده است به ارزیابی این مؤسسه کویت برای بازگرداندن صادرات به سطوح بالاتر ممکن است ناچار شود از نفتکش های شرکت های خارجی استفاده کند آن هم در شرایطی که هزینه حمل و ",
+   "fa": "تانکر ترکرز: صادرات نفت کویت دوباره در حال کاهش است تانکر ترکرز می‌گوید افت دوباره صادرات نفت خام کویت احتمالاً به کمبود نفتکش‌های عملیاتی مرتبط است؛ چند ابرنفت"
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 263
+  "requests": 270
  }
 }
