@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107645
+   "last_id": 107649
   },
   "khabarfouri": {
    "last_id": 569084
@@ -198,16 +198,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791732929.0,
-   "n": "iran s supreme national security council secretary mohsen rezaee iranians will never surrender to you and they will never back down from their demands until they obtain their rights from you bessent is known in the united states as a lying minister he has been making statements and promises for more than a year that he has failed to fulfill this man is someone who wants to confront the iranian nat",
-   "fa": "🇮🇷🇺🇸⚡️ — محسن رضایی، دبیر شورای عالی امنیت ملی ایران: ایرانیان هرگز در برابر شما تسلیم نخواهند شد و تا زمانی که حقوق خود را از شما نگ گیرند، از خواسته‌های خود عقب‌نشینی نخواهند کرد. بسنت در ایالات متحده به عنوان یک «وزیر دروغگو» شناخته می‌شود. او بیش از یک سال است که بیانیه‌ها و وعده‌هایی داده که نتوانسته آن‌ها را محقق کند. این مرد کسی است که می‌خواهد با ملت ایران مقابله کند و علیه معیشت آن‌ها جنگ"
-  },
-  {
-   "t": 1791732964.0,
-   "n": "iran s supreme national security council secretary mohsen rezaee just as the americans were defeated in the military war we will also defeat them in the economic war we have already prepared our plans and god willing we will announce a series of economic defense measures",
-   "fa": "🇮🇷🇺🇸⚡️ — محسن رضایی، دبیر شورای عالی امنیت ملی ایران: همان‌طور که آمریکایی‌ها در جنگ نظامی شکست خوردند، ما آن‌ها را در جنگ اقتصادی نیز شکست خواهیم داد. ما برنامه‌های خود را از پیش آماده کرده‌ایم و ان‌شاءالله مجموعه‌ای از اقدامات دفاع اقتصادی را اعلام خواهیم کرد."
-  },
   {
    "t": 1791733241.0,
    "n": "دبیر شورای عالی امنیت ملی ما درحال بررسی تأسیس یک شورای جنگ اقتصادی هستیم احتمالا چنین شورایی تشکیل خواهد شد و ما به ترامپ و بسنت نشان خواهیم داد جنگ اقتصادی واقعا به چه معناست و آن ها در این نبرد در چه جایگاهی قرار دارند",
@@ -497,10 +487,20 @@
    "t": 1791753625.0,
    "n": "president trump via truth social i just want to pay my respect and thanks to karoline leavitt for the fantastic job she has done as white house press secretary could not have been better",
    "fa": "🇺🇸⚡️ — دونالد ترامپ در توتروث سوشال: من می‌خواهم احترام و تشکر خود را به کارولین لیویت به خاطر کار فوق‌العاده‌ای که به عنوان سخنگوی کاخ سفید انجام داده است، ابراز کنم — از این بهتر نمی‌شد!"
+  },
+  {
+   "t": 1791755016.0,
+   "n": "president trump via truth social i am pleased to announce that katie zacharia will be beginning her term as press secretary tomorrow columbus day and will be doing an introductory news conference on tuesday at 9 30 a m from the press briefing room in the white house katie has been with me in spirit from the very beginning and will do a fantastic job",
+   "fa": "🇺🇸⚡️ — دونالد ترامپ در توتروث سوشال: من خوشحالم که اعلام کنم کتی زاکاریا فردا، در روز کلمبوس، دوره خود را به عنوان دبیر مطبوعاتی آغاز خواهد کرد و روز سه‌شنبه ساعت ۹:۳۰ صبح در اتاق بریفینگ مطبوعاتی در کاخ سفید یک کنفرانس مطبوعاتی مقدماتی برگزار خواهد کرد. کتی از همان ابتدا در روحیه با من بوده است و کار فوق‌العاده‌ای انجام خواهد داد!"
+  },
+  {
+   "t": 1791755359.0,
+   "n": "earlier iraqi air force f 16iq fighting falcon fighter jets conducted airstrikes against an isis hideout in the hamrin mountains diyala governorate northeastern iraq",
+   "fa": "🇮🇶❌🏴‍☠️ — پیش‌تر، جنگنده‌های اف-۱۶آی‌کیو نیروی هوایی عراق حملات هوایی علیه یک مخفیگاه داعش در کوه‌های حمرین در استان دیاله در شمال شرقی عراق انجام دادند."
   }
  ],
  "usage": {
   "date": "2026-10-11",
-  "requests": 387
+  "requests": 388
  }
 }
