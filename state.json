@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107730
+   "last_id": 107731
   },
   "khabarfouri": {
-   "last_id": 569203
+   "last_id": 569204
   },
   "KH_B2": {
-   "last_id": 131369
+   "last_id": 131370
   },
   "TelNews_Magazine": {
    "last_id": 100973
@@ -154,7 +154,8 @@
     "WP-WSJ-0003968357",
     "WP-WSJ-0003968313",
     "WP-WSJ-0003967118",
-    "WP-WSJ-0003967072"
+    "WP-WSJ-0003967072",
+    "SB10250048116742454433604593502660822795602"
    ]
   },
   "NYT": {
@@ -522,6 +523,6 @@
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 106
+  "requests": 107
  }
 }
