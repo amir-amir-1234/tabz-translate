@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107744
+   "last_id": 107746
   },
   "khabarfouri": {
    "last_id": 569211
@@ -10,7 +10,7 @@
    "last_id": 131383
   },
   "TelNews_Magazine": {
-   "last_id": 100980
+   "last_id": 100981
   },
   "NE_WG": {
    "last_id": 114175
@@ -222,11 +222,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791805793.0,
-   "n": "an investigation by the telegraph has uncovered potential conflicts of interest involving members of the board of peace the trump led organization responsible for overseeing gaza s reconstruction and postwar governance five board members have financial connections to israeli defense manufacturer smart shooter which recently secured a u s military contract worth up to 150 million the company produc",
-   "fa": "🇺🇸🇮🇱🇵🇸⚡️ — تحقیقات روزنامه تلگراف از وجود تضاد منافع احتمالی در میان اعضای هیئت صلح (سازمان تحت رهبری ترامپ که مسئول نظارت بر بازسازی و حکومت پس از جنگ غزه است) پرده برداشته است. پنج نفر از اعضای هیئت مدیره دارای روابط مالی با تولیدکننده تجهیزات دفاعی اسرائیل به نام Smart Shooter هستند که اخیراً یک قرارداد نظامی ایالات متحده به ارزش حداکثر ۱۵۰ میلیون دلار را به دست آورده است. این شرکت دوربین‌های ت"
-  },
   {
    "t": 1791805913.0,
    "n": "عضو کمیسیون اجتماعی مجلس منابع کالابرگ نباید به صورت نقدی پرداخت شود احمید بیگدلی کمیسیون اجتماعی به منظور بررسی انحرافات ایجادشده در اجرای قانون کالابرگ درخواست برگزاری جلسه ای را مطرح کرده است سازمان برنامه و بودجه برخلاف قانون عمل کرده و به جای اجرای حمایت ها از طریق کالابرگ الکترونیکی به دنبال پرداخت نقدی منابع به مردم است مقرر شده است امروز بعد از ظهر جلسه ای با حضور آقای قالیباف سازمان برنام",
@@ -521,10 +516,15 @@
    "t": 1791823706.0,
    "n": "سازمان تجارت دریایی بریتانیا یک نفتکش در تنگه هرمز هدف قرار گرفت",
    "fa": "🔴 سازمان تجارت دریایی بریتانیا: یک نفتکش در تنگه هرمز هدف قرار گرفت"
+  },
+  {
+   "t": 1791824381.0,
+   "n": "the houthis ansarallah say saudi arabia carried out 119 airstrikes and missile attacks across yemen over the past 24 hours using f 15 and typhoon jets from khamis mushait and taif alongside missiles launched from najran and jizan they say the strikes caused civilian casualties including women and children the total number of saudi led coalition air and missile strikes has now reached 2177",
+   "fa": "🇸🇦❌🇾🇪 — حوثی‌ها (انصارالله) اعلام کردند که عربستان سعودی طی ۲۴ ساعت گذشته ۱۱۹ حمله هوایی و موشکی با استفاده از جنگنده‌های اف-۱۵ و تایفون از خمیس مشیط و طائف، در کنار موشک‌های شلیک‌شده از نجران و جیزان، در سراسر یمن انجام داده است. آن‌ها می‌گویند این حملات تلفات غیرنظامی از جمله زنان و کودکان بر جای گذاشته است. مجموع حملات هوایی و موشکی ائتلاف به رهبری عربستان اکنون به ۲۱۷۷ مورد رسیده است."
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 121
+  "requests": 123
  }
 }
