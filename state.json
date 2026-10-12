@@ -7,13 +7,13 @@
    "last_id": 569096
   },
   "KH_B2": {
-   "last_id": 131326
+   "last_id": 131327
   },
   "TelNews_Magazine": {
    "last_id": 100936
   },
   "NE_WG": {
-   "last_id": 114105
+   "last_id": 114106
   }
  },
  "fails": {},
@@ -50,7 +50,8 @@
     "https://www.foxnews.com/world/abbas-delays-palestinian-elections-again-making-more-than-two-decades-without-vote",
     "https://www.foxnews.com/world/italys-school-veil-ban-exposes-europes-assimilation-fight-expert-warns-us-could-next",
     "https://www.foxnews.com/world/mojtaba-khamenei-defies-malicious-attacks-us-army-zeroes-irans-350000-troops",
-    "https://www.foxnews.com/world/trump-russia-deal-could-fuel-putins-war-ex-nato-commander-warns-zelenskyy-says-nyet"
+    "https://www.foxnews.com/world/trump-russia-deal-could-fuel-putins-war-ex-nato-commander-warns-zelenskyy-says-nyet",
+    "https://www.foxnews.com/world/houthis-kill-14-saudi-airport-expert-warns-rapid-targets-amid-middle-east-war"
    ]
   },
   "WSJ": {
@@ -199,16 +200,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791739622.0,
-   "n": "همتی اقای بسنت وعده ای که دادی چیشد",
-   "fa": "⭕️همتی: اقای بسنت وعده ای که دادی چیشد؟"
-  },
-  {
-   "t": 1791739647.0,
-   "n": "سازمان عمومی هوانوردی مدنی عربستان سعودی gaca اعلام کرد که فرودگاه بین المللی ملک خالد در ریاض در یک حمله دیگر در بعدازظهر یکشنبه ۱۱ اکتبر هدف قرار گرفت این نهاد تأیید کرد که این حمله منجر به زخمی شدن افراد شده است و گفت که ارزیابی خسارات و بازرسی های ایمنی از تأسیسات فرودگاه در حال انجام است و با نهادهای ذی ربط هماهنگی دارد",
-   "fa": "🔄 به‌روزرسانی 🇸🇦❌🇾🇪سازمان عمومی هوانوردی مدنی عربستان سعودی (GACA) اعلام کرد که فرودگاه بین‌المللی ملک خالد در ریاض در یک حمله دیگر در بعدازظهر یکشنبه، ۱۱ اکتبر، هدف قرار گرفت. این نهاد تأیید کرد که این حمله منجر به زخمی شدن افراد شده است و گفت که ارزیابی خسارات و بازرسی‌های ایمنی از تأسیسات فرودگاه در حال انجام است و با نهادهای ذی‌ربط هماهنگی دارد."
-  },
   {
    "t": 1791739837.0,
    "n": "همتی بسنت اول بگوید وعده ای که داد چی شد رئیس بانک مرکزی در پاسخ به صحبت های وزیر خزانه داری آمریکا بسنت به جای اینکه صحبت از نتیجه وعده دو هفته ای خود درباره فروپاشی اقتصادی در ایران به میان آورد صحبت از چاپ پول در ایران کرده است واقعیت های اقتصادی را باید با شاخص های قابل اندازه گیری سنجید نه با مواضع سیاسی رشد نقدینگی در شهریور به کمترین مقدار یعنی ۱ ۳ درصد رسید و با مداخله بانک مرکزی در بازار ",
@@ -498,10 +489,20 @@
    "t": 1791763752.0,
    "n": "رسانه ها گزارش دادند دقایقی پیش یک نفتکش متخلف با پرچم هند در تنگه هرمز هدف قرار گرفت دو نفر از خدمه مفقود شده اند و ٩ نفر دیگر نجات یافته اند",
    "fa": "🔴 رسانه‌‌ها گزارش دادند دقایقی پیش یک نفتکش متخلف با پرچم هند در تنگه هرمز هدف قرار گرفت؛ دو نفر از خدمه مفقود شده‌اند و ٩ نفر دیگر نجات یافته‌اند."
+  },
+  {
+   "t": 1791765293.0,
+   "n": "houthis kill 14 at saudi airport as expert warns of rapid targets amid middle east war iran backed houthis launched a series of attacks on saudi arabian airports through sunday reportedly killing at least 14 people including an american and injuring more than 300 others according to reports the attacks heightened fears of a wider middle east war as regional experts warned of cross domain escalatio",
+   "fa": "به گزارش فاکس نیوز حوثی‌های تحت حمایت ایران با انجام یک سلسله حملات به فرودگاه‌های عربستان سعودی تا روز یکشنبه، بنا بر گزارش‌های دریافتی، دست‌کم ۱۴ نفر از جمله یک تبعه آمریکایی را کشته و بیش از ۳۰۰ نفر دیگر را مجروح کردند. این حملات در میان هشدار کارشناسان منطقه‌ای درباره تشدید تنش‌های چندحوزه‌ای در پی اقدامات ماه سپتامبر واشنگتن علیه بخش هوانوردی ایران، ترس از وقوع یک جنگ گسترده‌تر در خاورمیانه ر"
+  },
+  {
+   "t": 1791765689.0,
+   "n": "دو انفجار شدید در ریاض",
+   "fa": "🔴 🚨🚨دو انفجار شدید در ریاض"
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 3
+  "requests": 5
  }
 }
