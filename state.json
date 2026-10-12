@@ -4,13 +4,13 @@
    "last_id": 107679
   },
   "khabarfouri": {
-   "last_id": 569155
+   "last_id": 569157
   },
   "KH_B2": {
    "last_id": 131339
   },
   "TelNews_Magazine": {
-   "last_id": 100948
+   "last_id": 100949
   },
   "NE_WG": {
    "last_id": 114120
@@ -175,7 +175,8 @@
     "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
     "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
     "https://www.nytimes.com/2026/10/11/world/middleeast/pakistan-federal-control-khyber-pakhtunkhwa.html",
-    "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html"
+    "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html",
+    "https://www.nytimes.com/2026/10/12/business/middle-east-oil-exports-houthi-saudi.html"
    ]
   },
   "Treasury": {
@@ -208,11 +209,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791752726.0,
-   "n": "علی اکبر جاویدان فرمانده مرزبانی اجازه نمی دهیم اتباع غیرمجاز وارد عمق کشور شوند روزانه ۵۰۰ تا ۶۰۰ نفر طرد می شوند با افرادی که مسلح باشند یا اهداف امنیتی داشته باشند در شرایط جنگی برخورد می شود",
-   "fa": "❌ علی‌اکبر جاویدان، فرمانده مرزبانی: اجازه نمی‌دهیم اتباع غیرمجاز وارد عمق کشور شوند / روزانه ۵۰۰ تا ۶۰۰ نفر طرد می‌شوند / با افرادی که مسلح باشند یا اهداف امنیتی داشته باشند در شرایط جنگی برخورد می‌شود"
-  },
   {
    "t": 1791753457.0,
    "n": "a drone struck a tanker in the vicinity of the anchorage area for the port of sohar oman earlier today omani authorities are evacuating the crew damage assessment and environmental impact are unknown",
@@ -502,10 +498,20 @@
    "t": 1791795492.0,
    "n": "مشاور محسن رضایی این موضع دبیر شورای عالی امنیت ملی بدان معناست که مذاکرات ایران و آمریکا فاصله زیادی با توافق و فاصله نزدیک تری با تنش دارد آمریکا با بخش های مهمی از ۷ شرط ایران موافق نیست و همچنان اصرار به مذاکره هسته ای در همین گام نخست دارد",
    "fa": "🔄 به‌روزرسانی مشاور محسن رضایی: این موضع دبیر شورای عالی امنیت ملی بدان معناست که مذاکرات ایران و آمریکا فاصله زیادی با توافق و فاصله نزدیک‌تری با تنش دارد. آمریکا با بخش‌های مهمی از ۷ شرط ایران موافق نیست و همچنان اصرار به مذاکره هسته‌ای در همین گام نخست دارد."
+  },
+  {
+   "t": 1791795797.0,
+   "n": "world s energy order tested again as iran war s reach extends further we are entering an age of prolonged insecurity one former u s energy official said of what have become chronic threats on the middle east s energy core",
+   "fa": "به گزارش نیویورک تایمز، نظم انرژی جهان با گسترش دامنه جنگ ایران بار دیگر مورد آزمایش قرار گرفته است. یک مقام پیشین انرژی ایالات متحده درباره خطرات مزمن کنونی در هسته انرژی خاورمیانه گفت: «ما وارد عصر ناامنی طولانی‌مدت می‌شویم.»"
+  },
+  {
+   "t": 1791796081.0,
+   "n": "ارزش ۴۰ میلیون تومان در ۱۰ سال گذشته و الان",
+   "fa": "ارزش ۴۰ میلیون‌تومان در ۱۰ سال گذشته و الان"
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 60
+  "requests": 62
  }
 }
