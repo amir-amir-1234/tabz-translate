@@ -15,7 +15,6 @@ Flow per run:
 No personal Telegram account is used anywhere.
 """
 import difflib
-import html
 import io
 import json
 import os
@@ -301,7 +300,7 @@ SYSTEM_PROMPT = """You are the editor and translator of a Persian (Farsi) Telegr
 Input is a JSON object: {"recent": [{"ref": "R1", "fa": "<Persian text already published>"}], "items": [{"id": <number>, "text": "<post text>"}]}
 "recent" is what the channel published in the last hours. "items" are new posts, oldest first.
 Return a JSON array with exactly one entry per item:
-{"id": <same number>, "relevant": true|false, "urgent": true|false, "kind": "<kind>", "duplicate_of": "<ref or item id or empty>", "update": true|false, "new_fact": "<what is new, or empty>", "reason": "<one short Persian sentence>", "fa": "<Persian translation, or empty string>"}
+{"id": <same number>, "relevant": true|false, "urgent": true|false, "duplicate_of": "<ref or item id or empty>", "update": true|false, "new_fact": "<what is new, or empty>", "reason": "<one short Persian sentence>", "fa": "<Persian translation, or empty string>"}
 
 STEP 1 - relevance. Decide with the TOPICS list below.
 - relevant=true when the post is about (or quotes) anything in the list. When unsure, choose true: missing important news is worse than publishing a borderline item.
@@ -319,14 +318,6 @@ STEP 2 - duplicates (only for relevant items).
 - Same news from another outlet with identical facts is a duplicate (update=false).
 
 STEP 3 - urgent. urgent=true ONLY for genuinely breaking items about Iran, Israel, the US military, sanctions or negotiations: a new strike or attack, a new sanctions decision, a deal announced or talks collapsing, or a direct statement by a top leader. Everything else (including AI and general world news) is urgent=false.
-
-STEP 3b - kind: choose ONE value that decides the emoji put before the headline.
-- "urgent": exactly when urgent=true.
-- "attack": a strike or attack. "explosion": an explosion or fire. "war": war, clashes, ongoing military developments.
-- "warning": an explicit warning or alert. "sanctions": a sanctions decision or government decision.
-- "event": any other fresh event, including negotiation/diplomacy news and statements or speeches by officials.
-- "oil" (oil and energy), "economy" (economy and currency), "stats" (statistics, data, figures), "ai" (AI news), "health" (health), "world" (other important world news): ONLY for items that are background, data or analysis. If the item reports a fresh event, use "event" (or attack/explosion/war/...) instead, never the topical value.
-- "none" when nothing fits.
 
 STEP 4 - translation, only when relevant=true (otherwise "fa" is an empty string):
 - Items that have a "source" field are website articles (title plus the first lines): always set "fa" to an empty string for them; a separate step writes their Persian text.
@@ -376,10 +367,10 @@ GEMINI_SCHEMA = {
     "items": {
         "type": "OBJECT",
         "properties": {"id": {"type": "INTEGER"}, "relevant": {"type": "BOOLEAN"},
-                       "urgent": {"type": "BOOLEAN"}, "kind": {"type": "STRING"}, "duplicate_of": {"type": "STRING"},
+                       "urgent": {"type": "BOOLEAN"}, "duplicate_of": {"type": "STRING"},
                        "update": {"type": "BOOLEAN"}, "new_fact": {"type": "STRING"},
                        "reason": {"type": "STRING"}, "fa": {"type": "STRING"}},
-        "required": ["id", "relevant", "urgent", "kind", "duplicate_of", "update", "new_fact", "reason", "fa"],
+        "required": ["id", "relevant", "urgent", "duplicate_of", "update", "new_fact", "reason", "fa"],
     },
 }
 
@@ -440,7 +431,6 @@ def gemini_filter(model, items, recent, system_prompt):
             if dup.lower() in ("none", "null", "-", "no"):
                 dup = ""
             out[int(x["id"])] = {"relevant": bool(x.get("relevant")), "urgent": bool(x.get("urgent")),
-                                 "kind": str(x.get("kind") or "none").strip().lower(),
                                  "duplicate_of": dup, "update": bool(x.get("update")),
                                  "new_fact": str(x.get("new_fact") or "").strip(),
                                  "reason": str(x.get("reason", "")).strip(),
@@ -451,8 +441,7 @@ def gemini_filter(model, items, recent, system_prompt):
 
 
 REWRITE_PROMPT = """You are a Persian-language news reporter. You receive website articles as JSON: [{"id": <number>, "outlet": "<English outlet name>", "outlet_fa": "<Persian outlet name>", "title": "...", "body": "..."}].
-Return a JSON array with one entry per article: {"id": <same number>, "headline": "<Persian headline>", "fa": "<Persian report>"}.
-"headline": one short line (at most 120 characters) stating the main news in Persian, without attribution, without emoji, without a final period.
+Return a JSON array with one entry per article: {"id": <same number>, "fa": "<Persian report>"}.
 
 How to write each report:
 - Write it as a reporter conveying what the outlet reported, in fluent, natural, formal news Persian. Begin with the attribution «به گزارش <outlet_fa>» (use the outlet_fa value exactly) followed by the main news.
@@ -468,8 +457,8 @@ How to write each report:
 REWRITE_SCHEMA = {
     "type": "ARRAY",
     "items": {"type": "OBJECT",
-              "properties": {"id": {"type": "INTEGER"}, "headline": {"type": "STRING"}, "fa": {"type": "STRING"}},
-              "required": ["id", "headline", "fa"]},
+              "properties": {"id": {"type": "INTEGER"}, "fa": {"type": "STRING"}},
+              "required": ["id", "fa"]},
 }
 
 
@@ -480,8 +469,7 @@ def gemini_rewrite(model, items, system_prompt):
     for x in arr:
         try:
             if str(x.get("fa", "")).strip():
-                h = re.sub(r"\s+", " ", str(x.get("headline") or "")).strip()
-                out[int(x["id"])] = (h, str(x["fa"]).strip()) if h else str(x["fa"]).strip()
+                out[int(x["id"])] = str(x["fa"]).strip()
         except (KeyError, TypeError, ValueError):
             continue
     return out
@@ -608,7 +596,7 @@ def process_posts(posts, recent=None):
         for i, t in list(need.items()):
             if i in result:
                 continue
-            base = {"relevant": True, "urgent": False, "kind": "none", "duplicate_of": "", "update": False, "new_fact": "", "ai": False}
+            base = {"relevant": True, "urgent": False, "duplicate_of": "", "update": False, "new_fact": "", "ai": False}
             if not keyword_match(t, kws):
                 result[i] = {**base, "relevant": False, "fa": "",
                              "reason": "هوش مصنوعی در دسترس نبود و کلیدواژه‌ای پیدا نشد"}
@@ -633,9 +621,6 @@ def process_posts(posts, recent=None):
 def is_update(v):
     """An update must name the new fact; otherwise it is treated as a plain duplicate."""
     return bool(v.get("update") and v.get("new_fact", "").strip())
-
-
-TITLED = set()      # ids of rewritten articles whose first block is a headline
 
 
 def rewrite_ok(src, fa, outlet_fa):
@@ -685,16 +670,8 @@ def rewrite_articles(items):
                     dead.add(model)
                 continue
             for i, fa in got.items():
-                head = ""
-                if isinstance(fa, tuple):
-                    head, fa = fa
                 if i in need and rewrite_ok("x" * src_len(i), fa, by_id[i]["outlet_fa"]):
-                    body = attribute(i, fa)
-                    if head and PERSIAN_RE.search(head) and not MIXED_SCRIPT_RE.search(head):
-                        result[i] = head + "\n\n" + body
-                        TITLED.add(i)
-                    else:
-                        result[i] = body
+                    result[i] = attribute(i, fa)
                     need.discard(i)
 
     for batch in make_batches([{**it, "text": it["title"] + it["body"]} for it in items], REWRITE_BATCH, REWRITE_CHARS):
@@ -740,27 +717,6 @@ def tg(method, data=None, files=None):
     raise RuntimeError(f"telegram {method}: too many rate limits")
 
 
-def tg_html(method, data, files=None):
-    """Send with parse_mode=HTML. If Telegram cannot parse the markup, resend the same post as plain text."""
-    data = dict(data, parse_mode="HTML")
-    if method == "sendMediaGroup":
-        data["media"] = json.dumps([dict(m, parse_mode="HTML") for m in json.loads(data["media"])])
-    try:
-        return tg(method, data=data, files=files)
-    except RuntimeError as e:
-        if "parse entities" not in str(e).lower():
-            raise
-        log("  HTML markup rejected, sending as plain text")
-        data.pop("parse_mode", None)
-        for k in ("text", "caption"):
-            if k in data:
-                data[k] = strip_tags(data[k])
-        if method == "sendMediaGroup":
-            data["media"] = json.dumps([{k: (strip_tags(v) if k == "caption" else v) for k, v in m.items() if k != "parse_mode"}
-                                        for m in json.loads(data["media"])])
-        return tg(method, data=data, files=files)
-
-
 def split_message(text, limit=4096):
     parts = []
     while len(text) > limit:
@@ -793,49 +749,7 @@ def download(url, retry=False):
 
 def _text_only(text):
     for part in split_message(text):
-        tg_html("sendMessage", {"chat_id": TARGET, "text": part, "disable_web_page_preview": "true"})
-
-
-KIND_EMOJI = {"urgent": "🚨", "attack": "🚨", "sanctions": "🚨", "warning": "🚨⚠️", "explosion": "🔥",
-              "war": "🔴", "event": "🔴", "oil": "🛢", "economy": "💵", "stats": "📊", "ai": "🤖",
-              "health": "🦠", "world": "🌍"}
-MARK = "🔴"
-_EMOJI_START = re.compile("^[\U0001F000-\U0001FAFF\u2600-\u27BF\u2B00-\u2BFF\u2190-\u21FF\u203C\u2049\ufe0f\u200d]")
-
-
-def kind_emoji(v):
-    if v.get("urgent"):
-        return KIND_EMOJI["urgent"]
-    return KIND_EMOJI.get(v.get("kind", "none"), "")
-
-
-def format_post(body, emoji="", titled=None):
-    """HTML text for Telegram: bold headline with the kind emoji, red marker before every paragraph.
-    titled: True = first block is a headline, False = no headline, None = decide from the structure.
-    The text itself is never changed, only wrapped (and HTML-escaped)."""
-    body = body.strip()
-    blocks = [b.strip() for b in re.split(r"\n\s*\n", body) if b.strip()]
-    if titled is None:
-        if len(blocks) == 1 and "\n" in blocks[0]:
-            first, rest = blocks[0].split("\n", 1)
-            blocks = [first.strip(), rest.strip()]
-        titled = len(blocks) >= 2
-    esc = lambda t: html.escape(t, quote=False)
-    out = []
-    if titled and blocks:
-        t = blocks.pop(0)
-        t = esc(t) if _EMOJI_START.match(t) or not emoji else f"{emoji} {esc(t)}"
-        out.append(f"<b>{t}</b>")
-        for b in blocks:
-            out.append(esc(b) if _EMOJI_START.match(b) else f"{MARK} {esc(b)}")
-    else:
-        for b in blocks:
-            out.append(esc(b) if (_EMOJI_START.match(b) or not emoji) else f"{emoji} {esc(b)}")
-    return "\n\n".join(out)
-
-
-def strip_tags(t):
-    return html.unescape(re.sub(r"<[^>]+>", "", t))
+        tg("sendMessage", data={"chat_id": TARGET, "text": part, "disable_web_page_preview": "true"})
 
 
 class VideoRejected(Exception):
@@ -867,7 +781,7 @@ def send_post(post, fa_text, allow_text_only=False):
         if caption_ok:
             data["caption"] = text
         try:
-            tg_html("sendVideo", data)
+            tg("sendVideo", data=data)
         except Exception as e:
             raise VideoRejected(str(e)[:150])
         if not caption_ok:
@@ -901,7 +815,7 @@ def send_post(post, fa_text, allow_text_only=False):
                 files = {"photo": ("photo.jpg", io.BytesIO(photos[0]))}
             else:
                 data["photo"] = photos[0]
-            tg_html("sendPhoto", data, files)
+            tg("sendPhoto", data=data, files=files)
         else:
             media, files = [], {}
             for n, p in enumerate(photos):
@@ -911,7 +825,7 @@ def send_post(post, fa_text, allow_text_only=False):
                 media.append(item)
                 if isinstance(p, bytes):
                     files[f"p{n}"] = (f"p{n}.jpg", io.BytesIO(p))
-            tg_html("sendMediaGroup", {"chat_id": TARGET, "media": json.dumps(media)}, files or None)
+            tg("sendMediaGroup", data={"chat_id": TARGET, "media": json.dumps(media)}, files=files or None)
     except Exception as e:
         if not allow_text_only:
             raise
@@ -947,7 +861,7 @@ def prune_recent(state, now=None):
 
 
 def add_recent(state, post, cleaned, fa_text):
-    snippet = re.sub(r"\s+", " ", strip_tags(fa_text)).strip()[:400]
+    snippet = re.sub(r"\s+", " ", fa_text).strip()[:400]
     state["recent"].append({"t": post.get("ts") or time.time(), "n": norm(cleaned), "fa": snippet})
     state["recent"] = state["recent"][-RECENT_KEEP:]
 
@@ -1157,17 +1071,15 @@ def main():
                 rejected += 1
                 advance()
                 continue
-            prefix = "🔄 به‌روزرسانی\n" if valid_dup and is_update(v) else ""
+            prefix = ("🔴 " if v["urgent"] else "") + ("🔄 به‌روزرسانی\n" if valid_dup and is_update(v) else "")
             if p.get("source"):
                 body_fa = get_rewrite(e)
                 if not body_fa:
                     fail("rewriting")
                     continue
-                titled = e["idx"] in TITLED
             else:
                 body_fa = v["fa"]
-                titled = None
-            fa = prefix + format_post(body_fa, kind_emoji(v), titled)
+            fa = prefix + body_fa
 
         try:
             send_post(p, fa, allow_text_only=state["fails"].get(key, 0) >= MAX_FAILS - 1)
