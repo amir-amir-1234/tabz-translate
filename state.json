@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107708
+   "last_id": 107713
   },
   "khabarfouri": {
    "last_id": 569189
@@ -218,11 +218,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791790800.0,
-   "n": "u k government faces test of budget credibility the government presents its annual budget later this month but might find it difficult to reassure bond investors that it can lower its debts",
-   "fa": "به گزارش وال‌استریت ژورنال دولت بریتانیا اواخر ماه جاری میلادی بودجه سالانه خود را ارائه خواهد کرد، اما ممکن است متوجه شود که اطمینان دادن به سرمایه‌گذاران اوراق قرضه مبنی بر توانایی این کشور در کاهش بدهی‌هایش، کار دشواری خواهد بود."
-  },
   {
    "t": 1791790985.0,
    "n": "فرمانداری شهرستان خمیر اعلام کرد صدای انفجار شنیده شده در بندرخمیر مربوط به عملیات معدنی شرکت سیمان است و جای هیچگونه نگرانی وجود ندارد",
@@ -517,10 +512,15 @@
    "t": 1791811273.0,
    "n": "رسانه های عبری گزارش دادند در پی انفجاری احتمالا ناشی از مهمات منفجرنشده در نزدیکی نئوت مردخای در مرز لبنان حدود ۲۰ کوهنورد زخمی شدند که حال برخی از آن ها وخیم است و چهار نفر فوت کرده اند",
    "fa": "🔴 🔄 به‌روزرسانی رسانه‌های عبری گزارش دادند: در پی انفجاری احتمالا ناشی از مهمات منفجرنشده در نزدیکی نئوت مردخای در مرز لبنان، حدود ۲۰ کوهنورد زخمی شدند که حال برخی از آن‌ها وخیم است و چهار نفر فوت کرده‌اند"
+  },
+  {
+   "t": 1791811902.0,
+   "n": "norwegian military personnel discovered that chinese owned volvo rental vehicles had been automatically recording and storing video footage during a major military exercise in oslo from september 14 to 18 according to norwegian newspaper dn the recordings captured soldiers entering and exiting vehicles their movements locations and security codes used to access restricted military areas the record",
+   "fa": "🇳🇴🇨🇳⚡️ — به نوشته روزنامه نروژی دی‌ان، پرسنل نظامی نروژ کشف کردند که خودروهای کرایه‌ای ولوو تحت مالکیت چین به طور خودکار در جریان یک رزمایش بزرگ نظامی در اسلو از ۱۴ تا ۱۸ سپتامبر، تصاویر ویدئویی ضبط و ذخیره می‌کرده‌اند. این تصاویر سربازان را در حال سوار و پیاده شدن از خودروها، تحرکات، موقعیت‌ها و کدهای امنیتی مورد استفاده برای دسترسی به مناطق محدود نظامی ضبط کرده است. قابلیت ضبط تصویر درخواست نشده"
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 93
+  "requests": 94
  }
 }
