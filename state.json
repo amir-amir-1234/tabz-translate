@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107743
+   "last_id": 107744
   },
   "khabarfouri": {
-   "last_id": 569210
+   "last_id": 569211
   },
   "KH_B2": {
-   "last_id": 131382
+   "last_id": 131383
   },
   "TelNews_Magazine": {
-   "last_id": 100979
+   "last_id": 100980
   },
   "NE_WG": {
-   "last_id": 114170
+   "last_id": 114173
   }
  },
  "fails": {},
@@ -222,16 +222,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791805335.0,
-   "n": "president trump is considering removing kimberly guilfoyle as u s ambassador to greece following a series of misconduct allegations according to cnn trump has been monitoring reports alleging that guilfoyle who was previously engaged to donald trump jr for four years accepted lavish gifts while serving as ambassador and sought money in exchange for access to administration officials before her con",
-   "fa": "🇺🇸🇬🇷⚡️ — به گزارش سی‌ان‌ان، رئیس‌جمهور ترامپ پس از طرح ادعاهایی درباره تخلفات، در حال بررسی برکناری کیمبرلی گیلفویل به عنوان سفیر ایالات متحده در یونان است. ترامپ گزارش‌هایی را زیر نظر دارد که مدعی هستند گیلفویل که پیش از این به مدت چهار سال نامزد دونالد ترامپ جونیور بود، در دوران تصدی سمت سفارت هدایای گران‌قیمتی دریافت کرده و پیش از تأیید صلاحیت، در ازای دسترسی به مقامات دولت درخواست پول کرده است"
-  },
-  {
-   "t": 1791805336.0,
-   "n": "هشدار آلودگی هوا برای تهران اداره کل هواشناسی تهران سه شنبه تا چهارشنبه ۲۱ تا ۲۲ مهر افزایش آلاینده های جوی به ویژه ذرات معلق کوچک تر از ۲ ۵ میکرون در مناطق مرکزی و جنوبی تهران پیش بینی می شود",
-   "fa": "هشدار آلودگی هوا برای تهران اداره کل هواشناسی تهران: سه شنبه تا چهارشنبه (۲۱ تا ۲۲ مهر) افزایش آلاینده‌های جوی به ویژه ذرات معلق کوچک‌تر از ۲.۵ میکرون در مناطق مرکزی و جنوبی تهران پیش‌بینی می‌شود."
-  },
   {
    "t": 1791805793.0,
    "n": "an investigation by the telegraph has uncovered potential conflicts of interest involving members of the board of peace the trump led organization responsible for overseeing gaza s reconstruction and postwar governance five board members have financial connections to israeli defense manufacturer smart shooter which recently secured a u s military contract worth up to 150 million the company produc",
@@ -521,10 +511,20 @@
    "t": 1791823185.0,
    "n": "شصت کشور متعهد شده اند که از آزادی دریانوردی در تنگه های بین المللی محافظت کنند و با اعمال هزینه های ترانزیت مخالفت کنند",
    "fa": "🇺🇸❌〰️🇮🇷🇾🇪 شصت کشور متعهد شده اند که از آزادی دریانوردی در تنگه های بین المللی محافظت کنند و با اعمال هزینه های ترانزیت مخالفت کنند."
+  },
+  {
+   "t": 1791823397.0,
+   "n": "اکانت کاخ سفید آمریکا به سوی پیروزی در جنگ می رود",
+   "fa": "🔴 ⭕️اکانت کاخ سفید: آمریکا به سوی پیروزی در جنگ می‌رود."
+  },
+  {
+   "t": 1791823706.0,
+   "n": "سازمان تجارت دریایی بریتانیا یک نفتکش در تنگه هرمز هدف قرار گرفت",
+   "fa": "🔴 سازمان تجارت دریایی بریتانیا: یک نفتکش در تنگه هرمز هدف قرار گرفت"
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 119
+  "requests": 120
  }
 }
