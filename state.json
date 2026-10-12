@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107786
+   "last_id": 107787
   },
   "khabarfouri": {
-   "last_id": 569248
+   "last_id": 569249
   },
   "KH_B2": {
-   "last_id": 131439
+   "last_id": 131440
   },
   "TelNews_Magazine": {
-   "last_id": 100999
+   "last_id": 101002
   },
   "NE_WG": {
-   "last_id": 114243
+   "last_id": 114245
   }
  },
  "fails": {},
@@ -159,7 +159,9 @@
     "WP-WSJ-0003967072",
     "SB10250048116742454433604593502660822795602",
     "WP-WSJ-0003968972",
-    "WP-WSJ-0003969061"
+    "WP-WSJ-0003969061",
+    "SB10222543145185073693004593506260980778152",
+    "SB10772738430799224887904593501562236011462"
    ]
   },
   "NYT": {
@@ -225,21 +227,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791820409.0,
-   "n": "سخنگوی کاخ ریاست جمهوری روسیه اروپا خواهان برقراری صلح بین روسیه و اوکراین نیست",
-   "fa": "سخنگوی کاخ ریاست جمهوری روسیه: اروپا خواهان برقراری صلح بین روسیه و اوکراین نیست"
-  },
-  {
-   "t": 1791820725.0,
-   "n": "اردوغان خواستار صلح و امنیت در منطقه هستیم",
-   "fa": "⭕️اردوغان: خواستار صلح و امنیت در منطقه هستیم"
-  },
-  {
-   "t": 1791819894.0,
-   "n": "saudi arabia faces more attacks as it reels from airport strikes the saudi authorities said they were fending off drone and missile attacks after a weekend of confrontation with the houthi militia in yemen whose patrons iran offered to mediate",
-   "fa": "به گزارش نیویورک تایمز مقامات سعودی اعلام کردند که پس از یک آخر هفته پُر از درگیری با شبه‌نظامیان حوثی در یمن، در حال دفع حملات پهپادی و موشکی هستند؛ این در حالی است که حامی حوثی‌ها، یعنی ایران، پیشنهاد میانجی‌گری داد."
-  },
   {
    "t": 1791820902.0,
    "n": "سخنگوی کمیسیون اصل نود زمستان سختی در پیش داریم پالایشگاه هایی که مورد اصابت موشک های آمریکا و اسرائیل قرار گرفته بود فازهای بسیاری از کار افتاده بودند",
@@ -524,10 +511,25 @@
    "t": 1791839797.0,
    "n": "سفارت آمریکا در عربستان کارکنان دولت ایالات متحده اجازه ندارند بدون مجوز ویژه به محدوده ای در فاصله ۲۰ مایلی مرز یمن سفر کنند شهروندان امریکایی اگر تصمیم دارند از فرودگاه های عربستان استفاده کنید نهایت احتیاط را به خرج دهند",
    "fa": "🔴 سفارت آمریکا در عربستان: کارکنان دولت ایالات متحده اجازه ندارند بدون مجوز ویژه به محدوده‌ای در فاصله ۲۰ مایلی مرز یمن سفر کنند شهروندان امریکایی اگر تصمیم دارند از فرودگاه‌های عربستان استفاده کنید، نهایت احتیاط را به خرج دهند"
+  },
+  {
+   "t": 1791839880.0,
+   "n": "opinion how canada should fight trump the prime minister plays a popular but self defeating game of tariff tit for tat",
+   "fa": "به گزارش وال‌استریت ژورنال نخست‌وزیر مشغول بازی محبوب اما خودویرانگر مقابله به مثل در تعرفه‌ها است."
+  },
+  {
+   "t": 1791840060.0,
+   "n": "opinion russia iran and trump s shock and awe foreign policy the president tries to reconcile restrainers and hawks with his strategic goals",
+   "fa": "به گزارش وال‌استریت ژورنال رئیس‌جمهور تلاش می‌کند طرفداران خویشتن‌داری و جنگ‌طلبان را با اهداف راهبردی خود آشتی دهد."
+  },
+  {
+   "t": 1791840589.0,
+   "n": "the egyptian army announced it would pursue its campaign against illegal gold mining exploitation in the sudanese and egyptian border areas calling it a protection of its sovereignty the statement came shortly after an egyptian attack on a gold mine in sudan which killed more than 72 miners",
+   "fa": "🇪🇬🇸🇩⚡️ — ارتش مصر اعلام کرد که به کمپین خود علیه بهره‌برداری غیرقانونی از معادن طلا در مناطق مرزی سودان و مصر ادامه خواهد داد و آن را حفاظت از حاکمیت خود خواند. این بیانیه کمی پس از حمله مصر به یک معدن طلا در سودان که بیش از ۷۲ معدنچی را به کشتن داد، صادر شد."
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 155
+  "requests": 157
  }
 }
