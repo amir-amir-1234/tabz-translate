@@ -4,7 +4,7 @@
    "last_id": 107679
   },
   "khabarfouri": {
-   "last_id": 569121
+   "last_id": 569124
   },
   "KH_B2": {
    "last_id": 131328
@@ -206,11 +206,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791745773.0,
-   "n": "sudanese human rights group emergency lawyers says the egyptian air force carried out an airstrike on a gold mine on the sudan egypt border on saturday killing 72 civilian miners the group said the death toll was preliminary and that efforts to document and verify the casualties remain ongoing",
-   "fa": "🇪🇬🇸🇩⚡️ — گروه حقوق بشری سودانی «وکلای اضطرار» اعلام کرد که نیروی هوایی مصر روز شنبه یک معدن طلا را در مرز سودان و مصر هدف حمله هوایی قرار داده که بر اثر آن ۷۲ معدنچی غیرنظامی کشته شدند. این گروه اعلام کرد که آمار تلفات اولیه است و تلاش‌ها برای مستندسازی و راستی‌آزمایی تلفات همچنان ادامه دارد."
-  },
   {
    "t": 1791745821.0,
    "n": "بیانیه مشترک عربستان سعودی ترکیه پاکستان و مصر ما حملات مداوم شبه نظامیان حوثی به عربستان سعودی را محکوم می کنیم این حملات تشدید خطرناک تنش ها است و ما از پادشاهی عربستان سعودی در اقداماتی که برای مقابله با آنها انجام می دهد حمایت می کنیم ما شبه نظامیان حوثی را مسئول این حملات می دانیم و از آنها می خواهیم که فورا آنها را متوقف کنند",
@@ -505,10 +500,15 @@
    "t": 1791781941.0,
    "n": "the wall street journal reports that saudi arabia is suffering from a shortage of interceptor missiles and other air defence systems due to the recent heavy daily ansarallah missile and drone attacks on its territory saudi arabia is reportedly struggling to defend its entire airspace with adequate air defence and is redeploying air defence batteries around the country to protect key energy facilit",
    "fa": "وال‌استریت ژورنال گزارش داد که عربستان سعودی به دلیل حملات سنگین و روزانه موشکی و پهپادی انصارالله به خاک این کشور، با کمبود موشک‌های رهگیر و سایر سامانه‌های پدافند هوایی مواجه شده است. بر اساس این گزارش، عربستان در تلاش است تا با جابه‌جایی سامانه‌های پدافندی در سراسر کشور، از تأسیسات کلیدی انرژی و همچنین کاخ‌های خود محافظت کند. گفته می‌شود محمد بن سلمان، ولیعهد عربستان، با احتیاط میان «کاخ‌های به"
+  },
+  {
+   "t": 1791782642.0,
+   "n": "قیمت طلا از مرز 4200 دلار به ازای هر اونس فراتر رفت این در حالی است که قیمت نفت و بازده اوراق قرضه کاهش یافته است",
+   "fa": "قیمت طلا از مرز 4200 دلار به ازای هر اونس فراتر رفت، این در حالی است که قیمت نفت و بازده اوراق قرضه کاهش یافته است."
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 31
+  "requests": 32
  }
 }
