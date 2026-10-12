@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107742
+   "last_id": 107743
   },
   "khabarfouri": {
    "last_id": 569210
   },
   "KH_B2": {
-   "last_id": 131381
+   "last_id": 131382
   },
   "TelNews_Magazine": {
-   "last_id": 100978
+   "last_id": 100979
   },
   "NE_WG": {
-   "last_id": 114169
+   "last_id": 114170
   }
  },
  "fails": {},
@@ -222,16 +222,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791805021.0,
-   "n": "طهماسبی مجری صداوسیما به والله قسم حاضرم برم ترامپ و نتانیاهو رو بکشم",
-   "fa": "⭕️طهماسبی،مجری صداوسیما: به والله قسم حاضرم برم ترامپ و نتانیاهو رو بکشم"
-  },
-  {
-   "t": 1791805032.0,
-   "n": "iran offers to mediate between its houthi allies and saudi arabia iran has long backed the houthis a yemeni militia and it made the offer as saudi arabia contends with increasingly deadly attacks from them",
-   "fa": "به گزارش نیویورک تایمز، ایران پیشنهاد میانجی‌گری میان متحدان حوثی خود و عربستان سعودی را ارائه داده است. ایران مدت‌هاست که از حوثی‌ها، که یک شبه‌نظامی یمنی هستند، حمایت می‌کند و این پیشنهاد در حالی مطرح شده است که عربستان سعودی با حملات روزافزون و مرگبار آن‌ها دست‌وپنجه نرم می‌کند."
-  },
   {
    "t": 1791805335.0,
    "n": "president trump is considering removing kimberly guilfoyle as u s ambassador to greece following a series of misconduct allegations according to cnn trump has been monitoring reports alleging that guilfoyle who was previously engaged to donald trump jr for four years accepted lavish gifts while serving as ambassador and sought money in exchange for access to administration officials before her con",
@@ -521,10 +511,20 @@
    "t": 1791822203.0,
    "n": "mistaken with a fire breaking out on a ship at port on qeshm island iran no strike took place",
    "fa": "🇮🇷⚡️ — اشتباه با آتش‌سوزی رخ داده در یک کشتی در بندری در جزیره قشْم، ایران. هیچ حمله ای صورت نگرفته است."
+  },
+  {
+   "t": 1791822940.0,
+   "n": "لاپید رهبر اپوزیسیون اسرائیل انتظار نمی رود پیش از انتخابات اسرائیل ۵ آبان جنگ جدیدی آغاز شود",
+   "fa": "⭕️لاپید، رهبر اپوزیسیون اسرائیل: انتظار نمی‌رود پیش از انتخابات اسرائیل (۵ آبان) جنگ جدیدی آغاز شود"
+  },
+  {
+   "t": 1791823185.0,
+   "n": "شصت کشور متعهد شده اند که از آزادی دریانوردی در تنگه های بین المللی محافظت کنند و با اعمال هزینه های ترانزیت مخالفت کنند",
+   "fa": "🇺🇸❌〰️🇮🇷🇾🇪 شصت کشور متعهد شده اند که از آزادی دریانوردی در تنگه های بین المللی محافظت کنند و با اعمال هزینه های ترانزیت مخالفت کنند."
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 118
+  "requests": 119
  }
 }
