@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107791
+   "last_id": 107792
   },
   "khabarfouri": {
    "last_id": 569250
@@ -229,11 +229,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791823706.0,
-   "n": "سازمان تجارت دریایی بریتانیا یک نفتکش در تنگه هرمز هدف قرار گرفت",
-   "fa": "🔴 سازمان تجارت دریایی بریتانیا: یک نفتکش در تنگه هرمز هدف قرار گرفت"
-  },
   {
    "t": 1791824381.0,
    "n": "the houthis ansarallah say saudi arabia carried out 119 airstrikes and missile attacks across yemen over the past 24 hours using f 15 and typhoon jets from khamis mushait and taif alongside missiles launched from najran and jizan they say the strikes caused civilian casualties including women and children the total number of saudi led coalition air and missile strikes has now reached 2177",
@@ -528,10 +523,15 @@
    "t": 1791844200.0,
    "n": "flying near koya iraqi kurdistan high threat for koya this area has been attacked multiple times lately",
    "fa": "🔴 🇮🇷❌🇮🇶 — پرواز در نزدیکی کویه، کردستان عراق. تهدید بالا برای کویه؛ این منطقه اخیراً چندین بار مورد حمله قرار گرفته است."
+  },
+  {
+   "t": 1791844525.0,
+   "n": "no follow up reports these may have been american uavs not iranian",
+   "fa": "🇮🇶🇮🇶⚡️ — هیچ گزارش تکمیلی دریافت نشده است. این موارد ممکن است پهپادهای آمریکایی بوده باشند، نه ایرانی."
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 164
+  "requests": 165
  }
 }
