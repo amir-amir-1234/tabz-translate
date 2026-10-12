@@ -4,7 +4,7 @@
    "last_id": 107679
   },
   "khabarfouri": {
-   "last_id": 569157
+   "last_id": 569158
   },
   "KH_B2": {
    "last_id": 131339
@@ -209,16 +209,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791753457.0,
-   "n": "a drone struck a tanker in the vicinity of the anchorage area for the port of sohar oman earlier today omani authorities are evacuating the crew damage assessment and environmental impact are unknown",
-   "fa": "🔴 🇮🇷🇴🇲⚡️ — یک فروند پهپاد امروز به یک فروند نفتکش در نزدیکی منطقه لنگرگاه بندر صحار در عمان اصابت کرد. مقام‌های عمانی در حال تخلیه خدمه هستند. ارزیابی خسارات و میزان آسیب‌های زیست‌محیطی هنوز نامشخص است."
-  },
-  {
-   "t": 1791753625.0,
-   "n": "president trump via truth social i just want to pay my respect and thanks to karoline leavitt for the fantastic job she has done as white house press secretary could not have been better",
-   "fa": "🇺🇸⚡️ — دونالد ترامپ در توتروث سوشال: من می‌خواهم احترام و تشکر خود را به کارولین لیویت به خاطر کار فوق‌العاده‌ای که به عنوان سخنگوی کاخ سفید انجام داده است، ابراز کنم — از این بهتر نمی‌شد!"
-  },
   {
    "t": 1791755016.0,
    "n": "president trump via truth social i am pleased to announce that katie zacharia will be beginning her term as press secretary tomorrow columbus day and will be doing an introductory news conference on tuesday at 9 30 a m from the press briefing room in the white house katie has been with me in spirit from the very beginning and will do a fantastic job",
@@ -512,6 +502,6 @@
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 62
+  "requests": 63
  }
 }
