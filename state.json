@@ -4,7 +4,7 @@
    "last_id": 107678
   },
   "khabarfouri": {
-   "last_id": 569109
+   "last_id": 569111
   },
   "KH_B2": {
    "last_id": 131327
@@ -52,7 +52,8 @@
     "https://www.foxnews.com/world/mojtaba-khamenei-defies-malicious-attacks-us-army-zeroes-irans-350000-troops",
     "https://www.foxnews.com/world/trump-russia-deal-could-fuel-putins-war-ex-nato-commander-warns-zelenskyy-says-nyet",
     "https://www.foxnews.com/world/houthis-kill-14-saudi-airport-expert-warns-rapid-targets-amid-middle-east-war",
-    "https://www.foxnews.com/world/at-least-139-migrants-dead-84-missing-overcrowded-boat-capsizes-djibouti"
+    "https://www.foxnews.com/world/at-least-139-migrants-dead-84-missing-overcrowded-boat-capsizes-djibouti",
+    "https://www.foxnews.com/world/pope-leo-denounces-death-penalty-inadmissible-ahead-pentagons-planned-livestreamed-execution"
    ]
   },
   "WSJ": {
@@ -141,7 +142,8 @@
     "SB10772738430799224887904593503040801625934",
     "WP-WSJ-0003967427",
     "WP-WSJ-0003960691",
-    "WP-WSJ-0003963565"
+    "WP-WSJ-0003963565",
+    "WP-WSJ-0003951981"
    ]
   },
   "NYT": {
@@ -204,16 +206,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791743699.0,
-   "n": "ksa s general authority of civil aviation announces a strike occured against king fahd intl airport dammam a few hours ago and announced a damage assessment and safety inspection is underway",
-   "fa": "🔴 🇾🇪🇸🇦⚡️ — سازمان عمومی هوانوردی مدنی عربستان سعودی اعلام کرد که چند ساعت پیش فرودگاه بین‌المللی ملک فهد در دمام هدف حمله قرار گرفته و ارزیابی خسارات و بازرسی‌های ایمنی در جریان است."
-  },
-  {
-   "t": 1791743909.0,
-   "n": "saudi and yemeni airports hit in new round of strikes the airport in the saudi capital riyadh was struck a day after suffering a devastating attack the houthis said saudi aircraft hit the yemeni capital s airport",
-   "fa": "🔴 به گزارش نیویورک تایمز فرودگاه واقع در ریاض، پایتخت عربستان سعودی، یک روز پس از آنکه متحمل حمله‌ای ویرانگر شده بود، مورد اصابت قرار گرفت. حوثی‌ها اعلام کردند که هواپیماهای سعودی فرودگاه پایتخت یمن را هدف قرار داده‌اند."
-  },
   {
    "t": 1791744088.0,
    "n": "تسنیم باراک راوید خبرنگار آکسیوس افسر واحد ۸۲۰۰ ارتش اسرائیل است",
@@ -503,10 +495,20 @@
    "t": 1791778087.0,
    "n": "وزیر کشور برای گفتگو با همتای آذربایجانی راهی باکو شد اسکندر مومنی وزیر کشور ایران در سفری رسمی به دعوت همتای آذربایجانی خود راهی باکو شد تا با ولایت عیوض اف و دیگر مقامات جمهوری آذربایجان دیدار و گفتگو کند",
    "fa": "وزیر کشور برای گفتگو با همتای آذربایجانی راهی باکو شد اسکندر مومنی، وزیر کشور ایران، در سفری رسمی به دعوت همتای آذربایجانی خود راهی باکو شد تا با ولایت عیوض‌اف و دیگر مقامات جمهوری آذربایجان دیدار و گفتگو کند."
+  },
+  {
+   "t": 1791298860.0,
+   "n": "former german spy chief arrested on suspicion of espionage the arrest is one of the biggest scandals to engulf the bnd spy agency since its creation in the mid 1950s",
+   "fa": "به گزارش وال‌استریت ژورنال، دستگیری رئیس پیشین سازمان اطلاعات و امنیت آلمان یکی از بزرگ‌ترین رسوایی‌هایی است که از زمان تأسیس این آژانس جاسوسی در اواسط دهه ۱۹۵۰ میلادی تاکنون، آن را درگیر کرده است."
+  },
+  {
+   "t": 1791778019.0,
+   "n": "pope leo denounces death penalty as inadmissible ahead of pentagon s planned livestreamed execution pope leo xiv condemned the death penalty as inadmissible as the pentagon faces criticism over plans to livestream an execution later this year leo the first american pope shared his opposition to capital punishment saturday in a social media post marking world day against the death penalty citing ca",
+   "fa": "به گزارش فاکس نیوز، پاپ لئو چهاردهم همزمان با انتقادهایی که پنتاگون را به دلیل برنامه‌ریزی برای پخش زنده یک اعدام در اواخر سال جاری میلادی احاطه کرده است، مجازات اعدام را «غیرقابل قبول» محکوم کرد. پاپ لئو، نخستین پاپ آمریکایی، مخالفت خود با مجازات اعدام را روز شنبه در یک پیام در شبکه‌های اجتماعی به مناسبت روز جهانی مبارزه با مجازات اعدام به اشتراک گذاشت. لئو با استناد به دکترین کاتولیک که تحت نظر "
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 21
+  "requests": 23
  }
 }
