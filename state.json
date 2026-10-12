@@ -1,10 +1,10 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107661
+   "last_id": 107662
   },
   "khabarfouri": {
-   "last_id": 569084
+   "last_id": 569096
   },
   "KH_B2": {
    "last_id": 131326
@@ -199,16 +199,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791739269.0,
-   "n": "ادعای روزنامه خراسان واشنگتن و تل آویو تصمیم برای شروع جنگ بعدی را گرفته اند",
-   "fa": "🇮🇷 ادعای روزنامه خراسان: واشنگتن و تل آویو تصمیم برای شروع جنگ بعدی را گرفته‌اند."
-  },
-  {
-   "t": 1791739536.0,
-   "n": "according to the french media l express the french directorate of defense intelligence and security drsd agency warned multiple ceos of defense companies of extreme vigilance during their business trip to ukraine due to increasing russian intelligence threats",
-   "fa": "🇫🇷🇫🇷🇺🇦🇷🇺 — به گزارش رسانه فرانسوی لکسپرس، آژانس اطلاعات و امنیت دفاعی فرانسه (DRSD) به چندین مدیر اجرایی شرکت‌های دفاعی هشدار داد که در جریان سفر کاری خود به اوکراین به دلیل افزایش تهدیدهای اطلاعاتی روسیه، حداکثر هوشیاری را به خرج دهند."
-  },
   {
    "t": 1791739622.0,
    "n": "همتی اقای بسنت وعده ای که دادی چیشد",
@@ -498,10 +488,20 @@
    "t": 1791763223.0,
    "n": "saudi led coalition to restore legitimacy in yemen announces the interception of one ballistic missile launched towards khamis mushait king khalid ab southwestern ksa this is what likely triggered the alert",
    "fa": "🔴 🇸🇦🇾🇪⚡️ — ائتلاف عربی حمایت از دولت قانونی یمن از رهگیری یک فروند موشک بالستیک شلیک‌شده به سمت خمیس مشط [پایگاه هوایی ملک خالد] در جنوب غربی عربستان سعودی خبر داد. این احتمالاً همان چیزی است که هشدار را فعال کرده است."
+  },
+  {
+   "t": 1791763398.0,
+   "n": "this alert was the first alert issued by saudi civil defense in 11 days it appears that ksa has paused its unwritten policy of censoring ansarallah attacks to the point they don t even warn their citizens",
+   "fa": "🇸🇦⚡️ — این هشدار، نخستین هشداری بود که دفاع مدنی عربستان سعودی در ۱۱ روز گذشته صادر کرد. به نظر می‌رسد عربستان سعودی سیاست نانوشته خود مبنی بر سانسور حملات انصارالله تا حدی که حتی به شهروندان خود هشدار نمی‌دهد را متوقف کرده است."
+  },
+  {
+   "t": 1791763752.0,
+   "n": "رسانه ها گزارش دادند دقایقی پیش یک نفتکش متخلف با پرچم هند در تنگه هرمز هدف قرار گرفت دو نفر از خدمه مفقود شده اند و ٩ نفر دیگر نجات یافته اند",
+   "fa": "🔴 رسانه‌‌ها گزارش دادند دقایقی پیش یک نفتکش متخلف با پرچم هند در تنگه هرمز هدف قرار گرفت؛ دو نفر از خدمه مفقود شده‌اند و ٩ نفر دیگر نجات یافته‌اند."
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 1
+  "requests": 3
  }
 }
