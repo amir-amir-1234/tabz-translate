@@ -7,13 +7,13 @@
    "last_id": 569173
   },
   "KH_B2": {
-   "last_id": 131351
+   "last_id": 131353
   },
   "TelNews_Magazine": {
-   "last_id": 100958
+   "last_id": 100959
   },
   "NE_WG": {
-   "last_id": 114138
+   "last_id": 114140
   }
  },
  "fails": {},
@@ -151,7 +151,8 @@
     "WP-WSJ-0003968279",
     "WP-WSJ-0003967436",
     "WP-WSJ-0003968357",
-    "WP-WSJ-0003968313"
+    "WP-WSJ-0003968313",
+    "WP-WSJ-0003967118"
    ]
   },
   "NYT": {
@@ -182,7 +183,8 @@
     "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
     "https://www.nytimes.com/2026/10/11/world/middleeast/pakistan-federal-control-khyber-pakhtunkhwa.html",
     "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html",
-    "https://www.nytimes.com/2026/10/12/business/middle-east-oil-exports-houthi-saudi.html"
+    "https://www.nytimes.com/2026/10/12/business/middle-east-oil-exports-houthi-saudi.html",
+    "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia-mediate.html"
    ]
   },
   "Treasury": {
@@ -215,26 +217,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791763752.0,
-   "n": "رسانه ها گزارش دادند دقایقی پیش یک نفتکش متخلف با پرچم هند در تنگه هرمز هدف قرار گرفت دو نفر از خدمه مفقود شده اند و ٩ نفر دیگر نجات یافته اند",
-   "fa": "🔴 رسانه‌‌ها گزارش دادند دقایقی پیش یک نفتکش متخلف با پرچم هند در تنگه هرمز هدف قرار گرفت؛ دو نفر از خدمه مفقود شده‌اند و ٩ نفر دیگر نجات یافته‌اند."
-  },
-  {
-   "t": 1791765293.0,
-   "n": "houthis kill 14 at saudi airport as expert warns of rapid targets amid middle east war iran backed houthis launched a series of attacks on saudi arabian airports through sunday reportedly killing at least 14 people including an american and injuring more than 300 others according to reports the attacks heightened fears of a wider middle east war as regional experts warned of cross domain escalatio",
-   "fa": "به گزارش فاکس نیوز حوثی‌های تحت حمایت ایران با انجام یک سلسله حملات به فرودگاه‌های عربستان سعودی تا روز یکشنبه، بنا بر گزارش‌های دریافتی، دست‌کم ۱۴ نفر از جمله یک تبعه آمریکایی را کشته و بیش از ۳۰۰ نفر دیگر را مجروح کردند. این حملات در میان هشدار کارشناسان منطقه‌ای درباره تشدید تنش‌های چندحوزه‌ای در پی اقدامات ماه سپتامبر واشنگتن علیه بخش هوانوردی ایران، ترس از وقوع یک جنگ گسترده‌تر در خاورمیانه ر"
-  },
-  {
-   "t": 1791765689.0,
-   "n": "دو انفجار شدید در ریاض",
-   "fa": "🔴 🚨🚨دو انفجار شدید در ریاض"
-  },
-  {
-   "t": 1791766800.0,
-   "n": "iran backed militants are tightening the screws on saudi arabia s crown prince mohammed bin salman is now caught by an economy weakened by heavy spending and miscalculations of the houthi threat",
-   "fa": "به گزارش وال‌استریت ژورنال شبه‌نظامیان تحت حمایت ایران فشارها را بر ولیعهد عربستان سعودی افزایش داده‌اند. محمد بن سلمان اکنون در گیرودار اقتصاد تضعیف‌شده ناشی از هزینه‌های سنگین و محاسبات نادرست درباره تهدید حوثی‌ها گرفتار شده است."
-  },
   {
    "t": 1791770110.0,
    "n": "at least 139 migrants dead 84 missing after overcrowded boat capsizes off djibouti at least 139 migrants including 15 children died when a boat carrying more than 300 people capsized off the coast of djibouti according to the united nations migration agency the vessel was carrying 305 people from djibouti toward yemen when it capsized thursday night or early friday near guhere north of obock the i",
@@ -514,10 +496,30 @@
    "t": 1791804551.0,
    "n": "گزارش های محلی از رزمایش و شلیک موشک های بالستیک در یزد و چابهار خبر می دهند",
    "fa": "🔴 ⭕️گزارش های محلی از رزمایش و شلیک موشک های بالستیک در یزد و چابهار خبر می‌دهند"
+  },
+  {
+   "t": 1791804720.0,
+   "n": "the morning risk report courts grapple with problem of people betting on the outcome of jury cases plus the u s is sanctioning the international criminal court and ai has a god problem",
+   "fa": "به گزارش وال‌استریت ژورنال، دادگاه‌ها با مسئله شرط‌بندی افراد روی نتیجه پرونده‌های هیئت منصفه دست‌وپنجه نرم می‌کنند. در این گزارش همچنین افزوده شده است که ایالات متحده دادگاه کیفری بین‌المللی را تحریم می‌کند و هوش مصنوعی با یک مسئله خدا روبه‌رو است."
+  },
+  {
+   "t": 1791804994.0,
+   "n": "اسرائیل رادار بالنی جدیدی را در نمایشگاه ارتش آمریکا رونمایی می کند شرکت صنایع هوافضای اسرائیل iai در نمایشگاه ausa 2026 از سامانه راداری point air رونمایی خواهد کرد راداری آرایه فازی فعال aesa که روی یک بالون مهارشده نصب می شود این سامانه برای شناسایی و رهگیری پهپادها هواگردها و اهداف دریایی و زمینی طراحی شده و با قرارگیری در ارتفاع امکان کشف اهداف کم ارتفاعی را فراهم می کند که ممکن است از دید را",
+   "fa": "🇮🇱🇺🇸اسرائیل رادار بالنی جدیدی را در نمایشگاه ارتش آمریکا رونمایی می‌کند شرکت صنایع هوافضای اسرائیل (IAI) در نمایشگاه AUSA 2026 از سامانه راداری POINT@AIR رونمایی خواهد کرد؛ راداری آرایه‌فازی فعال (AESA) که روی یک بالون مهارشده نصب می‌شود. این سامانه برای شناسایی و رهگیری پهپادها، هواگردها و اهداف دریایی و زمینی طراحی شده و با قرارگیری در ارتفاع، امکان کشف اهداف کم‌ارتفاعی را فراهم می‌کند که ممکن ا"
+  },
+  {
+   "t": 1791805021.0,
+   "n": "طهماسبی مجری صداوسیما به والله قسم حاضرم برم ترامپ و نتانیاهو رو بکشم",
+   "fa": "⭕️طهماسبی،مجری صداوسیما: به والله قسم حاضرم برم ترامپ و نتانیاهو رو بکشم"
+  },
+  {
+   "t": 1791805032.0,
+   "n": "iran offers to mediate between its houthi allies and saudi arabia iran has long backed the houthis a yemeni militia and it made the offer as saudi arabia contends with increasingly deadly attacks from them",
+   "fa": "به گزارش نیویورک تایمز، ایران پیشنهاد میانجی‌گری میان متحدان حوثی خود و عربستان سعودی را ارائه داده است. ایران مدت‌هاست که از حوثی‌ها، که یک شبه‌نظامی یمنی هستند، حمایت می‌کند و این پیشنهاد در حالی مطرح شده است که عربستان سعودی با حملات روزافزون و مرگبار آن‌ها دست‌وپنجه نرم می‌کند."
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 79
+  "requests": 81
  }
 }
