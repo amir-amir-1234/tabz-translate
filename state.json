@@ -1,10 +1,10 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107678
+   "last_id": 107679
   },
   "khabarfouri": {
-   "last_id": 569120
+   "last_id": 569121
   },
   "KH_B2": {
    "last_id": 131328
@@ -206,11 +206,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791745674.0,
-   "n": "معاون عراقچی در حال بررسی پاسخ آمریکا به شروط هفتگانه خود هستیم",
-   "fa": "🔄 به‌روزرسانی 🚨معاون عراقچی: در حال بررسی پاسخ آمریکا به شروط هفتگانه خود هستیم"
-  },
   {
    "t": 1791745773.0,
    "n": "sudanese human rights group emergency lawyers says the egyptian air force carried out an airstrike on a gold mine on the sudan egypt border on saturday killing 72 civilian miners the group said the death toll was preliminary and that efforts to document and verify the casualties remain ongoing",
@@ -505,10 +500,15 @@
    "t": 1791781645.0,
    "n": "آیا محاصره زمینی ایران توسط آمریکا توهم است واشنگتن انتظار تسلیم اقتصادی ایران را دارد روزنامه همشهری نوشت آمریکا پس از محاصره دریایی و هوایی ایران به صرافت محاصره زمینی ایران هم افتاده است تصمیم به تشدید محاصره پس از آن صورت می گیرد که آمریکا به هدف های اصلی خود در اقدامات قبلی دست نیافت اسکات بسنت وزیر خزانه داری آمریکا 5مهرماه در اظهاراتی پیش بینی کرد ایران ظرف 2هفته دیگر نفتی روی دریاها نخواهد",
    "fa": "آیا محاصره زمینی ایران توسط آمریکا توهم است؟/ واشنگتن انتظار تسلیم اقتصادی ایران را دارد روزنامه همشهری نوشت: آمریکا پس از محاصره دریایی و هوایی ایران به صرافت محاصره زمینی ایران هم افتاده است. تصمیم به تشدید محاصره، پس از آن صورت می‌گیرد که آمریکا به هدف‌های اصلی خود در اقدامات قبلی دست نیافت. اسکات بسنت، وزیر خزانه‌داری آمریکا 5مهرماه در اظهاراتی پیش‌بینی کرد ایران ظرف 2هفته دیگر نفتی روی دریاها"
+  },
+  {
+   "t": 1791781941.0,
+   "n": "the wall street journal reports that saudi arabia is suffering from a shortage of interceptor missiles and other air defence systems due to the recent heavy daily ansarallah missile and drone attacks on its territory saudi arabia is reportedly struggling to defend its entire airspace with adequate air defence and is redeploying air defence batteries around the country to protect key energy facilit",
+   "fa": "وال‌استریت ژورنال گزارش داد که عربستان سعودی به دلیل حملات سنگین و روزانه موشکی و پهپادی انصارالله به خاک این کشور، با کمبود موشک‌های رهگیر و سایر سامانه‌های پدافند هوایی مواجه شده است. بر اساس این گزارش، عربستان در تلاش است تا با جابه‌جایی سامانه‌های پدافندی در سراسر کشور، از تأسیسات کلیدی انرژی و همچنین کاخ‌های خود محافظت کند. گفته می‌شود محمد بن سلمان، ولیعهد عربستان، با احتیاط میان «کاخ‌های به"
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 28
+  "requests": 31
  }
 }
