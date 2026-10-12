@@ -4,16 +4,16 @@
    "last_id": 107679
   },
   "khabarfouri": {
-   "last_id": 569146
+   "last_id": 569147
   },
   "KH_B2": {
-   "last_id": 131337
+   "last_id": 131338
   },
   "TelNews_Magazine": {
-   "last_id": 100945
+   "last_id": 100946
   },
   "NE_WG": {
-   "last_id": 114118
+   "last_id": 114119
   }
  },
  "fails": {},
@@ -208,16 +208,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791749958.0,
-   "n": "seven bipartisan u s senators led by senate foreign relations committee ranking member jeanne shaheen have accused president trump of violating a 2022 law banning russian energy imports by authorizing russian diesel shipments to the u s the senators including republicans susan collins lisa murkowski thom tillis and john curtis alongside democrats richard blumenthal and ron wyden argued that the ad",
-   "fa": "🇺🇸🇷🇺⚡️ — هفت سناتور آمریکایی از دو حزب، به رهبری جین شاهین، عضو ارشد کمیته روابط خارجی سنا، دولت ترامپ را به نقض قانون سال ۲۰۲۲ ممنوعیت واردات انرژی از روسیه متهم کردند؛ این اقدام پس از صدور مجوز برای محموله‌های گازوئیل روسیه به ایالات متحده صورت گرفته است. این سناتورها، از جمله جمهوری‌خواهان سوزان کالینز، لیسا مورکوفسکی، تام تیلیس، و جان کورتیس، در کنار دموکرات‌ها ریچارد بلومنتال و رون وایدن، است"
-  },
-  {
-   "t": 1791750524.0,
-   "n": "u s envoys steve witkoff and jared kushner have postponed their planned visit to moscow amid tensions with ukraine pending clarification on whether kyiv and european governments are prepared to support a new unified peace proposal to present to russian president vladimir putin axios reports",
-   "fa": "🔄 به‌روزرسانی 🇺🇸🇺🇦🇷🇺⚡️ — نمایندگان ایالات متحده، استیو ویتکاف و جرد کوشنر، سفر برنامه‌ریزی‌شده خود به مسکو را در میان تنش‌ها با اوکراین و در انتظار شفاف‌سازی درباره آمادگی کی‌یف و دولت‌های اروپایی برای حمایت از پیشنهاد صلح واحد جدید جهت ارائه به ولادیمیر پوتین، رئیس‌جمهور روسیه، به تعویق انداختند، آکسیوس گزارش می‌دهد."
-  },
   {
    "t": 1791750879.0,
    "n": "mojtaba khamenei defies malicious attacks as us army zeroes in on iran s 350 000 troops iranian supreme leader mojtaba khamenei claimed oct 8 that u s and israeli strikes had failed to undermine iran s domestic security forces praising police personnel for resisting attacks launched in february under operations epic fury and roaring lion khamenei s remarks on x also came as the u s army released a",
@@ -507,10 +497,20 @@
    "t": 1791790985.0,
    "n": "فرمانداری شهرستان خمیر اعلام کرد صدای انفجار شنیده شده در بندرخمیر مربوط به عملیات معدنی شرکت سیمان است و جای هیچگونه نگرانی وجود ندارد",
    "fa": "🔴 فرمانداری شهرستان خمیر اعلام کرد صدای انفجار شنیده شده در بندرخمیر مربوط به عملیات معدنی شرکت سیمان است و جای هیچگونه نگرانی وجود ندارد."
+  },
+  {
+   "t": 1791792951.0,
+   "n": "سخنگوی وزارت خارجه درباره مطرح شدن خروج از npt در چنین شرایطی زیر سؤال رفتن کارآمدی این پیمان در افکار عمومی ایران امری کاملا منطقی است متولیان غربی با آزمایش های هسته ای جدید و ترور رهبری هر سه پایه پیمان npt را ویران کرده اند بقایی حملات صورت گرفته به تأسیسات هسته ای صلح آمیز ایران به عنوان عضو قدیمی npt با سکوت و همراهی آژانس بین المللی انرژی اتمی شورای امنیت و کشورهای اروپایی مواجه شد در چنین ",
+   "fa": "🔴 سخنگوی وزارت خارجه درباره مطرح شدن خروج از NPT: در چنین شرایطی، زیر سؤال رفتن کارآمدی این پیمان در افکار عمومی ایران امری کاملاً منطقی است/متولیان غربی با آزمایش‌های هسته‌ای جدید و ترور رهبری هر سه پایه پیمان NPT را ویران کرده‌اند بقایی: حملات صورت‌گرفته به تأسیسات هسته‌ای صلح‌آمیز ایران به عنوان عضو قدیمی NPT با سکوت و همراهی آژانس بین‌المللی انرژی اتمی، شورای امنیت و کشورهای اروپایی مواجه شد. "
+  },
+  {
+   "t": 1791793081.0,
+   "n": "سی ان ان واشنگتن به کی یف هشدار داد اگر به حملات خود به تأسیسات انرژی روسیه ادامه دهد اروپا برایش تسلیحات آمریکایی خریداری نخواهد کرد",
+   "fa": "⭕️سی‌ان‌ان: واشنگتن به کی‌یف هشدار داد اگر به حملات خود به تأسیسات انرژی روسیه ادامه دهد، اروپا برایش تسلیحات آمریکایی خریداری نخواهد کرد"
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 56
+  "requests": 57
  }
 }
