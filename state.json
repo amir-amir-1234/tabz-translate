@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107687
+   "last_id": 107692
   },
   "khabarfouri": {
-   "last_id": 569177
+   "last_id": 569179
   },
   "KH_B2": {
-   "last_id": 131354
+   "last_id": 131355
   },
   "TelNews_Magazine": {
    "last_id": 100960
   },
   "NE_WG": {
-   "last_id": 114141
+   "last_id": 114142
   }
  },
  "fails": {},
@@ -217,11 +217,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791778087.0,
-   "n": "وزیر کشور برای گفتگو با همتای آذربایجانی راهی باکو شد اسکندر مومنی وزیر کشور ایران در سفری رسمی به دعوت همتای آذربایجانی خود راهی باکو شد تا با ولایت عیوض اف و دیگر مقامات جمهوری آذربایجان دیدار و گفتگو کند",
-   "fa": "وزیر کشور برای گفتگو با همتای آذربایجانی راهی باکو شد اسکندر مومنی، وزیر کشور ایران، در سفری رسمی به دعوت همتای آذربایجانی خود راهی باکو شد تا با ولایت عیوض‌اف و دیگر مقامات جمهوری آذربایجان دیدار و گفتگو کند."
-  },
   {
    "t": 1791778019.0,
    "n": "pope leo denounces death penalty as inadmissible ahead of pentagon s planned livestreamed execution pope leo xiv condemned the death penalty as inadmissible as the pentagon faces criticism over plans to livestream an execution later this year leo the first american pope shared his opposition to capital punishment saturday in a social media post marking world day against the death penalty citing ca",
@@ -516,10 +511,15 @@
    "t": 1791806083.0,
    "n": "kremlin spokesman dmitry peskov the kremlin has nothing to say yet about the proposed energy ceasefire but contacts are continuing putin is prepared to order a halt to strikes on ukraine on election day if kyiv decides to hold elections",
    "fa": "🇷🇺🇺🇦🇺🇸⚡️ — دیمیتری پسکوف، سخنگوی کرملین: کرملین هنوز چیزی برای گفتن درباره آتش‌بس پیشنهادی انرژی ندارد، اما تماس‌ها ادامه دارد. پوتین آماده است اگر کی‌یف تصمیم به برگزاری انتخابات بگیرد، دستور توقف حملات به اوکراین را در روز انتخابات صادر کند."
+  },
+  {
+   "t": 1791806633.0,
+   "n": "ضربه سنگین پلیس امنیت اقتصادی به باند سازمان یافته کارت های بازرگانی اجاره ای کشف ۱ ۷ میلیارد یورو تعهد ارزی ایفا نشده سردار رحیمی رئیس پلیس امنیت اقتصادی فراجا از شناسایی یک شبکه سازمان یافته با استفاده از ۳۴ کارت بازرگانی اجاره ای خبر داد و گفت اعضای این شبکه در جریان فعالیت های تجاری خود یک میلیارد و ۷۰۰ میلیون یورو تعهد ارزی ایفا نشده داشتند که در این پرونده ۱۰۵ نفر از مطلعان و اعضای شبکه احضا",
+   "fa": "ضربه سنگین پلیس امنیت اقتصادی به باند سازمان‌یافته کارت‌های بازرگانی اجاره‌ای / کشف ۱.۷ میلیارد یورو تعهد ارزی ایفا نشده سردار رحیمی رئیس پلیس امنیت اقتصادی فراجا از شناسایی یک شبکه سازمان‌یافته با استفاده از ۳۴ کارت بازرگانی اجاره‌ای خبر داد و گفت: اعضای این شبکه در جریان فعالیت‌های تجاری خود، یک میلیارد و ۷۰۰ میلیون یورو تعهد ارزی ایفا نشده داشتند که در این پرونده ۱۰۵ نفر از مطلعان و اعضای شبکه "
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 83
+  "requests": 84
  }
 }
