@@ -10,7 +10,7 @@
    "last_id": 131340
   },
   "TelNews_Magazine": {
-   "last_id": 100950
+   "last_id": 100951
   },
   "NE_WG": {
    "last_id": 114122
@@ -209,16 +209,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791755016.0,
-   "n": "president trump via truth social i am pleased to announce that katie zacharia will be beginning her term as press secretary tomorrow columbus day and will be doing an introductory news conference on tuesday at 9 30 a m from the press briefing room in the white house katie has been with me in spirit from the very beginning and will do a fantastic job",
-   "fa": "🇺🇸⚡️ — دونالد ترامپ در توتروث سوشال: من خوشحالم که اعلام کنم کتی زاکاریا فردا، در روز کلمبوس، دوره خود را به عنوان دبیر مطبوعاتی آغاز خواهد کرد و روز سه‌شنبه ساعت ۹:۳۰ صبح در اتاق بریفینگ مطبوعاتی در کاخ سفید یک کنفرانس مطبوعاتی مقدماتی برگزار خواهد کرد. کتی از همان ابتدا در روحیه با من بوده است و کار فوق‌العاده‌ای انجام خواهد داد!"
-  },
-  {
-   "t": 1791755359.0,
-   "n": "earlier iraqi air force f 16iq fighting falcon fighter jets conducted airstrikes against an isis hideout in the hamrin mountains diyala governorate northeastern iraq",
-   "fa": "🇮🇶❌🏴‍☠️ — پیش‌تر، جنگنده‌های اف-۱۶آی‌کیو نیروی هوایی عراق حملات هوایی علیه یک مخفیگاه داعش در کوه‌های حمرین در استان دیاله در شمال شرقی عراق انجام دادند."
-  },
   {
    "t": 1791756241.0,
    "n": "u s mission saudi arabia announces u s government employees are now required to have special authorization to use king khalid intl airport riyadh king fahd intl airport dammam and king abdulaziz intl airport jeddah u s government employees also need special authorization to travel to the cities of qatif yanbu and taif u s government employees also are no longer allowed to travel within 20 miles of",
@@ -512,6 +502,6 @@
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 65
+  "requests": 66
  }
 }
