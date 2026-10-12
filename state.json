@@ -7,13 +7,13 @@
    "last_id": 569161
   },
   "KH_B2": {
-   "last_id": 131340
+   "last_id": 131342
   },
   "TelNews_Magazine": {
    "last_id": 100951
   },
   "NE_WG": {
-   "last_id": 114122
+   "last_id": 114124
   }
  },
  "fails": {},
@@ -213,11 +213,6 @@
    "t": 1791756241.0,
    "n": "u s mission saudi arabia announces u s government employees are now required to have special authorization to use king khalid intl airport riyadh king fahd intl airport dammam and king abdulaziz intl airport jeddah u s government employees also need special authorization to travel to the cities of qatif yanbu and taif u s government employees also are no longer allowed to travel within 20 miles of",
    "fa": "🔴 🇺🇸🇸🇦⚡️ — ماموریت ایالات متحده در عربستان سعودی اعلام کرد که کارمندان دولت ایالات متحده اکنون برای استفاده از فرودگاه بین‌المللی ملک خالد در ریاض، فرودگاه بین‌المللی ملک فهد در دمام و فرودگاه بین‌المللی ملک عبدالعزیز در جده به مجوز ویژه نیاز دارند. کارمندان دولت ایالات متحده همچنین برای سفر به شهرهای قطیف، ینبع و طائف به مجوز ویژه نیاز دارند. کارمندان دولت ایالات متحده همچنین دیگر اجازه ندارند در"
-  },
-  {
-   "t": 1791755815.0,
-   "n": "trump russia deal could fuel putin s war ex nato commander warns as zelenskyy says nyet president donald trump s efforts to reach a diesel agreement with russia could provide russian president vladimir putin with fresh revenue to fund his war against ukraine while allowing moscow to buy time through negotiations it has little intention of honoring a former nato commander warned sunday retired gen ",
-   "fa": "به گزارش فاکس نیوز، یک فرمانده پیشین ناتو روز یکشنبه هشدار داد که تلاش‌های دونالد ترامپ، رئیس‌جمهور آمریکا، برای دستیابی به توافق دیزل با روسیه می‌تواند درآمد تازه‌ای را برای تأمین مالی جنگ ولادیمیر پوتین، رئیس‌جمهور روسیه، علیه اوکراین فراهم کند و در عین حال به مسکو اجازه دهد از طریق مذاکراتی که قصد چندانی برای پایبندی به آن‌ها ندارد، زمان بخرد. ژنرال بازنشسته فیلیپ بریدلاو، فرمانده عالی پیشین مت"
   },
   {
    "t": 1791756657.0,
@@ -498,10 +493,15 @@
    "t": 1791797511.0,
    "n": "سازمان غذا و دارو هند حاضر به ارسال دارو با هواپیماهای ایرانی نیست سخنگوی سازمان غذا و دارو بخش عمده ای از داروهای اعصاب و روان تحت نظارت هیئت بین المللی کنترل مواد مخدر سازمان ملل متحد incb قرار دارند و هند یکی از مهم ترین تأمین کنندگان این اقلام در جهان است پس از آغاز جنگ رمضان در اسفند ۱۴۰۴ و توقف پروازهای مستقیم از هند به ایران انتقال محموله های مرتبط با این داروها با محدودیت مواجه شد همچنین خ",
    "fa": "سازمان غذا و دارو: هند حاضر به ارسال دارو با هواپیماهای ایرانی نیست سخنگوی سازمان غذا و دارو: بخش عمده‌ای از داروهای اعصاب و روان تحت نظارت هیئت بین‌المللی کنترل مواد مخدر سازمان ملل متحد (INCB) قرار دارند و هند یکی از مهم‌ترین تأمین‌کنندگان این اقلام در جهان است. پس از آغاز جنگ رمضان در اسفند ۱۴۰۴ و توقف پروازهای مستقیم از هند به ایران، انتقال محموله‌های مرتبط با این داروها با محدودیت مواجه شد. ه"
+  },
+  {
+   "t": 1791799050.0,
+   "n": "شنیده شدن صدای انفجار در اربیل برخی منابع خبری از شنیده شدن صدای انفجارهای شدید در اربیل عراق خبر دادند",
+   "fa": "🔴 🚨شنیده شدن صدای انفجار در اربیل برخی منابع خبری از شنیده شدن صدای انفجارهای شدید در اربیل عراق خبر دادند."
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 66
+  "requests": 67
  }
 }
