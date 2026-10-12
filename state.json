@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107660
+   "last_id": 107661
   },
   "khabarfouri": {
    "last_id": 569084
@@ -199,11 +199,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791738240.0,
-   "n": "air travel emerges as dangerous front line in global conflicts missile launches have led airlines to abandon a critical flight path through saudi airspace which had connected two of the world s biggest economic engines",
-   "fa": "به گزارش وال‌استریت ژورنال پروازهای هوایی به عنوان یک خط مقدم خطرناک در درگیری‌های جهانی پدیدار شده‌اند. پرتاب موشک‌ها باعث شده است تا شرکت‌های هواپیمایی یک مسیر پروازی حیاتی را که از حریم هوایی عربستان سعودی عبور می‌کرد و دو مورد از بزرگ‌ترین موتورهای اقتصادی جهان را به یکدیگر متصل می‌نمود، رها کنند."
-  },
   {
    "t": 1791739269.0,
    "n": "ادعای روزنامه خراسان واشنگتن و تل آویو تصمیم برای شروع جنگ بعدی را گرفته اند",
@@ -498,10 +493,15 @@
    "t": 1791762206.0,
    "n": "all clear issued in abha city southwestern ksa after one minute probably glitch mistake",
    "fa": "🇾🇪🇸🇦⚡️ — وضعیت سفید پس از یک دقیقه در شهر ابها، جنوب غربی عربستان سعودی اعلام شد. احتمالاً خطا یا اشتباه بوده است."
+  },
+  {
+   "t": 1791763223.0,
+   "n": "saudi led coalition to restore legitimacy in yemen announces the interception of one ballistic missile launched towards khamis mushait king khalid ab southwestern ksa this is what likely triggered the alert",
+   "fa": "🔴 🇸🇦🇾🇪⚡️ — ائتلاف عربی حمایت از دولت قانونی یمن از رهگیری یک فروند موشک بالستیک شلیک‌شده به سمت خمیس مشط [پایگاه هوایی ملک خالد] در جنوب غربی عربستان سعودی خبر داد. این احتمالاً همان چیزی است که هشدار را فعال کرده است."
   }
  ],
  "usage": {
-  "date": "2026-10-11",
-  "requests": 400
+  "date": "2026-10-12",
+  "requests": 1
  }
 }
