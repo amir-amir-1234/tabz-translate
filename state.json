@@ -1,16 +1,16 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107724
+   "last_id": 107727
   },
   "khabarfouri": {
-   "last_id": 569201
+   "last_id": 569202
   },
   "KH_B2": {
    "last_id": 131368
   },
   "TelNews_Magazine": {
-   "last_id": 100971
+   "last_id": 100972
   },
   "NE_WG": {
    "last_id": 114156
@@ -53,7 +53,8 @@
     "https://www.foxnews.com/world/trump-russia-deal-could-fuel-putins-war-ex-nato-commander-warns-zelenskyy-says-nyet",
     "https://www.foxnews.com/world/houthis-kill-14-saudi-airport-expert-warns-rapid-targets-amid-middle-east-war",
     "https://www.foxnews.com/world/at-least-139-migrants-dead-84-missing-overcrowded-boat-capsizes-djibouti",
-    "https://www.foxnews.com/world/pope-leo-denounces-death-penalty-inadmissible-ahead-pentagons-planned-livestreamed-execution"
+    "https://www.foxnews.com/world/pope-leo-denounces-death-penalty-inadmissible-ahead-pentagons-planned-livestreamed-execution",
+    "https://www.foxnews.com/world/zelenskyy-blasts-putin-defying-trumps-ceasefire-push-sends-pointed-message-white-house"
    ]
   },
   "WSJ": {
@@ -218,16 +219,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791799461.0,
-   "n": "خبر موکول شدن فرایند خوداظهاری و پرداخت افزایش اعتبار کالابرگ به ماه آینده نادرست است روابط عمومی سازمان برنامه و بودجه کشور در پی انتشار خبری از سوی برخی رسانه ها در مورد موکول شدن ثبت نام خوداظهاری کالابرگ به ماه آینده ضمن تکذیب این خبر تأکید می شود که فرایند ثبت نام متقاضیان در مهرماه در حال انجام است",
-   "fa": "🔄 به‌روزرسانی خبر موکول‌شدن فرایند خوداظهاری و پرداخت افزایش اعتبار کالابرگ به ماه آینده نادرست است روابط عمومی سازمان برنامه و بودجه کشور: در پی انتشار خبری از سوی برخی رسانه‌ها در مورد موکول شدن ثبت نام خوداظهاری کالابرگ به ماه آینده، ضمن تکذیب این خبر، تأکید می‌شود که فرایند ثبت نام متقاضیان در مهرماه در حال انجام است."
-  },
-  {
-   "t": 1791799806.0,
-   "n": "چین حملات اخیر حوثی ها به عربستان سعودی را محکوم کرد مائو نینگ سخنگوی وزارت امور خارجه چین اعلام کرد این حملات تلفات سنگینی به جا گذاشته و تشدید درگیری ها مایه نگرانی جدی پکن است",
-   "fa": "🇨🇳🇸🇦🇾🇪چین حملات اخیر حوثی‌ها به عربستان سعودی را محکوم کرد. 💢مائو نینگ، سخنگوی وزارت امور خارجه چین، اعلام کرد این حملات تلفات سنگینی به‌جا گذاشته و تشدید درگیری‌ها مایه نگرانی جدی پکن است."
-  },
   {
    "t": 1791800940.0,
    "n": "eu to cap chinese hybrid vehicle imports at 350 000 units annually official says the eu will seek to curb chinese hybrid and plug in hybrid imports over the next four years with an aim of halving china s market share in the bloc",
@@ -517,10 +508,20 @@
    "t": 1791815701.0,
    "n": "تسنیم تهران ممکنه گوگل و متا رو مجبور کنه مجوز بگیرن بازرسی های فنی رو بپذیرن و بابت کابل هایی که از آب های ایران رد می شن هزینه ترانزیت بدن",
    "fa": "⚠️تسنیم: تهران ممکنه گوگل و متا رو مجبور کنه مجوز بگیرن، بازرسی‌های فنی رو بپذیرن و بابت کابل‌هایی که از آب‌های ایران رد می‌شن، هزینهٔ ترانزیت بدن💢"
+  },
+  {
+   "t": 1791815806.0,
+   "n": "zelenskyy accuses putin of defying trump s ceasefire push sends pointed message to white house ukrainian president volodymyr zelenskyy told fox news on monday that russia continued attacking ukraine s energy infrastructure despite president donald trump s announcement of what he called an immediate energy ceasefire accusing vladimir putin of rejecting washington s peace efforts and calling for gre",
+   "fa": "🌍 زلنسکی: پوتین آتش‌بس انرژی ترامپ را نقض کرده و به زیرساخت‌های ما حمله کرد 🔴 به گزارش فاکس نیوز ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، روز دوشنبه در گفت‌وگو با این شبکه اعلام کرد که روسیه با وجود اعلام توافق آتش‌بس فوری در حوزه انرژی از سوی دونالد ترامپ، همچنان به حملات خود علیه زیرساخت‌های انرژی اوکراین ادامه داده است. او ولادیمیر پوتین را متهم کرد که تلاش‌های صلح واشنگتن را رد کرده و خواستار اعما"
+  },
+  {
+   "t": 1791816264.0,
+   "n": "فرودگاه ریاض به مدت ۵ روز تعطیل شد",
+   "fa": "⭕️فرودگاه ریاض به مدت ۵ روز تعطیل شد"
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 102
+  "requests": 104
  }
 }
