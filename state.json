@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107669
+   "last_id": 107670
   },
   "khabarfouri": {
    "last_id": 569096
@@ -51,7 +51,8 @@
     "https://www.foxnews.com/world/italys-school-veil-ban-exposes-europes-assimilation-fight-expert-warns-us-could-next",
     "https://www.foxnews.com/world/mojtaba-khamenei-defies-malicious-attacks-us-army-zeroes-irans-350000-troops",
     "https://www.foxnews.com/world/trump-russia-deal-could-fuel-putins-war-ex-nato-commander-warns-zelenskyy-says-nyet",
-    "https://www.foxnews.com/world/houthis-kill-14-saudi-airport-expert-warns-rapid-targets-amid-middle-east-war"
+    "https://www.foxnews.com/world/houthis-kill-14-saudi-airport-expert-warns-rapid-targets-amid-middle-east-war",
+    "https://www.foxnews.com/world/at-least-139-migrants-dead-84-missing-overcrowded-boat-capsizes-djibouti"
    ]
   },
   "WSJ": {
@@ -202,11 +203,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791740177.0,
-   "n": "new the u s is threatening to restrict arms to ukraine over its continued strikes on russian oil refineries ft reports the trump administration has been lobbying kyiv and european governments to halt the ukrainian attacks on russian oil refineries using military supplies as leverage to secure an end to the strikes",
-   "fa": "🇺🇸🇺🇦🇷🇺⚡️ — جدید: به گزارش فایننشال تایمز، ایالات متحده آمریکا اوکراین را تهدید کرده است که به دلیل تداوم حملات به پالایشگاه‌های نفت روسیه، ارسال تسلیحات به این کشور را محدود خواهد کرد. دولت ترامپ در تلاش است تا با استفاده از کمک‌های نظامی به عنوان اهرم فشار، کی‌یف و دولت‌های اروپایی را وادار کند حملات به پالایشگاه‌های نفت روسیه را متوقف کرده و به توافقی برای پایان دادن به این حملات دست یابند."
-  },
   {
    "t": 1791740246.0,
    "n": "بیانیه سفارت آمریکا درباره تلفات حمله به فرودگاه بین المللی ملک خالد سفارت آمریکا در ریاض مراتب اندوه عمیق خود را از تلفات جانی ناشی از حمله ۱۰ اکتبر به فرودگاه بین المللی ملک خالد ابراز کرد حمله ای که به کشته شدن یک شهروند آمریکایی و ۱۲ نفر دیگر انجامید",
@@ -501,10 +497,15 @@
    "t": 1791766800.0,
    "n": "iran backed militants are tightening the screws on saudi arabia s crown prince mohammed bin salman is now caught by an economy weakened by heavy spending and miscalculations of the houthi threat",
    "fa": "به گزارش وال‌استریت ژورنال شبه‌نظامیان تحت حمایت ایران فشارها را بر ولیعهد عربستان سعودی افزایش داده‌اند. محمد بن سلمان اکنون در گیرودار اقتصاد تضعیف‌شده ناشی از هزینه‌های سنگین و محاسبات نادرست درباره تهدید حوثی‌ها گرفتار شده است."
+  },
+  {
+   "t": 1791770110.0,
+   "n": "at least 139 migrants dead 84 missing after overcrowded boat capsizes off djibouti at least 139 migrants including 15 children died when a boat carrying more than 300 people capsized off the coast of djibouti according to the united nations migration agency the vessel was carrying 305 people from djibouti toward yemen when it capsized thursday night or early friday near guhere north of obock the i",
+   "fa": "به گزارش فاکس نیوز دست کم ۱۳۹ مهاجر از جمله ۱۵ کودک پس از واژگونی یک قایق حامل بیش از ۳۰۰ نفر در سواحل جیبوتی جان خود را از دست دادند. به گفته آژانس مهاجرت سازمان ملل متحد این شناور حامل ۳۰۵ نفر از جیبوتی به سمت یمن بود که پنجشنبه شب یا اوایل جمعه در نزدیکی «گوهر» در شمال «اوبوک» واژگون شد. سازمان بین‌المللی مهاجرت اعلام کرد که تا روز یکشنبه دست کم ۸۴ نفر همچنان مفقود بودند در حالی که بیش از ۸۰ نف"
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 10
+  "requests": 12
  }
 }
