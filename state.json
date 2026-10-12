@@ -7,13 +7,13 @@
    "last_id": 569163
   },
   "KH_B2": {
-   "last_id": 131344
+   "last_id": 131345
   },
   "TelNews_Magazine": {
    "last_id": 100952
   },
   "NE_WG": {
-   "last_id": 114127
+   "last_id": 114129
   }
  },
  "fails": {},
@@ -210,21 +210,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791756657.0,
-   "n": "تماس تلفنی وزیران خارجه جمهوری اسلامی و عربستان درباره تحولات منطقه عباس عراقچی و فیصل بن فرحان وزیران امور خارجه جمهوری اسلامی و عربستان سعودی شامگاه امروز در تماسی تلفنی درباره افزایش تنش ها و تحولات جاری منطقه گفت وگو کردند عراقچی نسبت به ادامه تنش ها ابراز نگرانی کرد و هشدار داد که ادامه اقدامات نظامی به جای راه حل های دیپلماتیک وضعیت را پیچیده تر خواهد کرد او تأکید کرد که بحران های منطقه ای ا",
-   "fa": "🔄 به‌روزرسانی 🇮🇷📞🇸🇦 تماس تلفنی وزیران خارجه جمهوری اسلامی و عربستان درباره تحولات منطقه 💢عباس عراقچی و فیصل بن فرحان، وزیران امور خارجه جمهوری اسلامی و عربستان سعودی، شامگاه امروز در تماسی تلفنی درباره افزایش تنش‌ها و تحولات جاری منطقه گفت‌وگو کردند. 💢عراقچی نسبت به ادامه تنش‌ها ابراز نگرانی کرد و هشدار داد که ادامه اقدامات نظامی به‌جای راه‌حل‌های دیپلماتیک، وضعیت را پیچیده‌تر خواهد کرد. 💢او تأکید"
-  },
-  {
-   "t": 1791757005.0,
-   "n": "یک فروند جنگنده چندمنظوره f 15 نیروی هوایی ایالات متحده usaf در حال پرواز تمرینی حمله به ایران بر فراز عراق مشاهده شد",
-   "fa": "🔴 🇮🇷🇺🇸🇮🇶💢یک فروند جنگنده چندمنظوره F-15 نیروی هوایی ایالات متحده (USAF) در حال پرواز تمرینی حمله به ایران بر فراز عراق مشاهده شد."
-  },
-  {
-   "t": 1791757053.0,
-   "n": "ksa s general authority of civil aviation announces 1 death of a pakistani national and 11 injuries as the result of an ansarallah strike against terminal 4 of king khalid intl airport riyadh earlier today",
-   "fa": "🔴 🔄 به‌روزرسانی 🇾🇪🇸🇦⚡️ — سازمان هواپیمایی کشوری عربستان سعودی از کشته شدن یک تبعه پاکستانی و ۱۱ زخمی در نتیجه حمله انصارالله به ترمینال ۴ فرودگاه بین‌المللی ملک خالد در ریاض خبر داد."
-  },
   {
    "t": 1791757806.0,
    "n": "reuters reports the u s federal aviation administration sent a faa notice to airmen lasting until december 10 advising flights operating in ksa at all altitudes could face threats currently fedex is the only company to fly directly from usa to ksa all commercial airlines fly from usa to ksa via codeshare partners however delta air lines is set to begin direct flights to king khalid intl airport ri",
@@ -513,6 +498,6 @@
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 69
+  "requests": 70
  }
 }
