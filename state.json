@@ -4,16 +4,16 @@
    "last_id": 107680
   },
   "khabarfouri": {
-   "last_id": 569163
+   "last_id": 569164
   },
   "KH_B2": {
-   "last_id": 131345
+   "last_id": 131346
   },
   "TelNews_Magazine": {
-   "last_id": 100952
+   "last_id": 100954
   },
   "NE_WG": {
-   "last_id": 114129
+   "last_id": 114130
   }
  },
  "fails": {},
@@ -210,11 +210,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791757806.0,
-   "n": "reuters reports the u s federal aviation administration sent a faa notice to airmen lasting until december 10 advising flights operating in ksa at all altitudes could face threats currently fedex is the only company to fly directly from usa to ksa all commercial airlines fly from usa to ksa via codeshare partners however delta air lines is set to begin direct flights to king khalid intl airport ri",
-   "fa": "🔴 🔄 به‌روزرسانی 🇺🇸🇸🇦⚡️ — رویترز گزارش می‌دهد که اداره هوانوردی فدرال ایالات متحده یک اخطاریه هوانوردی (NOTAM) صادر کرده است که تا ۱۰ دسامبر اعتبار دارد و هشدار می‌دهد پروازهایی که در تمام ارتفاعات در عربستان سعودی فعالیت می‌کنند ممکن است با تهدیداتی مواجه شوند. در حال حاضر، فدکس تنها شرکتی است که مستقیماً از ایالات متحده به عربستان سعودی پرواز می‌کند. تمامی خطوط هوایی تجاری از طریق شرکای کُدسِیر ا"
-  },
   {
    "t": 1791757932.0,
    "n": "riyadh s king khalid intl airport s closure has been extended by 24 hours it is now scheduled to reopen at 9 00 pm utc on october 12",
@@ -498,6 +493,6 @@
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 70
+  "requests": 71
  }
 }
