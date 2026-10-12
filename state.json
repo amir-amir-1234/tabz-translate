@@ -7,13 +7,13 @@
    "last_id": 569243
   },
   "KH_B2": {
-   "last_id": 131423
+   "last_id": 131427
   },
   "TelNews_Magazine": {
    "last_id": 100996
   },
   "NE_WG": {
-   "last_id": 114225
+   "last_id": 114231
   }
  },
  "fails": {},
@@ -225,11 +225,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791815449.0,
-   "n": "president trump via truth social the european union paid russia 250 billion dollars for energy and the fake news media doesn t want to get near that story i made the right choice for the american people always america first",
-   "fa": "🇺🇸🇪🇺🇷🇺⚡️ — دونالد ترامپ در توجیحه‌سوشال: اتحادیه اروپا ۲۵۰ میلیارد دلار برای انرژی به روسیه پرداخت کرد و رسانه‌های اخبار جعلی نمی‌خواهند به این داستان نزدیک شوند. من تصمیم درست را برای مردم آمریکا گرفتم — همیشه، اول آمریکا!"
-  },
   {
    "t": 1791815701.0,
    "n": "تسنیم تهران ممکنه گوگل و متا رو مجبور کنه مجوز بگیرن بازرسی های فنی رو بپذیرن و بابت کابل هایی که از آب های ایران رد می شن هزینه ترانزیت بدن",
@@ -524,10 +519,15 @@
    "t": 1791836805.0,
    "n": "royal saudi air force airstrikes against southwestern sana a capital of ansarallah controlled yemen",
    "fa": "🔴 🇸🇦❌🇾🇪 — حملات هوایی نیروی هوایی سلطنتی عربستان سعودی به جنوب غربی صنعا، پایتخت یمن تحت کنترل انصارالله."
+  },
+  {
+   "t": 1791837344.0,
+   "n": "نیروی دریایی سپاه تاکنون 6 کشتی را مورد هدف قرار داده است",
+   "fa": "🔴 🇮🇷🇮🇷🚨نیروی دریایی سپاه تاکنون 6 کشتی را مورد هدف قرار داده است."
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 149
+  "requests": 150
  }
 }
