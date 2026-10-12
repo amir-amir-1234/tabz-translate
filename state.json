@@ -7,13 +7,13 @@
    "last_id": 569208
   },
   "KH_B2": {
-   "last_id": 131378
+   "last_id": 131379
   },
   "TelNews_Magazine": {
-   "last_id": 100976
+   "last_id": 100977
   },
   "NE_WG": {
-   "last_id": 114164
+   "last_id": 114165
   }
  },
  "fails": {},
@@ -187,7 +187,8 @@
     "https://www.nytimes.com/2026/10/11/world/middleeast/pakistan-federal-control-khyber-pakhtunkhwa.html",
     "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html",
     "https://www.nytimes.com/2026/10/12/business/middle-east-oil-exports-houthi-saudi.html",
-    "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia-mediate.html"
+    "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia-mediate.html",
+    "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html"
    ]
   },
   "Treasury": {
@@ -220,16 +221,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791803900.0,
-   "n": "گمرک شماره گذاری خودروهای ایرانیان خارج نشین فعلا متوقف است گمرک ایران ارسال اطلاعات اظهارنامه خودروهای ایرانیان مقیم خارج از کشور برای شماره گذاری را تا تعیین نهایی ارزش خودروها در کارگروه ارزش گذاری متوقف کرد",
-   "fa": "گمرک: شماره‌گذاری خودروهای ایرانیان خارج‌نشین فعلاً متوقف است گمرک ایران ارسال اطلاعات اظهارنامه خودروهای ایرانیان مقیم خارج از کشور برای شماره‌گذاری را تا تعیین نهایی ارزش خودروها در کارگروه ارزش‌گذاری متوقف کرد."
-  },
-  {
-   "t": 1791804000.0,
-   "n": "russia pounds ukrainian energy despite trump s ceasefire announcement the russian attacks including on gas infrastructure a power plant and a substation come as the u s heaps pressure on ukraine to stop striking russian oil refineries",
-   "fa": "به گزارش وال‌استریت ژورنال روسیه زیرساخت‌های انرژی اوکراین، از جمله زیرساخت‌های گاز، یک نیروگاه برق و یک ایستگاه برق فرعی را گلوله‌باران کرد. این حملات در حالی انجام می‌شود که ایالات متحده فشار زیادی بر اوکراین وارد می‌کند تا از حملات به پالایشگاه‌های نفت روسیه دست بردارد؛ این رویدادها همچنین پس از اعلام آتش‌بس از سوی ترامپ رخ داده است."
-  },
   {
    "t": 1791804098.0,
    "n": "انتشار راهنمای جدید ارتش آمریکا برای شناسایی نیروهای زمینی جمهوری اسلامی ارتش آمریکا راهنمای تصویری تهدید را بشناس را برای کمک به سربازان در شناسایی نیروهای ارتش جمهوری اسلامی منتشر کرده است این راهنما که در ۲۴ سپتامبر منتشر شد یونیفرم ها علائم درجه و نمونه هایی از تجهیزات نیروهای زمینی جمهوری اسلامی را نشان می دهد این راهنما مشخصا بر نیروهای ارتش جمهوری اسلامی آرتش تمرکز دارد و با تیپ ۶۵ نیروهای ",
@@ -519,10 +510,20 @@
    "t": 1791820725.0,
    "n": "اردوغان خواستار صلح و امنیت در منطقه هستیم",
    "fa": "⭕️اردوغان: خواستار صلح و امنیت در منطقه هستیم"
+  },
+  {
+   "t": 1791819894.0,
+   "n": "saudi arabia faces more attacks as it reels from airport strikes the saudi authorities said they were fending off drone and missile attacks after a weekend of confrontation with the houthi militia in yemen whose patrons iran offered to mediate",
+   "fa": "به گزارش نیویورک تایمز مقامات سعودی اعلام کردند که پس از یک آخر هفته پُر از درگیری با شبه‌نظامیان حوثی در یمن، در حال دفع حملات پهپادی و موشکی هستند؛ این در حالی است که حامی حوثی‌ها، یعنی ایران، پیشنهاد میانجی‌گری داد."
+  },
+  {
+   "t": 1791820902.0,
+   "n": "سخنگوی کمیسیون اصل نود زمستان سختی در پیش داریم پالایشگاه هایی که مورد اصابت موشک های آمریکا و اسرائیل قرار گرفته بود فازهای بسیاری از کار افتاده بودند",
+   "fa": "🔴 ⭕️سخنگوی کمیسیون اصل نود: زمستان سختی در پیش داریم پالایشگاه‌هایی که مورد اصابت موشک های آمریکا و اسرائیل قرار گرفته بود، فازهای بسیاری از کار افتاده بودند."
   }
  ],
  "usage": {
   "date": "2026-10-12",
-  "requests": 112
+  "requests": 114
  }
 }
