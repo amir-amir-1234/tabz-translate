@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107805
+   "last_id": 107806
   },
   "khabarfouri": {
    "last_id": 569250
@@ -536,6 +536,6 @@
  ],
  "usage": {
   "date": "2026-10-13",
-  "requests": 12
+  "requests": 13
  }
 }
