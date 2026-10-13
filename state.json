@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107888
+   "last_id": 107890
   },
   "khabarfouri": {
-   "last_id": 569427
+   "last_id": 569430
   },
   "KH_B2": {
-   "last_id": 131538
+   "last_id": 131539
   },
   "TelNews_Magazine": {
-   "last_id": 101060
+   "last_id": 101061
   },
   "NE_WG": {
-   "last_id": 114348
+   "last_id": 114349
   }
  },
  "fails": {},
@@ -253,26 +253,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791897157.0,
-   "n": "egypt is prepared to provide saudi arabia with any kind of support amid intensified houthi ansarallah attacks including potential military assistance foreign minister badr abdelatty told bloomberg abdelatty said cairo would respond to whatever assistance riyadh requested without any reservation he also confirmed that egypt is seriously considering joining the mecca joint defense agreement which cu",
-   "fa": "🇪🇬🇸🇦🇾🇪⚡️ — وزیر خارجه مصر، بدر عبدالعاطی، به بلومبرگ گفت که مصر آماده است در میان تشدید حملات حوثی‌ها (انصارالله)، از جمله کمک‌های نظامی احتمالی، «هر نوع» حمایتی را به عربستان سعودی ارائه دهد. عبدالعاطی گفت که قاهره به هر درخواستی که ریاض داشته باشد، «بدون هیچ‌گونه شرط و شروطی» پاسخ خواهد داد. او همچنین تأیید کرد که مصر به طور جدی پیوستن به توافق دفاع مشترک مکه را که در حال حاضر شامل عربستان سعودی"
-  },
-  {
-   "t": 1791897895.0,
-   "n": "pope leo arrives at hospital for surgery to remove lung nodule pope leo xiv arrived to agostino gemelli university hospital in rome for a procedure to remove a small node on his lung on tuesday the 71 year old pontiff said monday that doctors discovered the nodule at a very early stage and recommended its removal the surgery is not expected to last long and the pope expected to remain hospitalized",
-   "fa": "به گزارش فاکس نیوز پاپ لئو چهاردهم روز سه‌شنبه برای انجام عمل جراحی جهت خارج کردن یک گره کوچک از ریه‌اش وارد بیمارستان دانشگاهی آگوستینو جملی در رم شد. به گفته ماتئو برونی سخنگوی واتیکان، این رهبر ۷۱ ساله روز دوشنبه اعلام کرد که پزشکان این گره را در «مرحله بسیار اولیه» کشف کرده و برداشتن آن را توصیه کرده‌اند. انتظار نمی‌رود این جراحی طولانی باشد و پاپ احتمالاً حدود یک هفته در بیمارستان بستری خواهد"
-  },
-  {
-   "t": 1791897965.0,
-   "n": "president trump via truth social i see so many comments from the radical left morons and lunatics that china and russia are helping the wonderful islamic republic of iran if they are it s at a very low level but i don t believe they are at all they have too much to lose and we would know about it and know about it very fast",
-   "fa": "🇺🇸🇮🇷🇨🇳⚡️ — رئیس‌جمهور ترامپ در توییتر/تروث سوشال: من نظرات زیادی از سوی احمق‌ها و دیوانگان چپ افراطی می‌بینم که می‌گویند چین و روسیه به جمهوری اسلامی «فوق‌العاده» ایران کمک می‌کنند. اگر هم کمک کنند، در سطح بسیار پایینی است اصلاً باور نمی‌کنیم. آن‌ها خیلی چیزها برای از دست دادن دارند و ما باخبر می‌شدیم، آن هم خیلی سریع!"
-  },
-  {
-   "t": 1791898181.0,
-   "n": "saudi arabia stopped issuing public warnings of imminent military attacks days before four houthi strikes on riyadh s king khalid international airport over the past week that killed at least 18 people and injured more than 300 according to reuters saudi authorities told representatives of an allied western government that the alerts had become too disruptive with citizens complaining about being ",
-   "fa": "🔴 🇸🇦🇾🇪⚡️ — به گزارش رویترز، عربستان سعودی روزها پیش از چهار حمله حوثی‌ها به فرودگاه بین‌المللی ملک خالد ریاض که دستکم ۱۸ کشته و بیش از ۳۰۰ زخمی بر جای گذاشت، صدور هشدارهای عمومی درباره حملات قریب‌الوقوع نظامی را متوقف کرده بود. مقامات سعودی به نمایندگان یک دولت غربی هم‌پیمان گفته بودند که این هشدارها بیش از حد مختل‌کننده شده و شهروندان از بیدار شدن در شب شکایت داشتند. عدم وجود هشدارها در جریان حمل"
-  },
   {
    "t": 1791898895.0,
    "n": "سفارت آمریکا در عربستان سعودی شهروندان ما باید به دلیل خطر حملات علیه منافع آمریکا در سفر به پادشاهی سعودی تجدیدنظر کنند",
@@ -552,10 +532,31 @@
    "t": 1791916103.0,
    "n": "تولیت آستان قدس رضوی ضمن تأیید حضور رهبر جمهوری اسلامی در مراسم تدفین پدرش اظهار کرد هم پیش از تدفین و هم پس از دفن ایشان رهبر انقلاب در مشهد حضور داشتند و دو بار توفیق دیدار با ایشان را پیدا کردیم همچنین توفیق اقامه نماز با ایشان را داشتیم الحمدالله حال ایشان بسیار خوب بود و هیچ جای نگرانی وجود ندارد",
    "fa": "🔴 ⭕️تولیت آستان قدس رضوی ضمن تأیید حضور رهبر جمهوری اسلامی در مراسم تدفین پدرش اظهار کرد : هم پیش از تدفین و هم پس از دفن ایشان، رهبر انقلاب در مشهد حضور داشتند و دو بار توفیق دیدار با ایشان را پیدا کردیم. همچنین توفیق اقامه نماز با ایشان را داشتیم. الحمدالله حال ایشان بسیار خوب بود و هیچ جای نگرانی وجود ندارد"
+  },
+  {
+   "t": 1791916594.0,
+   "n": "the iran war has cost u s consumers an estimated 265 billion since late february equivalent to roughly 2 000 per household according to moody s analytics chief economist mark zandi higher energy prices account for approximately 1 100 of the average household s additional costs with that figure increasing by around 50 per week gasoline now averages 4 34 per gallon compared with 2 98 before the war ",
+   "fa": "🇺🇸🇮🇷⚡️ — بر اساس برآورد مارک زندی، اقتصاددان ارشد مؤسسه مودیز آنالیتیکس، جنگ ایران از اواخر فوریه تاکنون حدود ۲۶۵ میلیارد دلار برای مصرف‌کنندگان آمریکایی هزینه داشته است که معادل حدود ۲ هزار دلار برای هر خانوار است. افزایش قیمت انرژی حدود ۱۱۰۰ دلار از هزینه‌های اضافی هر خانوار را تشکیل می‌دهد و این رقم هفته‌ای حدود ۵۰ دلار افزایش می‌یابد. میانگین قیمت بنزین اکنون به ۴.۳۴ دلار در هر گالن رسیده است،"
+  },
+  {
+   "t": 1791916759.0,
+   "n": "در بازدید سرپرست وزارت نفت و مدیرعامل بانک شهر از پارس جنوبی صورت گرفت پشتیبانی ۸۰۰ میلیون یورویی بانک شهر از بازسازی تأسیسات آسیب دیده پارس جنوبی در جنگ تحمیلی رمضان حمید بورد سرپرست وزارت نفت به همراه مدیرعامل بانک شهر و جمعی از مدیران ارشد این وزارتخانه از روند بازسازی پالایشگاه پنجم مجتمع گاز پارس جنوبی در فازهای ۹ و ۱۰ بازدید کردند بازدیدی که با هدف بررسی آخرین وضعیت عملیات بازسازی ارزیابی اق",
+   "fa": "🔄 به‌روزرسانی 🔴 در بازدید سرپرست وزارت نفت و مدیرعامل بانک شهر از پارس جنوبی صورت گرفت پشتیبانی ۸۰۰ میلیون یورویی بانک شهر از بازسازی تأسیسات آسیب‌دیده پارس جنوبی در جنگ تحمیلی رمضان 🔺 حمید بورد، سرپرست وزارت نفت به همراه مدیرعامل بانک شهر و جمعی از مدیران ارشد این وزارتخانه، از روند بازسازی پالایشگاه پنجم مجتمع گاز پارس جنوبی در فازهای ۹ و ۱۰ بازدید کردند؛ بازدیدی که با هدف بررسی آخرین وضعیت عملی"
+  },
+  {
+   "t": 1791916982.0,
+   "n": "alerts in riyadh city saudi arabia",
+   "fa": "🇾🇪❌🇸🇦 — آژیرهای هشدار در شهر ریاض، عربستان سعودی به صدا درآمدند."
+  },
+  {
+   "t": 1791917428.0,
+   "n": "احضار سفیر انگلیس به وزارت امور خارجه در واکنش به ادعای بی اساس مقامات انگلیس در انتساب حادثه ادعایی پایگاه نظامی فیرفورد به ایران هوگو شورتر سفیر انگلیس در تهران امروز ۲۱ مهر ۱۴۰۵ توسط علیرضا یوسفی دستیار وزیر و مدیرکل غرب اروپای وزارت امور خارجه احضار شد",
+   "fa": "🚨 احضار سفیر انگلیس به وزارت امور خارجه در واکنش به ادعای بی‌اساس مقامات انگلیس در انتساب حادثه ادعایی پایگاه نظامی فیرفورد به ایران، هوگو شورتر سفیر انگلیس در تهران امروز ۲۱ مهر ۱۴۰۵ توسط علیرضا یوسفی دستیار وزیر و مدیرکل غرب اروپای وزارت امور خارجه احضار شد."
   }
  ],
  "usage": {
   "date": "2026-10-13",
-  "requests": 164
- }
+  "requests": 168
+ },
+ "flip": 1
 }
