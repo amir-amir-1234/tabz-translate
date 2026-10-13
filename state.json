@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107898
+   "last_id": 107900
   },
   "khabarfouri": {
-   "last_id": 569443
+   "last_id": 569444
   },
   "KH_B2": {
-   "last_id": 131561
+   "last_id": 131563
   },
   "TelNews_Magazine": {
-   "last_id": 101066
+   "last_id": 101067
   },
   "NE_WG": {
-   "last_id": 114371
+   "last_id": 114373
   }
  },
  "fails": {},
@@ -233,7 +233,8 @@
     "https://home.treasury.gov/news/press-releases/sb0645/",
     "https://home.treasury.gov/news/press-releases/sb0649/",
     "https://home.treasury.gov/news/press-releases/sb0655/",
-    "https://home.treasury.gov/news/press-releases/sb0656/"
+    "https://home.treasury.gov/news/press-releases/sb0656/",
+    "https://home.treasury.gov/news/press-releases/sb0657/"
    ]
   },
   "OFAC": {
@@ -253,21 +254,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791906001.0,
-   "n": "یک مقام آمریکایی به الجزیره گفت ما به مقابله با اقدامات خصمانه ایران از طریق دفع حملات و تضمین جریان دریانوردی ادامه می دهیم",
-   "fa": "🇺🇸🇮🇷یک مقام آمریکایی به الجزیره گفت: ما به مقابله با اقدامات خصمانه ایران از طریق دفع حملات و تضمین جریان دریانوردی ادامه می‌دهیم."
-  },
-  {
-   "t": 1791906254.0,
-   "n": "ترامپ حوثی ها خیلی بد رفتار می کنند و ممکن است از ترکیه بخواهم در یمن مداخله کند",
-   "fa": "🔴 🚨ترامپ: حوثی‌ها خیلی بد رفتار می‌کنند و ممکن است از ترکیه بخواهم در یمن مداخله کند"
-  },
-  {
-   "t": 1791906666.0,
-   "n": "دونالد ترامپ به زودی درباره ایران تصمیمی خواهم گرفت",
-   "fa": "🔴 🚨دونالد ترامپ: به زودی درباره ایران تصمیمی خواهم گرفت"
-  },
   {
    "t": 1791907162.0,
    "n": "ترامپ برای بار هزارم ایران یک کشور شکست خورده است ما کنترل تنگه هرمز را در دست داریم",
@@ -552,12 +538,27 @@
    "t": 1791922192.0,
    "n": "تصاویر برگ ریزون از حملات امروز عربستان به تاسیسات نفتی صنعا یمن",
    "fa": "🇸🇦❌🇾🇪🚀 تصاویر برگ ریزون از حملات امروز عربستان به تاسیسات نفتی صنعا،یمن"
+  },
+  {
+   "t": 1791922311.0,
+   "n": "president trump reacted to the death of a man who entered a tiger enclosure at yorkshire wildlife park in the uk commenting don t ever mess with nature the incident occurred on saturday october 10 when police received reports of a man entering the enclosure at approximately 1 35 p m despite efforts by emergency responders he was pronounced dead at the scene the tiger was unharmed and the wildlife ",
+   "fa": "🇺🇸🇬🇧⚡️ — رئیس‌جمهور ترامپ به مرگ مردی که وارد محوطه نگهداری ببرها در پارک حیات وحش یورکشایر در بریتانیا شده بود، واکنش نشان داد و گفت: «هرگز با طبیعت شوخی نکنید!» این حادثه روز شنبه ۱۰ اکتبر رخ داد زمانی که پلیس گزارش‌هایی دریافت کرد مبنی بر اینکه مردی حدود ساعت ۱:۳۵ بعدازظهر وارد محوطه شده است. با وجود تلاش‌های امدادگران، مرگ وی در صحنه اعلام شد. ببر آسیب ندیده و پارک حیات وحش تأیید کرد که حیوان "
+  },
+  {
+   "t": 1791922500.0,
+   "n": "u s treasury announces record enforcement actions against bank of america third largest penalty in treasury history largest in occ history washington today the u s department of the treasury announced enforcement actions imposing more than 1 21 billion in penalties against bank of america the bank the second largest bank in the united states for violations of anti money laundering and sanctions la",
+   "fa": "🚨 وزارت خزانه‌داری آمریکا جریمه‌ای ۱.۲۱ میلیارد دلاری را برای بانک آو آمریکا اعلام کرد به گزارش وزارت خزانه‌داری آمریکا، این وزارتخانه اقدامات اجرایی را برای اعمال جریمه‌های بیش از ۱.۲۱ میلیارد دلاری علیه بانک آو آمریکا، دومین بانک بزرگ ایالات متحده، به دلیل تخلفات قوانین ضدپولشویی و تحریم‌ها اعلام کرد. این اقدامات شامل سومین جریمه بزرگ در تاریخ وزارت خزانه‌داری و بزرگ‌ترین جریمه در تاریخ دفتر کنت"
+  },
+  {
+   "t": 1791922822.0,
+   "n": "president trump posted an ai generated video of lions and tigers attacking humans the last two videos in the compilation seem to be the only real footage",
+   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ یک ویدیوی تولید شده با هوش مصنوعی از حمله شیرها و ببرها به انسان‌ها منتشر کرد. دو ویدیو‌ی آخر در این مجموعه به نظر می‌رسد تنها تصاویر واقعی باشند."
   }
  ],
  "usage": {
   "date": "2026-10-13",
-  "requests": 178
+  "requests": 180
  },
- "flip": 17,
+ "flip": 19,
  "quote_n": 3
 }
