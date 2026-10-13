@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107900
+   "last_id": 107901
   },
   "khabarfouri": {
    "last_id": 569444
   },
   "KH_B2": {
-   "last_id": 131563
+   "last_id": 131566
   },
   "TelNews_Magazine": {
-   "last_id": 101067
+   "last_id": 101068
   },
   "NE_WG": {
-   "last_id": 114373
+   "last_id": 114376
   }
  },
  "fails": {},
@@ -249,21 +249,12 @@
     "https://ofac.treasury.gov/recent-actions/20260929",
     "https://ofac.treasury.gov/recent-actions/20260929_33",
     "https://ofac.treasury.gov/recent-actions/20260928",
-    "https://ofac.treasury.gov/recent-actions/20261013"
+    "https://ofac.treasury.gov/recent-actions/20261013",
+    "https://ofac.treasury.gov/recent-actions/20261013_33"
    ]
   }
  },
  "recent": [
-  {
-   "t": 1791907162.0,
-   "n": "ترامپ برای بار هزارم ایران یک کشور شکست خورده است ما کنترل تنگه هرمز را در دست داریم",
-   "fa": "⭕️ترامپ برای بار هزارم : ایران یک کشور شکست‌خورده است/ ما کنترل تنگه هرمز را در دست داریم"
-  },
-  {
-   "t": 1791907550.0,
-   "n": "president trump on ansarallah the houthis are behaving very badly i thought they learned their lesson a year ago when we bombed the hell out of them and at their request stopped they ve been silent for a long time but now they ve emerged again probably at the behest of iran which is a failing nation with no navy no airforce the world s worst economy and 301 inflation in a very nasty way hitting sa",
-   "fa": "🔴 🇺🇸🇾🇪⚡️ — رئیس‌جمهور ترامپ درباره انصارالله: حوثی‌ها بسیار بد رفتار می‌کنند. من فکر می‌کردم آن‌ها یک سال پیش وقتی ما آن‌ها را به شدت بمباران کردیم و به درخواست خودشان متوقف شدیم، درس عبرت گرفته بودند. آن‌ها مدت‌ها ساکت بودند، اما اکنون دوباره ظاهر شده‌اند، احتمالاً به دستور ایران — که یک کشور شکست‌خورده با بدون نیروی دریایی، بدون نیروی هوایی، بدترین اقتصاد جهان و تورم ۳۰۱ درصدی است — به شکلی بسیا"
-  },
   {
    "t": 1791907600.0,
    "n": "گفت وگوی تلفنی وزرای امور خارجه ایران و ترکیه در ادامه رایزنی ها دیپلماتیک سیدعباس عراقچی وزیر امور خارجه جمهوری اسلامی ایران عصر امروز در تماس تلفنی با هاکان فیدان وزیر امور خارجه ترکیه درباره آخرین تحولات منطقه موضوع یمن و راهکارهای کاهش تنش ها و تقویت ثبات و امنیت در منطقه گفت وگو و تبادل نظر کرد",
@@ -553,12 +544,22 @@
    "t": 1791922822.0,
    "n": "president trump posted an ai generated video of lions and tigers attacking humans the last two videos in the compilation seem to be the only real footage",
    "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ یک ویدیوی تولید شده با هوش مصنوعی از حمله شیرها و ببرها به انسان‌ها منتشر کرد. دو ویدیو‌ی آخر در این مجموعه به نظر می‌رسد تنها تصاویر واقعی باشند."
+  },
+  {
+   "t": 1791922933.0,
+   "n": "اوکراین حمله ای گسترده ای با استفاده از پهپادها علیه روسیه و مناطق اشغالی توسط روسیه انجام داده است",
+   "fa": "🇺🇦❌🇷🇺 اوکراین حمله‌ای گسترده‌ای با استفاده از پهپادها علیه روسیه و مناطق اشغالی توسط روسیه انجام داده است."
+  },
+  {
+   "t": 1791923224.0,
+   "n": "the vatican announced pope leo xiv has lung cancer after he underwent a successful 90 minute operation at rome s gemelli hospital to remove the lower lobe of his right lung according to a vatican medical bulletin preoperative tests had raised suspicions of cancer which was confirmed during surgery",
+   "fa": "🇻🇦⚡️ — واتیکان اعلام کرد پس از انجام موفقیت‌آمیز یک عمل جراحی ۹۰ دقیقه‌ای در بیمارستان جملی رم برای برداشتن لوب پایینی ریه راست پاپ لئو چهاردهم، وی به سرطان ریه مبتلا است. بر اساس بولتن پزشکی واتیکان، آزمایش‌های پیش از عمل احتمال سرطان را مطرح کرده بود که طی عمل جراحی تأیید شد."
   }
  ],
  "usage": {
   "date": "2026-10-13",
-  "requests": 180
+  "requests": 181
  },
- "flip": 19,
+ "flip": 20,
  "quote_n": 3
 }
