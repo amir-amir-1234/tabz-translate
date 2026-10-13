@@ -141,7 +141,7 @@ def load_state():
     web = data.get("web") if isinstance(data.get("web"), dict) else {}
     return {"channels": chans, "fails": fails, "web": web,
             "recent": list(data.get("recent") or []), "usage": dict(data.get("usage") or {}),
-            "flip": int(data.get("flip") or 0)}
+            "flip": int(data.get("flip") or 0), "quote_n": int(data.get("quote_n") or 0)}
 
 
 def save_state(state):
@@ -805,6 +805,7 @@ def _text_only(text):
 # oil, economy, ...) gets the alternating 🔴 / ⭕️ pair.
 KIND_EMOJI = {"urgent": "🚨", "attack": "🚨", "sanctions": "🚨", "warning": "🚨⚠️", "explosion": "🚨🔥", "stats": "📊"}
 EVENT_EMOJIS = ("🔴", "⭕️")
+QUOTE_EVERY = int(env("QUOTE_EVERY", "5"))   # every Nth short text-only post gets its body in a quote block (0 = never)
 LONG_PARAGRAPHS = 3          # a post is "long" with at least this many paragraphs (headline not counted)
 MARK_MIN_CHARS = 130         # a paragraph gets the marker from about 3 phone lines (~130 characters)
 _EMOJI_START = re.compile("^[\U0001F000-\U0001FAFF\u2600-\u27BF\u2B00-\u2BFF\u2190-\u21FF\u203C\u2049\ufe0f\u200d]")
@@ -820,23 +821,41 @@ def pick_emoji(v, flip=0):
     return EVENT_EMOJIS[flip % 2], True
 
 
-def format_post(body, emoji="", titled=None):
-    """HTML text for Telegram.
-    Short posts (fewer than LONG_PARAGRAPHS paragraphs): plain text, only the emoji at the start.
-    Long posts: bold headline, and every paragraph of at least MARK_MIN_CHARS characters inside a collapsible quote.
-    titled: True = first block is a headline, False = none, None = decide from the structure.
-    The text itself is never changed, only wrapped (and HTML-escaped)."""
-    body = body.strip()
-    blocks = [b.strip() for b in re.split(r"\n\s*\n", body) if b.strip()]
+def _split_blocks(body, titled):
+    blocks = [b.strip() for b in re.split(r"\n\s*\n", body.strip()) if b.strip()]
     if titled is None:
         if len(blocks) == 1 and "\n" in blocks[0]:
             first, rest = blocks[0].split("\n", 1)
             blocks = [first.strip(), rest.strip()]
         titled = len(blocks) >= 2
+    title = blocks.pop(0) if (titled and blocks) else None
+    return title, blocks
+
+
+def is_long_post(body, titled=None):
+    return len(_split_blocks(body, titled)[1]) >= LONG_PARAGRAPHS
+
+
+def format_post(body, emoji="", titled=None, quote_short=False):
+    """HTML text for Telegram.
+    Short posts (fewer than LONG_PARAGRAPHS paragraphs): plain text, only the emoji at the start.
+    Long posts: bold headline, and every paragraph of at least MARK_MIN_CHARS characters inside a collapsible quote.
+    titled: True = first block is a headline, False = none, None = decide from the structure.
+    quote_short: a short post gets its body (everything after the headline) in one plain quote block.
+    The text itself is never changed, only wrapped (and HTML-escaped)."""
+    title, blocks = _split_blocks(body, titled)
     esc = lambda t: html.escape(t, quote=False)
     lead = lambda t: t if (not emoji or _EMOJI_START.match(t)) else f"{emoji} {t}"
-    title = blocks.pop(0) if (titled and blocks) else None
     long_post = len(blocks) >= LONG_PARAGRAPHS
+    if quote_short and not long_post and blocks:
+        out = []
+        if title is not None:
+            out.append(lead(esc(title)))
+            inner = "\n\n".join(esc(b) for b in blocks)
+        else:
+            inner = "\n\n".join([lead(esc(blocks[0]))] + [esc(b) for b in blocks[1:]])
+        out.append(f"<blockquote>{inner}</blockquote>")
+        return "\n\n".join(out)
     out = []
     if title is not None:
         t = lead(esc(title)) if not _EMOJI_START.match(title) else esc(title)
@@ -1189,6 +1208,7 @@ def main():
             continue
 
         used_flip = False
+        quote_eligible = False
         if e["kind"] == "photo":
             fa = ""
         else:
@@ -1219,7 +1239,10 @@ def main():
                 body_fa = v["fa"]
                 titled = None
             emoji, used_flip = pick_emoji(v, state["flip"])
-            fa = prefix + format_post(body_fa, emoji, titled)
+            quote_eligible = (QUOTE_EVERY > 0 and not p["photos"] and not p["has_video"]
+                              and not is_long_post(body_fa, titled))
+            quote = quote_eligible and state["quote_n"] % QUOTE_EVERY == 0
+            fa = prefix + format_post(body_fa, emoji, titled, quote_short=quote)
 
         try:
             send_post(p, fa, allow_text_only=state["fails"].get(key, 0) >= MAX_FAILS - 1)
@@ -1233,6 +1256,8 @@ def main():
             fail("sending")
             continue
         sent += 1
+        if e["kind"] == "check" and quote_eligible:
+            state["quote_n"] += 1
         if e["kind"] == "check" and used_flip:
             state["flip"] += 1
         if e["kind"] == "check":
