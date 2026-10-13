@@ -1,16 +1,16 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107885
+   "last_id": 107886
   },
   "khabarfouri": {
-   "last_id": 569422
+   "last_id": 569423
   },
   "KH_B2": {
    "last_id": 131526
   },
   "TelNews_Magazine": {
-   "last_id": 101056
+   "last_id": 101057
   },
   "NE_WG": {
    "last_id": 114338
@@ -554,6 +554,6 @@
  ],
  "usage": {
   "date": "2026-10-13",
-  "requests": 152
+  "requests": 153
  }
 }
