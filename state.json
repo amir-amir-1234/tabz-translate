@@ -7,13 +7,13 @@
    "last_id": 569414
   },
   "KH_B2": {
-   "last_id": 131523
+   "last_id": 131524
   },
   "TelNews_Magazine": {
-   "last_id": 101046
+   "last_id": 101047
   },
   "NE_WG": {
-   "last_id": 114334
+   "last_id": 114336
   }
  },
  "fails": {},
@@ -58,7 +58,8 @@
     "https://www.foxnews.com/world/benjamin-netanyahu-legacy-political-future-line-israel-oct-27-election",
     "https://www.foxnews.com/world/british-adventurer-returns-home-after-28-year-walk-around-world",
     "https://www.foxnews.com/world/nato-warns-russia-we-break-forces-destroy-anything-everything-you-attack",
-    "https://www.foxnews.com/world/pope-leo-arrives-hospital-surgery-remove-lung-nodule"
+    "https://www.foxnews.com/world/pope-leo-arrives-hospital-surgery-remove-lung-nodule",
+    "https://www.foxnews.com/world/peace-through-strength-trump-gaza-plan-gains-global-backing-one-year"
    ]
   },
   "WSJ": {
@@ -248,16 +249,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791888900.0,
-   "n": "a demographic mirage may be distorting china s economic ambitions plus beijing s tepid recovery efforts falling government bond yields and why china resists joining the developed world",
-   "fa": "به گزارش وال‌استریت ژورنال، یک سراب جمعیتی ممکن است اهداف اقتصادی چین را تحریف کند. این گزارش همچنین به تلاش‌های ضعیف پکن برای بهبود اقتصادی، کاهش بازده اوراق قرضه دولتی و دلایل مقاومت چین در برابر پیوستن به جهان توسعه‌یافته پرداخته است."
-  },
-  {
-   "t": 1791889449.0,
-   "n": "غریب آبادی تهران در حال نهایی کردن پاسخ به آمریکا است معاون وزیر امور خارجه تهران در حال نهایی کردن پاسخ خود به ملاحظات و دیدگاه های طرف آمریکایی درباره طرح ارائه شده از سوی ایران در نیویورک است ایران همواره از دیپلماسی استقبال کرده و در این زمینه و در زمینه گفت وگو با هیچ طرفی کوتاهی نکرده است",
-   "fa": "🔴 غریب‌آبادی: تهران در حال نهایی کردن پاسخ به آمریکا است معاون وزیر امور خارجه: تهران در حال نهایی کردن پاسخ خود به ملاحظات و دیدگاه‌های طرف آمریکایی درباره طرح ارائه ‌شده از سوی ایران در نیویورک است. ایران همواره از دیپلماسی استقبال کرده و در این زمینه و در زمینه گفت وگو با هیچ طرفی کوتاهی نکرده است."
-  },
   {
    "t": 1791891000.0,
    "n": "the morning risk report trump s diesel deal with russia faces questions from lawmakers on legality plus u k floats payments for fraud whistleblowers and delta delays saudi arabia plans",
@@ -547,10 +538,20 @@
    "t": 1791908101.0,
    "n": "ترامپ محاصره تنگه هرمز یک دستاورد تاریخی دیگر برای نیروی دریایی آمریکاست دونالد ترامپ به مناسبت دویست وپنجاه ویکمین سالگرد تأسیس نیروی دریایی آمریکا نوشت تولد نیروی دریایی ایالات متحده مبارک حالا ۲۵۱ سال از پیروزی های قدیم و جدید آن می گذرد کاری که نیروی دریایی آمریکا با ایجاد دیوار فولادی نفوذناپذیر در تنگه هرمز انجام داده ــ که گاهی از آن با عنوان محاصره یاد می شود ــ یک دستاورد تاریخی دیگر است ",
    "fa": "🔄 به‌روزرسانی 🇺🇸🇮🇷 ترامپ: محاصره تنگه هرمز یک دستاورد تاریخی دیگر برای نیروی دریایی آمریکاست 💢دونالد ترامپ به مناسبت دویست‌وپنجاه‌ویکمین سالگرد تأسیس نیروی دریایی آمریکا نوشت: «تولد نیروی دریایی ایالات متحده مبارک! حالا ۲۵۱ سال از پیروزی‌های قدیم و جدید آن می‌گذرد. کاری که نیروی دریایی آمریکا با ایجاد «دیوار فولادی نفوذناپذیر» در تنگه هرمز انجام داده ــ که گاهی از آن با عنوان محاصره یاد می‌شود ــ "
+  },
+  {
+   "t": 1791908306.0,
+   "n": "peace through strength trump gaza plan gains global backing one year on a year has passed since president donald trump made history by brokering a ceasefire between israel and hamas setting in motion an ambitious peace plan aimed at bringing lasting stability to the region in the days and months since the ceasefire and trump s 20 point peace plan took hold progress has drawn support from across th",
+   "fa": "به گزارش فاکس نیوز یک سال از زمانی که دونالد ترامپ با میانجی‌گری برای برقراری آتش‌بس میان اسرائیل و حماس تاریخ‌ساز شد و طرح صلح جاه‌طلبانه‌ای را با هدف دستیابی به ثباتی پایدار در منطقه به جریان انداخت، می‌گذرد. در روزها و ماه‌های پس از اجرای آتش‌بس و طرح صلح ۲۰ ماده‌ای ترامپ، پیشرفت حاصل شده حمایت‌هایی را از سراسر جهان و حتی از سوی جوامع غیرمنتظره به همراه داشته است. جاش گرونباوم، مشاور ارشد هیئت "
+  },
+  {
+   "t": 1791908509.0,
+   "n": "مشاور سرمایه گذاری ترنج و بانک سامان اولین صندوق درآمد ثابت ارزی بخش خصوصی را تاسیس می کنند صندوق درآمد ثابت ارزی امکان کسب بازدهی ارزی را فراهم می کند و ریسک تورم ارز مرجع را کاهش می دهد مدیریت سرمایه گذاری صندوق با مشاور سرمایه گذاری ترنج و عملیات ارزی و ضامن نقدشوندگی آن بانک سامان است تجربه مشاور سرمایه گذاری ترنج با ۱۱ صندوق سرمایه گذاری و ۱۲۵ همت منابع تحت مدیریت در کنار بانک سامان به عنوان ",
+   "fa": "مشاور سرمایه‌گذاری ترنج و بانک سامان، اولین صندوق درآمد‌ثابت ارزی بخش خصوصی را تاسیس می‌کنند صندوق درآمد‌ثابت ارزی، امکان کسب بازدهی ارزی را فراهم می‌کند و ریسک تورم ارز مرجع را کاهش می‌دهد. مدیریت سرمایه‌گذاری صندوق با مشاور سرمایه‌گذاری ترنج و عملیات ارزی و ضامن نقدشوندگی آن بانک سامان است. تجربه مشاور سرمایه‌گذاری ترنج با ۱۱ صندوق سرمایه‌گذاری و ۱۲۵ همت منابع تحت مدیریت، در کنار بانک سامان به‌ع"
   }
  ],
  "usage": {
   "date": "2026-10-13",
-  "requests": 137
+  "requests": 140
  }
 }
