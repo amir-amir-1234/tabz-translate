@@ -4,7 +4,7 @@
    "last_id": 107822
   },
   "khabarfouri": {
-   "last_id": 569306
+   "last_id": 569309
   },
   "KH_B2": {
    "last_id": 131471
@@ -537,6 +537,6 @@
  ],
  "usage": {
   "date": "2026-10-13",
-  "requests": 37
+  "requests": 38
  }
 }
