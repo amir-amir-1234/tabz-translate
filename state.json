@@ -56,7 +56,8 @@
     "https://www.foxnews.com/world/pope-leo-denounces-death-penalty-inadmissible-ahead-pentagons-planned-livestreamed-execution",
     "https://www.foxnews.com/world/zelenskyy-blasts-putin-defying-trumps-ceasefire-push-sends-pointed-message-white-house",
     "https://www.foxnews.com/world/benjamin-netanyahu-legacy-political-future-line-israel-oct-27-election",
-    "https://www.foxnews.com/world/british-adventurer-returns-home-after-28-year-walk-around-world"
+    "https://www.foxnews.com/world/british-adventurer-returns-home-after-28-year-walk-around-world",
+    "https://www.foxnews.com/world/nato-warns-russia-we-break-forces-destroy-anything-everything-you-attack"
    ]
   },
   "WSJ": {
@@ -229,11 +230,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791827213.0,
-   "n": "هاآرتص به نقل از یک منبع دیپلماتیک گزارش داد که عربستان سعودی درخواست اسرائیل را که از طریق ایالات متحده برای مداخله نظامی علیه حوثی ها ارسال شده بود رد کرد",
-   "fa": "⭕️هاآرتص به نقل از یک منبع دیپلماتیک گزارش داد که عربستان سعودی درخواست اسرائیل را که از طریق ایالات متحده برای مداخله نظامی علیه حوثی ها ارسال شده بود، رد کرد."
-  },
   {
    "t": 1791827488.0,
    "n": "فرودگاه جده در حال حاضر تعطیل است و حدود ۴ هواپیما در آسمان معلق مانده اند",
@@ -528,10 +524,15 @@
    "t": 1791847843.0,
    "n": "پست ترامپ از انهدام ۱۵۹ شناور ایران",
    "fa": "🔴 🇮🇷🇺🇸پست ترامپ از انهدام ۱۵۹ شناور ایران💢"
+  },
+  {
+   "t": 1791850928.0,
+   "n": "nato warns russia we will break forces destroy anything and everything if you attack nato s top military commander warned monday that what he called the lethal alliance would destroy anything and everything supporting an attack on allied territory and break enemy warfighting systems to thwart any potential future russian assault should the adversary choose to press the attack or commit his reserve",
+   "fa": "به گزارش فاکس نیوز، ارشدترین فرمانده نظامی ناتو روز دوشنبه هشدار داد که این سازمان که آن را «ائتلاف مهلک» خواند، در صورت وقوع حمله به قلمرو متحدان، «هر چیزی و همه‌چیز» را که پشتیبان آن حمله باشد نابود خواهد کرد و سیستم‌های جنگی دشمن را برای خنثی کردن هرگونه تهاجم احتمالی در آینده «در هم خواهد شکست». ژنرال الکسوس گرینکویچ، از نیروی هوایی ایالات متحده، طی سخنانی در مجمع امنیت لهستان در ورشو و در هشد"
   }
  ],
  "usage": {
   "date": "2026-10-13",
-  "requests": 4
+  "requests": 6
  }
 }
