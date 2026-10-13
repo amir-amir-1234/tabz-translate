@@ -120,7 +120,7 @@ def parse_brent(text):
     return m.group(1) if m else None
 
 
-_OUNCE_RE = re.compile(rf"^[^\w]*({NUM})(?:\s+[\d:/\-.\s]{{3,25}})?\s*$")
+_OUNCE_RE = re.compile(rf"^[^\w]*({NUM})(?:\s+[^\w\s]{{0,3}}\s*[\d:/\-.\s]{{3,25}})?\s*$")
 
 
 def parse_ounce(text):
@@ -167,12 +167,16 @@ def parse_rates(text):
 # ------------------------------------------------------------------ gathering ---
 def find_first(channel, extract, fetch=fetch_html):
     """Latest post (scanning back) for which extract(text) returns a value."""
+    seen = []
     for _mid, text, forwarded in posts_newest_first(channel, fetch):
+        if len(seen) < 4:
+            seen.append(("FWD " if forwarded else "") + text[:60].replace("\n", " "))
         if forwarded:
             continue
         v = extract(text)
         if v:
             return v
+    log(f"  {channel}: nothing matched; newest posts seen: {seen if seen else 'NONE (page empty or blocked)'}")
     return None
 
 
