@@ -1,16 +1,16 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107826
+   "last_id": 107833
   },
   "khabarfouri": {
-   "last_id": 569380
+   "last_id": 569382
   },
   "KH_B2": {
    "last_id": 131501
   },
   "TelNews_Magazine": {
-   "last_id": 101033
+   "last_id": 101034
   },
   "NE_WG": {
    "last_id": 114309
@@ -57,7 +57,8 @@
     "https://www.foxnews.com/world/zelenskyy-blasts-putin-defying-trumps-ceasefire-push-sends-pointed-message-white-house",
     "https://www.foxnews.com/world/benjamin-netanyahu-legacy-political-future-line-israel-oct-27-election",
     "https://www.foxnews.com/world/british-adventurer-returns-home-after-28-year-walk-around-world",
-    "https://www.foxnews.com/world/nato-warns-russia-we-break-forces-destroy-anything-everything-you-attack"
+    "https://www.foxnews.com/world/nato-warns-russia-we-break-forces-destroy-anything-everything-you-attack",
+    "https://www.foxnews.com/world/pope-leo-arrives-hospital-surgery-remove-lung-nodule"
    ]
   },
   "WSJ": {
@@ -240,21 +241,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791877665.0,
-   "n": "مهاجرانی سخنگوی دولت دستگاه های متولی گاهی مجبور می شوند سرعت اینترنت را پایین بیاورند",
-   "fa": "مهاجرانی، سخنگوی دولت: دستگاه‌های متولی گاهی مجبور می‌شوند سرعت اینترنت را پایین بیاورند"
-  },
-  {
-   "t": 1791878616.0,
-   "n": "بنابر اعلام منابع آگاه تاکنون در درگیری نیروهای امنیتی نظامی با یک تیم تروریستی در منطقه چاه احمد کورین شهرستان زاهدان تعدادی از اعضای گروهک تروریستی به هلاکت رسیدند",
-   "fa": "🔄 به‌روزرسانی بنابر اعلام منابع آگاه، تاکنون در درگیری نیروهای امنیتی - نظامی با یک تیم تروریستی در منطقه چاه احمد کورین شهرستان زاهدان، تعدادی از اعضای گروهک تروریستی به هلاکت رسیدند."
-  },
-  {
-   "t": 1791878783.0,
-   "n": "کالا هست قدرت خریدش نیست امروز اگر سری به فروشگاه ها و مغازه های سطح شهر بزنید قفسه ها پر است کالاهای اساسی معیشتی و خوراکی به وفور یافت می شود و کمبودی در عرضه دیده نمی شود اما این وفور تصویری گمراه کننده از واقعیت سفره خانوار است زیرا کالایی که در قفسه هست وقتی پول خریدش در جیب نیست عملا وجود ندارد وقتی قیمت یک شانه تخم مرغ از دستمزد روزانه یک کارگر بیشتر می شود وفور کالا به عبارتی تشریفاتی تبدی",
-   "fa": "کالا هست، قدرت خریدش نیست امروز اگر سری به فروشگاه‌ها و مغازه‌های سطح شهر بزنید، قفسه‌ها پر است؛ کالاهای اساسی، معیشتی و خوراکی به وفور یافت می‌شود و کمبودی در عرضه دیده نمی‌شود. اما این وفور، تصویری گمراه‌کننده از واقعیت سفره خانوار است؛ زیرا کالایی که در قفسه هست، وقتی پول خریدش در جیب نیست، عملاً وجود ندارد. وقتی قیمت یک شانه تخم‌مرغ از دستمزد روزانه یک کارگر بیشتر می‌شود، «وفور کالا» به عبارتی"
-  },
   {
    "t": 1791879241.0,
    "n": "مهاجرانی واردات انواع خودرو توسط هتل داران و ایرانیان خارج از کشور متوقف شد",
@@ -539,10 +525,25 @@
    "t": 1791897157.0,
    "n": "egypt is prepared to provide saudi arabia with any kind of support amid intensified houthi ansarallah attacks including potential military assistance foreign minister badr abdelatty told bloomberg abdelatty said cairo would respond to whatever assistance riyadh requested without any reservation he also confirmed that egypt is seriously considering joining the mecca joint defense agreement which cu",
    "fa": "🇪🇬🇸🇦🇾🇪⚡️ — وزیر خارجه مصر، بدر عبدالعاطی، به بلومبرگ گفت که مصر آماده است در میان تشدید حملات حوثی‌ها (انصارالله)، از جمله کمک‌های نظامی احتمالی، «هر نوع» حمایتی را به عربستان سعودی ارائه دهد. عبدالعاطی گفت که قاهره به هر درخواستی که ریاض داشته باشد، «بدون هیچ‌گونه شرط و شروطی» پاسخ خواهد داد. او همچنین تأیید کرد که مصر به طور جدی پیوستن به توافق دفاع مشترک مکه را که در حال حاضر شامل عربستان سعودی"
+  },
+  {
+   "t": 1791897895.0,
+   "n": "pope leo arrives at hospital for surgery to remove lung nodule pope leo xiv arrived to agostino gemelli university hospital in rome for a procedure to remove a small node on his lung on tuesday the 71 year old pontiff said monday that doctors discovered the nodule at a very early stage and recommended its removal the surgery is not expected to last long and the pope expected to remain hospitalized",
+   "fa": "به گزارش فاکس نیوز پاپ لئو چهاردهم روز سه‌شنبه برای انجام عمل جراحی جهت خارج کردن یک گره کوچک از ریه‌اش وارد بیمارستان دانشگاهی آگوستینو جملی در رم شد. به گفته ماتئو برونی سخنگوی واتیکان، این رهبر ۷۱ ساله روز دوشنبه اعلام کرد که پزشکان این گره را در «مرحله بسیار اولیه» کشف کرده و برداشتن آن را توصیه کرده‌اند. انتظار نمی‌رود این جراحی طولانی باشد و پاپ احتمالاً حدود یک هفته در بیمارستان بستری خواهد"
+  },
+  {
+   "t": 1791897965.0,
+   "n": "president trump via truth social i see so many comments from the radical left morons and lunatics that china and russia are helping the wonderful islamic republic of iran if they are it s at a very low level but i don t believe they are at all they have too much to lose and we would know about it and know about it very fast",
+   "fa": "🇺🇸🇮🇷🇨🇳⚡️ — رئیس‌جمهور ترامپ در توییتر/تروث سوشال: من نظرات زیادی از سوی احمق‌ها و دیوانگان چپ افراطی می‌بینم که می‌گویند چین و روسیه به جمهوری اسلامی «فوق‌العاده» ایران کمک می‌کنند. اگر هم کمک کنند، در سطح بسیار پایینی است اصلاً باور نمی‌کنیم. آن‌ها خیلی چیزها برای از دست دادن دارند و ما باخبر می‌شدیم، آن هم خیلی سریع!"
+  },
+  {
+   "t": 1791898181.0,
+   "n": "saudi arabia stopped issuing public warnings of imminent military attacks days before four houthi strikes on riyadh s king khalid international airport over the past week that killed at least 18 people and injured more than 300 according to reuters saudi authorities told representatives of an allied western government that the alerts had become too disruptive with citizens complaining about being ",
+   "fa": "🔴 🇸🇦🇾🇪⚡️ — به گزارش رویترز، عربستان سعودی روزها پیش از چهار حمله حوثی‌ها به فرودگاه بین‌المللی ملک خالد ریاض که دستکم ۱۸ کشته و بیش از ۳۰۰ زخمی بر جای گذاشت، صدور هشدارهای عمومی درباره حملات قریب‌الوقوع نظامی را متوقف کرده بود. مقامات سعودی به نمایندگان یک دولت غربی هم‌پیمان گفته بودند که این هشدارها بیش از حد مختل‌کننده شده و شهروندان از بیدار شدن در شب شکایت داشتند. عدم وجود هشدارها در جریان حمل"
   }
  ],
  "usage": {
   "date": "2026-10-13",
-  "requests": 87
+  "requests": 92
  }
 }
