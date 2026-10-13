@@ -1,22 +1,24 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107851
+   "last_id": 107857
   },
   "khabarfouri": {
    "last_id": 569391
   },
   "KH_B2": {
-   "last_id": 131505
+   "last_id": 131507
   },
   "TelNews_Magazine": {
-   "last_id": 101036
+   "last_id": 101037
   },
   "NE_WG": {
-   "last_id": 114315
+   "last_id": 114317
   }
  },
- "fails": {},
+ "fails": {
+  "tabzlive/107860": 1
+ },
  "web": {
   "Fox News": {
    "seen": [
@@ -548,6 +550,6 @@
  ],
  "usage": {
   "date": "2026-10-13",
-  "requests": 105
+  "requests": 109
  }
 }
