@@ -4,13 +4,13 @@
    "last_id": 107897
   },
   "khabarfouri": {
-   "last_id": 569436
+   "last_id": 569441
   },
   "KH_B2": {
    "last_id": 131555
   },
   "TelNews_Magazine": {
-   "last_id": 101064
+   "last_id": 101065
   },
   "NE_WG": {
    "last_id": 114367
@@ -556,7 +556,7 @@
  ],
  "usage": {
   "date": "2026-10-13",
-  "requests": 175
+  "requests": 176
  },
  "flip": 14
 }
