@@ -810,9 +810,8 @@ def _text_only(text):
 # oil, economy, ...) gets the alternating 🔴 / ⭕️ pair.
 KIND_EMOJI = {"urgent": "🚨", "attack": "🚨", "sanctions": "🚨", "warning": "🚨⚠️", "explosion": "🚨🔥", "stats": "📊"}
 EVENT_EMOJIS = ("🔴", "⭕️")
-QUOTE_EVERY = int(env("QUOTE_EVERY", "5"))   # every Nth short text-only post gets its body in a quote block (0 = never)
+QUOTE_EVERY = int(env("QUOTE_EVERY", "3"))   # every Nth short text-only post gets its body in a quote block (0 = never)
 LONG_PARAGRAPHS = 3          # a post is "long" with at least this many paragraphs (headline not counted)
-MARK_MIN_CHARS = 130         # a paragraph gets the marker from about 3 phone lines (~130 characters)
 _EMOJI_START = re.compile("^[\U0001F000-\U0001FAFF\u2600-\u27BF\u2B00-\u2BFF\u2190-\u21FF\u203C\u2049\ufe0f\u200d]")
 
 
@@ -844,7 +843,7 @@ def is_long_post(body, titled=None):
 def format_post(body, emoji="", titled=None, quote_short=False):
     """HTML text for Telegram.
     Short posts (fewer than LONG_PARAGRAPHS paragraphs): plain text, only the emoji at the start.
-    Long posts: bold headline, and every paragraph of at least MARK_MIN_CHARS characters inside a collapsible quote.
+    Long posts: bold headline, and all the paragraphs after it together inside ONE collapsible quote.
     titled: True = first block is a headline, False = none, None = decide from the structure.
     quote_short: a short post gets its body (everything after the headline) in one plain quote block.
     The text itself is never changed, only wrapped (and HTML-escaped)."""
@@ -865,13 +864,14 @@ def format_post(body, emoji="", titled=None, quote_short=False):
     if title is not None:
         t = lead(esc(title)) if not _EMOJI_START.match(title) else esc(title)
         out.append(f"<b>{t}</b>" if long_post else t)
-    for i, b in enumerate(blocks):
-        t = esc(b)
-        if title is None and i == 0:
-            t = lead(t) if not _EMOJI_START.match(b) else t
-        elif long_post and len(b) >= MARK_MIN_CHARS and not _EMOJI_START.match(b):
-            t = f"<blockquote expandable>{t}</blockquote>"
-        out.append(t)
+        rest = blocks
+    else:
+        t = esc(blocks[0]) if blocks else ""
+        out.append(lead(t) if (blocks and not _EMOJI_START.match(blocks[0])) else t)
+        rest = blocks[1:]
+    if rest:
+        inner = "\n\n".join(esc(b) for b in rest)
+        out.append(f"<blockquote expandable>{inner}</blockquote>" if long_post else inner)
     return "\n\n".join(out)
 
 
