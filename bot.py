@@ -767,7 +767,9 @@ def tg_html(method, data, files=None):
 def split_message(text, limit=4096):
     parts = []
     while len(text) > limit:
-        cut = text.rfind("\n", 0, limit)
+        cut = text.rfind("\n\n", 0, limit)
+        if cut < limit // 2:
+            cut = text.rfind("\n", 0, limit)
         if cut < limit // 2:
             cut = limit
         parts.append(text[:cut].rstrip())
@@ -803,7 +805,6 @@ def _text_only(text):
 # oil, economy, ...) gets the alternating 🔴 / ⭕️ pair.
 KIND_EMOJI = {"urgent": "🚨", "attack": "🚨", "sanctions": "🚨", "warning": "🚨⚠️", "explosion": "🚨🔥", "stats": "📊"}
 EVENT_EMOJIS = ("🔴", "⭕️")
-MARK = "🔺"                  # before long paragraphs of long posts
 LONG_PARAGRAPHS = 3          # a post is "long" with at least this many paragraphs (headline not counted)
 MARK_MIN_CHARS = 130         # a paragraph gets the marker from about 3 phone lines (~130 characters)
 _EMOJI_START = re.compile("^[\U0001F000-\U0001FAFF\u2600-\u27BF\u2B00-\u2BFF\u2190-\u21FF\u203C\u2049\ufe0f\u200d]")
@@ -822,7 +823,7 @@ def pick_emoji(v, flip=0):
 def format_post(body, emoji="", titled=None):
     """HTML text for Telegram.
     Short posts (fewer than LONG_PARAGRAPHS paragraphs): plain text, only the emoji at the start.
-    Long posts: bold headline, and a red triangle before every paragraph of at least MARK_MIN_CHARS characters.
+    Long posts: bold headline, and every paragraph of at least MARK_MIN_CHARS characters inside a collapsible quote.
     titled: True = first block is a headline, False = none, None = decide from the structure.
     The text itself is never changed, only wrapped (and HTML-escaped)."""
     body = body.strip()
@@ -845,7 +846,7 @@ def format_post(body, emoji="", titled=None):
         if title is None and i == 0:
             t = lead(t) if not _EMOJI_START.match(b) else t
         elif long_post and len(b) >= MARK_MIN_CHARS and not _EMOJI_START.match(b):
-            t = f"{MARK} {t}"
+            t = f"<blockquote expandable>{t}</blockquote>"
         out.append(t)
     return "\n\n".join(out)
 
