@@ -10,7 +10,7 @@
    "last_id": 131479
   },
   "TelNews_Magazine": {
-   "last_id": 101019
+   "last_id": 101020
   },
   "NE_WG": {
    "last_id": 114285
@@ -236,11 +236,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791847843.0,
-   "n": "پست ترامپ از انهدام ۱۵۹ شناور ایران",
-   "fa": "🔴 🇮🇷🇺🇸پست ترامپ از انهدام ۱۵۹ شناور ایران💢"
-  },
   {
    "t": 1791850928.0,
    "n": "nato warns russia we will break forces destroy anything and everything if you attack nato s top military commander warned monday that what he called the lethal alliance would destroy anything and everything supporting an attack on allied territory and break enemy warfighting systems to thwart any potential future russian assault should the adversary choose to press the attack or commit his reserve",
@@ -535,10 +530,15 @@
    "t": 1791882754.0,
    "n": "یک کشتی باری با پرچم مالت در دریای سیاه هدف پهپاد قرار گرفت خبرگزاری ملی بلغارستان کشتی باری چلسی ۳ با پرچم مالت در فاصله حدود ۱۵ مایل دریایی از شهر ساحلی بیالا در بلغارستان هدف حمله پهپادی قرار گرفت",
    "fa": "یک کشتی باری با پرچم مالت در دریای سیاه هدف پهپاد قرار گرفت ⠀ خبرگزاری ملی بلغارستان: کشتی باری «چلسی ۳» با پرچم مالت در فاصله حدود ۱۵ مایل دریایی از شهر ساحلی بیالا در بلغارستان هدف حمله پهپادی قرار گرفت"
+  },
+  {
+   "t": 1791884521.0,
+   "n": "امیر قطر باید به مذاکره بازگشت راهبرد ما مبتنی بر خودداری از سوق یافتن به سمت جنگ است",
+   "fa": "⭕️امیر قطر: باید به مذاکره بازگشت، راهبرد ما مبتنی بر خودداری از سوق یافتن به سمت جنگ است"
   }
  ],
  "usage": {
   "date": "2026-10-13",
-  "requests": 51
+  "requests": 52
  }
 }
