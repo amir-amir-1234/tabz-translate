@@ -4,16 +4,16 @@
    "last_id": 107822
   },
   "khabarfouri": {
-   "last_id": 569336
+   "last_id": 569337
   },
   "KH_B2": {
-   "last_id": 131479
+   "last_id": 131481
   },
   "TelNews_Magazine": {
    "last_id": 101020
   },
   "NE_WG": {
-   "last_id": 114285
+   "last_id": 114287
   }
  },
  "fails": {},
@@ -168,7 +168,8 @@
     "WP-WSJ-0003969144",
     "WP-WSJ-0003869007",
     "WP-WSJ-0003969348",
-    "WP-WSJ-0003971004"
+    "WP-WSJ-0003971004",
+    "WP-WSJ-0003969938"
    ]
   },
   "NYT": {
@@ -236,16 +237,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791850928.0,
-   "n": "nato warns russia we will break forces destroy anything and everything if you attack nato s top military commander warned monday that what he called the lethal alliance would destroy anything and everything supporting an attack on allied territory and break enemy warfighting systems to thwart any potential future russian assault should the adversary choose to press the attack or commit his reserve",
-   "fa": "به گزارش فاکس نیوز، ارشدترین فرمانده نظامی ناتو روز دوشنبه هشدار داد که این سازمان که آن را «ائتلاف مهلک» خواند، در صورت وقوع حمله به قلمرو متحدان، «هر چیزی و همه‌چیز» را که پشتیبان آن حمله باشد نابود خواهد کرد و سیستم‌های جنگی دشمن را برای خنثی کردن هرگونه تهاجم احتمالی در آینده «در هم خواهد شکست». ژنرال الکسوس گرینکویچ، از نیروی هوایی ایالات متحده، طی سخنانی در مجمع امنیت لهستان در ورشو و در هشد"
-  },
-  {
-   "t": 1791856807.0,
-   "n": "i m f warns mideast war will widen gap between rich and poor countries persistent conflicts high energy costs and technological upheavals will slow global growth and raise prices the organization forecast",
-   "fa": "به گزارش نیویورک تایمز این سازمان پیش‌بینی کرد که درگیری‌های مداوم، هزینه‌های بالای انرژی و تحولات فناورانه، رشد جهانی را کند کرده و قیمت‌ها را افزایش خواهد داد و صندوق بین‌المللی پول هشدار داد که جنگ خاورمیانه شکاف میان کشورهای غنی و فقیر را عمیق‌تر خواهد کرد."
-  },
   {
    "t": 1791858059.0,
    "n": "most americans oppose betting on elections military operations and government decisions through prediction markets such as polymarket and kalshi according to a reuters ipsos poll the survey found that 69 of democrats and 61 of republicans oppose election betting while 65 of americans oppose wagering on military actions and 63 oppose bets on government decisions 93 of democrats and 89 of republican",
@@ -535,10 +526,20 @@
    "t": 1791884521.0,
    "n": "امیر قطر باید به مذاکره بازگشت راهبرد ما مبتنی بر خودداری از سوق یافتن به سمت جنگ است",
    "fa": "⭕️امیر قطر: باید به مذاکره بازگشت، راهبرد ما مبتنی بر خودداری از سوق یافتن به سمت جنگ است"
+  },
+  {
+   "t": 1791885120.0,
+   "n": "china s young people are losing faith in the promise of hard work plus trump says he is looking at firing kimberly guilfoyle and iran rallies its people for a return to fighting",
+   "fa": "به گزارش وال‌استریت ژورنال جوانان چین در حال از دست دادن ایمان خود به وعده کار سخت هستند. به علاوه، ترامپ می‌گوید او اخراج کیمبرلی گویلفویل را \"بررسی می‌کند\" و ایران مردم خود را برای بازگشت به جنگ بسیج می‌کند."
+  },
+  {
+   "t": 1791885294.0,
+   "n": "وزارت امور خارجه ایران تهران و مسقط بر سر تعیین یک مسیر موقت برای دریانوردی به تفاهم رسیده اند و جزئیات اجرایی آن در حال پیگیری است",
+   "fa": "وزارت امور خارجه ایران: تهران و مسقط بر سر تعیین یک مسیر موقت برای دریانوردی به تفاهم رسیده‌اند و جزئیات اجرایی آن در حال پیگیری است."
   }
  ],
  "usage": {
   "date": "2026-10-13",
-  "requests": 52
+  "requests": 54
  }
 }
