@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107906
+   "last_id": 107907
   },
   "khabarfouri": {
    "last_id": 569458
   },
   "KH_B2": {
-   "last_id": 131584
+   "last_id": 131585
   },
   "TelNews_Magazine": {
-   "last_id": 101074
+   "last_id": 101075
   },
   "NE_WG": {
-   "last_id": 114391
+   "last_id": 114392
   }
  },
  "fails": {},
@@ -262,16 +262,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791915565.0,
-   "n": "حملات موشکی انصارالله یمن به تأسیسات آرامکو در منطقه شرقی عربستان شروع شد",
-   "fa": "🔴 🚨حملات موشکی انصارالله یمن به تأسیسات آرامکو در منطقه شرقی عربستان شروع شد"
-  },
-  {
-   "t": 1791916103.0,
-   "n": "تولیت آستان قدس رضوی ضمن تأیید حضور رهبر جمهوری اسلامی در مراسم تدفین پدرش اظهار کرد هم پیش از تدفین و هم پس از دفن ایشان رهبر انقلاب در مشهد حضور داشتند و دو بار توفیق دیدار با ایشان را پیدا کردیم همچنین توفیق اقامه نماز با ایشان را داشتیم الحمدالله حال ایشان بسیار خوب بود و هیچ جای نگرانی وجود ندارد",
-   "fa": "🔴 ⭕️تولیت آستان قدس رضوی ضمن تأیید حضور رهبر جمهوری اسلامی در مراسم تدفین پدرش اظهار کرد : هم پیش از تدفین و هم پس از دفن ایشان، رهبر انقلاب در مشهد حضور داشتند و دو بار توفیق دیدار با ایشان را پیدا کردیم. همچنین توفیق اقامه نماز با ایشان را داشتیم. الحمدالله حال ایشان بسیار خوب بود و هیچ جای نگرانی وجود ندارد"
-  },
   {
    "t": 1791916594.0,
    "n": "the iran war has cost u s consumers an estimated 265 billion since late february equivalent to roughly 2 000 per household according to moody s analytics chief economist mark zandi higher energy prices account for approximately 1 100 of the average household s additional costs with that figure increasing by around 50 per week gasoline now averages 4 34 per gallon compared with 2 98 before the war ",
@@ -561,13 +551,23 @@
    "t": 1791928620.0,
    "n": "opinion why is britain still appeasing iran the regime plots terror attacks on u k soil and pays no price",
    "fa": "🔴 چرا بریتانیا همچنان به مماشات با ایران ادامه می‌دهد به گزارش وال‌استریت ژورنال رژیم حاکم بر ایران توطئه‌های تروریستی را در خاک بریتانیا طراحی می‌کند و هیچ بهایی برای آن نمی‌پردازد."
+  },
+  {
+   "t": 1791928886.0,
+   "n": "u s federal agents have arrested a 35 year old saudi national employed as an openai engineer for installing a concealed audio recording device inside an executive conference room at the company s san francisco offices the suspect abdulrahman alfozan had worked at openai since july 2025 prosecutors say he installed the device around september 28 hiding it in toilet paper and connecting it to a usb ",
+   "fa": "🇺🇸🇸🇦⚡️ — مأموران فدرال ایالات متحده یک شهروند ۳۵ ساله سعودی شاغل به عنوان مهندس در شرکت اوپن‌آی‌اس را به ارمغان نصب یک دستگاه ضبط صوت مخفی در یک اتاق کنفرانس اجرایی در دفاتر این شرکت در سانفرانسیسکو بازداشت کردند. این مظنون، عبدالرحمن الفوزان، از ژوئن ۲۰۲۵ در اوپن‌آی‌اس کار می‌کرد. دادستان‌ها می‌گویند او این دستگاه را در حدود ۲۸ سپتامبر نصب کرده، آن را در دستمال توالت پنهان کرده و به یک پورت USB د"
+  },
+  {
+   "t": 1791928981.0,
+   "n": "رسانه های سعودی گزارش هایی درباره بمباران صنعا منتشر کردند",
+   "fa": "🇸🇦🇾🇪 — رسانه‌های سعودی گزارش‌هایی درباره بمباران صنعا منتشر کردند."
   }
  ],
  "usage": {
   "date": "2026-10-13",
-  "requests": 203
+  "requests": 204
  },
- "flip": 35,
+ "flip": 36,
  "quote_n": 10,
  "digest": [
   {
@@ -641,6 +641,14 @@
   {
    "t": 1791928620.0,
    "h": "🔴 چرا بریتانیا همچنان به مماشات با ایران ادامه می‌دهد به گزارش وال‌استریت ژورنال رژیم حاکم بر ایران توطئه‌های تروریستی را در خاک بریتانیا طراحی می‌کند"
+  },
+  {
+   "t": 1791928886.0,
+   "h": "🇺🇸🇸🇦⚡️ — مأموران فدرال ایالات متحده یک شهروند ۳۵ ساله سعودی شاغل به عنوان مهندس در شرکت اوپن‌آی‌اس را به ارمغان نصب یک دستگاه ضبط صوت مخفی در یک اتاق "
+  },
+  {
+   "t": 1791928981.0,
+   "h": "🇸🇦🇾🇪 — رسانه‌های سعودی گزارش‌هایی درباره بمباران صنعا منتشر کردند."
   }
  ],
  "risk": {
