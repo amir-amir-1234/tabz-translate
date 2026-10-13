@@ -11,6 +11,8 @@ Environment:
   DRY_RUN=true                      print only, send nothing
   FORCE=true                        ignore the Tehran hour window (08:00-01:59)
 """
+import hashlib
+import json
 import os
 import re
 import sys
@@ -34,6 +36,11 @@ def env_bool(name, default=False):
 BOT_TOKEN = env("TELEGRAM_BOT_TOKEN")
 TARGET = env("TARGET_CHAT")
 FOOTER = env("CHANNEL_FOOTER", TARGET if TARGET.startswith("@") else "")
+if FOOTER and ord(FOOTER[0]) < 0x2000:
+    FOOTER = "🤖 " + FOOTER                       # "🤖 @channel"
+STATE_FILE = env("STATE_FILE", "state.json")      # written by bot.py (key "risk")
+RISK_SALT = env("RISK_SALT", "khabre12")
+RISK_MAX_AGE = 12 * 3600                           # an older estimate is not shown
 DRY_RUN = env_bool("DRY_RUN", False)
 FORCE = env_bool("FORCE", False)
 MAX_PAGES = int(env("PRICE_MAX_PAGES", "6"))     # preview pages to look back (about 20 posts each)
@@ -211,6 +218,46 @@ def gather(fetch=fetch_html):
     return result
 
 
+_FA_DIGITS = str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹")
+
+
+def tehran_idx(ts):
+    return int((ts + 12600) // 3600)               # hour counter in Tehran local time
+
+
+def shown_risk(risk, now):
+    """The number shown now. bot.py stores the Gemini estimate (base) every 3 hours; at the top of each
+    following Tehran hour the shown number moves by exactly one point up or down, chosen at random
+    (a hash of the hour, so no state is needed), and never strays more than 3 points from the base.
+    After a direct attack the number is 100."""
+    base = int(risk["base"])
+    if risk.get("attack") or base >= 100:
+        return 100
+    start = tehran_idx(risk["ts"])
+    steps = max(0, min(tehran_idx(now) - start, 12))
+    off = 0
+    for k in range(1, steps + 1):
+        d = 1 if hashlib.sha256(f"{RISK_SALT}:{start + k}".encode()).digest()[0] & 1 else -1
+        if abs(off + d) > 3:
+            d = -d
+        off += d
+    return max(1, min(99, base + off))
+
+
+def read_risk(now=None):
+    """-> number to show, or None when there is no (fresh) estimate."""
+    now = now or time.time()
+    try:
+        with open(STATE_FILE, encoding="utf-8") as f:
+            risk = (json.load(f) or {}).get("risk") or {}
+        if not risk.get("ts") or now - float(risk["ts"]) > RISK_MAX_AGE:
+            return None
+        return shown_risk(risk, now)
+    except Exception as e:                          # noqa: BLE001
+        log(f"  risk: not available ({type(e).__name__})")
+        return None
+
+
 def build_message(p, footer=FOOTER):
     lines = []
     if p.get("brent"):
@@ -226,7 +273,12 @@ def build_message(p, footer=FOOTER):
     if not lines:
         return ""
     body = "\n\n".join(lines)
-    return body + (f"\n\n{footer}" if footer else "")
+    tail = []
+    if p.get("risk") is not None:
+        tail.append(f"{RLM}📈برآورد جمنای از احتمال حمله در ۷ روز آینده: {str(p['risk']).translate(_FA_DIGITS)}٪")
+    if footer:
+        tail.append(footer)
+    return body + ("\n\n" + "\n".join(tail) if tail else "")
 
 
 # ------------------------------------------------------------------ telegram ---
@@ -258,6 +310,7 @@ def main():
         return 1
 
     prices = gather()
+    prices["risk"] = read_risk()
     log("found:", {k: (v if v else "-") for k, v in prices.items()})
     msg = build_message(prices)
     if not msg:
