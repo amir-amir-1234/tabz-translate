@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107811
+   "last_id": 107812
   },
   "khabarfouri": {
-   "last_id": 569287
+   "last_id": 569290
   },
   "KH_B2": {
-   "last_id": 131465
+   "last_id": 131466
   },
   "TelNews_Magazine": {
    "last_id": 101004
   },
   "NE_WG": {
-   "last_id": 114273
+   "last_id": 114274
   }
  },
  "fails": {},
@@ -234,21 +234,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791834687.0,
-   "n": "ترامپ اتحادیه اروپا ۲۵۰ میلیارد دلار بابت انرژی به روسیه پرداخت کرده رسانه ها خریدهای انرژی اروپا از روسیه را نادیده می گیرند تصمیم من درست بوده و اول امریکا برایم مهم است",
-   "fa": "🇺🇸ترامپ: اتحادیه اروپا ۲۵۰ میلیارد دلار بابت انرژی به روسیه پرداخت کرده؛ رسانه‌ها خریدهای انرژی اروپا از روسیه را نادیده می‌گیرند تصمیم من درست بوده و اول امریکا برایم مهم است."
-  },
-  {
-   "t": 1791834829.0,
-   "n": "با اثر پرفشار جنب حاره ای روی ایران روزهای پیش رو هوا گرم تر از معمول می شه دمای تهران به ۳۰ درجه می رسه که حدودا ۱۰ درجه بالاتر از میانگین این فصل میشه",
-   "fa": "💢با اثر پرفشار جنب‌حاره‌ای روی ایران، روزهای پیش رو هوا گرم‌تر از معمول می‌شه. دمای تهران به ۳۰ درجه می‌رسه که حدوداً ۱۰ درجه بالاتر از میانگین این فصل میشه"
-  },
-  {
-   "t": 1791834914.0,
-   "n": "u s envoys steve witkoff and jared kushner told ukrainian officials during talks in miami that washington s decision to allow russian diesel exports is intended to encourage moscow to return to peace negotiations according to reuters the envoys acknowledged that russian president vladimir putin remains unwilling to negotiate an end to the war but argued that the diesel agreement could soften mosco",
-   "fa": "🇺🇸🇺🇦🇷🇺⚡️ — استیو ویتکوف و جرد کوشنر، فرستاده‌های ایالات متحده، در جریان گفتگوها در میامی به مقامات اوکراینی گفتند که تصمیم واشنگتن برای اجازه دادن به صادرات گازوئیل روسیه با هدف تشویق مسکو برای بازگشت به مذاکرات صلح اتخاذ شده است، این خبر را رویترز گزارش داد. فرستاده‌ها اذعان کردند که ولادیمیر پوتین، رئیس‌جمهور روسیه، همچنان تمایلی به مذاکره برای پایان دادن به جنگ ندارد، اما استدلال کردند که توافق"
-  },
   {
    "t": 1791835020.0,
    "n": "the u s urged ukraine to halt strikes on russian oil refineries during talks in miami but did not threaten to suspend military or intelligence assistance if kyiv refused according to reuters u s envoys jared kushner and steve witkoff emphasized all that the us has done for ukraine including extensive military and intelligence support",
@@ -533,10 +518,25 @@
    "t": 1791868098.0,
    "n": "عقب نشینی قیمت نفت به ۱۰۵ دلار",
    "fa": "عقب نشینی قیمت نفت به ۱۰۵ دلار"
+  },
+  {
+   "t": 1791868410.0,
+   "n": "wsj citing local iranian residents reports in recent weeks pro government gatherings have became larger and more spread out as iranian government messaging takes a more militant tone billboards in tehran are promoting civilian training programs for manpads and sniper rifles iran s preparedness for a new round of war goes beyond public messaging iran has built makeshift fortifications at pickaxe mo",
+   "fa": "🔄 به‌روزرسانی 🇮🇷⚡️ — روزنامه وال‌استریت ژورنال به نقل از ساکنان محلی ایران گزارش داد که در هفته‌های اخیر و با اتخاذ لحنی تندتر از سوی مقامات ایرانی، تجمع‌های حامی حکومت بزرگ‌تر و گسترده‌تر شده است. بیلبوردهای تهران برنامه‌های آموزش غیرنظامی برای استفاده از سامانه‌های دفاع هوایی دوش‌پرتاب و تفنگ‌های تک‌تیرانداز را تبلیغ می‌کنند. آمادگی ایران برای دور جدیدی از جنگ فراتر از پیام‌رسانی عمومی است؛ ایرا"
+  },
+  {
+   "t": 1791868576.0,
+   "n": "سازمان عملیات تجارت دریایی بریتانیا می گوید ۶ حادثه در تنگه هرمز و دریای عمان طی ۲۴ ساعت گذشته به وقوع پیوسته این بالاترین تعداد حملات ثبت شده در تاریخ این سازمان است",
+   "fa": "🔴 سازمان عملیات تجارت دریایی بریتانیا می‌گوید ۶ حادثه در تنگه هرمز و دریای عمان طی ۲۴ ساعت گذشته به وقوع پیوسته این بالاترین تعداد حملات ثبت‌ شده در تاریخ این سازمان است."
+  },
+  {
+   "t": 1791868780.0,
+   "n": "شرکت هواپیمایی الاتحاد امارات نیز از لغو پروازهای بین ابوظبی و شهرهای ریاض جده و دمام عربستان سعودی تا ۱۹ اکتبر خبر داد",
+   "fa": "🔄 به‌روزرسانی ❌شرکت هواپیمایی الاتحاد امارات نیز از لغو پروازهای بین ابوظبی و شهرهای ریاض، جده و دمام عربستان سعودی تا ۱۹ اکتبر خبر داد"
   }
  ],
  "usage": {
   "date": "2026-10-13",
-  "requests": 25
+  "requests": 26
  }
 }
