@@ -55,6 +55,8 @@ MAX_PAGES = int(env("MAX_PAGES", "4"))
 ADD_SOURCE_LINK = env_bool("ADD_SOURCE_LINK", False)   # off: no source line under posts
 # Text added at the very end of every post, e.g. "@my_channel". Defaults to TARGET_CHAT when that is an @username.
 FOOTER = env("CHANNEL_FOOTER", TARGET if TARGET.startswith("@") else "")
+if FOOTER and ord(FOOTER[0]) < 0x2000:
+    FOOTER = "🤖 " + FOOTER                       # every post ends with "🤖 @channel"
 SKIP_VIDEO_POSTS = env_bool("SKIP_VIDEO_POSTS", False)  # true: every post with a video is skipped (caption too)
 # Videos are sent by giving Telegram the video URL (Telegram downloads it itself, nothing passes through the runner).
 # A video that has no URL, or that Telegram rejects (e.g. too big), is skipped together with its caption.
@@ -141,7 +143,10 @@ def load_state():
     web = data.get("web") if isinstance(data.get("web"), dict) else {}
     return {"channels": chans, "fails": fails, "web": web,
             "recent": list(data.get("recent") or []), "usage": dict(data.get("usage") or {}),
-            "flip": int(data.get("flip") or 0), "quote_n": int(data.get("quote_n") or 0)}
+            "flip": int(data.get("flip") or 0), "quote_n": int(data.get("quote_n") or 0),
+            "digest": list(data.get("digest") or []),
+            "risk": data.get("risk") if isinstance(data.get("risk"), dict) else {},
+            "risk_try": float(data.get("risk_try") or 0)}
 
 
 def save_state(state):
@@ -1008,17 +1013,113 @@ def send_review(post, verdict):
         log(f"  review channel send failed: {str(e)[:150]}")
 
 
+# ------------------------------------------------------------- attack risk ---
+# One Gemini estimate per 3-hour slot (Tehran time), plus one extra after an urgent post (at most once an hour).
+# prices.py reads state["risk"] and shows it under the price message.
+RISK_ENABLED = env_bool("RISK_ENABLED", True)     # false: no attack estimate at all
+RISK_SLOT_HOURS = 3
+RISK_URGENT_GAP = 3600
+RISK_RETRY_GAP = 1800
+
+RISK_PROMPT = """You estimate the probability (integer 0-100) that within the NEXT 7 DAYS a direct military attack will take place between the United States and/or Israel on one side and Iran on the other, in either direction: a strike by one side on the territory or the official armed forces of the other.
+NOT counted: attacks by proxies or militias, cyberattacks, sanctions, attacks on commercial ships by unknown parties, attacks by these countries on third parties.
+
+Input JSON: {"previous_probability": <number or null>, "headlines_last_24h": ["..."], "full_text_last_3h": ["..."]} (Persian news the channel published, oldest first).
+
+Rules:
+- attack_happened=true ONLY when the news says such a direct attack has actually occurred during the last 24 hours. Then probability must be 100.
+- Otherwise judge from signals: rhetoric and ultimatums, military deployments or evacuations, negotiations progressing or collapsing, official warnings. Do not exaggerate: the absence of new escalation lowers the probability slowly.
+- When previous_probability is given, change it gradually: normally by at most 8 points; more only for a strong, clear signal.
+- "reason": one short Persian sentence.
+- Output only the JSON object."""
+
+RISK_SCHEMA = {"type": "OBJECT",
+               "properties": {"probability": {"type": "INTEGER"}, "attack_happened": {"type": "BOOLEAN"},
+                              "reason": {"type": "STRING"}},
+               "required": ["probability", "attack_happened", "reason"]}
+
+
+def tehran_idx(ts):
+    return int((ts + 12600) // 3600)          # hour counter in Tehran local time (UTC+3:30)
+
+
+def risk_due(state, now, urgent=False):
+    if not RISK_ENABLED or not GEMINI_KEY:
+        return False
+    r = state.get("risk") or {}
+    if now - state.get("risk_try", 0) < RISK_RETRY_GAP:
+        return False
+    if not r.get("ts"):
+        return True
+    if urgent and now - r["ts"] >= RISK_URGENT_GAP:
+        return True
+    return tehran_idx(now) // RISK_SLOT_HOURS != tehran_idx(r["ts"]) // RISK_SLOT_HOURS
+
+
+def gemini_risk(model, payload, prompt):
+    obj = _gemini_json(model, prompt, payload, RISK_SCHEMA)
+    if isinstance(obj, list):
+        obj = obj[0] if obj else {}
+    return {"probability": int(obj.get("probability")), "attack": bool(obj.get("attack_happened")),
+            "reason": str(obj.get("reason") or "").strip()}
+
+
+def update_risk(state, now=None):
+    """New base estimate -> state['risk'] = {'base','ts','attack','reason'}. On failure the old value stays."""
+    now = now or time.time()
+    if not GEMINI_KEY:
+        return
+    prev = (state.get("risk") or {}).get("base")
+    digest = [d["h"] for d in state.get("digest", []) if d.get("t", 0) >= now - 86400][-200:]
+    full3 = [r["fa"] for r in state["recent"] if r.get("t", 0) >= now - 3 * 3600 and r.get("fa")]
+    payload = {"previous_probability": prev, "headlines_last_24h": digest, "full_text_last_3h": full3}
+    state["risk_try"] = now
+    for model in GEMINI_MODELS:
+        try:
+            got = gemini_risk(model, payload, RISK_PROMPT)
+        except QuotaError as e:
+            log("  risk quota:", e)
+            continue
+        except Exception as e:                      # noqa: BLE001
+            log("  risk error:", str(e)[:150])
+            continue
+        base = 100 if got["attack"] else max(1, min(99, got["probability"]))
+        state["risk"] = {"base": base, "ts": now, "attack": got["attack"], "reason": got["reason"]}
+        log(f"Attack estimate: {base}%{' (attack happened)' if got['attack'] else ''}")
+        return
+    log("Attack estimate: no answer, keeping the previous value")
+
+
 # ------------------------------------------------------------ recent items ---
+_REQ_RECORDED = 0
+
+
+def record_usage(state):
+    """Add the Gemini requests made since the last call to the daily counter."""
+    global _REQ_RECORDED
+    if not GEMINI_KEY:
+        return
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    if state["usage"].get("date") != today:
+        state["usage"] = {"date": today, "requests": 0}
+    state["usage"]["requests"] = state["usage"].get("requests", 0) + REQ_COUNT - _REQ_RECORDED
+    _REQ_RECORDED = REQ_COUNT
+    log(f"Gemini requests: {REQ_COUNT} this run, {state['usage']['requests']} today (UTC)")
+
+
 def prune_recent(state, now=None):
     now = now or time.time()
     state["recent"] = [r for r in state["recent"]
                        if isinstance(r, dict) and r.get("t", 0) >= now - RECENT_HOURS * 3600][-RECENT_KEEP:]
+    state["digest"] = [d for d in state.get("digest", [])
+                       if isinstance(d, dict) and d.get("t", 0) >= now - 86400][-250:]
 
 
 def add_recent(state, post, cleaned, fa_text):
     snippet = re.sub(r"\s+", " ", strip_tags(fa_text)).strip()[:400]
     state["recent"].append({"t": post.get("ts") or time.time(), "n": norm(cleaned), "fa": snippet})
     state["recent"] = state["recent"][-RECENT_KEEP:]
+    state.setdefault("digest", []).append({"t": post.get("ts") or time.time(), "h": snippet[:150]})
 
 
 # -------------------------------------------------------------------- main ---
@@ -1105,6 +1206,10 @@ def main():
 
     if not all_new:
         log("No new posts.")
+        if risk_due(state, time.time()):
+            update_risk(state)
+        record_usage(state)
+        save_state(state)
         return 0
     all_new.sort(key=lambda p: (p.get("ts", 0), p["channel"], p["id"]))
     all_new = all_new[:MAX_POSTS_PER_RUN]
@@ -1161,15 +1266,11 @@ def main():
             rewrites.update(rewrite_articles([rewrite_item(e)]))
         return rewrites.get(e["idx"], "")
 
-    if GEMINI_KEY:
-        today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-        if state["usage"].get("date") != today:
-            state["usage"] = {"date": today, "requests": 0}
-        state["usage"]["requests"] = state["usage"].get("requests", 0) + REQ_COUNT
-        log(f"Gemini requests: {REQ_COUNT} this run, {state['usage']['requests']} today (UTC)")
+    record_usage(state)
 
     # 3. decide, publish, remember
     sent = rejected = 0
+    urgent_sent = False
     published_idx = set()
     blocked = set()
     for e in entries:
@@ -1256,6 +1357,8 @@ def main():
             fail("sending")
             continue
         sent += 1
+        if e["kind"] == "check" and v.get("urgent"):
+            urgent_sent = True
         if e["kind"] == "check" and quote_eligible:
             state["quote_n"] += 1
         if e["kind"] == "check" and used_flip:
@@ -1267,6 +1370,9 @@ def main():
         if not DRY_RUN:
             time.sleep(SEND_PAUSE)
 
+    if risk_due(state, time.time(), urgent=urgent_sent):      # after publishing, so the estimate sees this run's posts
+        update_risk(state)
+    record_usage(state)
     save_state(state)
     log(f"Done. {'Previewed' if DRY_RUN else 'Sent'} {sent} post(s), {rejected} rejected by the filter.")
     return 0
