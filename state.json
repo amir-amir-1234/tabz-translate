@@ -199,7 +199,8 @@
     "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html",
     "https://www.nytimes.com/2026/10/12/business/middle-east-oil-exports-houthi-saudi.html",
     "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia-mediate.html",
-    "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html"
+    "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html",
+    "https://www.nytimes.com/2026/10/12/business/economy/imf-global-economic-outlook.html"
    ]
   },
   "Treasury": {
@@ -232,11 +233,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791827488.0,
-   "n": "فرودگاه جده در حال حاضر تعطیل است و حدود ۴ هواپیما در آسمان معلق مانده اند",
-   "fa": "🔴 🔄 به‌روزرسانی 🇸🇦 فرودگاه جده در حال حاضر تعطیل است و حدود ۴ هواپیما در آسمان معلق مانده‌اند!"
-  },
   {
    "t": 1791828110.0,
    "n": "بلومبرگ ابرنفتکش هایی که می خواستند به فجیره بروند منصرف شدند ۱۰ ابرنفتکش که در حال نزدیک شدن به بندر فجیره بودند اخیرا مسیر خود را متوقف یا تغییر داده اند",
@@ -531,10 +527,15 @@
    "t": 1791850928.0,
    "n": "nato warns russia we will break forces destroy anything and everything if you attack nato s top military commander warned monday that what he called the lethal alliance would destroy anything and everything supporting an attack on allied territory and break enemy warfighting systems to thwart any potential future russian assault should the adversary choose to press the attack or commit his reserve",
    "fa": "به گزارش فاکس نیوز، ارشدترین فرمانده نظامی ناتو روز دوشنبه هشدار داد که این سازمان که آن را «ائتلاف مهلک» خواند، در صورت وقوع حمله به قلمرو متحدان، «هر چیزی و همه‌چیز» را که پشتیبان آن حمله باشد نابود خواهد کرد و سیستم‌های جنگی دشمن را برای خنثی کردن هرگونه تهاجم احتمالی در آینده «در هم خواهد شکست». ژنرال الکسوس گرینکویچ، از نیروی هوایی ایالات متحده، طی سخنانی در مجمع امنیت لهستان در ورشو و در هشد"
+  },
+  {
+   "t": 1791856807.0,
+   "n": "i m f warns mideast war will widen gap between rich and poor countries persistent conflicts high energy costs and technological upheavals will slow global growth and raise prices the organization forecast",
+   "fa": "به گزارش نیویورک تایمز این سازمان پیش‌بینی کرد که درگیری‌های مداوم، هزینه‌های بالای انرژی و تحولات فناورانه، رشد جهانی را کند کرده و قیمت‌ها را افزایش خواهد داد و صندوق بین‌المللی پول هشدار داد که جنگ خاورمیانه شکاف میان کشورهای غنی و فقیر را عمیق‌تر خواهد کرد."
   }
  ],
  "usage": {
   "date": "2026-10-13",
-  "requests": 8
+  "requests": 10
  }
 }
