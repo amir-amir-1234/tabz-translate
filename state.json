@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107978
+   "last_id": 107979
   },
   "khabarfouri": {
    "last_id": 569583
@@ -10,7 +10,7 @@
    "last_id": 131643
   },
   "TelNews_Magazine": {
-   "last_id": 101113
+   "last_id": 101114
   },
   "NE_WG": {
    "last_id": 114449
@@ -280,16 +280,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791979796.0,
-   "n": "deputy chairman of russia s security council dmitry medvedev the green louse is outraged at the us cutting off military intel without it it goes blind panics and runs around what did it expect if you re rude to your sponsors they get angry trump isn t scholz he doesn t like being a liver sausage or bloodsucking bug bites",
-   "fa": "🇷🇺🇺🇦🇺🇸⚡️ — دیمیتری مدودف، معاون رئیس شورای امنیت روسیه: شپش سبز از قطع اطلاعات نظامی توسط ایالات متحده خشمگین است. بدون آن، کور می‌شود، به وحشت می‌افتد و این‌طرف و آن‌طرف می‌دود. چه انتظاری داشت؟ اگر با حامیان خود گستاخ باشید، آن‌ها عصبانی می‌شوند. ترامپ، شولتس نیست. او دوست ندارد سوسیس جگر یا حشره مکنده خون باشد."
-  },
-  {
-   "t": 1791979843.0,
-   "n": "president trump via truth social massive oil gas and mineral exploration is getting ready to begin in our new and beautiful greenland there are experts that are saying that the amount of easily available oil is far greater than that of almost any land anywhere in the world and even more importantly from a security purpose in the defense and offense of both the united states of america and europe i",
-   "fa": "🇺🇸🇬🇱🇩🇰⚡️ — رئیس‌جمهور ترامپ در توترو استریت (تروث سوشال): اکشفات عظیم نفت، گاز و مواد معدنی قرار است در گرینلند زیبای جدید ما آغاز شود! کارشناسانی می‌گویند میزان نفت به راحتی قابل دسترس از تقریبا هر سرزمین دیگری در جهان بیشتر است و از همه مهم‌تر، از نظر امنیتی در دفاع و تهاجم ایالات متحده آمریکا و اروپا، بی‌نظیر است. هرگونه حمله آینده به ایالات متحده باید از طریق گرینلند انجام شود، جایی که دفاع ما"
-  },
   {
    "t": 1791980016.0,
    "n": "israeli prime minister netanyahu we have transformed israel into the strongest power in the middle east and one of the strongest powers in the world",
@@ -579,13 +569,23 @@
    "t": 1791989581.0,
    "n": "همتی اقتصاد ایران تاب آوری خوبی از خود نشان داده",
    "fa": "⭕️همتی: اقتصاد ایران تاب‌آوری خوبی از خود نشان داده"
+  },
+  {
+   "t": 1791989825.0,
+   "n": "israel has signed an agreement with the u s to purchase 12 boeing ah 64e apache attack helicopters for the israeli air force the defense ministry announced the deal follows government approval to transfer 1 billion shekels 323 million to the defense ministry to fund the procurement deliveries of the ah 64e echo variant the latest and most advanced version of the apache are expected to begin in the",
+   "fa": "🇮🇱🇺🇸⚡️ — وزارت دفاع اسرائیل اعلام کرد که این کشور توافق‌نامه‌ای را با ایالات متحده برای خرید ۱۲ فروند هلیکوپتر حمله آپاچی بوئینگ AH-64E برای نیروی هوایی اسرائیل امضا کرده است. این توافق پس از تایید دولت برای انتقال ۱ میلیارد شِکل (۳۲۳ میلیون دلار) به وزارت دفاع جهت تامین مالی این خرید صورت می‌گیرد. تحویل مدل AH-64E «اکو»، جدیدترین و پیشرفته‌ترین نسخه آپاچی، پیش‌بینی می‌شود در اوایل دهه ۲۰۳۰ آغاز ش"
+  },
+  {
+   "t": 1791989955.0,
+   "n": "تورم آمریکا در سپتامبر به بالاترین حد خود در سال رسید ۳ ۷ درصد",
+   "fa": "⭕️تورم آمریکا در سپتامبر به بالاترین حد خود در سال رسید: ۳.۷ درصد !"
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 198
+  "requests": 199
  },
- "flip": 176,
+ "flip": 177,
  "quote_n": 65,
  "digest": [
   {
@@ -1419,6 +1419,14 @@
   {
    "t": 1791989581.0,
    "h": "⭕️همتی: اقتصاد ایران تاب‌آوری خوبی از خود نشان داده"
+  },
+  {
+   "t": 1791989825.0,
+   "h": "🇮🇱🇺🇸⚡️ — وزارت دفاع اسرائیل اعلام کرد که این کشور توافق‌نامه‌ای را با ایالات متحده برای خرید ۱۲ فروند هلیکوپتر حمله آپاچی بوئینگ AH-64E برای نیروی هوا"
+  },
+  {
+   "t": 1791989955.0,
+   "h": "⭕️تورم آمریکا در سپتامبر به بالاترین حد خود در سال رسید: ۳.۷ درصد !"
   }
  ],
  "risk": {
