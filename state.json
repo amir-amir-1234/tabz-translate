@@ -232,7 +232,8 @@
     "https://www.nytimes.com/2026/10/13/world/middleeast/israel-october-7-attacks-elections.html",
     "https://www.nytimes.com/2026/10/13/business/saudi-arabia-houthi-oil.html",
     "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
-    "https://www.nytimes.com/2026/10/14/science/electromagnetic-pulse-nuke-trump-officials.html"
+    "https://www.nytimes.com/2026/10/14/science/electromagnetic-pulse-nuke-trump-officials.html",
+    "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html"
    ]
   },
   "Treasury": {
@@ -573,7 +574,7 @@
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 104
+  "requests": 105
  },
  "flip": 99,
  "quote_n": 38,
