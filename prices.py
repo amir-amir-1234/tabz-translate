@@ -278,7 +278,7 @@ def build_message(p, footer=FOOTER):
         tail.append(f"{RLM}📈برآورد جمنای از احتمال حمله در ۷ روز آینده: {str(p['risk']).translate(_FA_DIGITS)}٪")
     if footer:
         tail.append(footer)
-    return body + ("\n\n" + "\n".join(tail) if tail else "")
+    return body + ("\n\n" + "\n\n".join(tail) if tail else "")
 
 
 # ------------------------------------------------------------------ telegram ---
