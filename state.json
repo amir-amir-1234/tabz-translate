@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107958
+   "last_id": 107960
   },
   "khabarfouri": {
-   "last_id": 569567
+   "last_id": 569568
   },
   "KH_B2": {
-   "last_id": 131631
+   "last_id": 131632
   },
   "TelNews_Magazine": {
    "last_id": 101105
@@ -275,11 +275,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791970933.0,
-   "n": "اولین تصویر از شهید مدافع امنیت گروهبان یکم محمدعلی شهریاری",
-   "fa": "⭕️ اولین تصویر از شهید مدافع امنیت گروهبان یکم \"محمدعلی شهریاری\""
-  },
   {
    "t": 1791971033.0,
    "n": "سخنگوی سپاه ایران آماده است تا به هرگونه تجاوز مجدد با قدرتی بیش از هر زمان دیگری پاسخ دهد و این بار پیامدهای آن برای آمریکا بسیار دردناک تر خواهد بود",
@@ -574,13 +569,18 @@
    "t": 1791982837.0,
    "n": "u s ambassador to israel mike huckabee groceries and fuel prices are vital but what they ought to look at is the bigger picture do your children have a future if iran gets nuclear weaponry do your children have a future if iran shuts down the strait of hormuz and makes the entire global energy cost go up not temporarily but permanently",
    "fa": "🇺🇸🇮🇱🇮🇷⚡️ — مایک هاکبی، سفیر ایالات متحده در اسرائیل: قیمت مواد غذایی و سوخت حیاتی است، اما آنچه آن‌ها باید به آن نگاه کنند، تصویر بزرگ‌تر است: اگر ایران به سلاح هسته‌ای دست پیدا کند، آیا فرزندان شما آینده‌ای خواهند داشت؟ اگر ایران تنگه هرمز را ببندد و هزینه کل انرژی جهان را نه به طور موقت، بلکه به طور دائم افزایش دهد، آیا فرزندان شما آینده‌ای خواهند داشت؟"
+  },
+  {
+   "t": 1791983029.0,
+   "n": "the singapore flagged container ship gfs pride has sunk near the strait of hormuz after being struck by a projectile according to reuters citing maritime sources the vessel with a capacity of 2 824 teu went down with shipping containers floating in the surrounding waters the gfs pride is the second vessel to sink since the u s iran war began on february 28 according to imo data the antigua and bar",
+   "fa": "🔄 به‌روزرسانی 🇮🇷🇸🇬🇦🇬⚡️ — به گزارش رویترز به نقل از منابع دریایی، کشتی کانتینربر GFS Pride با پرچم سنگاپور پس از اصابت یک پرتابه در نزدیکی تنگه هرمز غرق شد. این شناور با ظرفیت ۲۸۲۴ TEU همراه با کانتینرهای شناور در آب‌های اطراف غرق شد. بر اساس داده‌های سازمان بین‌المللی دریانوردی (IMO)، این کشتی دومین شناوری است که از زمان آغاز جنگ ایالات متحده و ایران در ۲۸ فوریه غرق می‌شود. کشتی فله‌بر Cape Dao با"
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 153
+  "requests": 154
  },
- "flip": 149,
+ "flip": 150,
  "quote_n": 56,
  "digest": [
   {
@@ -1278,6 +1278,10 @@
   {
    "t": 1791982837.0,
    "h": "🇺🇸🇮🇱🇮🇷⚡️ — مایک هاکبی، سفیر ایالات متحده در اسرائیل: قیمت مواد غذایی و سوخت حیاتی است، اما آنچه آن‌ها باید به آن نگاه کنند، تصویر بزرگ‌تر است: اگر ایر"
+  },
+  {
+   "t": 1791983029.0,
+   "h": "🔄 به‌روزرسانی 🇮🇷🇸🇬🇦🇬⚡️ — به گزارش رویترز به نقل از منابع دریایی، کشتی کانتینربر GFS Pride با پرچم سنگاپور پس از اصابت یک پرتابه در نزدیکی تنگه هرمز غر"
   }
  ],
  "risk": {
