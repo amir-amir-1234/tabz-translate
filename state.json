@@ -7,13 +7,13 @@
    "last_id": 569522
   },
   "KH_B2": {
-   "last_id": 131605
+   "last_id": 131606
   },
   "TelNews_Magazine": {
    "last_id": 101086
   },
   "NE_WG": {
-   "last_id": 114408
+   "last_id": 114409
   }
  },
  "fails": {},
@@ -267,11 +267,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791939775.0,
-   "n": "مقایسه قیمت نیسان پاترول پلاتینیوم 2026 در ایران و امارات از نظر دلاری در ایران بیش از ۲ ۵ برابر پول این خودرو رو پرداخت میکنیم",
-   "fa": "📊 مقایسه قیمت نیسان پاترول پلاتینیوم 2026 در ایران و امارات از نظر دلاری در ایران بیش از ۲/۵ برابر پول این خودرو رو پرداخت میکنیم."
-  },
   {
    "t": 1791940123.0,
    "n": "iran has adopted new tactics for attacking vessels in the strait of hormuz in an effort to keep global oil prices elevated and influence the upcoming u s midterm elections two senior iranian officials told reuters the officials said the strategy approved at the highest levels of iran s leadership began roughly 10 days ago and involves changes to both the frequency and methods of attacks against sh",
@@ -566,13 +561,18 @@
    "t": 1791964740.0,
    "n": "houthi strike hits building at saudi aramco headquarters the attack follows strikes on riyadh s international airport and expands the conflict between saudi arabia and the iran backed militants",
    "fa": "🚨 حمله حوثی‌ها به ساختمانی در مقر آرامکو در عربستان سعودی به گزارش وال‌استریت ژورنال این حمله پس از حملات انجام‌شده به فرودگاه بین‌المللی ریاض صورت گرفته و درگیری میان عربستان سعودی و شبه‌نظامیان تحت حمایت ایران را گسترش می‌دهد."
+  },
+  {
+   "t": 1791964861.0,
+   "n": "سفیر سابق ایران در لبنان شهید سید حسن نصرالله اعتقاد داشت ما نمی خواهیم با لشکرکشی اسرائیل را نابود کنیم الان مرحله نابودی اسرائیل و غلبه بر اسرائیل نیست شهید معتقد بود ما بر اسرائیل با امتیاز پیروز میشیم نه با ضربه فنی",
+   "fa": "💢سفیر سابق ایران در لبنان: شهید سید حسن نصرالله اعتقاد داشت ما نمی‌خواهیم با لشکرکشی اسرائیل را نابود کنیم! 💢الان مرحله نابودی اسرائیل و غلبه بر اسرائیل نیست. شهید معتقد بود ما بر اسرائیل با امتیاز پیروز میشیم؛ نه با ضربه فنی"
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 86
+  "requests": 87
  },
- "flip": 85,
+ "flip": 86,
  "quote_n": 32,
  "digest": [
   {
@@ -930,6 +930,10 @@
   {
    "t": 1791964740.0,
    "h": "🚨 حمله حوثی‌ها به ساختمانی در مقر آرامکو در عربستان سعودی به گزارش وال‌استریت ژورنال این حمله پس از حملات انجام‌شده به فرودگاه بین‌المللی ریاض صورت گر"
+  },
+  {
+   "t": 1791964861.0,
+   "h": "💢سفیر سابق ایران در لبنان: شهید سید حسن نصرالله اعتقاد داشت ما نمی‌خواهیم با لشکرکشی اسرائیل را نابود کنیم! 💢الان مرحله نابودی اسرائیل و غلبه بر اسرائ"
   }
  ],
  "risk": {
