@@ -1,22 +1,24 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107992
+   "last_id": 107993
   },
   "khabarfouri": {
-   "last_id": 569612
+   "last_id": 569615
   },
   "KH_B2": {
-   "last_id": 131654
+   "last_id": 131655
   },
   "TelNews_Magazine": {
-   "last_id": 101118
+   "last_id": 101119
   },
   "NE_WG": {
-   "last_id": 114458
+   "last_id": 114461
   }
  },
- "fails": {},
+ "fails": {
+  "tabzlive/107994": 1
+ },
  "web": {
   "Fox News": {
    "seen": [
@@ -199,7 +201,8 @@
     "WP-WSJ-0003973502",
     "WP-WSJ-0003975041",
     "WP-WSJ-0003975601",
-    "WP-WSJ-0003975726"
+    "WP-WSJ-0003975726",
+    "WP-WSJ-0003976022"
    ]
   },
   "NYT": {
@@ -281,16 +284,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791982588.0,
-   "n": "u s ambassador to israel mike huckabee the israelis are unbelievably resilient people they don t have this sense of oh no look at us we re under siege",
-   "fa": "🇺🇸🇮🇱⚡️ — مایک هاکبی، سفیر ایالات متحده در اسرائیل: اسرائیلی‌ها مردمی باورنکردنی و مقاوم هستند. آن‌ها چنین حسی ندارند که «وای نه، نگاه کنید، ما در محاصره‌ایم»."
-  },
-  {
-   "t": 1791982654.0,
-   "n": "nyp do you think the iran war is damaging to trump politically in terms of the midterms ambassador huckabee if it is it s because americans are oblivious to the threat that the iranians hold to america",
-   "fa": "🇺🇸🇮🇷⚡️ — نیویورک پست: آیا فکر می‌کنید جنگ با ایران از نظر انتخابات میان‌دوره‌ای به ترامپ آسیب می‌زند؟ سفیر هاکبی: اگر چنین باشد، به این دلیل است که آمریکایی‌ها نسبت به تهدیدی که ایرانی‌ها متوجه آمریکا می‌کنند، بی‌خبرند."
-  },
   {
    "t": 1791982717.0,
    "n": "u s ambassador to israel mike huckabee the iranian regime wants to kill everybody who refuses to accept shia law sharia law",
@@ -580,14 +573,24 @@
    "t": 1791994638.0,
    "n": "the saudi backed plc media center released different videos showing saudi airstrikes and plc attacks against houthis ansarallah troops across different fronts",
    "fa": "🇾🇪🇸🇦❌🇾🇪 — مرکز رسانه‌ای شورای رهبری یمن با حمایت عربستان سعودی ویدیوهای مختلفی را منتشر کرد که حملات هوایی عربستان و حملات این شورا علیه نیروهای حوثی (انصارالله) را در جبهه‌های مختلف نشان می‌دهد."
+  },
+  {
+   "t": 1791994922.0,
+   "n": "ukrainian president zelensky told piers morgan that he felt betrayed by president trump s decision to announce an energy ceasefire and diesel agreement with russian president vladimir putin it s a pity that we are losing a strong partner zelensky said noting that ukraine cannot afford to appear weak or compromise its sovereignty we are not selling our country look guys it s not about business for ",
+   "fa": "🇺🇦🇺🇸🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در گفتگو با پیرس مورگان گفت که از تصمیم دونالد ترامپ، رئیس‌جمهور آمریکا، برای اعلام آتش‌بس انرژی و توافق دیزل با ولادیمیر پوتین، رئیس‌جمهور روسیه، احساس «خیانت» می‌کند. زلنسکی گفت: «مایه تأسف است که ما در حال از دست دادن یک شریک قوی هستیم»، و خاطرنشان کرد که اوکراین نمی‌تواند اجازه دهد ضعیف به نظر برسد یا حاکمیت خود را به خطر بیندازد. «ما کشور خود را"
+  },
+  {
+   "t": 1791995111.0,
+   "n": "فرود اضطراری پرواز تهران استانبول در تبریز پرواز شماره ۹۷۰۰ ایران ایرتور با ۱۱۶ مسافر که از تهران عازم استانبول بود به دلیل نقص فنی ساعت ۱۸ امروز در فرودگاه تبریز فرود اضطراری کرد تمامی مسافران در سلامت کامل به سالن ترانزیت منتقل شدند و اقدامات برای رفع نقص فنی یا تأمین پرواز جایگزین درحال انجام است",
+   "fa": "⭕️ فرود اضطراری پرواز تهران-استانبول در تبریز پرواز شماره ۹۷۰۰ ایران‌ایرتور با ۱۱۶ مسافر که از تهران عازم استانبول بود، به‌دلیل نقص فنی ساعت ۱۸ امروز در فرودگاه تبریز فرود اضطراری کرد. تمامی مسافران در سلامت کامل به سالن ترانزیت منتقل شدند و اقدامات برای رفع نقص فنی یا تأمین پرواز جایگزین درحال انجام است."
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 216
+  "requests": 220
  },
- "flip": 190,
- "quote_n": 69,
+ "flip": 192,
+ "quote_n": 70,
  "digest": [
   {
    "t": 1791924991.0,
@@ -1508,6 +1511,14 @@
   {
    "t": 1791994638.0,
    "h": "🇾🇪🇸🇦❌🇾🇪 — مرکز رسانه‌ای شورای رهبری یمن با حمایت عربستان سعودی ویدیوهای مختلفی را منتشر کرد که حملات هوایی عربستان و حملات این شورا علیه نیروهای حوثی "
+  },
+  {
+   "t": 1791994922.0,
+   "h": "🇺🇦🇺🇸🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در گفتگو با پیرس مورگان گفت که از تصمیم دونالد ترامپ، رئیس‌جمهور آمریکا، برای اعلام آتش‌بس انرژی و توا"
+  },
+  {
+   "t": 1791995111.0,
+   "h": "⭕️ فرود اضطراری پرواز تهران-استانبول در تبریز پرواز شماره ۹۷۰۰ ایران‌ایرتور با ۱۱۶ مسافر که از تهران عازم استانبول بود، به‌دلیل نقص فنی ساعت ۱۸ امروز "
   }
  ],
  "risk": {
