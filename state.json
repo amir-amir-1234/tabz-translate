@@ -10,7 +10,7 @@
    "last_id": 131649
   },
   "TelNews_Magazine": {
-   "last_id": 101115
+   "last_id": 101116
   },
   "NE_WG": {
    "last_id": 114453
@@ -280,11 +280,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791980313.0,
-   "n": "israeli prime minister netanyahu all those who have the audacity to walk out of the hall when i speak at the un or who condemn us afterward come and say wait don t take that into account but can we get arrow can we get this can we get that and you know what i tell them behave differently and you will receive plenty give and you will receive keep giving us these insults and you will receive nothing",
-   "fa": "🇮🇱⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: همه کسانی که جرئت می‌کنند هنگام سخنرانی من در سازمان ملل سالن را ترک کنند، یا ما را محکوم می‌کنند، بعداً می‌آیند و می‌گویند: «صبر کن، آن را در نظر نگیر. اما آیا می‌توانیم پیکان (فلاخن داوود) را دریافت کنیم؟ آیا می‌توانیم این را بگیریم؟ آیا می‌توانیم آن را بگیریم؟» و می‌دانید به آن‌ها چه می‌گویم؟ رفتار متفاوتی داشته باشید، و چیزهای زیادی دریافت خواهید کرد"
-  },
   {
    "t": 1791980314.0,
    "n": "جدیدترین تصاویر از خسارت فرودگاه ملک فهد عربستان تصاویر ماهواره ای منتشرشده نشان می دهد حمله نیروهای مسلح یمن به فرودگاه بین المللی ملک فهد در الدمام سومین فرودگاه پرتردد عربستان خسارات سنگینی به سقف و بخش های مختلف ترمینال اصلی آن وارد کرده است",
@@ -579,14 +574,19 @@
    "t": 1791991886.0,
    "n": "ukrainian president zelensky met with king charles iii in britain",
    "fa": "🇺🇦🇬🇧⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در بریتانیا با پادشاه چارلز سوم دیدار کرد."
+  },
+  {
+   "t": 1791992400.0,
+   "n": "ایرنا خطر خاموشی در زمستان جدی شد",
+   "fa": "⭕️ایرنا : خطر خاموشی در زمستان جدی شد"
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 205
+  "requests": 206
  },
- "flip": 180,
- "quote_n": 66,
+ "flip": 181,
+ "quote_n": 67,
  "digest": [
   {
    "t": 1791924991.0,
@@ -1447,6 +1447,10 @@
   {
    "t": 1791991886.0,
    "h": "🇺🇦🇬🇧⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در بریتانیا با پادشاه چارلز سوم دیدار کرد."
+  },
+  {
+   "t": 1791992400.0,
+   "h": "⭕️ایرنا : خطر خاموشی در زمستان جدی شد"
   }
  ],
  "risk": {
