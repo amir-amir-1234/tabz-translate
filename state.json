@@ -7,7 +7,7 @@
    "last_id": 569637
   },
   "KH_B2": {
-   "last_id": 131671
+   "last_id": 131672
   },
   "TelNews_Magazine": {
    "last_id": 101135
@@ -290,11 +290,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791994922.0,
-   "n": "ukrainian president zelensky told piers morgan that he felt betrayed by president trump s decision to announce an energy ceasefire and diesel agreement with russian president vladimir putin it s a pity that we are losing a strong partner zelensky said noting that ukraine cannot afford to appear weak or compromise its sovereignty we are not selling our country look guys it s not about business for ",
-   "fa": "🇺🇦🇺🇸🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در گفتگو با پیرس مورگان گفت که از تصمیم دونالد ترامپ، رئیس‌جمهور آمریکا، برای اعلام آتش‌بس انرژی و توافق دیزل با ولادیمیر پوتین، رئیس‌جمهور روسیه، احساس «خیانت» می‌کند. زلنسکی گفت: «مایه تأسف است که ما در حال از دست دادن یک شریک قوی هستیم»، و خاطرنشان کرد که اوکراین نمی‌تواند اجازه دهد ضعیف به نظر برسد یا حاکمیت خود را به خطر بیندازد. «ما کشور خود را"
-  },
   {
    "t": 1791995111.0,
    "n": "فرود اضطراری پرواز تهران استانبول در تبریز پرواز شماره ۹۷۰۰ ایران ایرتور با ۱۱۶ مسافر که از تهران عازم استانبول بود به دلیل نقص فنی ساعت ۱۸ امروز در فرودگاه تبریز فرود اضطراری کرد تمامی مسافران در سلامت کامل به سالن ترانزیت منتقل شدند و اقدامات برای رفع نقص فنی یا تأمین پرواز جایگزین درحال انجام است",
@@ -589,19 +584,20 @@
    "t": 1792005485.0,
    "n": "the u s is deploying several hundred army soldiers to latin america as the trump administration expands its military campaign against drug trafficking organizations according to nyt an approximately 600 soldier battalion from the 10th mountain division based at fort drum new york has begun deploying to a new jungle training facility in panama the troops are expected to conduct exercises with local",
    "fa": "🇺🇸⚡️ — به گزارش نیویورک تایمز، ایالات متحده در حال اعزام چندین صد سرباز ارتش به آمریکای لاتین است، در حالی که دولت ترامپ کارزار نظامی خود را علیه سازمان‌های قاچاق مواد مخدر گسترش می‌دهد. یک گردان متشکل از حدود ۶۰۰ سرباز از لشکر ۱۰ کوهستان، مستقر در فورت درام در نیویورک، اعزام به یک مرکز جدید آموزش جنگلی در پاناما را آغاز کرده است. انتظار می‌رود این نیروها تمریناتی را با نیروهای محلی در کلمبیا و هن"
+  },
+  {
+   "t": 1792005748.0,
+   "n": "با افزایش ۱۰۰ درصدی تعرفه ها قیمت هر گیگ اینترنت به ۲۵ هزار تومن میرسه",
+   "fa": "🔄 به‌روزرسانی 💢با افزایش ۱۰۰ درصدی تعرفه‌ها، قیمت هر گیگ اینترنت به ۲۵ هزار تومن میرسه!"
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 262
+  "requests": 263
  },
  "flip": 239,
  "quote_n": 92,
  "digest": [
-  {
-   "t": 1791945098.0,
-   "h": "🇷🇺❌🇺🇦 — اصابت‌ها در پست برق ۳۳۰ کیلوولتی نوووکییووسکا. این موارد ممکن است رهگیرهای پدافند هوایی اصلاح‌شده RM-48U باشند."
-  },
   {
    "t": 1791945181.0,
    "h": "🔄 به‌روزرسانی 🇷🇺❌🇺🇦 — اصابت موشک‌های اونیکس-ام در پست برق ۳۳۰ کیلوولتی نوووکییووسکا."
@@ -1601,6 +1597,10 @@
   {
    "t": 1792005485.0,
    "h": "🇺🇸⚡️ — به گزارش نیویورک تایمز، ایالات متحده در حال اعزام چندین صد سرباز ارتش به آمریکای لاتین است، در حالی که دولت ترامپ کارزار نظامی خود را علیه سازم"
+  },
+  {
+   "t": 1792005748.0,
+   "h": "🔄 به‌روزرسانی 💢با افزایش ۱۰۰ درصدی تعرفه‌ها، قیمت هر گیگ اینترنت به ۲۵ هزار تومن میرسه!"
   }
  ],
  "risk": {
