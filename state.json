@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107914
+   "last_id": 107915
   },
   "khabarfouri": {
    "last_id": 569465
   },
   "KH_B2": {
-   "last_id": 131589
+   "last_id": 131590
   },
   "TelNews_Magazine": {
    "last_id": 101075
@@ -263,11 +263,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791918519.0,
-   "n": "خوش چشم دفاع مهم نیست فقط حمله مهمه",
-   "fa": "💢خوش چشم: دفاع مهم نیست فقط حمله مهمه!"
-  },
   {
    "t": 1791918684.0,
    "n": "توقف پروازها در فرودگاه بین المللی ملک فهد در الدمام عربستان",
@@ -562,14 +557,19 @@
    "t": 1791940123.0,
    "n": "iran has adopted new tactics for attacking vessels in the strait of hormuz in an effort to keep global oil prices elevated and influence the upcoming u s midterm elections two senior iranian officials told reuters the officials said the strategy approved at the highest levels of iran s leadership began roughly 10 days ago and involves changes to both the frequency and methods of attacks against sh",
    "fa": "🇮🇷🇺🇸⚡️ — دو مقام ارشد ایرانی به رویترز گفتند که ایران تاکتیک‌های جدیدی را برای حمله به شناورها در تنگه هرمز اتخاذ کرده است تا قیمت جهانی نفت را بالا نگه دارد و بر انتخابات میان‌دوره‌ای پیشروی ایالات متحده تأثیر بگذارد. این مقامات گفتند این استراتژی که در بالاترین سطوح رهبری ایران به تصویب رسیده، حدود ۱۰ روز پیش آغاز شده و شامل تغییراتی در فراوانی و روش‌های حمله به کشتی‌هایی است که تهران آن‌ها را ن"
+  },
+  {
+   "t": 1791940254.0,
+   "n": "a u s military official told reuters that iran s irgc has begun using unarmed spotters aboard small boats to identify potential targets including american warships after u s strikes destroyed much of iran s radar infrastructure in one incident last week u s forces intercepted and destroyed a dhow being used to relay targeting information to the irgc no casualties were reported",
+   "fa": "🇮🇷🇺🇸⚡️ — یک مقام نظامی ایالات متحده به رویترز گفت که سپاه پاسداران ایران پس از آنکه حملات ایالات متحده بخش عمده‌ای از زیرساخت‌های راداری ایران را نابود کرد، استفاده از دیده‌بانان غیرمسلح را بر روی قایق‌های کوچک برای شناسایی اهداف بالقوه، از جمله ناوهای جنگی آمریکایی، آغاز کرده است. در یکی از حوادث در هفته گذشته، نیروهای آمریکایی یک لنج را که برای انتقال اطلاعات هدف‌گیری به سپاه پاسداران استفاده می"
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 9
+  "requests": 10
  },
  "flip": 42,
- "quote_n": 14,
+ "quote_n": 15,
  "digest": [
   {
    "t": 1791924991.0,
@@ -694,6 +694,10 @@
   {
    "t": 1791940123.0,
    "h": "🇮🇷🇺🇸⚡️ — دو مقام ارشد ایرانی به رویترز گفتند که ایران تاکتیک‌های جدیدی را برای حمله به شناورها در تنگه هرمز اتخاذ کرده است تا قیمت جهانی نفت را بالا ن"
+  },
+  {
+   "t": 1791940254.0,
+   "h": "🇮🇷🇺🇸⚡️ — یک مقام نظامی ایالات متحده به رویترز گفت که سپاه پاسداران ایران پس از آنکه حملات ایالات متحده بخش عمده‌ای از زیرساخت‌های راداری ایران را نابو"
   }
  ],
  "risk": {
