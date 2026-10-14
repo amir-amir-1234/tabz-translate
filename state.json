@@ -4,16 +4,16 @@
    "last_id": 107978
   },
   "khabarfouri": {
-   "last_id": 569581
+   "last_id": 569582
   },
   "KH_B2": {
-   "last_id": 131641
+   "last_id": 131643
   },
   "TelNews_Magazine": {
    "last_id": 101112
   },
   "NE_WG": {
-   "last_id": 114446
+   "last_id": 114449
   }
  },
  "fails": {},
@@ -280,11 +280,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791979684.0,
-   "n": "nato secretary general mark rutte here s the main thing we are stronger russia is not in a good place hybrid attacks and whatever it is are a sign of weakness what they would love us to do is to talk about it the whole day and to be rattled and to have press conferences on it we re not going to do that we will react where we need to react again not always visibly",
-   "fa": "🪖🇷🇺⚡️ — مارک روته، دبیرکل ناتو: نکته اصلی این است: ما قوی‌تر هستیم. روسیه در جایگاه خوبی قرار ندارد. حملات هیبریدی و هر شکل دیگری از آن، نشانه ضعف است. کاری که آن‌ها دوست دارند ما انجام دهیم این است که تمام روز درباره آن صحبت کنیم، دچار وحشت شویم و کنفرانس‌های مطبوعاتی درباره آن برگزار کنیم. ما این کار را نخواهیم کرد. ما در جاهایی که لازم باشد واکنش نشان خواهیم داد، بار دیگر می‌گویم، نه همیشه به ش"
-  },
   {
    "t": 1791979736.0,
    "n": "reporter is russia foolish enough to consider attacking any nato country nato s rutte we don t think so and we see no imminent threat against nato territory and if we were to see a buildup we would react to it",
@@ -579,13 +574,18 @@
    "t": 1791988754.0,
    "n": "african nations on knife s edge as us embassy warns americans of long range attacks the entire horn of africa region is said to be on a knife s edge as explosions reportedly claimed to be caused by drones hit ethiopia s capital city in early october the u s embassy in addis ababa warned u s citizens of the danger of long range attacks analysts say there s a high probability that ethiopia and eritr",
    "fa": "🔴 هشدار سفارت آمریکا در اتیوپی درباره حملات دوربرد و احتمال وقوع جنگ جدید در شاخ آفریقا به گزارش فاکس نیوز منطقه شاخ آفریقا در وضعیت بسیار حساسی قرار گرفته است. همزمان با وقوع انفجارهایی در اوایل ماه اکتبر در پایتخت اتیوپی که گفته می شود ناشی از پهپاد بوده است، سفارت ایالات متحده آمریکا در آدیس آبابا به شهروندان آمریکایی درباره خطر حملات دوربرد هشدار داد. تحلیلگران می گویند احتمال بالایی وجود دارد"
+  },
+  {
+   "t": 1791989221.0,
+   "n": "ظریف وزیر امور خارجه اسبق با وجود خسارت های سنگینی که به بدنه سیاست خارجی وارد کرده همچنان به سم پراکنی و آلوده کردن فضای دیپلماسی ادامه می دهد شباهت های میان عراقچی و ظریف گاه چنان آشکار می شود که نمی توان نادیده گرفت هر دو از یک آخور تغذیه می کنند خط مشی ای که هر دو دنبال کرده اند و می کنند خط مشی بن بستی است که امروز شاهد نتایج تلخ آن هستیم ظریف دم خور جان کری بود و عراقچی رفیق گرمابه و گلستان ",
+   "fa": "⭕️ ظریف، وزیر امور خارجهٔ اسبق، با وجود خسارت‌های سنگینی که به بدنهٔ سیاست خارجی وارد کرده، همچنان به سم‌پراکنی و آلوده‌کردن فضای دیپلماسی ادامه می‌دهد؛ شباهت‌های میان عراقچی و ظریف گاه چنان آشکار می‌شود که نمی‌توان نادیده گرفت: هر دو از یک آخور تغذیه می‌کنند. خط‌مشی‌ای که هر دو دنبال کرده‌اند و می‌کنند، خط‌مشی بن‌بستی است که امروز شاهد نتایج تلخ آن هستیم. ظریف دم‌خور جان کری بود و عراقچی رفیق گرم"
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 196
+  "requests": 197
  },
- "flip": 173,
+ "flip": 174,
  "quote_n": 63,
  "digest": [
   {
@@ -1407,6 +1407,10 @@
   {
    "t": 1791988754.0,
    "h": "🔴 هشدار سفارت آمریکا در اتیوپی درباره حملات دوربرد و احتمال وقوع جنگ جدید در شاخ آفریقا به گزارش فاکس نیوز منطقه شاخ آفریقا در وضعیت بسیار حساسی قرار "
+  },
+  {
+   "t": 1791989221.0,
+   "h": "⭕️ ظریف، وزیر امور خارجهٔ اسبق، با وجود خسارت‌های سنگینی که به بدنهٔ سیاست خارجی وارد کرده، همچنان به سم‌پراکنی و آلوده‌کردن فضای دیپلماسی ادامه می‌ده"
   }
  ],
  "risk": {
