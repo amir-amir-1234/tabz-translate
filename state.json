@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108037
+   "last_id": 108038
   },
   "khabarfouri": {
    "last_id": 569647
@@ -292,11 +292,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791998281.0,
-   "n": "کرباسچی زدن سه نفتکش بعد از توافق نامه اسلام آباد بهانه آمریکا برای از نقض تفاهمنامه بود همه دنیا تعجب کردند که آمریکا چگونه زیر بار این تفاهنامه رفته است اما پزشکیان گفته من نمیدانم چه کسی کشتی ها را زده هنوز هم رسمی ندیده ایم نهادی گردن بگیرد اگر این سه کشتی زده نمی شد ایران دست برتر را داشت",
-   "fa": "🔄 به‌روزرسانی 💢کرباسچی: زدن سه نفتکش بعد از توافق نامه اسلام آباد بهانه آمریکا برای از نقض تفاهمنامه بود همه دنیا تعجب کردند که آمریکا چگونه زیر بار این تفاهنامه رفته است اما پزشکیان گفته من نمیدانم چه کسی کشتی‌ها را زده. هنوز هم رسمی ندیده‌ایم نهادی گردن بگیرد. اگر این سه کشتی زده نمی‌شد ایران دست برتر را داشت."
-  },
   {
    "t": 1791998639.0,
    "n": "ansarallah announces over the past 24 hours saudi forces conducted 42 airstrikes and missile strikes against ansarallah controlled sana a lahij ma rib and amran governorates and ansarallah controlled mayyun island on the bab el mandeb strait f 15 and typhoon fighter jets took off from king khalid ab and king fahd ab while missiles were launched from najran province southwestern ksa ansarallah also",
@@ -591,19 +586,20 @@
    "t": 1792010345.0,
    "n": "u s intelligence officials warned ukraine on monday that washington would immediately suspend intelligence sharing if ukrainian forces carried out further strikes against russian energy infrastructure according to wapo the warning was delivered to the ukrainian embassy in washington and communicated widely among ukrainian officials the warnings were so widespread that anyone with a ukrainian sound",
    "fa": "🇺🇸🇺🇦🇷🇺⚡️ — به گزارش واشنگتن پست، مقام‌های اطلاعاتی ایالات متحده روز دوشنبه به اوکراین هشدار دادند که اگر نیروهای اوکراینی به حملات خود علیه زیرساخت‌های انرژی روسیه ادامه دهند، واشنگتن تبادل اطلاعاتی را بلافاصله به حالت تعلیق درخواهد آورد. این هشدار به سفارت اوکراین در واشنگتن ابلاغ شد و به‌طور گسترده میان مقام‌های اوکراینی انتشار یافت. یک فرد مطلع در این زمینه گفت: «هشدارها چنان فراگیر بود که هرکس"
+  },
+  {
+   "t": 1792010393.0,
+   "n": "israeli airstrikes were carried out on al mansouri southern lebanon a few moments ago",
+   "fa": "🇮🇱❌🇱🇧 — لحظاتی پیش حملات هوایی اسرائیل به منطقه المنصوری در جنوب لبنان انجام شد."
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 281
+  "requests": 283
  },
  "flip": 252,
  "quote_n": 94,
  "digest": [
-  {
-   "t": 1791955319.0,
-   "h": "📊 شامخ خودرو همچنان زیر مرز ۵۰؛ صنعت خودروسازی در محدوده رکود باقی ماند دنیای اقتصاد نوشت: بررسی شاخص مدیران خرید (شامخ) صنعت خودرو در شهریورماه ۱۴۰۵ "
-  },
   {
    "t": 1791956263.0,
    "h": "🔴 صنایعی که اقلام غذایی، دارویی و بهداشتی تولید می‌کنند، شامل محدودیت گاز در زمستان نمی‌شوند سخنگوی وزارت صمت: نیاز بخش صنعت به گاز ۲۴۰ میلیون متر مکع"
@@ -1603,13 +1599,17 @@
   {
    "t": 1792010345.0,
    "h": "🇺🇸🇺🇦🇷🇺⚡️ — به گزارش واشنگتن پست، مقام‌های اطلاعاتی ایالات متحده روز دوشنبه به اوکراین هشدار دادند که اگر نیروهای اوکراینی به حملات خود علیه زیرساخت‌ها"
+  },
+  {
+   "t": 1792010393.0,
+   "h": "🇮🇱❌🇱🇧 — لحظاتی پیش حملات هوایی اسرائیل به منطقه المنصوری در جنوب لبنان انجام شد."
   }
  ],
  "risk": {
-  "base": 93,
-  "ts": 1792008712.3938963,
+  "base": 94,
+  "ts": 1792010787.465577,
   "attack": false,
-  "reason": "تنش‌ها و هشدارها در سطح بالا باقی مانده اما حمله مستقیم جدیدی رخ نداده است."
+  "reason": "افزایش تنش‌ها، گزارش رسانه‌های خارجی از آمادگی نظامی و فضای جنگی در تهران احتمال درگیری مستقیم را بالا نگه داشته است."
  },
- "risk_try": 1792008712.3938963
+ "risk_try": 1792010787.465577
 }
