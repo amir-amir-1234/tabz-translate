@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107980
+   "last_id": 107981
   },
   "khabarfouri": {
-   "last_id": 569588
+   "last_id": 569590
   },
   "KH_B2": {
-   "last_id": 131648
+   "last_id": 131649
   },
   "TelNews_Magazine": {
    "last_id": 101115
   },
   "NE_WG": {
-   "last_id": 114452
+   "last_id": 114453
   }
  },
  "fails": {},
@@ -280,11 +280,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791980254.0,
-   "n": "israeli prime minister netanyahu there is almost no country in the middle east that does not ask us for help and i will surprise you there is almost no western country that does not ask us for help",
-   "fa": "🇮🇱⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: تقریباً هیچ کشوری در خاورمیانه وجود ندارد که از ما درخواست کمک نکند. و من شما را شگفت‌زده خواهم کرد: تقریباً هیچ کشور غربی وجود ندارد که از ما درخواست کمک نکند."
-  },
   {
    "t": 1791980313.0,
    "n": "israeli prime minister netanyahu all those who have the audacity to walk out of the hall when i speak at the un or who condemn us afterward come and say wait don t take that into account but can we get arrow can we get this can we get that and you know what i tell them behave differently and you will receive plenty give and you will receive keep giving us these insults and you will receive nothing",
@@ -579,13 +574,18 @@
    "t": 1791991761.0,
    "n": "مطهرنیا هنوز جنگ اصلی شروع نشده جنگ های ۱۲ روزه و ۴۰ روزه بیشتر فشار دیپلماتیک بودن حماس و حزب الله که بازوهای ایران بودن قطع شدن سوریه که ستون فقرات بود شکست یمن هم در حال از دست رفتنه حشدالشعبی قلب این ساختار بود و حالا اسلحه رو گذاشتن روی مغز ایران یا تسلیم می شی یا می کشیمت اگه جمهوری اسلامی سقوط می کرد دیگه کسی نبود تنگه رو ببنده و آمریکا هم به این بهونه می تونست کنترل تنگه رو به دست بگیره هن",
    "fa": "💢مطهرنیا: هنوز جنگ اصلی شروع نشده؛ جنگ‌های ۱۲ روزه و ۴۰ روزه بیشتر فشار دیپلماتیک بودن. حماس و حزب‌الله که بازوهای ایران بودن، قطع شدن؛ سوریه که ستون فقرات بود، شکست؛ یمن هم در حال از دست رفتنه. حشدالشعبی قلب این ساختار بود و حالا اسلحه رو گذاشتن روی مغز ایران؛ یا تسلیم می‌شی یا می‌کشیمت! اگه جمهوری اسلامی سقوط می‌کرد، دیگه کسی نبود تنگه رو ببنده و آمریکا هم به این بهونه می‌تونست کنترل تنگه رو به "
+  },
+  {
+   "t": 1791991886.0,
+   "n": "ukrainian president zelensky met with king charles iii in britain",
+   "fa": "🇺🇦🇬🇧⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در بریتانیا با پادشاه چارلز سوم دیدار کرد."
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 204
+  "requests": 205
  },
- "flip": 179,
+ "flip": 180,
  "quote_n": 66,
  "digest": [
   {
@@ -1443,6 +1443,10 @@
   {
    "t": 1791991761.0,
    "h": "💢مطهرنیا: هنوز جنگ اصلی شروع نشده؛ جنگ‌های ۱۲ روزه و ۴۰ روزه بیشتر فشار دیپلماتیک بودن. حماس و حزب‌الله که بازوهای ایران بودن، قطع شدن؛ سوریه که ستون "
+  },
+  {
+   "t": 1791991886.0,
+   "h": "🇺🇦🇬🇧⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در بریتانیا با پادشاه چارلز سوم دیدار کرد."
   }
  ],
  "risk": {
