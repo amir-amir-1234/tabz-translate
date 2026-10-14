@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108065
+   "last_id": 108066
   },
   "khabarfouri": {
    "last_id": 569648
@@ -296,11 +296,6 @@
  },
  "recent": [
   {
-   "t": 1792004481.0,
-   "n": "piers morgan you have no intention of resigning zelensky of course not this is my responsibility",
-   "fa": "🇺🇸🇺🇦⚡️ — پیرز مورگان: شما هیچ تصمیمی برای استعفا ندارید؟ زلنسکی: البته که نه. این مسئولیت من است."
-  },
-  {
    "t": 1792004545.0,
    "n": "ukrainian president zelensky what was really strange and what was not like between partners they switched off starlink absolutely crazy steps",
    "fa": "🇺🇦🇺🇸⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: آنچه واقعاً عجیب بود و شبیه شرکا نبود، این بود که آن‌ها استارلینک را قطع کردند. قدم‌های کاملاً دیوانه‌وار."
@@ -594,13 +589,18 @@
    "t": 1792020366.0,
    "n": "egyptian president el sisi the national security of the gulf countries is part of egypt s national security",
    "fa": "🇪🇬🇸🇦⚡️ — عبدالفتاح السیسی، رئیس‌جمهور مصر: امنیت ملی کشورهای حوزه خلیج فارس بخشی از امنیت ملی مصر است."
+  },
+  {
+   "t": 1792021622.0,
+   "n": "the trump administration is investigating democratic rep ilhan omar in an effort to potentially revoke her u s citizenship and deport her according to wsj investigators are examining allegations that omar or her late father misrepresented her age during the citizenship process allowing her to qualify automatically through her father federal agents searched her washington d c home on monday seizing",
+   "fa": "🇺🇸⚡️ — به گزارش وال استریت ژورنال، دولت ترامپ در حال تحقیق درباره ایلهان عمر، نماینده دموکرات، با هدف احتمال لغو شهروندی ایالات متحده و اخراج او است. بازرسان در حال بررسی اتهاماتی هستند که بر اساس آن ادعا می‌شود ایلهان عمر یا پدر مرحومش سن او را در طول فرآیند اخذ شهروندی تحریف کرده‌اند که به او اجازه داده به طور خودکار از طریق پدرش واجد شرایط شود. مأموران فدرال روز دوشنبه خانه او را در واشنگتن دی‌"
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 316
+  "requests": 317
  },
- "flip": 274,
+ "flip": 275,
  "quote_n": 100,
  "digest": [
   {
@@ -1602,6 +1602,10 @@
   {
    "t": 1792020366.0,
    "h": "🇪🇬🇸🇦⚡️ — عبدالفتاح السیسی، رئیس‌جمهور مصر: امنیت ملی کشورهای حوزه خلیج فارس بخشی از امنیت ملی مصر است."
+  },
+  {
+   "t": 1792021622.0,
+   "h": "🇺🇸⚡️ — به گزارش وال استریت ژورنال، دولت ترامپ در حال تحقیق درباره ایلهان عمر، نماینده دموکرات، با هدف احتمال لغو شهروندی ایالات متحده و اخراج او است. "
   }
  ],
  "risk": {
