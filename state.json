@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108056
+   "last_id": 108057
   },
   "khabarfouri": {
    "last_id": 569648
@@ -296,11 +296,6 @@
  },
  "recent": [
   {
-   "t": 1792003017.0,
-   "n": "ترامپ این پست رو دوباره بازنشر کرد رژیم ایران به زودی میفهمه که نباید قدرت آمریکا رو به چالش میکشید همچنین در انتهای ویدیو صحبت های خودش در ۹ اسفندماه رو مجددا بازنشر کرده و با نشون دادن اعتراضات مردم ایران گفته ساعت آزادی شما نزدیکه بعد از اینکه کار ما تموم شد حکومتتون رو به دست بگیرید حکومت مال شماست",
-   "fa": "🇮🇷🇺🇸📲ترامپ این پست رو دوباره بازنشر کرد: رژیم ایران به زودی میفهمه که نباید قدرت آمریکا رو به چالش میکشید. همچنین در انتهای ویدیو صحبت های خودش در ۹ اسفندماه رو مجددا بازنشر کرده و با نشون دادن اعتراضات مردم ایران گفته ساعت آزادی شما نزدیکه، بعد از اینکه کار ما تموم شد حکومتتون رو به دست بگیرید، حکومت مال شماست."
-  },
-  {
    "t": 1792003140.0,
    "n": "with china facing more trade barriers it can t afford to lose europe beijing s concession on hybrid vehicles shows how much it needs the european market",
    "fa": "🔴 چین به دلیل موانع تجاری فزاینده تمایلی به از دست دادن بازار اروپا ندارد به گزارش وال‌استریت ژورنال در حالی که چین با موانع تجاری بیشتری روبه‌رو است، نمی‌تواند از دست دادن اروپا را متحمل شود. امتیاز پکن در مورد خودروهای هیبریدی نشان می‌دهد که این کشور تا چه حد به بازار اروپا نیاز دارد."
@@ -594,13 +589,18 @@
    "t": 1792018006.0,
    "n": "north korea announced that it tested two types of submarine launched strategic cruise missiles on wednesday to assess its navy s operational capabilities and the reliability of its military deterrent senior military officers observed the launches in waters off north korea s eastern coast",
    "fa": "🇰🇵⚡️ — کره شمالی اعلام کرد روز چهارشنبه دو نوع موشک کروز راهبردی زیردریایی‌پرتاب را با هدف ارزیابی توانایی‌های عملیاتی نیروی دریایی و قابلیت اطمینان بازدارنده نظامی خود آزمایش کرده است. مقامات ارشد نظامی شاهد انجام این پرتاب‌ها در آب‌های ساحل شرقی کره شمالی بودند."
+  },
+  {
+   "t": 1792018957.0,
+   "n": "egyptian president el sisi what has been happening has intensified considerably over the past five or six months or over the past year amid the broader situation in our region and the pressures being exerted they may believe they can blow up the situation in egypt i swear to god i am not trying to scare you but this time you will not recover again i swear to god",
+   "fa": "🇪🇬⚡️ — عبدالفتاح السیسی، رئیس‌جمهور مصر: آنچه رخ داده در پنج، شش ماه گذشته یا در طول سال گذشته، در سایه وضعیت کلی منطقه و فشارهای اعمال‌شده به‌طور قابل‌توجهی شدت یافته است. آن‌ها ممکن است باور کنند که می‌توانند اوضاع را در مصر منفجر کنند. به خدا قسم، من سعی نمی‌کنم شما را بترسانم، اما این بار دیگر هرگز بهبود نخواهید یافت. به خدا قسم."
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 309
+  "requests": 310
  },
- "flip": 267,
+ "flip": 268,
  "quote_n": 99,
  "digest": [
   {
@@ -1602,6 +1602,10 @@
   {
    "t": 1792018006.0,
    "h": "🇰🇵⚡️ — کره شمالی اعلام کرد روز چهارشنبه دو نوع موشک کروز راهبردی زیردریایی‌پرتاب را با هدف ارزیابی توانایی‌های عملیاتی نیروی دریایی و قابلیت اطمینان ب"
+  },
+  {
+   "t": 1792018957.0,
+   "h": "🇪🇬⚡️ — عبدالفتاح السیسی، رئیس‌جمهور مصر: آنچه رخ داده در پنج، شش ماه گذشته یا در طول سال گذشته، در سایه وضعیت کلی منطقه و فشارهای اعمال‌شده به‌طور قاب"
   }
  ],
  "risk": {
