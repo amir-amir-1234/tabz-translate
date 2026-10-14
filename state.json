@@ -7,13 +7,13 @@
    "last_id": 569642
   },
   "KH_B2": {
-   "last_id": 131672
+   "last_id": 131673
   },
   "TelNews_Magazine": {
    "last_id": 101137
   },
   "NE_WG": {
-   "last_id": 114484
+   "last_id": 114486
   }
  },
  "fails": {},
@@ -64,7 +64,8 @@
     "https://www.foxnews.com/world/pope-leo-diagnosed-lung-cancer-after-surgeons-remove-part-of-right-lung-vatican",
     "https://www.foxnews.com/world/greta-thunberg-joins-massive-french-student-protests-cars-burn-police-fire-tear-gas",
     "https://www.foxnews.com/world/african-nations-knifes-edge-us-embassy-warns-americans-long-range-attacks",
-    "https://www.foxnews.com/world/pope-leo-undergoes-blood-tests-x-ray-following-cancer-surgery-vatican-says"
+    "https://www.foxnews.com/world/pope-leo-undergoes-blood-tests-x-ray-following-cancer-surgery-vatican-says",
+    "https://www.foxnews.com/world/cartels-use-drones-scout-border-agents-map-smuggling-routes-expert-warns"
    ]
   },
   "WSJ": {
@@ -593,15 +594,11 @@
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 269
+  "requests": 270
  },
  "flip": 247,
  "quote_n": 94,
  "digest": [
-  {
-   "t": 1791948851.0,
-   "h": "⭕️ یکی از سردترین شهرهای جهان در روسیه به استقبال زمستان رفت در نوریلسک شمالی در روسیه، زمستان فرا رسیده و خیابان‌ها زیر برف مدفون شده‌اند. این شهر در"
-  },
   {
    "t": 1791949083.0,
    "h": "🇺🇸🇹🇼⚡️ — رئیس‌جمهور ترامپ گفت تایوان موافقت کرده است که ۳۰ درصد از گاز خط لوله ال‌ان‌جی در آلاسکا را برای ۲۰ سال آینده خریداری کند. تایوان به تازگی مو"
