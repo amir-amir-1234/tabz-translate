@@ -1,10 +1,10 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107982
+   "last_id": 107984
   },
   "khabarfouri": {
-   "last_id": 569591
+   "last_id": 569592
   },
   "KH_B2": {
    "last_id": 131650
@@ -280,16 +280,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791980383.0,
-   "n": "reporter maybe we could establish a palestinian state in uganda it could be a solution to all these problems netanyahu your proposal will be given serious consideration",
-   "fa": "🇮🇱🇵🇸🇺🇬⚡️ — خبرنگار: شاید بتوانیم یک کشور فلسطینی در اوگاندا تأسیس کنیم. این می‌تواند راه حلی برای تمام این مشکلات باشد. نتانیاهو: پیشنهاد شما به طور جدی بررسی خواهد شد."
-  },
-  {
-   "t": 1791980661.0,
-   "n": "israeli prime minister netanyahu do you know what happened in britain which has undergone islamization three thousand people in britain have been arrested and prosecuted over posts on social media only on one side of course only on the right",
-   "fa": "🇮🇱🇬🇧⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: آیا می‌دانید در بریتانیایی که دچار اسلامی‌سازی شده چه اتفاقی افتاده است؟ سه هزار نفر در بریتانیا به خاطر پست‌هایشان در رسانه‌های اجتماعی دستگیر و محاکمه شده‌اند. البته فقط در یک طرف. فقط در جناح راست."
-  },
   {
    "t": 1791980700.0,
    "n": "nord stream trial tests germany s alliance with ukraine a ukrainian officer is on trial for war crimes related to blowing up the pipelines testing the limits of wartime sabotage and germany s alliance with kyiv",
@@ -579,13 +569,23 @@
    "t": 1791992791.0,
    "n": "israel s president isaac herzog met with azerbaijan s president ilham aliyev in baku",
    "fa": "🇮🇱🇦🇿⚡️ — اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، در باکو با الهام علی‌اف، رئیس‌جمهور آذربایجان دیدار کرد."
+  },
+  {
+   "t": 1791993263.0,
+   "n": "fbi director kash patel has arrived in russia for meetings with russian officials with the visit expected to be hosted by the country s federal security service fsb ms now reports",
+   "fa": "🇺🇸🇷🇺⚡️ — به گزارش ام‌اس ناو، کش پاتل، رئیس اف‌بی‌آی، برای دیدار با مقامات روسی وارد روسیه شده است و انتظار می‌میزبانی این سفر را سرویس امنیت فدرال روسیه (اف‌اس‌بی) بر عهده داشته باشد."
+  },
+  {
+   "t": 1791993286.0,
+   "n": "نشان طلای بورس های اروپایی آسیایی به کارگزاری مفید تعلق گرفت کارگزاری مفید در تازه ترین ارزیابی نهادهای مالی عضو فدراسیون بورس های اروپایی و آسیایی feas در سال ۲۰۲۶ توانست با پشت سر گذاشتن رقبایی از ۳۲ کشور جهان برای هفتمین سال متوالی نشان طلای بخش بازارهای سهام را کسب کند مفید طی مراسمی که در جریان مجمع عمومی feas در شهر مسقط عمان و با حضور نمایندگان بورس ها تشکل های معاملاتی و نهادهای مالی عضو ب",
+   "fa": "⭕️ نشان طلای بورس‌های اروپایی-آسیایی به کارگزاری مفید تعلق گرفت کارگزاری مفید در تازه‌ترین ارزیابی نهادهای مالی عضو فدراسیون بورس‌های اروپایی و آسیایی (FEAS) در سال ۲۰۲۶، توانست با پشت سر گذاشتن رقبایی از ۳۲ کشور جهان برای هفتمین سال متوالی نشان طلای بخش بازارهای سهام را کسب کند. مفید طی مراسمی که در جریان مجمع عمومی FEAS در شهر مسقط عمان و با حضور نمایندگان بورس‌ها، تشکل‌های معاملاتی و نهادهای ما"
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 208
+  "requests": 209
  },
- "flip": 182,
+ "flip": 184,
  "quote_n": 67,
  "digest": [
   {
@@ -1455,6 +1455,14 @@
   {
    "t": 1791992791.0,
    "h": "🇮🇱🇦🇿⚡️ — اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، در باکو با الهام علی‌اف، رئیس‌جمهور آذربایجان دیدار کرد."
+  },
+  {
+   "t": 1791993263.0,
+   "h": "🇺🇸🇷🇺⚡️ — به گزارش ام‌اس ناو، کش پاتل، رئیس اف‌بی‌آی، برای دیدار با مقامات روسی وارد روسیه شده است و انتظار می‌میزبانی این سفر را سرویس امنیت فدرال روس"
+  },
+  {
+   "t": 1791993286.0,
+   "h": "⭕️ نشان طلای بورس‌های اروپایی-آسیایی به کارگزاری مفید تعلق گرفت کارگزاری مفید در تازه‌ترین ارزیابی نهادهای مالی عضو فدراسیون بورس‌های اروپایی و آسیایی"
   }
  ],
  "risk": {
