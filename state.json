@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107969
+   "last_id": 107970
   },
   "khabarfouri": {
    "last_id": 569580
@@ -17,7 +17,7 @@
   }
  },
  "fails": {
-  "web:OFAC/597177567": 1
+  "web:OFAC/597177567": 2
  },
  "web": {
   "Fox News": {
@@ -279,11 +279,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791976177.0,
-   "n": "هم اکنون قیمت طلا و سکه طلا همچنان در مسیر صعود",
-   "fa": "⭕️ هم‌اکنون/ قیمت طلا و سکه طلا همچنان در مسیر صعود"
-  },
   {
    "t": 1791977179.0,
    "n": "ریابکوف دور جدید رایزنی های روسیه و آمریکا به زودی برگزار می شود معاون وزیر امور خارجه روسیه در پایان نشست شورای امنیت این کشور در جمع خبرنگاران اعلام کرد که دور جدید رایزنی های فدراسیون روسیه و ایالات متحده با هدف رفع عوامل تنش زا در روابط دوجانبه ممکن است تا پایان سال ۲۰۲۶ برگزار شود",
@@ -578,13 +573,18 @@
    "t": 1791986926.0,
    "n": "nato secretary general mark rutte don t forget for the defense of the united states nato is also crucial we defend the united states from these russian nuclear submarines ending up at the shores of the united states we make sure that the transatlantic is safe the euro atlantic area is safe that the high north is safe that europe is safe all in the interest of the united states",
    "fa": "🪖🇺🇸🇷🇺⚡️ — مارک روته، دبیرکل ناتو: فراموش نکنید که برای دفاع از ایالات متحده نیز ناتو بسیار حیاتی است. ما ایالات متحده را از این زیردریایی‌های اتمی روسیه که به سواحل ایالات متحده می‌رسند، دفاع می‌کنیم. ما مطمئن می‌شویم که اقیانوس اطلس شمالی، منطقه یورو-آتلانتیک، شمال دور و اروپا امن هستند، که همه این‌ها به نفع ایالات متحده است."
+  },
+  {
+   "t": 1791987139.0,
+   "n": "u s central command the highly successful u s blockade against iran has been in place for months and professionally communicated the only country attacking civilian mariners transiting regional waters is iran despite these unjustified attacks commercial traffic continues to flow through the strait of hormuz with coordinated protection from u s forces and regional partners",
+   "fa": "🇺🇸🇮🇷⚡️ — فرماندهی مرکزی ایالات متحده (سنتکام): مشارکت و محاصره بسیار موفقیت‌آمیز ایالات متحده علیه ایران ماه‌هاست که اجرا شده و به طور حرفه‌ای اطلاع‌رسانی شده است. تنها کشوری که دریانوردان غیرنظامی در حال عبور از آب‌های منطقه‌ای را مورد حمله قرار می‌دهد، ایران است. با وجود این حملات غیرموجه، ترافیک تجاری با محافظت هماهنگ نیروهای ایالات متحده و شرکای منطقه‌ای همچنان از طریق تنگه هرمز جریان دارد."
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 171
+  "requests": 176
  },
- "flip": 164,
+ "flip": 165,
  "quote_n": 61,
  "digest": [
   {
@@ -1362,6 +1362,10 @@
   {
    "t": 1791986926.0,
    "h": "🪖🇺🇸🇷🇺⚡️ — مارک روته، دبیرکل ناتو: فراموش نکنید که برای دفاع از ایالات متحده نیز ناتو بسیار حیاتی است. ما ایالات متحده را از این زیردریایی‌های اتمی روس"
+  },
+  {
+   "t": 1791987139.0,
+   "h": "🇺🇸🇮🇷⚡️ — فرماندهی مرکزی ایالات متحده (سنتکام): مشارکت و محاصره بسیار موفقیت‌آمیز ایالات متحده علیه ایران ماه‌هاست که اجرا شده و به طور حرفه‌ای اطلاع‌ر"
   }
  ],
  "risk": {
