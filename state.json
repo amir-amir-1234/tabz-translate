@@ -17,7 +17,7 @@
   }
  },
  "fails": {
-  "web:OFAC/597177567": 3
+  "web:OFAC/597177567": 4
  },
  "web": {
   "Fox News": {
@@ -583,7 +583,7 @@
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 181
+  "requests": 186
  },
  "flip": 169,
  "quote_n": 62,
