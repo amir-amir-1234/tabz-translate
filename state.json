@@ -1,10 +1,10 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107928
+   "last_id": 107929
   },
   "khabarfouri": {
-   "last_id": 569472
+   "last_id": 569473
   },
   "KH_B2": {
    "last_id": 131594
@@ -264,11 +264,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791922500.0,
-   "n": "u s treasury announces record enforcement actions against bank of america third largest penalty in treasury history largest in occ history washington today the u s department of the treasury announced enforcement actions imposing more than 1 21 billion in penalties against bank of america the bank the second largest bank in the united states for violations of anti money laundering and sanctions la",
-   "fa": "🚨 وزارت خزانه‌داری آمریکا جریمه‌ای ۱.۲۱ میلیارد دلاری را برای بانک آو آمریکا اعلام کرد به گزارش وزارت خزانه‌داری آمریکا، این وزارتخانه اقدامات اجرایی را برای اعمال جریمه‌های بیش از ۱.۲۱ میلیارد دلاری علیه بانک آو آمریکا، دومین بانک بزرگ ایالات متحده، به دلیل تخلفات قوانین ضدپولشویی و تحریم‌ها اعلام کرد. این اقدامات شامل سومین جریمه بزرگ در تاریخ وزارت خزانه‌داری و بزرگ‌ترین جریمه در تاریخ دفتر کنت"
-  },
   {
    "t": 1791922822.0,
    "n": "president trump posted an ai generated video of lions and tigers attacking humans the last two videos in the compilation seem to be the only real footage",
@@ -563,13 +558,18 @@
    "t": 1791948851.0,
    "n": "یکی از سردترین شهرهای جهان در روسیه به استقبال زمستان رفت در نوریلسک شمالی در روسیه زمستان فرا رسیده و خیابان ها زیر برف مدفون شده اند این شهر در شمال سیبری در روسیه و بالای مدار قطب شمال است که به عنوان یکی از سردترین شهرهای جهان شناخته می شود",
    "fa": "⭕️ یکی از سردترین شهرهای جهان در روسیه به استقبال زمستان رفت در نوریلسک شمالی در روسیه، زمستان فرا رسیده و خیابان‌ها زیر برف مدفون شده‌اند. این شهر در شمال سیبری در روسیه و بالای مدار قطب شمال است که به عنوان یکی از سردترین شهرهای جهان شناخته می‌شود."
+  },
+  {
+   "t": 1791949083.0,
+   "n": "president trump said taiwan has agreed to buy 30 of the gas from the lng pipeline in alaska for the next 20 years taiwan has just agreed to buy 30 of the gas coming off the pipeline for the next 20 years that guarantees the success it s one of the biggest commitments in history for anything it s one of the biggest deals ever made",
+   "fa": "🇺🇸🇹🇼⚡️ — رئیس‌جمهور ترامپ گفت تایوان موافقت کرده است که ۳۰ درصد از گاز خط لوله ال‌ان‌جی در آلاسکا را برای ۲۰ سال آینده خریداری کند. تایوان به تازگی موافقت کرده است که ۳۰ درصد از گاز خروجی از این خط لوله را برای ۲۰ سال آینده خریداری کند. این موضوع موفقیت آن را تضمین می‌کند. این یکی از بزرگترین تعهدات در طول تاریخ برای هر چیزی است. این یکی از بزرگترین توافق‌هایی است که تاکنون منعقد شده است."
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 40
+  "requests": 41
  },
- "flip": 56,
+ "flip": 57,
  "quote_n": 22,
  "digest": [
   {
@@ -767,6 +767,10 @@
   {
    "t": 1791948851.0,
    "h": "⭕️ یکی از سردترین شهرهای جهان در روسیه به استقبال زمستان رفت در نوریلسک شمالی در روسیه، زمستان فرا رسیده و خیابان‌ها زیر برف مدفون شده‌اند. این شهر در"
+  },
+  {
+   "t": 1791949083.0,
+   "h": "🇺🇸🇹🇼⚡️ — رئیس‌جمهور ترامپ گفت تایوان موافقت کرده است که ۳۰ درصد از گاز خط لوله ال‌ان‌جی در آلاسکا را برای ۲۰ سال آینده خریداری کند. تایوان به تازگی مو"
   }
  ],
  "risk": {
