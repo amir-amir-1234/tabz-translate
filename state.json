@@ -4,7 +4,7 @@
    "last_id": 107948
   },
   "khabarfouri": {
-   "last_id": 569565
+   "last_id": 569567
   },
   "KH_B2": {
    "last_id": 131630
@@ -13,7 +13,7 @@
    "last_id": 101103
   },
   "NE_WG": {
-   "last_id": 114434
+   "last_id": 114436
   }
  },
  "fails": {},
@@ -274,11 +274,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791968430.0,
-   "n": "how top trump officials stoked fears of a nuke that could fry the power grid for more than a decade conservative activists held that a single atomic bomb could without killing americans directly lay waste to the country a claim that built fervor for war with iran",
-   "fa": "🔴 دامن زدن مقامات ارشد دولت ترامپ به ترس از انفجار هسته‌ای و نابودی شبکه برق به گزارش نیویورک تایمز فعالان محافظه‌کار بیش از یک دهه است که بر این باورند که تنها یک بمب اتمی می‌تواند بدون کشتن مستقیم آمریکایی‌ها، این کشور را ویران کند؛ ادعایی که شور و اشتیاق برای جنگ با ایران را افزایش داد."
-  },
   {
    "t": 1791969000.0,
    "n": "ukraine says new starlink speed limit is disrupting its attacks new speed limits on starlink terminals have disrupted drone attacks over russian occupied ukraine",
@@ -573,14 +568,19 @@
    "t": 1791981119.0,
    "n": "iran s irgc navy says a container ship carrying more than 2 500 containers sank in the southern strait of hormuz after striking a naval mine while attempting to navigate an unauthorized and dangerous route the mine triggered an explosion and a major fire causing the vessel to sink on wednesday morning the irgc navy warned local vessels and fishermen to exercise extreme caution in the area due to s",
    "fa": "🔄 به‌روزرسانی 🇮🇷🇴🇲⚡️ — نیروی دریایی سپاه پاسداران ایران اعلام کرد یک فروند کشتی کانتینربر حاوی بیش از ۲۵۰۰ کانتینر پس از برخورد با یک مین دریایی در جنوب تنگه هرمز در حالی که تلاش می‌کرد از یک مسیر «غیرمجاز و خطرناک» عبور کند، غرق شد. این مین باعث وقوع انفجار و آتش‌سوزی بزرگی شد که منجر به غرق شدن شناور در روز چهارشنبه شد. نیروی دریایی سپاه به شناورها و صیادان محلی هشدار داد به دلیل وجود کانتینرهای"
+  },
+  {
+   "t": 1791981525.0,
+   "n": "به زودی پروازهای عمان به ایران از سر گرفته می شود پروازهای عمان به ایران که در پی تحریم های هوایی آمریکا علیه ایران متوقف شده بود قرار است به زودی از سر گرفته شود جزئیات مربوط به زمان دقیق ازسرگیری پروازها و برنامه پروازی شرکت های هواپیمایی عمانی هنوز اعلام نشده است",
+   "fa": "🔴 به زودی پروازهای عمان به ایران از سر گرفته می‌شود پروازهای عمان به ایران که در پی تحریم‌های هوایی آمریکا علیه ایران متوقف شده بود، قرار است به‌زودی از سر گرفته شود. جزئیات مربوط به زمان دقیق ازسرگیری پروازها و برنامه پروازی شرکت‌های هواپیمایی عمانی هنوز اعلام نشده است."
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 148
+  "requests": 149
  },
- "flip": 142,
- "quote_n": 54,
+ "flip": 143,
+ "quote_n": 55,
  "digest": [
   {
    "t": 1791924991.0,
@@ -1237,6 +1237,10 @@
   {
    "t": 1791981119.0,
    "h": "🔄 به‌روزرسانی 🇮🇷🇴🇲⚡️ — نیروی دریایی سپاه پاسداران ایران اعلام کرد یک فروند کشتی کانتینربر حاوی بیش از ۲۵۰۰ کانتینر پس از برخورد با یک مین دریایی در جن"
+  },
+  {
+   "t": 1791981525.0,
+   "h": "🔴 به زودی پروازهای عمان به ایران از سر گرفته می‌شود پروازهای عمان به ایران که در پی تحریم‌های هوایی آمریکا علیه ایران متوقف شده بود، قرار است به‌زودی "
   }
  ],
  "risk": {
