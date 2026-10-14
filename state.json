@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107976
+   "last_id": 107978
   },
   "khabarfouri": {
    "last_id": 569581
@@ -13,7 +13,7 @@
    "last_id": 101112
   },
   "NE_WG": {
-   "last_id": 114445
+   "last_id": 114446
   }
  },
  "fails": {},
@@ -62,7 +62,8 @@
     "https://www.foxnews.com/world/peace-through-strength-trump-gaza-plan-gains-global-backing-one-year",
     "https://www.foxnews.com/world/pope-leo-surgery-remove-lung-nodule-successful-vatican-says",
     "https://www.foxnews.com/world/pope-leo-diagnosed-lung-cancer-after-surgeons-remove-part-of-right-lung-vatican",
-    "https://www.foxnews.com/world/greta-thunberg-joins-massive-french-student-protests-cars-burn-police-fire-tear-gas"
+    "https://www.foxnews.com/world/greta-thunberg-joins-massive-french-student-protests-cars-burn-police-fire-tear-gas",
+    "https://www.foxnews.com/world/african-nations-knifes-edge-us-embassy-warns-americans-long-range-attacks"
    ]
   },
   "WSJ": {
@@ -279,11 +280,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791979581.0,
-   "n": "ukrainian president zelensky told npr that the trump administration threatened to cut off intelligence sharing unless ukraine stopped striking russian oil refineries he noted that the u s has not cut anything even though the strikes continue",
-   "fa": "🇺🇦🇺🇸🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، به ان‌پی‌آر گفت که دولت ترامپ تهدید کرده است در صورت متوقف نشدن حملات اوکراین به پالایشگاه‌های نفت روسیه، اشتراک‌گذاری اطلاعات محرمانه را قطع خواهد کرد. او خاطرنشان کرد که ایالات متحده با وجود ادامه حملات، هیچ چیزی را قطع نکرده است."
-  },
   {
    "t": 1791979684.0,
    "n": "nato secretary general mark rutte here s the main thing we are stronger russia is not in a good place hybrid attacks and whatever it is are a sign of weakness what they would love us to do is to talk about it the whole day and to be rattled and to have press conferences on it we re not going to do that we will react where we need to react again not always visibly",
@@ -578,13 +574,18 @@
    "t": 1791988831.0,
    "n": "فعالیت هواپیماهای سوخت رسان و ترابری نظامی آمریکا از جمله c 17 در شرق مدیترانه و خاورمیانه طی دو هفته گذشته به شدت افزایش یافته است بر اساس داده های فلایت رادار پروازهای باری نظامی آمریکا ۸۰ و فعالیت هواپیماهای ترابری سنگین ۲۰۰ افزایش یافته است",
    "fa": "🇺🇸❌🇮🇷 فعالیت هواپیماهای سوخت‌رسان و ترابری نظامی آمریکا از جمله C-17 در شرق مدیترانه و خاورمیانه طی دو هفته گذشته به‌شدت افزایش یافته است. 💢بر اساس داده‌های فلایت‌رادار، پروازهای باری نظامی آمریکا ۸۰٪ و فعالیت هواپیماهای ترابری سنگین ۲۰۰٪ افزایش یافته است."
+  },
+  {
+   "t": 1791988754.0,
+   "n": "african nations on knife s edge as us embassy warns americans of long range attacks the entire horn of africa region is said to be on a knife s edge as explosions reportedly claimed to be caused by drones hit ethiopia s capital city in early october the u s embassy in addis ababa warned u s citizens of the danger of long range attacks analysts say there s a high probability that ethiopia and eritr",
+   "fa": "🔴 هشدار سفارت آمریکا در اتیوپی درباره حملات دوربرد و احتمال وقوع جنگ جدید در شاخ آفریقا به گزارش فاکس نیوز منطقه شاخ آفریقا در وضعیت بسیار حساسی قرار گرفته است. همزمان با وقوع انفجارهایی در اوایل ماه اکتبر در پایتخت اتیوپی که گفته می شود ناشی از پهپاد بوده است، سفارت ایالات متحده آمریکا در آدیس آبابا به شهروندان آمریکایی درباره خطر حملات دوربرد هشدار داد. تحلیلگران می گویند احتمال بالایی وجود دارد"
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 194
+  "requests": 196
  },
- "flip": 172,
+ "flip": 173,
  "quote_n": 63,
  "digest": [
   {
@@ -1402,6 +1403,10 @@
   {
    "t": 1791988831.0,
    "h": "🇺🇸❌🇮🇷 فعالیت هواپیماهای سوخت‌رسان و ترابری نظامی آمریکا از جمله C-17 در شرق مدیترانه و خاورمیانه طی دو هفته گذشته به‌شدت افزایش یافته است. 💢بر اساس دا"
+  },
+  {
+   "t": 1791988754.0,
+   "h": "🔴 هشدار سفارت آمریکا در اتیوپی درباره حملات دوربرد و احتمال وقوع جنگ جدید در شاخ آفریقا به گزارش فاکس نیوز منطقه شاخ آفریقا در وضعیت بسیار حساسی قرار "
   }
  ],
  "risk": {
