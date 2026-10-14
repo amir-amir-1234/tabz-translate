@@ -7,13 +7,13 @@
    "last_id": 569569
   },
   "KH_B2": {
-   "last_id": 131632
+   "last_id": 131633
   },
   "TelNews_Magazine": {
-   "last_id": 101106
+   "last_id": 101108
   },
   "NE_WG": {
-   "last_id": 114438
+   "last_id": 114439
   }
  },
  "fails": {},
@@ -236,7 +236,8 @@
     "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
     "https://www.nytimes.com/2026/10/14/science/electromagnetic-pulse-nuke-trump-officials.html",
     "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
-    "https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html"
+    "https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html",
+    "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html"
    ]
   },
   "Treasury": {
@@ -275,11 +276,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791971875.0,
-   "n": "بدر البوسعیدی وزیر خارجه عمان اعلام کرد نهایی شدن توافق با تهران درباره تنگه هرمز به نتایج مذاکرات آمریکا و جمهوری اسلامی ایران بستگی دارد",
-   "fa": "🇴🇲 بدر البوسعیدی، وزیر خارجه عمان، اعلام کرد نهایی شدن توافق با تهران درباره تنگه هرمز به نتایج مذاکرات آمریکا و جمهوری اسلامی ایران بستگی دارد."
-  },
   {
    "t": 1791971935.0,
    "n": "همتی ادعای فروپاشی اقتصاد ایران توهمی بیش نیست",
@@ -574,14 +570,19 @@
    "t": 1791983604.0,
    "n": "ریزش قیمت جهانی طلا ادامه دارد",
    "fa": "📉ریزش قیمت جهانی طلا ادامه دارد"
+  },
+  {
+   "t": 1791983885.0,
+   "n": "turkey raids pro opposition tv station the government appointed its own manager of the last big news channel to be critical of president recep tayyip erdogan the authorities have now replaced leadership at five major news outlets",
+   "fa": "🔴 یورش دولت ترکیه به یک تلویزیون منتقد و انتصاب مدیر دولتی برای آن به گزارش نیویورک تایمز دولت این کشور مدیر خود را برای آخرین شبکه خبری بزرگ که نسبت به رجب طیب اردوغان رئیس‌جمهور انتقاد داشت، منصوب کرد. مقامات اکنون مدیریت پنج رسانه خبری بزرگ را تغییر داده‌اند."
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 156
+  "requests": 158
  },
- "flip": 152,
- "quote_n": 57,
+ "flip": 153,
+ "quote_n": 58,
  "digest": [
   {
    "t": 1791924991.0,
@@ -1298,6 +1299,10 @@
   {
    "t": 1791983604.0,
    "h": "📉ریزش قیمت جهانی طلا ادامه دارد"
+  },
+  {
+   "t": 1791983885.0,
+   "h": "🔴 یورش دولت ترکیه به یک تلویزیون منتقد و انتصاب مدیر دولتی برای آن به گزارش نیویورک تایمز دولت این کشور مدیر خود را برای آخرین شبکه خبری بزرگ که نسبت "
   }
  ],
  "risk": {
