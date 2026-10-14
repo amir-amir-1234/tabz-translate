@@ -49,7 +49,7 @@ UA = {"User-Agent": "Mozilla/5.0 (compatible; PriceBot/1.0)"}
 RLM = "\u200f"
 
 CH_BRENT = "oilpriced"
-CH_OUNCE = "onsaanlain"
+CH_OUNCES = ["XAUUSD_i", "onsaanlain"]        # tried in this order; the first that yields a price wins
 CH_RATES = "Mrgif"
 
 _DIGITS = str.maketrans("۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩", "01234567890123456789")
@@ -200,10 +200,23 @@ def find_rates(fetch=fetch_html):
     return got
 
 
+def find_ounce(fetch=fetch_html):
+    for ch in CH_OUNCES:
+        try:
+            v = find_first(ch, parse_ounce, fetch)
+        except Exception as e:                      # noqa: BLE001
+            log(f"  ounce: {ch} failed ({type(e).__name__}: {e})")
+            continue
+        if v:
+            log(f"  ounce: {v} from {ch}")
+            return v
+    return None
+
+
 def gather(fetch=fetch_html):
     result = {}
     for key, fn in (("brent", lambda: find_first(CH_BRENT, parse_brent, fetch)),
-                    ("ounce", lambda: find_first(CH_OUNCE, parse_ounce, fetch))):
+                    ("ounce", lambda: find_ounce(fetch))):
         try:
             result[key] = fn()
         except Exception as e:                      # noqa: BLE001
