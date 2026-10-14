@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107915
+   "last_id": 107916
   },
   "khabarfouri": {
    "last_id": 569465
   },
   "KH_B2": {
-   "last_id": 131590
+   "last_id": 131591
   },
   "TelNews_Magazine": {
    "last_id": 101075
@@ -263,11 +263,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791918684.0,
-   "n": "توقف پروازها در فرودگاه بین المللی ملک فهد در الدمام عربستان",
-   "fa": "🔄 به‌روزرسانی 🇸🇦🚨توقف پروازها در فرودگاه بین‌المللی ملک فهد در الدمام‌ عربستان"
-  },
   {
    "t": 1791918758.0,
    "n": "u s official to axios on iran the negotiations are not really dead but they re not really alive we re just here piling on the pressure and there s a belief that smarter heads will prevail over there the iranians thought this president would back down because of the pressure and the midterms he has shown them the error of their ways",
@@ -562,13 +557,18 @@
    "t": 1791940254.0,
    "n": "a u s military official told reuters that iran s irgc has begun using unarmed spotters aboard small boats to identify potential targets including american warships after u s strikes destroyed much of iran s radar infrastructure in one incident last week u s forces intercepted and destroyed a dhow being used to relay targeting information to the irgc no casualties were reported",
    "fa": "🇮🇷🇺🇸⚡️ — یک مقام نظامی ایالات متحده به رویترز گفت که سپاه پاسداران ایران پس از آنکه حملات ایالات متحده بخش عمده‌ای از زیرساخت‌های راداری ایران را نابود کرد، استفاده از دیده‌بانان غیرمسلح را بر روی قایق‌های کوچک برای شناسایی اهداف بالقوه، از جمله ناوهای جنگی آمریکایی، آغاز کرده است. در یکی از حوادث در هفته گذشته، نیروهای آمریکایی یک لنج را که برای انتقال اطلاعات هدف‌گیری به سپاه پاسداران استفاده می"
+  },
+  {
+   "t": 1791941581.0,
+   "n": "ترامپ ایران در صدر فهرست حامیان تروریسم قرار دارد",
+   "fa": "🇺🇸🇮🇷ترامپ: ایران در صدر فهرست حامیان تروریسم قرار دارد!"
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 10
+  "requests": 14
  },
- "flip": 42,
+ "flip": 43,
  "quote_n": 15,
  "digest": [
   {
@@ -698,6 +698,10 @@
   {
    "t": 1791940254.0,
    "h": "🇮🇷🇺🇸⚡️ — یک مقام نظامی ایالات متحده به رویترز گفت که سپاه پاسداران ایران پس از آنکه حملات ایالات متحده بخش عمده‌ای از زیرساخت‌های راداری ایران را نابو"
+  },
+  {
+   "t": 1791941581.0,
+   "h": "🇺🇸🇮🇷ترامپ: ایران در صدر فهرست حامیان تروریسم قرار دارد!"
   }
  ],
  "risk": {
