@@ -286,12 +286,12 @@ def build_message(p, footer=FOOTER):
     if not lines:
         return ""
     body = "\n\n".join(lines)
-    tail = []
-    if p.get("risk") is not None:
-        tail.append(f"{RLM}📈برآورد جمنای از احتمال حمله در ۷ روز آینده: {str(p['risk']).translate(_FA_DIGITS)}٪")
+    out = body
+    if p.get("risk") is not None:                    # two blank lines between the last price and the estimate
+        out += f"\n\n\n{RLM}📈برآورد جمنای از احتمال حمله در ۷ روز آینده: {str(p['risk']).translate(_FA_DIGITS)}٪"
     if footer:
-        tail.append(footer)
-    return body + ("\n\n" + "\n\n".join(tail) if tail else "")
+        out += f"\n\n{footer}"
+    return out
 
 
 # ------------------------------------------------------------------ telegram ---
