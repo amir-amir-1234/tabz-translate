@@ -1,10 +1,10 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108038
+   "last_id": 108039
   },
   "khabarfouri": {
-   "last_id": 569647
+   "last_id": 569648
   },
   "KH_B2": {
    "last_id": 131677
@@ -293,11 +293,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791998639.0,
-   "n": "ansarallah announces over the past 24 hours saudi forces conducted 42 airstrikes and missile strikes against ansarallah controlled sana a lahij ma rib and amran governorates and ansarallah controlled mayyun island on the bab el mandeb strait f 15 and typhoon fighter jets took off from king khalid ab and king fahd ab while missiles were launched from najran province southwestern ksa ansarallah also",
-   "fa": "🔄 به‌روزرسانی 🇸🇦❌🇾🇪 — انصارالله اعلام کرد طی ۲۴ ساعت گذشته، نیروهای سعودی ۴۲ حمله هوایی و موشکی علیه استان‌های صنعا، لحج، مأرب و عمران و جزیره میون تحت کنترل انصارالله در تنگه باب‌المندب انجام دادند. جنگنده‌های اف-۱۵ و تایفون از پایگاه‌های هوایی ملک خالد و ملک فهد به پرواز درآمده و موشک‌هایی از استان نجران در جنوب غربی عربستان سعودی شلیک شد. انصارالله همچنین اعلام کرد که حملات هوایی و موشکی عربستا"
-  },
   {
    "t": 1791998967.0,
    "n": "عوارض ۲۰۰ هزار دلاری آمریکا برای کشتی های اسپانیایی فدرال دریایی آمریکا برای تمامی کشتی های دارای پرچم اسپانیا عوارض وضع کرد و واردات برخی کالاهای این کشور نیز با محدودیت مواجه شود این نهاد مدعی است که اسپانیا شرایط نامساعدی برای فعالیت کشتی های با پرچم آمریکا در حوزه حمل ونقل دریایی ایجاد کرده است",
@@ -592,13 +587,18 @@
    "t": 1792010393.0,
    "n": "israeli airstrikes were carried out on al mansouri southern lebanon a few moments ago",
    "fa": "🇮🇱❌🇱🇧 — لحظاتی پیش حملات هوایی اسرائیل به منطقه المنصوری در جنوب لبنان انجام شد."
+  },
+  {
+   "t": 1792011547.0,
+   "n": "a senior u s official told axios that the trump administration had nothing to do with the starlink service constraints that affected ukraine on the battlefield",
+   "fa": "🔄 به‌روزرسانی 🇺🇸🇺🇦🇷🇺⚡️ — یک مقام ارشد آمریکایی به آکسیوس گفت که دولت ترامپ هیچ ارتباطی با محدودیت‌های سرویس استارلینک که اوکراین را در میدان جنگ تحت تأثیر قرار داد، نداشته است."
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 285
+  "requests": 286
  },
- "flip": 252,
+ "flip": 253,
  "quote_n": 94,
  "digest": [
   {
@@ -1600,6 +1600,10 @@
   {
    "t": 1792010393.0,
    "h": "🇮🇱❌🇱🇧 — لحظاتی پیش حملات هوایی اسرائیل به منطقه المنصوری در جنوب لبنان انجام شد."
+  },
+  {
+   "t": 1792011547.0,
+   "h": "🔄 به‌روزرسانی 🇺🇸🇺🇦🇷🇺⚡️ — یک مقام ارشد آمریکایی به آکسیوس گفت که دولت ترامپ هیچ ارتباطی با محدودیت‌های سرویس استارلینک که اوکراین را در میدان جنگ تحت ت"
   }
  ],
  "risk": {
