@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107916
+   "last_id": 107917
   },
   "khabarfouri": {
    "last_id": 569465
   },
   "KH_B2": {
-   "last_id": 131591
+   "last_id": 131592
   },
   "TelNews_Magazine": {
    "last_id": 101075
@@ -263,11 +263,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791918758.0,
-   "n": "u s official to axios on iran the negotiations are not really dead but they re not really alive we re just here piling on the pressure and there s a belief that smarter heads will prevail over there the iranians thought this president would back down because of the pressure and the midterms he has shown them the error of their ways",
-   "fa": "🇺🇸🇮🇷⚡️ — یک مقام آمریکایی به اکسیوس درباره ایران گفت: مذاکرات واقعاً مرده نیستند، اما زنده هم نیستند. ما فقط اینجا هستیم، فشار را بیشتر می‌کنیم و این باور وجود دارد که عقلای آنجا پیروز خواهند شد. ایرانی‌ها فکر می‌کردند این رئیس‌جمهور به خاطر فشار و انتخابات میان‌دوره‌ای عقب‌نشینی خواهد کرد. او اشتباهشان را به آن‌ها نشان داده است."
-  },
   {
    "t": 1791918781.0,
    "n": "گزارش رسانه های عراق از پرواز هواگردهای ناشناس در حریم هوایی این کشور",
@@ -562,11 +557,16 @@
    "t": 1791941581.0,
    "n": "ترامپ ایران در صدر فهرست حامیان تروریسم قرار دارد",
    "fa": "🇺🇸🇮🇷ترامپ: ایران در صدر فهرست حامیان تروریسم قرار دارد!"
+  },
+  {
+   "t": 1791942034.0,
+   "n": "president trump on iran wait till you see what we do to iran we re going to do a number wait till you see they re just waiting wait till you see what we do to iran because we ve sort of had it you know we ve had it but you know it doesn t matter the big thing is they were not going to have a nuclear weapon and they won t that s buried under thousands of tons of rock",
+   "fa": "🇺🇸🇮🇷⚡️ — دونالد ترامپ درباره ایران: صبر کنید تا ببینید با ایران چه کار می‌کنیم. ما ضربه محکمی به آن‌ها خواهیم زد. صبر کنید تا ببینید. آن‌ها فقط منتظرند. صبر کنید تا ببینید با ایران چه کار می‌کنیم، چون ما دیگر واقعاً از این وضعیت خسته شده‌ایم. می‌دانید، کارمان تمام است. اما، می‌دانید، اهمیتی ندارد. نکته مهم این است که آن‌ها قرار نبود سلاح هسته‌ای داشته باشند و نخواهند داشت. آن [برنامه] زیر هزاران ت"
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 14
+  "requests": 17
  },
  "flip": 43,
  "quote_n": 15,
@@ -702,6 +702,10 @@
   {
    "t": 1791941581.0,
    "h": "🇺🇸🇮🇷ترامپ: ایران در صدر فهرست حامیان تروریسم قرار دارد!"
+  },
+  {
+   "t": 1791942034.0,
+   "h": "🇺🇸🇮🇷⚡️ — دونالد ترامپ درباره ایران: صبر کنید تا ببینید با ایران چه کار می‌کنیم. ما ضربه محکمی به آن‌ها خواهیم زد. صبر کنید تا ببینید. آن‌ها فقط منتظرن"
   }
  ],
  "risk": {
