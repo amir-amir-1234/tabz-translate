@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108066
+   "last_id": 108067
   },
   "khabarfouri": {
    "last_id": 569648
@@ -296,11 +296,6 @@
  },
  "recent": [
   {
-   "t": 1792004545.0,
-   "n": "ukrainian president zelensky what was really strange and what was not like between partners they switched off starlink absolutely crazy steps",
-   "fa": "🇺🇦🇺🇸⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: آنچه واقعاً عجیب بود و شبیه شرکا نبود، این بود که آن‌ها استارلینک را قطع کردند. قدم‌های کاملاً دیوانه‌وار."
-  },
-  {
    "t": 1792004623.0,
    "n": "piers morgan do you think elon musk has deliberately turned the speed down on starlink to damage you zelensky they knew what they did absolutely",
    "fa": "🇺🇦🇺🇸⚡️ — پیرز مورگان: آیا فکر می‌کنید ایلان ماسک عمداً سرعت استارلینک را کم کرده تا به شما آسیب برساند؟ زلنسکی: آن‌ها می‌دانستند چه کاری انجام داده‌اند، کاملاً."
@@ -594,19 +589,20 @@
    "t": 1792021622.0,
    "n": "the trump administration is investigating democratic rep ilhan omar in an effort to potentially revoke her u s citizenship and deport her according to wsj investigators are examining allegations that omar or her late father misrepresented her age during the citizenship process allowing her to qualify automatically through her father federal agents searched her washington d c home on monday seizing",
    "fa": "🇺🇸⚡️ — به گزارش وال استریت ژورنال، دولت ترامپ در حال تحقیق درباره ایلهان عمر، نماینده دموکرات، با هدف احتمال لغو شهروندی ایالات متحده و اخراج او است. بازرسان در حال بررسی اتهاماتی هستند که بر اساس آن ادعا می‌شود ایلهان عمر یا پدر مرحومش سن او را در طول فرآیند اخذ شهروندی تحریف کرده‌اند که به او اجازه داده به طور خودکار از طریق پدرش واجد شرایط شود. مأموران فدرال روز دوشنبه خانه او را در واشنگتن دی‌"
+  },
+  {
+   "t": 1792021877.0,
+   "n": "the u s proposed that european countries release part of russia s frozen sovereign assets and transfer them into a u s controlled fund as part of efforts to revive peace negotiations over ukraine according to ft the proposal presented by u s envoy steve witkoff and jared kushner was rejected by european officials who opposed surrendering control of the funds or allowing any assets to be returned t",
+   "fa": "🇺🇸🇺🇦🇷🇺⚡️ — به گزارش فایننشال تایمز، ایالات متحده پیشنهاد کرد که کشورهای اروپایی بخشی از دارایی‌های حاکمیتی مسدودشده روسیه را آزاد کرده و آن‌ها را به صندوقی تحت کنترل ایالات متحده منتقل کنند تا به عنوان بخشی از تلاش‌ها برای احیای مذاکرات صلح درباره اوکراین انجام شود. این پیشنهاد که توسط استیو ویتکاف، فرستاده ایالات متحده، و جارد کوشنر ارائه شد، توسط مقامات اروپایی رد شد؛ آن‌ها با واگذاری کنترل این "
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 317
+  "requests": 318
  },
- "flip": 275,
+ "flip": 276,
  "quote_n": 100,
  "digest": [
-  {
-   "t": 1791964861.0,
-   "h": "💢سفیر سابق ایران در لبنان: شهید سید حسن نصرالله اعتقاد داشت ما نمی‌خواهیم با لشکرکشی اسرائیل را نابود کنیم! 💢الان مرحله نابودی اسرائیل و غلبه بر اسرائ"
-  },
   {
    "t": 1791965409.0,
    "h": "🔴 کنایه مجری صدا و سیما به دهک‌بندی کالابرگ: همه میلیاردرهایی هستیم که جیبمان خالی است!"
@@ -1606,6 +1602,10 @@
   {
    "t": 1792021622.0,
    "h": "🇺🇸⚡️ — به گزارش وال استریت ژورنال، دولت ترامپ در حال تحقیق درباره ایلهان عمر، نماینده دموکرات، با هدف احتمال لغو شهروندی ایالات متحده و اخراج او است. "
+  },
+  {
+   "t": 1792021877.0,
+   "h": "🇺🇸🇺🇦🇷🇺⚡️ — به گزارش فایننشال تایمز، ایالات متحده پیشنهاد کرد که کشورهای اروپایی بخشی از دارایی‌های حاکمیتی مسدودشده روسیه را آزاد کرده و آن‌ها را به ص"
   }
  ],
  "risk": {
