@@ -1,16 +1,16 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107947
+   "last_id": 107948
   },
   "khabarfouri": {
-   "last_id": 569564
+   "last_id": 569565
   },
   "KH_B2": {
    "last_id": 131630
   },
   "TelNews_Magazine": {
-   "last_id": 101102
+   "last_id": 101103
   },
   "NE_WG": {
    "last_id": 114434
@@ -274,16 +274,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791968161.0,
-   "n": "خاتمی مسئله فلسطین رو خود فلسطینی ها باید حل کنن و ما نباید به جای اونا دخالت کنیم",
-   "fa": "⭕️خاتمی: مسئله فلسطین رو خود فلسطینی‌ها باید حل کنن و ما نباید به جای اونا دخالت کنیم"
-  },
-  {
-   "t": 1791968242.0,
-   "n": "پرزیدنت ترامپ الان بعد از وایرال شدن ویدئویی از حمله مرگبار یک ببر به مردی در بریتانیا ویدئویی با هوش مصنوعی از خودش منتشر کرده که توی اون داره با یک ببر بازی می کنه",
-   "fa": "⭕️ 〰️🪄🇺🇸 پرزیدنت ترامپ الان بعد از وایرال شدن ویدئویی از حمله مرگبار یک ببر به مردی در بریتانیا، ویدئویی با هوش مصنوعی از خودش منتشر کرده که توی اون داره با یک ببر بازی می‌کنه!"
-  },
   {
    "t": 1791968430.0,
    "n": "how top trump officials stoked fears of a nuke that could fry the power grid for more than a decade conservative activists held that a single atomic bomb could without killing americans directly lay waste to the country a claim that built fervor for war with iran",
@@ -573,14 +563,24 @@
    "t": 1791980952.0,
    "n": "saudi aramco s headquarters in dhahran sustained extensive damage in tuesday s attack with a fire spreading across multiple floors of the building three sources with direct knowledge of the incident told reuters the fire began on the ninth floor of the complex s south wing before spreading between the sixth and tenth floors another source said the upper three floors including the area housing ceo ",
    "fa": "🇾🇪❌🇸🇦 — به گفته سه منبع آگاه به رویترز، دفتر مرکزی شرکت سعودی آرامکو در ظهران در جریان حمله روز سه‌شنبه دچار خسارات گسترده‌ای شد و آتش‌سوزی در چندین طبقه از این ساختمان گسترش یافت. این آتش‌سوزی از طبقه نهم بال جنوبی این مجتمع آغاز شد و سپس بین طبقات ششم تا دهم سرایت کرد. یک منبع دیگر گفت که سه طبقه فوقانی، از جمله محوطه دفتر امین ناصر، مدیرعامل آرامکو، به شدت آسیب دیده و بخش‌هایی از سقف فروریخته و"
+  },
+  {
+   "t": 1791981108.0,
+   "n": "فاکس نیوز بیش از 19 میلیون بشکه نفت خام روز دوشنبه تحت اسکورت ایالات متحده از تنگه هرمز عبور کرد حملات ایران به کشتیرانی در طول روز ادامه داشت",
+   "fa": "⭕️فاکس نیوز: بیش از 19 میلیون بشکه نفت خام روز دوشنبه تحت اسکورت ایالات متحده از تنگه هرمز عبور کرد. حملات ایران به کشتیرانی در طول روز ادامه داشت"
+  },
+  {
+   "t": 1791981119.0,
+   "n": "iran s irgc navy says a container ship carrying more than 2 500 containers sank in the southern strait of hormuz after striking a naval mine while attempting to navigate an unauthorized and dangerous route the mine triggered an explosion and a major fire causing the vessel to sink on wednesday morning the irgc navy warned local vessels and fishermen to exercise extreme caution in the area due to s",
+   "fa": "🔄 به‌روزرسانی 🇮🇷🇴🇲⚡️ — نیروی دریایی سپاه پاسداران ایران اعلام کرد یک فروند کشتی کانتینربر حاوی بیش از ۲۵۰۰ کانتینر پس از برخورد با یک مین دریایی در جنوب تنگه هرمز در حالی که تلاش می‌کرد از یک مسیر «غیرمجاز و خطرناک» عبور کند، غرق شد. این مین باعث وقوع انفجار و آتش‌سوزی بزرگی شد که منجر به غرق شدن شناور در روز چهارشنبه شد. نیروی دریایی سپاه به شناورها و صیادان محلی هشدار داد به دلیل وجود کانتینرهای"
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 146
+  "requests": 148
  },
- "flip": 141,
- "quote_n": 53,
+ "flip": 142,
+ "quote_n": 54,
  "digest": [
   {
    "t": 1791924991.0,
@@ -1229,13 +1229,21 @@
   {
    "t": 1791980952.0,
    "h": "🇾🇪❌🇸🇦 — به گفته سه منبع آگاه به رویترز، دفتر مرکزی شرکت سعودی آرامکو در ظهران در جریان حمله روز سه‌شنبه دچار خسارات گسترده‌ای شد و آتش‌سوزی در چندین ط"
+  },
+  {
+   "t": 1791981108.0,
+   "h": "⭕️فاکس نیوز: بیش از 19 میلیون بشکه نفت خام روز دوشنبه تحت اسکورت ایالات متحده از تنگه هرمز عبور کرد. حملات ایران به کشتیرانی در طول روز ادامه داشت"
+  },
+  {
+   "t": 1791981119.0,
+   "h": "🔄 به‌روزرسانی 🇮🇷🇴🇲⚡️ — نیروی دریایی سپاه پاسداران ایران اعلام کرد یک فروند کشتی کانتینربر حاوی بیش از ۲۵۰۰ کانتینر پس از برخورد با یک مین دریایی در جن"
   }
  ],
  "risk": {
-  "base": 88,
-  "ts": 1791977773.5797157,
+  "base": 89,
+  "ts": 1791981385.1492982,
   "attack": false,
-  "reason": "تداوم تنش‌ها و هشدارها میان ایران و آمریکا بدون وقوع درگیری مستقیم نظامی جدید."
+  "reason": "افزایش تنش‌ها در تنگه هرمز و گزارش‌های مربوط به غرق شدن یک کشتی کانتینربر احتمال درگیری مستقیم را به آرامی افزایش داده است."
  },
- "risk_try": 1791977773.5797157
+ "risk_try": 1791981385.1492982
 }
