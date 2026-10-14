@@ -4,10 +4,10 @@
    "last_id": 107929
   },
   "khabarfouri": {
-   "last_id": 569485
+   "last_id": 569487
   },
   "KH_B2": {
-   "last_id": 131594
+   "last_id": 131595
   },
   "TelNews_Magazine": {
    "last_id": 101076
@@ -568,7 +568,7 @@
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 50
+  "requests": 51
  },
  "flip": 63,
  "quote_n": 24,
