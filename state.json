@@ -4,13 +4,13 @@
    "last_id": 107930
   },
   "khabarfouri": {
-   "last_id": 569551
+   "last_id": 569552
   },
   "KH_B2": {
    "last_id": 131623
   },
   "TelNews_Magazine": {
-   "last_id": 101095
+   "last_id": 101096
   },
   "NE_WG": {
    "last_id": 114426
@@ -272,11 +272,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791960120.0,
-   "n": "boe s pill skeptical four rate rises needed to tame inflation the central bank s chief economist said the size of the response that is now needed to contain inflation may not be as large investors now expect",
-   "fa": "⭕️ ابراز تردید اقتصاددان ارشد بانک مرکزی انگلستان درباره نیاز به چهار مرحله افزایش نرخ بهره به گزارش وال‌استریت ژورنال، اقتصاددان ارشد بانک مرکزی انگلستان اعلام کرد که میزان واکنش لازم در حال حاضر برای مهار تورم ممکن است به بزرگی آنچه سرمایه‌گذاران اکنون انتظار دارند نباشد."
-  },
   {
    "t": 1791960772.0,
    "n": "spacex has restricted starlink connectivity for ukrainian forces with terminals reportedly losing connection at speeds above 160 km h disrupting several military missions ukrainian communications expert serhii beskrestnov said volunteer serhii sternenko later reported that the speed limit had been lowered to 60 70 km h as starlink does not operate on russian territory the restrictions are likely t",
@@ -571,14 +566,19 @@
    "t": 1791974335.0,
    "n": "عضو کمیسیون امنیت ملی مجلس ممکن است ۱۰۰ هکتار زمین را برای دو یا پنج سال در اختیار افغانستان قرار دهیم تا کالاهای خود را از طریق ایران ترانزیت کند",
    "fa": "⭕️عضو کمیسیون امنیت ملی مجلس: ممکن است ۱۰۰ هکتار زمین را برای دو یا پنج سال در اختیار افغانستان قرار دهیم تا کالاهای خود را از طریق ایران ترانزیت کند"
+  },
+  {
+   "t": 1791975264.0,
+   "n": "نتانیاهو با حمله پیش دستانه علیه ایران در آستانه برگزاری انتخابات در اسرائیل مخالف هستم اکنون زمان مناسبی نیست",
+   "fa": "⭕️نتانیاهو: با حمله پیش‌دستانه علیه ایران در آستانه برگزاری انتخابات در اسرائیل مخالف هستم؛ اکنون زمان مناسبی نیست"
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 121
+  "requests": 122
  },
- "flip": 116,
- "quote_n": 46,
+ "flip": 117,
+ "quote_n": 47,
  "digest": [
   {
    "t": 1791924991.0,
@@ -1099,6 +1099,10 @@
   {
    "t": 1791974335.0,
    "h": "⭕️عضو کمیسیون امنیت ملی مجلس: ممکن است ۱۰۰ هکتار زمین را برای دو یا پنج سال در اختیار افغانستان قرار دهیم تا کالاهای خود را از طریق ایران ترانزیت کند"
+  },
+  {
+   "t": 1791975264.0,
+   "h": "⭕️نتانیاهو: با حمله پیش‌دستانه علیه ایران در آستانه برگزاری انتخابات در اسرائیل مخالف هستم؛ اکنون زمان مناسبی نیست"
   }
  ],
  "risk": {
