@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108016
+   "last_id": 108017
   },
   "khabarfouri": {
    "last_id": 569637
@@ -290,11 +290,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791994638.0,
-   "n": "the saudi backed plc media center released different videos showing saudi airstrikes and plc attacks against houthis ansarallah troops across different fronts",
-   "fa": "🇾🇪🇸🇦❌🇾🇪 — مرکز رسانه‌ای شورای رهبری یمن با حمایت عربستان سعودی ویدیوهای مختلفی را منتشر کرد که حملات هوایی عربستان و حملات این شورا علیه نیروهای حوثی (انصارالله) را در جبهه‌های مختلف نشان می‌دهد."
-  },
   {
    "t": 1791994922.0,
    "n": "ukrainian president zelensky told piers morgan that he felt betrayed by president trump s decision to announce an energy ceasefire and diesel agreement with russian president vladimir putin it s a pity that we are losing a strong partner zelensky said noting that ukraine cannot afford to appear weak or compromise its sovereignty we are not selling our country look guys it s not about business for ",
@@ -589,31 +584,20 @@
    "t": 1792005193.0,
    "n": "piers morgan can you win without the americans on your side zelensky we will not in any way lose our independence we would have huge problems with how to push putin to the diplomatic way of ending the war",
    "fa": "🇺🇦🇺🇸🇷🇺⚡️ — پیرز مورگان: آیا می‌توانید بدون حضور آمریکایی‌ها در کنار خود پیروز شوید؟ زلنسکی: ما به هیچ وجه استقلال خود را از دست نخواهیم داد. ما مشکلات بزرگی در زمینه چگونگی وادار کردن پوتین به روش دیپلماتیک پایان دادن به جنگ خواهیم داشت."
+  },
+  {
+   "t": 1792005485.0,
+   "n": "the u s is deploying several hundred army soldiers to latin america as the trump administration expands its military campaign against drug trafficking organizations according to nyt an approximately 600 soldier battalion from the 10th mountain division based at fort drum new york has begun deploying to a new jungle training facility in panama the troops are expected to conduct exercises with local",
+   "fa": "🇺🇸⚡️ — به گزارش نیویورک تایمز، ایالات متحده در حال اعزام چندین صد سرباز ارتش به آمریکای لاتین است، در حالی که دولت ترامپ کارزار نظامی خود را علیه سازمان‌های قاچاق مواد مخدر گسترش می‌دهد. یک گردان متشکل از حدود ۶۰۰ سرباز از لشکر ۱۰ کوهستان، مستقر در فورت درام در نیویورک، اعزام به یک مرکز جدید آموزش جنگلی در پاناما را آغاز کرده است. انتظار می‌رود این نیروها تمریناتی را با نیروهای محلی در کلمبیا و هن"
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 261
+  "requests": 262
  },
- "flip": 238,
+ "flip": 239,
  "quote_n": 92,
  "digest": [
-  {
-   "t": 1791943561.0,
-   "h": "🇺🇸🇮🇷ترامپ: ما تنگه هرمز را باز کردیم و اکنون این تنگه باز است. 💢در حال حاضر حتی بیشتر از زمانی که تنگه پیش‌تر باز بود، نفت از آن عبور می‌کند."
-  },
-  {
-   "t": 1791943690.0,
-   "h": "🇷🇺❌🇺🇦 — چندین شلیک موشک کروز مافوق صوت ۳ام۲۲ زیرکون روسیه به سمت زیرساخت‌های انرژی در کی‌یف، اوکراین. نیروگاه تریپیلیا و پست برق ۷۵۰ کیلوولتی هدف قرار"
-  },
-  {
-   "t": 1791944933.0,
-   "h": "🇷🇺❌🇺🇦 — ۳ فروند موشک بالستیک تاکتیکال اسکندر-ام و ۲ فروند موشک کروز مافوق صوت اونیکس-ام به سمت کی‌یف، اوکراین در حال پرواز هستند."
-  },
-  {
-   "t": 1791944941.0,
-   "h": "‼️ترامپ برای هزارمین‌بار: ایران دیگر نیروی دریایی و هوایی ندارد!"
-  },
   {
    "t": 1791945098.0,
    "h": "🇷🇺❌🇺🇦 — اصابت‌ها در پست برق ۳۳۰ کیلوولتی نوووکییووسکا. این موارد ممکن است رهگیرهای پدافند هوایی اصلاح‌شده RM-48U باشند."
@@ -1613,6 +1597,10 @@
   {
    "t": 1792005193.0,
    "h": "🇺🇦🇺🇸🇷🇺⚡️ — پیرز مورگان: آیا می‌توانید بدون حضور آمریکایی‌ها در کنار خود پیروز شوید؟ زلنسکی: ما به هیچ وجه استقلال خود را از دست نخواهیم داد. ما مشکلات"
+  },
+  {
+   "t": 1792005485.0,
+   "h": "🇺🇸⚡️ — به گزارش نیویورک تایمز، ایالات متحده در حال اعزام چندین صد سرباز ارتش به آمریکای لاتین است، در حالی که دولت ترامپ کارزار نظامی خود را علیه سازم"
   }
  ],
  "risk": {
