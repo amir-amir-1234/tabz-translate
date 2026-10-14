@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 107984
+   "last_id": 107985
   },
   "khabarfouri": {
    "last_id": 569592
   },
   "KH_B2": {
-   "last_id": 131650
+   "last_id": 131651
   },
   "TelNews_Magazine": {
    "last_id": 101116
   },
   "NE_WG": {
-   "last_id": 114454
+   "last_id": 114455
   }
  },
  "fails": {},
@@ -258,7 +258,8 @@
     "https://home.treasury.gov/news/press-releases/sb0655/",
     "https://home.treasury.gov/news/press-releases/sb0656/",
     "https://home.treasury.gov/news/press-releases/sb0657/",
-    "https://home.treasury.gov/news/press-releases/sb0658/"
+    "https://home.treasury.gov/news/press-releases/sb0658/",
+    "https://home.treasury.gov/news/press-releases/sb0659/"
    ]
   },
   "OFAC": {
@@ -280,21 +281,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1791980700.0,
-   "n": "nord stream trial tests germany s alliance with ukraine a ukrainian officer is on trial for war crimes related to blowing up the pipelines testing the limits of wartime sabotage and germany s alliance with kyiv",
-   "fa": "🔴 محاکمه یک افسر اوکراینی به اتهام دست داشتن در انفجار خطوط لوله نورد استریم به گزارش وال‌استریت ژورنال یک افسر اوکراینی به اتهام جنایات جنگی مرتبط با انفجار خطوط لوله گاز در حال محاکمه است و این دادگاه حدود صبر و تحمل در برابر خرابکاری‌های دوران جنگ و همچنین ائتلاف آلمان با کی‌یف را به آزمایش می‌گذارد."
-  },
-  {
-   "t": 1791980835.0,
-   "n": "israeli defense minister katz if hezbollah joins iran in an attack against israel it will suffer a heavy blow and lose additional territory in southern lebanon in the nabatieh and litani river areas which will become part of israel s permanent security zone the israeli army is prepared to carry out this operation the entire shia population in the area extending to the awali and zahrani rivers will",
-   "fa": "🇮🇱❌🇱🇧🇱🇧 — وزیر دفاع اسرائیل، کاتز: اگر حزب‌الله در یک حمله علیه اسرائیل به ایران بپیوندد، ضربه سنگینی متحمل خواهد شد و بخش دیگری از خاک خود در جنوب لبنان، در مناطق نبطیه و رودخانه لیتانی را از دست خواهد داد که به بخشی از منطقه امنیتی دائمی اسرائیل تبدیل خواهد شد. ارتش اسرائیل برای انجام این عملیات آماده است. کل جمعیت شیعه در منطقه امتداد یافته تا رودخانه‌های اولی و زهرانی به سمت شمال تخلیه خواهند "
-  },
-  {
-   "t": 1791980952.0,
-   "n": "saudi aramco s headquarters in dhahran sustained extensive damage in tuesday s attack with a fire spreading across multiple floors of the building three sources with direct knowledge of the incident told reuters the fire began on the ninth floor of the complex s south wing before spreading between the sixth and tenth floors another source said the upper three floors including the area housing ceo ",
-   "fa": "🇾🇪❌🇸🇦 — به گفته سه منبع آگاه به رویترز، دفتر مرکزی شرکت سعودی آرامکو در ظهران در جریان حمله روز سه‌شنبه دچار خسارات گسترده‌ای شد و آتش‌سوزی در چندین طبقه از این ساختمان گسترش یافت. این آتش‌سوزی از طبقه نهم بال جنوبی این مجتمع آغاز شد و سپس بین طبقات ششم تا دهم سرایت کرد. یک منبع دیگر گفت که سه طبقه فوقانی، از جمله محوطه دفتر امین ناصر، مدیرعامل آرامکو، به شدت آسیب دیده و بخش‌هایی از سقف فروریخته و"
-  },
   {
    "t": 1791981108.0,
    "n": "فاکس نیوز بیش از 19 میلیون بشکه نفت خام روز دوشنبه تحت اسکورت ایالات متحده از تنگه هرمز عبور کرد حملات ایران به کشتیرانی در طول روز ادامه داشت",
@@ -579,14 +565,29 @@
    "t": 1791993286.0,
    "n": "نشان طلای بورس های اروپایی آسیایی به کارگزاری مفید تعلق گرفت کارگزاری مفید در تازه ترین ارزیابی نهادهای مالی عضو فدراسیون بورس های اروپایی و آسیایی feas در سال ۲۰۲۶ توانست با پشت سر گذاشتن رقبایی از ۳۲ کشور جهان برای هفتمین سال متوالی نشان طلای بخش بازارهای سهام را کسب کند مفید طی مراسمی که در جریان مجمع عمومی feas در شهر مسقط عمان و با حضور نمایندگان بورس ها تشکل های معاملاتی و نهادهای مالی عضو ب",
    "fa": "⭕️ نشان طلای بورس‌های اروپایی-آسیایی به کارگزاری مفید تعلق گرفت کارگزاری مفید در تازه‌ترین ارزیابی نهادهای مالی عضو فدراسیون بورس‌های اروپایی و آسیایی (FEAS) در سال ۲۰۲۶، توانست با پشت سر گذاشتن رقبایی از ۳۲ کشور جهان برای هفتمین سال متوالی نشان طلای بخش بازارهای سهام را کسب کند. مفید طی مراسمی که در جریان مجمع عمومی FEAS در شهر مسقط عمان و با حضور نمایندگان بورس‌ها، تشکل‌های معاملاتی و نهادهای ما"
+  },
+  {
+   "t": 1791993600.0,
+   "n": "statement from u s secretary of the treasury scott bessent for the world bank development committee and imf international monetary and financial committee this year s annual meetings of the international monetary fund imf and world bank provide an important opportunity to engage on current global economic challenges as well as our work with partners and the international financial institutions to ",
+   "fa": "🔴 انتشار بیانیه اسکات بسنت وزیر خزانه‌داری آمریکا برای نشست‌های سالانه صندوق بین‌المللی پول و بانک جهانی به گزارش وزارت خزانه‌داری آمریکا، نشست‌های سالانه امسال صندوق بین‌المللی پول و بانک جهانی فرصت مهمی را برای تعامل درباره چالش‌های اقتصادی کنونی جهان و همچنین کار ما با شرکا و نهادهای مالی بین‌المللی جهت حمایت از دستور کار رشدپذیر، ثبات کلان‌اقتصادی و مالی و کاهش فقر فراهم می‌کند. ما از تایلند ب"
+  },
+  {
+   "t": 1791993610.0,
+   "n": "دو انفجار در تنگه هرمز",
+   "fa": "🚨دو انفجار در تنگه هرمز"
+  },
+  {
+   "t": 1791993630.0,
+   "n": "iraqi brigadier general ahat yasser khudair hussein the commander of the iraqi 11th infantry division s communications command was killed following an islamic state ied ambush in the kirkuk region another soldier warrant officer mutaz shahid abbas was also killed in the ambush while two other soldiers were wounded",
+   "fa": "🏴‍☠️❌🇮🇶 — سرتیپ احمد یاسر خضیر حسین، فرمانده فرماندهی ارتباطات لشکر ۱۱ پیاده‌ نظام عراق، پس از کمین بمب کنار جاده‌ای داعش در منطقه کرکوک کشته شد. یک سرباز دیگر به نام استوار معتز شهید عباس نیز در این کمین کشته شد و دو سرباز دیگر زخمی شدند."
   }
  ],
  "usage": {
   "date": "2026-10-14",
-  "requests": 209
+  "requests": 212
  },
- "flip": 184,
- "quote_n": 67,
+ "flip": 186,
+ "quote_n": 68,
  "digest": [
   {
    "t": 1791924991.0,
@@ -1463,13 +1464,25 @@
   {
    "t": 1791993286.0,
    "h": "⭕️ نشان طلای بورس‌های اروپایی-آسیایی به کارگزاری مفید تعلق گرفت کارگزاری مفید در تازه‌ترین ارزیابی نهادهای مالی عضو فدراسیون بورس‌های اروپایی و آسیایی"
+  },
+  {
+   "t": 1791993600.0,
+   "h": "🔴 انتشار بیانیه اسکات بسنت وزیر خزانه‌داری آمریکا برای نشست‌های سالانه صندوق بین‌المللی پول و بانک جهانی به گزارش وزارت خزانه‌داری آمریکا، نشست‌های سا"
+  },
+  {
+   "t": 1791993610.0,
+   "h": "🚨دو انفجار در تنگه هرمز"
+  },
+  {
+   "t": 1791993630.0,
+   "h": "🏴‍☠️❌🇮🇶 — سرتیپ احمد یاسر خضیر حسین، فرمانده فرماندهی ارتباطات لشکر ۱۱ پیاده‌ نظام عراق، پس از کمین بمب کنار جاده‌ای داعش در منطقه کرکوک کشته شد. یک س"
   }
  ],
  "risk": {
-  "base": 92,
-  "ts": 1791988878.384705,
+  "base": 93,
+  "ts": 1791993729.0084548,
   "attack": false,
-  "reason": "حملات پهپادی و دریایی در منطقه ادامه دارد اما حمله مستقیم نظامی بین ایران و آمریکا یا اسرائیل رخ نداده است."
+  "reason": "تنش‌ها و درگیری‌ها در تنگه هرمز و اظهارات مقامات نظامی ادامه دارد."
  },
- "risk_try": 1791988878.384705
+ "risk_try": 1791993729.0084548
 }
