@@ -10,7 +10,7 @@
    "last_id": 131740
   },
   "TelNews_Magazine": {
-   "last_id": 101201
+   "last_id": 101202
   },
   "NE_WG": {
    "last_id": 114549
@@ -271,7 +271,8 @@
     "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
     "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html",
     "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
-    "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html"
+    "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
+    "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html"
    ]
   },
   "Treasury": {
@@ -315,11 +316,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792066952.0,
-   "n": "والا نیوز حزب نتانیاهو توی ۷ نظرسنجی از ۸ نظرسنجی نسبت به رقیب خودش پیشتازه و به احتمال زیاد برنده انتخابات خواهد بود",
-   "fa": "⭕️والا نیوز: حزب نتانیاهو توی ۷ نظرسنجی از ۸ نظرسنجی نسبت به رقیب خودش پیشتازه و به احتمال زیاد برنده انتخابات خواهد بود."
-  },
   {
    "t": 1792066992.0,
    "n": "ukrainian president zelensky i m an honest partner of the president of the united states not because of personalities but because ukraine is a strategic partner of the united states",
@@ -614,14 +610,19 @@
    "t": 1792084140.0,
    "n": "ukraine strikes russian refinery after moscow breaks trump s energy ceasefire lifted starlink restrictions will enable ukraine to resume midrange strikes and other military operations",
    "fa": "🔴 اوکراین پس از شکست آتش‌بس انرژی توسط مسکو به پالایشگاه روسیه حمله کرد به گزارش وال‌استریت ژورنال اوکراین پس از اینکه مسکو آتش‌بس انرژی ترامپ را شکست، به یک پالایشگاه روسیه حمله کرد. رفع محدودیت‌های استارلینک اوکراین را قادر خواهد ساخت تا حملات میان‌برد و دیگر عملیات‌های نظامی خود را از سر بگیرد."
+  },
+  {
+   "t": 1792084801.0,
+   "n": "نتانیاهو اگر ایران به ما حمله کند این بزرگترین اشتباه عمرش خواهد بود ما می توانیم به طور مستقل عمل کنیم",
+   "fa": "⭕️نتانیاهو: اگر ایران به ما حمله کند، این بزرگترین اشتباه عمرش خواهد بود/ ما می‌توانیم به طور مستقل عمل کنیم"
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 175
+  "requests": 176
  },
  "flip": 391,
- "quote_n": 155,
+ "quote_n": 156,
  "digest": [
   {
    "t": 1792000173.0,
@@ -1622,6 +1623,10 @@
   {
    "t": 1792084140.0,
    "h": "🔴 اوکراین پس از شکست آتش‌بس انرژی توسط مسکو به پالایشگاه روسیه حمله کرد به گزارش وال‌استریت ژورنال اوکراین پس از اینکه مسکو آتش‌بس انرژی ترامپ را شکست"
+  },
+  {
+   "t": 1792084801.0,
+   "h": "⭕️نتانیاهو: اگر ایران به ما حمله کند، این بزرگترین اشتباه عمرش خواهد بود/ ما می‌توانیم به طور مستقل عمل کنیم"
   }
  ],
  "risk": {
