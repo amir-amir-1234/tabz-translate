@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108105
+   "last_id": 108106
   },
   "khabarfouri": {
    "last_id": 569786
@@ -70,7 +70,8 @@
     "https://www.foxnews.com/world/trump-wishes-pope-leo-speedy-recovery-after-lung-cancer-diagnosis-speaks-highly-pontiffs-brother",
     "https://www.foxnews.com/world/pentagon-sends-hundreds-army-troops-latin-america-training-drug-trafficking-campaign-expands",
     "https://www.foxnews.com/world/el-salvador-bukele-announces-plan-free-half-prisoners-jailed-gang-crackdown",
-    "https://www.foxnews.com/world/un-inquiry-member-says-some-genocide-claims-against-israel-unverified-gaza-reports-population-growth"
+    "https://www.foxnews.com/world/un-inquiry-member-says-some-genocide-claims-against-israel-unverified-gaza-reports-population-growth",
+    "https://www.foxnews.com/world/not-wanted-irish-hotel-reportedly-cancels-70-rooms-reserved-antisemitism-conference-attendees"
    ]
   },
   "WSJ": {
@@ -307,11 +308,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792055235.0,
-   "n": "قیمت نفت برنت در محدوده ۱۰۳ دلار",
-   "fa": "⭕️ قیمت نفت برنت در محدوده ۱۰۳ دلار"
-  },
   {
    "t": 1792056129.0,
    "n": "بابک زنجانی دلار رو میتونم بیارم زیر ۲۰۰ هزارتومن",
@@ -606,11 +602,16 @@
    "t": 1792070433.0,
    "n": "پزشکیان با تمام توان اجازه نمی دهیم آمریکایی ها به نیت های شوم خود برسند و از هر راه ممکن تدارکات موردنیاز مردم را تأمین می کنیم",
    "fa": "⭕️پزشکیان: با تمام توان اجازه نمی‌دهیم آمریکایی‌ها به نیت‌های شوم خود برسند و از هر راه ممکن، تدارکات موردنیاز مردم را تأمین می‌کنیم."
+  },
+  {
+   "t": 1792071215.0,
+   "n": "israeli prime minister benjamin netanyahu says he personally spoke with syrian president ahmed al sharaa during the clashes between syrian forces and the israeli backed druze led suwayda national guard in syria s suwayda governorate in mid 2025 i made a phone call to the syrian president it was a very short very direct conversation and the massacre stopped netanyahu said claiming his intervention ",
+   "fa": "🇮🇱🇸🇾⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل گفت که شخصاً در جریان درگیری‌های میان نیروهای سوری و گارد ملی سویدا تحت حمایت اسرائیل در استان سویدای سوریه در اواسط سال ۲۰۲۵، با احمد الشراع، رئیس‌جمهور سوریه گفتگو کرده است. نتانیاهو مدعی شد: «من با رئیس‌جمهور سوریه تلفنی صحبت کردم. این یک مکالمه بسیار کوتاه و بسیار مستقیم بود و کشتار متوقف شد» و افزود که مداخله او به پایان درگیری‌های سنگین کمک کرده ا"
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 129
+  "requests": 130
  },
  "flip": 373,
  "quote_n": 137,
@@ -1614,6 +1615,10 @@
   {
    "t": 1792070433.0,
    "h": "⭕️پزشکیان: با تمام توان اجازه نمی‌دهیم آمریکایی‌ها به نیت‌های شوم خود برسند و از هر راه ممکن، تدارکات موردنیاز مردم را تأمین می‌کنیم."
+  },
+  {
+   "t": 1792071215.0,
+   "h": "🇮🇱🇸🇾⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل گفت که شخصاً در جریان درگیری‌های میان نیروهای سوری و گارد ملی سویدا تحت حمایت اسرائیل در استان سویدای سور"
   }
  ],
  "risk": {
