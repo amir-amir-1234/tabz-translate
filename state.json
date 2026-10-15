@@ -72,7 +72,8 @@
     "https://www.foxnews.com/world/el-salvador-bukele-announces-plan-free-half-prisoners-jailed-gang-crackdown",
     "https://www.foxnews.com/world/un-inquiry-member-says-some-genocide-claims-against-israel-unverified-gaza-reports-population-growth",
     "https://www.foxnews.com/world/not-wanted-irish-hotel-reportedly-cancels-70-rooms-reserved-antisemitism-conference-attendees",
-    "https://www.foxnews.com/world/albania-rioters-clash-police-socialist-government-european-unrest-spreads"
+    "https://www.foxnews.com/world/albania-rioters-clash-police-socialist-government-european-unrest-spreads",
+    "https://www.foxnews.com/world/houthis-emerge-global-threat-iran-control-saudi-attacks-says-former-envoy"
    ]
   },
   "WSJ": {
@@ -324,11 +325,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792080126.0,
-   "n": "سفیر اسرائیل در سازمان ملل متحد دانی دانون ما گزارش هایی را دیده ایم که جمهوری اسلامی ایران حزب الله و سایر افراط گرایان در منطقه ما توطئه می کنند تا از دوره انتخابات در اسرائیل سوءاستفاده کنند مهم نیست که یک مانور موشکی بالستیک تحریک آمیز باشد یک حمله سایبری یا یک کمپین اطلاعات نادرست ما یک هشدار روشن صادر می کنیم هر کسی که تلاش کند اسرائیل را تهدید یا حمله کند با پیامدهای ویرانگر مواجه خواهد شد",
-   "fa": "🇮🇱🇺🇳❌〰️🇮🇷🏴 سفیر اسرائیل در سازمان ملل متحد، دانی دانون: ما گزارش‌هایی را دیده‌ایم که جمهوری‌ اسلامی ایران، حزب‌الله و سایر افراط‌گرایان در منطقه ما توطئه می‌کنند تا از دوره انتخابات در اسرائیل سوءاستفاده کنند. مهم نیست که یک مانور موشکی بالستیک تحریک‌آمیز باشد، یک حمله سایبری یا یک کمپین اطلاعات نادرست. ما یک هشدار روشن صادر می‌کنیم: هر کسی که تلاش کند اسرائیل را تهدید یا حمله کند، با پیامدهای ویر"
-  },
   {
    "t": 1792081078.0,
    "n": "پزشکیان شجاعت پرستاران در جنگ های تحمیلی اخیر باید سینه به سینه گفته شود",
@@ -623,19 +619,20 @@
    "t": 1792103409.0,
    "n": "آمریکا در حرکتی بی سابقه طی ۲۴ ساعت گذشته ۹۰ هواپیمای نظامی را از اروپا به خاورمیانه فرستاده است",
    "fa": "🔄 به‌روزرسانی 🚨 آمریکا در حرکتی بی سابقه طی ۲۴ ساعت گذشته ۹۰ هواپیمای نظامی را از اروپا به خاورمیانه فرستاده است"
+  },
+  {
+   "t": 1792103157.0,
+   "n": "houthis emerge as global threat beyond iran control amid saudi strikes former envoy warns the houthis are increasingly operating independently of tehran posing a clear and very present danger on the international stage as the terror group rearms and sharpens its strike capabilities a former u s envoy warned thursday the warning came amid deadly missile and drone attacks on saudi arabia in recent d",
+   "fa": "🔴 هشدار مقام پیشین آمریکایی درباره تبدیل شدن حوثی‌ها به خطری جهانی فراتر از کنترل ایران به گزارش فاکس نیوز یک فرستاده پیشین ایالات متحده روز پنج‌شنبه هشدار داد که حوثی‌ها به طور فزاینده‌ای مستقل از تهران عمل می‌کنند و با مسلح شدن مجدد و تقویت توانایی‌های حمله‌ای خود، خطری آشکار و بسیار جدی را در صحنه بین‌المللی ایجاد می‌کنند. این هشدار در پی حملات مرگبار موشکی و پهپادی به عربستان سعودی در روزهای ا"
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 242
+  "requests": 244
  },
- "flip": 418,
- "quote_n": 178,
+ "flip": 419,
+ "quote_n": 179,
  "digest": [
-  {
-   "t": 1792017344.0,
-   "h": "🇺🇸🇻🇦⚡️ — رئیس‌جمهور ترامپ درباره پاپ لئو چهاردهم: می‌خواهم ببینم پاپ لئو بهبود یابد. من پیش‌آگهی این نوع مشکل را شنیده‌ام. این سرطان است؛ هر زمان که س"
-  },
   {
    "t": 1792017832.0,
    "h": "🇺🇸〰️⚠️هشدار ایالات متحده به کشورهای خلیج فارس: برای جنگ آماده شوید. 💢واشینگتن از قریب‌الوقوع بودن درگیری نظامی در منطقه خبر داد."
@@ -1559,6 +1556,10 @@
   {
    "t": 1792103409.0,
    "h": "🔄 به‌روزرسانی 🚨 آمریکا در حرکتی بی سابقه طی ۲۴ ساعت گذشته ۹۰ هواپیمای نظامی را از اروپا به خاورمیانه فرستاده است"
+  },
+  {
+   "t": 1792103157.0,
+   "h": "🔴 هشدار مقام پیشین آمریکایی درباره تبدیل شدن حوثی‌ها به خطری جهانی فراتر از کنترل ایران به گزارش فاکس نیوز یک فرستاده پیشین ایالات متحده روز پنج‌شنبه "
   }
  ],
  "risk": {
