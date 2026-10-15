@@ -7,13 +7,13 @@
    "last_id": 569814
   },
   "KH_B2": {
-   "last_id": 131747
+   "last_id": 131748
   },
   "TelNews_Magazine": {
    "last_id": 101211
   },
   "NE_WG": {
-   "last_id": 114555
+   "last_id": 114556
   }
  },
  "fails": {},
@@ -319,11 +319,6 @@
  },
  "recent": [
   {
-   "t": 1792071215.0,
-   "n": "israeli prime minister benjamin netanyahu says he personally spoke with syrian president ahmed al sharaa during the clashes between syrian forces and the israeli backed druze led suwayda national guard in syria s suwayda governorate in mid 2025 i made a phone call to the syrian president it was a very short very direct conversation and the massacre stopped netanyahu said claiming his intervention ",
-   "fa": "🇮🇱🇸🇾⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل گفت که شخصاً در جریان درگیری‌های میان نیروهای سوری و گارد ملی سویدا تحت حمایت اسرائیل در استان سویدای سوریه در اواسط سال ۲۰۲۵، با احمد الشراع، رئیس‌جمهور سوریه گفتگو کرده است. نتانیاهو مدعی شد: «من با رئیس‌جمهور سوریه تلفنی صحبت کردم. این یک مکالمه بسیار کوتاه و بسیار مستقیم بود و کشتار متوقف شد» و افزود که مداخله او به پایان درگیری‌های سنگین کمک کرده ا"
-  },
-  {
    "t": 1792071447.0,
    "n": "president trump has begun privately asking allies for their opinions on white house chief of staff susie wiles and discussing potential replacements according to politico among the names reportedly being considered are stephen miller randy levine steve witkoff bill pulte and former house speaker kevin mccarthy sources said some of wiles political rivals have encouraged trump to replace her citing ",
    "fa": "🇺🇸⚡️ — به گزارش پولیتیکو، رئیس‌جمهور ترامپ به طور خصوصی از متحدانش درباره نظراتشان در مورد سوزی وایلز، رئیس کارکنان کاخ سفید، پرس‌وجو کرده و در حال بررسی جایگزین‌های احتمالی است. نام‌های استیون میلر، رندی لوین، استیو ویتکوف، بیل پولتی و کوین مک‌کارتی، رئیس پیشین مجلس نمایندگان، در میان گزینه‌های احتمالی گزارش شده است. منابع گفتند برخی از رقبای سیاسی وایلز ترامپ را به جایگزینی او تشویق کرده‌اند و ب"
@@ -617,27 +612,20 @@
    "t": 1792089751.0,
    "n": "russian president vladimir putin they took the first step we began responding now they re already whining about the energy sector and other facilities as well including data centers and so on they started it they shouldn t have started it before taking that step they should have thought carefully about the consequences",
    "fa": "🇷🇺🇺🇦⚡️ — رئیس‌جمهور روسیه، ولادیمیر پوتین: آن‌ها گام اول را برداشتند. ما شروع به پاسخ دادن کردیم. حالا آن‌ها دارند درباره بخش انرژی و سایر تأسیسات از جمله مراکز داده و غیره زاری می‌کنند. آن‌ها شروع کردند. نباید شروع می‌کردند. پیش از برداشتن آن گام، آن‌ها باید با دقت درباره پیامدهای آن فکر می‌کردند."
+  },
+  {
+   "t": 1792090001.0,
+   "n": "سنتکام کشته شدن سه سرباز آمریکایی را در حادثه ای مربوط به چند ماه پیش تایید کرد",
+   "fa": "🇺🇸🇮🇷سنتکام کشته‌شدن سه سرباز آمریکایی را در حادثه‌ای مربوط به چند ماه پیش تایید کرد"
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 199
+  "requests": 200
  },
  "flip": 404,
  "quote_n": 162,
  "digest": [
-  {
-   "t": 1792003904.0,
-   "h": "⭕️ قالیباف: دشمن به غلط احساس کرد که ما ضعیف شدیم و به همین جهت به ما حمله کرد البته امروز فهمیده که اشتباه کرده است اما هنوز امیدهایی دارد که ما باید"
-  },
-  {
-   "t": 1792004027.0,
-   "h": "⭕️قالیباف: درباره پیشنهاد آمریکا باید بگویم که آن‌ها باید تنبیه و شیرفهم شوند که خواسته‌های به‌حق ملت ایران را بپذیرند"
-  },
-  {
-   "t": 1792004481.0,
-   "h": "🇺🇸🇺🇦⚡️ — پیرز مورگان: شما هیچ تصمیمی برای استعفا ندارید؟ زلنسکی: البته که نه. این مسئولیت من است."
-  },
   {
    "t": 1792004545.0,
    "h": "🇺🇦🇺🇸⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: آنچه واقعاً عجیب بود و شبیه شرکا نبود، این بود که آن‌ها استارلینک را قطع کردند. قدم‌های کاملاً دیوانه‌وا"
@@ -1637,6 +1625,10 @@
   {
    "t": 1792089751.0,
    "h": "🇷🇺🇺🇦⚡️ — رئیس‌جمهور روسیه، ولادیمیر پوتین: آن‌ها گام اول را برداشتند. ما شروع به پاسخ دادن کردیم. حالا آن‌ها دارند درباره بخش انرژی و سایر تأسیسات از "
+  },
+  {
+   "t": 1792090001.0,
+   "h": "🇺🇸🇮🇷سنتکام کشته‌شدن سه سرباز آمریکایی را در حادثه‌ای مربوط به چند ماه پیش تایید کرد"
   }
  ],
  "risk": {
