@@ -69,7 +69,8 @@
     "https://www.foxnews.com/world/woman-found-floating-sea-going-overboard-royal-caribbean-ship",
     "https://www.foxnews.com/world/trump-wishes-pope-leo-speedy-recovery-after-lung-cancer-diagnosis-speaks-highly-pontiffs-brother",
     "https://www.foxnews.com/world/pentagon-sends-hundreds-army-troops-latin-america-training-drug-trafficking-campaign-expands",
-    "https://www.foxnews.com/world/el-salvador-bukele-announces-plan-free-half-prisoners-jailed-gang-crackdown"
+    "https://www.foxnews.com/world/el-salvador-bukele-announces-plan-free-half-prisoners-jailed-gang-crackdown",
+    "https://www.foxnews.com/world/un-inquiry-member-says-some-genocide-claims-against-israel-unverified-gaza-reports-population-growth"
    ]
   },
   "WSJ": {
@@ -306,11 +307,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792053263.0,
-   "n": "خبرها و وعده های جدید وزیر ارتباطات مصوبه ای برای رفع فیلتر سکوها تصویب کرده ایم و پیگیر هستیم ستار هاشمی وزیر ارتباطات در گفت وگو با فارس عنوان کرده که در شورای عالی فضای مجازی مصوبه ای ۳۲بندی برای رفع فیلتر پلتفرم ها تصویب شده است و اجرای آن پیگیری خواهد شد",
-   "fa": "🔴 خبرها و وعده های جدید وزیر ارتباطات: مصوبه‌ای برای رفع فیلتر سکوها تصویب کرده‌ایم و پیگیر هستیم ستار هاشمی، وزیر ارتباطات در گفت‌وگو با فارس عنوان کرده که در شورای‌عالی فضای مجازی مصوبه‌ای ۳۲بندی برای رفع فیلتر پلتفرم‌ها تصویب شده است و اجرای آن پیگیری خواهد شد"
-  },
   {
    "t": 1792053802.0,
    "n": "قیمت طلا و سکه هم اکنون قیمت طلا مجددا افزایش یافت",
@@ -605,19 +601,20 @@
    "t": 1792067946.0,
    "n": "polish prime minister donald tusk after my talks with european leaders in brussels today i can reassure you dear ukrainian friends and president zelensky you are not alone",
    "fa": "🇵🇱🇪🇺🇺🇦⚡️ — دونالد تاسک، نخست‌وزیر لهستان: پس از گفتگوهای امروز خود با رهبران اروپا در بروکسل، می‌توانم به شما، دوستان عزیز اوکراینی و رئیس‌جمهور زلنسکی، اطمینان دهم: شما تنها نیستید."
+  },
+  {
+   "t": 1792067858.0,
+   "n": "un inquiry member says some genocide claims against israel unverified as gaza reports population growth the allegations of genocide against israel took more hits this week following the reported admission by a senior member of the u n commission of inquiry on israel that claims had not been independently verified this comes as the palestinian ministry of health data shows gaza s population grew in",
+   "fa": "🔴 عضو کمیسیون تحقیق سازمان ملل اذعان کرد ادعاهای نسل‌کشی علیه اسرائیل مستقل راستی‌آزمایی نشده است به گزارش فاکس نیوز ادعاهای نسل‌کشی علیه اسرائیل پس از اعتراف گزارش‌شده یک عضو ارشد کمیسیون تحقیق سازمان ملل متحد درباره اسرائیل مبنی بر اینکه ادعاها به‌طور مستقل راستی‌آزمایی نشده‌اند، با چالش‌های بیشتری روبه‌رو شد. این تحول در حالی رخ می‌دهد که داده‌های وزارت بهداشت فلسطین نشان می‌دهد جمعیت غزه در سا"
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 117
+  "requests": 120
  },
- "flip": 366,
+ "flip": 367,
  "quote_n": 135,
  "digest": [
-  {
-   "t": 1791990642.0,
-   "h": "⭕️ارتش آمریکا در حال انتقال تجهیزات نظامی از قبرس به امارات است!"
-  },
   {
    "t": 1791991105.0,
    "h": "🇮🇷🇮🇱🇱🇧 عراقچی خواستار توقف حملات اسرائیل به لبنان شد 💢وزارت امور خارجه ایران اعلام کرد عباس عراقچی در تماس تلفنی با رئیس‌جمهور لبنان، بر ضرورت توقف حم"
@@ -1617,6 +1614,10 @@
   {
    "t": 1792067946.0,
    "h": "🇵🇱🇪🇺🇺🇦⚡️ — دونالد تاسک، نخست‌وزیر لهستان: پس از گفتگوهای امروز خود با رهبران اروپا در بروکسل، می‌توانم به شما، دوستان عزیز اوکراینی و رئیس‌جمهور زلنسک"
+  },
+  {
+   "t": 1792067858.0,
+   "h": "🔴 عضو کمیسیون تحقیق سازمان ملل اذعان کرد ادعاهای نسل‌کشی علیه اسرائیل مستقل راستی‌آزمایی نشده است به گزارش فاکس نیوز ادعاهای نسل‌کشی علیه اسرائیل پس ا"
   }
  ],
  "risk": {
