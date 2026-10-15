@@ -212,7 +212,8 @@
     "WP-WSJ-0003976414",
     "SB12199027810792643414104593510762760397172",
     "SB10222543145185073693004593512141807321184",
-    "SB10222543145185073693004593509682486146660"
+    "SB10222543145185073693004593509682486146660",
+    "WP-WSJ-0003975946"
    ]
   },
   "NYT": {
@@ -295,11 +296,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792004623.0,
-   "n": "piers morgan do you think elon musk has deliberately turned the speed down on starlink to damage you zelensky they knew what they did absolutely",
-   "fa": "🇺🇦🇺🇸⚡️ — پیرز مورگان: آیا فکر می‌کنید ایلان ماسک عمداً سرعت استارلینک را کم کرده تا به شما آسیب برساند؟ زلنسکی: آن‌ها می‌دانستند چه کاری انجام داده‌اند، کاملاً."
-  },
   {
    "t": 1792004717.0,
    "n": "piers morgan is putin the hitler of our time zelensky absolutely it s true morgan do you think he is that evil zelensky he is not so strong as evil",
@@ -594,14 +590,19 @@
    "t": 1792021877.0,
    "n": "the u s proposed that european countries release part of russia s frozen sovereign assets and transfer them into a u s controlled fund as part of efforts to revive peace negotiations over ukraine according to ft the proposal presented by u s envoy steve witkoff and jared kushner was rejected by european officials who opposed surrendering control of the funds or allowing any assets to be returned t",
    "fa": "🇺🇸🇺🇦🇷🇺⚡️ — به گزارش فایننشال تایمز، ایالات متحده پیشنهاد کرد که کشورهای اروپایی بخشی از دارایی‌های حاکمیتی مسدودشده روسیه را آزاد کرده و آن‌ها را به صندوقی تحت کنترل ایالات متحده منتقل کنند تا به عنوان بخشی از تلاش‌ها برای احیای مذاکرات صلح درباره اوکراین انجام شود. این پیشنهاد که توسط استیو ویتکاف، فرستاده ایالات متحده، و جارد کوشنر ارائه شد، توسط مقامات اروپایی رد شد؛ آن‌ها با واگذاری کنترل این "
+  },
+  {
+   "t": 1792022400.0,
+   "n": "starlink suspicions and a frantic warning inside trump s turn on zelensky limitations on ukraine s access to military grade starlink terminals sparked panic among its officials and several u s lawmakers",
+   "fa": "🔴 محدودیت دسترسی اوکراین به پایانارهای استارلینک مایه نگرانی مقامات این کشور شد به گزارش وال‌استریت ژورنال محدودیت‌های اعمال شده بر دسترسی اوکراین به پایانارهای نظامی استارلینک باعث ایجاد وحشت در میان مقامات این کشور و چندین قانونگذار آمریکایی شد."
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 0
+  "requests": 2
  },
- "flip": 276,
- "quote_n": 100,
+ "flip": 277,
+ "quote_n": 101,
  "digest": [
   {
    "t": 1791965415.0,
@@ -1602,6 +1603,10 @@
   {
    "t": 1792021877.0,
    "h": "🇺🇸🇺🇦🇷🇺⚡️ — به گزارش فایننشال تایمز، ایالات متحده پیشنهاد کرد که کشورهای اروپایی بخشی از دارایی‌های حاکمیتی مسدودشده روسیه را آزاد کرده و آن‌ها را به ص"
+  },
+  {
+   "t": 1792022400.0,
+   "h": "🔴 محدودیت دسترسی اوکراین به پایانارهای استارلینک مایه نگرانی مقامات این کشور شد به گزارش وال‌استریت ژورنال محدودیت‌های اعمال شده بر دسترسی اوکراین به "
   }
  ],
  "risk": {
