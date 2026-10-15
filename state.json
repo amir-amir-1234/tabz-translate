@@ -73,7 +73,8 @@
     "https://www.foxnews.com/world/un-inquiry-member-says-some-genocide-claims-against-israel-unverified-gaza-reports-population-growth",
     "https://www.foxnews.com/world/not-wanted-irish-hotel-reportedly-cancels-70-rooms-reserved-antisemitism-conference-attendees",
     "https://www.foxnews.com/world/albania-rioters-clash-police-socialist-government-european-unrest-spreads",
-    "https://www.foxnews.com/world/houthis-emerge-global-threat-iran-control-saudi-attacks-says-former-envoy"
+    "https://www.foxnews.com/world/houthis-emerge-global-threat-iran-control-saudi-attacks-says-former-envoy",
+    "https://www.foxnews.com/world/autistic-teen-lured-fake-snapchat-meetup-brutally-beaten-group-teens-report"
    ]
   },
   "WSJ": {
@@ -628,19 +629,11 @@
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 244
+  "requests": 245
  },
  "flip": 419,
  "quote_n": 179,
  "digest": [
-  {
-   "t": 1792017832.0,
-   "h": "🇺🇸〰️⚠️هشدار ایالات متحده به کشورهای خلیج فارس: برای جنگ آماده شوید. 💢واشینگتن از قریب‌الوقوع بودن درگیری نظامی در منطقه خبر داد."
-  },
-  {
-   "t": 1792017848.0,
-   "h": "🇺🇸🇮🇷💢حداقل ۸ هواپیمای سوخت‌رسان آمریکایی در حال حاضر در آسمان خاورمیانه و خلیج فارس فعال هستند."
-  },
   {
    "t": 1792018006.0,
    "h": "🇰🇵⚡️ — کره شمالی اعلام کرد روز چهارشنبه دو نوع موشک کروز راهبردی زیردریایی‌پرتاب را با هدف ارزیابی توانایی‌های عملیاتی نیروی دریایی و قابلیت اطمینان ب"
