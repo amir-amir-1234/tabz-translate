@@ -4,7 +4,7 @@
    "last_id": 108075
   },
   "khabarfouri": {
-   "last_id": 569735
+   "last_id": 569736
   },
   "KH_B2": {
    "last_id": 131704
@@ -304,11 +304,6 @@
  },
  "recent": [
   {
-   "t": 1792024400.0,
-   "n": "the trump administration is considering easing sanctions on vessels belonging to the so called shadow fleet previously used to transport oil from russia iran and venezuela in an effort to reduce record high global shipping costs according to reuters the proposal would allow previously sanctioned vessels to transport oil and petroleum products that are not themselves subject to u s sanctions compan",
-   "fa": "🇺🇸🇷🇺🇮🇷🇻🇪⚡️ — به گزارش رویترز، دولت ترامپ در حال بررسی لغو تحریم‌های مربوط به کشتی‌های موسوم به ناوگان در سایه است که پیش‌تر برای حمل نفت از روسیه، ایران و ونزوئلا استفاده می‌شدند؛ این اقدام با هدف کاهش هزینه‌های رکوردشکن حمل‌ونقل دریایی جهان انجام می‌شود. این پیشنهاد به کشتی‌های تحریم‌شده پیشین اجازه خواهد داد تا نفت و فرآورده‌های نفتی را که خود مشمول تحریم‌های ایالات متحده نیستند، حمل کنند. شرکت‌"
-  },
-  {
    "t": 1792030113.0,
    "n": "president trump on iran their army is decimated their leaders are gone i should have probably left the leaders alone because i don t know who the hell we re negotiating with now their main thing that they ask in negotiation is will you please allow us to live they don t want us to go after them one way or the other it s going to end very quickly",
    "fa": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره ایران: ارتش آن‌ها منهدم شده است. رهبران آن‌ها رفته‌اند. من احتمالاً باید رهبران را به حال خود رها می‌کردم، زیرا نمی‌دانم با چه کسی طرف هستیم و با چه کسی مذاکره می‌کنیم. اکنون اصلی‌ترین خواسته آن‌ها در مذاکرات این است که «آیا لطفاً اجازه می‌دهید زنده بمانیم؟» آن‌ها نمی‌خواهند ما به دنبالشان برویم. به هر شکل، این ماجرا بسیار به سرعت پایان خواهد یافت."
@@ -602,13 +597,18 @@
    "t": 1792053263.0,
    "n": "خبرها و وعده های جدید وزیر ارتباطات مصوبه ای برای رفع فیلتر سکوها تصویب کرده ایم و پیگیر هستیم ستار هاشمی وزیر ارتباطات در گفت وگو با فارس عنوان کرده که در شورای عالی فضای مجازی مصوبه ای ۳۲بندی برای رفع فیلتر پلتفرم ها تصویب شده است و اجرای آن پیگیری خواهد شد",
    "fa": "🔴 خبرها و وعده های جدید وزیر ارتباطات: مصوبه‌ای برای رفع فیلتر سکوها تصویب کرده‌ایم و پیگیر هستیم ستار هاشمی، وزیر ارتباطات در گفت‌وگو با فارس عنوان کرده که در شورای‌عالی فضای مجازی مصوبه‌ای ۳۲بندی برای رفع فیلتر پلتفرم‌ها تصویب شده است و اجرای آن پیگیری خواهد شد"
+  },
+  {
+   "t": 1792053802.0,
+   "n": "قیمت طلا و سکه هم اکنون قیمت طلا مجددا افزایش یافت",
+   "fa": "⭕️ قیمت طلا و سکه هم اکنون قیمت طلا مجددا افزایش یافت"
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 71
+  "requests": 72
  },
- "flip": 317,
+ "flip": 318,
  "quote_n": 115,
  "digest": [
   {
@@ -1610,6 +1610,10 @@
   {
    "t": 1792053263.0,
    "h": "🔴 خبرها و وعده های جدید وزیر ارتباطات: مصوبه‌ای برای رفع فیلتر سکوها تصویب کرده‌ایم و پیگیر هستیم ستار هاشمی، وزیر ارتباطات در گفت‌وگو با فارس عنوان ک"
+  },
+  {
+   "t": 1792053802.0,
+   "h": "⭕️ قیمت طلا و سکه هم اکنون قیمت طلا مجددا افزایش یافت"
   }
  ],
  "risk": {
