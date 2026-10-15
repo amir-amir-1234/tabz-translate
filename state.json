@@ -66,7 +66,8 @@
     "https://www.foxnews.com/world/african-nations-knifes-edge-us-embassy-warns-americans-long-range-attacks",
     "https://www.foxnews.com/world/pope-leo-undergoes-blood-tests-x-ray-following-cancer-surgery-vatican-says",
     "https://www.foxnews.com/world/cartels-use-drones-scout-border-agents-map-smuggling-routes-expert-warns",
-    "https://www.foxnews.com/world/woman-found-floating-sea-going-overboard-royal-caribbean-ship"
+    "https://www.foxnews.com/world/woman-found-floating-sea-going-overboard-royal-caribbean-ship",
+    "https://www.foxnews.com/world/trump-wishes-pope-leo-speedy-recovery-after-lung-cancer-diagnosis-speaks-highly-pontiffs-brother"
    ]
   },
   "WSJ": {
@@ -602,7 +603,7 @@
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 15
+  "requests": 16
  },
  "flip": 281,
  "quote_n": 103,
