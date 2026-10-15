@@ -4,13 +4,13 @@
    "last_id": 108141
   },
   "khabarfouri": {
-   "last_id": 569812
+   "last_id": 569813
   },
   "KH_B2": {
    "last_id": 131744
   },
   "TelNews_Magazine": {
-   "last_id": 101209
+   "last_id": 101210
   },
   "NE_WG": {
    "last_id": 114552
@@ -319,11 +319,6 @@
  },
  "recent": [
   {
-   "t": 1792068328.0,
-   "n": "islamic republic of iran navy has published footage of an oil tanker ablaze in the gulf of oman reporting that its surveillance forces identified it several hours ago passing through an area prohibited by iranian authorities with tracking systems disabled",
-   "fa": "🇮🇷⚡️ — نیروی دریایی جمهوری اسلامی ایران ویدیویی از یک نفتکش در حال سوختن در دریای عمان منتشر کرد و گزارش داد نیروهای شناسایی این نیرو چند ساعت پیش آن را در حال عبور از منطقه ممنوعه توسط مقامات ایرانی با سیستم‌های ردیابی خاموش شناسایی کرده بودند."
-  },
-  {
    "t": 1792068710.0,
    "n": "danish pm mette frederiksen on starlink i don t think they should turn it off because we are not able to protect europe if they turn it off so if they want to protect nato if they want to protect europe it has to stay open",
    "fa": "🇩🇰🇺🇸🇺🇦⚡️ — مته فردریکسن، نخست‌وزیر دانمارک درباره استارلینک: فکر نمی‌کنم آن‌ها باید آن را خاموش کنند، زیرا اگر آن را خاموش کنند، ما قادر به محافظت از اروپا نیستیم. بنابراین اگر آن‌ها می‌خواهند از ناتو محافظت کنند، اگر می‌خواهند از اروپا محافظت کنند، باید روشن بماند."
@@ -617,14 +612,19 @@
    "t": 1792087384.0,
    "n": "senior pentagon officials intend to delay releasing an internal investigation into the u s airstrike on shajarah tayyebeh elementary school in minab southern iran until after the november midterm elections according to bloomberg the strike carried out on the first day of the war killed more than 150 people including at least 123 children investigators identified flawed intelligence outdated satell",
    "fa": "🇺🇸🇮🇷⚡️ — به گزارش بلومبرگ، مقامات ارشد پنتاگون قصد دارند انتشار تحقیقات داخلی درباره حمله هوایی ایالات متحده به مدرسه ابتدایی شجره طیبه در میناب واقع در جنوب ایران را تا پس از انتخابات میان‌دوره‌ای نوامبر به تعویق بیندازند. این حمله که در روز اول جنگ انجام شد، بیش از ۱۵۰ نفر از جمله دست‌کم ۱۲۳ کودک را به کشتن داد. بازرسان اطلاعات نادرست، تصاویر ماهواره‌ای منسوخ و اتکای بیش از حد به هوش مصنوعی را ب"
+  },
+  {
+   "t": 1792088349.0,
+   "n": "هشدار وزارت اقتصاد به دستگاه ها تا ۶ ماه دیگر اموال مازادتان را تعیین تکلیف کنید سرپرست مرکز مولدسازی دارایی های دولت طبق قانون اگر دستگاه ها اموال مازاد خود را به روش های تعیین شده مولدسازی نکنند این مرکز بنا بر اختیارات قانونی اموال مازاد دستگاه ها را مولدسازی خواهد کرد",
+   "fa": "🔴 هشدار وزارت اقتصاد به دستگاه‌ها: تا ۶ ماه دیگر اموال مازادتان را تعیین‌تکلیف کنید سرپرست مرکز مولدسازی دارایی‌های دولت: طبق قانون اگر دستگاه‌ها اموال مازاد خود را به روش‌های تعیین شده، مولدسازی نکنند، این مرکز بنا بر اختیارات قانونی اموال مازاد دستگاه‌ها را مولدسازی خواهد کرد."
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 191
+  "requests": 192
  },
- "flip": 398,
- "quote_n": 159,
+ "flip": 399,
+ "quote_n": 160,
  "digest": [
   {
    "t": 1792003501.0,
@@ -1625,6 +1625,10 @@
   {
    "t": 1792087384.0,
    "h": "🇺🇸🇮🇷⚡️ — به گزارش بلومبرگ، مقامات ارشد پنتاگون قصد دارند انتشار تحقیقات داخلی درباره حمله هوایی ایالات متحده به مدرسه ابتدایی شجره طیبه در میناب واقع "
+  },
+  {
+   "t": 1792088349.0,
+   "h": "🔴 هشدار وزارت اقتصاد به دستگاه‌ها: تا ۶ ماه دیگر اموال مازادتان را تعیین‌تکلیف کنید سرپرست مرکز مولدسازی دارایی‌های دولت: طبق قانون اگر دستگاه‌ها اموا"
   }
  ],
  "risk": {
