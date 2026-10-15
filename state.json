@@ -256,7 +256,8 @@
     "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
     "https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html",
     "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
-    "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html"
+    "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html",
+    "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html"
    ]
   },
   "Treasury": {
@@ -297,11 +298,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792005094.0,
-   "n": "ukrainian president zelensky some big guys want to change me because i will never accept ukrainian land as russian land",
-   "fa": "🇺🇦🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: برخی افراد بزرگ می‌خواهند من را تغییر دهند زیرا من هرگز زمین اوکراین را به عنوان زمین روسیه نخواهم پذیرفت."
-  },
   {
    "t": 1792005184.0,
    "n": "ویدئوی سفیر جدید آلمان در تهران از آغاز فعالیتش در ایران از کوچه برلن تا چای با نبات",
@@ -596,14 +592,19 @@
    "t": 1792030544.0,
    "n": "ادعای ترامپ ایرانی ها از من قول گرفتند که دیگر هیچ یک از رهبران ایران را هدف قرار ندهم و من به آن ها قول دادم",
    "fa": "🔴 ادعای ترامپ: ایرانی‌ها از من قول گرفتند که دیگر هیچ‌یک از رهبران ایران را هدف قرار ندهم و من به آن‌ها قول دادم!"
+  },
+  {
+   "t": 1792031272.0,
+   "n": "openai engineer who is charged with planting bug advised saudis the employee now fired had said he advised government agencies in saudi arabia he was also listed as a partner at a venture firm with a saudi prince",
+   "fa": "⭕️ مهندس اخراج شده اوپن‌ای‌آر به نهادهای دولتی عربستان مشاوره داده بود به گزارش نیویورک تایمز این کارمند که اکنون اخراج شده است، اعلام کرد که به نهادهای دولتی در عربستان سعودی مشاوره داده است. وی همچنین به عنوان شریک در یک شرکت سرمایه‌گذاری خطرپذیر با یک شاهزاده سعودی فهرست شده بود."
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 8
+  "requests": 10
  },
- "flip": 279,
- "quote_n": 101,
+ "flip": 280,
+ "quote_n": 102,
  "digest": [
   {
    "t": 1791966495.0,
@@ -1604,6 +1605,10 @@
   {
    "t": 1792030544.0,
    "h": "🔴 ادعای ترامپ: ایرانی‌ها از من قول گرفتند که دیگر هیچ‌یک از رهبران ایران را هدف قرار ندهم و من به آن‌ها قول دادم!"
+  },
+  {
+   "t": 1792031272.0,
+   "h": "⭕️ مهندس اخراج شده اوپن‌ای‌آر به نهادهای دولتی عربستان مشاوره داده بود به گزارش نیویورک تایمز این کارمند که اکنون اخراج شده است، اعلام کرد که به نهاده"
   }
  ],
  "risk": {
