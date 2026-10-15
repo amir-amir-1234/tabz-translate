@@ -71,7 +71,8 @@
     "https://www.foxnews.com/world/pentagon-sends-hundreds-army-troops-latin-america-training-drug-trafficking-campaign-expands",
     "https://www.foxnews.com/world/el-salvador-bukele-announces-plan-free-half-prisoners-jailed-gang-crackdown",
     "https://www.foxnews.com/world/un-inquiry-member-says-some-genocide-claims-against-israel-unverified-gaza-reports-population-growth",
-    "https://www.foxnews.com/world/not-wanted-irish-hotel-reportedly-cancels-70-rooms-reserved-antisemitism-conference-attendees"
+    "https://www.foxnews.com/world/not-wanted-irish-hotel-reportedly-cancels-70-rooms-reserved-antisemitism-conference-attendees",
+    "https://www.foxnews.com/world/albania-rioters-clash-police-socialist-government-european-unrest-spreads"
    ]
   },
   "WSJ": {
@@ -611,7 +612,7 @@
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 132
+  "requests": 133
  },
  "flip": 375,
  "quote_n": 137,
