@@ -7,13 +7,13 @@
    "last_id": 569810
   },
   "KH_B2": {
-   "last_id": 131738
+   "last_id": 131740
   },
   "TelNews_Magazine": {
-   "last_id": 101200
+   "last_id": 101201
   },
   "NE_WG": {
-   "last_id": 114547
+   "last_id": 114549
   }
  },
  "fails": {},
@@ -225,7 +225,8 @@
     "WP-WSJ-0003978709",
     "WP-WSJ-0003971930",
     "WP-WSJ-0003977800",
-    "WP-WSJ-0003979658"
+    "WP-WSJ-0003979658",
+    "WP-WSJ-0003972377"
    ]
   },
   "NYT": {
@@ -288,7 +289,8 @@
     "https://home.treasury.gov/news/press-releases/sb0656/",
     "https://home.treasury.gov/news/press-releases/sb0657/",
     "https://home.treasury.gov/news/press-releases/sb0658/",
-    "https://home.treasury.gov/news/press-releases/sb0659/"
+    "https://home.treasury.gov/news/press-releases/sb0659/",
+    "https://home.treasury.gov/news/press-releases/sb0661/"
    ]
   },
   "OFAC": {
@@ -311,11 +313,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792066738.0,
-   "n": "ft what s your understanding of the nature of the relationship between trump and putin zelensky i think president trump is a man who speaks about it openly and loudly that he loves such people and respects such people because for him people who can be leaders for 20 years 30 years 40 years that means they are very strong because they can hold power",
-   "fa": "🇺🇦🇺🇸🇷🇺⚡️ — فایننشال تایمز: برداشت شما از ماهیت رابطه بین ترامپ و پوتین چیست؟ زلنسکی: فکر می‌کنم رئیس‌جمهور ترامپ مردی است که صراحتاً و با صدای بلند درباره آن صحبت می‌کند، که او چنین افرادی را دوست دارد و به چنین افرادی احترام می‌گذارد. زیرا برای او، افرادی که می‌توانند ۲۰ سال، ۳۰ سال، ۴۰ سال رهبر باشند — این به معنای آن است که آن‌ها بسیار قدرتمند هستند، زیرا می‌توانند قدرت را حفظ کنند."
-  },
   {
    "t": 1792066819.0,
    "n": "ukrainian president zelensky putin can t do anything on the territory of ukraine today without big losses he can move one kilometer two kilometers ten kilometers and there are a lot of losses as a result of these kilometers",
@@ -610,19 +607,20 @@
    "t": 1792083579.0,
    "n": "وزارت خزانه داری آمریکا تحریم هایی را علـیه ۱۶ فرد و ۱۰ نهاد مرتبط با ایران اعمال کردیم",
    "fa": "🔄 به‌روزرسانی 🚨 وزارت خزانه‌داری آمریکا: تحریم‌هایی را علـیه ۱۶ فرد و ۱۰ نهاد مرتبط با ایران اعمال کردیم."
+  },
+  {
+   "t": 1792083924.0,
+   "n": "نتانیاهو تحرکاتی را در میان سپاه پاسداران ایران مشاهده میکنم",
+   "fa": "⭕️نتانیاهو: تحرکاتی را در میان سپاه پاسداران ایران مشاهده میکنم"
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 170
+  "requests": 171
  },
  "flip": 390,
- "quote_n": 153,
+ "quote_n": 154,
  "digest": [
-  {
-   "t": 1791999463.0,
-   "h": "🇮🇶🇮🇶⚡️ — ابومجاهد الاساف، مسئول امنیتی کتائب حزب‌الله، با انتشار بیانیه‌ای از علی الزیدی، نخست‌وزیر عراق، خواست تا مواضع خود را درباره محاصره ایالات م"
-  },
   {
    "t": 1791999582.0,
    "h": "🇮🇹🇸🇦 شرکت هواپیمایی ایتالیا، تعلیق پروازها از ریاض و به مقصد آن را تا ۱۸ نوامبر تمدید کرد."
@@ -1622,6 +1620,10 @@
   {
    "t": 1792083579.0,
    "h": "🔄 به‌روزرسانی 🚨 وزارت خزانه‌داری آمریکا: تحریم‌هایی را علـیه ۱۶ فرد و ۱۰ نهاد مرتبط با ایران اعمال کردیم."
+  },
+  {
+   "t": 1792083924.0,
+   "h": "⭕️نتانیاهو: تحرکاتی را در میان سپاه پاسداران ایران مشاهده میکنم"
   }
  ],
  "risk": {
