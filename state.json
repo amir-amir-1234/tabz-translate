@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108106
+   "last_id": 108107
   },
   "khabarfouri": {
    "last_id": 569786
@@ -10,7 +10,7 @@
    "last_id": 131727
   },
   "TelNews_Magazine": {
-   "last_id": 101183
+   "last_id": 101186
   },
   "NE_WG": {
    "last_id": 114536
@@ -309,16 +309,6 @@
  },
  "recent": [
   {
-   "t": 1792056129.0,
-   "n": "بابک زنجانی دلار رو میتونم بیارم زیر ۲۰۰ هزارتومن",
-   "fa": "⭕️بابک زنجانی: دلار رو میتونم بیارم زیر ۲۰۰ هزارتومن"
-  },
-  {
-   "t": 1792056480.0,
-   "n": "eurozone industrial output continued to decline in august the fall in activity compounds a tough few months for the industrial sector in the region",
-   "fa": "⭕️ ادامه روند نزولی تولید صنعتی منطقه یورو در ماه اوت به گزارش وال‌استریت ژورنال فعالیت‌های بخش صنعتی در منطقه یورو در ماه اوت به روند نزولی خود ادامه داد. این افت فعالیت، ماه‌های دشواری را برای بخش صنعتی این منطقه رقم زده است."
-  },
-  {
    "t": 1792056600.0,
    "n": "the engineer accused of bugging openai s top secret conference room abdulrahman alfozan kept ties in saudi arabia while he rose in silicon valley until federal agents accused him of hiding a recorder behind a conference room television",
    "fa": "🔴 اتهام جاسوسی از اتاق کنفرانس محرمانه OpenAI به یک مهندس به گزارش وال‌استریت ژورنال عبدالرحمن الفوزان همزمان با پیشرفت در سیلیکون ولی روابط خود را با عربستان سعودی حفظ کرده بود، تا اینکه ماموران فدرال او را به پنهان کردن یک دستگاه ضبط صوت در پشت تلویزیون اتاق کنفرانس متهم کردند."
@@ -607,19 +597,25 @@
    "t": 1792071215.0,
    "n": "israeli prime minister benjamin netanyahu says he personally spoke with syrian president ahmed al sharaa during the clashes between syrian forces and the israeli backed druze led suwayda national guard in syria s suwayda governorate in mid 2025 i made a phone call to the syrian president it was a very short very direct conversation and the massacre stopped netanyahu said claiming his intervention ",
    "fa": "🇮🇱🇸🇾⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل گفت که شخصاً در جریان درگیری‌های میان نیروهای سوری و گارد ملی سویدا تحت حمایت اسرائیل در استان سویدای سوریه در اواسط سال ۲۰۲۵، با احمد الشراع، رئیس‌جمهور سوریه گفتگو کرده است. نتانیاهو مدعی شد: «من با رئیس‌جمهور سوریه تلفنی صحبت کردم. این یک مکالمه بسیار کوتاه و بسیار مستقیم بود و کشتار متوقف شد» و افزود که مداخله او به پایان درگیری‌های سنگین کمک کرده ا"
+  },
+  {
+   "t": 1792071447.0,
+   "n": "president trump has begun privately asking allies for their opinions on white house chief of staff susie wiles and discussing potential replacements according to politico among the names reportedly being considered are stephen miller randy levine steve witkoff bill pulte and former house speaker kevin mccarthy sources said some of wiles political rivals have encouraged trump to replace her citing ",
+   "fa": "🇺🇸⚡️ — به گزارش پولیتیکو، رئیس‌جمهور ترامپ به طور خصوصی از متحدانش درباره نظراتشان در مورد سوزی وایلز، رئیس کارکنان کاخ سفید، پرس‌وجو کرده و در حال بررسی جایگزین‌های احتمالی است. نام‌های استیون میلر، رندی لوین، استیو ویتکوف، بیل پولتی و کوین مک‌کارتی، رئیس پیشین مجلس نمایندگان، در میان گزینه‌های احتمالی گزارش شده است. منابع گفتند برخی از رقبای سیاسی وایلز ترامپ را به جایگزینی او تشویق کرده‌اند و ب"
+  },
+  {
+   "t": 1792071493.0,
+   "n": "استفاده از رمز ۱۲۳۴۵۶ اطلاعات میلیون ها نفر را لو داد استفاده از رمز عبور ساده ۱۲۳۴۵۶ در یک شرکت کوچک فناوری اطلاعات دانمارکی زمینه دسترسی غیرمجاز به سامانه ثبت احوال این کشور و افشای اطلاعات هویتی حدود ۸ ۸ میلیون نفر را فراهم کرد",
+   "fa": "⭕️استفاده از رمز ۱۲۳۴۵۶، اطلاعات میلیون‌ها نفر را لو داد استفاده از رمز عبور سادهٔ «۱۲۳۴۵۶» در یک شرکت کوچک فناوری اطلاعات دانمارکی، زمینهٔ دسترسی غیرمجاز به سامانهٔ ثبت احوال این کشور و افشای اطلاعات هویتی حدود ۸.۸ میلیون نفر را فراهم کرد."
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 130
+  "requests": 131
  },
- "flip": 373,
+ "flip": 375,
  "quote_n": 137,
  "digest": [
-  {
-   "t": 1791993610.0,
-   "h": "🚨دو انفجار در تنگه هرمز"
-  },
   {
    "t": 1791993630.0,
    "h": "🏴‍☠️❌🇮🇶 — سرتیپ احمد یاسر خضیر حسین، فرمانده فرماندهی ارتباطات لشکر ۱۱ پیاده‌ نظام عراق، پس از کمین بمب کنار جاده‌ای داعش در منطقه کرکوک کشته شد. یک س"
@@ -1619,6 +1615,14 @@
   {
    "t": 1792071215.0,
    "h": "🇮🇱🇸🇾⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل گفت که شخصاً در جریان درگیری‌های میان نیروهای سوری و گارد ملی سویدا تحت حمایت اسرائیل در استان سویدای سور"
+  },
+  {
+   "t": 1792071447.0,
+   "h": "🇺🇸⚡️ — به گزارش پولیتیکو، رئیس‌جمهور ترامپ به طور خصوصی از متحدانش درباره نظراتشان در مورد سوزی وایلز، رئیس کارکنان کاخ سفید، پرس‌وجو کرده و در حال بر"
+  },
+  {
+   "t": 1792071493.0,
+   "h": "⭕️استفاده از رمز ۱۲۳۴۵۶، اطلاعات میلیون‌ها نفر را لو داد استفاده از رمز عبور سادهٔ «۱۲۳۴۵۶» در یک شرکت کوچک فناوری اطلاعات دانمارکی، زمینهٔ دسترسی غیر"
   }
  ],
  "risk": {
