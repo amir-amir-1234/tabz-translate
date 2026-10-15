@@ -13,7 +13,7 @@
    "last_id": 101169
   },
   "NE_WG": {
-   "last_id": 114522
+   "last_id": 114523
   }
  },
  "fails": {},
@@ -306,11 +306,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792039926.0,
-   "n": "one source to cnn reports that president trump has ruled out sending in ground forces to invade iran president trump remains focused on attempting to present a win to the american people without overly negatively affecting diplomacy with iran one source to cnn reports these strikes are intended to create an off ramp allowing trump to claim a win centcom appears to be preparing for retaliation by n",
-   "fa": "🇺🇸🇮🇷⚡️ — یک منبع به سی‌ان‌ان گزارش داد که رئیس‌جمهور ترامپ اعزام نیروهای زمینی برای تهاجم به ایران را رد کرده است. رئیس‌جمهور ترامپ همچنان بر تلاش برای ارائه یک پیروزی به مردم آمریکا بدون تأثیر منفی بیش از حد بر دیپلماسی با ایران تمرکز دارد. یک منبع به سی‌ان‌ان گزارش داد که این حملات با هدف ایجاد یک مسیر خروج طراحی شده‌اند تا به ترامپ اجازه دهند ادعای پیروزی کند. به نظر می‌رسد سنتکام با جایگزین نک"
-  },
   {
    "t": 1792040295.0,
    "n": "u s mission saudi arabia announces all u s government employees require special authorization to use any airport in ksa following ansarallah missile uav strikes u s mission saudi arabia also announced that u s citizens have been detained for filming publishing and or sharing impacts and interception sites and reminded u s citizens present they are subject to saudi laws",
@@ -605,23 +600,20 @@
    "t": 1792058427.0,
    "n": "پزشکیان تلاش می کنیم نگرانی های مردم را رفع کنیم",
    "fa": "🎥پزشکیان: تلاش می‌کنیم نگرانی‌های مردم را رفع کنیم"
+  },
+  {
+   "t": 1792058729.0,
+   "n": "منابع عربی صدای انفجار در تنگه هرمز",
+   "fa": "🚨منابع عربی: صدای انفجار در تنگه هرمز"
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 84
+  "requests": 86
  },
  "flip": 331,
- "quote_n": 124,
+ "quote_n": 125,
  "digest": [
-  {
-   "t": 1791982183.0,
-   "h": "🇬🇧🇺🇸 ۳ هواپیمای ترابری نظامی آمریکایی، بریتانیایی و ایتالیایی به سمت خاورمیانه در حرکت هستند."
-  },
-  {
-   "t": 1791982222.0,
-   "h": "🚨فوری/ جماران: احتمال گران شدن ۴۰ درصدی اینترنت از امشب بر اساس اطلاعات دریافتی از سوی اپراتورها، تعرفه اینترنت از بامداد پنجشنبه، ۲۳ مهرماه، ۴۰ درصد "
-  },
   {
    "t": 1791982449.0,
    "h": "🇺🇸🇮🇱🇮🇷⚡️ — مایک هاکبی، سفیر ایالات متحده در اسرائیل: این ایده که نخست‌وزیر نتانیاهو او را از حلقه بینی‌اش گرفته و به اطراف کشیده، کاملاً پوچ است. ترام"
@@ -1621,13 +1613,17 @@
   {
    "t": 1792058427.0,
    "h": "🎥پزشکیان: تلاش می‌کنیم نگرانی‌های مردم را رفع کنیم"
+  },
+  {
+   "t": 1792058729.0,
+   "h": "🚨منابع عربی: صدای انفجار در تنگه هرمز"
   }
  ],
  "risk": {
   "base": 95,
-  "ts": 1792053082.7301817,
+  "ts": 1792058778.5066686,
   "attack": false,
-  "reason": "تنش‌ها و تحرکات نظامی بالا است اما حمله مستقیمی رخ نداده است."
+  "reason": "تداوم تهدیدات لفظی و تحرکات نظامی بالا در منطقه احتمال درگیری را در سطح بالایی نگه داشته است."
  },
- "risk_try": 1792053082.7301817
+ "risk_try": 1792058778.5066686
 }
