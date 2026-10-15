@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108068
+   "last_id": 108069
   },
   "khabarfouri": {
    "last_id": 569648
@@ -297,11 +297,6 @@
  },
  "recent": [
   {
-   "t": 1792004852.0,
-   "n": "ukrainian president zelensky russia is losing 43 000 men each month for every ukrainian being killed 7 to 10 russians are being killed",
-   "fa": "🇺🇦🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: روسیه ماهیانه ۴۳ هزار نیرو از دست می‌دهد. در ازای هر اوکراینی کشته‌شده، ۷ تا ۱۰ روس کشته می‌شوند."
-  },
-  {
    "t": 1792005002.0,
    "n": "ukrainian president zelensky not trump not musk not anybody in the world can choose the president of ukraine it s the people of ukraine that can do that if i am replaced i m sure the new man or woman will defend our country because this is our home",
    "fa": "🇺🇦🇺🇸⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: نه ترامپ، نه ماسک و نه هیچ‌کس دیگری در جهان نمی‌تواند رئیس‌جمهور اوکراین را انتخاب کند. این مردم اوکراین هستند که می‌توانند این کار را انجام دهند. اگر من جایگزین شوم، مطمئنم که فرد جدید از کشور ما دفاع خواهد کرد زیرا اینجا خانه ماست."
@@ -595,19 +590,20 @@
    "t": 1792023972.0,
    "n": "a hacker breached denmark s national population register through an it company that used the password 123456 for multiple accounts including an administrator account politiken reports the breach which occurred earlier this month exposed personal information on approximately 8 8 million people including names addresses and danish cpr identification numbers the affected records include both current ",
    "fa": "⭕️ دانمارک⚡️ — به گزارش پولیتیکن، یک هکر از طریق یک شرکت فناوری اطلاعات که از رمز عبور «123456» برای چندین حساب کاربری از جمله حساب مدیریت استفاده می‌کرد، به ثبت احوال ملی دانمارک نفوذ کرد. این نفوذ که اوایل همین ماه رخ داد، اطلاعات شخصی حدود ۸.۸ میلیون نفر از جمله نام، آدرس و شماره شناسایی CPR دانمارکی را فاش کرد. سوابق آسیب‌دیده شامل ساکنان فعلی و افرادی است که فوت کرده یا مهاجرت کرده‌اند."
+  },
+  {
+   "t": 1792024400.0,
+   "n": "the trump administration is considering easing sanctions on vessels belonging to the so called shadow fleet previously used to transport oil from russia iran and venezuela in an effort to reduce record high global shipping costs according to reuters the proposal would allow previously sanctioned vessels to transport oil and petroleum products that are not themselves subject to u s sanctions compan",
+   "fa": "🇺🇸🇷🇺🇮🇷🇻🇪⚡️ — به گزارش رویترز، دولت ترامپ در حال بررسی لغو تحریم‌های مربوط به کشتی‌های موسوم به ناوگان در سایه است که پیش‌تر برای حمل نفت از روسیه، ایران و ونزوئلا استفاده می‌شدند؛ این اقدام با هدف کاهش هزینه‌های رکوردشکن حمل‌ونقل دریایی جهان انجام می‌شود. این پیشنهاد به کشتی‌های تحریم‌شده پیشین اجازه خواهد داد تا نفت و فرآورده‌های نفتی را که خود مشمول تحریم‌های ایالات متحده نیستند، حمل کنند. شرکت‌"
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 3
+  "requests": 4
  },
  "flip": 278,
  "quote_n": 101,
  "digest": [
-  {
-   "t": 1791965660.0,
-   "h": "⭕️ اموال و دارایی‌های یک متهم در یزد توقیف شد دادستان مرکز استان یزد از توقیف و مسدودسازی اموال و دارایی‌های یک فعال سیاسی و اجتماعی سابق در پرونده‌ای"
-  },
   {
    "t": 1791965892.0,
    "h": "🔴 شانس میلیمتری راننده سواری یک راننده تنها چند ثانیه فرصت داشت تا واکنش نشان دهد، زمانی که یک کامیون حمل بار بزرگ در یک بزرگراه در چین واژگون شد و تن"
@@ -1607,6 +1603,10 @@
   {
    "t": 1792023972.0,
    "h": "⭕️ دانمارک⚡️ — به گزارش پولیتیکن، یک هکر از طریق یک شرکت فناوری اطلاعات که از رمز عبور «123456» برای چندین حساب کاربری از جمله حساب مدیریت استفاده می‌"
+  },
+  {
+   "t": 1792024400.0,
+   "h": "🇺🇸🇷🇺🇮🇷🇻🇪⚡️ — به گزارش رویترز، دولت ترامپ در حال بررسی لغو تحریم‌های مربوط به کشتی‌های موسوم به ناوگان در سایه است که پیش‌تر برای حمل نفت از روسیه، ایر"
   }
  ],
  "risk": {
