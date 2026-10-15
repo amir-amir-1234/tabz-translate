@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108133
+   "last_id": 108135
   },
   "khabarfouri": {
    "last_id": 569809
@@ -10,7 +10,7 @@
    "last_id": 131737
   },
   "TelNews_Magazine": {
-   "last_id": 101197
+   "last_id": 101199
   },
   "NE_WG": {
    "last_id": 114546
@@ -312,11 +312,6 @@
  },
  "recent": [
   {
-   "t": 1792066357.0,
-   "n": "ukrainian president zelensky i said to my military people that during the energy ceasefire we would not attack russian refineries or anything connected with diesel because even if we are right and we are right somebody will say that we broke the energy ceasefire i don t want to play this game that s why for three days we didn t attack any of russia s energy or diesel infrastructure and for three d",
-   "fa": "🔄 به‌روزرسانی 🇺🇦🇺🇸🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: به نظامیان خود گفتم که در طول آتش‌بس انرژی، ما به پالایشگاه‌های روسیه یا هر چیزی که به گازوئیل مربوط باشد حمله نخواهیم کرد. زیرا حتی اگر حق با ما باشد، و حق با ماست، کسی خواهد گفت که ما آتش‌بس انرژی را نقض کردیم. من نمی‌خواهم این بازی را انجام دهم. به همین دلیل، به مدت سه روز، ما به هیچ‌یک از زیرساخت‌های انرژی یا گازوئیل روسیه حمله نکرد"
-  },
-  {
    "t": 1792066473.0,
    "n": "ukrainian president zelensky the question is can you give me missiles for patriot because when i don t attack them because you asked me not to attack them they will attack me it s fair if you give me something with which to defend myself that s the minimum i m asking for and when i m asking this your answer is blocking starlink",
    "fa": "🇺🇦🇺🇸🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: سوال این است: آیا می‌توانید به من موشک‌های پاتریوت بدهید؟ زیرا وقتی من به آن‌ها حمله نمی‌کنم، چون شما از من خواستید که حمله نکنم، آن‌ها به من حمله می‌کنند. منصفانه است اگر چیزی به من بدهید که بتوانم با آن از خود دفاع کنم. این حداقل چیزی است که درخواست می‌کنم. و وقتی این را درخواست می‌کنم، پاسخ شما مسدود کردن استارلینک است."
@@ -610,13 +605,18 @@
    "t": 1792082172.0776703,
    "n": "iran related designations cuba designation issuance of new and amended general licenses and frequently asked questions the department of the treasury s office of foreign assets control ofac is issuing russia related general license 128d authorizing certain transactions involving lukoil retail service stations located outside of russia and russia related general license 130b authorizing transaction",
    "fa": "🚨 صدور مجوزها و اعمال تحریم‌های جدید مرتبط با ایران، روسیه و کوبا توسط اوفک به گزارش دفتر کنترل دارایی‌های خارجی آمریکا (اوفک)، این نهاد مجوز عمومی شماره ۱۲۸D مرتبط با روسیه را با عنوان «مجوز انجام برخی معاملات مربوط به جایگاه‌های سوخت خرده‌فروشی لوکویل واقع در خارج از روسیه» و همچنین مجوز عمومی شماره ۱۳۰B مرتبط با روسیه را با عنوان «مجوز انجام معاملات مربوط به برخی نهادهای لوکویل در بلغارستان» صا"
+  },
+  {
+   "t": 1792082970.0,
+   "n": "the united kingdom is supplying ukraine with additional long range storm shadow cruise missiles to help disrupt russian military operations targeting ukrainian civilian infrastructure ahead of winter according to bloomberg the deliveries were discussed during ukrainian president zelensky s visit to london on wednesday where he met with british prime minister andy burnham",
+   "fa": "🇬🇧🇺🇦🇷🇺⚡️ — به گزارش بلومبرگ، بریتانیا موشک‌های کروز دوربرد اضافی «استورم شادو» را به اوکراین ارسال می‌کند تا به مختل کردن عملیات نظامی روسیه با هدف قرار دادن زیرساخت‌های غیرنظامی اوکراین پیش از زمستان کمک کند. این محموله‌ها در جریان سفر ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در روز چهارشنبه به لندن که طی آن با اندی برنهام، نخست‌وزیر بریتانیا دیدار کرد، مورد بحث قرار گرفت. زلنسکی هنگام پرسش درباره کی"
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 166
+  "requests": 167
  },
- "flip": 389,
+ "flip": 390,
  "quote_n": 151,
  "digest": [
   {
@@ -1618,6 +1618,10 @@
   {
    "t": 1792082172.0776703,
    "h": "🚨 صدور مجوزها و اعمال تحریم‌های جدید مرتبط با ایران، روسیه و کوبا توسط اوفک به گزارش دفتر کنترل دارایی‌های خارجی آمریکا (اوفک)، این نهاد مجوز عمومی شم"
+  },
+  {
+   "t": 1792082970.0,
+   "h": "🇬🇧🇺🇦🇷🇺⚡️ — به گزارش بلومبرگ، بریتانیا موشک‌های کروز دوربرد اضافی «استورم شادو» را به اوکراین ارسال می‌کند تا به مختل کردن عملیات نظامی روسیه با هدف قر"
   }
  ],
  "risk": {
