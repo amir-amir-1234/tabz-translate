@@ -290,7 +290,8 @@
     "https://home.treasury.gov/news/press-releases/sb0657/",
     "https://home.treasury.gov/news/press-releases/sb0658/",
     "https://home.treasury.gov/news/press-releases/sb0659/",
-    "https://home.treasury.gov/news/press-releases/sb0661/"
+    "https://home.treasury.gov/news/press-releases/sb0661/",
+    "https://home.treasury.gov/news/press-releases/sb0660/"
    ]
   },
   "OFAC": {
@@ -313,11 +314,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792066819.0,
-   "n": "ukrainian president zelensky putin can t do anything on the territory of ukraine today without big losses he can move one kilometer two kilometers ten kilometers and there are a lot of losses as a result of these kilometers",
-   "fa": "🇺🇦🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: پوتین امروز نمی‌تواند کاری در خاک اوکراین بدون تلفات سنگین انجام دهد. او می‌تواند یک کیلومتر، دو کیلومتر یا ده کیلومتر پیشروی کند، اما تلفات زیادی در ازای این کیلومترها به جا می‌گذارد."
-  },
   {
    "t": 1792066933.0,
    "n": "ukrainian president zelensky i understand that trump has a lot of challenges like iran the middle east and elections somebody is moving him in the wrong direction",
@@ -612,19 +608,20 @@
    "t": 1792083924.0,
    "n": "نتانیاهو تحرکاتی را در میان سپاه پاسداران ایران مشاهده میکنم",
    "fa": "⭕️نتانیاهو: تحرکاتی را در میان سپاه پاسداران ایران مشاهده میکنم"
+  },
+  {
+   "t": 1792083600.0,
+   "n": "operation economic outcast targets iran s international financial networks and shadow banking architecture action disrupts iraqi bank enabling iranian sanctions evasion and cuts off key foreign currency lifelines washington today as part of operation economic outcast the u s department of the treasury disrupted iran s efforts to infiltrate the international financial system through an iraqi bank t",
+   "fa": "🔄 به‌روزرسانی 🚨 وزارت خزانه‌داری آمریکا شبکه مالی پنهان ایران و یک بانک عراقی را هدف تحریم قرار داد به گزارش وزارت خزانه‌داری آمریکا، در راستای عملیات طرد اقتصادی، وزارت خزانه‌داری آمریکا تلاش‌های ایران برای نفوذ به سیستم مالی بین‌المللی از طریق یک بانک عراقی که از گروه‌های شبه‌نظامی نیابتی تروریستی ایران نیز حمایت می‌کند را مختل کرد. با برچیدن این نهادها شامل بانک‌های برون‌مرزی و تأمین‌کنندگان ما"
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 171
+  "requests": 173
  },
  "flip": 390,
  "quote_n": 154,
  "digest": [
-  {
-   "t": 1791999582.0,
-   "h": "🇮🇹🇸🇦 شرکت هواپیمایی ایتالیا، تعلیق پروازها از ریاض و به مقصد آن را تا ۱۸ نوامبر تمدید کرد."
-  },
   {
    "t": 1792000068.0,
    "h": "🇾🇪❌🇸🇦🇾🇪 — انصارالله اعلام کرد فرودگاه بین‌المللی ملک خالد در ریاض را با یک فروند موشک بالستیک هدف قرار داده و مدعی اصابت این حمله شد. انصارالله همچنین"
@@ -1624,6 +1621,10 @@
   {
    "t": 1792083924.0,
    "h": "⭕️نتانیاهو: تحرکاتی را در میان سپاه پاسداران ایران مشاهده میکنم"
+  },
+  {
+   "t": 1792083600.0,
+   "h": "🔄 به‌روزرسانی 🚨 وزارت خزانه‌داری آمریکا شبکه مالی پنهان ایران و یک بانک عراقی را هدف تحریم قرار داد به گزارش وزارت خزانه‌داری آمریکا، در راستای عملیات"
   }
  ],
  "risk": {
