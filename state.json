@@ -7,16 +7,18 @@
    "last_id": 569812
   },
   "KH_B2": {
-   "last_id": 131742
+   "last_id": 131743
   },
   "TelNews_Magazine": {
-   "last_id": 101208
+   "last_id": 101209
   },
   "NE_WG": {
-   "last_id": 114551
+   "last_id": 114552
   }
  },
- "fails": {},
+ "fails": {
+  "tabzlive/108141": 1
+ },
  "web": {
   "Fox News": {
    "seen": [
@@ -319,16 +321,6 @@
  },
  "recent": [
   {
-   "t": 1792067626.0,
-   "n": "the trump administration is pushing for a broad israeli unity government that would allow prime minister benjamin netanyahu to remain in office for up to two years before retiring from politics according to israel hayom the proposed coalition would bring together netanyahu s likud party and gadi eisenkot s yashar party with the aim of ending ongoing regional conflicts and securing diplomatic agree",
-   "fa": "🇮🇱🇺🇸⚡️ — به نوشته روزنامه اسرائیل هیوم، دولت ترامپ در تلاش است تا زمینه تشکیل یک دولت ائتلافی گسترده در اسرائیل را فراهم کند که به بنیامین نتانیاهو، نخست‌وزیر این رژیم، اجازه می‌دهد تا پیش از کناره‌گیری از دنیای سیاست، تا دو سال دیگر در سمت خود باقی بماند. ائتلاف پیشنهادی حزب لیکود به رهبری نتانیاهو و حزب «یشار» به رهبری گادی آیزنکوت را گردهم می‌آورد و هدف آن پایان دادن به درگیری‌های منطقه‌ای جاری"
-  },
-  {
-   "t": 1792067946.0,
-   "n": "polish prime minister donald tusk after my talks with european leaders in brussels today i can reassure you dear ukrainian friends and president zelensky you are not alone",
-   "fa": "🇵🇱🇪🇺🇺🇦⚡️ — دونالد تاسک، نخست‌وزیر لهستان: پس از گفتگوهای امروز خود با رهبران اروپا در بروکسل، می‌توانم به شما، دوستان عزیز اوکراینی و رئیس‌جمهور زلنسکی، اطمینان دهم: شما تنها نیستید."
-  },
-  {
    "t": 1792067858.0,
    "n": "un inquiry member says some genocide claims against israel unverified as gaza reports population growth the allegations of genocide against israel took more hits this week following the reported admission by a senior member of the u n commission of inquiry on israel that claims had not been independently verified this comes as the palestinian ministry of health data shows gaza s population grew in",
    "fa": "🔴 عضو کمیسیون تحقیق سازمان ملل اذعان کرد ادعاهای نسل‌کشی علیه اسرائیل مستقل راستی‌آزمایی نشده است به گزارش فاکس نیوز ادعاهای نسل‌کشی علیه اسرائیل پس از اعتراف گزارش‌شده یک عضو ارشد کمیسیون تحقیق سازمان ملل متحد درباره اسرائیل مبنی بر اینکه ادعاها به‌طور مستقل راستی‌آزمایی نشده‌اند، با چالش‌های بیشتری روبه‌رو شد. این تحول در حالی رخ می‌دهد که داده‌های وزارت بهداشت فلسطین نشان می‌دهد جمعیت غزه در سا"
@@ -617,14 +609,24 @@
    "t": 1792086846.0,
    "n": "استانبول زیر آب رفت باران های سیل آسا در ترکیه جان ۳ تن را گرفت و خسارات گسترده برجای گذاشت",
    "fa": "🔴 استانبول زیر آب رفت باران‌های سیل آسا در ترکیه جان ۳ تن را گرفت و خسارات گسترده برجای گذاشت."
+  },
+  {
+   "t": 1792087286.0,
+   "n": "گسیل نیرو و تجهیزات بی سابقه نیروهای مسلح ایران به نوار مرزی ایران با اقلیم کردستان عراق آقای اقتصاد",
+   "fa": "🎥گسیل نیرو و تجهیزات بی سابقه نیروهای مسلح ایران به نوار مرزی ایران با اقلیم کردستان عراق/آقای اقتصاد"
+  },
+  {
+   "t": 1792087293.0,
+   "n": "اطلاعات اسرائیل ایران در حال آماده سازی برای یک حمله پیش دستانه می باشد ما حرکات نظامی غیرمعمولی را در ایران شناسایی کرده ایم",
+   "fa": "⭕️اطلاعات اسرائیل: ایران در حال آماده‌سازی برای یک حمله پیش‌دستانه می باشد، ما \"حرکات نظامی غیرمعمولی\" را در ایران شناسایی کرده‌ایم"
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 185
+  "requests": 189
  },
- "flip": 397,
- "quote_n": 158,
+ "flip": 398,
+ "quote_n": 159,
  "digest": [
   {
    "t": 1792002967.0,
@@ -1625,6 +1627,14 @@
   {
    "t": 1792086846.0,
    "h": "🔴 استانبول زیر آب رفت باران‌های سیل آسا در ترکیه جان ۳ تن را گرفت و خسارات گسترده برجای گذاشت."
+  },
+  {
+   "t": 1792087286.0,
+   "h": "🎥گسیل نیرو و تجهیزات بی سابقه نیروهای مسلح ایران به نوار مرزی ایران با اقلیم کردستان عراق/آقای اقتصاد"
+  },
+  {
+   "t": 1792087293.0,
+   "h": "⭕️اطلاعات اسرائیل: ایران در حال آماده‌سازی برای یک حمله پیش‌دستانه می باشد، ما \"حرکات نظامی غیرمعمولی\" را در ایران شناسایی کرده‌ایم"
   }
  ],
  "risk": {
