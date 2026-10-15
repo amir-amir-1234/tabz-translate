@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108140
+   "last_id": 108141
   },
   "khabarfouri": {
    "last_id": 569812
@@ -16,9 +16,7 @@
    "last_id": 114552
   }
  },
- "fails": {
-  "tabzlive/108141": 1
- },
+ "fails": {},
  "web": {
   "Fox News": {
    "seen": [
@@ -321,11 +319,6 @@
  },
  "recent": [
   {
-   "t": 1792067858.0,
-   "n": "un inquiry member says some genocide claims against israel unverified as gaza reports population growth the allegations of genocide against israel took more hits this week following the reported admission by a senior member of the u n commission of inquiry on israel that claims had not been independently verified this comes as the palestinian ministry of health data shows gaza s population grew in",
-   "fa": "🔴 عضو کمیسیون تحقیق سازمان ملل اذعان کرد ادعاهای نسل‌کشی علیه اسرائیل مستقل راستی‌آزمایی نشده است به گزارش فاکس نیوز ادعاهای نسل‌کشی علیه اسرائیل پس از اعتراف گزارش‌شده یک عضو ارشد کمیسیون تحقیق سازمان ملل متحد درباره اسرائیل مبنی بر اینکه ادعاها به‌طور مستقل راستی‌آزمایی نشده‌اند، با چالش‌های بیشتری روبه‌رو شد. این تحول در حالی رخ می‌دهد که داده‌های وزارت بهداشت فلسطین نشان می‌دهد جمعیت غزه در سا"
-  },
-  {
    "t": 1792068328.0,
    "n": "islamic republic of iran navy has published footage of an oil tanker ablaze in the gulf of oman reporting that its surveillance forces identified it several hours ago passing through an area prohibited by iranian authorities with tracking systems disabled",
    "fa": "🇮🇷⚡️ — نیروی دریایی جمهوری اسلامی ایران ویدیویی از یک نفتکش در حال سوختن در دریای عمان منتشر کرد و گزارش داد نیروهای شناسایی این نیرو چند ساعت پیش آن را در حال عبور از منطقه ممنوعه توسط مقامات ایرانی با سیستم‌های ردیابی خاموش شناسایی کرده بودند."
@@ -619,23 +612,20 @@
    "t": 1792087293.0,
    "n": "اطلاعات اسرائیل ایران در حال آماده سازی برای یک حمله پیش دستانه می باشد ما حرکات نظامی غیرمعمولی را در ایران شناسایی کرده ایم",
    "fa": "⭕️اطلاعات اسرائیل: ایران در حال آماده‌سازی برای یک حمله پیش‌دستانه می باشد، ما \"حرکات نظامی غیرمعمولی\" را در ایران شناسایی کرده‌ایم"
+  },
+  {
+   "t": 1792087384.0,
+   "n": "senior pentagon officials intend to delay releasing an internal investigation into the u s airstrike on shajarah tayyebeh elementary school in minab southern iran until after the november midterm elections according to bloomberg the strike carried out on the first day of the war killed more than 150 people including at least 123 children investigators identified flawed intelligence outdated satell",
+   "fa": "🇺🇸🇮🇷⚡️ — به گزارش بلومبرگ، مقامات ارشد پنتاگون قصد دارند انتشار تحقیقات داخلی درباره حمله هوایی ایالات متحده به مدرسه ابتدایی شجره طیبه در میناب واقع در جنوب ایران را تا پس از انتخابات میان‌دوره‌ای نوامبر به تعویق بیندازند. این حمله که در روز اول جنگ انجام شد، بیش از ۱۵۰ نفر از جمله دست‌کم ۱۲۳ کودک را به کشتن داد. بازرسان اطلاعات نادرست، تصاویر ماهواره‌ای منسوخ و اتکای بیش از حد به هوش مصنوعی را ب"
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 189
+  "requests": 190
  },
  "flip": 398,
  "quote_n": 159,
  "digest": [
-  {
-   "t": 1792002967.0,
-   "h": "⭕️هر سه اپراتور ایرانسل، همراه اول و رایتل با ابراز تعجب از رقم ۴۰ درصد اعلام کردند که درخواست آنها افزایش ۱۰۰ درصدی تعرفه‌ها بوده است!"
-  },
-  {
-   "t": 1792003017.0,
-   "h": "🇮🇷🇺🇸📲ترامپ این پست رو دوباره بازنشر کرد: رژیم ایران به زودی میفهمه که نباید قدرت آمریکا رو به چالش میکشید. همچنین در انتهای ویدیو صحبت های خودش در ۹ ا"
-  },
   {
    "t": 1792003140.0,
    "h": "🔴 چین به دلیل موانع تجاری فزاینده تمایلی به از دست دادن بازار اروپا ندارد به گزارش وال‌استریت ژورنال در حالی که چین با موانع تجاری بیشتری روبه‌رو است،"
@@ -1635,6 +1625,10 @@
   {
    "t": 1792087293.0,
    "h": "⭕️اطلاعات اسرائیل: ایران در حال آماده‌سازی برای یک حمله پیش‌دستانه می باشد، ما \"حرکات نظامی غیرمعمولی\" را در ایران شناسایی کرده‌ایم"
+  },
+  {
+   "t": 1792087384.0,
+   "h": "🇺🇸🇮🇷⚡️ — به گزارش بلومبرگ، مقامات ارشد پنتاگون قصد دارند انتشار تحقیقات داخلی درباره حمله هوایی ایالات متحده به مدرسه ابتدایی شجره طیبه در میناب واقع "
   }
  ],
  "risk": {
