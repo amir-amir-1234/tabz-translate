@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108069
+   "last_id": 108070
   },
   "khabarfouri": {
    "last_id": 569648
@@ -298,11 +298,6 @@
  },
  "recent": [
   {
-   "t": 1792005002.0,
-   "n": "ukrainian president zelensky not trump not musk not anybody in the world can choose the president of ukraine it s the people of ukraine that can do that if i am replaced i m sure the new man or woman will defend our country because this is our home",
-   "fa": "🇺🇦🇺🇸⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: نه ترامپ، نه ماسک و نه هیچ‌کس دیگری در جهان نمی‌تواند رئیس‌جمهور اوکراین را انتخاب کند. این مردم اوکراین هستند که می‌توانند این کار را انجام دهند. اگر من جایگزین شوم، مطمئنم که فرد جدید از کشور ما دفاع خواهد کرد زیرا اینجا خانه ماست."
-  },
-  {
    "t": 1792005061.0,
    "n": "المیادین مقامات ارشد ایران به طور کامل و با اطمینان 100 درصدی معتقدند که یک عملیات جدید آمریکا و اسرائیل علیه ایران در آستانه وقوع است",
    "fa": "⭕️المیادین: مقامات ارشد ایران به طور کامل و با اطمینان 100 درصدی معتقدند که یک عملیات جدید آمریکا و اسرائیل علیه ایران در آستانه وقوع است."
@@ -596,11 +591,16 @@
    "t": 1792024400.0,
    "n": "the trump administration is considering easing sanctions on vessels belonging to the so called shadow fleet previously used to transport oil from russia iran and venezuela in an effort to reduce record high global shipping costs according to reuters the proposal would allow previously sanctioned vessels to transport oil and petroleum products that are not themselves subject to u s sanctions compan",
    "fa": "🇺🇸🇷🇺🇮🇷🇻🇪⚡️ — به گزارش رویترز، دولت ترامپ در حال بررسی لغو تحریم‌های مربوط به کشتی‌های موسوم به ناوگان در سایه است که پیش‌تر برای حمل نفت از روسیه، ایران و ونزوئلا استفاده می‌شدند؛ این اقدام با هدف کاهش هزینه‌های رکوردشکن حمل‌ونقل دریایی جهان انجام می‌شود. این پیشنهاد به کشتی‌های تحریم‌شده پیشین اجازه خواهد داد تا نفت و فرآورده‌های نفتی را که خود مشمول تحریم‌های ایالات متحده نیستند، حمل کنند. شرکت‌"
+  },
+  {
+   "t": 1792030113.0,
+   "n": "president trump on iran their army is decimated their leaders are gone i should have probably left the leaders alone because i don t know who the hell we re negotiating with now their main thing that they ask in negotiation is will you please allow us to live they don t want us to go after them one way or the other it s going to end very quickly",
+   "fa": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره ایران: ارتش آن‌ها منهدم شده است. رهبران آن‌ها رفته‌اند. من احتمالاً باید رهبران را به حال خود رها می‌کردم، زیرا نمی‌دانم با چه کسی طرف هستیم و با چه کسی مذاکره می‌کنیم. اکنون اصلی‌ترین خواسته آن‌ها در مذاکرات این است که «آیا لطفاً اجازه می‌دهید زنده بمانیم؟» آن‌ها نمی‌خواهند ما به دنبالشان برویم. به هر شکل، این ماجرا بسیار به سرعت پایان خواهد یافت."
   }
  ],
  "usage": {
   "date": "2026-10-15",
-  "requests": 5
+  "requests": 7
  },
  "flip": 278,
  "quote_n": 101,
@@ -1604,13 +1604,17 @@
   {
    "t": 1792024400.0,
    "h": "🇺🇸🇷🇺🇮🇷🇻🇪⚡️ — به گزارش رویترز، دولت ترامپ در حال بررسی لغو تحریم‌های مربوط به کشتی‌های موسوم به ناوگان در سایه است که پیش‌تر برای حمل نفت از روسیه، ایر"
+  },
+  {
+   "t": 1792030113.0,
+   "h": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره ایران: ارتش آن‌ها منهدم شده است. رهبران آن‌ها رفته‌اند. من احتمالاً باید رهبران را به حال خود رها می‌کردم، زیرا نمی‌د"
   }
  ],
  "risk": {
   "base": 96,
-  "ts": 1792021559.5962725,
+  "ts": 1792030284.3423512,
   "attack": false,
-  "reason": "گزارش‌ها حاکی از تداوم درگیری‌ها در تنگه هرمز و هشدار مقامات درباره احتمال وقوع درگیری نظامی است."
+  "reason": "گزارش‌ها حاکی از آمادگی نظامی و هشدارهاست اما حمله مستقیم جدیدی رخ نداده است."
  },
- "risk_try": 1792021559.5962725
+ "risk_try": 1792030284.3423512
 }
