@@ -4,7 +4,7 @@
    "last_id": 108236
   },
   "khabarfouri": {
-   "last_id": 569925
+   "last_id": 569927
   },
   "KH_B2": {
    "last_id": 131814
@@ -13,7 +13,7 @@
    "last_id": 101269
   },
   "NE_WG": {
-   "last_id": 114628
+   "last_id": 114629
   }
  },
  "fails": {},
@@ -341,11 +341,6 @@
  },
  "recent": [
   {
-   "t": 1792155719.0,
-   "n": "ukrainian president zelensky yesterday there were a thousand drones in ukraine a thousand but the american side said it s difficult to speak with zelensky it s less difficult to deal with putin",
-   "fa": "🇺🇦🇺🇸🇷🇺⚡️ — رئیس‌جمهور اوکراین، زلنسکی: دیروز هزار پهپاد در اوکراین وجود داشت. هزارتا. اما طرف آمریکایی گفت: «صحبت کردن با زلنسکی دشوار است؛ معامله با پوتین کمتر دشوار است.»"
-  },
-  {
    "t": 1792155741.0,
    "n": "reporter do you think you are being treated as a scapegoat for trump s own problems zelensky smiles this is my answer",
    "fa": "🇺🇦🇺🇸⚡️ — خبرنگار: آیا فکر می‌کنید به عنوان مقصر مشکلات خود ترامپ با شما رفتار می‌شود؟ زلنسکی: *لبخند می‌زند* این پاسخ من است."
@@ -639,14 +634,19 @@
    "t": 1792168662.0,
    "n": "the israeli military says it fired an interceptor missile a short while ago at a suspicious aerial target detected over an area of southern lebanon where its forces are operating",
    "fa": "🇮🇱🇱🇧⚡️ — ارتش اسرائیل اعلام کرد که دقایقی پیش یک موشک رهگیر به سمت یک «هدف هوایی مشکوک» شناسایی شده بر فراز منطقه‌ای در جنوب لبنان که نیروهایش در آن فعال هستند، شلیک کرده است."
+  },
+  {
+   "t": 1792169074.0,
+   "n": "رئیس کمیسیون داخلی مجلس شعام هنوز مجوزی برای برگزاری انتخابات شوراها صادر نکرده است",
+   "fa": "⭕️ رئیس کمیسیون داخلی مجلس: شعام هنوز مجوزی برای برگزاری انتخابات شوراها صادر نکرده است"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 241
+  "requests": 250
  },
- "flip": 555,
- "quote_n": 236,
+ "flip": 556,
+ "quote_n": 237,
  "signals": [
   {
    "t": 1792154788.6619253,
@@ -872,6 +872,11 @@
    "t": 1792168886.927145,
    "s": 4,
    "p": 50
+  },
+  {
+   "t": 1792169272.4588346,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
