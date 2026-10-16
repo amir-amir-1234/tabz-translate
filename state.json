@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108276
+   "last_id": 108277
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131848
+   "last_id": 131849
   },
   "TelNews_Magazine": {
    "last_id": 101298
@@ -349,11 +349,6 @@
  },
  "recent": [
   {
-   "t": 1792173536.0,
-   "n": "scotland s snp led government is preparing to abandon its long standing opposition to new oil and gas exploration in the north sea according to politico the government plans to revise its energy strategy removing the presumption against new oil and gas developments introduced in a 2023 draft new projects will still be assessed against scotland s climate targets but the government will no longer op",
-   "fa": "🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧⚡️ — به گزارش پولیتیکو، دولت اسکاتلند به رهبری حزب ملی اسکاتلند در حال آماده شدن برای کنار گذاشتن مخالفت دیرینه خود با اکتشافات جدید نفت و گاز در دریای شمال است. این دولت قصد دارد استراتژی انرژی خود را بازنگری کند و فرض مخالفت با پروژه‌های جدید نفت و گاز را که در پیش‌نویس سال ۲۰۲۳ معرفی شده بود، حذف کند. پروژه‌های جدید همچنان با اهداف اقلیمی اسکاتلند سنجیده خواهند شد، اما دولت دیگر به‌طور"
-  },
-  {
    "t": 1792173668.0,
    "n": "پس واقعا مثل اینکه خبریه خبرگزاری فارس وابسته به سپاه پاسداران پستی در مورد رفع مشکل پرداخت آنلاین در زمان قطعی نت منتشر کرده",
    "fa": "💢پس واقعا مثل اینکه خبریه... 👀خبرگزاری فارس وابسته به سپاه پاسداران پستی در مورد رفع مشکل پرداخت آنلاین در زمان قطعی نت منتشر کرده..."
@@ -647,13 +642,18 @@
    "t": 1792188001.0,
    "n": "ترامپ دلم نمی خواست ایران را بمباران کنم روزی که شروع کردیم به بمباران حسابی ایران قیمت بنزین ۱ ۹۵ دلار بود که احتمالا کمی هم پایین بود اعضای کابینه ام را فراخواندم و گفتم رفقا دلم نمی خواهد این کار را بکنم",
    "fa": "💢ترامپ: دلم نمی‌خواست ایران‌ را بمباران کنم روزی که شروع کردیم به بمبارانِ حسابیِ ایران، قیمت بنزین ۱.۹۵ دلار بود. که احتمالاً کمی هم پایین بود. اعضای کابینه‌ام را فراخواندم و گفتم: «رفقا، دلم نمی‌خواهد این کار را بکنم.»"
+  },
+  {
+   "t": 1792188029.0,
+   "n": "president trump how do you like the deal i made on greenland got it for nothing it s probably the greatest real estate deal ever made although i think venezuela is pretty good too",
+   "fa": "🇺🇸🇬🇱🇩🇰⚡️ — رئیس‌جمهور ترامپ: معامله‌ای که روی گرینلند انجام دادم چطور است؟ مفت به دستش آوردم. این احتمالاً بزرگ‌ترین معامله ملکی است که تاکنون انجام شده. هرچند، فکر می‌کنم ونزوئلا هم خیلی خوب است."
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 379
+  "requests": 380
  },
- "flip": 620,
+ "flip": 621,
  "quote_n": 269,
  "signals": [
   {
