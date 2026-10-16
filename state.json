@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108261
+   "last_id": 108262
   },
   "khabarfouri": {
    "last_id": 569946
   },
   "KH_B2": {
-   "last_id": 131832
+   "last_id": 131833
   },
   "TelNews_Magazine": {
    "last_id": 101282
   },
   "NE_WG": {
-   "last_id": 114651
+   "last_id": 114652
   }
  },
  "fails": {},
@@ -342,11 +342,6 @@
  },
  "recent": [
   {
-   "t": 1792165777.0,
-   "n": "pope leo xiv held a phone call with russian president vladimir putin he expressed deep concern over the humanitarian situation in oleshky in ukraine s kherson region the pope called for a ceasefire to allow food and medical aid deliveries and the safe voluntary evacuation of civilians he also reaffirmed the vatican s commitment to promoting dialogue and peace",
-   "fa": "🇻🇦📞🇷🇺 — پپ لئو چهاردهم تلفنی با ولادیمیر پوتین، رئیس‌جمهور روسیه گفتگو کرد. وی نسبت به وضعیت بشردوستانه در اولشکی در منطقه خرسون اوکراین ابراز نگرانی عمیق کرد. پاپ خواستار آتش‌بس برای اجازه دادن به ارسال کمک‌های غذایی و پزشکی و تخلیه امن و داوطلبانه غیرنظامیان شد. وی همچنین بر تعهد واتیکان به ترویج گفت‌وگو و صلح تأکید دوباره کرد."
-  },
-  {
    "t": 1792165982.0,
    "n": "پزشکیان کاهش آب دریای خزر و نابودی تنوع زیستی نیازمند اقدام عاجل جهانی است",
    "fa": "💢پزشکیان: کاهش آب دریای خزر و نابودی تنوع زیستی نیازمند اقدام عاجل جهانی است"
@@ -640,13 +635,18 @@
    "t": 1792176921.0,
    "n": "تقوی نیا روزنامه نگار نزدیک به سپاه نتانیاهو و ترامپ تصمیم به آغاز حمله مشترک علیه ایران گرفتند",
    "fa": "⭕️تقوی نیا، روزنامه نگار نزدیک به سپاه: نتانیاهو و ترامپ تصمیم به آغاز حمله مشترک علیه ایران گرفتند."
+  },
+  {
+   "t": 1792177102.0,
+   "n": "brigadier general ahmad muhammad bahaibah al khubani the commander of the 26th mechanized infantry brigade of the saudi backed plc forces was killed while leading his unit in the harib front south of marib",
+   "fa": "🇾🇪❌🇾🇪 — سرتیپ احمد محمد بهایبه الخوبانی، فرمانده تیپ ۲۶ پیاده نظام مکانیزه نیروهای شورای رهبری ریاست جمهوری مورد حمایت عربستان، هنگام هدایت یگان خود در جبهه حریب، در جنوب مأرب کشته شد."
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 330
+  "requests": 331
  },
- "flip": 591,
+ "flip": 592,
  "quote_n": 254,
  "signals": [
   {
@@ -1058,6 +1058,11 @@
    "t": 1792176994.1857026,
    "s": 5,
    "p": 90
+  },
+  {
+   "t": 1792177230.7462192,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
