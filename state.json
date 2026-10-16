@@ -13,7 +13,7 @@
    "last_id": 101281
   },
   "NE_WG": {
-   "last_id": 114648
+   "last_id": 114649
   }
  },
  "fails": {},
@@ -295,7 +295,8 @@
     "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
     "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
     "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html",
-    "https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html"
+    "https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html",
+    "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html"
    ]
   },
   "Treasury": {
@@ -340,11 +341,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792163881.0,
-   "n": "بر اساس تحلیل جدیدی از مرکز مطالعات استراتژیک و بین المللی csis ارتش ایالات متحده ممکن است تنها تعداد اندکی از قدرتمندترین بمب های نفوذکننده به پناهگاه های زیرزمینی خود را باقی داشته باشد در حالی که ایران به گسترش تأسیسات نظامی و هسته ای عمیقا دفن شده ادامه می دهد تخمین زده می شود که پس از استفاده از ۱۴ بمب ۳۰ ۰۰۰ پوندی gbu 57 نفوذکننده سلاح سنگین massive ordnance penetrator علیه تأسیسات هسته ای ف",
-   "fa": "🇺🇸🇮🇷 بر اساس تحلیل جدیدی از مرکز مطالعات استراتژیک و بین‌المللی (CSIS)، ارتش ایالات متحده ممکن است تنها تعداد اندکی از قدرتمندترین بمب‌های نفوذکننده به پناهگاه‌های زیرزمینی خود را باقی داشته باشد، در حالی که ایران به گسترش تأسیسات نظامی و هسته‌ای عمیقاً دفن‌شده ادامه می‌دهد. تخمین زده می‌شود که پس از استفاده از ۱۴ بمب ۳۰,۰۰۰ پوندی GBU-57 نفوذکننده سلاح سنگین (Massive Ordnance Penetrator) علیه تأسی"
-  },
   {
    "t": 1792165311.0,
    "n": "russia and the u s are expected to announce new joint initiatives beyond their recently agreed diesel deal according to russian envoy kirill dmitriev dmitriev said discussions include joint data center projects potentially powered by electricity from russian nuclear plants he noted that the initiatives would begin before the end of the war in ukraine",
@@ -639,14 +635,19 @@
    "t": 1792176001.0,
    "n": "حضور همزمان چند سوخت رسان ارتش آمریکا در آسمان امارات",
    "fa": "🇺🇸 حضور همزمان چند سوخت‌رسان ارتش آمریکا در آسمان امارات"
+  },
+  {
+   "t": 1792175877.0,
+   "n": "israeli settlers attack palestinians and washington post journalist in west bank in the latest surge of violence settlers targeted palestinians during the olive harvest a cultural touchstone and economic lifeline in the israeli occupied area",
+   "fa": "🔴 حمله شهرک‌نشینان اسرائیلی به فلسطینیان و روزنامه‌نگار واشنگتن پست در کرانه باختری به گزارش نیویورک تایمز در تازه‌ترین موج خشونت‌ها، شهرک‌نشینان فلسطینیان را در جریان فصل برداشت زیتون که هم یک نقطه عطف فرهنگی و هم یک شریان حیاتی اقتصادی در منطقه اشغالی اسرائیل به شمار می‌رود، هدف قرار دادند."
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 324
+  "requests": 326
  },
- "flip": 590,
- "quote_n": 251,
+ "flip": 591,
+ "quote_n": 252,
  "signals": [
   {
    "t": 1792154788.6619253,
@@ -1037,6 +1038,11 @@
    "t": 1792176096.9961703,
    "s": 4,
    "p": 50
+  },
+  {
+   "t": 1792176379.926446,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
