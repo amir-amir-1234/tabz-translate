@@ -144,9 +144,9 @@ def load_state():
     return {"channels": chans, "fails": fails, "web": web,
             "recent": list(data.get("recent") or []), "usage": dict(data.get("usage") or {}),
             "flip": int(data.get("flip") or 0), "quote_n": int(data.get("quote_n") or 0),
-            "digest": list(data.get("digest") or []),
+            "signals": [x for x in (data.get("signals") or []) if isinstance(x, dict)],
             "risk": data.get("risk") if isinstance(data.get("risk"), dict) else {},
-            "risk_try": float(data.get("risk_try") or 0)}
+            "attack_ts": float(data.get("attack_ts") or 0)}
 
 
 def save_state(state):
@@ -309,7 +309,7 @@ SYSTEM_PROMPT = """You are the editor and translator of a Persian (Farsi) Telegr
 Input is a JSON object: {"recent": [{"ref": "R1", "fa": "<Persian text already published>"}], "items": [{"id": <number>, "text": "<post text>"}]}
 "recent" is what the channel published in the last hours. "items" are new posts, oldest first.
 Return a JSON array with exactly one entry per item:
-{"id": <same number>, "relevant": true|false, "urgent": true|false, "kind": "<kind>", "duplicate_of": "<ref or item id or empty>", "update": true|false, "new_fact": "<what is new, or empty>", "reason": "<one short Persian sentence>", "fa": "<Persian translation, or empty string>"}
+{"id": <same number>, "relevant": true|false, "urgent": true|false, "kind": "<kind>", "stance": <0-5>, "power": <0-100>, "direct_attack": true|false, "duplicate_of": "<ref or item id or empty>", "update": true|false, "new_fact": "<what is new, or empty>", "reason": "<one short Persian sentence>", "fa": "<Persian translation, or empty string>"}
 
 STEP 1 - relevance. Decide with the TOPICS list below.
 - relevant=true when the post is about (or quotes) anything in the list. When unsure, choose true: missing important news is worse than publishing a borderline item.
@@ -335,6 +335,16 @@ STEP 3b - kind: choose ONE value that decides the emoji put before the headline.
 - "stats": the item is mainly statistics, data or figures, with no fresh event.
 - "event": everything else (war and clashes, a fresh event, negotiations, statements, oil, economy, AI, health, world news).
 - If the item reports a fresh event or a statement, never use "stats".
+
+STEP 3c - stance: a code for what the item says about the situation between Iran and the United States / Israel (relevant items only; for everything else use stance=0, power=0, direct_attack=false).
+- 0: not about the Iran vs US/Israel situation or its diplomacy (AI, economy, other wars, other countries, general world news).
+- 1: POSITIVE negotiations: talks progressing, an agreement close or signed, de-escalation steps, sanctions relief.
+- 2: NEGOTIATION news: talks announced, held or under way, mediators, statements about talks, without clear progress or collapse.
+- 3: neither negotiations nor war: news about Iran or the region without war signals or talks (internal affairs, oil, routine items).
+- 4: TENSION: harsh threats or rhetoric, new sanctions, proxy or ship incidents, military drills, deployments, talks stalled.
+- 5: SERIOUS THREAT: an ultimatum, an announced or visibly imminent strike, evacuations, talks collapsed, an official warning of an imminent attack, or a direct attack that has actually happened.
+"power" (0-100): how strong and clear the item is inside its stance. 50 is typical, 20 is a weak hint, 90 is an extreme or unmistakable case. For stance 1 a high power means very strong positive news (a deal signed); for the others a high power means more severe.
+"direct_attack": true ONLY when the item reports that a military strike by the US and/or Israel on Iran, or by Iran on them, on territory or official armed forces, actually happened in the last hours. Not proxies, not threats, not drills, not past wars.
 
 STEP 4 - translation, only when relevant=true (otherwise "fa" is an empty string):
 - Items that have a "source" field are website articles (title plus the first lines): always set "fa" to an empty string for them; a separate step writes their Persian text.
@@ -384,10 +394,12 @@ GEMINI_SCHEMA = {
     "items": {
         "type": "OBJECT",
         "properties": {"id": {"type": "INTEGER"}, "relevant": {"type": "BOOLEAN"},
-                       "urgent": {"type": "BOOLEAN"}, "kind": {"type": "STRING"}, "duplicate_of": {"type": "STRING"},
+                       "urgent": {"type": "BOOLEAN"}, "kind": {"type": "STRING"},
+                       "stance": {"type": "INTEGER"}, "power": {"type": "INTEGER"}, "direct_attack": {"type": "BOOLEAN"},
+                       "duplicate_of": {"type": "STRING"},
                        "update": {"type": "BOOLEAN"}, "new_fact": {"type": "STRING"},
                        "reason": {"type": "STRING"}, "fa": {"type": "STRING"}},
-        "required": ["id", "relevant", "urgent", "kind", "duplicate_of", "update", "new_fact", "reason", "fa"],
+        "required": ["id", "relevant", "urgent", "kind", "stance", "power", "direct_attack", "duplicate_of", "update", "new_fact", "reason", "fa"],
     },
 }
 
@@ -438,6 +450,13 @@ def _gemini_json(model, system_prompt, payload, schema):
     raise RuntimeError(f"{model}: failed after retries ({last_err})")
 
 
+def _clamp(v, lo, hi):
+    try:
+        return max(lo, min(hi, int(v)))
+    except (TypeError, ValueError):
+        return lo
+
+
 def gemini_filter(model, items, recent, system_prompt):
     """-> {id: {'relevant','urgent','duplicate_of','update','new_fact','reason','fa'}}"""
     arr = _gemini_json(model, system_prompt, {"recent": recent, "items": items}, GEMINI_SCHEMA)
@@ -449,6 +468,8 @@ def gemini_filter(model, items, recent, system_prompt):
                 dup = ""
             out[int(x["id"])] = {"relevant": bool(x.get("relevant")), "urgent": bool(x.get("urgent")),
                                  "kind": str(x.get("kind") or "none").strip().lower(),
+                                 "stance": _clamp(x.get("stance"), 0, 5), "power": _clamp(x.get("power"), 0, 100),
+                                 "direct_attack": bool(x.get("direct_attack")),
                                  "duplicate_of": dup, "update": bool(x.get("update")),
                                  "new_fact": str(x.get("new_fact") or "").strip(),
                                  "reason": str(x.get("reason", "")).strip(),
@@ -616,7 +637,7 @@ def process_posts(posts, recent=None):
         for i, t in list(need.items()):
             if i in result:
                 continue
-            base = {"relevant": True, "urgent": False, "kind": "none", "duplicate_of": "", "update": False, "new_fact": "", "ai": False}
+            base = {"relevant": True, "urgent": False, "kind": "none", "stance": 0, "power": 0, "direct_attack": False, "duplicate_of": "", "update": False, "new_fact": "", "ai": False}
             if not keyword_match(t, kws):
                 result[i] = {**base, "relevant": False, "fa": "",
                              "reason": "هوش مصنوعی در دسترس نبود و کلیدواژه‌ای پیدا نشد"}
@@ -1014,80 +1035,89 @@ def send_review(post, verdict):
 
 
 # ------------------------------------------------------------- attack risk ---
-# One Gemini estimate per 3-hour slot (Tehran time), plus one extra after an urgent post (at most once an hour).
-# prices.py reads state["risk"] and shows it under the price message.
+# No extra Gemini request: the filter step gives every published item a stance code (1-5) and a power (0-100).
+# Every 3-hour slot (Tehran time), and once more after an urgent post, the estimate is recomputed from the items
+# of the last 24 hours; newer items weigh more. prices.py reads state["risk"] and shows it under the prices.
 RISK_ENABLED = env_bool("RISK_ENABLED", True)     # false: no attack estimate at all
 RISK_SLOT_HOURS = 3
 RISK_URGENT_GAP = 3600
-RISK_RETRY_GAP = 1800
-
-RISK_PROMPT = """You estimate the probability (integer 0-100) that within the NEXT 7 DAYS a direct military attack will take place between the United States and/or Israel on one side and Iran on the other, in either direction: a strike by one side on the territory or the official armed forces of the other.
-NOT counted: attacks by proxies or militias, cyberattacks, sanctions, attacks on commercial ships by unknown parties, attacks by these countries on third parties.
-
-Input JSON: {"previous_probability": <number or null>, "headlines_last_24h": ["..."], "full_text_last_3h": ["..."]} (Persian news the channel published, oldest first).
-
-Rules:
-- attack_happened=true ONLY when the news says such a direct attack has actually occurred during the last 24 hours. Then probability must be 100.
-- Otherwise judge from signals: rhetoric and ultimatums, military deployments or evacuations, negotiations progressing or collapsing, official warnings. Do not exaggerate: the absence of new escalation lowers the probability slowly.
-- When previous_probability is given, change it gradually: normally by at most 8 points; more only for a strong, clear signal.
-- "reason": one short Persian sentence.
-- Output only the JSON object."""
-
-RISK_SCHEMA = {"type": "OBJECT",
-               "properties": {"probability": {"type": "INTEGER"}, "attack_happened": {"type": "BOOLEAN"},
-                              "reason": {"type": "STRING"}},
-               "required": ["probability", "attack_happened", "reason"]}
+RISK_WINDOW = 24 * 3600
+RISK_HALF_LIFE = float(env("RISK_HALF_LIFE_HOURS", "6")) * 3600
+RISK_MIN_SIGNALS = int(env("RISK_MIN_SIGNALS", "5"))      # fewer items in the window: keep the previous estimate
+RISK_ATTACK_HOLD = float(env("RISK_ATTACK_HOURS", "6")) * 3600   # after a direct attack the estimate stays 100 this long
+# stance -> (low, high) of the estimate. 1 = positive negotiations ... 5 = serious threat
+RISK_RANGES = {1: (20, 40), 2: (30, 50), 3: (40, 60), 4: (50, 70), 5: (60, 80)}
 
 
 def tehran_idx(ts):
     return int((ts + 12600) // 3600)          # hour counter in Tehran local time (UTC+3:30)
 
 
+def signal_value(stance, power):
+    """One item -> a number inside its stance range. Stronger positive news (stance 1) lowers the number;
+    for every other stance a higher power moves it toward the top of the range."""
+    lo, hi = RISK_RANGES[stance]
+    p = max(0, min(100, power)) / 100
+    return hi - p * (hi - lo) if stance == 1 else lo + p * (hi - lo)
+
+
+def compute_risk(signals, now):
+    """-> (value, n, shares) from the signals of the last 24 h, or None when there are too few of them."""
+    use = [x for x in signals if now - x.get("t", 0) <= RISK_WINDOW and x.get("s") in RISK_RANGES]
+    if len(use) < RISK_MIN_SIGNALS:
+        return None
+    tot = acc = 0.0
+    share = {k: 0.0 for k in RISK_RANGES}
+    for x in use:
+        w = 0.5 ** (max(0.0, now - x["t"]) / RISK_HALF_LIFE)
+        tot += w
+        acc += w * signal_value(x["s"], x.get("p", 50))
+        share[x["s"]] += w
+    return acc / tot, len(use), {k: round(100 * v / tot) for k, v in share.items()}
+
+
+def note_signal(state, v, ts):
+    """Called for every item that is published."""
+    if not RISK_ENABLED:
+        return
+    if v.get("direct_attack"):
+        state["attack_ts"] = max(state.get("attack_ts", 0), ts)
+    s = v.get("stance", 0)
+    if s in RISK_RANGES:
+        state.setdefault("signals", []).append({"t": ts, "s": s, "p": v.get("power", 50)})
+
+
 def risk_due(state, now, urgent=False):
-    if not RISK_ENABLED or not GEMINI_KEY:
+    if not RISK_ENABLED:
         return False
     r = state.get("risk") or {}
-    if now - state.get("risk_try", 0) < RISK_RETRY_GAP:
-        return False
     if not r.get("ts"):
+        return True
+    if state.get("attack_ts", 0) > r["ts"]:        # a new direct attack: the estimate is 100 at once
+        return True
+    if r.get("attack") and now - state.get("attack_ts", 0) >= RISK_ATTACK_HOLD:   # the 100 has run out
         return True
     if urgent and now - r["ts"] >= RISK_URGENT_GAP:
         return True
     return tehran_idx(now) // RISK_SLOT_HOURS != tehran_idx(r["ts"]) // RISK_SLOT_HOURS
 
 
-def gemini_risk(model, payload, prompt):
-    obj = _gemini_json(model, prompt, payload, RISK_SCHEMA)
-    if isinstance(obj, list):
-        obj = obj[0] if obj else {}
-    return {"probability": int(obj.get("probability")), "attack": bool(obj.get("attack_happened")),
-            "reason": str(obj.get("reason") or "").strip()}
-
-
 def update_risk(state, now=None):
-    """New base estimate -> state['risk'] = {'base','ts','attack','reason'}. On failure the old value stays."""
+    """state['risk'] = {'base','ts','attack','n','shares'}. With too few items the old value stays."""
     now = now or time.time()
-    if not GEMINI_KEY:
+    if now - state.get("attack_ts", 0) < RISK_ATTACK_HOLD:
+        state["risk"] = {"base": 100, "ts": now, "attack": True}
+        log("Attack estimate: 100% (direct attack in the last hours)")
         return
-    prev = (state.get("risk") or {}).get("base")
-    digest = [d["h"] for d in state.get("digest", []) if d.get("t", 0) >= now - 86400][-200:]
-    full3 = [r["fa"] for r in state["recent"] if r.get("t", 0) >= now - 3 * 3600 and r.get("fa")]
-    payload = {"previous_probability": prev, "headlines_last_24h": digest, "full_text_last_3h": full3}
-    state["risk_try"] = now
-    for model in GEMINI_MODELS:
-        try:
-            got = gemini_risk(model, payload, RISK_PROMPT)
-        except QuotaError as e:
-            log("  risk quota:", e)
-            continue
-        except Exception as e:                      # noqa: BLE001
-            log("  risk error:", str(e)[:150])
-            continue
-        base = 100 if got["attack"] else max(1, min(99, got["probability"]))
-        state["risk"] = {"base": base, "ts": now, "attack": got["attack"], "reason": got["reason"]}
-        log(f"Attack estimate: {base}%{' (attack happened)' if got['attack'] else ''}")
+    got = compute_risk(state.get("signals", []), now)
+    if got is None:
+        log("Attack estimate: too few items in the last 24 h, keeping the previous value")
         return
-    log("Attack estimate: no answer, keeping the previous value")
+    value, n, shares = got
+    base = max(1, min(80, round(value)))
+    state["risk"] = {"base": base, "ts": now, "attack": False, "n": n,
+                     "shares": {str(k): v for k, v in shares.items()}}
+    log(f"Attack estimate: {base}% from {n} item(s), shares by stance {shares}")
 
 
 # ------------------------------------------------------------ recent items ---
@@ -1111,15 +1141,14 @@ def prune_recent(state, now=None):
     now = now or time.time()
     state["recent"] = [r for r in state["recent"]
                        if isinstance(r, dict) and r.get("t", 0) >= now - RECENT_HOURS * 3600][-RECENT_KEEP:]
-    state["digest"] = [d for d in state.get("digest", [])
-                       if isinstance(d, dict) and d.get("t", 0) >= now - 86400][-250:]
+    state["signals"] = [x for x in state.get("signals", [])
+                        if isinstance(x, dict) and x.get("t", 0) >= now - RISK_WINDOW][-600:]
 
 
 def add_recent(state, post, cleaned, fa_text):
     snippet = re.sub(r"\s+", " ", strip_tags(fa_text)).strip()[:400]
     state["recent"].append({"t": post.get("ts") or time.time(), "n": norm(cleaned), "fa": snippet})
     state["recent"] = state["recent"][-RECENT_KEEP:]
-    state.setdefault("digest", []).append({"t": post.get("ts") or time.time(), "h": snippet[:150]})
 
 
 # -------------------------------------------------------------------- main ---
@@ -1366,6 +1395,7 @@ def main():
         if e["kind"] == "check":
             published_idx.add(e["idx"])
             add_recent(state, p, e["cleaned"], fa)
+            note_signal(state, v, time.time())
         advance()
         if not DRY_RUN:
             time.sleep(SEND_PAUSE)
