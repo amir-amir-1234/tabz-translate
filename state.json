@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108255
+   "last_id": 108256
   },
   "khabarfouri": {
    "last_id": 569943
@@ -13,7 +13,7 @@
    "last_id": 101279
   },
   "NE_WG": {
-   "last_id": 114640
+   "last_id": 114643
   }
  },
  "fails": {},
@@ -341,16 +341,6 @@
  },
  "recent": [
   {
-   "t": 1792161499.0,
-   "n": "belarusian president lukashenko it s not for trump to decide who will be president of ukraine that s for the ukrainian people to decide",
-   "fa": "🇧🇾🇺🇸🇺🇦⚡️ — رئیس‌جمهور بلاروس، لوکاشنکو: این به ترامپ مربوط نیست که تصمیم بگیرد چه کسی رئیس‌جمهور اوکراین خواهد بود. این تصمیمی است که مردم اوکراین باید بگیرند."
-  },
-  {
-   "t": 1792161616.0,
-   "n": "belarusian president lukashenko trump should not dictate to ukraine how it should act but on the other hand why does he dictate because zelensky has become dependent on the united states of america on trump himself he may stop dictating but first ukraine will be deprived of intelligence and then of weapons things it desperately needs and perhaps not just weapons the lesson is do not become depende",
-   "fa": "🇧🇾🇺🇸🇺🇦⚡️ — رئیس‌جمهور بلاروس، لوکاشنکو: ترامپ نباید به اوکراین دیکته کند که چگونه باید عمل کند. اما از سوی دیگر، چرا او دیکته می‌کند؟ زیرا زلنسکی وابسته به ایالات متحده آمریکا و شخص ترامپ شده است. او ممکن است دیکته کردن را متوقف کند، اما ابتدا اوکراین از اطلاعات و سپس از تسلیحات محروم خواهد شد. چیزهایی که به‌شدت به آن‌ها نیاز دارد، و شاید نه فقط تسلیحات. درس این است: وابسته نشوید، به‌ویژه به قدرت‌"
-  },
-  {
    "t": 1792161716.0,
    "n": "گزارش ها از حملات پهپادی شدید ارتش اوکراین به تأسیسات راهبردی گازی روسیه وقوع انفجار های مهیب در این تأسیسات گزارش شده است",
    "fa": "⭕️گزارش ها از حملات پهپادی شدید ارتش اوکراین به تأسیسات راهبردی گازی روسیه، وقوع انفجار های مهیب در این تأسیسات گزارش شده است."
@@ -639,13 +629,23 @@
    "t": 1792173850.0,
    "n": "the houthis ansarallah say saudi arabia carried out 101 airstrikes and missile strikes across sana a and nine yemeni governorates over the past 24 hours using f 15 and typhoon jets alongside missiles launched from najran they reported civilian casualties including women and children and noted that the total number of saudi led coalition strikes has reached 2 489",
    "fa": "🇸🇦❌🇾🇪 — حوثی‌ها (انصارالله) اعلام کردند که عربستان سعودی طی ۲۴ ساعت گذشته ۱۰۱ حمله هوایی و موشکی با استفاده از جنگنده‌های اف-۱۵ و تایفون و همچنین موشک‌های پرتاب شده از نجران در سراسر صنعا و ۹ استان یمن انجام داده است. آن‌ها از تلفات غیرنظامی از جمله زنان و کودکان خبر دادند و خاطرنشان کردند که کل حملات ائتلاف به رهبری عربستان به ۲۴۸۹ مورد رسیده است."
+  },
+  {
+   "t": 1792173896.0,
+   "n": "محمد باقر قالیباف تفاهم علاوه بر بازدارندگی به نیروهای نظامی ما کمک کرد تا قوی تر شوند تاب آوری اقتصادی آن ها بیشتر شود حزب الله لبنان قوی تر شود هم می جنگیم و هم مذاکره می کنیم می جنگیم تا دشمن مستأصل بشه بعدش مذاکره میکنیم تا به خواسته هامون تن بده یا شکست رو بپذیره",
+   "fa": "🇮🇷 محمد باقر قالیباف : تفاهم علاوه بر بازدارندگی به نیروهای نظامی ما کمک کرد تا قوی‌تر شوند، تاب‌آوری اقتصادی آن‌ها بیشتر شود، حزب‌الله لبنان قوی‌تر شود هم می‌جنگیم و هم مذاکره می‌کنیم؛ می‌جنگیم تا دشمن مستأصل بشه بعدش مذاکره میکنیم تا به خواسته‌هامون تن بده یا شکست رو بپذیره."
+  },
+  {
+   "t": 1792174087.0,
+   "n": "france s president emmanuel macron russia through its actions is preventing ukrainian grain from leaving ukraine has had one of its record harvests which helps feed many developing and poor countries i m thinking of egypt and many other african countries today russia is choosing to starve these countries and impoverish ukraine we will respond to that but it is criminal in every respect",
+   "fa": "🇫🇷🇺🇦🇷🇺⚡️ — امانوئل مکرون، رئیس‌جمهور فرانسه: روسیه از طریق اقدامات خود مانع خروج غلات اوکراین می‌شود. اوکراین یکی از برداشت‌های رکورد خود را داشته است که به تغذیه بسیاری از کشورهای در حال توسعه و فقیر کمک می‌کند. من به مصر و بسیاری از کشورهای دیگر آفریقایی فکر می‌کنم. امروز روسیه تصمیم می‌گیرد این کشورها را گرسنه نگه دارد و اوکراین را به فقیرسازی بکشاند. ما به آن پاسخ خواهیم داد، اما این در هر زمی"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 313
+  "requests": 315
  },
- "flip": 583,
+ "flip": 585,
  "quote_n": 249,
  "signals": [
   {
@@ -992,6 +992,11 @@
    "t": 1792173984.6831868,
    "s": 4,
    "p": 70
+  },
+  {
+   "t": 1792174280.9571702,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
