@@ -7,7 +7,7 @@
    "last_id": 569902
   },
   "KH_B2": {
-   "last_id": 131790
+   "last_id": 131791
   },
   "TelNews_Magazine": {
    "last_id": 101249
@@ -16,7 +16,9 @@
    "last_id": 114600
   }
  },
- "fails": {},
+ "fails": {
+  "tabzlive/108183": 1
+ },
  "web": {
   "Fox News": {
    "seen": [
@@ -333,11 +335,6 @@
  },
  "recent": [
   {
-   "t": 1792124812.0,
-   "n": "the order to restrict ukraine s access to spacex s military grade starshield satellite communications system originated inside the white house according to reuters citing two u s officials and a western official familiar with the matter ukrainian officials said the restrictions disrupted drone strikes against russian forces and logistics in occupied territory as well as interceptor drones used aga",
-   "fa": "🔄 به‌روزرسانی 🇺🇸🇺🇦⚡️ — به گزارش رویترز به نقل از دو مقام آمریکایی و یک مقام غربی مطلع، دستور محدود کردن دسترسی اوکراین به سیستم ارتباط ماهواره‌ای نظامی استارشیلد متعلق به اسپیس‌ایکس از داخل کاخ سفید صادر شده است. مقام‌های اوکراینی گفتند این محدودیت‌ها حملات پهپادی علیه نیروها و تدارکات روسیه در مناطق اشغالی و همچنین پهپادهای رهگیر مورد استفاده علیه پهپادهای مهاجم ژران روسیه را مختل کرده است. یک مق"
-  },
-  {
    "t": 1792125032.0,
    "n": "france s navy frigate languedoc shot down a drone approaching the french owned container ship cma cgm champs elysées in the bab el mandeb strait on october 1 le monde reports the lng powered vessel capable of carrying 23 000 containers was being escorted through the strait and red sea when it was forced to change course and speed the french military confirmed that the frigate used its naval gun to",
    "fa": "🇫🇷🇸🇦🇾🇪⚡️ — به گزارش لوموند، ناوچه نیروی دریایی فرانسه «لانگدوک» در ۱ اکتبر یک فروند پهپاد در حال نزدیک شدن به کشتی کانتینربر فرانسوی «سی‌ام‌ای سی‌جی‌ام شانزه لیزه» در تنگه باب‌المندب را سرنگون کرد. این کشتی با قابلیت حمل ۲۳ هزار کانتینر که با گاز مایع کار می‌کند، در حال اسکورت از طریق تنگه و دریای سرخ بود که مجبور به تغییر مسیر و سرعت شد. ارتش فرانسه تایید کرد که ناوچه از توپ دریایی خود برای نابود"
@@ -631,23 +628,20 @@
    "t": 1792147765.0,
    "n": "president trump i find zelensky to be more difficult to deal with than putin",
    "fa": "🇺🇸🇺🇦🇷🇺⚡️ — ترامپ: من زلنسکی را فردی دشوارتر از پوتین برای تعامل می‌دانم."
+  },
+  {
+   "t": 1792148094.0,
+   "n": "سخنگوی ارتش اگر آمریکا منطقه را ترک کند تنگۀ هرمز باز می شود اگر هم ترک نکند ما اخراجش می کنیم",
+   "fa": "🇮🇷سخنگوی ارتش: اگر آمریکا منطقه را ترک کند تنگۀ هرمز باز می‌شود، اگر هم ترک نکند ما اخراجش می‌کنیم"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 117
+  "requests": 120
  },
  "flip": 477,
  "quote_n": 205,
  "digest": [
-  {
-   "t": 1792061461.0,
-   "h": "⭕️کشتی کانتینربری که دیروز رفت روی مینِ ایرانی و ترکید، حامل کالاهای لوکسی مثل گوشی آیفون، عطر، ادکلن و... بوده و حالا گروهی از صیادهای جنوب رفتن اونج"
-  },
-  {
-   "t": 1792061701.0,
-   "h": "⭕️پزشکیان: با بمب و موشک نمی‌توان یک ملت را وادار به تسلیم کرد"
-  },
   {
    "t": 1792061956.0,
    "h": "🔴 ‏🇸🇦 هواپیماهای فرودگاه ریاض تخلیه شد 💢داده‌های ردیابی پرواز و گزارش رسانه‌های بین‌المللی حاکی از آن است که در بحبوحهٔ تشدید حملات یمن به فرودگاه ریا"
@@ -1479,6 +1473,10 @@
   {
    "t": 1792147765.0,
    "h": "🇺🇸🇺🇦🇷🇺⚡️ — ترامپ: من زلنسکی را فردی دشوارتر از پوتین برای تعامل می‌دانم."
+  },
+  {
+   "t": 1792148094.0,
+   "h": "🇮🇷سخنگوی ارتش: اگر آمریکا منطقه را ترک کند تنگۀ هرمز باز می‌شود، اگر هم ترک نکند ما اخراجش می‌کنیم"
   }
  ],
  "risk": {
