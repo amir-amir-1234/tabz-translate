@@ -1,10 +1,10 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108223
+   "last_id": 108224
   },
   "khabarfouri": {
-   "last_id": 569918
+   "last_id": 569919
   },
   "KH_B2": {
    "last_id": 131803
@@ -245,7 +245,8 @@
     "WP-WSJ-0003982233",
     "WP-WSJ-0003982132",
     "WP-WSJ-0003982563",
-    "WP-WSJ-0003982517"
+    "WP-WSJ-0003982517",
+    "WP-WSJ-0003982820"
    ]
   },
   "NYT": {
@@ -291,7 +292,8 @@
     "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
     "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
     "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
-    "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html"
+    "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html",
+    "https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html"
    ]
   },
   "Treasury": {
@@ -336,26 +338,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792148354.0,
-   "n": "president trump on iran if we didn t do the b 2 bombers a year ago they would right now have a nuclear weapon and i would be calling them hello sir",
-   "fa": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره ایران: اگر یک سال پیش بمب‌افکن‌های B-2 را اعزام نکرده بودیم، آن‌ها هم‌اکنون دارای سلاح هسته‌ای بودند و من به آن‌ها می‌گفتم: «سلام، قربان»."
-  },
-  {
-   "t": 1792148423.0,
-   "n": "president trump on somalia all they do is shoot each other all day long and rob ships they re only good at being a pirate other than that they re not it s no government it s no country it s not even a thing",
-   "fa": "🇺🇸🇸🇴⚡️ — رئیس‌جمهور ترامپ درباره سومالی: تنها کاری که آن‌ها انجام می‌دهند این است که تمام روز به همدیگر شلیک می‌کنند و کشتی‌ها را سرقت می‌کنند. آن‌ها فقط در دزدان دریایی خوب هستند. غیر از آن، چیزی نیستند. این هیچ دولتی نیست. این هیچ کشوری نیست. این حتی یک چیز هم نیست."
-  },
-  {
-   "t": 1792148520.0,
-   "n": "ai boom or bust scenarios loom large at world financial summit the economic possibilities and potential perils of the new technology dominated discussions at the imf gathering in asia this week",
-   "fa": "⭕️ چشم‌انداز و خطرات احتمالی هوش مصنوعی در نشست مالی جهانی صندوق بین‌المللی پول به گزارش وال‌استریت ژورنال، امکانات اقتصادی و خطرات بالقوه فناوری جدید در نشست این هفته صندوق بین‌المللی پول در آسیا، محور اصلی گفتگوها را به خود اختصاص داد."
-  },
-  {
-   "t": 1792148693.0,
-   "n": "تصویر جدیدی که رسانه رهبر انقلاب همزمان با انتشار پیام آیت الله خامنه ای برای روز پرستار از ایشان منتشر کرده است",
-   "fa": "🔄 به‌روزرسانی 🔴 تصویر جدیدی که رسانه رهبر انقلاب، همزمان با انتشار پیام آیت الله خامنه‌ای برای روز پرستار، از ایشان منتشر کرده است"
-  },
   {
    "t": 1792148780.0,
    "n": "عزیزی اگر ترامپ اقدامی علیه ایران انجام دهد منطقه دچار خسارت جبران ناپذیر می شود ابراهیم عزیزی رئیس کمیسیون امنیت ملی ما همواره و مدتهاست شاهد گزافه گویی های ترامپ از ابتدای روی کار آمدن تا به امروز بودیم و همیشه هم همین گزافه گویی متوهمانه ترامپ خسارت سنگینی را متوجه آمریکایی ها کرده است ترامپ باید این را بداند که در صورتی که دوباره اقدامی خلاف منافع ملی ایران امنیت ملی ایران و تمامیت سرزمینی ما ",
@@ -635,14 +617,34 @@
    "t": 1792161199.0,
    "n": "ukrainian president zelensky this diesel deal will never be enough to compensate for the impact of the strait of hormuz on global markets but it will put more money directly into putin s pocket to fund this war",
    "fa": "🇺🇦🇺🇸🇮🇷🇷🇺⚡️ — رئیس‌جمهور اوکراین، زلنسکی: این معامله دیزل هرگز برای جبران تأثیر تنگه هرمز بر بازارهای جهانی کافی نخواهد بود، اما پول بیشتری را مستقیماً به جیب پوتین می‌اندازد تا این جنگ را تأمین مالی کند."
+  },
+  {
+   "t": 1792161240.0,
+   "n": "france and germany reach deal to protect europe s car industry the deal which is aimed at safeguarding europe s struggling auto sector includes more flexibility with decarbonization rules and provides incentives for investment",
+   "fa": "⭕️ توافق فرانسه و آلمان برای صیانت از صنعت خودروسازی اروپا به گزارش وال‌استریت ژورنال توافق یادشده که با هدف حراست از بخش خودروسازی درگیر چالش اروپا حاصل شده است، شامل انعطاف‌پذیری بیشتر در قوانین کربن‌زدایی می‌شود و همچنین تشویق‌هایی را برای سرمایه‌گذاری فراهم می‌کند."
+  },
+  {
+   "t": 1792161261.0,
+   "n": "houthi attacks on saudi arabia put in doubt kingdom s sports and business events the iran backed group s attacks have disrupted sports tournaments and threatened business events that the kingdom has long used to attract investment and raise its profile",
+   "fa": "🔴 حملات حوثی‌ها به عربستان سعودی رویدادهای ورزشی و تجاری پادشاهی را زیر سوال برد به گزارش نیویورک تایمز حملات گروه مورد حمایت ایران باعث اختلال در تورنمنتهای ورزشی شده و رویدادهای تجاری را که پادشاهی مدت‌هاست از آن‌ها برای جلب سرمایه‌گذاری و ارتقای جایگاه خود بهره می‌برد، تهدید کرده است."
+  },
+  {
+   "t": 1792161486.0,
+   "n": "کنایه تند سفارت ایران در غنا به مقامات آمریکا و اسرائیل واکسن ساخت ایران موجود است فوری اپیدمی هاری در حال فراگیری در کره زمین است سویه صهیونیسم منشأ تل آویو ترامپ ناقل آن است هگست تشنج آن روبیو هذیان آن و لارا لومر اسلام هراس نزدیک به ترامپ کف دهان آن است واکسن موجود است ساخت ایران",
+   "fa": "⭕️ کنایه تند سفارت ایران در غنا به مقامات آمریکا و اسرائیل: واکسن ساخت ایران موجود است! «فوری: اپیدمی هاری در حال فراگیری در کره زمین است. سویه: صهیونیسم منشأ: تل‌آویو ترامپ ناقل آن است، هگست تشنج آن، روبیو هذیان آن و لارا لومر (اسلام‌هراس نزدیک به ترامپ) کفِ دهان آن است. واکسن موجود است؛ ساخت ایران!»"
+  },
+  {
+   "t": 1792161499.0,
+   "n": "belarusian president lukashenko it s not for trump to decide who will be president of ukraine that s for the ukrainian people to decide",
+   "fa": "🇧🇾🇺🇸🇺🇦⚡️ — رئیس‌جمهور بلاروس، لوکاشنکو: این به ترامپ مربوط نیست که تصمیم بگیرد چه کسی رئیس‌جمهور اوکراین خواهد بود. این تصمیمی است که مردم اوکراین باید بگیرند."
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 195
+  "requests": 202
  },
- "flip": 533,
- "quote_n": 224,
+ "flip": 537,
+ "quote_n": 226,
  "signals": [
   {
    "t": 1792154788.6619253,
@@ -763,6 +765,16 @@
    "t": 1792161396.1105835,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1792161710.157608,
+   "s": 4,
+   "p": 60
+  },
+  {
+   "t": 1792161715.0057824,
+   "s": 4,
+   "p": 40
   }
  ],
  "risk": {
