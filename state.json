@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108254
+   "last_id": 108255
   },
   "khabarfouri": {
    "last_id": 569943
   },
   "KH_B2": {
-   "last_id": 131824
+   "last_id": 131825
   },
   "TelNews_Magazine": {
    "last_id": 101279
   },
   "NE_WG": {
-   "last_id": 114639
+   "last_id": 114640
   }
  },
  "fails": {},
@@ -341,16 +341,6 @@
  },
  "recent": [
   {
-   "t": 1792161261.0,
-   "n": "houthi attacks on saudi arabia put in doubt kingdom s sports and business events the iran backed group s attacks have disrupted sports tournaments and threatened business events that the kingdom has long used to attract investment and raise its profile",
-   "fa": "🔴 حملات حوثی‌ها به عربستان سعودی رویدادهای ورزشی و تجاری پادشاهی را زیر سوال برد به گزارش نیویورک تایمز حملات گروه مورد حمایت ایران باعث اختلال در تورنمنتهای ورزشی شده و رویدادهای تجاری را که پادشاهی مدت‌هاست از آن‌ها برای جلب سرمایه‌گذاری و ارتقای جایگاه خود بهره می‌برد، تهدید کرده است."
-  },
-  {
-   "t": 1792161486.0,
-   "n": "کنایه تند سفارت ایران در غنا به مقامات آمریکا و اسرائیل واکسن ساخت ایران موجود است فوری اپیدمی هاری در حال فراگیری در کره زمین است سویه صهیونیسم منشأ تل آویو ترامپ ناقل آن است هگست تشنج آن روبیو هذیان آن و لارا لومر اسلام هراس نزدیک به ترامپ کف دهان آن است واکسن موجود است ساخت ایران",
-   "fa": "⭕️ کنایه تند سفارت ایران در غنا به مقامات آمریکا و اسرائیل: واکسن ساخت ایران موجود است! «فوری: اپیدمی هاری در حال فراگیری در کره زمین است. سویه: صهیونیسم منشأ: تل‌آویو ترامپ ناقل آن است، هگست تشنج آن، روبیو هذیان آن و لارا لومر (اسلام‌هراس نزدیک به ترامپ) کفِ دهان آن است. واکسن موجود است؛ ساخت ایران!»"
-  },
-  {
    "t": 1792161499.0,
    "n": "belarusian president lukashenko it s not for trump to decide who will be president of ukraine that s for the ukrainian people to decide",
    "fa": "🇧🇾🇺🇸🇺🇦⚡️ — رئیس‌جمهور بلاروس، لوکاشنکو: این به ترامپ مربوط نیست که تصمیم بگیرد چه کسی رئیس‌جمهور اوکراین خواهد بود. این تصمیمی است که مردم اوکراین باید بگیرند."
@@ -639,14 +629,24 @@
    "t": 1792173536.0,
    "n": "scotland s snp led government is preparing to abandon its long standing opposition to new oil and gas exploration in the north sea according to politico the government plans to revise its energy strategy removing the presumption against new oil and gas developments introduced in a 2023 draft new projects will still be assessed against scotland s climate targets but the government will no longer op",
    "fa": "🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧⚡️ — به گزارش پولیتیکو، دولت اسکاتلند به رهبری حزب ملی اسکاتلند در حال آماده شدن برای کنار گذاشتن مخالفت دیرینه خود با اکتشافات جدید نفت و گاز در دریای شمال است. این دولت قصد دارد استراتژی انرژی خود را بازنگری کند و فرض مخالفت با پروژه‌های جدید نفت و گاز را که در پیش‌نویس سال ۲۰۲۳ معرفی شده بود، حذف کند. پروژه‌های جدید همچنان با اهداف اقلیمی اسکاتلند سنجیده خواهند شد، اما دولت دیگر به‌طور"
+  },
+  {
+   "t": 1792173668.0,
+   "n": "پس واقعا مثل اینکه خبریه خبرگزاری فارس وابسته به سپاه پاسداران پستی در مورد رفع مشکل پرداخت آنلاین در زمان قطعی نت منتشر کرده",
+   "fa": "💢پس واقعا مثل اینکه خبریه... 👀خبرگزاری فارس وابسته به سپاه پاسداران پستی در مورد رفع مشکل پرداخت آنلاین در زمان قطعی نت منتشر کرده..."
+  },
+  {
+   "t": 1792173850.0,
+   "n": "the houthis ansarallah say saudi arabia carried out 101 airstrikes and missile strikes across sana a and nine yemeni governorates over the past 24 hours using f 15 and typhoon jets alongside missiles launched from najran they reported civilian casualties including women and children and noted that the total number of saudi led coalition strikes has reached 2 489",
+   "fa": "🇸🇦❌🇾🇪 — حوثی‌ها (انصارالله) اعلام کردند که عربستان سعودی طی ۲۴ ساعت گذشته ۱۰۱ حمله هوایی و موشکی با استفاده از جنگنده‌های اف-۱۵ و تایفون و همچنین موشک‌های پرتاب شده از نجران در سراسر صنعا و ۹ استان یمن انجام داده است. آن‌ها از تلفات غیرنظامی از جمله زنان و کودکان خبر دادند و خاطرنشان کردند که کل حملات ائتلاف به رهبری عربستان به ۲۴۸۹ مورد رسیده است."
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 311
+  "requests": 313
  },
- "flip": 582,
- "quote_n": 248,
+ "flip": 583,
+ "quote_n": 249,
  "signals": [
   {
    "t": 1792154788.6619253,
@@ -982,6 +982,16 @@
    "t": 1792173710.6900759,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1792173981.1325827,
+   "s": 3,
+   "p": 30
+  },
+  {
+   "t": 1792173984.6831868,
+   "s": 4,
+   "p": 70
   }
  ],
  "risk": {
