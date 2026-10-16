@@ -4,13 +4,13 @@
    "last_id": 108177
   },
   "khabarfouri": {
-   "last_id": 569891
+   "last_id": 569892
   },
   "KH_B2": {
    "last_id": 131787
   },
   "TelNews_Magazine": {
-   "last_id": 101245
+   "last_id": 101246
   },
   "NE_WG": {
    "last_id": 114594
@@ -286,7 +286,8 @@
     "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html",
     "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
     "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
-    "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html"
+    "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
+    "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html"
    ]
   },
   "Treasury": {
@@ -330,21 +331,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792110612.0,
-   "n": "president trump on iran i wouldn t use nuclear on iran we don t have to mother of all bombs is not a nuclear bomb",
-   "fa": "🇺🇸🇮🇷⚡️ — دونالد ترامپ درباره ایران: من از سلاح هسته‌ای علیه ایران استفاده نخواهم کرد. نیازی به این کار نداریم. مادر همه بمب‌ها یک بمب اتمی نیست."
-  },
-  {
-   "t": 1792110719.0,
-   "n": "reporter do you trust netanyahu trump i don t trust anybody honestly",
-   "fa": "🇺🇸🇮🇱⚡️ — خبرنگار: آیا به نتانیاهو اعتماد دارید؟ ترامپ: راستش، من به هیچ‌کس اعتماد ندارم."
-  },
-  {
-   "t": 1792111690.0,
-   "n": "president trump on abdul el sayed mohammed el sayed is bad news he is a muslim radical don t vote for mohammed el sayed",
-   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ درباره عبدال‌السید: محمد السید خبر بدی است. او یک افراطی مسلمان است. به محمد السید رای ندهید."
-  },
   {
    "t": 1792112478.0,
    "n": "iran and its regional allies have carried out at least 135 missile and drone attacks against 84 infrastructure sites across the gulf since the u s israeli war began on february 28 systematically targeting critical equipment and causing widespread economic disruption according to a reuters investigation based on satellite imagery operational data and interviews with 36 sources reuters found that ma",
@@ -629,23 +615,30 @@
    "t": 1792143469.0,
    "n": "ادعای ترامپ درباره مشاهده اجسام پرنده ناشناس دونالد ترامپ در مصاحبه ای با شبکه نیوزمکس newsmax ادعا کرد که شخصا با خلبانان نظامی آمریکایی گفتگو کرده است خلبانانی که اظهار داشته اند اشیاء ناشناسی را در آسمان دیده اند که قادر بودند با سرعت هایی به طور غیرمعمول بالا پرواز کنند",
    "fa": "🇺🇸ادعای ترامپ درباره مشاهده اجسام پرنده ناشناس 💢دونالد ترامپ در مصاحبه‌ای با شبکه نیوزمکس (Newsmax) ادعا کرد که شخصاً با خلبانان نظامی آمریکایی گفتگو کرده است؛ خلبانانی که اظهار داشته‌اند اشیاء ناشناسی را در آسمان دیده‌اند که قادر بودند با سرعت‌هایی به‌طور غیرمعمول بالا پرواز کنند."
+  },
+  {
+   "t": 1792144586.0,
+   "n": "the arab kingmaker in israel s election who wants a partnership with jews mansour abbas a dentist turned lawmaker helped oust benjamin netanyahu once before now he and a jewish ex police commander have teamed up to try to do it again",
+   "fa": "⭕️ منصور عباس و یک فرمانده سابق پلیس برای برکناری نتانیاهو متحد شدند به گزارش نیویورک تایمز منصور عباس، دندانپزشکی که نماینده پارلمان شده است، پیش از این یک بار به برکناری بنیامین نتانیاهو کمک کرد. اکنون، او و یک فرمانده سابق پلیس یهودی با یکدیگر متحد شده‌اند تا دوباره تلاش کنند این کار را انجام دهند."
+  },
+  {
+   "t": 1792144605.0,
+   "n": "جی دی ونس اگر کسی در حال فروش اطلاعات کاخ سفید درباره جنگ ایران باشد این کار بسیار زننده است و باید محاکمه و مجازات شود",
+   "fa": "⭕️جی‌دی ونس: اگر کسی در حال فروش اطلاعات کاخ سفید (درباره جنگ ایران) باشد، این کار بسیار زننده است و باید محاکمه و مجازات شود"
+  },
+  {
+   "t": 1792144713.0,
+   "n": "گزارش مقدماتی زمین لرزه ۴ ۲ ریشتری در کرمان بزرگی ۴ ۲ محل وقوع مرز استان های کرمان و هرمزگان حوالی نودژ تاریخ و زمان وقوع به وقت محلی ۱۴۰۵ ۰۷ ۲۴ ۱۲ ۲۹ ۳۲ طول جغرافیایی ۵۷ ۳۷ عرض جغرافیایی ۲۷ ۶۴ عمق زمین لرزه ۲۲ کیلومتر",
+   "fa": "⭕️ گزارش مقدماتی زمین‌لرزه ۴.۲ ریشتری در کرمان بزرگی: ۴.۲ محل وقوع: مرز استان‌های کرمان و هرمزگان - حوالی نودژ تاریخ و زمان وقوع به وقت محلی: ۱۴۰۵/۰۷/۲۴ ۱۲:۲۹:۳۲ طول جغرافیایی: ۵۷.۳۷ عرض جغرافیایی: ۲۷.۶۴ عمق زمین‌لرزه: ۲۲ کیلومتر"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 96
+  "requests": 98
  },
- "flip": 465,
- "quote_n": 196,
+ "flip": 468,
+ "quote_n": 199,
  "digest": [
-  {
-   "t": 1792058389.0,
-   "h": "⭕️ زلنسکی دوباره روی خط ایران‌هراسی رئیس‌جمهور اوکراین مدعی شد: ایرانی‌ها موشک‌ها و پهپادهایی دارند که برد آن‌ها به ۴۰۰۰ کیلومتر و بیشتر می‌رسد. چه کس"
-  },
-  {
-   "t": 1792058427.0,
-   "h": "🎥پزشکیان: تلاش می‌کنیم نگرانی‌های مردم را رفع کنیم"
-  },
   {
    "t": 1792058729.0,
    "h": "🚨منابع عربی: صدای انفجار در تنگه هرمز"
@@ -1465,6 +1458,18 @@
   {
    "t": 1792143469.0,
    "h": "🇺🇸ادعای ترامپ درباره مشاهده اجسام پرنده ناشناس 💢دونالد ترامپ در مصاحبه‌ای با شبکه نیوزمکس (Newsmax) ادعا کرد که شخصاً با خلبانان نظامی آمریکایی گفتگو "
+  },
+  {
+   "t": 1792144586.0,
+   "h": "⭕️ منصور عباس و یک فرمانده سابق پلیس برای برکناری نتانیاهو متحد شدند به گزارش نیویورک تایمز منصور عباس، دندانپزشکی که نماینده پارلمان شده است، پیش از "
+  },
+  {
+   "t": 1792144605.0,
+   "h": "⭕️جی‌دی ونس: اگر کسی در حال فروش اطلاعات کاخ سفید (درباره جنگ ایران) باشد، این کار بسیار زننده است و باید محاکمه و مجازات شود"
+  },
+  {
+   "t": 1792144713.0,
+   "h": "⭕️ گزارش مقدماتی زمین‌لرزه ۴.۲ ریشتری در کرمان بزرگی: ۴.۲ محل وقوع: مرز استان‌های کرمان و هرمزگان - حوالی نودژ تاریخ و زمان وقوع به وقت محلی: ۱۴۰۵/۰۷/"
   }
  ],
  "risk": {
