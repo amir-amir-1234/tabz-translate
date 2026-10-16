@@ -7,13 +7,13 @@
    "last_id": 569930
   },
   "KH_B2": {
-   "last_id": 131815
+   "last_id": 131816
   },
   "TelNews_Magazine": {
    "last_id": 101270
   },
   "NE_WG": {
-   "last_id": 114631
+   "last_id": 114633
   }
  },
  "fails": {},
@@ -341,11 +341,6 @@
  },
  "recent": [
   {
-   "t": 1792156739.0,
-   "n": "پزشکیان ایروان را به مقصد تهران ترک کرد رئیس جمهور پس از شرکت و سخنرانی در اجلاس سران هفدهمین کنفرانس اعضای کنوانسیون تنوع زیستی ایروان را به مقصد تهران ترک کرد",
-   "fa": "⭕️ پزشکیان ایروان را به مقصد تهران ترک کرد رئیس جمهور پس از شرکت و سخنرانی در اجلاس سران هفدهمین کنفرانس اعضای کنوانسیون تنوع زیستی، ایروان را به مقصد تهران ترک کرد."
-  },
-  {
    "t": 1792157602.0,
    "n": "several prominent maga election activists are urging president trump to consider extraordinary measures including martial law if they believe november s midterm elections have been rigged according to axios peter ticktin a longtime trump associate and attorney for election activist tina peters argued that martial law could be necessary following alleged election fraud he also suggested seizing bal",
    "fa": "🇺🇸⚡️ — به گزارش آکسیوس، چندین تن از فعالان برجسته انتخاباتی جریان «ماگا» از دونالد ترامپ خواسته‌اند در صورتی که معتقدند انتخابات میان‌دوره‌ای ماه نوامبر دستکاری شده است، اقدامات فوق‌العاده‌ای از جمله حکومت نظامی را در نظر بگیرد. پیتر تیکتین، از نزدیکان دیرینه ترامپ و وکیل تینا پیترز، فعال انتخاباتی، استدلال کرد که پس از ادعای تقلب در انتخابات، حکومت نظامی ممکن است ضروری باشد. او همچنین پیشنهاد کرد"
@@ -639,13 +634,18 @@
    "t": 1792169969.0,
    "n": "the idf says two interceptor missiles were launched at a false target over southern lebanon",
    "fa": "🔄 به‌روزرسانی 🇮🇱🇱🇧⚡️ — ارتش اسرائیل اعلام کرد که دو موشک رهگیر به سمت یک «هدف کاذب» بر فراز جنوب لبنان شلیک شده است."
+  },
+  {
+   "t": 1792170431.0,
+   "n": "تصویری از ابر ناو هواپیمابر هسته ای بوش آمریکا",
+   "fa": "🇺🇸 ⛴️تصویری از ابر ناو هواپیمابر هسته ای بوش آمریکا💢"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 255
+  "requests": 265
  },
- "flip": 560,
+ "flip": 561,
  "quote_n": 242,
  "signals": [
   {
@@ -900,6 +900,11 @@
   },
   {
    "t": 1792170168.7989788,
+   "s": 4,
+   "p": 40
+  },
+  {
+   "t": 1792170743.2872953,
    "s": 4,
    "p": 40
   }
