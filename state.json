@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131838
+   "last_id": 131839
   },
   "TelNews_Magazine": {
    "last_id": 101285
   },
   "NE_WG": {
-   "last_id": 114660
+   "last_id": 114662
   }
  },
  "fails": {},
@@ -344,11 +344,6 @@
  },
  "recent": [
   {
-   "t": 1792169300.0,
-   "n": "alerts in khamis mushait governorate southwestern saudi arabia",
-   "fa": "🇾🇪❌🇸🇦 — اعلام وضعیت هشدار در استان خمیس مشیط در جنوب غربی عربستان سعودی."
-  },
-  {
    "t": 1792169465.0,
    "n": "alerts in khamis mushait governorate have been lifted",
    "fa": "🔄 به‌روزرسانی 🇸🇦⚡️ — هشدارها در استان خمیس مشیط لغو شد."
@@ -642,13 +637,18 @@
    "t": 1792179828.0,
    "n": "the houthis ansarallah announced they have targeted the saudi headquarters in the badr military camp located near the aden airport alongside the camp ammo and depot warehouse",
    "fa": "🇾🇪❌🇸🇦🇾🇪 — حوثی‌ها (انصارالله) اعلام کردند که مقر عربستان سعودی در اردوگاه نظامی بدر، واقع در نزدیکی فرودگاه عدن، و همچنین انبار مهمات و انبار تدارکاتی این اردوگاه را هدف قرار داده‌اند."
+  },
+  {
+   "t": 1792179968.0,
+   "n": "بورس آمریکا هم دچار ریزش شد",
+   "fa": "🇺🇸📉بورس آمریکا هم دچار ریزش شد!!"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 349
+  "requests": 350
  },
- "flip": 600,
+ "flip": 601,
  "quote_n": 261,
  "signals": [
   {
