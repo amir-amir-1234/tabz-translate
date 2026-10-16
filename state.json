@@ -10,7 +10,7 @@
    "last_id": 131840
   },
   "TelNews_Magazine": {
-   "last_id": 101289
+   "last_id": 101291
   },
   "NE_WG": {
    "last_id": 114666
@@ -300,7 +300,8 @@
     "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
     "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html",
     "https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html",
-    "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html"
+    "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
+    "https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html"
    ]
   },
   "Treasury": {
@@ -346,16 +347,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792171416.0,
-   "n": "reporter do you think that saudi arabia should accept the help that israel is offering to fight the houthis trump yeah i do i think they will israel has been very helpful to saudi arabia and yeah they certainly would do that yeah",
-   "fa": "🇺🇸🇮🇱🇸🇦🇾🇪⚡️ — خبرنگار: آیا فکر می‌کنید عربستان سعودی باید کمک‌های ارائه شده توسط اسرائیل برای مقابله با حوثی‌ها را بپذیرد؟ ترامپ: بله، فکر می‌کنم اینطور است. فکر می‌کنم آن‌ها این کار را بکنند. اسرائیل کمک‌های زیادی به عربستان سعودی کرده است، و بله، آن‌ها قطعاً این کار را خواهند کرد، بله."
-  },
-  {
-   "t": 1792171418.0,
-   "n": "بازگشت رئیس جمهور پزشکیان و هیأت همراه از اجلاس سران هفدهمین کنفرانس اعضای کنوانسیون تنوع زیستی",
-   "fa": "📸بازگشت رئیس‌جمهور پزشکیان و هیأت همراه از اجلاس سران هفدهمین کنفرانس اعضای کنوانسیون تنوع زیستی"
-  },
   {
    "t": 1792171480.0,
    "n": "reporter is the abraham accords back on the table with saudi arabia trump yeah i think so maybe more than ever the abraham accords is one of our great achievements saudi arabia is very happy to have israel s support and our support",
@@ -645,14 +636,24 @@
    "t": 1792182724.0,
    "n": "جکسون هینکل دبی و ریاض تا اول ژانویه ۲۰۲۸ از بین خواهند رفت",
    "fa": "⭕️جکسون هینکل : دبی و ریاض تا اول ژانویه ۲۰۲۸ از بین خواهند رفت."
+  },
+  {
+   "t": 1792183559.0,
+   "n": "مارک لوین جنگ اصلی و خونین بزودی آغاز میشود",
+   "fa": "🚨مارک لوین: جنگ اصلی و خونین بزودی آغاز میشود"
+  },
+  {
+   "t": 1792183713.0,
+   "n": "شبکه کان نیوز حالت آماده باش در اسرائیل در پی احتمال آغاز رویارویی با ایران",
+   "fa": "⭕️شبکه کان نیوز : حالت آماده‌باش در اسرائیل در پی احتمال آغاز رویارویی با ایران"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 365
+  "requests": 366
  },
- "flip": 608,
- "quote_n": 264,
+ "flip": 609,
+ "quote_n": 266,
  "signals": [
   {
    "t": 1792154788.6619253,
@@ -1168,6 +1169,16 @@
    "t": 1792182992.027714,
    "s": 4,
    "p": 40
+  },
+  {
+   "t": 1792183876.7661612,
+   "s": 5,
+   "p": 85
+  },
+  {
+   "t": 1792183880.2743883,
+   "s": 5,
+   "p": 80
   }
  ],
  "risk": {
