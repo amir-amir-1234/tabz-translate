@@ -1,16 +1,16 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108256
+   "last_id": 108259
   },
   "khabarfouri": {
-   "last_id": 569943
+   "last_id": 569944
   },
   "KH_B2": {
    "last_id": 131825
   },
   "TelNews_Magazine": {
-   "last_id": 101279
+   "last_id": 101280
   },
   "NE_WG": {
    "last_id": 114643
@@ -341,16 +341,6 @@
  },
  "recent": [
   {
-   "t": 1792161716.0,
-   "n": "گزارش ها از حملات پهپادی شدید ارتش اوکراین به تأسیسات راهبردی گازی روسیه وقوع انفجار های مهیب در این تأسیسات گزارش شده است",
-   "fa": "⭕️گزارش ها از حملات پهپادی شدید ارتش اوکراین به تأسیسات راهبردی گازی روسیه، وقوع انفجار های مهیب در این تأسیسات گزارش شده است."
-  },
-  {
-   "t": 1792161729.0,
-   "n": "هشدار سفارت آمریکا به اتباعش در ریاض از مسیرهای زمینی استفاده کنید سفارت آمریکا در ریاض روز جمعه به شهروندان این کشور توصیه کرد برای تردد خطوط ریلی و حمل ونقل زمینی را جایگزین فرودگاه های عربستان سعودی کنند",
-   "fa": "🇺🇸🇸🇦هشدار سفارت آمریکا به اتباعش در ریاض: از مسیرهای زمینی استفاده کنید 💢سفارت آمریکا در ریاض روز جمعه به شهروندان این کشور توصیه کرد برای تردد، خطوط ریلی و حمل‌ونقل زمینی را جایگزین فرودگاه‌های عربستان سعودی کنند."
-  },
-  {
    "t": 1792161756.0,
    "n": "belarusian president lukashenko warns the americans are powerful now they believe there is no force capable of stopping them they are mistaken god sees everything and he will strike them very hard they need to be more careful there are many forces in nature that can put the powerful of this world in their place",
    "fa": "🇧🇾🇺🇸⚡️ — رئیس‌جمهور بلاروس، لوکاشنکو هشدار می‌دهد: آمریکایی‌ها اکنون قدرتمند هستند. آن‌ها معتقدند هیچ نیرویی قادر به متوقف کردنشان نیست. آن‌ها در اشتباهند. خدا همه چیز را می‌بیند و ضربه بسیار سختی به آن‌ها خواهد زد. آن‌ها باید احتیاط بیشتری کنند. نیروهای زیادی در طبیعت وجود دارند که می‌توانند قدرتمندان این جهان را سر جای خود بنشانند."
@@ -639,14 +629,24 @@
    "t": 1792174087.0,
    "n": "france s president emmanuel macron russia through its actions is preventing ukrainian grain from leaving ukraine has had one of its record harvests which helps feed many developing and poor countries i m thinking of egypt and many other african countries today russia is choosing to starve these countries and impoverish ukraine we will respond to that but it is criminal in every respect",
    "fa": "🇫🇷🇺🇦🇷🇺⚡️ — امانوئل مکرون، رئیس‌جمهور فرانسه: روسیه از طریق اقدامات خود مانع خروج غلات اوکراین می‌شود. اوکراین یکی از برداشت‌های رکورد خود را داشته است که به تغذیه بسیاری از کشورهای در حال توسعه و فقیر کمک می‌کند. من به مصر و بسیاری از کشورهای دیگر آفریقایی فکر می‌کنم. امروز روسیه تصمیم می‌گیرد این کشورها را گرسنه نگه دارد و اوکراین را به فقیرسازی بکشاند. ما به آن پاسخ خواهیم داد، اما این در هر زمی"
+  },
+  {
+   "t": 1792174268.0,
+   "n": "وزیر کشتی رانی هند یک نفتکش حامل نفت خام امروز در تنگه هرمز هدف موشک قرار گرفت",
+   "fa": "⭕️وزیر کشتی‌رانی هند: یک نفتکش حامل نفت خام امروز در تنگه هرمز هدف موشک قرار گرفت"
+  },
+  {
+   "t": 1792174377.0,
+   "n": "france s president emmanuel macron helping ukraine is not a matter of our goodwill it is in our interest it is the unanimous position of europeans and it is about our security surrender is weakness weakness is danger i believe the best way to protect the french people today is to help ukraine as we are doing because it is on the front line of our security",
+   "fa": "🇫🇷🇺🇦🇷🇺⚡️ — رئیس‌جمهور فرانسه امانوئل مکرون: کمک به اوکراین مسئله حسن نیت ما نیست. این در منافع ماست. این موضع متفق‌القول اروپایی‌هاست و مربوط به امنیت ما می‌شود. تسلیم شدن ضعف است. ضعف خطرناک است. من معتقدم بهترین راه برای محافظت از مردم فرانسه در حال حاضر این است که به اوکراین کمک کنیم همان‌طور که در حال انجام آن هستیم، زیرا اوکراین در خط مقدم امنیت ما قرار دارد."
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 315
+  "requests": 316
  },
- "flip": 585,
- "quote_n": 249,
+ "flip": 586,
+ "quote_n": 250,
  "signals": [
   {
    "t": 1792154788.6619253,
@@ -997,6 +997,11 @@
    "t": 1792174280.9571702,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792174584.0473592,
+   "s": 5,
+   "p": 90
   }
  ],
  "risk": {
