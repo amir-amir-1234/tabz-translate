@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108163
+   "last_id": 108164
   },
   "khabarfouri": {
    "last_id": 569825
@@ -329,11 +329,6 @@
  },
  "recent": [
   {
-   "t": 1792083579.0,
-   "n": "وزارت خزانه داری آمریکا تحریم هایی را علـیه ۱۶ فرد و ۱۰ نهاد مرتبط با ایران اعمال کردیم",
-   "fa": "🔄 به‌روزرسانی 🚨 وزارت خزانه‌داری آمریکا: تحریم‌هایی را علـیه ۱۶ فرد و ۱۰ نهاد مرتبط با ایران اعمال کردیم."
-  },
-  {
    "t": 1792083924.0,
    "n": "نتانیاهو تحرکاتی را در میان سپاه پاسداران ایران مشاهده میکنم",
    "fa": "⭕️نتانیاهو: تحرکاتی را در میان سپاه پاسداران ایران مشاهده میکنم"
@@ -627,13 +622,18 @@
    "t": 1792112478.0,
    "n": "iran and its regional allies have carried out at least 135 missile and drone attacks against 84 infrastructure sites across the gulf since the u s israeli war began on february 28 systematically targeting critical equipment and causing widespread economic disruption according to a reuters investigation based on satellite imagery operational data and interviews with 36 sources reuters found that ma",
    "fa": "🇮🇷🇺🇸🇸🇦⚡️ — به گزارش رویترز، از زمان آغاز جنگ آمریکا و اسرائیل در ۲۸ فوریه، ایران و متحدان منطقه‌ای‌اش دست‌کم ۱۳۵ حمله موشکی و پهپادی علیه ۸۴ سایت زیرساختی در سراسر خلیج فارس انجام داده و تجهیزات حیاتی را به طور سیستماتیک هدف قرار داده و اختلالات اقتصادی گسترده‌ای ایجاد کرده‌اند. بر اساس تصاویر ماهواره‌ای، داده‌های عملیاتی و مصاحبه با ۳۶ منبع، رویترز دریافت که بسیاری از حملات، اجزای بسیار خاصی از ت"
+  },
+  {
+   "t": 1792113949.0,
+   "n": "ukraine has exhausted its stockpile of interceptor missiles for u s supplied patriot air defense systems leaving the country increasingly vulnerable to russian ballistic missile attacks according to cnn nearly all ballistic missiles launched during russia s latest missile attack went unintercepted because ukrainian forces lacked the necessary interceptor missiles",
+   "fa": "🇺🇦🇺🇸🇷🇺⚡️ — به گزارش سی‌ان‌ان، اوکراین ذخایر موشک‌های رهگیر خود برای سامانه‌های پدافند هوایی پاتریوت اهدایی ایالات متحده را به پایان رسانده است، موضوعی که این کشور را در برابر حملات موشک‌های بالستیک روسیه به شکلی فزاینده آسیب‌پذیر کرده است. تقریباً تمام موشک‌های بالستیک شلیک‌شده در جریان آخرین حمله موشکی روسیه رهگیر نشدند زیرا نیروهای اوکراینی فاقد موشک‌های رهگیر لازم بودند."
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 7
+  "requests": 8
  },
- "flip": 424,
+ "flip": 425,
  "quote_n": 181,
  "digest": [
   {
@@ -1527,6 +1527,10 @@
   {
    "t": 1792112478.0,
    "h": "🇮🇷🇺🇸🇸🇦⚡️ — به گزارش رویترز، از زمان آغاز جنگ آمریکا و اسرائیل در ۲۸ فوریه، ایران و متحدان منطقه‌ای‌اش دست‌کم ۱۳۵ حمله موشکی و پهپادی علیه ۸۴ سایت زیرس"
+  },
+  {
+   "t": 1792113949.0,
+   "h": "🇺🇦🇺🇸🇷🇺⚡️ — به گزارش سی‌ان‌ان، اوکراین ذخایر موشک‌های رهگیر خود برای سامانه‌های پدافند هوایی پاتریوت اهدایی ایالات متحده را به پایان رسانده است، موضوعی"
   }
  ],
  "risk": {
