@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108259
+   "last_id": 108261
   },
   "khabarfouri": {
    "last_id": 569944
   },
   "KH_B2": {
-   "last_id": 131825
+   "last_id": 131826
   },
   "TelNews_Magazine": {
    "last_id": 101280
@@ -341,11 +341,6 @@
  },
  "recent": [
   {
-   "t": 1792161756.0,
-   "n": "belarusian president lukashenko warns the americans are powerful now they believe there is no force capable of stopping them they are mistaken god sees everything and he will strike them very hard they need to be more careful there are many forces in nature that can put the powerful of this world in their place",
-   "fa": "🇧🇾🇺🇸⚡️ — رئیس‌جمهور بلاروس، لوکاشنکو هشدار می‌دهد: آمریکایی‌ها اکنون قدرتمند هستند. آن‌ها معتقدند هیچ نیرویی قادر به متوقف کردنشان نیست. آن‌ها در اشتباهند. خدا همه چیز را می‌بیند و ضربه بسیار سختی به آن‌ها خواهد زد. آن‌ها باید احتیاط بیشتری کنند. نیروهای زیادی در طبیعت وجود دارند که می‌توانند قدرتمندان این جهان را سر جای خود بنشانند."
-  },
-  {
    "t": 1792161767.0,
    "n": "رویترز جنگ با ایران بازار سوخت رسانی به کشتی ها را دگرگون کرده است قیمت سوخت دریایی همچنان بیش از ۷۰ درصد بالاتر از سطح پیش از جنگ است و شرکت های کشتیرانی به جای قراردادهای بلندمدت به خریدهای مقطعی و قراردادهای کوتاه مدت روی آورده اند محاصره ها و تغییر مسیر کشتی ها در آبراه های مهم خاورمیانه شرکت ها را به سمت تنوع بخشی به محل سوخت گیری سوق داده است قراردادهایی که پیش تر ۶ ماه تا یک سال اعتبار داشت",
    "fa": "🇺🇸🇮🇱🇮🇷 رویترز: جنگ با ایران، بازار سوخت‌رسانی به کشتی‌ها را دگرگون کرده است. 💢قیمت سوخت دریایی همچنان بیش از ۷۰ درصد بالاتر از سطح پیش از جنگ است و شرکت‌های کشتیرانی به‌جای قراردادهای بلندمدت، به خریدهای مقطعی و قراردادهای کوتاه‌مدت روی آورده‌اند. 💢محاصره‌ها و تغییر مسیر کشتی‌ها در آبراه‌های مهم خاورمیانه، شرکت‌ها را به سمت تنوع‌بخشی به محل سوخت‌گیری سوق داده است. 💢قراردادهایی که پیش‌تر ۶ ماه تا ی"
@@ -639,13 +634,18 @@
    "t": 1792174377.0,
    "n": "france s president emmanuel macron helping ukraine is not a matter of our goodwill it is in our interest it is the unanimous position of europeans and it is about our security surrender is weakness weakness is danger i believe the best way to protect the french people today is to help ukraine as we are doing because it is on the front line of our security",
    "fa": "🇫🇷🇺🇦🇷🇺⚡️ — رئیس‌جمهور فرانسه امانوئل مکرون: کمک به اوکراین مسئله حسن نیت ما نیست. این در منافع ماست. این موضع متفق‌القول اروپایی‌هاست و مربوط به امنیت ما می‌شود. تسلیم شدن ضعف است. ضعف خطرناک است. من معتقدم بهترین راه برای محافظت از مردم فرانسه در حال حاضر این است که به اوکراین کمک کنیم همان‌طور که در حال انجام آن هستیم، زیرا اوکراین در خط مقدم امنیت ما قرار دارد."
+  },
+  {
+   "t": 1792174790.0,
+   "n": "elon musk personally proposed restricting ukraine s starshield satellite communications system to president trump who agreed to the plan according to the telegraph citing four sources the restrictions capped ukrainian drones using starshield at around 160 km h severely limiting their ability to intercept faster russian drones and missiles musk publicly denied responsibility for the restrictions cl",
+   "fa": "🔄 به‌روزرسانی 🇺🇸🇺🇦⚡️ — به گزارش روزنامه تلگراف به نقل از چهار منبع، ایلان ماسک شخصاً پیشنهاد محدود کردن سیستم ارتباط ماهواره‌ای استارشیلد اوکراین را به رئیس‌جمهور ترامپ ارائه کرد و ترامپ با این طرح موافقت نمود. این محدودیت‌ها سرعت پهپادهای اوکراینی استفاده‌کننده از استارشیلد را به حدود ۱۶۰ کیلومتر در ساعت کاهش داد و توانایی آن‌ها را برای رهگیری پهپادها و موشک‌های سریع‌تر روسی به شدت محدود کرد. ماس"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 316
+  "requests": 317
  },
- "flip": 586,
+ "flip": 587,
  "quote_n": 250,
  "signals": [
   {
