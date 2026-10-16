@@ -241,7 +241,8 @@
     "WP-WSJ-0003981259",
     "WP-WSJ-0003876023",
     "WP-WSJ-0003981903",
-    "WP-WSJ-0003981974"
+    "WP-WSJ-0003981974",
+    "WP-WSJ-0003982233"
    ]
   },
   "NYT": {
@@ -331,11 +332,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792116672.0,
-   "n": "yemen s houthis ansarallah announced they shot down a saudi royal air force wing loong ii armed reconnaissance drone while it was conducting hostile operations over marib governorate",
-   "fa": "🇾🇪❌🇸🇦 — حوثی‌های یمن (انصارالله) اعلام کردند که یک فروند پهپاد شناسایی مسلح وینگ لونگ ۲ نیروی هوایی سلطنتی عربستان سعودی را در جریان انجام «عملیات‌های خصمانه» بر فراز استان مأرب سرنگون کرده‌اند."
-  },
   {
    "t": 1792117701.0,
    "n": "civil emergency message issued to all residents of los angeles county warning wildfires in the area can spread fast warning residents not to wait for an official alert and just leave if they feel unsafe due to a nearby fire",
@@ -630,19 +626,20 @@
    "t": 1792145613.0,
    "n": "نتانیاهو در گفتگوی تلفنی با روبیو اگر تهران عقلانی عمل نکند حمله یک سناریوی واقعی است",
    "fa": "🇮🇱🇺🇸🇮🇷💢نتانیاهو در گفتگوی تلفنی با روبیو: اگر تهران عقلانی عمل نکند، حمله یک سناریوی واقعی است"
+  },
+  {
+   "t": 1792145700.0,
+   "n": "china proposes export controls on ai technologies china is considering new export controls on artificial intelligence technologies in a bid to safeguard the strategically critical industry amid intensifying competition",
+   "fa": "⭕️ پیشنهاد کنترل‌های صادراتی جدید از سوی چین بر فناوری‌های هوش مصنوعی به گزارش وال‌استریت ژورنال چین در حال بررسی اعمال کنترل‌های صادراتی جدید بر فناوری‌های هوش مصنوعی است تا از این صنعت دارای اهمیت استراتژیک در میان تشدید رقابت‌ها محافظت کند."
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 105
+  "requests": 107
  },
- "flip": 471,
- "quote_n": 202,
+ "flip": 472,
+ "quote_n": 203,
  "digest": [
-  {
-   "t": 1792059386.0,
-   "h": "🚨 تصمیم شورای عالی امنیت ملی برای کالاهای اساسی طبق اعلام شورای عالی امنیت ملی به گمرکات کشور، مصوبات ستاد مقابله با تحریم از سوی سران قوا تمدید شده ا"
-  },
   {
    "t": 1792060087.0,
    "h": "🔴 عراقچی به بغداد سفر می‌کند سخنگوی وزارت امور خارجه از سفر وزیر امور خارجه به بغداد برای شرکت در اجلاس سالانه وزرای امور خارجه سازمان همکاری اسلامی د"
@@ -1478,6 +1475,10 @@
   {
    "t": 1792145613.0,
    "h": "🇮🇱🇺🇸🇮🇷💢نتانیاهو در گفتگوی تلفنی با روبیو: اگر تهران عقلانی عمل نکند، حمله یک سناریوی واقعی است"
+  },
+  {
+   "t": 1792145700.0,
+   "h": "⭕️ پیشنهاد کنترل‌های صادراتی جدید از سوی چین بر فناوری‌های هوش مصنوعی به گزارش وال‌استریت ژورنال چین در حال بررسی اعمال کنترل‌های صادراتی جدید بر فناو"
   }
  ],
  "risk": {
