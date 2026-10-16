@@ -4,7 +4,7 @@
    "last_id": 108169
   },
   "khabarfouri": {
-   "last_id": 569832
+   "last_id": 569833
   },
   "KH_B2": {
    "last_id": 131767
@@ -329,11 +329,6 @@
  },
  "recent": [
   {
-   "t": 1792085512.0,
-   "n": "president trump we know all the paths we know where all the bad guys are the cartels we know where they live we re hitting them hard but it s going to be harder as we go along they know they have a certain period of time to essentially give up mexico should be doing it but honestly they re not capable of doing it",
-   "fa": "🇺🇸🇲🇽⚡️ — رئیس‌جمهور ترامپ: ما تمام مسیرها را می‌شناسیم، می‌دانیم افراد شرور و کارتل‌ها کجا هستند و می‌دانیم کجا زندگی می‌کنند. ما به سختی به آن‌ها ضربه می‌زنیم، اما با پیشروی کار سخت‌تر خواهد شد. آن‌ها می‌دانند که زمان مشخصی دارند تا اساساً تسلیم شوند. مکزیک باید این کار را انجام دهد، اما راستش را بخواهید، آن‌ها توانایی انجام آن را ندارند."
-  },
-  {
    "t": 1792085582.0,
    "n": "president trump the press will say he said he s got serious problems what are they i actually don t know",
    "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ: مطبوعات خواهند گفت: «او گفته مشکلات جدی دارد. آن‌ها چه هستند؟» من در واقع نمی‌دانم."
@@ -627,14 +622,19 @@
    "t": 1792117701.0,
    "n": "civil emergency message issued to all residents of los angeles county warning wildfires in the area can spread fast warning residents not to wait for an official alert and just leave if they feel unsafe due to a nearby fire",
    "fa": "🇺🇸⚡️ — پیام اضطراری مدنی برای تمام ساکنان شهرستان لس‌آنجلس صادر شد و نسبت به گسترش سریع آتش‌سوزی‌های جنگلی در منطقه هشدار داد و از ساکنان خواست منتظر هشدار رسمی نمانند و در صورت احساس ناامنی به دلیل آتش‌سوزی نزدیک، محل را ترک کنند."
+  },
+  {
+   "t": 1792119750.0,
+   "n": "ترامپ هیچ برنامه ای برای استقرار نیروی زمینی در ایران وجود ندارد و آمریکا از سلاح هسته ای علیه ایران استفاده نخواهد کرد",
+   "fa": "🚨 ترامپ: هیچ برنامه‌ای برای استقرار نیروی زمینی در ایران وجود ندارد و آمریکا از سلاح هسته‌ای علیه ایران استفاده نخواهد کرد!"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 19
+  "requests": 20
  },
  "flip": 426,
- "quote_n": 184,
+ "quote_n": 185,
  "digest": [
   {
    "t": 1792036743.0,
@@ -1531,6 +1531,10 @@
   {
    "t": 1792117701.0,
    "h": "🇺🇸⚡️ — پیام اضطراری مدنی برای تمام ساکنان شهرستان لس‌آنجلس صادر شد و نسبت به گسترش سریع آتش‌سوزی‌های جنگلی در منطقه هشدار داد و از ساکنان خواست منتظر "
+  },
+  {
+   "t": 1792119750.0,
+   "h": "🚨 ترامپ: هیچ برنامه‌ای برای استقرار نیروی زمینی در ایران وجود ندارد و آمریکا از سلاح هسته‌ای علیه ایران استفاده نخواهد کرد!"
   }
  ],
  "risk": {
