@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108238
+   "last_id": 108239
   },
   "khabarfouri": {
    "last_id": 569928
@@ -10,7 +10,7 @@
    "last_id": 131814
   },
   "TelNews_Magazine": {
-   "last_id": 101269
+   "last_id": 101270
   },
   "NE_WG": {
    "last_id": 114629
@@ -341,11 +341,6 @@
  },
  "recent": [
   {
-   "t": 1792156043.0,
-   "n": "ukrainian president zelensky ukraine will be in the eu more and more people understand that we and our country are also needed in nato",
-   "fa": "🇺🇦🇪🇺🪖⚡️ — رئیس‌جمهور اوکراین، زلنسکی: اوکراین در اتحادیه اروپا خواهد بود. افراد بیشتری درک می‌کنند که ما و کشورمان در ناتو نیز مورد نیاز هستیم."
-  },
-  {
    "t": 1792156169.0,
    "n": "iran has managed to export limited quantities of liquefied petroleum gas lpg and jet fuel despite the u s naval blockade that has brought its crude oil exports to a near standstill according to reuters shipping intelligence indicates that at least eight tankers carrying approximately 4 1 million barrels of iranian lpg have departed the gulf of oman since mid july another tanker delivered iranian j",
    "fa": "🇮🇷🇺🇸⚡️ — به گزارش رویترز، ایران با وجود محاصره دریایی ایالات متحده که صادرات نفت خام این کشور را تقریباً متوقف کرده است، توانسته مقادیر محدودی گاز مایع (LPG) و سوخت جت صادر کند. اطلاعات کشتیرانی نشان می‌دهد که حداقل هشت تانکر حامل حدود ۴.۱ میلیون بشکه گاز مایع ایران از اواسط ماه جولای خلیج عمان را ترک کرده‌اند. یک تانکر دیگر نیز در ماه سپتامبر سوخت جت ایران را به میانمار تحویل داد. منابع امنیت دری"
@@ -639,14 +634,19 @@
    "t": 1792169300.0,
    "n": "alerts in khamis mushait governorate southwestern saudi arabia",
    "fa": "🇾🇪❌🇸🇦 — اعلام وضعیت هشدار در استان خمیس مشیط در جنوب غربی عربستان سعودی."
+  },
+  {
+   "t": 1792169465.0,
+   "n": "alerts in khamis mushait governorate have been lifted",
+   "fa": "🔄 به‌روزرسانی 🇸🇦⚡️ — هشدارها در استان خمیس مشیط لغو شد."
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 251
+  "requests": 252
  },
- "flip": 557,
- "quote_n": 239,
+ "flip": 558,
+ "quote_n": 240,
  "signals": [
   {
    "t": 1792154788.6619253,
@@ -887,6 +887,11 @@
    "t": 1792169491.7027864,
    "s": 4,
    "p": 70
+  },
+  {
+   "t": 1792169777.918792,
+   "s": 4,
+   "p": 40
   }
  ],
  "risk": {
