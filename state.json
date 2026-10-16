@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108231
+   "last_id": 108232
   },
   "khabarfouri": {
    "last_id": 569923
   },
   "KH_B2": {
-   "last_id": 131809
+   "last_id": 131810
   },
   "TelNews_Magazine": {
    "last_id": 101266
@@ -340,16 +340,6 @@
  },
  "recent": [
   {
-   "t": 1792152200.0,
-   "n": "عزیزی مجلس مادر نزاییده کسی بخواد بیاد با مادر بمب ها مارو بزنه",
-   "fa": "⭕️عزیزی، مجلس: مادر نزاییده کسی بخواد بیاد با مادر بمب ها مارو بزنه"
-  },
-  {
-   "t": 1792152590.0,
-   "n": "israeli prime minister netanyahu on obama the other day i heard a regrettable statement it talked about israel stealing land israel losing the moral high ground well let me respond to that the jewish people are not foreign occupiers in the land of our forefathers our history is not a colonial enterprise our land is not stolen land this is our homeland it s called judea we re not the dutch in indon",
-   "fa": "🇮🇱🇺🇸⚡️ — نخست‌وزیر اسرائیل، نتانیاهو درباره اوباما: چند روز پیش، اظهارات تأسف‌باری شنیدم. صحبت از این بود که اسرائیل زمین می‌دزدد و اسرائیل جایگاه اخلاقی خود را از دست داده است. خب، اجازه دهید به آن پاسخ دهم. مردم یهود اشغالگران خارجی در سرزمین نیاکان ما نیستند. تاریخ ما یک پروژه استعماری نیست. سرزمین ما سرزمین دزدی‌شده نیست. این سرزمین مادری ماست. نام آن یهودا است. ما هلندی‌ها در اندونزی نیستیم. "
-  },
-  {
    "t": 1792152631.0,
    "n": "israeli prime minister netanyahu the obstacle to peace is not israel it s not our fight for our very right to exist in our own state we re defending our common civilization a peace built on illusions will crash against the rocks of middle eastern reality israel will not gamble with its survival to accommodate those who refuse to accept the facts of history to accept our right to exist or who wish ",
    "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: مانع صلح، اسرائیل نیست. مبارزه ما برای حق وجودمان در کشور خودمان نیست. ما در حال دفاع از تمدن مشترکمان هستیم. صلحی که بر پایه توهمات بنا شود، به صخره‌های واقعیت خاورمیانه برخورد خواهد کرد. اسرائیل با بقای خود قمار نخواهد کرد تا کسانی را که از پذیرش حقایق تاریخ، پذیرش حق ما برای وجود داشتن، یا کسانی که می‌خواهند تروریسم را راضی کنند، خشنود سازد."
@@ -638,13 +628,23 @@
    "t": 1792163881.0,
    "n": "بر اساس تحلیل جدیدی از مرکز مطالعات استراتژیک و بین المللی csis ارتش ایالات متحده ممکن است تنها تعداد اندکی از قدرتمندترین بمب های نفوذکننده به پناهگاه های زیرزمینی خود را باقی داشته باشد در حالی که ایران به گسترش تأسیسات نظامی و هسته ای عمیقا دفن شده ادامه می دهد تخمین زده می شود که پس از استفاده از ۱۴ بمب ۳۰ ۰۰۰ پوندی gbu 57 نفوذکننده سلاح سنگین massive ordnance penetrator علیه تأسیسات هسته ای ف",
    "fa": "🇺🇸🇮🇷 بر اساس تحلیل جدیدی از مرکز مطالعات استراتژیک و بین‌المللی (CSIS)، ارتش ایالات متحده ممکن است تنها تعداد اندکی از قدرتمندترین بمب‌های نفوذکننده به پناهگاه‌های زیرزمینی خود را باقی داشته باشد، در حالی که ایران به گسترش تأسیسات نظامی و هسته‌ای عمیقاً دفن‌شده ادامه می‌دهد. تخمین زده می‌شود که پس از استفاده از ۱۴ بمب ۳۰,۰۰۰ پوندی GBU-57 نفوذکننده سلاح سنگین (Massive Ordnance Penetrator) علیه تأسی"
+  },
+  {
+   "t": 1792165311.0,
+   "n": "russia and the u s are expected to announce new joint initiatives beyond their recently agreed diesel deal according to russian envoy kirill dmitriev dmitriev said discussions include joint data center projects potentially powered by electricity from russian nuclear plants he noted that the initiatives would begin before the end of the war in ukraine",
+   "fa": "🇷🇺🇺🇸⚡️ — به گفته کیریل دمیتریف، فرستاده روسیه، انتظار می‌رود روسیه و ایالات متحده فراتر از توافق دیزل که اخیراً درباره آن به توافق رسیده‌اند، ابتکارات مشترک جدیدی را اعلام کنند. دمیتریف گفت که مذاکرات شامل پروژه‌های مشترک مرکز داده است که پتانسیل تأمین انرژی از طریق نیروگاه‌های هسته‌ای روسیه را دارند. وی خاطرنشان کرد که این ابتکارات پیش از پایان جنگ در اوکراین آغاز خواهد شد."
+  },
+  {
+   "t": 1792165451.0,
+   "n": "انتشار پستی عجیب در خبرگزاری فارس که برخی کاربران آن را نشانه ای از احتمال قطع دائمی اینترنت می دانند",
+   "fa": "💢انتشار پستی عجیب در خبرگزاری فارس که برخی کاربران آن را نشانه‌ای از احتمال قطع دائمی اینترنت می‌دانند"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 219
+  "requests": 228
  },
- "flip": 542,
+ "flip": 544,
  "quote_n": 229,
  "signals": [
   {
@@ -816,6 +816,11 @@
    "t": 1792164137.003814,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1792165635.2429826,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
