@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131849
+   "last_id": 131850
   },
   "TelNews_Magazine": {
    "last_id": 101299
   },
   "NE_WG": {
-   "last_id": 114677
+   "last_id": 114678
   }
  },
  "fails": {},
@@ -349,11 +349,6 @@
  },
  "recent": [
   {
-   "t": 1792173668.0,
-   "n": "پس واقعا مثل اینکه خبریه خبرگزاری فارس وابسته به سپاه پاسداران پستی در مورد رفع مشکل پرداخت آنلاین در زمان قطعی نت منتشر کرده",
-   "fa": "💢پس واقعا مثل اینکه خبریه... 👀خبرگزاری فارس وابسته به سپاه پاسداران پستی در مورد رفع مشکل پرداخت آنلاین در زمان قطعی نت منتشر کرده..."
-  },
-  {
    "t": 1792173850.0,
    "n": "the houthis ansarallah say saudi arabia carried out 101 airstrikes and missile strikes across sana a and nine yemeni governorates over the past 24 hours using f 15 and typhoon jets alongside missiles launched from najran they reported civilian casualties including women and children and noted that the total number of saudi led coalition strikes has reached 2 489",
    "fa": "🇸🇦❌🇾🇪 — حوثی‌ها (انصارالله) اعلام کردند که عربستان سعودی طی ۲۴ ساعت گذشته ۱۰۱ حمله هوایی و موشکی با استفاده از جنگنده‌های اف-۱۵ و تایفون و همچنین موشک‌های پرتاب شده از نجران در سراسر صنعا و ۹ استان یمن انجام داده است. آن‌ها از تلفات غیرنظامی از جمله زنان و کودکان خبر دادند و خاطرنشان کردند که کل حملات ائتلاف به رهبری عربستان به ۲۴۸۹ مورد رسیده است."
@@ -647,14 +642,19 @@
    "t": 1792188029.0,
    "n": "president trump how do you like the deal i made on greenland got it for nothing it s probably the greatest real estate deal ever made although i think venezuela is pretty good too",
    "fa": "🇺🇸🇬🇱🇩🇰⚡️ — رئیس‌جمهور ترامپ: معامله‌ای که روی گرینلند انجام دادم چطور است؟ مفت به دستش آوردم. این احتمالاً بزرگ‌ترین معامله ملکی است که تاکنون انجام شده. هرچند، فکر می‌کنم ونزوئلا هم خیلی خوب است."
+  },
+  {
+   "t": 1792189877.0,
+   "n": "پرواز جنگنده های ارتش در آسمان برخی شهر های کشور",
+   "fa": "💢پرواز جنگنده های ارتش در آسمان برخی شهر های کشور"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 382
+  "requests": 383
  },
- "flip": 621,
- "quote_n": 269,
+ "flip": 622,
+ "quote_n": 270,
  "signals": [
   {
    "t": 1792154788.6619253,
@@ -1240,6 +1240,11 @@
    "t": 1792188090.9516652,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792190168.4384584,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
