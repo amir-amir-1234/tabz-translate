@@ -244,7 +244,8 @@
     "WP-WSJ-0003981974",
     "WP-WSJ-0003982233",
     "WP-WSJ-0003982132",
-    "WP-WSJ-0003982563"
+    "WP-WSJ-0003982563",
+    "WP-WSJ-0003982517"
    ]
   },
   "NYT": {
@@ -334,11 +335,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792144586.0,
-   "n": "the arab kingmaker in israel s election who wants a partnership with jews mansour abbas a dentist turned lawmaker helped oust benjamin netanyahu once before now he and a jewish ex police commander have teamed up to try to do it again",
-   "fa": "⭕️ منصور عباس و یک فرمانده سابق پلیس برای برکناری نتانیاهو متحد شدند به گزارش نیویورک تایمز منصور عباس، دندانپزشکی که نماینده پارلمان شده است، پیش از این یک بار به برکناری بنیامین نتانیاهو کمک کرد. اکنون، او و یک فرمانده سابق پلیس یهودی با یکدیگر متحد شده‌اند تا دوباره تلاش کنند این کار را انجام دهند."
-  },
   {
    "t": 1792144605.0,
    "n": "جی دی ونس اگر کسی در حال فروش اطلاعات کاخ سفید درباره جنگ ایران باشد این کار بسیار زننده است و باید محاکمه و مجازات شود",
@@ -633,14 +629,19 @@
    "t": 1792156169.0,
    "n": "iran has managed to export limited quantities of liquefied petroleum gas lpg and jet fuel despite the u s naval blockade that has brought its crude oil exports to a near standstill according to reuters shipping intelligence indicates that at least eight tankers carrying approximately 4 1 million barrels of iranian lpg have departed the gulf of oman since mid july another tanker delivered iranian j",
    "fa": "🇮🇷🇺🇸⚡️ — به گزارش رویترز، ایران با وجود محاصره دریایی ایالات متحده که صادرات نفت خام این کشور را تقریباً متوقف کرده است، توانسته مقادیر محدودی گاز مایع (LPG) و سوخت جت صادر کند. اطلاعات کشتیرانی نشان می‌دهد که حداقل هشت تانکر حامل حدود ۴.۱ میلیون بشکه گاز مایع ایران از اواسط ماه جولای خلیج عمان را ترک کرده‌اند. یک تانکر دیگر نیز در ماه سپتامبر سوخت جت ایران را به میانمار تحویل داد. منابع امنیت دری"
+  },
+  {
+   "t": 1792156320.0,
+   "n": "hezbollah tells the lebanese government it wants its explosives back the demand sets up a public contest of wills with a government that has pledged to demilitarize the iran backed militant group",
+   "fa": "🔴 درخواست حزب‌الله از دولت لبنان برای پس گرفتن مواد منفجره به گزارش وال‌استریت ژورنال حزب‌الله از دولت لبنان خواسته است تا مواد منفجره این گروه را پس بدهد. این درخواست مبارزه علنی اراده‌ها را با دولتی رقم می‌زند که متعهد شده است این گروه شبه‌نظامی مورد حمایت ایران را خلع سلاح کند."
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 166
+  "requests": 170
  },
- "flip": 516,
- "quote_n": 216,
+ "flip": 517,
+ "quote_n": 217,
  "signals": [
   {
    "t": 1792154788.6619253,
@@ -671,6 +672,11 @@
    "t": 1792156298.5944662,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1792156591.9808226,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
