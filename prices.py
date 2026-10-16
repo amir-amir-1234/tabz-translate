@@ -239,7 +239,7 @@ def tehran_idx(ts):
 
 
 def shown_risk(risk, now):
-    """The number shown now. bot.py stores the Gemini estimate (base) every 3 hours; at the top of each
+    """The number shown now. bot.py stores the news-based estimate (base) every 3 hours; at the top of each
     following Tehran hour the shown number moves by exactly one point up or down, chosen at random
     (a hash of the hour, so no state is needed), and never strays more than 3 points from the base.
     After a direct attack the number is 100."""
