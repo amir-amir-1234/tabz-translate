@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108253
+   "last_id": 108254
   },
   "khabarfouri": {
-   "last_id": 569942
+   "last_id": 569943
   },
   "KH_B2": {
    "last_id": 131824
   },
   "TelNews_Magazine": {
-   "last_id": 101278
+   "last_id": 101279
   },
   "NE_WG": {
-   "last_id": 114638
+   "last_id": 114639
   }
  },
  "fails": {},
@@ -341,16 +341,6 @@
  },
  "recent": [
   {
-   "t": 1792161199.0,
-   "n": "ukrainian president zelensky this diesel deal will never be enough to compensate for the impact of the strait of hormuz on global markets but it will put more money directly into putin s pocket to fund this war",
-   "fa": "🇺🇦🇺🇸🇮🇷🇷🇺⚡️ — رئیس‌جمهور اوکراین، زلنسکی: این معامله دیزل هرگز برای جبران تأثیر تنگه هرمز بر بازارهای جهانی کافی نخواهد بود، اما پول بیشتری را مستقیماً به جیب پوتین می‌اندازد تا این جنگ را تأمین مالی کند."
-  },
-  {
-   "t": 1792161240.0,
-   "n": "france and germany reach deal to protect europe s car industry the deal which is aimed at safeguarding europe s struggling auto sector includes more flexibility with decarbonization rules and provides incentives for investment",
-   "fa": "⭕️ توافق فرانسه و آلمان برای صیانت از صنعت خودروسازی اروپا به گزارش وال‌استریت ژورنال توافق یادشده که با هدف حراست از بخش خودروسازی درگیر چالش اروپا حاصل شده است، شامل انعطاف‌پذیری بیشتر در قوانین کربن‌زدایی می‌شود و همچنین تشویق‌هایی را برای سرمایه‌گذاری فراهم می‌کند."
-  },
-  {
    "t": 1792161261.0,
    "n": "houthi attacks on saudi arabia put in doubt kingdom s sports and business events the iran backed group s attacks have disrupted sports tournaments and threatened business events that the kingdom has long used to attract investment and raise its profile",
    "fa": "🔴 حملات حوثی‌ها به عربستان سعودی رویدادهای ورزشی و تجاری پادشاهی را زیر سوال برد به گزارش نیویورک تایمز حملات گروه مورد حمایت ایران باعث اختلال در تورنمنتهای ورزشی شده و رویدادهای تجاری را که پادشاهی مدت‌هاست از آن‌ها برای جلب سرمایه‌گذاری و ارتقای جایگاه خود بهره می‌برد، تهدید کرده است."
@@ -639,13 +629,23 @@
    "t": 1792172986.0,
    "n": "ترامپ قیمت نفت به زودی کاهش می یابد",
    "fa": "⭕️ترامپ: قیمت نفت به‌زودی کاهش می‌یابد"
+  },
+  {
+   "t": 1792173421.0,
+   "n": "فلاحت پیشه نماینده سابق مجلس مادر بمب ها می تواند فاجعه انسانی و ویرانی گسترده زیرساخت های انرژی را رقم بزند نمایندگی ایران باید برای اعمال کنوانسیون چهارم ژنو خواستار نشست اضطراری شورای امنیت شود",
+   "fa": "📲فلاحت‌پیشه، نماینده سابق مجلس: «مادر بمب‌ها» می‌تواند فاجعه انسانی و ویرانی گسترده زیرساخت‌های انرژی را رقم بزند. نمایندگی ایران باید برای اعمال کنوانسیون چهارم ژنو ، خواستار نشست اضطراری شورای امنیت شود."
+  },
+  {
+   "t": 1792173536.0,
+   "n": "scotland s snp led government is preparing to abandon its long standing opposition to new oil and gas exploration in the north sea according to politico the government plans to revise its energy strategy removing the presumption against new oil and gas developments introduced in a 2023 draft new projects will still be assessed against scotland s climate targets but the government will no longer op",
+   "fa": "🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧⚡️ — به گزارش پولیتیکو، دولت اسکاتلند به رهبری حزب ملی اسکاتلند در حال آماده شدن برای کنار گذاشتن مخالفت دیرینه خود با اکتشافات جدید نفت و گاز در دریای شمال است. این دولت قصد دارد استراتژی انرژی خود را بازنگری کند و فرض مخالفت با پروژه‌های جدید نفت و گاز را که در پیش‌نویس سال ۲۰۲۳ معرفی شده بود، حذف کند. پروژه‌های جدید همچنان با اهداف اقلیمی اسکاتلند سنجیده خواهند شد، اما دولت دیگر به‌طور"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 309
+  "requests": 311
  },
- "flip": 580,
+ "flip": 582,
  "quote_n": 248,
  "signals": [
   {
@@ -977,6 +977,11 @@
    "t": 1792173100.9828587,
    "s": 4,
    "p": 40
+  },
+  {
+   "t": 1792173710.6900759,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
