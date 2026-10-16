@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108218
+   "last_id": 108219
   },
   "khabarfouri": {
    "last_id": 569916
@@ -10,7 +10,7 @@
    "last_id": 131803
   },
   "TelNews_Magazine": {
-   "last_id": 101261
+   "last_id": 101262
   },
   "NE_WG": {
    "last_id": 114614
@@ -337,16 +337,6 @@
  },
  "recent": [
   {
-   "t": 1792147912.0,
-   "n": "president trump they gave zelensky massive amounts of patriots of tomahawks of everything and they didn t make him pay",
-   "fa": "🇺🇸🇺🇦⚡️ — رئیس‌جمهور ترامپ: آنها مقادیر هنگفتی پاتریوت، توماهاوک و هر چیز دیگری به زلنسکی دادند. و از او پول نگرفتند."
-  },
-  {
-   "t": 1792147968.0,
-   "n": "president trump on ukraine where is the cash that we gave to ukraine where is all the equipment you know people were selling that equipment biden was giving them missiles and they were being sold on the open market after they went to ukraine",
-   "fa": "🇺🇸🇺🇦⚡️ — رئیس‌جمهور ترامپ درباره اوکراین: پول‌هایی که به اوکراین دادیم کجاست؟ تمام تجهیزات کجاست؟ می‌دانید، مردم داشتند آن تجهیزات را می‌فروختند. بایدن به آنها موشک می‌داد و آنها پس از رفتن به اوکراین، در بازار آزاد فروخته می‌شدند."
-  },
-  {
    "t": 1792148015.0,
    "n": "president trump on the ukraine war had the russians not taken the right turn onto dirt instead of going up a concrete highway it would have ended in one day so i can imagine putin s not exactly thrilled because you re getting into six years",
    "fa": "🇺🇸🇺🇦🇷🇺⚡️ — رئیس‌جمهور ترامپ درباره جنگ اوکراین: اگر روس‌ها به جای بالا رفتن از بزرگراه بتنی، پیچ درست را به سمت جاده خاکی نزده بودند، جنگ در یک روز تمام شده بود. بنابراین می‌توانم تصور کنم پوتین خیلی خوشحال نیست چون جنگ وارد سال ششم خود می‌شود."
@@ -635,14 +625,24 @@
    "t": 1792160083.0,
    "n": "the saudi led coalition says it intercepted and destroyed a ballistic missile heading toward yanbu two cruise missiles over the red sea and three drones over southern saudi arabia and the riyadh region in recent hours",
    "fa": "🇸🇦🇾🇪⚡️ — ائتلاف به رهبری عربستان اعلام کرد که در ساعات گذشته یک فروند موشک بالستیک به سمت ینبع، دو فروند موشک کروز بر فراز دریای سرخ و سه فروند پهپاد را بر فراز جنوب عربستان و منطقه ریاض رهگیری و منهدم کرده است."
+  },
+  {
+   "t": 1792160447.0,
+   "n": "bachar charaf eddine al nahli a spokesperson of the uae backed rsf media center was killed in the western khordofan region alongside his security team following an airstrike by the sudanese air force on the group positions",
+   "fa": "🇸🇩❌🇸🇩 — بشار شرف‌الدین النحلی، سخنگوی مرکز رسانه‌ای نیروهای پشتیبانی سریع تحت حمایت امارات، در جریان حمله هوایی نیروی هوایی سودان به مواضع این گروه در منطقه غرب کردفان به همراه تیم حفاظتی خود کشته شد."
+  },
+  {
+   "t": 1792160628.0,
+   "n": "وزیر خارجه آلمان اروپا تحت تهدید موشک های ایرانی قرار گرفته است ما این وضعیت را تحمل نخواهیم کرد",
+   "fa": "⭕️وزیر خارجه آلمان: اروپا تحت تهدید موشک های ایرانی قرار گرفته است، ما این وضعیت را تحمل نخواهیم کرد"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 191
+  "requests": 192
  },
- "flip": 528,
- "quote_n": 223,
+ "flip": 529,
+ "quote_n": 224,
  "signals": [
   {
    "t": 1792154788.6619253,
@@ -748,6 +748,11 @@
    "t": 1792160185.7635717,
    "s": 5,
    "p": 85
+  },
+  {
+   "t": 1792160784.5679352,
+   "s": 4,
+   "p": 70
   }
  ],
  "risk": {
