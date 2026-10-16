@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108156
+   "last_id": 108158
   },
   "khabarfouri": {
    "last_id": 569825
@@ -10,7 +10,7 @@
    "last_id": 131765
   },
   "TelNews_Magazine": {
-   "last_id": 101223
+   "last_id": 101225
   },
   "NE_WG": {
    "last_id": 114574
@@ -328,11 +328,6 @@
  },
  "recent": [
   {
-   "t": 1792082172.0776703,
-   "n": "iran related designations cuba designation issuance of new and amended general licenses and frequently asked questions the department of the treasury s office of foreign assets control ofac is issuing russia related general license 128d authorizing certain transactions involving lukoil retail service stations located outside of russia and russia related general license 130b authorizing transaction",
-   "fa": "🚨 صدور مجوزها و اعمال تحریم‌های جدید مرتبط با ایران، روسیه و کوبا توسط اوفک به گزارش دفتر کنترل دارایی‌های خارجی آمریکا (اوفک)، این نهاد مجوز عمومی شماره ۱۲۸D مرتبط با روسیه را با عنوان «مجوز انجام برخی معاملات مربوط به جایگاه‌های سوخت خرده‌فروشی لوکویل واقع در خارج از روسیه» و همچنین مجوز عمومی شماره ۱۳۰B مرتبط با روسیه را با عنوان «مجوز انجام معاملات مربوط به برخی نهادهای لوکویل در بلغارستان» صا"
-  },
-  {
    "t": 1792082970.0,
    "n": "the united kingdom is supplying ukraine with additional long range storm shadow cruise missiles to help disrupt russian military operations targeting ukrainian civilian infrastructure ahead of winter according to bloomberg the deliveries were discussed during ukrainian president zelensky s visit to london on wednesday where he met with british prime minister andy burnham",
    "fa": "🇬🇧🇺🇦🇷🇺⚡️ — به گزارش بلومبرگ، بریتانیا موشک‌های کروز دوربرد اضافی «استورم شادو» را به اوکراین ارسال می‌کند تا به مختل کردن عملیات نظامی روسیه با هدف قرار دادن زیرساخت‌های غیرنظامی اوکراین پیش از زمستان کمک کند. این محموله‌ها در جریان سفر ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در روز چهارشنبه به لندن که طی آن با اندی برنهام، نخست‌وزیر بریتانیا دیدار کرد، مورد بحث قرار گرفت. زلنسکی هنگام پرسش درباره کی"
@@ -626,19 +621,20 @@
    "t": 1792110612.0,
    "n": "president trump on iran i wouldn t use nuclear on iran we don t have to mother of all bombs is not a nuclear bomb",
    "fa": "🇺🇸🇮🇷⚡️ — دونالد ترامپ درباره ایران: من از سلاح هسته‌ای علیه ایران استفاده نخواهم کرد. نیازی به این کار نداریم. مادر همه بمب‌ها یک بمب اتمی نیست."
+  },
+  {
+   "t": 1792110719.0,
+   "n": "reporter do you trust netanyahu trump i don t trust anybody honestly",
+   "fa": "🇺🇸🇮🇱⚡️ — خبرنگار: آیا به نتانیاهو اعتماد دارید؟ ترامپ: راستش، من به هیچ‌کس اعتماد ندارم."
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 3
+  "requests": 4
  },
- "flip": 422,
+ "flip": 423,
  "quote_n": 181,
  "digest": [
-  {
-   "t": 1792024400.0,
-   "h": "🇺🇸🇷🇺🇮🇷🇻🇪⚡️ — به گزارش رویترز، دولت ترامپ در حال بررسی لغو تحریم‌های مربوط به کشتی‌های موسوم به ناوگان در سایه است که پیش‌تر برای حمل نفت از روسیه، ایر"
-  },
   {
    "t": 1792030113.0,
    "h": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره ایران: ارتش آن‌ها منهدم شده است. رهبران آن‌ها رفته‌اند. من احتمالاً باید رهبران را به حال خود رها می‌کردم، زیرا نمی‌د"
@@ -1518,6 +1514,10 @@
   {
    "t": 1792110612.0,
    "h": "🇺🇸🇮🇷⚡️ — دونالد ترامپ درباره ایران: من از سلاح هسته‌ای علیه ایران استفاده نخواهم کرد. نیازی به این کار نداریم. مادر همه بمب‌ها یک بمب اتمی نیست."
+  },
+  {
+   "t": 1792110719.0,
+   "h": "🇺🇸🇮🇱⚡️ — خبرنگار: آیا به نتانیاهو اعتماد دارید؟ ترامپ: راستش، من به هیچ‌کس اعتماد ندارم."
   }
  ],
  "risk": {
