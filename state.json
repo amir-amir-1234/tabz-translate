@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108234
+   "last_id": 108235
   },
   "khabarfouri": {
    "last_id": 569924
@@ -247,7 +247,8 @@
     "WP-WSJ-0003982563",
     "WP-WSJ-0003982517",
     "WP-WSJ-0003982820",
-    "WP-WSJ-0003980950"
+    "WP-WSJ-0003980950",
+    "WP-WSJ-0003982460"
    ]
   },
   "NYT": {
@@ -339,11 +340,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792154490.0,
-   "n": "آگهی فروش معدن مس در کرمان به قیمت ۵۲۰ میلیارد تومان",
-   "fa": "💢آگهی فروش معدن مس در کرمان به قیمت ۵۲۰ میلیارد تومان!"
-  },
   {
    "t": 1792154517.0,
    "n": "احمد خاتمی امام جمعه تهران سال آینده از نظر اقتصادی سالی درخشان برای ملت ایران خواهد بود",
@@ -638,14 +634,19 @@
    "t": 1792166610.0,
    "n": "russian president vladimir putin whenever we achieve a military victory in the field we must register and consolidate that arena of victory into an arena of political victory as well we must turn it into a document of defeat for the enemy and get the concessions we need to strengthen ourselves",
    "fa": "🇷🇺🇺🇦⚡️ — رئیس‌جمهور روسیه، ولادیمیر پوتین: هر زمان که به پیروزی نظامی در میدان دست می‌یابیم، باید آن عرصه پیروزی را ثبت کنیم و به یک عرصه پیروزی سیاسی نیز تبدیل سازیم. ما باید آن را به سندی برای شکست دشمن تبدیل کنیم و امتیازات لازم را برای تقویت خود به دست آوریم."
+  },
+  {
+   "t": 1792166700.0,
+   "n": "brazen russian attacks are testing nato the alliance is facing a dilemma over how to respond without escalating or looking weak",
+   "fa": "⭕️ پاسخ به حملات جسورانه روسیه؛ چالش جدید ناتو در اجتناب از تشدید تنش و ضعف به گزارش وال‌استریت ژورنال این ائتلاف با یک معضل درباره نحوه واکنش بدون تشدید تنش یا ضعیف به نظر رسیدن مواجه است."
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 233
+  "requests": 235
  },
- "flip": 549,
- "quote_n": 232,
+ "flip": 550,
+ "quote_n": 233,
  "signals": [
   {
    "t": 1792154788.6619253,
