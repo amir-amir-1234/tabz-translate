@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108220
+   "last_id": 108223
   },
   "khabarfouri": {
    "last_id": 569918
@@ -337,21 +337,6 @@
  },
  "recent": [
   {
-   "t": 1792148181.0,
-   "n": "president trump on ukraine i think you need an election because there s nobody that s telling me that the people of ukraine are satisfied having missiles hitting their apartment building",
-   "fa": "🇺🇸🇺🇦🇷🇺⚡️ — رئیس‌جمهور ترامپ درباره اوکراین: من فکر می‌کنم شما به برگزاری انتخابات نیاز دارید زیرا هیچ‌کس به من نمی‌گوید که مردم اوکراین از برخورد موشک به ساختمان‌های مسکونی‌شان رضایت دارند."
-  },
-  {
-   "t": 1792148245.0,
-   "n": "president trump they expended a lot of our ammunition giving it to ukraine we spent very little relatively on iran",
-   "fa": "🇺🇸🇺🇦🇮🇷⚡️ — رئیس‌جمهور ترامپ: آنها با دادن مهماتمان به اوکراین، بخش زیادی از ذخایر ما را مصرف کردند. ما هزینه بسیار کمی، نسبتاً، برای ایران صرف کردیم."
-  },
-  {
-   "t": 1792148307.0,
-   "n": "president trump oil is less expensive now than it was under biden it s less expensive now than it was under barack hussein obama did you ever see his oil prices they were way up",
-   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ: قیمت نفت اکنون از زمان بایدن ارزان‌تر است. قیمت نفت اکنون از زمان باراک حسین اوباما نیز ارزان‌تر است. آیا تا به حال قیمت‌های نفت او را دیده‌اید؟ آن‌ها بسیار بالا بودند."
-  },
-  {
    "t": 1792148354.0,
    "n": "president trump on iran if we didn t do the b 2 bombers a year ago they would right now have a nuclear weapon and i would be calling them hello sir",
    "fa": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره ایران: اگر یک سال پیش بمب‌افکن‌های B-2 را اعزام نکرده بودیم، آن‌ها هم‌اکنون دارای سلاح هسته‌ای بودند و من به آن‌ها می‌گفتم: «سلام، قربان»."
@@ -635,13 +620,28 @@
    "t": 1792160937.0,
    "n": "قیمت دلار یورو و سایر ارزها در بازار امروز ۲۴ مهرماه",
    "fa": "📊 ‏🔺️ قیمت دلار، یورو و سایر ارزها در بازار امروز ۲۴ مهرماه ‎ ‎"
+  },
+  {
+   "t": 1792161026.0,
+   "n": "ukrainian president zelensky to europe the war will cost 155 billion next year and we need at least another 70 billion from you for defense weapons and our resilience this is a realistic amount and i ask you to find this support it will help us deter russia",
+   "fa": "🇺🇦🇪🇺🇷🇺⚡️ — رئیس‌جمهور اوکراین، زلنسکی خطاب به اروپا: هزینه جنگ سال آینده ۱۵۵ میلیارد یورو خواهد بود. و ما حداقل به ۷۰ میلیارد یورو دیگر از سوی شما برای دفاع، تسلیحات و تاب‌آوری خود نیاز داریم. این یک مبلغ واقع‌بینانه است. و از شما می‌خواهم این حمایت را پیدا کنید. این به ما کمک خواهد کرد تا روسیه را مهار کنیم."
+  },
+  {
+   "t": 1792161105.0,
+   "n": "ukrainian president zelensky if putin wins everything that holds you together and allows your people to live in peace will simply disappear look at what he has been saying all these years he has a problem with everything that happened after 1985 we do not want to go back there",
+   "fa": "🇺🇦🇪🇺🇷🇺⚡️ — رئیس‌جمهور اوکراین، زلنسکی: اگر پوتین پیروز شود، هر چیزی که شما را در کنار هم نگه می‌دارد و به مردمتان اجازه می‌دهد در صلح زندگی کنند، به سادگی ناپدید خواهد شد. به آنچه او در تمام این سال‌ها می‌گفته نگاه کنید. او با هر اتفاقی که پس از سال ۱۹۸۵ افتاده مشکل دارد. ما نمی‌خواهیم به آنجا برگردیم."
+  },
+  {
+   "t": 1792161199.0,
+   "n": "ukrainian president zelensky this diesel deal will never be enough to compensate for the impact of the strait of hormuz on global markets but it will put more money directly into putin s pocket to fund this war",
+   "fa": "🇺🇦🇺🇸🇮🇷🇷🇺⚡️ — رئیس‌جمهور اوکراین، زلنسکی: این معامله دیزل هرگز برای جبران تأثیر تنگه هرمز بر بازارهای جهانی کافی نخواهد بود، اما پول بیشتری را مستقیماً به جیب پوتین می‌اندازد تا این جنگ را تأمین مالی کند."
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 194
+  "requests": 195
  },
- "flip": 530,
+ "flip": 533,
  "quote_n": 224,
  "signals": [
   {
@@ -758,6 +758,11 @@
    "t": 1792161105.6210122,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792161396.1105835,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
