@@ -10,15 +10,13 @@
    "last_id": 131840
   },
   "TelNews_Magazine": {
-   "last_id": 101286
+   "last_id": 101287
   },
   "NE_WG": {
    "last_id": 114666
   }
  },
- "fails": {
-  "web:Treasury/1453270037": 1
- },
+ "fails": {},
  "web": {
   "Fox News": {
    "seen": [
@@ -323,7 +321,8 @@
     "https://home.treasury.gov/news/press-releases/sb0658/",
     "https://home.treasury.gov/news/press-releases/sb0659/",
     "https://home.treasury.gov/news/press-releases/sb0661/",
-    "https://home.treasury.gov/news/press-releases/sb0660/"
+    "https://home.treasury.gov/news/press-releases/sb0660/",
+    "https://home.treasury.gov/news/press-releases/sb0662/"
    ]
   },
   "OFAC": {
@@ -347,11 +346,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792170783.0,
-   "n": "reporter if it wasn t you then who gave the order for starshield to go down in ukraine trump well i don t know i m not sure that it ever came down i m pretty sure it s the same but i just checked it this morning it wasn t us i checked it this morning they say it s the same as it always has been",
-   "fa": "🇺🇸🇺🇦⚡️ — خبرنگار: اگر شما نبودید، پس چه کسی دستور قطع استارشیلد را در اوکراین داد؟ ترامپ: خب، نمی‌دانم. مطمئن نیستم که اصلا قطع شده باشد. تقریباً مطمئنم که همان‌طور است. اما من همین امروز صبح آن را بررسی کردم. کار ما نبود. من همین امروز صبح بررسی کردم. آن‌ها می‌گویند همانند همیشه است."
-  },
   {
    "t": 1792170853.0,
    "n": "تصویر جدید سنتکام از ناو هواپیمابر بوش",
@@ -646,13 +640,18 @@
    "t": 1792181101.0,
    "n": "نیویورک تایمز واردات موز به آمریکا در پی افزایش قیمت ها ناشی از جنگ علیه ایران و بسته شدن تنگه هرمز با خطر جدی مواجه شده است",
    "fa": "🇺🇸نیویورک‌تایمز: واردات موز به آمریکا در پی افزایش قیمت‌ها ناشی از جنگ علیه ایران و بسته شدن تنگه هرمز با خطر جدی مواجه شده است🍌"
+  },
+  {
+   "t": 1792180800.0,
+   "n": "treasury international capital data for august 2026 washington the u s department of the treasury today released treasury international capital tic data for august 2026 the next release which will report on data for september 2026 is scheduled for november 18 2026 the sum total in august of all net foreign acquisitions of long term securities short term u s securities and banking flows was a net t",
+   "fa": "⭕️ انتشار داده‌های سرمایه‌گذاری بین‌المللی خزانه‌داری آمریکا برای اوت ۲۰۲۶ به گزارش وزارت خزانه‌داری آمریکا، این وزارتخانه امروز داده‌های سرمایه‌گذاری بین‌المللی خزانه‌داری مرتبط با ماه اوت سال ۲۰۲۶ را منتشر کرد. انتشار بعدی که شامل اطلاعات مربوط به ماه سپتامبر سال ۲۰۲۶ خواهد بود، برای تاریخ ۱۸ نوامبر ۲۰۲۶ برنامه‌ریزی شده است. مجموع کل تمام خریدهای خالص خارجی اوراق بهادار بلندمدت، اوراق بهادار کوت"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 355
+  "requests": 357
  },
- "flip": 605,
+ "flip": 606,
  "quote_n": 263,
  "signals": [
   {
