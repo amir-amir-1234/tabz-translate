@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108212
+   "last_id": 108213
   },
   "khabarfouri": {
    "last_id": 569914
@@ -336,11 +336,6 @@
  },
  "recent": [
   {
-   "t": 1792146074.0,
-   "n": "فارس رهبر امروز پیام جدیدی به مردم میده",
-   "fa": "⭕️فارس: رهبر امروز پیام جدیدی به مردم میده"
-  },
-  {
    "t": 1792147105.0,
    "n": "u s cybersecurity company proofpoint owned by private equity firm thoma bravo has agreed to acquire israeli founded data security firm varonis systems in an all cash transaction worth approximately 6 3 billion varonis shareholders will receive 49 75 per share representing a 52 premium over the company s share price before takeover speculation emerged in june the acquisition expected to close in th",
    "fa": "🇺🇸🇮🇱⚡️ — شرکت امنیت سایبری آمریکایی پروف‌پوینت (Proofpoint)، متعلق به شرکت سهام خصوصی توما براوو، توافق کرده است که شرکت امنیت داده بنیان‌گذاری‌شده در اسرائیل یعنی وارونیس سیستمز (Varonis Systems) را در قالب یک معامله تمام نقدی به ارزش تقریبی ۶.۳ میلیارد دلار خریداری کند. سهامداران وارونیس ۴۹.۷۵ دلار به ازای هر سهم دریافت خواهند کرد که نشان‌دهنده پریمیوم ۵۲ درصدی نسبت به قیمت سهم این شرکت پیش از ظ"
@@ -634,13 +629,18 @@
    "t": 1792158523.0,
    "n": "کاهش تلفات برق در نیمه نخست امسال با افزایش ۲ ۱ درصدی انرژی مصرفی مشترکان در شش ماه نخست امسال تلفات انرژی برق نسبت به مدت مشابه سال گذشته ۱ ۸ درصد کاهش یافته است",
    "fa": "⭕️ کاهش تلفات برق در نیمه نخست امسال با افزایش ۲.۱ درصدی انرژی مصرفی مشترکان در شش ماه نخست امسال، تلفات انرژی برق نسبت به مدت مشابه سال گذشته ۱.۸ درصد کاهش یافته است"
+  },
+  {
+   "t": 1792158869.0,
+   "n": "watch a ukrainian kamikaze drone flew through gunfire from a russian mobile air defense team before striking a truck on a highway leading to crimea",
+   "fa": "🇺🇦❌🇷🇺 — ویدیو: یک پهپاد انتحاری اوکراینی با عبور از آتش تیراندازی یک تیم پدافند هوایی متحرک روسیه، به یک کامیون در بزرگراه منتهی به کریمه اصابت کرد."
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 181
+  "requests": 182
  },
- "flip": 522,
+ "flip": 523,
  "quote_n": 219,
  "signals": [
   {
