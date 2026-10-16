@@ -1096,12 +1096,8 @@
    "p": 60
   }
  ],
- "risk": {
-  "base": 100,
-  "ts": 1792176099.9974406,
-  "attack": true
- },
- "attack_ts": 1792162916.1719706,
+   "risk": {},
+ "attack_ts": 0,
  "attack_cand": [],
  "attack_why": ""
 }
