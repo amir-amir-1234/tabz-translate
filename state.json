@@ -7,13 +7,13 @@
    "last_id": 569944
   },
   "KH_B2": {
-   "last_id": 131830
+   "last_id": 131831
   },
   "TelNews_Magazine": {
    "last_id": 101281
   },
   "NE_WG": {
-   "last_id": 114649
+   "last_id": 114650
   }
  },
  "fails": {},
@@ -342,11 +342,6 @@
  },
  "recent": [
   {
-   "t": 1792165311.0,
-   "n": "russia and the u s are expected to announce new joint initiatives beyond their recently agreed diesel deal according to russian envoy kirill dmitriev dmitriev said discussions include joint data center projects potentially powered by electricity from russian nuclear plants he noted that the initiatives would begin before the end of the war in ukraine",
-   "fa": "🇷🇺🇺🇸⚡️ — به گفته کیریل دمیتریف، فرستاده روسیه، انتظار می‌رود روسیه و ایالات متحده فراتر از توافق دیزل که اخیراً درباره آن به توافق رسیده‌اند، ابتکارات مشترک جدیدی را اعلام کنند. دمیتریف گفت که مذاکرات شامل پروژه‌های مشترک مرکز داده است که پتانسیل تأمین انرژی از طریق نیروگاه‌های هسته‌ای روسیه را دارند. وی خاطرنشان کرد که این ابتکارات پیش از پایان جنگ در اوکراین آغاز خواهد شد."
-  },
-  {
    "t": 1792165451.0,
    "n": "انتشار پستی عجیب در خبرگزاری فارس که برخی کاربران آن را نشانه ای از احتمال قطع دائمی اینترنت می دانند",
    "fa": "💢انتشار پستی عجیب در خبرگزاری فارس که برخی کاربران آن را نشانه‌ای از احتمال قطع دائمی اینترنت می‌دانند"
@@ -640,14 +635,19 @@
    "t": 1792175877.0,
    "n": "israeli settlers attack palestinians and washington post journalist in west bank in the latest surge of violence settlers targeted palestinians during the olive harvest a cultural touchstone and economic lifeline in the israeli occupied area",
    "fa": "🔴 حمله شهرک‌نشینان اسرائیلی به فلسطینیان و روزنامه‌نگار واشنگتن پست در کرانه باختری به گزارش نیویورک تایمز در تازه‌ترین موج خشونت‌ها، شهرک‌نشینان فلسطینیان را در جریان فصل برداشت زیتون که هم یک نقطه عطف فرهنگی و هم یک شریان حیاتی اقتصادی در منطقه اشغالی اسرائیل به شمار می‌رود، هدف قرار دادند."
+  },
+  {
+   "t": 1792176361.0,
+   "n": "برد کوپر فرمانده سنتکام تقریبا ۴۰۰ کشتی تجاری در هفت روز گذشته از تنگه هرمز عبور کردند",
+   "fa": "🇺🇸〰️🇮🇷برد کوپر، فرمانده سنتکام: 💢تقریباً ۴۰۰ کشتی تجاری در هفت روز گذشته از تنگه هرمز عبور کردند"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 326
+  "requests": 327
  },
  "flip": 591,
- "quote_n": 252,
+ "quote_n": 253,
  "signals": [
   {
    "t": 1792154788.6619253,
@@ -1043,6 +1043,11 @@
    "t": 1792176379.926446,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792176691.7918205,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
