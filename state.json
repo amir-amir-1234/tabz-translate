@@ -1,10 +1,10 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108217
+   "last_id": 108218
   },
   "khabarfouri": {
-   "last_id": 569915
+   "last_id": 569916
   },
   "KH_B2": {
    "last_id": 131802
@@ -337,11 +337,6 @@
  },
  "recent": [
   {
-   "t": 1792147830.0,
-   "n": "president trump we re building up ammunition very very rapidly by the way we re keeping it for ourselves we re getting patriots at record levels we re getting tomahawks at record levels we re building very quickly",
-   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ: ما به شکلی بسیار سریع در حال انباشت ذخایر مهمات خود هستیم. ما آنها را برای خودمان نگه می‌داریم. ما سامانه‌های پاتریوت را با سطوح رکوردشکنی دریافت می‌کنیم. ما موشک‌های توماهاوک را با سطوح رکوردشکنی دریافت می‌کنیم. ما با سرعت زیادی در حال ساخت‌وساز هستیم."
-  },
-  {
    "t": 1792147912.0,
    "n": "president trump they gave zelensky massive amounts of patriots of tomahawks of everything and they didn t make him pay",
    "fa": "🇺🇸🇺🇦⚡️ — رئیس‌جمهور ترامپ: آنها مقادیر هنگفتی پاتریوت، توماهاوک و هر چیز دیگری به زلنسکی دادند. و از او پول نگرفتند."
@@ -635,14 +630,19 @@
    "t": 1792159875.3521082,
    "n": "issuance of amended venezuela related general license and frequently asked question the department of the treasury s office of foreign assets control ofac is issuing venezuela related general license 60a authorizing transactions related to earthquake relief efforts in venezuela ofac is also issuing one amended frequently asked question faq 1263",
    "fa": "🚨 صدور مجوز عمومی اصلاح‌شده مربوط به ونزوئلا و یک پرسش متداول از سوی اوفک به گزارش دفتر کنترل دارایی‌های خارجی آمریکا (اوفک)، وزارت خزانه‌داری ایالات متحده مجوز عمومی شماره ۶۰ای مربوط به ونزوئلا با عنوان «مجوز انجام تراکنش‌های مرتبط با تلاش‌های امدادرسانی به زلزله‌زدگان در ونزوئلا» را صادر می‌کند. همچنین دفتر کنترل دارایی‌های خارجی آمریکا یک پرسش متداول اصلاح‌شده با شماره ۱۲۶۳ را صادر می‌نماید."
+  },
+  {
+   "t": 1792160083.0,
+   "n": "the saudi led coalition says it intercepted and destroyed a ballistic missile heading toward yanbu two cruise missiles over the red sea and three drones over southern saudi arabia and the riyadh region in recent hours",
+   "fa": "🇸🇦🇾🇪⚡️ — ائتلاف به رهبری عربستان اعلام کرد که در ساعات گذشته یک فروند موشک بالستیک به سمت ینبع، دو فروند موشک کروز بر فراز دریای سرخ و سه فروند پهپاد را بر فراز جنوب عربستان و منطقه ریاض رهگیری و منهدم کرده است."
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 188
+  "requests": 190
  },
  "flip": 528,
- "quote_n": 222,
+ "quote_n": 223,
  "signals": [
   {
    "t": 1792154788.6619253,
@@ -743,6 +743,11 @@
    "t": 1792159935.4628205,
    "s": 4,
    "p": 70
+  },
+  {
+   "t": 1792160185.7635717,
+   "s": 5,
+   "p": 85
   }
  ],
  "risk": {
