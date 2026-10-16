@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108159
+   "last_id": 108160
   },
   "khabarfouri": {
    "last_id": 569825
@@ -238,7 +238,8 @@
     "SB10222543145185073693004593513832751994760",
     "SB10222543145185073693004593511782478258650",
     "WP-WSJ-0003980846",
-    "WP-WSJ-0003981259"
+    "WP-WSJ-0003981259",
+    "WP-WSJ-0003876023"
    ]
   },
   "NYT": {
@@ -327,11 +328,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792082970.0,
-   "n": "the united kingdom is supplying ukraine with additional long range storm shadow cruise missiles to help disrupt russian military operations targeting ukrainian civilian infrastructure ahead of winter according to bloomberg the deliveries were discussed during ukrainian president zelensky s visit to london on wednesday where he met with british prime minister andy burnham",
-   "fa": "🇬🇧🇺🇦🇷🇺⚡️ — به گزارش بلومبرگ، بریتانیا موشک‌های کروز دوربرد اضافی «استورم شادو» را به اوکراین ارسال می‌کند تا به مختل کردن عملیات نظامی روسیه با هدف قرار دادن زیرساخت‌های غیرنظامی اوکراین پیش از زمستان کمک کند. این محموله‌ها در جریان سفر ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در روز چهارشنبه به لندن که طی آن با اندی برنهام، نخست‌وزیر بریتانیا دیدار کرد، مورد بحث قرار گرفت. زلنسکی هنگام پرسش درباره کی"
-  },
   {
    "t": 1792083026.0,
    "n": "وزارت خزانه داری آمریکا تحریم های جدیدی علیه ایران وضع کرد",
@@ -626,13 +622,18 @@
    "t": 1792110719.0,
    "n": "reporter do you trust netanyahu trump i don t trust anybody honestly",
    "fa": "🇺🇸🇮🇱⚡️ — خبرنگار: آیا به نتانیاهو اعتماد دارید؟ ترامپ: راستش، من به هیچ‌کس اعتماد ندارم."
+  },
+  {
+   "t": 1792111690.0,
+   "n": "president trump on abdul el sayed mohammed el sayed is bad news he is a muslim radical don t vote for mohammed el sayed",
+   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ درباره عبدال‌السید: محمد السید خبر بدی است. او یک افراطی مسلمان است. به محمد السید رای ندهید."
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 4
+  "requests": 5
  },
- "flip": 423,
+ "flip": 424,
  "quote_n": 181,
  "digest": [
   {
@@ -1518,6 +1519,10 @@
   {
    "t": 1792110719.0,
    "h": "🇺🇸🇮🇱⚡️ — خبرنگار: آیا به نتانیاهو اعتماد دارید؟ ترامپ: راستش، من به هیچ‌کس اعتماد ندارم."
+  },
+  {
+   "t": 1792111690.0,
+   "h": "🇺🇸⚡️ — رئیس‌جمهور ترامپ درباره عبدال‌السید: محمد السید خبر بدی است. او یک افراطی مسلمان است. به محمد السید رای ندهید."
   }
  ],
  "risk": {
