@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108211
+   "last_id": 108212
   },
   "khabarfouri": {
    "last_id": 569912
   },
   "KH_B2": {
-   "last_id": 131798
+   "last_id": 131799
   },
   "TelNews_Magazine": {
    "last_id": 101259
@@ -336,11 +336,6 @@
  },
  "recent": [
   {
-   "t": 1792145001.0,
-   "n": "دیدار رئیس جمهور با همتایان ارمنستانی و گرجستانی",
-   "fa": "🔴 دیدار رئیس جمهور با همتایان ارمنستانی و گرجستانی"
-  },
-  {
    "t": 1792145079.0,
    "n": "سیلاب های امسال بیش از هزار میلیارد تومان به راه های گلستان خسارت زد مدیرکل راهداری و حمل ونقل جاده ای گلستان از وارد آمدن بیش از یک هزار میلیارد تومان خسارت به راه ها ابنیه فنی و تأسیسات جانبی استان بر اثر ۶ نوبت سیلاب از ابتدای سال جاری خبر داد عادل مصدقی با بیان اینکه در حال حاضر تردد در مناطق آسیب دیده برقرار است گفت ارتباط راهی روستاییان این مناطق در حد عبور و مرور برقرار بوده و در حال حاضر ه",
    "fa": "⭕️ سیلاب‌های امسال بیش از هزار میلیارد تومان به راه‌های گلستان خسارت زد مدیرکل راهداری و حمل‌ونقل جاده‌ای گلستان از وارد آمدن بیش از یک‌هزار میلیارد تومان خسارت به راه‌ها، ابنیه فنی و تأسیسات جانبی استان بر اثر ۶ نوبت سیلاب از ابتدای سال جاری خبر داد. عادل مصدقی با بیان اینکه در حال حاضر تردد در مناطق آسیب‌دیده برقرار است، گفت: ارتباط راهی روستاییان این مناطق در حد عبور و مرور برقرار بوده و در حال"
@@ -634,11 +629,16 @@
    "t": 1792157602.0,
    "n": "several prominent maga election activists are urging president trump to consider extraordinary measures including martial law if they believe november s midterm elections have been rigged according to axios peter ticktin a longtime trump associate and attorney for election activist tina peters argued that martial law could be necessary following alleged election fraud he also suggested seizing bal",
    "fa": "🇺🇸⚡️ — به گزارش آکسیوس، چندین تن از فعالان برجسته انتخاباتی جریان «ماگا» از دونالد ترامپ خواسته‌اند در صورتی که معتقدند انتخابات میان‌دوره‌ای ماه نوامبر دستکاری شده است، اقدامات فوق‌العاده‌ای از جمله حکومت نظامی را در نظر بگیرد. پیتر تیکتین، از نزدیکان دیرینه ترامپ و وکیل تینا پیترز، فعال انتخاباتی، استدلال کرد که پس از ادعای تقلب در انتخابات، حکومت نظامی ممکن است ضروری باشد. او همچنین پیشنهاد کرد"
+  },
+  {
+   "t": 1792157950.0,
+   "n": "the u s military may have only a handful of its most powerful bunker busting bombs remaining as iran continues expanding deeply buried military and nuclear facilities according to a new analysis by the csis it is estimated that the u s has only a low single digit number of gbu 57 massive ordnance penetrators left after using 14 of the 30 000 pound bombs against iran s fordow and natanz nuclear fac",
+   "fa": "🇺🇸🇮🇷⚡️ — بر اساس تحلیل جدید مرکز مطالعات راهبردی و بین‌المللی (CSIS)، در حالی که ایران به توسعه تأسیسات نظامی و هسته‌ای زیرزمینی خود ادامه می‌دهد، ارتش ایالات متحده ممکن است تنها تعداد انگشت‌شماری از قدرتمندترین بمب‌های سنگرشکن خود را در اختیار داشته باشد. تخمین زده می‌شود که آمریکا پس از استفاده از ۱۴ فروند از این بمب‌های ۳۰ هزار پوندی علیه تأسیسات هسته‌ای فردو و نطنز ایران در ژوئن ۲۰۲۵، تنها تعد"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 176
+  "requests": 178
  },
  "flip": 519,
  "quote_n": 218,
@@ -687,13 +687,25 @@
    "t": 1792157777.0189347,
    "s": 4,
    "p": 40
+  },
+  {
+   "t": 1792158086.9230213,
+   "s": 5,
+   "p": 85
   }
  ],
  "risk": {
-  "base": 93,
-  "ts": 1792150296.3995354,
+  "base": 53,
+  "ts": 1792158089.92447,
   "attack": false,
-  "reason": "تداوم تهدیدات لفظی و تحرکات نظامی بدون وقوع حمله مستقیم."
+  "n": 10,
+  "shares": {
+   "1": 0,
+   "2": 0,
+   "3": 69,
+   "4": 21,
+   "5": 11
+  }
  },
  "attack_ts": 0.0
 }
