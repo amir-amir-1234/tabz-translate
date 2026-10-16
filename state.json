@@ -74,7 +74,8 @@
     "https://www.foxnews.com/world/not-wanted-irish-hotel-reportedly-cancels-70-rooms-reserved-antisemitism-conference-attendees",
     "https://www.foxnews.com/world/albania-rioters-clash-police-socialist-government-european-unrest-spreads",
     "https://www.foxnews.com/world/houthis-emerge-global-threat-iran-control-saudi-attacks-says-former-envoy",
-    "https://www.foxnews.com/world/autistic-teen-lured-fake-snapchat-meetup-brutally-beaten-group-teens-report"
+    "https://www.foxnews.com/world/autistic-teen-lured-fake-snapchat-meetup-brutally-beaten-group-teens-report",
+    "https://www.foxnews.com/world/recovering-lung-surgery-pope-leo-urges-putin-agree-ceasefire-russian-held-ukraine-city"
    ]
   },
   "WSJ": {
@@ -348,11 +349,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792173850.0,
-   "n": "the houthis ansarallah say saudi arabia carried out 101 airstrikes and missile strikes across sana a and nine yemeni governorates over the past 24 hours using f 15 and typhoon jets alongside missiles launched from najran they reported civilian casualties including women and children and noted that the total number of saudi led coalition strikes has reached 2 489",
-   "fa": "🇸🇦❌🇾🇪 — حوثی‌ها (انصارالله) اعلام کردند که عربستان سعودی طی ۲۴ ساعت گذشته ۱۰۱ حمله هوایی و موشکی با استفاده از جنگنده‌های اف-۱۵ و تایفون و همچنین موشک‌های پرتاب شده از نجران در سراسر صنعا و ۹ استان یمن انجام داده است. آن‌ها از تلفات غیرنظامی از جمله زنان و کودکان خبر دادند و خاطرنشان کردند که کل حملات ائتلاف به رهبری عربستان به ۲۴۸۹ مورد رسیده است."
-  },
   {
    "t": 1792173896.0,
    "n": "محمد باقر قالیباف تفاهم علاوه بر بازدارندگی به نیروهای نظامی ما کمک کرد تا قوی تر شوند تاب آوری اقتصادی آن ها بیشتر شود حزب الله لبنان قوی تر شود هم می جنگیم و هم مذاکره می کنیم می جنگیم تا دشمن مستأصل بشه بعدش مذاکره میکنیم تا به خواسته هامون تن بده یا شکست رو بپذیره",
@@ -647,13 +643,18 @@
    "t": 1792189877.0,
    "n": "پرواز جنگنده های ارتش در آسمان برخی شهر های کشور",
    "fa": "💢پرواز جنگنده های ارتش در آسمان برخی شهر های کشور"
+  },
+  {
+   "t": 1792192221.0,
+   "n": "recovering from lung surgery pope leo urges putin to agree to ceasefire in russian held ukraine city pope leo xiv called russian president vladimir putin while recovering from surgery in the hospital to urge him to call a ceasefire in the city of oleshky in ukraine during the conversation the holy father expressed his deep concern about the grave humanitarian situation in the city of oleshky in th",
+   "fa": "🔴 پاپ لئو در تماس با پوتین خواستار آتش‌بس در شهر اولشکی اوکراین شد به گزارش فاکس نیوز پاپ لئو چهاردهم در حال دوران نقاهت پس از عمل جراحی در بیمارستان، با ولادیمیر پوتین رئیس‌جمهور روسیه تماس گرفت تا از او بخواهد برای شهر اولشکی در اوکراین آتش‌بس اعلام کند. واتیکان در بیانیه‌ای اعلام کرد: «در جریان این گفتگو، پدر مقدس نگرانی عمیق خود را درباره وضعیت وخیم بشردوستانه در شهر اولشکی واقع در منطقه خرسون"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 384
+  "requests": 386
  },
- "flip": 622,
+ "flip": 623,
  "quote_n": 270,
  "signals": [
   {
