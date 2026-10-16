@@ -146,7 +146,9 @@ def load_state():
             "flip": int(data.get("flip") or 0), "quote_n": int(data.get("quote_n") or 0),
             "signals": [x for x in (data.get("signals") or []) if isinstance(x, dict)],
             "risk": data.get("risk") if isinstance(data.get("risk"), dict) else {},
-            "attack_ts": float(data.get("attack_ts") or 0)}
+            "attack_ts": float(data.get("attack_ts") or 0),
+            "attack_cand": [x for x in (data.get("attack_cand") or []) if isinstance(x, dict)],
+            "attack_why": str(data.get("attack_why") or "")}
 
 
 def save_state(state):
@@ -344,7 +346,7 @@ STEP 3c - stance: a code for what the item says about the situation between Iran
 - 4: TENSION: harsh threats or rhetoric, new sanctions, proxy or ship incidents, military drills, deployments, talks stalled.
 - 5: SERIOUS THREAT: an ultimatum, an announced or visibly imminent strike, evacuations, talks collapsed, an official warning of an imminent attack, or a direct attack that has actually happened.
 "power" (0-100): how strong and clear the item is inside its stance. 50 is typical, 20 is a weak hint, 90 is an extreme or unmistakable case. For stance 1 a high power means very strong positive news (a deal signed); for the others a high power means more severe.
-"direct_attack": true ONLY when the item reports that a military strike by the US and/or Israel on Iran, or by Iran on them, on territory or official armed forces, actually happened in the last hours. Not proxies, not threats, not drills, not past wars.
+"direct_attack": true ONLY when the item itself reports a NEW military strike that has just happened (within the last hours) by the US and/or Israel on Iran, or by Iran on the US/Israel, on territory or official armed forces. Always false for: statistics, totals or summaries ("since February...", "at least N attacks"), analyses and recaps of the ongoing or an earlier war, quotes about past operations, attacks on Gulf states or other countries, proxies, threats, drills, and ceasefire or blockade news. When in doubt, false.
 
 STEP 4 - translation, only when relevant=true (otherwise "fa" is an empty string):
 - Items that have a "source" field are website articles (title plus the first lines): always set "fa" to an empty string for them; a separate step writes their Persian text.
@@ -1046,6 +1048,7 @@ RISK_HALF_LIFE = float(env("RISK_HALF_LIFE_HOURS", "6")) * 3600
 RISK_MIN_SIGNALS = int(env("RISK_MIN_SIGNALS", "5"))      # fewer items in the window: keep the previous estimate
 RISK_ATTACK_HOLD = float(env("RISK_ATTACK_HOURS", "6")) * 3600   # after a direct attack the estimate stays 100 this long
 # stance -> (low, high) of the estimate. 1 = positive negotiations ... 5 = serious threat
+ATTACK_CONFIRM_WINDOW = 2 * 3600
 RISK_RANGES = {1: (20, 40), 2: (30, 50), 3: (40, 60), 4: (50, 70), 5: (60, 80)}
 
 
@@ -1076,12 +1079,22 @@ def compute_risk(signals, now):
     return acc / tot, len(use), {k: round(100 * v / tot) for k, v in share.items()}
 
 
-def note_signal(state, v, ts):
-    """Called for every item that is published."""
+def note_signal(state, v, ts, text=""):
+    """Called for every item that is published. A direct attack counts only when the item is also urgent,
+    or when a second item reports one within 2 hours: one wrong flag (a statistic, a recap) is not enough."""
     if not RISK_ENABLED:
         return
     if v.get("direct_attack"):
-        state["attack_ts"] = max(state.get("attack_ts", 0), ts)
+        snippet = re.sub(r"\s+", " ", strip_tags(text)).strip()[:160]
+        cand = [c for c in state.get("attack_cand", []) if ts - c.get("t", 0) <= ATTACK_CONFIRM_WINDOW]
+        cand.append({"t": ts, "h": snippet})
+        state["attack_cand"] = cand[-10:]
+        if v.get("urgent") or len(cand) >= 2:
+            state["attack_ts"] = max(state.get("attack_ts", 0), ts)
+            state["attack_why"] = snippet
+            log(f"  direct attack flagged by: {snippet}")
+        else:
+            log(f"  direct attack suspected, waiting for confirmation: {snippet}")
     s = v.get("stance", 0)
     if s in RISK_RANGES:
         state.setdefault("signals", []).append({"t": ts, "s": s, "p": v.get("power", 50)})
@@ -1395,7 +1408,7 @@ def main():
         if e["kind"] == "check":
             published_idx.add(e["idx"])
             add_recent(state, p, e["cleaned"], fa)
-            note_signal(state, v, time.time())
+            note_signal(state, v, time.time(), fa)
         advance()
         if not DRY_RUN:
             time.sleep(SEND_PAUSE)
