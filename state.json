@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108208
+   "last_id": 108210
   },
   "khabarfouri": {
    "last_id": 569911
   },
   "KH_B2": {
-   "last_id": 131796
+   "last_id": 131797
   },
   "TelNews_Magazine": {
    "last_id": 101258
@@ -335,16 +335,6 @@
  },
  "recent": [
   {
-   "t": 1792142260.0,
-   "n": "تصاویری از هفدهمین کنفرانس تنوع زیستی باحضور پزشکیان",
-   "fa": "🇮🇷 تصاویری از هفدهمین کنفرانس تنوع زیستی باحضور پزشکیان"
-  },
-  {
-   "t": 1792143469.0,
-   "n": "ادعای ترامپ درباره مشاهده اجسام پرنده ناشناس دونالد ترامپ در مصاحبه ای با شبکه نیوزمکس newsmax ادعا کرد که شخصا با خلبانان نظامی آمریکایی گفتگو کرده است خلبانانی که اظهار داشته اند اشیاء ناشناسی را در آسمان دیده اند که قادر بودند با سرعت هایی به طور غیرمعمول بالا پرواز کنند",
-   "fa": "🇺🇸ادعای ترامپ درباره مشاهده اجسام پرنده ناشناس 💢دونالد ترامپ در مصاحبه‌ای با شبکه نیوزمکس (Newsmax) ادعا کرد که شخصاً با خلبانان نظامی آمریکایی گفتگو کرده است؛ خلبانانی که اظهار داشته‌اند اشیاء ناشناسی را در آسمان دیده‌اند که قادر بودند با سرعت‌هایی به‌طور غیرمعمول بالا پرواز کنند."
-  },
-  {
    "t": 1792144586.0,
    "n": "the arab kingmaker in israel s election who wants a partnership with jews mansour abbas a dentist turned lawmaker helped oust benjamin netanyahu once before now he and a jewish ex police commander have teamed up to try to do it again",
    "fa": "⭕️ منصور عباس و یک فرمانده سابق پلیس برای برکناری نتانیاهو متحد شدند به گزارش نیویورک تایمز منصور عباس، دندانپزشکی که نماینده پارلمان شده است، پیش از این یک بار به برکناری بنیامین نتانیاهو کمک کرد. اکنون، او و یک فرمانده سابق پلیس یهودی با یکدیگر متحد شده‌اند تا دوباره تلاش کنند این کار را انجام دهند."
@@ -633,13 +623,23 @@
    "t": 1792155872.0,
    "n": "تست های پیش از تولید تسلا رودستر جدید",
    "fa": "⭕️تست‌های پیش از تولید تسلا رودستر جدید"
+  },
+  {
+   "t": 1792156043.0,
+   "n": "ukrainian president zelensky ukraine will be in the eu more and more people understand that we and our country are also needed in nato",
+   "fa": "🇺🇦🇪🇺🪖⚡️ — رئیس‌جمهور اوکراین، زلنسکی: اوکراین در اتحادیه اروپا خواهد بود. افراد بیشتری درک می‌کنند که ما و کشورمان در ناتو نیز مورد نیاز هستیم."
+  },
+  {
+   "t": 1792156169.0,
+   "n": "iran has managed to export limited quantities of liquefied petroleum gas lpg and jet fuel despite the u s naval blockade that has brought its crude oil exports to a near standstill according to reuters shipping intelligence indicates that at least eight tankers carrying approximately 4 1 million barrels of iranian lpg have departed the gulf of oman since mid july another tanker delivered iranian j",
+   "fa": "🇮🇷🇺🇸⚡️ — به گزارش رویترز، ایران با وجود محاصره دریایی ایالات متحده که صادرات نفت خام این کشور را تقریباً متوقف کرده است، توانسته مقادیر محدودی گاز مایع (LPG) و سوخت جت صادر کند. اطلاعات کشتیرانی نشان می‌دهد که حداقل هشت تانکر حامل حدود ۴.۱ میلیون بشکه گاز مایع ایران از اواسط ماه جولای خلیج عمان را ترک کرده‌اند. یک تانکر دیگر نیز در ماه سپتامبر سوخت جت ایران را به میانمار تحویل داد. منابع امنیت دری"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 165
+  "requests": 166
  },
- "flip": 514,
+ "flip": 516,
  "quote_n": 216,
  "signals": [
   {
@@ -666,6 +666,11 @@
    "t": 1792155370.3176155,
    "s": 3,
    "p": 50
+  },
+  {
+   "t": 1792156298.5944662,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
