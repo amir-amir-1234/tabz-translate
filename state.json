@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108160
+   "last_id": 108161
   },
   "khabarfouri": {
    "last_id": 569825
   },
   "KH_B2": {
-   "last_id": 131765
+   "last_id": 131767
   },
   "TelNews_Magazine": {
    "last_id": 101225
   },
   "NE_WG": {
-   "last_id": 114574
+   "last_id": 114576
   }
  },
  "fails": {},
@@ -329,11 +329,6 @@
  },
  "recent": [
   {
-   "t": 1792083026.0,
-   "n": "وزارت خزانه داری آمریکا تحریم های جدیدی علیه ایران وضع کرد",
-   "fa": "🚨وزارت خزانه‌داری آمریکا تحریم‌های جدیدی علیه ایران وضع کرد"
-  },
-  {
    "t": 1792083579.0,
    "n": "وزارت خزانه داری آمریکا تحریم هایی را علـیه ۱۶ فرد و ۱۰ نهاد مرتبط با ایران اعمال کردیم",
    "fa": "🔄 به‌روزرسانی 🚨 وزارت خزانه‌داری آمریکا: تحریم‌هایی را علـیه ۱۶ فرد و ۱۰ نهاد مرتبط با ایران اعمال کردیم."
@@ -627,11 +622,16 @@
    "t": 1792111690.0,
    "n": "president trump on abdul el sayed mohammed el sayed is bad news he is a muslim radical don t vote for mohammed el sayed",
    "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ درباره عبدال‌السید: محمد السید خبر بدی است. او یک افراطی مسلمان است. به محمد السید رای ندهید."
+  },
+  {
+   "t": 1792112478.0,
+   "n": "iran and its regional allies have carried out at least 135 missile and drone attacks against 84 infrastructure sites across the gulf since the u s israeli war began on february 28 systematically targeting critical equipment and causing widespread economic disruption according to a reuters investigation based on satellite imagery operational data and interviews with 36 sources reuters found that ma",
+   "fa": "🇮🇷🇺🇸🇸🇦⚡️ — به گزارش رویترز، از زمان آغاز جنگ آمریکا و اسرائیل در ۲۸ فوریه، ایران و متحدان منطقه‌ای‌اش دست‌کم ۱۳۵ حمله موشکی و پهپادی علیه ۸۴ سایت زیرساختی در سراسر خلیج فارس انجام داده و تجهیزات حیاتی را به طور سیستماتیک هدف قرار داده و اختلالات اقتصادی گسترده‌ای ایجاد کرده‌اند. بر اساس تصاویر ماهواره‌ای، داده‌های عملیاتی و مصاحبه با ۳۶ منبع، رویترز دریافت که بسیاری از حملات، اجزای بسیار خاصی از ت"
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 5
+  "requests": 6
  },
  "flip": 424,
  "quote_n": 181,
@@ -1523,6 +1523,10 @@
   {
    "t": 1792111690.0,
    "h": "🇺🇸⚡️ — رئیس‌جمهور ترامپ درباره عبدال‌السید: محمد السید خبر بدی است. او یک افراطی مسلمان است. به محمد السید رای ندهید."
+  },
+  {
+   "t": 1792112478.0,
+   "h": "🇮🇷🇺🇸🇸🇦⚡️ — به گزارش رویترز، از زمان آغاز جنگ آمریکا و اسرائیل در ۲۸ فوریه، ایران و متحدان منطقه‌ای‌اش دست‌کم ۱۳۵ حمله موشکی و پهپادی علیه ۸۴ سایت زیرس"
   }
  ],
  "risk": {
