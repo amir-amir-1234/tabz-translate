@@ -1,24 +1,22 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108248
+   "last_id": 108252
   },
   "khabarfouri": {
    "last_id": 569941
   },
   "KH_B2": {
-   "last_id": 131821
+   "last_id": 131822
   },
   "TelNews_Magazine": {
    "last_id": 101277
   },
   "NE_WG": {
-   "last_id": 114635
+   "last_id": 114636
   }
  },
- "fails": {
-  "tabzlive/108249": 2
- },
+ "fails": {},
  "web": {
   "Fox News": {
    "seen": [
@@ -343,21 +341,6 @@
  },
  "recent": [
   {
-   "t": 1792160083.0,
-   "n": "the saudi led coalition says it intercepted and destroyed a ballistic missile heading toward yanbu two cruise missiles over the red sea and three drones over southern saudi arabia and the riyadh region in recent hours",
-   "fa": "🇸🇦🇾🇪⚡️ — ائتلاف به رهبری عربستان اعلام کرد که در ساعات گذشته یک فروند موشک بالستیک به سمت ینبع، دو فروند موشک کروز بر فراز دریای سرخ و سه فروند پهپاد را بر فراز جنوب عربستان و منطقه ریاض رهگیری و منهدم کرده است."
-  },
-  {
-   "t": 1792160447.0,
-   "n": "bachar charaf eddine al nahli a spokesperson of the uae backed rsf media center was killed in the western khordofan region alongside his security team following an airstrike by the sudanese air force on the group positions",
-   "fa": "🇸🇩❌🇸🇩 — بشار شرف‌الدین النحلی، سخنگوی مرکز رسانه‌ای نیروهای پشتیبانی سریع تحت حمایت امارات، در جریان حمله هوایی نیروی هوایی سودان به مواضع این گروه در منطقه غرب کردفان به همراه تیم حفاظتی خود کشته شد."
-  },
-  {
-   "t": 1792160628.0,
-   "n": "وزیر خارجه آلمان اروپا تحت تهدید موشک های ایرانی قرار گرفته است ما این وضعیت را تحمل نخواهیم کرد",
-   "fa": "⭕️وزیر خارجه آلمان: اروپا تحت تهدید موشک های ایرانی قرار گرفته است، ما این وضعیت را تحمل نخواهیم کرد"
-  },
-  {
    "t": 1792160933.0,
    "n": "ukrainian president zelensky putin is building a russia that looks like north korea where children are raised from childhood for war and to die for their leader therefore russia will not cease to be dangerous and it is our ukrainian strength our army and our technologies that also help guarantee european security your security",
    "fa": "🇺🇦🇪🇺🇷🇺⚡️ — رئیس‌جمهور اوکراین، زلنسکی: پوتین در حال ساختن روسیهه‌ای شبیه به کره شمالی است، جایی که کودکان از کودکی برای جنگ و مرگ برای رهبر خود پرورش می‌یابند. بنابراین، روسیه خطرناک بودن را متوقف نخواهد کرد. و این قدرت اوکراینی ما، ارتش ما و فناوری‌های ما است که به تضمین امنیت اروپا، امنیت شما نیز کمک می‌کند."
@@ -641,14 +624,29 @@
    "t": 1792172258.0,
    "n": "یک مقام ارشد کاخ سفید به فاکس نیوز گفته است که کیتی زاکاریا پس از تنها یک نشست خبری در حال کنار رفتن از سمت سخنگوی مطبوعاتی کاخ سفید است",
    "fa": "⭕️ یک مقام ارشد کاخ سفید به فاکس نیوز گفته است که کیتی زاکاریا پس از تنها یک نشست خبری، در حال «کنار رفتن» از سمت سخنگوی مطبوعاتی کاخ سفید است."
+  },
+  {
+   "t": 1792171950.0,
+   "n": "president trump i have a great relationship with saudi arabia and saudi arabia is going to be very good",
+   "fa": "🇺🇸🇸🇦⚡️ — رئیس‌جمهور ترامپ: من رابطه بسیار خوبی با عربستان سعودی دارم. و عربستان سعودی بسیار خوب خواهد بود."
+  },
+  {
+   "t": 1792172234.0,
+   "n": "president trump putin wants to end the war",
+   "fa": "🇺🇸🇷🇺🇺🇦⚡️ — رئیس‌جمهور ترامپ: پوتین می‌خواهد جنگ را به پایان برساند."
+  },
+  {
+   "t": 1792172628.0,
+   "n": "a senior trump adviser told axios barak ravid that katie zacharia will likely leave her new job within a few days",
+   "fa": "🔄 به‌روزرسانی 🇺🇸⚡️ — یک مشاور ارشد ترامپ به باراک راوید از پایگاه خبری آکسیوس گفت که کیتی زاکاریا احتمالاً ظرف «چند روز» شغل جدید خود را ترک خواهد کرد."
   }
  ],
  "usage": {
   "date": "2026-10-16",
-  "requests": 302
+  "requests": 306
  },
- "flip": 573,
- "quote_n": 245,
+ "flip": 576,
+ "quote_n": 246,
  "signals": [
   {
    "t": 1792154788.6619253,
@@ -959,6 +957,16 @@
    "t": 1792172668.538395,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792172796.1318052,
+   "s": 4,
+   "p": 50
+  },
+  {
+   "t": 1792172803.4129758,
+   "s": 2,
+   "p": 50
   }
  ],
  "risk": {
