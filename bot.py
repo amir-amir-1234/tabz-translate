@@ -834,7 +834,7 @@ def _text_only(text):
 KIND_EMOJI = {"urgent": "🚨", "attack": "🚨", "sanctions": "🚨", "warning": "🚨⚠️", "explosion": "🚨🔥", "stats": "📊"}
 EVENT_EMOJIS = ("🔴", "⭕️")
 QUOTE_EVERY = int(env("QUOTE_EVERY", "3"))   # every Nth short text-only post gets its body in a quote block (0 = never)
-LONG_PARAGRAPHS = 3          # a post is "long" with at least this many paragraphs (headline not counted)
+LONG_CHARS = int(env("LONG_CHARS", "525"))   # body longer than this many characters (spaces and blank lines counted, headline not) = long post
 _EMOJI_START = re.compile("^[\U0001F000-\U0001FAFF\u2600-\u27BF\u2B00-\u2BFF\u2190-\u21FF\u203C\u2049\ufe0f\u200d]")
 
 
@@ -859,42 +859,42 @@ def _split_blocks(body, titled):
     return title, blocks
 
 
+def body_len(blocks):
+    """Length of the body as it is published: all paragraphs with the blank lines between them."""
+    return len("\n\n".join(blocks))
+
+
 def is_long_post(body, titled=None):
-    return len(_split_blocks(body, titled)[1]) >= LONG_PARAGRAPHS
+    return body_len(_split_blocks(body, titled)[1]) > LONG_CHARS
 
 
 def format_post(body, emoji="", titled=None, quote_short=False):
-    """HTML text for Telegram.
-    Short posts (fewer than LONG_PARAGRAPHS paragraphs): plain text, only the emoji at the start.
-    Long posts: bold headline, and all the paragraphs after it together inside ONE collapsible quote.
+    """HTML text for Telegram. The headline is never inside a quote.
+    Long post (body longer than LONG_CHARS characters, whatever the number of paragraphs): bold headline, and
+    the whole body in ONE collapsible quote. Without a headline the whole text is the collapsible quote.
+    Short post: plain text, only the emoji at the start; with quote_short the body is in one plain quote.
     titled: True = first block is a headline, False = none, None = decide from the structure.
-    quote_short: a short post gets its body (everything after the headline) in one plain quote block.
     The text itself is never changed, only wrapped (and HTML-escaped)."""
     title, blocks = _split_blocks(body, titled)
     esc = lambda t: html.escape(t, quote=False)
     lead = lambda t: t if (not emoji or _EMOJI_START.match(t)) else f"{emoji} {t}"
-    long_post = len(blocks) >= LONG_PARAGRAPHS
-    if quote_short and not long_post and blocks:
-        out = []
-        if title is not None:
-            out.append(lead(esc(title)))
-            inner = "\n\n".join(esc(b) for b in blocks)
-        else:
-            inner = "\n\n".join([lead(esc(blocks[0]))] + [esc(b) for b in blocks[1:]])
-        out.append(f"<blockquote>{inner}</blockquote>")
-        return "\n\n".join(out)
+    long_post = body_len(blocks) > LONG_CHARS
+    parts = [esc(b) for b in blocks]
+    if title is None and parts:
+        parts[0] = lead(parts[0])                  # no headline: the emoji goes on the first line of the text
+    inner = "\n\n".join(parts)
     out = []
     if title is not None:
-        t = lead(esc(title)) if not _EMOJI_START.match(title) else esc(title)
+        t = lead(esc(title))
         out.append(f"<b>{t}</b>" if long_post else t)
-        rest = blocks
+    if not inner:
+        return "\n\n".join(out)
+    if long_post:
+        out.append(f"<blockquote expandable>{inner}</blockquote>")
+    elif quote_short:
+        out.append(f"<blockquote>{inner}</blockquote>")
     else:
-        t = esc(blocks[0]) if blocks else ""
-        out.append(lead(t) if (blocks and not _EMOJI_START.match(blocks[0])) else t)
-        rest = blocks[1:]
-    if rest:
-        inner = "\n\n".join(esc(b) for b in rest)
-        out.append(f"<blockquote expandable>{inner}</blockquote>" if long_post else inner)
+        out.append(inner)
     return "\n\n".join(out)
 
 
