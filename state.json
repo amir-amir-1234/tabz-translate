@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108287
+   "last_id": 108289
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131885
+   "last_id": 131887
   },
   "TelNews_Magazine": {
-   "last_id": 101325
+   "last_id": 101326
   },
   "NE_WG": {
-   "last_id": 114713
+   "last_id": 114714
   }
  },
  "fails": {},
@@ -76,7 +76,8 @@
     "https://www.foxnews.com/world/houthis-emerge-global-threat-iran-control-saudi-attacks-says-former-envoy",
     "https://www.foxnews.com/world/autistic-teen-lured-fake-snapchat-meetup-brutally-beaten-group-teens-report",
     "https://www.foxnews.com/world/recovering-lung-surgery-pope-leo-urges-putin-agree-ceasefire-russian-held-ukraine-city",
-    "https://www.foxnews.com/world/chinaaid-raises-alarm-imprisoned-chinese-pastor-health-family-seeks-answers"
+    "https://www.foxnews.com/world/chinaaid-raises-alarm-imprisoned-chinese-pastor-health-family-seeks-answers",
+    "https://www.foxnews.com/world/pope-leo-xiv-discharged-hospital-return-vatican-surgery-remove-lung-cancer"
    ]
   },
   "WSJ": {
@@ -592,14 +593,19 @@
    "t": 1792236095.0,
    "n": "president trump has waived key u s sanctions and tariffs targeting russia including penalties on russian oil and gas purchases just days before they were scheduled to take effect under legislation he signed last month the measures would have imposed tariffs of up to 100 on goods from major importers of russian energy trump said in an executive order issued friday that the waiver served u s nationa",
    "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ کلیدواژه‌های تحریم‌ها و تعرفه‌های کلیدی ایالات متحده علیه روسیه، از جمله جریمه‌های خرید نفت و گاز روسیه را، تنها چند روز پیش از زمان اجرای آن‌ها تحت قانون امضا شده‌اش در ماه گذشته، لغو کرد. این اقدامات قرار بود تعرفه‌هایی تا سقف ۱۰۰ درصد بر کالا واردکنندگان عمده انرژی روسیه اعمال کند. ترامپ در دستور اجرایی صادر شده در روز جمعه گفت که این معافیت در راستای منافع ملی ایالات مت"
+  },
+  {
+   "t": 1792236509.0,
+   "n": "عراقچی ما همواره به دیپلماسی برای کاهش تنش ها پایبند بوده ایم اما واشنگتن بارها توافقات را نقض کرده است به ویژه یادداشت تفاهم",
+   "fa": "⭕️عراقچی: ما همواره به دیپلماسی برای کاهش تنش‌ها پایبند بوده‌ایم، اما واشنگتن بارها توافقات را نقض کرده است، به ویژه یادداشت تفاهم"
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 57
+  "requests": 58
  },
- "flip": 659,
- "quote_n": 286,
+ "flip": 660,
+ "quote_n": 287,
  "signals": [
   {
    "t": 1792154788.6619253,
@@ -1420,17 +1426,22 @@
    "t": 1792236368.4532683,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792236688.3910348,
+   "s": 2,
+   "p": 60
   }
  ],
  "risk": {
-  "base": 58,
-  "ts": 1792236083.459684,
+  "base": 57,
+  "ts": 1792236691.3947434,
   "attack": false,
-  "n": 163,
+  "n": 165,
   "shares": {
    "1": 2,
-   "2": 4,
-   "3": 28,
+   "2": 6,
+   "3": 27,
    "4": 56,
    "5": 9
   }
