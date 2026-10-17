@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108351
+   "last_id": 108353
   },
   "khabarfouri": {
    "last_id": 569949
@@ -362,11 +362,6 @@
  },
  "recent": [
   {
-   "t": 1792251074.0,
-   "n": "ابوالفضل اقبالی کارشناس امور حجاب صداوسیما احتمال وقوع جنگ در دو سه ماه آینده خیلی کم است",
-   "fa": "‼️ابوالفضل اقبالی، کارشناس امور حجاب صداوسیما: احتمال وقوع جنگ در دو سه ماه آینده خیلی کم است!"
-  },
-  {
    "t": 1792251255.0,
    "n": "معترضان فرانسوی ساختمان شهرداری شهر لیل یکی از بزرگترین شهرهای فرانسه را تصرف کردند",
    "fa": "⭕️معترضان فرانسوی ساختمان شهرداری شهر لیل، یکی از بزرگترین شهرهای فرانسه را تصرف کردند"
@@ -660,13 +655,18 @@
    "t": 1792261792.0,
    "n": "israeli prime minister netanyahu the opposition will cancel all our tremendous achievements establish a palestinian state withdraw from all the security zones give in to every pressure and certainly not prevent iran from acquiring nuclear weapons once and for all",
    "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل بنیامین نتانیاهو: اپوزیسیون تمام دستاوردهای فوق‌العاده ما را لغو خواهد کرد، یک کشور فلسطینی تشکیل خواهد داد، از تمام مناطق امنیتی عقب‌نشینی خواهد کرد، در برابر هر فشاری تسلیم خواهد شد و قطعاً مانع از دستیابی ایران به سلاح هسته‌ای برای همیشه نخواهد شد."
+  },
+  {
+   "t": 1792262099.0,
+   "n": "israeli prime minister netanyahu on iran the opposition candidate opposed the idea of attacking iran he said it was a mistake he said we had to learn to live with a nuclear iran i will never live with a nuclear iran i have dedicated my life and i will dedicate my next term as well god willing if i am elected to ensuring once and for all that this does not happen",
+   "fa": "🇮🇱🇮🇷⚡️ — نخست‌وزیر اسرائیل، نتانیاهو درباره ایران: نامزد اپوزیسیون با ایده حمله به ایران مخالفت کرد. او گفت این یک اشتباه بود. او گفت ما باید یاد بگیریم با یک ایران هسته‌ای زندگی کنیم. من هرگز با یک ایران هسته‌ای زندگی نخواهم کرد. من زندگی خود را وقف کرده‌ام، و دوره بعدی خود را نیز، ان‌شاءالله اگر انتخاب شوم، وقف خواهم کرد تا یک بار برای همیشه اطمینان حاصل کنم که این اتفاق نمی‌افتد."
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 135
+  "requests": 136
  },
- "flip": 737,
+ "flip": 738,
  "quote_n": 319,
  "signals": [
   {
@@ -1498,6 +1498,11 @@
    "t": 1792261942.0275657,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1792262170.4050198,
+   "s": 5,
+   "p": 85
   }
  ],
  "risk": {
