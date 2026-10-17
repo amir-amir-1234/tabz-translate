@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108279
+   "last_id": 108282
   },
   "khabarfouri": {
    "last_id": 569949
@@ -350,11 +350,6 @@
  },
  "recent": [
   {
-   "t": 1792174087.0,
-   "n": "france s president emmanuel macron russia through its actions is preventing ukrainian grain from leaving ukraine has had one of its record harvests which helps feed many developing and poor countries i m thinking of egypt and many other african countries today russia is choosing to starve these countries and impoverish ukraine we will respond to that but it is criminal in every respect",
-   "fa": "🇫🇷🇺🇦🇷🇺⚡️ — امانوئل مکرون، رئیس‌جمهور فرانسه: روسیه از طریق اقدامات خود مانع خروج غلات اوکراین می‌شود. اوکراین یکی از برداشت‌های رکورد خود را داشته است که به تغذیه بسیاری از کشورهای در حال توسعه و فقیر کمک می‌کند. من به مصر و بسیاری از کشورهای دیگر آفریقایی فکر می‌کنم. امروز روسیه تصمیم می‌گیرد این کشورها را گرسنه نگه دارد و اوکراین را به فقیرسازی بکشاند. ما به آن پاسخ خواهیم داد، اما این در هر زمی"
-  },
-  {
    "t": 1792174268.0,
    "n": "وزیر کشتی رانی هند یک نفتکش حامل نفت خام امروز در تنگه هرمز هدف موشک قرار گرفت",
    "fa": "⭕️وزیر کشتی‌رانی هند: یک نفتکش حامل نفت خام امروز در تنگه هرمز هدف موشک قرار گرفت"
@@ -648,13 +643,18 @@
    "t": 1792195203.0,
    "n": "the saudi led coalition says it destroyed two ballistic missile launchers in saada governorate houthi controlled yemen",
    "fa": "🇸🇦❌🇾🇪 — ائتلاف تحت رهبری عربستان اعلام کرد دو پرتابگر موشک بالستیک را در استان صعده، در مناطق تحت کنترل حوثی‌ها در یمن، منهدم کرده است."
+  },
+  {
+   "t": 1792197720.0,
+   "n": "rerum novarum has obtained the names of the six saudi arabian soldiers killed in the ansarullah ballistic missile strike on the presidential palace in aden yemen on october 15th rayan ahmad ali al kinani al zahrani yahya madini al shaqibi awad jarad saeed al qarni salman hammad al harthi fayez saeed al qahtani wael al qarni heavy censorship prevented the identities of the six dead from being relea",
+   "fa": "🇾🇪🇸🇦⚡️- رسانه رروم نوواروم اسامی شش سرباز عربستان سعودی را که در حمله موشکی بالستیک انصارالله به کاخ ریاست جمهوری در عدن یمن در تاریخ ۱۵ اکتبر کشته شدند، به دست آورده است. - ریان احمد علی الکنانی الزهرانی - یحیی مدینی الشقیبی - عوض جراد سعید القرنی - سلمان حماد الحارثی - فایز سعید القحطانی - وائل القرنی سانسور شدید مانع از انتشار هویت این شش کشته پس از حمله شده بود، اما اطلاعات به‌دست‌آمده توسط رر"
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 1
+  "requests": 2
  },
- "flip": 624,
+ "flip": 625,
  "quote_n": 271,
  "signals": [
   {
@@ -1251,6 +1251,11 @@
    "t": 1792195289.6785843,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792197968.9262767,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
