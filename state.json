@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131947
+   "last_id": 131948
   },
   "TelNews_Magazine": {
    "last_id": 101366
   },
   "NE_WG": {
-   "last_id": 114790
+   "last_id": 114791
   }
  },
  "fails": {},
@@ -364,11 +364,6 @@
  },
  "recent": [
   {
-   "t": 1792253150.0,
-   "n": "watch video filmed from rue du faubourg du temple shows heavy clashes between rioters and police around place de la république in paris one riot police officer can be seen injured and being escorted away as thick tear gas spreads through the surrounding streets",
-   "fa": "🔴 — 🇫🇷 تماشا: ویدیویی که از خیابان فوبور دو تمپل فیلمبرداری شده، درگیری‌های سنگین بین معترضان و پلیس را در اطراف میدان جمهوری در پاریس نشان می‌دهد. یک مامور پلیس ضد شورش آسیب‌دیده دیده می‌شود که در حالی که گاز اشک‌آور غلیظ خیابان‌های اطراف را فرا گرفته، اسکورت می‌شود."
-  },
-  {
    "t": 1792253190.0,
    "n": "romanian f 16 fighter jets shot down two drones over the black sea on saturday evening after they entered romanian airspace according to romanian media romania s ministry of national defence confirmed that romanian air force f 16 pilots downed two drones at around 18 00 local time",
    "fa": "🇷🇴⚡️ — به گزارش رسانه‌های رومانیایی، جنگنده‌های اف-۱۶ رومانی روز شنبه پس از ورود دو پهپاد به حریم هوایی این کشور، آن‌ها را بر فراز دریای سیاه سرنگون کردند. وزارت دفاع ملی رومانی تأیید کرد که خلبانان نیروی هوایی رومانی دو پهپاد را در حدود ساعت ۱۸:۰۰ به وقت محلی ساقط کردند."
@@ -662,11 +657,16 @@
    "t": 1792265819.0,
    "n": "ترامپ درباره ایران ما قرار است کمی بیشتر آنجا باشیم",
    "fa": "🇺🇸🇮🇷ترامپ درباره ایران: ما قرار است کمی بیشتر آنجا باشیم!"
+  },
+  {
+   "t": 1792266062.0,
+   "n": "ترامپ حمله به جمهوری اسلامی ایران کار درستی بود کار ایران را در بازه زمانی گفته شده تمام کردم اما باید مطمئن شویم که قطعا نابود شده اند با پایان جنگ قیمت های سوخت و انرژی پایین خواهد آمد",
+   "fa": "🎥ترامپ: حمله به جمهوری اسلامی ایران کار درستی بود! /کار ایران را در بازه زمانی گفته شده تمام کردم | اما باید مطمئن شویم که قطعاً نابود شده‌اند : با پایان جنگ، قیمت‌های سوخت و انرژی پایین خواهد آمد."
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 151
+  "requests": 152
  },
  "flip": 748,
  "quote_n": 321,
@@ -1450,19 +1450,24 @@
    "t": 1792266075.231615,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792266374.0585687,
+   "s": 5,
+   "p": 90
   }
  ],
  "risk": {
-  "base": 58,
-  "ts": 1792261945.02947,
+  "base": 59,
+  "ts": 1792266377.06205,
   "attack": false,
-  "n": 166,
+  "n": 157,
   "shares": {
    "1": 1,
    "2": 4,
-   "3": 31,
-   "4": 51,
-   "5": 12
+   "3": 29,
+   "4": 54,
+   "5": 13
   }
  },
  "attack_ts": 0.0,
