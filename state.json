@@ -254,7 +254,8 @@
     "WP-WSJ-0003963408",
     "SB10222543145185073693004593514653558062258",
     "WP-WSJ-0003983926",
-    "SB12199027810792643414104593512452726562838"
+    "SB12199027810792643414104593512452726562838",
+    "WP-WSJ-0003980087"
    ]
   },
   "NYT": {
@@ -349,11 +350,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792174377.0,
-   "n": "france s president emmanuel macron helping ukraine is not a matter of our goodwill it is in our interest it is the unanimous position of europeans and it is about our security surrender is weakness weakness is danger i believe the best way to protect the french people today is to help ukraine as we are doing because it is on the front line of our security",
-   "fa": "🇫🇷🇺🇦🇷🇺⚡️ — رئیس‌جمهور فرانسه امانوئل مکرون: کمک به اوکراین مسئله حسن نیت ما نیست. این در منافع ماست. این موضع متفق‌القول اروپایی‌هاست و مربوط به امنیت ما می‌شود. تسلیم شدن ضعف است. ضعف خطرناک است. من معتقدم بهترین راه برای محافظت از مردم فرانسه در حال حاضر این است که به اوکراین کمک کنیم همان‌طور که در حال انجام آن هستیم، زیرا اوکراین در خط مقدم امنیت ما قرار دارد."
-  },
   {
    "t": 1792174790.0,
    "n": "elon musk personally proposed restricting ukraine s starshield satellite communications system to president trump who agreed to the plan according to the telegraph citing four sources the restrictions capped ukrainian drones using starshield at around 160 km h severely limiting their ability to intercept faster russian drones and missiles musk publicly denied responsibility for the restrictions cl",
@@ -648,14 +644,19 @@
    "t": 1792198236.0,
    "n": "ukmto made an acknowledgement in its weekly update on the persian gulf gulf of oman arabian sea maritime area that the majority of ships attacked in the area are not making reports to ukmto ukmto is aware of other incidents but cannot report them due to no first hand verification",
    "fa": "🇮🇷⚡️ — مرکز عملیات تجارت دریایی بریتانیا (UKMTO) در به‌روزرسانی هفتگی خود درباره منطقه دریایی خلیج فارس، دریای عمان و دریای عرب اذعان کرد که بیشتر کشتی‌های مورد حمله قرار گرفته در این منطقه به UKMTO گزارش نمی‌دهند. این مرکز از سایر حوادث آگاه است اما به دلیل عدم تأیید دست اول نمی‌تواند آن‌ها را گزارش کند."
+  },
+  {
+   "t": 1792202400.0,
+   "n": "iran is giving houthis targeting and intelligence for attacks on saudi arabia tehran s support is helping the yemeni group mount its most potent attacks yet on the kingdom",
+   "fa": "🔴 کمک‌های اطلاعاتی و هدف‌گذاری ایران به حوثی‌ها برای حملات به عربستان به گزارش وال‌استریت ژورنال، ایران اطلاعات و داده‌های مربوط به هدف‌گیری را در اختیار گروه یمنی قرار می‌دهد تا به حملات علیه عربستان سعودی کمک کند. حمایت‌های تهران به این گروه یمنی کمک می‌کند تا قوی‌ترین حملات خود را تاکنون علیه این پادشاهی انجام دهد."
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 3
+  "requests": 5
  },
- "flip": 626,
- "quote_n": 271,
+ "flip": 627,
+ "quote_n": 272,
  "signals": [
   {
    "t": 1792154788.6619253,
@@ -1261,6 +1262,11 @@
    "t": 1792198565.489659,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792202766.6613827,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
