@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131892
+   "last_id": 131893
   },
   "TelNews_Magazine": {
    "last_id": 101328
   },
   "NE_WG": {
-   "last_id": 114722
+   "last_id": 114723
   }
  },
  "fails": {},
@@ -355,16 +355,6 @@
  },
  "recent": [
   {
-   "t": 1792197720.0,
-   "n": "rerum novarum has obtained the names of the six saudi arabian soldiers killed in the ansarullah ballistic missile strike on the presidential palace in aden yemen on october 15th rayan ahmad ali al kinani al zahrani yahya madini al shaqibi awad jarad saeed al qarni salman hammad al harthi fayez saeed al qahtani wael al qarni heavy censorship prevented the identities of the six dead from being relea",
-   "fa": "🇾🇪🇸🇦⚡️- رسانه رروم نوواروم اسامی شش سرباز عربستان سعودی را که در حمله موشکی بالستیک انصارالله به کاخ ریاست جمهوری در عدن یمن در تاریخ ۱۵ اکتبر کشته شدند، به دست آورده است. - ریان احمد علی الکنانی الزهرانی - یحیی مدینی الشقیبی - عوض جراد سعید القرنی - سلمان حماد الحارثی - فایز سعید القحطانی - وائل القرنی سانسور شدید مانع از انتشار هویت این شش کشته پس از حمله شده بود، اما اطلاعات به‌دست‌آمده توسط رر"
-  },
-  {
-   "t": 1792198236.0,
-   "n": "ukmto made an acknowledgement in its weekly update on the persian gulf gulf of oman arabian sea maritime area that the majority of ships attacked in the area are not making reports to ukmto ukmto is aware of other incidents but cannot report them due to no first hand verification",
-   "fa": "🇮🇷⚡️ — مرکز عملیات تجارت دریایی بریتانیا (UKMTO) در به‌روزرسانی هفتگی خود درباره منطقه دریایی خلیج فارس، دریای عمان و دریای عرب اذعان کرد که بیشتر کشتی‌های مورد حمله قرار گرفته در این منطقه به UKMTO گزارش نمی‌دهند. این مرکز از سایر حوادث آگاه است اما به دلیل عدم تأیید دست اول نمی‌تواند آن‌ها را گزارش کند."
-  },
-  {
    "t": 1792202400.0,
    "n": "iran is giving houthis targeting and intelligence for attacks on saudi arabia tehran s support is helping the yemeni group mount its most potent attacks yet on the kingdom",
    "fa": "🔴 کمک‌های اطلاعاتی و هدف‌گذاری ایران به حوثی‌ها برای حملات به عربستان به گزارش وال‌استریت ژورنال، ایران اطلاعات و داده‌های مربوط به هدف‌گیری را در اختیار گروه یمنی قرار می‌دهد تا به حملات علیه عربستان سعودی کمک کند. حمایت‌های تهران به این گروه یمنی کمک می‌کند تا قوی‌ترین حملات خود را تاکنون علیه این پادشاهی انجام دهد."
@@ -653,13 +643,23 @@
    "t": 1792238883.0,
    "n": "رجیستری آیفون ۱۸ مسافری متوقف شد رئیس هیات مدیره انجمن تلفن همراه تبلت و لوازم جانبی ایران گفت رجیستری تلفن های همراه آیفون ۱۸ که به صورت مسافری وارد کشور شده بود از اواخر هفته گذشته متوقف شده است",
    "fa": "🍏رجیستری آیفون ۱۸ مسافری متوقف شد رئیس هیات‌مدیره انجمن تلفن همراه، تبلت و لوازم جانبی ایران گفت: رجیستری تلفن های همراه «آیفون ۱۸ » که به صورت مسافری وارد کشور شده بود، از اواخر هفته گذشته متوقف شده است."
+  },
+  {
+   "t": 1792239382.0,
+   "n": "رشیدی کوچی به من گفتند ۵۰ میلیارد تومان بده تا تاییدیه ات را بگیریم",
+   "fa": "💢رشیدی کوچی: به من گفتند ۵۰ میلیارد تومان بده تا تاییدیه‌ات را بگیریم!!"
+  },
+  {
+   "t": 1792239418.0,
+   "n": "خبرنگار صداوسیما حرف خود را پس گرفت منظورم آغاز جنگ نبود",
+   "fa": "‼️خبرنگار صداوسیما حرف خود را پس گرفت؛ منظورم آغاز جنگ نبود!"
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 66
+  "requests": 67
  },
- "flip": 671,
+ "flip": 672,
  "quote_n": 290,
  "signals": [
   {
@@ -1521,6 +1521,16 @@
    "t": 1792239076.6116068,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792239677.2051466,
+   "s": 3,
+   "p": 30
+  },
+  {
+   "t": 1792239681.6044223,
+   "s": 4,
+   "p": 50
   }
  ],
  "risk": {
