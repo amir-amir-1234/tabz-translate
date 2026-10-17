@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108282
+   "last_id": 108283
   },
   "khabarfouri": {
    "last_id": 569949
@@ -350,11 +350,6 @@
  },
  "recent": [
   {
-   "t": 1792174268.0,
-   "n": "وزیر کشتی رانی هند یک نفتکش حامل نفت خام امروز در تنگه هرمز هدف موشک قرار گرفت",
-   "fa": "⭕️وزیر کشتی‌رانی هند: یک نفتکش حامل نفت خام امروز در تنگه هرمز هدف موشک قرار گرفت"
-  },
-  {
    "t": 1792174377.0,
    "n": "france s president emmanuel macron helping ukraine is not a matter of our goodwill it is in our interest it is the unanimous position of europeans and it is about our security surrender is weakness weakness is danger i believe the best way to protect the french people today is to help ukraine as we are doing because it is on the front line of our security",
    "fa": "🇫🇷🇺🇦🇷🇺⚡️ — رئیس‌جمهور فرانسه امانوئل مکرون: کمک به اوکراین مسئله حسن نیت ما نیست. این در منافع ماست. این موضع متفق‌القول اروپایی‌هاست و مربوط به امنیت ما می‌شود. تسلیم شدن ضعف است. ضعف خطرناک است. من معتقدم بهترین راه برای محافظت از مردم فرانسه در حال حاضر این است که به اوکراین کمک کنیم همان‌طور که در حال انجام آن هستیم، زیرا اوکراین در خط مقدم امنیت ما قرار دارد."
@@ -648,13 +643,18 @@
    "t": 1792197720.0,
    "n": "rerum novarum has obtained the names of the six saudi arabian soldiers killed in the ansarullah ballistic missile strike on the presidential palace in aden yemen on october 15th rayan ahmad ali al kinani al zahrani yahya madini al shaqibi awad jarad saeed al qarni salman hammad al harthi fayez saeed al qahtani wael al qarni heavy censorship prevented the identities of the six dead from being relea",
    "fa": "🇾🇪🇸🇦⚡️- رسانه رروم نوواروم اسامی شش سرباز عربستان سعودی را که در حمله موشکی بالستیک انصارالله به کاخ ریاست جمهوری در عدن یمن در تاریخ ۱۵ اکتبر کشته شدند، به دست آورده است. - ریان احمد علی الکنانی الزهرانی - یحیی مدینی الشقیبی - عوض جراد سعید القرنی - سلمان حماد الحارثی - فایز سعید القحطانی - وائل القرنی سانسور شدید مانع از انتشار هویت این شش کشته پس از حمله شده بود، اما اطلاعات به‌دست‌آمده توسط رر"
+  },
+  {
+   "t": 1792198236.0,
+   "n": "ukmto made an acknowledgement in its weekly update on the persian gulf gulf of oman arabian sea maritime area that the majority of ships attacked in the area are not making reports to ukmto ukmto is aware of other incidents but cannot report them due to no first hand verification",
+   "fa": "🇮🇷⚡️ — مرکز عملیات تجارت دریایی بریتانیا (UKMTO) در به‌روزرسانی هفتگی خود درباره منطقه دریایی خلیج فارس، دریای عمان و دریای عرب اذعان کرد که بیشتر کشتی‌های مورد حمله قرار گرفته در این منطقه به UKMTO گزارش نمی‌دهند. این مرکز از سایر حوادث آگاه است اما به دلیل عدم تأیید دست اول نمی‌تواند آن‌ها را گزارش کند."
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 2
+  "requests": 3
  },
- "flip": 625,
+ "flip": 626,
  "quote_n": 271,
  "signals": [
   {
@@ -1256,6 +1256,11 @@
    "t": 1792197968.9262767,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1792198565.489659,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
