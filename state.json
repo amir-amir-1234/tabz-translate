@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108286
+   "last_id": 108287
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 101325
   },
   "NE_WG": {
-   "last_id": 114712
+   "last_id": 114713
   }
  },
  "fails": {},
@@ -587,13 +587,18 @@
    "t": 1792235917.0,
    "n": "۶ هواپیمای باری نظامی دیگر آمریکا به خاورمیانه رسیدند",
    "fa": "🔄 به‌روزرسانی ⭕️۶ هواپیمای باری نظامی دیگر آمریکا به خاورمیانه رسیدند"
+  },
+  {
+   "t": 1792236095.0,
+   "n": "president trump has waived key u s sanctions and tariffs targeting russia including penalties on russian oil and gas purchases just days before they were scheduled to take effect under legislation he signed last month the measures would have imposed tariffs of up to 100 on goods from major importers of russian energy trump said in an executive order issued friday that the waiver served u s nationa",
+   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ کلیدواژه‌های تحریم‌ها و تعرفه‌های کلیدی ایالات متحده علیه روسیه، از جمله جریمه‌های خرید نفت و گاز روسیه را، تنها چند روز پیش از زمان اجرای آن‌ها تحت قانون امضا شده‌اش در ماه گذشته، لغو کرد. این اقدامات قرار بود تعرفه‌هایی تا سقف ۱۰۰ درصد بر کالا واردکنندگان عمده انرژی روسیه اعمال کند. ترامپ در دستور اجرایی صادر شده در روز جمعه گفت که این معافیت در راستای منافع ملی ایالات مت"
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 56
+  "requests": 57
  },
- "flip": 658,
+ "flip": 659,
  "quote_n": 286,
  "signals": [
   {
@@ -1410,6 +1415,11 @@
    "t": 1792236080.4578736,
    "s": 5,
    "p": 85
+  },
+  {
+   "t": 1792236368.4532683,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
