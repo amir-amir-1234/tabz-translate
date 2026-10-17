@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108363
+   "last_id": 108365
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131948
+   "last_id": 131950
   },
   "TelNews_Magazine": {
    "last_id": 101367
   },
   "NE_WG": {
-   "last_id": 114792
+   "last_id": 114793
   }
  },
  "fails": {},
@@ -364,21 +364,6 @@
  },
  "recent": [
   {
-   "t": 1792253228.0,
-   "n": "venezuelan opposition leader maría corina machado communism socialism brings misery violence separation and oppression once you lose your freedom once you lose democracy it s so hard to gain it back our nation was deceived because they find ways to make it very sexy and very attractive they make it seem you get things for free you don t have to work that s not true",
-   "fa": "🇻🇪⚡️ — ماریا کورینا ماچادو، رهبر اپوزیسیون ونزوئلا: کمونیسم و سوسیالیسم بدبختی، خشونت، جدایی و سرکوب به همراه می‌آورند. وقتی آزادی خود را از دست می‌دهید، وقتی دموکراسی را از دست می‌دهید، بازگرداندن آن بسیار دشوار است... ملت ما فریب خورد زیرا آن‌ها راه‌هایی پیدا می‌کنند تا آن را بسیار جذاب و فریبنده جلوه دهند. آن‌ها طوری وانمود می‌کنند که انگار چیزهایی را رایگان به دست می‌آورید و نیازی به کار کردن "
-  },
-  {
-   "t": 1792253335.0,
-   "n": "venezuelan opposition leader maría corina machado i have trust in the united states and its values and history i know that temptations and wrong ideas occur but society has ways to defend itself the truth and the possibility that you have to speak out what you feel what you want without fear of being persecuted is the first thing you have to defend because it s the first thing socialism wants to t",
-   "fa": "🇻🇪🇺🇸⚡️ — ماریا کورینا ماچادو، رهبر اپوزیسیون ونزوئلا: من به ایالات متحده و ارزش‌ها و تاریخ آن اعتماد دارم. می‌دانم که وسوسه‌ها و ایده‌های نادرست رخ می‌دهند، اما جامعه راه‌هایی برای دفاع از خود دارد. حقیقت و امکانی که برای ابراز احساسات و خواسته‌هایتان بدون ترس از تعقیب وجود دارد، اولین چیزی است که باید از آن دفاع کنید، زیرا این نخستین چیزی است که سوسیالیسم می‌خواهد از شما سلب کند."
-  },
-  {
-   "t": 1792253466.0,
-   "n": "برنامه زنده شبکه خبر ابتدا با اختلال مواجه شد و بعد قطع شد دقایقی است که شبکه خبر تصاویر آرشیوی پخش می کند",
-   "fa": "❌برنامه زنده شبکه خبر ابتدا با اختلال مواجه شد و بعد قطع شد ‼️دقایقی است که شبکه خبر تصاویر آرشیوی پخش می‌کند"
-  },
-  {
    "t": 1792253527.0,
    "n": "ناوشکن آمریکایی در ۴۰۰ کیلومتری ایران",
    "fa": "⭕️ناوشکن آمریکایی در ۴۰۰ کیلومتری ایران"
@@ -662,13 +647,28 @@
    "t": 1792266478.0,
    "n": "اسرائیل کاتس وزیر دفاع اسرائیل در گفتگو با شبکه ۱۴ عبری دفعه بعد به تمام زیرساخت های انرژی ایران حمله خواهیم کرد و این کشور را ۴۰ سال به عقب بازمی گردانیم",
    "fa": "🇮🇷🇮🇱❌اسرائیل کاتس، وزیر دفاع اسرائیل، در گفتگو با شبکه ۱۴ عبری: ‼️«دفعه بعد، به تمام زیرساخت‌های انرژی ایران حمله خواهیم کرد و این کشور را ۴۰ سال به عقب بازمی‌گردانیم.»"
+  },
+  {
+   "t": 1792266771.0,
+   "n": "ساختمان شهرداری لیموژ در فرانسه فرو ریخت این مکان به عنوان بنای تاریخی ثبت شده از ۱۵۰ سال پیش ۱۸۷۶ وجود داشته است",
+   "fa": "🇫🇷ساختمان شهرداری لیموژ در فرانسه فرو ریخت ❌این مکان به عنوان بنای تاریخی ثبت شده، از ۱۵۰ سال پیش (۱۸۷۶) وجود داشته است."
+  },
+  {
+   "t": 1792266781.0,
+   "n": "ترامپ من به یه نفر گفتم هی محمد برگشت گفت اسم من محمد نیست که گفتم بابا من رئیس جمهور آمریکام هر چی بخوام صدات میکنم",
+   "fa": "🇺🇸🇮🇷ترامپ: من به یه نفر گفتم هی محمد. 🔴برگشت گفت اسم من محمد نیست که. 🔴گفتم بابا من رئیس جمهور آمریکام، هر چی بخوام صدات میکنم!"
+  },
+  {
+   "t": 1792266793.0,
+   "n": "i just found a u s navy destroyer assigned to the uss george washington csg on sentinel 2 satellite imagery 17 10 2026 the vessel is sailing off the coast of pakistan in the northern arabian sea approximately 400km from iran as i told you about a month ago american carrier strike groups in the centcom aor no longer venture near the gulf of oman instead they operate hundreds of kilometers away from",
+   "fa": "🔴 من یک ناوشکن نیروی دریایی آمریکا را که به ناوگروه ضربت «یو‌اس‌اس جورج واشینگتن» اختصاص دارد، در تصاویر ماهواره‌ای سنتینل-۲ در تاریخ ۱۷ اکتبر ۲۰۲۶ پیدا کردم. این شناور در سواحل پاکستان، در شمال دریای عرب و در فاصله تقریبی ۴۰۰ کیلومتری ایران در حال حرکت است. همان‌طور که حدود یک ماه پیش به شما گفتم، ناوگروه‌های ضربت آمریکا در حوزه فرماندهی مرکزی (سنتکام) دیگر به نزدیکی دریای عمان نزدیک نمی‌شوند و د"
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 153
+  "requests": 155
  },
- "flip": 748,
+ "flip": 751,
  "quote_n": 321,
  "signals": [
   {
@@ -1450,6 +1450,16 @@
    "t": 1792266673.7695122,
    "s": 5,
    "p": 90
+  },
+  {
+   "t": 1792266977.866901,
+   "s": 4,
+   "p": 30
+  },
+  {
+   "t": 1792266982.9320974,
+   "s": 4,
+   "p": 40
   }
  ],
  "risk": {
