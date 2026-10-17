@@ -75,7 +75,8 @@
     "https://www.foxnews.com/world/albania-rioters-clash-police-socialist-government-european-unrest-spreads",
     "https://www.foxnews.com/world/houthis-emerge-global-threat-iran-control-saudi-attacks-says-former-envoy",
     "https://www.foxnews.com/world/autistic-teen-lured-fake-snapchat-meetup-brutally-beaten-group-teens-report",
-    "https://www.foxnews.com/world/recovering-lung-surgery-pope-leo-urges-putin-agree-ceasefire-russian-held-ukraine-city"
+    "https://www.foxnews.com/world/recovering-lung-surgery-pope-leo-urges-putin-agree-ceasefire-russian-held-ukraine-city",
+    "https://www.foxnews.com/world/chinaaid-raises-alarm-imprisoned-chinese-pastor-health-family-seeks-answers"
    ]
   },
   "WSJ": {
@@ -545,7 +546,7 @@
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 45
+  "requests": 46
  },
  "flip": 648,
  "quote_n": 284,
