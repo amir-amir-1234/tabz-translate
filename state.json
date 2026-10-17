@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108360
+   "last_id": 108361
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131939
+   "last_id": 131940
   },
   "TelNews_Magazine": {
    "last_id": 101361
   },
   "NE_WG": {
-   "last_id": 114782
+   "last_id": 114783
   }
  },
  "fails": {},
@@ -362,11 +362,6 @@
  },
  "recent": [
   {
-   "t": 1792252065.0,
-   "n": "israeli foreign minister gideon sa ar has condemned what he described as severe violence by israeli rioters in the taybeh area saying police have opened an investigation and forensic teams are collecting evidence sa ar said the foreign ministry is coordinating with the ambassadors of the countries concerned to assist law enforcement while adding that prior coordination with the idf could have help",
-   "fa": "🔄 به‌روزرسانی 🇮🇱🇵🇸🇪🇺⚡️ — گیدعون ساعر، وزیر خارجه اسرائیل، خشونت شدید شهرک‌نشینان در منطقه الطیبه را محکوم کرد و گفت پلیس تحقیقاتی را آغاز کرده و تیم‌های پزشکی قانونی در حال جمع‌آوری ادله هستند. ساعر افزود که وزارت خارجه با سفرای کشورهای مربوطه برای کمک به اجرای قانون هماهنگی می‌کند و هماهنگی قبلی با ارتش می‌توانسته به محافظت از بازدیدکنندگان کمک کند."
-  },
-  {
    "t": 1792251997.0,
    "n": "vast majority of iran s attempted attacks on strait of hormuz are unsuccessful centcom spokesman says the vast majority of iran s attempted attacks on shipping in the strait of hormuz are unsuccessful as the key waterway remains open for transit u s central command spokesperson u s navy capt tim hawkins told fox news digital this week hawkins spoke after centcom said the gfs pride a singapore flag",
    "fa": "🔴 پنتاگون: اکثر حملات ایران به کشتی‌ها در تنگه هرمز ناموفق بوده است به گزارش فاکس نیوز، کاپیتان تیم هاوکینز، سخنگوی فرماندهی مرکزی ایالات متحده (سنتکام)، در گفتگو با این رسانه اعلام کرد که بخش عمده‌ای از تلاش‌های ایران برای حمله به کشتی‌های تجاری در تنگه هرمز ناموفق بوده و این آبراه حیاتی همچنان برای تردد باز است. این اظهارات پس از آن مطرح شد که سنتکام گزارش داد کشتی کانتینربر «جی‌اف‌اس پراید» با "
@@ -660,20 +655,20 @@
    "t": 1792262983.0,
    "n": "french interior minister laurent nuñez says 550 000 people took part in 110 demonstrations across france on saturday including 110 000 in paris organisers put the nationwide turnout at 800 000 nuñez also reported 400 arrests and 60 security personnel injured during the protests",
    "fa": "🔄 به‌روزرسانی 🇫🇷⚡️ — لوران نونِس، وزیر کشور فرانسه، می‌گوید ۵۵۰ هزار نفر در روز شنبه در ۱۱۰ تظاهرات در سراسر فرانسه از جمله ۱۱۰ هزار نفر در پاریس شرکت کردند. برگزارکنندگان تعداد کل شرکت‌کنندگان در سراسر کشور را ۸۰۰ هزار نفر اعلام کردند. نونِس همچنین از ۴۰۰ مورد بازداشت و مصدومیت ۶۰ نفر از نیروهای امنیتی در جریان اعتراضات خبر داد."
+  },
+  {
+   "t": 1792263065.0,
+   "n": "president trump i do not want to lose as your representative 90 billion for the privilege of allowing canada to have a healthcare system and other things that they shouldn t be having they spend our money very unwisely",
+   "fa": "🇺🇸🇨🇦⚡️ — رئیس‌جمهور ترامپ: من به عنوان نماینده شما نمی‌خواهم ۹۰ میلیارد دلار را به خاطر امتیاز دادن به کانادا برای داشتن یک سیستم مراقبت بهداشتی و چیزهای دیگری که نباید داشته باشند، از دست بدهم. آنها پول ما را بسیار غیرهوشمندانه خرج می‌کنند."
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 140
+  "requests": 141
  },
- "flip": 742,
+ "flip": 743,
  "quote_n": 319,
  "signals": [
-  {
-   "t": 1792176691.7918205,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1792176990.627681,
    "s": 4,
@@ -1493,6 +1488,11 @@
    "t": 1792262789.766741,
    "s": 4,
    "p": 40
+  },
+  {
+   "t": 1792263372.9601126,
+   "s": 4,
+   "p": 50
   }
  ],
  "risk": {
