@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108278
+   "last_id": 108279
   },
   "khabarfouri": {
    "last_id": 569949
@@ -350,11 +350,6 @@
  },
  "recent": [
   {
-   "t": 1792173896.0,
-   "n": "محمد باقر قالیباف تفاهم علاوه بر بازدارندگی به نیروهای نظامی ما کمک کرد تا قوی تر شوند تاب آوری اقتصادی آن ها بیشتر شود حزب الله لبنان قوی تر شود هم می جنگیم و هم مذاکره می کنیم می جنگیم تا دشمن مستأصل بشه بعدش مذاکره میکنیم تا به خواسته هامون تن بده یا شکست رو بپذیره",
-   "fa": "🇮🇷 محمد باقر قالیباف : تفاهم علاوه بر بازدارندگی به نیروهای نظامی ما کمک کرد تا قوی‌تر شوند، تاب‌آوری اقتصادی آن‌ها بیشتر شود، حزب‌الله لبنان قوی‌تر شود هم می‌جنگیم و هم مذاکره می‌کنیم؛ می‌جنگیم تا دشمن مستأصل بشه بعدش مذاکره میکنیم تا به خواسته‌هامون تن بده یا شکست رو بپذیره."
-  },
-  {
    "t": 1792174087.0,
    "n": "france s president emmanuel macron russia through its actions is preventing ukrainian grain from leaving ukraine has had one of its record harvests which helps feed many developing and poor countries i m thinking of egypt and many other african countries today russia is choosing to starve these countries and impoverish ukraine we will respond to that but it is criminal in every respect",
    "fa": "🇫🇷🇺🇦🇷🇺⚡️ — امانوئل مکرون، رئیس‌جمهور فرانسه: روسیه از طریق اقدامات خود مانع خروج غلات اوکراین می‌شود. اوکراین یکی از برداشت‌های رکورد خود را داشته است که به تغذیه بسیاری از کشورهای در حال توسعه و فقیر کمک می‌کند. من به مصر و بسیاری از کشورهای دیگر آفریقایی فکر می‌کنم. امروز روسیه تصمیم می‌گیرد این کشورها را گرسنه نگه دارد و اوکراین را به فقیرسازی بکشاند. ما به آن پاسخ خواهیم داد، اما این در هر زمی"
@@ -648,14 +643,19 @@
    "t": 1792192221.0,
    "n": "recovering from lung surgery pope leo urges putin to agree to ceasefire in russian held ukraine city pope leo xiv called russian president vladimir putin while recovering from surgery in the hospital to urge him to call a ceasefire in the city of oleshky in ukraine during the conversation the holy father expressed his deep concern about the grave humanitarian situation in the city of oleshky in th",
    "fa": "🔴 پاپ لئو در تماس با پوتین خواستار آتش‌بس در شهر اولشکی اوکراین شد به گزارش فاکس نیوز پاپ لئو چهاردهم در حال دوران نقاهت پس از عمل جراحی در بیمارستان، با ولادیمیر پوتین رئیس‌جمهور روسیه تماس گرفت تا از او بخواهد برای شهر اولشکی در اوکراین آتش‌بس اعلام کند. واتیکان در بیانیه‌ای اعلام کرد: «در جریان این گفتگو، پدر مقدس نگرانی عمیق خود را درباره وضعیت وخیم بشردوستانه در شهر اولشکی واقع در منطقه خرسون"
+  },
+  {
+   "t": 1792195203.0,
+   "n": "the saudi led coalition says it destroyed two ballistic missile launchers in saada governorate houthi controlled yemen",
+   "fa": "🇸🇦❌🇾🇪 — ائتلاف تحت رهبری عربستان اعلام کرد دو پرتابگر موشک بالستیک را در استان صعده، در مناطق تحت کنترل حوثی‌ها در یمن، منهدم کرده است."
   }
  ],
  "usage": {
-  "date": "2026-10-16",
-  "requests": 386
+  "date": "2026-10-17",
+  "requests": 1
  },
- "flip": 623,
- "quote_n": 270,
+ "flip": 624,
+ "quote_n": 271,
  "signals": [
   {
    "t": 1792154788.6619253,
@@ -1246,6 +1246,11 @@
    "t": 1792190168.4384584,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792195289.6785843,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
