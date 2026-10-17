@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108318
+   "last_id": 108320
   },
   "khabarfouri": {
    "last_id": 569949
@@ -357,11 +357,6 @@
  },
  "recent": [
   {
-   "t": 1792234141.0,
-   "n": "ایران مجددا برای میانجیگری بین عربستان و یمن اعلام آمادگی کرد",
-   "fa": "⭕️ایران مجددا برای میانجیگری بین عربستان و یمن اعلام آمادگی کرد"
-  },
-  {
    "t": 1792235624.0,
    "n": "over 100 people have been arrested in paris as protests continue across france according to bfmtv police sources estimate that 30 000 60 000 people are demonstrating in paris and 90 000 170 000 nationwide this saturday",
    "fa": "🇫🇷⚡️ — بر اساس گزارش ب‌اف‌ام‌تی‌وی، در جریان ادامه اعتراضات در سراسر فرانسه، بیش از ۱۰۰ نفر در پاریس بازداشت شدند. منابع پلیس تخمین می‌زنند که ۳۰ هزار تا ۶۰ هزار نفر در پاریس و ۹۰ هزار تا ۱۷۰ هزار نفر در سراسر کشور در این روز شنبه تظاهرات می‌کنند."
@@ -655,20 +650,20 @@
    "t": 1792252774.0,
    "n": "فارس آیفون های ۱۸ با برچسب عجیب غنیمت جنگی و قیمتی وسوسه انگیز راهی بازار تهران شده اند پلیس احتیاط کنید شاید پشت پرده این فروش زیر قیمت کلاهبرداران باشند",
    "fa": "💢فارس: آیفون‌های ۱۸ با برچسب عجیب غنیمت جنگی و قیمتی وسوسه‌انگیز راهی بازار تهران شده‌اند پلیس: احتیاط کنید؛ شاید پشت‌پرده این فروش زیر قیمت، کلاهبرداران باشند."
+  },
+  {
+   "t": 1792252959.0,
+   "n": "fox news if trump was watching right now what do you want to tell him maría corina machado oh many things first of all i would start by saying on behalf of the venezuelan people how grateful we are because taking maduro to face justice opened a great door for a path to freedom secondly we have to finish the task and i believe this is going to be his great legacy",
+   "fa": "🇻🇪🇺🇸⚡️ — فاکس نیوز: اگر ترامپ الان داشت تماشا می‌کرد چه می‌خواستید به او بگویید؟ ماریا کورینا ماچادو: اوح، خیلی چیزها. اول از همه، من از طرف مردم ونزوئلا می‌گویم که چقدر سپاسگزاریم زیرا کشاندن مادورو برای روبه‌رو شدن با عدالت، در بزرگی را به سوی آزادی گشود. دوم، ما باید کار را تمام کنیم. و من معتقدم این میراث بزرگ او خواهد بود."
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 104
+  "requests": 105
  },
- "flip": 696,
+ "flip": 697,
  "quote_n": 304,
  "signals": [
-  {
-   "t": 1792166503.552332,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1792167678.0490358,
    "s": 3,
