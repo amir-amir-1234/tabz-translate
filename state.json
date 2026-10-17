@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131919
+   "last_id": 131920
   },
   "TelNews_Magazine": {
-   "last_id": 101342
+   "last_id": 101343
   },
   "NE_WG": {
-   "last_id": 114760
+   "last_id": 114761
   }
  },
  "fails": {},
@@ -78,7 +78,8 @@
     "https://www.foxnews.com/world/recovering-lung-surgery-pope-leo-urges-putin-agree-ceasefire-russian-held-ukraine-city",
     "https://www.foxnews.com/world/chinaaid-raises-alarm-imprisoned-chinese-pastor-health-family-seeks-answers",
     "https://www.foxnews.com/world/pope-leo-xiv-discharged-hospital-return-vatican-surgery-remove-lung-cancer",
-    "https://www.foxnews.com/world/vast-majority-irans-attempted-attacks-strait-hormuz-unsuccessful-centcom-spokesman-says"
+    "https://www.foxnews.com/world/vast-majority-irans-attempted-attacks-strait-hormuz-unsuccessful-centcom-spokesman-says",
+    "https://www.foxnews.com/world/violence-erupts-france-protests-macron-warns-unrest-being-exploited"
    ]
   },
   "WSJ": {
@@ -356,16 +357,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792236509.0,
-   "n": "عراقچی ما همواره به دیپلماسی برای کاهش تنش ها پایبند بوده ایم اما واشنگتن بارها توافقات را نقض کرده است به ویژه یادداشت تفاهم",
-   "fa": "⭕️عراقچی: ما همواره به دیپلماسی برای کاهش تنش‌ها پایبند بوده‌ایم، اما واشنگتن بارها توافقات را نقض کرده است، به ویژه یادداشت تفاهم"
-  },
-  {
-   "t": 1792237033.0,
-   "n": "تکمیلی سازمان نظارت دریایی بریتانیا ukmto از دو حمله جداگانه به نفتکش ها در خلیج فارس در نزدیکی شهر الجبایل در عربستان سعودی در طول ۲۴ ساعت گذشته خبر داده است دیروز یک تانکر در فاصله تقریبی ۶۸ مایل دریایی شمال شرقی شهر الجباییل مورد اصابت یک پرتابه قرار گرفت تمام خدمه به طور ایمن تخلیه شدند و هیچگونه آسیب زیست محیطی گزارش نشده است امروز یک تانکر دیگر مورد حمله قرار گرفت مهاجمان از یک قایق کوچک یک ",
-   "fa": "🔄 به‌روزرسانی 🚨 〰️❌🇸🇦 تکمیلی/ سازمان نظارت دریایی بریتانیا (UKMTO) از دو حمله جداگانه به نفتکش‌ها در خلیج فارس، در نزدیکی شهر الجبایل در عربستان سعودی، در طول ۲۴ ساعت گذشته خبر داده است: دیروز، یک تانکر در فاصله تقریبی ۶۸ مایل دریایی شمال شرقی شهر الجباییل مورد اصابت یک پرتابه قرار گرفت. تمام خدمه به طور ایمن تخلیه شدند و هیچگونه آسیب زیست محیطی گزارش نشده است. امروز، یک تانکر دیگر مورد حمله قرار "
-  },
   {
    "t": 1792237033.0,
    "n": "new ukrainian president zelensky says restrictions on starlink terminals remain in place across ukraine with connections cutting out at speeds above 161 km h disrupting interceptor drone operations and frontline logistics exceeding this limit causes the starlink connection to cut out completely resulting in the loss of the drone zelensky said he said ukraine tested starlink equipped vehicles in th",
@@ -655,11 +646,21 @@
    "t": 1792253335.0,
    "n": "venezuelan opposition leader maría corina machado i have trust in the united states and its values and history i know that temptations and wrong ideas occur but society has ways to defend itself the truth and the possibility that you have to speak out what you feel what you want without fear of being persecuted is the first thing you have to defend because it s the first thing socialism wants to t",
    "fa": "🇻🇪🇺🇸⚡️ — ماریا کورینا ماچادو، رهبر اپوزیسیون ونزوئلا: من به ایالات متحده و ارزش‌ها و تاریخ آن اعتماد دارم. می‌دانم که وسوسه‌ها و ایده‌های نادرست رخ می‌دهند، اما جامعه راه‌هایی برای دفاع از خود دارد. حقیقت و امکانی که برای ابراز احساسات و خواسته‌هایتان بدون ترس از تعقیب وجود دارد، اولین چیزی است که باید از آن دفاع کنید، زیرا این نخستین چیزی است که سوسیالیسم می‌خواهد از شما سلب کند."
+  },
+  {
+   "t": 1792253466.0,
+   "n": "برنامه زنده شبکه خبر ابتدا با اختلال مواجه شد و بعد قطع شد دقایقی است که شبکه خبر تصاویر آرشیوی پخش می کند",
+   "fa": "❌برنامه زنده شبکه خبر ابتدا با اختلال مواجه شد و بعد قطع شد ‼️دقایقی است که شبکه خبر تصاویر آرشیوی پخش می‌کند"
+  },
+  {
+   "t": 1792253527.0,
+   "n": "ناوشکن آمریکایی در ۴۰۰ کیلومتری ایران",
+   "fa": "⭕️ناوشکن آمریکایی در ۴۰۰ کیلومتری ایران"
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 106
+  "requests": 107
  },
  "flip": 701,
  "quote_n": 306,
@@ -1508,6 +1509,16 @@
    "t": 1792252900.6696882,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792253774.12471,
+   "s": 3,
+   "p": 70
+  },
+  {
+   "t": 1792253778.61287,
+   "s": 4,
+   "p": 80
   }
  ],
  "risk": {
