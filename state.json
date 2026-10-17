@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108330
+   "last_id": 108335
   },
   "khabarfouri": {
    "last_id": 569949
@@ -360,16 +360,6 @@
  },
  "recent": [
   {
-   "t": 1792240931.0,
-   "n": "vice president jd vance i think the american voter is impatient and i actually think that s a good thing i like that they re constantly like donald trump their foot is constantly on the gas",
-   "fa": "🇺🇸⚡️ — جی‌دی ونس، معاون رئیس‌جمهور آمریکا: فکر می‌کنم رأی‌دهنده آمریکایی بی‌صبر است، و اتفاقاً فکر می‌کنم این چیز خوبی است. من دوست دارم آن‌ها دائماً مانند دونالد ترامپ باشند: پایشان دائماً روی پدال گاز است."
-  },
-  {
-   "t": 1792241030.0,
-   "n": "vice president jd vance the country was not broken in two years as much as i would like to blame biden for everything the reality is that we had a bipartisan 40 year consensus of shipping american jobs overseas and underinvesting in the american worker donald trump has done more in 18 months than any other president has done in 10 years to reverse that problem but there s still a lot more work to ",
-   "fa": "🇺🇸⚡️ — جی‌دی ونس، معاون رئیس‌جمهور آمریکا: کشور ظرف دو سال خراب نشده است. هرچقدر هم که دلم بخواهد بایدن را مقصر همه چیز بدانم، واقعیت این است که ما یک اجماع دوحزبی ۴۰ ساله درباره فرستادن مشاغل آمریکایی به خارج از کشور و سرمایه‌گذاری ناکافی روی کارگر آمریکایی داشتیم. دونالد ترامپ در ۱۸ ماه گذشته بیشتر از هر رئیس‌جمهور دیگری در ۱۰ سال گذشته برای معکوس کردن این مشکل انجام داده است، اما هنوز کارهای زی"
-  },
-  {
    "t": 1792242006.0,
    "n": "هلال احمر از شهید لاریجانی فقط یک دست سالم مانده بود که آن هم نصفه بود",
    "fa": "⭕️هلال‌احمر :‌ از شهید لاریجانی فقط یک دست سالم مانده بود که آن هم نصفه بود"
@@ -658,25 +648,25 @@
    "t": 1792258681.0,
    "n": "یارانه نقدی مرحله ۱۸۸ مربوط به مهرماه ۱۴۰۵ به حساب سرپرستان خانوارهای دهک های اول تا سوم در سراسر کشور واریز و قابل برداشت شد",
    "fa": "💰یارانه نقدی مرحله ۱۸۸ مربوط به مهرماه ۱۴۰۵ به حساب سرپرستان خانوارهای دهک‌های اول تا سوم در سراسر کشور واریز و قابل برداشت شد"
+  },
+  {
+   "t": 1792258823.0,
+   "n": "limoges city hall in france was set ablaze by protesters",
+   "fa": "🇫🇷⚡️ — ساختمان شهرداری لیموژ در فرانسه توسط معترضان به آتش کشیده شد."
+  },
+  {
+   "t": 1792259011.0,
+   "n": "senator ted cruz right now if you are a left wing transgender witch you hate donald trump",
+   "fa": "🇺🇸⚡️ — سناتور تد کروز: همین الان، اگر شما یک جادوگر تراجنسیتی چپ‌گرا باشید، از دونالد ترامپ متفراید."
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 123
+  "requests": 124
  },
- "flip": 715,
+ "flip": 717,
  "quote_n": 313,
  "signals": [
-  {
-   "t": 1792172663.6971874,
-   "s": 3,
-   "p": 40
-  },
-  {
-   "t": 1792172668.538395,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1792172796.1318052,
    "s": 4,
@@ -1471,6 +1461,11 @@
    "t": 1792258890.4071465,
    "s": 3,
    "p": 50
+  },
+  {
+   "t": 1792259180.912378,
+   "s": 4,
+   "p": 30
   }
  ],
  "risk": {
