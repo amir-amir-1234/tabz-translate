@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108328
+   "last_id": 108330
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131930
+   "last_id": 131931
   },
   "TelNews_Magazine": {
-   "last_id": 101352
+   "last_id": 101354
   },
   "NE_WG": {
-   "last_id": 114771
+   "last_id": 114772
   }
  },
  "fails": {},
@@ -79,7 +79,8 @@
     "https://www.foxnews.com/world/chinaaid-raises-alarm-imprisoned-chinese-pastor-health-family-seeks-answers",
     "https://www.foxnews.com/world/pope-leo-xiv-discharged-hospital-return-vatican-surgery-remove-lung-cancer",
     "https://www.foxnews.com/world/vast-majority-irans-attempted-attacks-strait-hormuz-unsuccessful-centcom-spokesman-says",
-    "https://www.foxnews.com/world/violence-erupts-france-protests-macron-warns-unrest-being-exploited"
+    "https://www.foxnews.com/world/violence-erupts-france-protests-macron-warns-unrest-being-exploited",
+    "https://www.foxnews.com/world/former-us-ambassador-says-south-korea-prosecuted-him-over-speech-made-american-soil"
    ]
   },
   "WSJ": {
@@ -358,21 +359,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792240679.0,
-   "n": "عراقچی ما برنامه هفت روزه خود را بیان کردیم و انتخاب با آمریکاست وزیر امور خارجه از طریق قطر یک برنامه مشخص هفت روزه را منتقل کردیم و گفتیم در صورت فراهم شدن شرایط لازم تنگه می تواند بازگشایی شود و تردد عادی دریایی ظرف هفت روز بازگردد انتخاب اکنون با آمریکا است",
-   "fa": "🔄 به‌روزرسانی 🇮🇷🇺🇸عراقچی: ما برنامه هفت روزه خود را بیان کردیم و انتخاب با آمریکاست😎 💢وزیر امور خارجه: از طریق قطر، یک برنامه مشخص هفت‌روزه را منتقل کردیم و گفتیم در صورت فراهم شدن شرایط لازم، تنگه می‌تواند بازگشایی شود و تردد عادی دریایی ظرف هفت روز بازگردد. انتخاب اکنون با آمریکا است."
-  },
-  {
-   "t": 1792240809.0,
-   "n": "vice president jd vance on tucker carlson tucker obviously one of the reasons he s very very angry is over the iran war he does not like the iran war he and i have had that conversation in private in public i know how he feels and i understand what i ve said to tucker is don t throw the baby out with the bathwater",
-   "fa": "🇺🇸🇮🇷⚡️ — جی‌دی ونس، معاون رئیس‌جمهور آمریکا درباره تاکر کارلسون: تاکر، بدیهی است یکی از دلایل عصبانیت شدید او، جنگ با ایران است. او جنگ با ایران را دوست ندارد. او و من در این باره خصوصی و عمومی گفتگو کرده‌ایم. من می‌دانم او چه احساسی دارد و درک می‌کنم. آنچه من به تاکر گفته‌ام این است که «کودک را با آب حمام دور نیندازید.»"
-  },
-  {
-   "t": 1792240921.0,
-   "n": "سپاه پاسداران انقلاب اسلامی اعلام کرد که دومین ابر نفتکش امروز پس از برخورد با مین هنگام عبور از تنگه هرمز در مسیری که قوانین را نقض می کرد منفجر شد",
-   "fa": "🇮🇷سپاه پاسداران انقلاب اسلامی اعلام کرد که دومین ابر نفتکش امروز پس از برخورد با مین هنگام عبور از تنگه هرمز در مسیری که قوانین را نقض می کرد، منفجر شد."
-  },
   {
    "t": 1792240931.0,
    "n": "vice president jd vance i think the american voter is impatient and i actually think that s a good thing i like that they re constantly like donald trump their foot is constantly on the gas",
@@ -657,14 +643,29 @@
    "t": 1792258262.0,
    "n": "پاریس امروز به این وضعیت درآمد",
    "fa": "🎥پاریس امروز به این وضعیت درآمد"
+  },
+  {
+   "t": 1792258518.0,
+   "n": "watch french protesters stole tourist trains in grenoble and marseille",
+   "fa": "🇫🇷⚡️ — تماشا: معترضان فرانسوی قطارهای گردشگری را در گرنوبل و مارسی ربودند."
+  },
+  {
+   "t": 1792258565.0,
+   "n": "درآمد مالیاتی دولت از هزار همت گذشت در ۶ ماهه نخست سال جاری دولت از محل مالیات های مستقیم کالاها و خدمات بیش از یک هزار و ۷۶ همت درآمد مالیاتی داشته باشد تا پایان شهریور ماه سال جاری اشخاص حقوقی ۴۵۷ هزار میلیارد تومان مالیات و در زیرگروه اشخاص حقوقی میزان مالیات پرداختی از سوی شرکت های دولتی ۲۲ ۴ همت بوده در حالی که شرکت های خصوصی ۴۰۴ ۸ همت مالیات داده اند",
+   "fa": "💸 درآمد مالیاتی دولت از هزار همت گذشت ▫️در ۶ ماهه نخست سال جاری دولت از محل مالیات‌های مستقیم، کالاها و خدمات بیش از یک هزار و ۷۶ همت درآمد مالیاتی داشته باشد. ▫️ تا پایان شهریور ماه سال جاری اشخاص حقوقی ۴۵۷ هزار میلیارد تومان مالیات و در زیرگروه اشخاص حقوقی، میزان مالیات پرداختی از سوی شرکت‌های دولتی ۲۲.۴ همت بوده در حالی که شرکت‌های خصوصی ۴۰۴.۸ همت مالیات داده‌اند."
+  },
+  {
+   "t": 1792258681.0,
+   "n": "یارانه نقدی مرحله ۱۸۸ مربوط به مهرماه ۱۴۰۵ به حساب سرپرستان خانوارهای دهک های اول تا سوم در سراسر کشور واریز و قابل برداشت شد",
+   "fa": "💰یارانه نقدی مرحله ۱۸۸ مربوط به مهرماه ۱۴۰۵ به حساب سرپرستان خانوارهای دهک‌های اول تا سوم در سراسر کشور واریز و قابل برداشت شد"
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 122
+  "requests": 123
  },
- "flip": 713,
- "quote_n": 312,
+ "flip": 715,
+ "quote_n": 313,
  "signals": [
   {
    "t": 1792172663.6971874,
@@ -1460,6 +1461,16 @@
    "t": 1792258285.0845292,
    "s": 4,
    "p": 40
+  },
+  {
+   "t": 1792258886.8402066,
+   "s": 3,
+   "p": 40
+  },
+  {
+   "t": 1792258890.4071465,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
