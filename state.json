@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131911
+   "last_id": 131912
   },
   "TelNews_Magazine": {
    "last_id": 101338
   },
   "NE_WG": {
-   "last_id": 114750
+   "last_id": 114751
   }
  },
  "fails": {},
@@ -308,7 +308,8 @@
     "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html",
     "https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html",
     "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
-    "https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html"
+    "https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html",
+    "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html"
    ]
   },
   "Treasury": {
@@ -354,16 +355,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792223761.0,
-   "n": "عضو اتاق بازرگانی ایران و چین از 48 ساعت بسیار حساس در انتظار خاورمیانه خبر داد",
-   "fa": "⭕️عضو اتاق بازرگانی ایران و چین از 48 ساعت بسیار حساس در انتظار خاورمیانه خبر داد."
-  },
-  {
-   "t": 1792224132.0,
-   "n": "نیروی دریایی سپاه اعلام می کند تنگه هرمز بسته است و عاقبت سرپیچی کشتی های متخلف از مقررات ایرانی تنگه هرمز سوختن در آتش اعتماد ارتش تروریست آمریکاست",
-   "fa": "🇮🇷نیروی دریایی سپاه اعلام می کند: تنگه هرمز بسته است و عاقبت سرپیچی کشتی های متخلف از مقررات ایرانی تنگه هرمز، سوختن در آتش اعتماد ارتش تروریست آمریکاست."
-  },
   {
    "t": 1792224662.0,
    "n": "ثابتی تو تجمعات شبانه تو مجلس میشه نماینده ها رو با یه قیمتی خرید",
@@ -653,14 +644,24 @@
    "t": 1792249091.0,
    "n": "شنیده شدن صدای انفجار در سیریک فارس ساعتی پیش مردم در منطقه کوهستک و بخش هایی از سیریک صدای انفجار شنیدند",
    "fa": "💢شنیده‌شدن صدای انفجار در سیریک فارس: ساعتی پیش مردم در منطقه کوهستک و بخش‌هایی از سیریک صدای انفجار شنیدند."
+  },
+  {
+   "t": 1792249319.0,
+   "n": "yemen fighting rages as civilian toll from houthi saudi conflict worsens new clashes were reported as the houthis put more pressure on taiz a strategically located city connecting the government held south of the country and the red sea",
+   "fa": "🔴 گزارش نیویورک تایمز از تشدید درگیری‌ها در یمن و فشار حوثی‌ها بر شهر استراتژیک تعز به گزارش نیویورک تایمز درگیری‌های تازه‌ای گزارش شده است در حالی که حوثی‌ها فشار بیشتری بر تعز، شهری با موقعیت استراتژیک که جنوب تحت کنترل دولت را به دریای سرخ متصل می‌کند، وارد می‌آورند."
+  },
+  {
+   "t": 1792249679.0,
+   "n": "وقوع انفجار در بغداد پایتخت عراق",
+   "fa": "🇮🇶🚨وقوع انفجار در بغداد، پایتخت عراق"
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 91
+  "requests": 93
  },
- "flip": 686,
- "quote_n": 296,
+ "flip": 687,
+ "quote_n": 297,
  "signals": [
   {
    "t": 1792163483.6525884,
@@ -1474,6 +1475,16 @@
   },
   {
    "t": 1792249293.5429826,
+   "s": 4,
+   "p": 60
+  },
+  {
+   "t": 1792249870.6744545,
+   "s": 3,
+   "p": 50
+  },
+  {
+   "t": 1792249874.9359858,
    "s": 4,
    "p": 60
   }
