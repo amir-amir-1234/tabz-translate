@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108295
+   "last_id": 108296
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 101327
   },
   "NE_WG": {
-   "last_id": 114717
+   "last_id": 114720
   }
  },
  "fails": {},
@@ -633,14 +633,24 @@
    "t": 1792237704.0,
    "n": "iranian president masoud pezeshkian on the mecca alliance this is a step forward muslims should unite we are ready to participate in this process of course we do not know the details of their decisions this could be a step toward muslims coming together and achieving islamic unity rather than splitting into two groups and fighting one another",
    "fa": "🇮🇷🇹🇷🇸🇦🇵🇰⚡️ — رئیس‌جمهور ایران مسعود پزشکیان درباره اتحاد مکه: این یک گام به جلو است. مسلمانان باید متحد شوند. ما آمادگی شرکت در این فرایند را داریم. البته، ما جزئیات تصمیمات آن‌ها را نمی‌دانیم. این می‌تواند گامی در جهت همگرایی مسلمانان و دستیابی به وحدت اسلامی باشد، به جای تقسیم به دو گروه و درگیری با یکدیگر."
+  },
+  {
+   "t": 1792238019.0,
+   "n": "egypt s president el sisi on leaving office in 2030 i m saying this more than 40 months in advance so that no one can claim i m preparing someone from my family or relatives to take over no no no nothing like that this is a very big country and such things cannot happen here",
+   "fa": "🇪🇬⚡️ — عبدالفتاح السیسی، رئیس‌جمهور مصر، درباره ترک قدرت در سال ۲۰۳۰: من این را بیش از ۴۰ ماه زودتر می‌گویم تا هیچ‌کس نتوانسته باشد ادعا کند که دارم کسی از خانواده یا بستگانم را برای جانشینی آماده می‌کنم. نه، نه، نه. هرگز چنین چیزی نیست. این کشوری بسیار بزرگ است و چنین اتفاقاتی در اینجا نمی‌تواند رخ دهد."
+  },
+  {
+   "t": 1792238071.0,
+   "n": "رضازاده عضو کمیسیون امنیت ملی فعلا با پیش دستی قطر و عمان مذاکراتی با آمریکا در حال انجام است این مذاکرات مستقیم و با وساطت این دو کشور همسایه انجام می شود منتظریم ببینیم آیا شرایطی که ما اعلام کرده ایم از طرف آمریکایی ها پذیرفته می شود یا خیر فکر نمی کنم دشمنان بخواهند مجددا تهاجمی داشته باشند",
+   "fa": "🇮🇷🇺🇸🇧🇭🇴🇲رضازاده، عضو کمیسیون امنیت ملی:فعلاً با پیش‌دستی قطر و عمان، مذاکراتی با آمریکا در حال انجام است این مذاکرات، مستقیم و با وساطت این دو کشور همسایه انجام می‌شود منتظریم ببینیم آیا شرایطی که ما اعلام کرده‌ایم، از طرف آمریکایی‌ها پذیرفته می‌شود یا خیر فکر نمی‌کنم دشمنان‌ بخواهند مجدداً تهاجمی داشته باشند"
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 62
+  "requests": 63
  },
- "flip": 666,
- "quote_n": 288,
+ "flip": 668,
+ "quote_n": 289,
  "signals": [
   {
    "t": 1792154788.6619253,
@@ -1486,6 +1496,11 @@
    "t": 1792237876.5759346,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792238178.7010808,
+   "s": 2,
+   "p": 65
   }
  ],
  "risk": {
