@@ -7,10 +7,10 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131940
+   "last_id": 131941
   },
   "TelNews_Magazine": {
-   "last_id": 101361
+   "last_id": 101362
   },
   "NE_WG": {
    "last_id": 114783
@@ -362,11 +362,6 @@
  },
  "recent": [
   {
-   "t": 1792251997.0,
-   "n": "vast majority of iran s attempted attacks on strait of hormuz are unsuccessful centcom spokesman says the vast majority of iran s attempted attacks on shipping in the strait of hormuz are unsuccessful as the key waterway remains open for transit u s central command spokesperson u s navy capt tim hawkins told fox news digital this week hawkins spoke after centcom said the gfs pride a singapore flag",
-   "fa": "🔴 پنتاگون: اکثر حملات ایران به کشتی‌ها در تنگه هرمز ناموفق بوده است به گزارش فاکس نیوز، کاپیتان تیم هاوکینز، سخنگوی فرماندهی مرکزی ایالات متحده (سنتکام)، در گفتگو با این رسانه اعلام کرد که بخش عمده‌ای از تلاش‌های ایران برای حمله به کشتی‌های تجاری در تنگه هرمز ناموفق بوده و این آبراه حیاتی همچنان برای تردد باز است. این اظهارات پس از آن مطرح شد که سنتکام گزارش داد کشتی کانتینربر «جی‌اف‌اس پراید» با "
-  },
-  {
    "t": 1792252700.0,
    "n": "مهر گزارشات از آماده باش کامل نیروی هوایی یکم ارتش جمهوری اسلامی ایران",
    "fa": "🚨مهر: گزارشات از آماده باش کامل نیروی هوایی یکم ارتش جمهوری اسلامی ایران"
@@ -660,30 +655,20 @@
    "t": 1792263065.0,
    "n": "president trump i do not want to lose as your representative 90 billion for the privilege of allowing canada to have a healthcare system and other things that they shouldn t be having they spend our money very unwisely",
    "fa": "🇺🇸🇨🇦⚡️ — رئیس‌جمهور ترامپ: من به عنوان نماینده شما نمی‌خواهم ۹۰ میلیارد دلار را به خاطر امتیاز دادن به کانادا برای داشتن یک سیستم مراقبت بهداشتی و چیزهای دیگری که نباید داشته باشند، از دست بدهم. آنها پول ما را بسیار غیرهوشمندانه خرج می‌کنند."
+  },
+  {
+   "t": 1792263493.0,
+   "n": "ترامپ درباره ایران ما آن ها را به طور کامل شکست دادیم",
+   "fa": "⭕️ترامپ دربارهٔ ایران: ما آن‌ها را به‌طور کامل شکست دادیم"
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 141
+  "requests": 142
  },
- "flip": 743,
- "quote_n": 319,
+ "flip": 744,
+ "quote_n": 320,
  "signals": [
-  {
-   "t": 1792176990.627681,
-   "s": 4,
-   "p": 85
-  },
-  {
-   "t": 1792176994.1857026,
-   "s": 5,
-   "p": 90
-  },
-  {
-   "t": 1792177230.7462192,
-   "s": 3,
-   "p": 50
-  },
   {
    "t": 1792177574.6215153,
    "s": 4,
@@ -1493,6 +1478,11 @@
    "t": 1792263372.9601126,
    "s": 4,
    "p": 50
+  },
+  {
+   "t": 1792263692.1833208,
+   "s": 4,
+   "p": 70
   }
  ],
  "risk": {
