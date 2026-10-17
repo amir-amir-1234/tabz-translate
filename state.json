@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131931
+   "last_id": 131932
   },
   "TelNews_Magazine": {
-   "last_id": 101354
+   "last_id": 101355
   },
   "NE_WG": {
-   "last_id": 114772
+   "last_id": 114773
   }
  },
  "fails": {},
@@ -80,7 +80,8 @@
     "https://www.foxnews.com/world/pope-leo-xiv-discharged-hospital-return-vatican-surgery-remove-lung-cancer",
     "https://www.foxnews.com/world/vast-majority-irans-attempted-attacks-strait-hormuz-unsuccessful-centcom-spokesman-says",
     "https://www.foxnews.com/world/violence-erupts-france-protests-macron-warns-unrest-being-exploited",
-    "https://www.foxnews.com/world/former-us-ambassador-says-south-korea-prosecuted-him-over-speech-made-american-soil"
+    "https://www.foxnews.com/world/former-us-ambassador-says-south-korea-prosecuted-him-over-speech-made-american-soil",
+    "https://www.foxnews.com/world/three-men-158-years-murdering-american-australian-surfers-dumping-bodies-mexican-well"
    ]
   },
   "WSJ": {
@@ -359,11 +360,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792242006.0,
-   "n": "هلال احمر از شهید لاریجانی فقط یک دست سالم مانده بود که آن هم نصفه بود",
-   "fa": "⭕️هلال‌احمر :‌ از شهید لاریجانی فقط یک دست سالم مانده بود که آن هم نصفه بود"
-  },
   {
    "t": 1792242238.0,
    "n": "مجید ابن الرضا سرپرست وزارت دفاع در واکنش به اظهارات دونالد ترامپ رئیس جمهوری آمریکا درباره احتمال استفاده از بمب موسوم به مادر همه بمب ها علیه جمهوری اسلامی اعلام کرد نام و اندازه بمب های آمریکایی معادلات را تغییر نمی دهد او مدعی شد توانایی موشکی ما معادلات را تغییر داده است ابن الرضا شنبه 25 مهر در شبکه اجتماعی ایکس نوشت عناوین و ابعاد بمب ها اهمیتی ندارند بمب های شما جای دیگری منفجر می شوند در ",
@@ -658,25 +654,20 @@
    "t": 1792259011.0,
    "n": "senator ted cruz right now if you are a left wing transgender witch you hate donald trump",
    "fa": "🇺🇸⚡️ — سناتور تد کروز: همین الان، اگر شما یک جادوگر تراجنسیتی چپ‌گرا باشید، از دونالد ترامپ متفراید."
+  },
+  {
+   "t": 1792259178.0,
+   "n": "هم اکنون آمریکا همچنان به نقض حاکمیت هوایی عراق از پایگاه های خود در اردن ادامه می دهد هواپیما kc 135 شماره 1 1 فروند mq 9 2 فروند هواپیما mq 1",
+   "fa": "⭕️ ‏🇺🇸🇮🇶هم‌اکنون آمریکا همچنان به نقض حاکمیت هوایی عراق از پایگاه‌های خود در اردن ادامه می‌دهد. هواپیما (KC-135) شماره 1. 1 فروند MQ-9. 2 فروند هواپیما (MQ-1)."
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 124
+  "requests": 125
  },
- "flip": 717,
+ "flip": 718,
  "quote_n": 313,
  "signals": [
-  {
-   "t": 1792172796.1318052,
-   "s": 4,
-   "p": 50
-  },
-  {
-   "t": 1792172803.4129758,
-   "s": 2,
-   "p": 50
-  },
   {
    "t": 1792173097.3795023,
    "s": 3,
@@ -1466,6 +1457,11 @@
    "t": 1792259180.912378,
    "s": 4,
    "p": 30
+  },
+  {
+   "t": 1792259473.7263424,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
