@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108285
+   "last_id": 108286
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 101324
   },
   "NE_WG": {
-   "last_id": 114710
+   "last_id": 114711
   }
  },
  "fails": {},
@@ -567,13 +567,18 @@
    "t": 1792234141.0,
    "n": "ایران مجددا برای میانجیگری بین عربستان و یمن اعلام آمادگی کرد",
    "fa": "⭕️ایران مجددا برای میانجیگری بین عربستان و یمن اعلام آمادگی کرد"
+  },
+  {
+   "t": 1792235624.0,
+   "n": "over 100 people have been arrested in paris as protests continue across france according to bfmtv police sources estimate that 30 000 60 000 people are demonstrating in paris and 90 000 170 000 nationwide this saturday",
+   "fa": "🇫🇷⚡️ — بر اساس گزارش ب‌اف‌ام‌تی‌وی، در جریان ادامه اعتراضات در سراسر فرانسه، بیش از ۱۰۰ نفر در پاریس بازداشت شدند. منابع پلیس تخمین می‌زنند که ۳۰ هزار تا ۶۰ هزار نفر در پاریس و ۹۰ هزار تا ۱۷۰ هزار نفر در سراسر کشور در این روز شنبه تظاهرات می‌کنند."
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 54
+  "requests": 55
  },
- "flip": 655,
+ "flip": 656,
  "quote_n": 286,
  "signals": [
   {
