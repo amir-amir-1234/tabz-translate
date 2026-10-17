@@ -10,10 +10,10 @@
    "last_id": 131941
   },
   "TelNews_Magazine": {
-   "last_id": 101362
+   "last_id": 101363
   },
   "NE_WG": {
-   "last_id": 114783
+   "last_id": 114785
   }
  },
  "fails": {},
@@ -315,7 +315,8 @@
     "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
     "https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html",
     "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
-    "https://www.nytimes.com/2026/10/17/world/middleeast/egypt-president-el-sisi-term-limits-2030.html"
+    "https://www.nytimes.com/2026/10/17/world/middleeast/egypt-president-el-sisi-term-limits-2030.html",
+    "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html"
    ]
   },
   "Treasury": {
@@ -361,16 +362,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792252700.0,
-   "n": "مهر گزارشات از آماده باش کامل نیروی هوایی یکم ارتش جمهوری اسلامی ایران",
-   "fa": "🚨مهر: گزارشات از آماده باش کامل نیروی هوایی یکم ارتش جمهوری اسلامی ایران"
-  },
-  {
-   "t": 1792252774.0,
-   "n": "فارس آیفون های ۱۸ با برچسب عجیب غنیمت جنگی و قیمتی وسوسه انگیز راهی بازار تهران شده اند پلیس احتیاط کنید شاید پشت پرده این فروش زیر قیمت کلاهبرداران باشند",
-   "fa": "💢فارس: آیفون‌های ۱۸ با برچسب عجیب غنیمت جنگی و قیمتی وسوسه‌انگیز راهی بازار تهران شده‌اند پلیس: احتیاط کنید؛ شاید پشت‌پرده این فروش زیر قیمت، کلاهبرداران باشند."
-  },
   {
    "t": 1792252959.0,
    "n": "fox news if trump was watching right now what do you want to tell him maría corina machado oh many things first of all i would start by saying on behalf of the venezuelan people how grateful we are because taking maduro to face justice opened a great door for a path to freedom secondly we have to finish the task and i believe this is going to be his great legacy",
@@ -660,14 +651,24 @@
    "t": 1792263493.0,
    "n": "ترامپ درباره ایران ما آن ها را به طور کامل شکست دادیم",
    "fa": "⭕️ترامپ دربارهٔ ایران: ما آن‌ها را به‌طور کامل شکست دادیم"
+  },
+  {
+   "t": 1792263575.0,
+   "n": "israeli settlers attack palestinians and diplomats in west bank extremists assaulted residents and smashed a european diplomatic vehicle witnesses said as settler violence surges in the occupied territory during the annual olive harvest",
+   "fa": "🔴 حمله شهرک‌نشینان اسرائیلی به فلسطینیان و دیپلمات‌ها در کرانه باختری به گزارش نیویورک تایمز، به گفته شاهدان عینی، همزمان با اوج‌گیری خشونت شهرک‌نشینان در اراضی اشغالی در جریان فصل سالانه برداشت زیتون، افراط‌گرایان به ساکنان حمله کرده و یک خودروی دیپلماتیک اروپایی را درهم شکستند."
+  },
+  {
+   "t": 1792263806.0,
+   "n": "دونالد ترامپ وقتی به جمهوری اسلامی زیبای ایران سفر کردم و حسابی پدرشون رو درآوردیم",
+   "fa": "⭕️ دونالد ترامپ: «وقتی به جمهوری اسلامی زیبای ایران سفر کردم و حسابی پدرشون رو درآوردیم.»"
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 142
+  "requests": 144
  },
- "flip": 744,
- "quote_n": 320,
+ "flip": 746,
+ "quote_n": 321,
  "signals": [
   {
    "t": 1792177574.6215153,
@@ -1483,6 +1484,16 @@
    "t": 1792263692.1833208,
    "s": 4,
    "p": 70
+  },
+  {
+   "t": 1792263966.5864298,
+   "s": 3,
+   "p": 30
+  },
+  {
+   "t": 1792263972.9427514,
+   "s": 4,
+   "p": 50
   }
  ],
  "risk": {
