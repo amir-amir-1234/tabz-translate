@@ -7,7 +7,7 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131871
+   "last_id": 131872
   },
   "TelNews_Magazine": {
    "last_id": 101318
@@ -256,7 +256,8 @@
     "WP-WSJ-0003983926",
     "SB12199027810792643414104593512452726562838",
     "WP-WSJ-0003980087",
-    "WP-WSJ-0003984799"
+    "WP-WSJ-0003984799",
+    "WP-WSJ-0003968780"
    ]
   },
   "NYT": {
@@ -351,11 +352,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792186590.0,
-   "n": "president trump on the strait of hormuz how will the arab countries feel if we rename it the trump strait we will be able to pull that one easily",
-   "fa": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره تنگه هرمز: کشورهای عربی چه احساسی خواهند داشت اگر نام آن را به تنگه ترامپ تغییر دهیم؟ ما به راحتی می‌توانیم این کار را انجام دهیم."
-  },
   {
    "t": 1792186980.0,
    "n": "opinion the palestinians see through emmanuel macron the pa s abbas cancels elections again reneging on his pledge to france et al",
@@ -559,7 +555,7 @@
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 42
+  "requests": 43
  },
  "flip": 647,
  "quote_n": 282,
