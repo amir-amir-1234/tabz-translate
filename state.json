@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108296
+   "last_id": 108298
   },
   "khabarfouri": {
    "last_id": 569949
@@ -355,11 +355,6 @@
  },
  "recent": [
   {
-   "t": 1792195203.0,
-   "n": "the saudi led coalition says it destroyed two ballistic missile launchers in saada governorate houthi controlled yemen",
-   "fa": "🇸🇦❌🇾🇪 — ائتلاف تحت رهبری عربستان اعلام کرد دو پرتابگر موشک بالستیک را در استان صعده، در مناطق تحت کنترل حوثی‌ها در یمن، منهدم کرده است."
-  },
-  {
    "t": 1792197720.0,
    "n": "rerum novarum has obtained the names of the six saudi arabian soldiers killed in the ansarullah ballistic missile strike on the presidential palace in aden yemen on october 15th rayan ahmad ali al kinani al zahrani yahya madini al shaqibi awad jarad saeed al qarni salman hammad al harthi fayez saeed al qahtani wael al qarni heavy censorship prevented the identities of the six dead from being relea",
    "fa": "🇾🇪🇸🇦⚡️- رسانه رروم نوواروم اسامی شش سرباز عربستان سعودی را که در حمله موشکی بالستیک انصارالله به کاخ ریاست جمهوری در عدن یمن در تاریخ ۱۵ اکتبر کشته شدند، به دست آورده است. - ریان احمد علی الکنانی الزهرانی - یحیی مدینی الشقیبی - عوض جراد سعید القرنی - سلمان حماد الحارثی - فایز سعید القحطانی - وائل القرنی سانسور شدید مانع از انتشار هویت این شش کشته پس از حمله شده بود، اما اطلاعات به‌دست‌آمده توسط رر"
@@ -643,13 +638,18 @@
    "t": 1792238071.0,
    "n": "رضازاده عضو کمیسیون امنیت ملی فعلا با پیش دستی قطر و عمان مذاکراتی با آمریکا در حال انجام است این مذاکرات مستقیم و با وساطت این دو کشور همسایه انجام می شود منتظریم ببینیم آیا شرایطی که ما اعلام کرده ایم از طرف آمریکایی ها پذیرفته می شود یا خیر فکر نمی کنم دشمنان بخواهند مجددا تهاجمی داشته باشند",
    "fa": "🇮🇷🇺🇸🇧🇭🇴🇲رضازاده، عضو کمیسیون امنیت ملی:فعلاً با پیش‌دستی قطر و عمان، مذاکراتی با آمریکا در حال انجام است این مذاکرات، مستقیم و با وساطت این دو کشور همسایه انجام می‌شود منتظریم ببینیم آیا شرایطی که ما اعلام کرده‌ایم، از طرف آمریکایی‌ها پذیرفته می‌شود یا خیر فکر نمی‌کنم دشمنان‌ بخواهند مجدداً تهاجمی داشته باشند"
+  },
+  {
+   "t": 1792238284.0,
+   "n": "egypt s president el sisi no ill intentioned person traitor or criminal will assume responsibility in accordance with the constitutional provision i read we will not allow our country to be handed over to such people",
+   "fa": "🇪🇬⚡️ — عبدالفتاح السیسی، رئیس‌جمهور مصر: هیچ شخص بدطینت، خائن یا مجنونی بر اساس اصل قانون اساسی که خواندم مسئولیتی به عهده نخواهد گرفت. ما اجازه نخواهیم داد کشورمان به دست چنین افرادی سپرده شود."
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 63
+  "requests": 64
  },
- "flip": 668,
+ "flip": 669,
  "quote_n": 289,
  "signals": [
   {
