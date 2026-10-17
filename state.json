@@ -81,7 +81,8 @@
     "https://www.foxnews.com/world/vast-majority-irans-attempted-attacks-strait-hormuz-unsuccessful-centcom-spokesman-says",
     "https://www.foxnews.com/world/violence-erupts-france-protests-macron-warns-unrest-being-exploited",
     "https://www.foxnews.com/world/former-us-ambassador-says-south-korea-prosecuted-him-over-speech-made-american-soil",
-    "https://www.foxnews.com/world/three-men-158-years-murdering-american-australian-surfers-dumping-bodies-mexican-well"
+    "https://www.foxnews.com/world/three-men-158-years-murdering-american-australian-surfers-dumping-bodies-mexican-well",
+    "https://www.foxnews.com/world/limoges-town-hall-largely-lost-after-far-left-rioters-set-historic-building-fire-amid-french-unrest"
    ]
   },
   "WSJ": {
@@ -666,7 +667,7 @@
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 179
+  "requests": 180
  },
  "flip": 771,
  "quote_n": 331,
