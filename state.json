@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108341
+   "last_id": 108344
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 101355
   },
   "NE_WG": {
-   "last_id": 114776
+   "last_id": 114777
   }
  },
  "fails": {},
@@ -314,7 +314,8 @@
     "https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html",
     "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
     "https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html",
-    "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html"
+    "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
+    "https://www.nytimes.com/2026/10/17/world/middleeast/egypt-president-el-sisi-term-limits-2030.html"
    ]
   },
   "Treasury": {
@@ -360,21 +361,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792246677.0,
-   "n": "گلوبال آی اعلام کرد ارتش آمریکا ممکن است در 24 ساعت آینده به ایران حمله کند",
-   "fa": "⭕️ گلوبال آی اعلام کرد: ارتش آمریکا ممکن است در 24 ساعت آینده به ایران حمله کند‼️"
-  },
-  {
-   "t": 1792247118.0,
-   "n": "لحظاتی پیش یک هواپیمای ویژه حامل مقامات ارشد امنیتی امارات متحده عربی در تهران فرود آمد",
-   "fa": "🚨لحظاتی پیش یک هواپیمای ویژه حامل مقامات ارشد امنیتی امارات متحده عربی در تهران فرود آمد."
-  },
-  {
-   "t": 1792247720.0,
-   "n": "masked israeli settlers attacked a convoy of european diplomats from france belgium and poland during a visit to observe the olive harvest in the palestinian christian village of taybeh near ramallah in the occupied west bank settlers riding atvs surrounded the diplomatic vehicles demanded identification documents and threw stones a window of a belgian consular vehicle was smashed",
-   "fa": "🇮🇱❌🇵🇸🇪🇺 — شهرک‌نشینان نقاب‌دار اسرائیلی به کاروان دیپلمات‌های اروپایی از فرانسه، بلژیک و لهستان در جریان بازدید برای نظارت بر برداشت زیتون در روستای مسیحی‌نشین فلسطینی طیبه، در نزدیکی رام‌الله در کرانه باختری اشغالی، حمله کردند. شهرک‌نشینانی که سوار بر خودروهای همه‌جاهموار (ATV) بودند، وسایل نقلیه دیپلماتیک را محاصره کرده، مدارک شناسایی خواستند و به سمت آن‌ها سنگ پرتاب کردند. شیشه یک خودروی کنسولی"
-  },
   {
    "t": 1792247940.0,
    "n": "رئیس هلال احمر در ایام جنگ ما از هیچ کشوری کمک نخواستیم اما ۱۸ کشور خودشان داوطلبانه به ما کمک کردند روسیه ۳۱۳ تن داروی خوب فرستاد چین هند پاکستان تاجیکستان آذربایجان و عراق هم کمک کردند",
@@ -659,25 +645,30 @@
    "t": 1792260061.0,
    "n": "پزشکیان شیب مصرف انرژی کم شده بدون تنش اجتماعی داریم مصرف انرژی را مدیریت می کنیم مصرف بنزین درحال متعادل شدن است",
    "fa": "🎥پزشکیان: شیب مصرف انرژی کم شده بدون تنش اجتماعی داریم مصرف انرژی را مدیریت می‎کنیم؛ مصرف بنزین درحال متعادل‌شدن است."
+  },
+  {
+   "t": 1792260300.0,
+   "n": "the situation in paris is still extremely tense with violent clashes between the gendarme and police riot units against the protesters ongoing the protesters are now gearing up and reportedly are trying to reach the french presidential palace",
+   "fa": "🇫🇷⚡️ — وضعیت در پاریس همچنان بسیار متشنج است و درگیری‌های خشونت‌آمیزی بین یگان‌های ضدشورش ژاندارمری و پلیس با معترضان در جریان است. معترضان در حال حاضر تجهیز شده و گزارش شده است که تلاش می‌کنند خود را به کاخ ریاست‌جمهوری فرانسه برسانند."
+  },
+  {
+   "t": 1792260323.0,
+   "n": "دادستان تهران روغن و لاستیک ماشین مستقیما به مردم عرضه می شود ۳۰۰ نقطه از ابتدای ماه آبان به صورت مستقیم لاستیک و روغن موتور را در تهران عرضه خواهند کرد",
+   "fa": "🎥 دادستان تهران: روغن و لاستیک ماشین مستقیما به مردم عرضه می‌شود ۳۰۰ نقطه از ابتدای ماه آبان به‌صورت مستقیم لاستیک و روغن‌موتور را در تهران عرضه خواهند کرد."
+  },
+  {
+   "t": 1792260413.0,
+   "n": "egypt s president says he will leave office in 2030 president abdel fattah el sisi who has so far ruled for over a dozen years pledged to respect constitutional limits while also seeking parliamentary approval to help defend saudi arabia",
+   "fa": "🔴 رئیس‌جمهور مصر اعلام کرد در سال ۲۰۳۰ از مقام خود کناره‌گیری خواهد کرد به گزارش نیویورک تایمز رئیس‌جمهور عبدالفتاح السیسی که تاکنون بیش از یک دهه حکومت کرده است، متعهد شد که به محدودیت‌های قانون اساسی احترام بگذارد و در عین حال به دنبال کسب موافقت پارلمان برای کمک به دفاع از عربستان سعودی است."
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 128
+  "requests": 130
  },
- "flip": 724,
- "quote_n": 315,
+ "flip": 727,
+ "quote_n": 316,
  "signals": [
-  {
-   "t": 1792173981.1325827,
-   "s": 3,
-   "p": 30
-  },
-  {
-   "t": 1792173984.6831868,
-   "s": 4,
-   "p": 70
-  },
   {
    "t": 1792174280.9571702,
    "s": 4,
@@ -1467,6 +1458,16 @@
    "t": 1792260373.518616,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792260568.0023959,
+   "s": 3,
+   "p": 30
+  },
+  {
+   "t": 1792260571.4437506,
+   "s": 4,
+   "p": 40
   }
  ],
  "risk": {
