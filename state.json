@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108359
+   "last_id": 108360
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131938
+   "last_id": 131939
   },
   "TelNews_Magazine": {
-   "last_id": 101360
+   "last_id": 101361
   },
   "NE_WG": {
-   "last_id": 114780
+   "last_id": 114782
   }
  },
  "fails": {},
@@ -362,11 +362,6 @@
  },
  "recent": [
   {
-   "t": 1792251912.0,
-   "n": "the saudi led coalition says it intercepted and destroyed four drones over the riyadh eastern and southern regions of saudi arabia in recent hours",
-   "fa": "🔄 به‌روزرسانی 🇸🇦❌🇾🇪 — ائتلاف تحت رهبری عربستان اعلام کرد که در ساعات اخیر چهار پهپاد را بر فراز ریاض و مناطق شرقی و جنوبی عربستان رهگیری و منهدم کرده است."
-  },
-  {
    "t": 1792252065.0,
    "n": "israeli foreign minister gideon sa ar has condemned what he described as severe violence by israeli rioters in the taybeh area saying police have opened an investigation and forensic teams are collecting evidence sa ar said the foreign ministry is coordinating with the ambassadors of the countries concerned to assist law enforcement while adding that prior coordination with the idf could have help",
    "fa": "🔄 به‌روزرسانی 🇮🇱🇵🇸🇪🇺⚡️ — گیدعون ساعر، وزیر خارجه اسرائیل، خشونت شدید شهرک‌نشینان در منطقه الطیبه را محکوم کرد و گفت پلیس تحقیقاتی را آغاز کرده و تیم‌های پزشکی قانونی در حال جمع‌آوری ادله هستند. ساعر افزود که وزارت خارجه با سفرای کشورهای مربوطه برای کمک به اجرای قانون هماهنگی می‌کند و هماهنگی قبلی با ارتش می‌توانسته به محافظت از بازدیدکنندگان کمک کند."
@@ -660,20 +655,20 @@
    "t": 1792262647.0,
    "n": "president trump google wouldn t have taken my call in the first term now they kiss my ass",
    "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ: گوگل در دور اول تماس من را پاسخ نمی‌داد. حالا آن‌ها التماس مرا می‌کنند."
+  },
+  {
+   "t": 1792262983.0,
+   "n": "french interior minister laurent nuñez says 550 000 people took part in 110 demonstrations across france on saturday including 110 000 in paris organisers put the nationwide turnout at 800 000 nuñez also reported 400 arrests and 60 security personnel injured during the protests",
+   "fa": "🔄 به‌روزرسانی 🇫🇷⚡️ — لوران نونِس، وزیر کشور فرانسه، می‌گوید ۵۵۰ هزار نفر در روز شنبه در ۱۱۰ تظاهرات در سراسر فرانسه از جمله ۱۱۰ هزار نفر در پاریس شرکت کردند. برگزارکنندگان تعداد کل شرکت‌کنندگان در سراسر کشور را ۸۰۰ هزار نفر اعلام کردند. نونِس همچنین از ۴۰۰ مورد بازداشت و مصدومیت ۶۰ نفر از نیروهای امنیتی در جریان اعتراضات خبر داد."
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 139
+  "requests": 140
  },
- "flip": 741,
+ "flip": 742,
  "quote_n": 319,
  "signals": [
-  {
-   "t": 1792176379.926446,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1792176691.7918205,
    "s": 3,
