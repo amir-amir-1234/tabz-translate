@@ -10,7 +10,7 @@
    "last_id": 131954
   },
   "TelNews_Magazine": {
-   "last_id": 101370
+   "last_id": 101372
   },
   "NE_WG": {
    "last_id": 114800
@@ -364,11 +364,6 @@
  },
  "recent": [
   {
-   "t": 1792256695.0,
-   "n": "the uae has agreed to resume funding anti houthi forces in yemen marking its return to the conflict after withdrawing support in january according to the guardian under a new agreement the uae will restore payments to forces aligned with yemen s plc government particularly the uae trained giants brigades while saudi arabia will provide air cover",
-   "fa": "🇦🇪🇸🇦🇾🇪❌🇾🇪 — به گزارش گاردین، امارات متحده عربی موافقت کرده است که تامین مالی نیروهای ضدحوثی در یمن را از سر بگیرد و با این اقدام، پس از قطع حمایت‌ها در ماه ژانویه، به درگیری‌ها بازمی‌گردد. بر اساس توافق جدید، امارات پرداخت‌ها به نیروهای همسو با دولت شورای رهبری ریاست‌جمهوری یمن، به‌ویژه تیپ‌های غول‌پیکر (العمایق) آموزش‌دیده توسط امارات را احیا خواهد کرد، در حالی که عربستان سعودی پوشش هوایی را فراه"
-  },
-  {
    "t": 1792256711.0,
    "n": "کارشناس صداوسیما فرانسه علیه دانش آموزان دو مدل سلاح کشنده و نیمه کشنده استفاده می کند",
    "fa": "⭕️کارشناس صداوسیما: فرانسه علیه دانش آموزان دو مدل سلاح کشنده و نیمه‌کشنده استفاده می‌کند"
@@ -662,25 +657,20 @@
    "t": 1792268750.0,
    "n": "ansarallah announced shooting down a royal saudi land forces ah 64 apache attack helicopter off the coast of najran southwestern ksa as it was conducting a strike against ansarallah border positions",
    "fa": "🇾🇪❌🇸🇦 — انصارالله اعلام کرد یک فروند هلیکوپتر تهاجمی آپاچی AH-64 نیروی زمینی پادشاهی سعودی را در سواحل نجران، در جنوب غربی عربستان، در حالی که در حال انجام عملیات تهاجمی علیه مواضع مرزی انصارالله بود، سرنگون کرده است."
+  },
+  {
+   "t": 1792269528.0,
+   "n": "مکرون وضعیت فعلی دیگه اسمش اعتراض نیست بزودی با کسایی که کشور و اماکن رو اتیش زدن برخورد میکنم",
+   "fa": "⭕️مکرون: وضعیت فعلی دیگه اسمش اعتراض نیست، بزودی با کسایی که کشور و اماکن رو اتیش زدن برخورد میکنم"
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 162
+  "requests": 163
  },
- "flip": 754,
- "quote_n": 324,
+ "flip": 755,
+ "quote_n": 325,
  "signals": [
-  {
-   "t": 1792182987.7457547,
-   "s": 3,
-   "p": 20
-  },
-  {
-   "t": 1792182992.027714,
-   "s": 4,
-   "p": 40
-  },
   {
    "t": 1792183876.7661612,
    "s": 5,
