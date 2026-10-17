@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108283
+   "last_id": 108284
   },
   "khabarfouri": {
    "last_id": 569949
@@ -351,11 +351,6 @@
  },
  "recent": [
   {
-   "t": 1792174790.0,
-   "n": "elon musk personally proposed restricting ukraine s starshield satellite communications system to president trump who agreed to the plan according to the telegraph citing four sources the restrictions capped ukrainian drones using starshield at around 160 km h severely limiting their ability to intercept faster russian drones and missiles musk publicly denied responsibility for the restrictions cl",
-   "fa": "🔄 به‌روزرسانی 🇺🇸🇺🇦⚡️ — به گزارش روزنامه تلگراف به نقل از چهار منبع، ایلان ماسک شخصاً پیشنهاد محدود کردن سیستم ارتباط ماهواره‌ای استارشیلد اوکراین را به رئیس‌جمهور ترامپ ارائه کرد و ترامپ با این طرح موافقت نمود. این محدودیت‌ها سرعت پهپادهای اوکراینی استفاده‌کننده از استارشیلد را به حدود ۱۶۰ کیلومتر در ساعت کاهش داد و توانایی آن‌ها را برای رهگیری پهپادها و موشک‌های سریع‌تر روسی به شدت محدود کرد. ماس"
-  },
-  {
    "t": 1792174801.0,
    "n": "رسانه های عبری اسرائیل برای راند بعدی جنگ کامل آماده شده",
    "fa": "🇮🇱🇮🇷🚨رسانه های عبری: اسرائیل برای راند بعدی جنگ کامل آماده شده"
@@ -649,11 +644,16 @@
    "t": 1792202400.0,
    "n": "iran is giving houthis targeting and intelligence for attacks on saudi arabia tehran s support is helping the yemeni group mount its most potent attacks yet on the kingdom",
    "fa": "🔴 کمک‌های اطلاعاتی و هدف‌گذاری ایران به حوثی‌ها برای حملات به عربستان به گزارش وال‌استریت ژورنال، ایران اطلاعات و داده‌های مربوط به هدف‌گیری را در اختیار گروه یمنی قرار می‌دهد تا به حملات علیه عربستان سعودی کمک کند. حمایت‌های تهران به این گروه یمنی کمک می‌کند تا قوی‌ترین حملات خود را تاکنون علیه این پادشاهی انجام دهد."
+  },
+  {
+   "t": 1792203146.0,
+   "n": "irgc navy announces an oil tanker was struck by a sea mine in the strait of hormuz oil can be seen leaking in footage attributed to the struck tanker",
+   "fa": "🇮🇷⚡️ — نیروی دریایی سپاه پاسداران اعلام کرد یک فروند نفتکش در تنگه هرمز با یک مین دریایی برخورد کرده است. در ویدئوی منتسب به نفتکش آسیب‌دیده، نشت نفت به وضوح دیده می‌شود."
   }
  ],
  "usage": {
   "date": "2026-10-17",
-  "requests": 5
+  "requests": 6
  },
  "flip": 627,
  "quote_n": 272,
@@ -1267,19 +1267,24 @@
    "t": 1792202766.6613827,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1792203370.8456428,
+   "s": 5,
+   "p": 90
   }
  ],
  "risk": {
   "base": 59,
-  "ts": 1792193487.4976923,
+  "ts": 1792203373.8472445,
   "attack": false,
-  "n": 118,
+  "n": 123,
   "shares": {
    "1": 0,
    "2": 3,
-   "3": 31,
-   "4": 51,
-   "5": 14
+   "3": 30,
+   "4": 52,
+   "5": 15
   }
  },
  "attack_ts": 0.0,
