@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108399
+   "last_id": 108400
   },
   "khabarfouri": {
    "last_id": 569949
@@ -367,11 +367,6 @@
  },
  "recent": [
   {
-   "t": 1792262099.0,
-   "n": "israeli prime minister netanyahu on iran the opposition candidate opposed the idea of attacking iran he said it was a mistake he said we had to learn to live with a nuclear iran i will never live with a nuclear iran i have dedicated my life and i will dedicate my next term as well god willing if i am elected to ensuring once and for all that this does not happen",
-   "fa": "🇮🇱🇮🇷⚡️ — نخست‌وزیر اسرائیل، نتانیاهو درباره ایران: نامزد اپوزیسیون با ایده حمله به ایران مخالفت کرد. او گفت این یک اشتباه بود. او گفت ما باید یاد بگیریم با یک ایران هسته‌ای زندگی کنیم. من هرگز با یک ایران هسته‌ای زندگی نخواهم کرد. من زندگی خود را وقف کرده‌ام، و دوره بعدی خود را نیز، ان‌شاءالله اگر انتخاب شوم، وقف خواهم کرد تا یک بار برای همیشه اطمینان حاصل کنم که این اتفاق نمی‌افتد."
-  },
-  {
    "t": 1792262176.0,
    "n": "israeli prime minister netanyahu on iran the question isn t how to do it because i can t detail everything the question is who will do it that s the question in these elections the only person who will do it is me",
    "fa": "🇮🇱🇮🇷⚡️ — نخست‌وزیر اسرائیل، نتانیاهو درباره ایران: مسئله این نیست که چگونه این کار را انجام دهیم، زیرا من نمی‌توانم همه چیز را جزئیات بگویم. مسئله این است: چه کسی این کار را انجام خواهد داد؟ این سوال در این انتخابات است. تنها کسی که این کار را انجام خواهد داد من هستم."
@@ -665,13 +660,18 @@
    "t": 1792296287.0,
    "n": "قطر میانجی گری میان ایران و آمریکا ادامه دارد سخنگوی وزارت امور خارجه قطر تلاش های میانجی گرانه میان آمریکا و ایران همچنان ادامه دارد دو طرف با وجود چالش های جدی به تبادل دیدگاه ها و پیشنهادها می پردازند کشورهای حاشیه حاشیه خلیج فارس دیپلماسی را ترجیح می دهند اما توانایی دفاع از خود را دارند و هدف قرار گرفتن بدون پاسخ بازدارنده را نمی پذیرند هدف از نشست صلاله بازگشایی موقت تنگه هرمز تا زمان دستیاب",
    "fa": "🇶🇦🇺🇸🇮🇷قطر: میانجی‌گری میان ایران و آمریکا ادامه دارد 💢سخنگوی وزارت امور خارجه قطر: تلاش‌های میانجی‌گرانه میان آمریکا و ایران همچنان ادامه دارد. دو طرف با وجود چالش‌های جدی، به تبادل دیدگاه‌ها و پیشنهادها می‌پردازند. کشورهای حاشیه حاشیه خلیج فارس دیپلماسی را ترجیح می‌دهند، اما توانایی دفاع از خود را دارند و هدف قرار گرفتن بدون پاسخ بازدارنده را نمی‌پذیرند. هدف از نشست صلاله، بازگشایی موقت تنگه هرمز"
+  },
+  {
+   "t": 1792297066.0,
+   "n": "vice president jd vance on the riots in france western liberals imported the third world into france and other countries in the name of diversity and compassion they ignored fundamental questions of assimilation and compatibility they were told it would lead to this and they didn t listen i pray that france a beautiful country of amazing people will stop this madness before more of its landmarks b",
+   "fa": "🇺🇸🇫🇷⚡️ — جی‌دی ونس، معاون رئیس‌جمهور آمریکا درباره شورش‌ها در فرانسه: لیبرال‌های غربی جهان سوم را به نام تنوع و شفقت به فرانسه و دیگر کشورها وارد کردند. آن‌ها سوالات اساسی درباره همگون‌سازی و سازگاری را نادیده گرفتند. به آن‌ها گفته شده بود که کار به اینجا خواهد کشید و گوش ندادند. من دعا می‌کنم که فرانسه، کشوری زیبا با مردمی شگفت‌انگیز، پیش از سوختن بیشتر آثار باستانی‌اش، این جنون را متوقف کند. و ا"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 18
+  "requests": 19
  },
- "flip": 787,
+ "flip": 788,
  "quote_n": 337,
  "signals": [
   {
