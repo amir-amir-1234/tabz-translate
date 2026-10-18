@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108410
+   "last_id": 108413
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131998
+   "last_id": 131999
   },
   "TelNews_Magazine": {
    "last_id": 101400
   },
   "NE_WG": {
-   "last_id": 114849
+   "last_id": 114850
   }
  },
  "fails": {},
@@ -370,21 +370,6 @@
  },
  "recent": [
   {
-   "t": 1792285493.0,
-   "n": "دقایقی قبل زلزله ۳ ۴ ریشتری در بومهن شرق تهران",
-   "fa": "🚨دقایقی قبل زلزله ۳.۴ ریشتری در بومهن، شرق تهران"
-  },
-  {
-   "t": 1792285930.0,
-   "n": "pro plc media announced the killing of three houthis ansarallah officers in taiz identified as major general muhyiddin al shami the commander of an unnamed special force brigade major general kamal al rajali major general tareq al sharif",
-   "fa": "🇾🇪❌🇾🇪 — رسانه‌های وابسته به دولت نجات ملی (PLC) از کشته شدن سه افسر ارشد حوثی (انصارالله) در تعز خبر دادند: سرلشکر محی الدین الشامی، فرمانده یک تیپ نیروی ویژه سرلشکر کمال الرجالی سرلشکر طارق الشریف"
-  },
-  {
-   "t": 1792289216.0,
-   "n": "a fire occured at cfb wainwright canada initial reporting indicates the fire started at the training area and spread beyond the site to other areas of the base medevac helicopters and firefighting helicopters active a mass casualty incident is reported at the base with an emergency coordination center being set up and residents advised to avoid visiting the wainwright heath centre unless there s a",
-   "fa": "🇨🇦⚡️ — آتش‌سوزی در پایگاه نیروهای مسلح کانادا در وین‌رایت رخ داد. گزارش‌های اولیه حاکی از آن است که آتش‌سوزی در منطقه آموزشی آغاز شده و به سایر نقاط پایگاه سرایت کرده است. هلیکوپترهای امداد هوایی و آتش‌نشانی در حال فعالیت هستند. گزارش‌هایی از تلفات انبوه در این پایگاه منتشر شده و یک مرکز هماهنگی اضطراری راه‌اندازی شده است. به ساکنان توصیه شده است تا زمانی که «نیاز پزشکی بحرانی» وجود ندارد، از مراج"
-  },
-  {
    "t": 1792289455.0,
    "n": "ukrainian uavs have managed to strike multiple locations in st petersburg the port petroleum processing terminal a vk data centre the vostochnaya substation leading to power outages in eastern districts of the city multiple bridges such as the kipolovo canal bridge the raid on the city is ongoing with a further 30 uavs approaching the area",
    "fa": "🇺🇦پهپادهای اوکراینی موفق شدند چندین نقطه را در سن‌پترزبورگ هدف قرار دهند: - پایانه پالایش نفت پورت - یک مرکز داده وی‌کی (VK) - ایستگاه برق فرعی وستوچنایا (که منجر به قطعی برق در مناطق شرقی شهر شده است) - چندین پل از جمله پل کانال کیپولوکو حمله به شهر همچنان ادامه دارد و ۳۰ پهپاد دیگر در حال نزدیک شدن به منطقه هستند."
@@ -668,30 +653,30 @@
    "t": 1792320490.0,
    "n": "10 minutes ago alerts were activated in as sulayyil governorate and najran city saudi arabia",
    "fa": "🇾🇪❌🇸🇦 — ۱۰ دقیقه پیش، آژیرهای هشدار در استان السلیل و شهر نجران در عربستان سعودی به صدا درآمدند."
+  },
+  {
+   "t": 1792320585.0,
+   "n": "french president emmanuel macron will address the nation at 8 pm local time amid the nationwide riots",
+   "fa": "🇫🇷⚡️ — امانوئل مکرون، رئیس‌جمهور فرانسه، امشب ساعت ۲۰ به وقت محلی در میان ناآرامی‌های سراسری با مردم این کشور سخنرانی خواهد کرد."
+  },
+  {
+   "t": 1792320782.0,
+   "n": "host the war in iran has gone on much longer than i think a lot of people expected i have really just one big question on iran why haven t we won decisively vp jd vance in some ways we have won decisively but the iranians you know the enemy gets a vote here and they have responded in certain ways",
+   "fa": "🇺🇸🇮🇷⚡️ — مجری: جنگ با ایران خیلی طولانی‌تر از چیزی شده که فکر می‌کنم خیلی‌ها انتظار داشتند. من واقعاً فقط یک سوال بزرگ درباره ایران دارم: چرا قاطعانه پیروز نشده‌ایم؟ معاون رئیس‌جمهور جی‌دی ونس: از برخی جهات، ما قاطعانه پیروز شده‌ایم، اما ایرانی‌ها... می‌دانید، دشمن هم در این معادله رای دارد و آنها به شیوه‌های خاصی واکنش نشان داده‌اند."
+  },
+  {
+   "t": 1792320846.0,
+   "n": "vice president jd vance gas prices are too high they would be three times as high if it weren t for the united states navy keeping oil and gas moving out of the strait of hormuz if we just give up and we walk away and say oh we destroyed their nuclear program who cares energy prices are going to go way up",
+   "fa": "🇺🇸🇮🇷⚡️ — جی‌دی ونس، معاون رئیس‌جمهور آمریکا: قیمت بنزین خیلی بالا است. اگر نیروی دریایی ایالات متحده نفت و گاز را از تنگه هرمز خارج نمی‌کرد، قیمت‌ها سه برابر بیشتر بود. اگر تسلیم شویم، کنار بکەیم و بگوییم «آه، ما برنامه هسته‌ای آنها را نابود کردیم. چه اهمیتی دارد؟»، قیمت انرژی به شدت بالا خواهد رفت."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 67
+  "requests": 68
  },
- "flip": 819,
+ "flip": 822,
  "quote_n": 348,
  "signals": [
-  {
-   "t": 1792234268.4439576,
-   "s": 2,
-   "p": 50
-  },
-  {
-   "t": 1792234272.7527459,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1792234276.1550014,
-   "s": 1,
-   "p": 50
-  },
   {
    "t": 1792236070.2460082,
    "s": 3,
@@ -1476,6 +1461,16 @@
    "t": 1792320689.4591193,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1792320976.3691046,
+   "s": 4,
+   "p": 60
+  },
+  {
+   "t": 1792320984.7994227,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
