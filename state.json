@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108398
+   "last_id": 108399
   },
   "khabarfouri": {
    "last_id": 569949
@@ -367,11 +367,6 @@
  },
  "recent": [
   {
-   "t": 1792261723.0,
-   "n": "israeli prime minister netanyahu they explicitly declare that they want to eliminate me incidentally they want to eliminate other senior officials as well we will do everything necessary until now we ve eliminated them they haven t eliminated us",
-   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل بنیامین نتانیاهو: آن‌ها صراحتاً اعلام می‌کنند که می‌خواهند مرا حذف کنند. اتفاقاً آن‌ها می‌خواهند مقامات ارشد دیگر را نیز حذف کنند. ما هر کار لازم را انجام خواهیم داد. تا کنون، ما آن‌ها را حذف کرده‌ایم. آن‌ها ما را حذف نکرده‌اند."
-  },
-  {
    "t": 1792261792.0,
    "n": "israeli prime minister netanyahu the opposition will cancel all our tremendous achievements establish a palestinian state withdraw from all the security zones give in to every pressure and certainly not prevent iran from acquiring nuclear weapons once and for all",
    "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل بنیامین نتانیاهو: اپوزیسیون تمام دستاوردهای فوق‌العاده ما را لغو خواهد کرد، یک کشور فلسطینی تشکیل خواهد داد، از تمام مناطق امنیتی عقب‌نشینی خواهد کرد، در برابر هر فشاری تسلیم خواهد شد و قطعاً مانع از دستیابی ایران به سلاح هسته‌ای برای همیشه نخواهد شد."
@@ -665,13 +660,18 @@
    "t": 1792295263.0,
    "n": "reporter what will be the central issue in the upcoming elections from your perspective ben gvir i think the central issue is encouraging emigration i want to be defense minister in order to encourage emigration",
    "fa": "🇮🇱⚡️ — خبرنگار: از منظر شما موضوع اصلی در انتخابات پیش‌رو چه خواهد بود؟ بن‌گویر: فکر می‌کنم موضوع اصلی تشویق مهاجرت [فلسطینیان] است. من می‌خواهم وزیر دفاع شوم تا مهاجرت را تشویق کنم."
+  },
+  {
+   "t": 1792295625.0,
+   "n": "israel s national security minister ben gvir what s happening right now is that they want to push me out benjamin netanyahu doesn t want me to be national security minister he doesn t want me to be defense minister what will they let us have the tourism ministry i m saying this to netanyahu you know i love you",
+   "fa": "🇮🇱⚡️ — وزیر امنیت داخلی اسرائیل، بن‌گویر: آنچه در حال حاضر رخ می‌دهد این است که آن‌ها می‌خواهند مرا بیرون برانند. بنیامین نتانیاهو نمی‌خواهد من وزیر امنیت داخلی باشم. او نمی‌خواهد من وزیر دفاع باشم. آن‌ها چه چیزی را به ما واگذار خواهند کرد؟ وزارت گردشگری؟ من این را به نتانیاهو می‌گویم: تو می‌دانی که من دوستت دارم."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 16
+  "requests": 17
  },
- "flip": 785,
+ "flip": 786,
  "quote_n": 336,
  "signals": [
   {
@@ -1462,6 +1462,11 @@
   {
    "t": 1792295483.3454862,
    "s": 4,
+   "p": 40
+  },
+  {
+   "t": 1792295765.9265068,
+   "s": 3,
    "p": 40
   }
  ],
