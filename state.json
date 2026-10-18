@@ -7,7 +7,7 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132001
+   "last_id": 132002
   },
   "TelNews_Magazine": {
    "last_id": 101401
@@ -371,11 +371,6 @@
  },
  "recent": [
   {
-   "t": 1792291002.0,
-   "n": "ukrainian uav strike against a data center belonging to russian social media network vkontakte in saint petersburg russia has caused a large scale disruption in connectivity to the social media service connectivity is currently at 56 of normal levels",
-   "fa": "🔄 به‌روزرسانی 🇺🇦🇷🇺⚡️ — حمله پهپادی اوکراین به یک مرکز داده متعلق به شبکه اجتماعی روسی وی‌کی در سن‌پترزبورگ روسیه، باعث اختلال گسترده‌ای در اتصال به این سرویس اجتماعی شده است. در حال حاضر میزان اتصال به ۵۶ درصد سطح عادی رسیده است."
-  },
-  {
    "t": 1792293282.0,
    "n": "israeli defense minister katz the achievements are dramatic in gaza we have achieved our objectives 70 80 of gaza is destroyed the same is true in southern lebanon",
    "fa": "🇮🇱❌🇵🇸🇱🇧 — وزیر دفاع اسرائیل، یسرائیل کاتز: دستاوردهای ما چشمگیر است. در غزه به اهداف خود رسیده‌ایم. ۷۰ تا ۸۰ درصد غزه ویران شده است. همین وضعیت در جنوب لبنان نیز صادق است."
@@ -669,13 +664,18 @@
    "t": 1792322040.0,
    "n": "iran s parliament approved mehrdad akhlaqi ketabchi as the country s new defense minister today ending months of interim leadership following the killing of former minister aziz nasirzadeh in u s israeli strikes in february akhlaqi a longtime defense industry official with experience in iran s aerospace and missile programs replaces acting minister majid ebn al reza the new minister pledged to reb",
    "fa": "🔄 به‌روزرسانی 🇮🇷⚡️ — مجلس ایران امروز مهرداد اخلاقی کتابچی را به عنوان وزیر دفاع جدید این کشور تأیید کرد و به ماه‌ها سرپرستی پس از کشته شدن عزیز نصیرزاده، وزیر سابق، در حملات ایالات متحده و اسرائیل در ماه فوریه پایان داد. اخلاقی، از مقامات دیرینه صنعت دفاعی با تجربه در برنامه‌های هوافضا و موشکی ایران، جایگزین مجید ابن‌الرضا، وزیر سرپرست شد. وزیر جدید متعهد شد زیرساخت‌های نظامی-صنعتی ایران را بازسا"
+  },
+  {
+   "t": 1792322341.0,
+   "n": "عراقچی طرح ایران برای باز شدن تنگه هرمز همچنان روی میز است",
+   "fa": "🇺🇸🇮🇷عراقچی: طرح ایران برای باز شدن تنگه هرمز همچنان روی میز است"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 73
+  "requests": 74
  },
- "flip": 824,
+ "flip": 825,
  "quote_n": 349,
  "signals": [
   {
@@ -1477,6 +1477,11 @@
    "t": 1792322172.3836474,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1792322475.275526,
+   "s": 2,
+   "p": 50
   }
  ],
  "risk": {
