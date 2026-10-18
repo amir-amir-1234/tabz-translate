@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108513
+   "last_id": 108514
   },
   "khabarfouri": {
    "last_id": 569949
@@ -88,7 +88,8 @@
     "https://www.foxnews.com/world/pope-leo-welcomed-back-delivers-angelus-prayer-days-after-lung-cancer-surgery",
     "https://www.foxnews.com/world/meloni-condemns-gangs-thugs-after-protests-turned-violent-across-italy",
     "https://www.foxnews.com/world/wheres-macron-french-leader-blasted-attending-concert-riots-escalated",
-    "https://www.foxnews.com/world/canadian-pm-carney-4-service-members-killed-dozens-injured-military-base-fire"
+    "https://www.foxnews.com/world/canadian-pm-carney-4-service-members-killed-dozens-injured-military-base-fire",
+    "https://www.foxnews.com/world/french-newspaper-rips-macron-riots-erupt-across-france-indelible-stain"
    ]
   },
   "WSJ": {
@@ -384,16 +385,6 @@
  },
  "recent": [
   {
-   "t": 1792340776.0,
-   "n": "israeli prime minister netanyahu and by the way even in europe you wouldn t believe it those who criticize and malign us come to me privately and whisper listen prime minister perhaps we could get some assistance from you with this or that and i tell them your actions will either bring you closer to us or push you away from us",
-   "fa": "🇮🇱🇪🇺⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: و اتفاقاً، حتی در اروپا، باورتان نمی‌شود. کسانی که از ما انتقاد می‌کنند و به بدگویی می‌پردازند، خصوصی نزد من می‌آیند و پچ‌پچ‌کنان می‌گویند: «گوش کن، آقای نخست‌وزیر، شاید بتوانیم در این یا آن مورد کمکی از شما دریافت کنیم.» و من به آن‌ها می‌گویم: «اعمال شما یا شما را به ما نزدیک‌تر می‌کند یا از ما دورتر.»"
-  },
-  {
-   "t": 1792340873.0,
-   "n": "israeli prime minister netanyahu finance ministers and heads of state come to me and ask how do you do it how do you do it we do it because i know how to manage the economy",
-   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: وزیران دارایی و سران کشورها نزد من می‌آیند و می‌پرسند: «چگونه این کار را انجام می‌دهید؟ چگونه این کار را انجام می‌دهید؟» ما این کار را انجام می‌دهیم چون من بلد هستم اقتصاد را مدیریت کنم."
-  },
-  {
    "t": 1792341080.0,
    "n": "u s officials condemn west bank attacks as netanyahu casts doubt on them prime minister benjamin netanyahu of israel has downplayed accounts of recent extremist attacks on palestinians in the west bank amid the annual olive harvest",
    "fa": "⭕️ واکنش مقامات آمریکایی به حملات در کرانه باختری و ابراز تردید نتانیاهو به گزارش نیویورک تایمز بنیامین نتانیاهو نخست‌وزیر اسرائیل گزارش‌های مربوط به حملات افراط‌گرایان اخیر علیه فلسطینیان در کرانه باختری را در جریان فصل سالانه برداشت زیتون کم‌اهمیت جلوه داده است در حالی که مقامات آمریکایی این حملات را محکوم کرده‌اند."
@@ -682,20 +673,25 @@
    "t": 1792356699.0,
    "n": "iranian foreign minister abbas araghchi last time you wanted to finish the job iran emerged even stronger want to try your luck again be our guest but be careful we have unfinished jobs too netanyahu is driving america into another war to stay out of jail whatever the consequences for israel let alone potus",
    "fa": "🇮🇷🇮🇱🇺🇸⚡️ — وزیر امور خارجه ایران، عباس عراقچی: دفعه پیش که می‌خواستید «کار را تمام کنید»، ایران حتی قوی‌تر ظاهر شد. می‌خواهید دوباره شانستان را امتحان کنید؟ بفرمایید. اما مراقب باشید؛ ما هم کارهای ناتمامی داریم. Netanyahu نتانیاهو آمریکا را به جنگ دیگری می‌کشاند تا از زندان دور بماند، هر پیامدی که برای اسرائیل داشته باشد — چه رسد به رئیس‌جمهور ایالات متحده."
+  },
+  {
+   "t": 1792356843.0,
+   "n": "french newspaper rips macron after riots erupt across france indelible stain a prominent french newspaper delivered a blistering critique of the country s leadership after nationwide protests descended into riots looting and arson the article written by vincent trémolet de villers for the conservative newspaper le figaro and published sunday afternoon local time blamed years of political failures ",
+   "fa": "🔴 انتقاد شدید روزنامه فرانسوی از مکرون و سیاست‌های دولت پس از آغاز شورش‌ها به گزارش فاکس نیوز یک روزنامه برجسته فرانسوی پس از تبدیل شدن اعتراضات سراسری به شورش، غارت و آتش‌سوزی، انتقاد تندی را متوجه رهبری این کشور کرد. این مقاله که توسط ونسان ترموله دو ویلر برای روزنامه محافظه‌کار فیگارو نوشته شده و عصر یکشنبه به وقت محلی انتشار یافت، سال‌ها شکست سیاسی را مقصر بروز ناآرامی‌ها دانست و به‌ویژه امانو"
+  },
+  {
+   "t": 1792357456.0,
+   "n": "explosions in konorak southeastern iran",
+   "fa": "🇮🇷⚡️ — گزارش انفجار در کنارک در جنوب شرقی ایران."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 176
+  "requests": 178
  },
- "flip": 928,
- "quote_n": 382,
+ "flip": 929,
+ "quote_n": 383,
  "signals": [
-  {
-   "t": 1792270896.0547352,
-   "s": 5,
-   "p": 85
-  },
   {
    "t": 1792271170.0889285,
    "s": 4,
@@ -1470,27 +1466,24 @@
    "t": 1792356978.2502446,
    "s": 5,
    "p": 90
+  },
+  {
+   "t": 1792357572.2747154,
+   "s": 5,
+   "p": 85
   }
  ],
  "risk": {
-  "base": 59,
-  "ts": 1792355486.8084948,
-  "attack": false,
-  "n": 152,
-  "shares": {
-   "1": 0,
-   "2": 8,
-   "3": 27,
-   "4": 51,
-   "5": 15
-  }
+  "base": 100,
+  "ts": 1792357575.2769802,
+  "attack": true
  },
- "attack_ts": 1792268478.008418,
+ "attack_ts": 1792357572.2747154,
  "attack_cand": [
   {
-   "t": 1792268478.008418,
-   "h": "🇮🇷❌🇮🇶 — حمله پهپادی ایران به خلیفان در استان اربیل، کردستان عراق."
+   "t": 1792357572.2747154,
+   "h": "🇮🇷⚡️ — گزارش انفجار در کنارک در جنوب شرقی ایران."
   }
  ],
- "attack_why": "🇮🇷❌🇮🇶 — حمله پهپادی ایران به خلیفان در استان اربیل، کردستان عراق."
+ "attack_why": "🇮🇷⚡️ — گزارش انفجار در کنارک در جنوب شرقی ایران."
 }
