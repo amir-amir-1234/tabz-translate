@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108400
+   "last_id": 108401
   },
   "khabarfouri": {
    "last_id": 569949
@@ -367,11 +367,6 @@
  },
  "recent": [
   {
-   "t": 1792262176.0,
-   "n": "israeli prime minister netanyahu on iran the question isn t how to do it because i can t detail everything the question is who will do it that s the question in these elections the only person who will do it is me",
-   "fa": "🇮🇱🇮🇷⚡️ — نخست‌وزیر اسرائیل، نتانیاهو درباره ایران: مسئله این نیست که چگونه این کار را انجام دهیم، زیرا من نمی‌توانم همه چیز را جزئیات بگویم. مسئله این است: چه کسی این کار را انجام خواهد داد؟ این سوال در این انتخابات است. تنها کسی که این کار را انجام خواهد داد من هستم."
-  },
-  {
    "t": 1792262593.0,
    "n": "president trump my second term is much more powerful than my first term i can do stuff that s unbelievable",
    "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ: دور دوم ریاست‌جمهوری من بسیار قدرتمندتر از دور اول من است. من می‌توانم کارهایی انجام دهم که باورنکردنی است."
@@ -665,11 +660,16 @@
    "t": 1792297066.0,
    "n": "vice president jd vance on the riots in france western liberals imported the third world into france and other countries in the name of diversity and compassion they ignored fundamental questions of assimilation and compatibility they were told it would lead to this and they didn t listen i pray that france a beautiful country of amazing people will stop this madness before more of its landmarks b",
    "fa": "🇺🇸🇫🇷⚡️ — جی‌دی ونس، معاون رئیس‌جمهور آمریکا درباره شورش‌ها در فرانسه: لیبرال‌های غربی جهان سوم را به نام تنوع و شفقت به فرانسه و دیگر کشورها وارد کردند. آن‌ها سوالات اساسی درباره همگون‌سازی و سازگاری را نادیده گرفتند. به آن‌ها گفته شده بود که کار به اینجا خواهد کشید و گوش ندادند. من دعا می‌کنم که فرانسه، کشوری زیبا با مردمی شگفت‌انگیز، پیش از سوختن بیشتر آثار باستانی‌اش، این جنون را متوقف کند. و ا"
+  },
+  {
+   "t": 1792297829.0,
+   "n": "ukmto announces a tugboat traveling southbound northeast of khor fakkan uae was struck by 2 projectiles tugboat is continuing its route despite damage 1 casualty was reported",
+   "fa": "🇮🇷⚡️ — سازمان تجارت دریایی بریتانیا (UKMTO) اعلام کرد که یک فروند یدک‌کش در حال حرکت به سمت جنوب در شمال شرقی خورفکان امارات متحده عربی مورد اصابت ۲ پرتابه قرار گرفته است. این یدک‌کش علیرغم خسارت به مسیر خود ادامه می‌دهد و ۱ مورد تلفات انسانی گزارش شده است."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 19
+  "requests": 20
  },
  "flip": 788,
  "quote_n": 337,
@@ -1473,18 +1473,23 @@
    "t": 1792296672.7524972,
    "s": 2,
    "p": 60
+  },
+  {
+   "t": 1792298163.207464,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
   "base": 60,
-  "ts": 1792290684.8410792,
+  "ts": 1792298166.2094257,
   "attack": false,
-  "n": 154,
+  "n": 161,
   "shares": {
    "1": 0,
-   "2": 3,
-   "3": 26,
-   "4": 58,
+   "2": 4,
+   "3": 24,
+   "4": 59,
    "5": 13
   }
  },
