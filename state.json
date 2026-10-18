@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108511
+   "last_id": 108513
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,7 +10,7 @@
    "last_id": 132057
   },
   "TelNews_Magazine": {
-   "last_id": 101449
+   "last_id": 101450
   },
   "NE_WG": {
    "last_id": 114913
@@ -384,16 +384,6 @@
  },
  "recent": [
   {
-   "t": 1792340408.0,
-   "n": "israeli prime minister benjamin netanyahu responding to president trump s endorsement said only the two of us can destroy iran s nuclear program",
-   "fa": "🇮🇱🇺🇸❌🇮🇷 — بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در واکنش به تایید رئیس‌جمهور ترامپ گفت: «فقط ما دو نفر می‌توانیم برنامه هسته‌ای ایران را نابود کنیم.»"
-  },
-  {
-   "t": 1792340712.0,
-   "n": "israeli prime minister netanyahu israel is strong i foresee a bright future for us if we win and i foresee a tragedy for generations if god forbid we lose",
-   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: اسرائیل قوی است. اگر پیروز شویم، آینده‌ای درخشان را برای خود پیش‌بینی می‌کنم. و اگر خدا ناکرده شکست بخوریم، فاجعه‌ای را برای نسل‌ها پیش‌بینی می‌کنم."
-  },
-  {
    "t": 1792340776.0,
    "n": "israeli prime minister netanyahu and by the way even in europe you wouldn t believe it those who criticize and malign us come to me privately and whisper listen prime minister perhaps we could get some assistance from you with this or that and i tell them your actions will either bring you closer to us or push you away from us",
    "fa": "🇮🇱🇪🇺⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: و اتفاقاً، حتی در اروپا، باورتان نمی‌شود. کسانی که از ما انتقاد می‌کنند و به بدگویی می‌پردازند، خصوصی نزد من می‌آیند و پچ‌پچ‌کنان می‌گویند: «گوش کن، آقای نخست‌وزیر، شاید بتوانیم در این یا آن مورد کمکی از شما دریافت کنیم.» و من به آن‌ها می‌گویم: «اعمال شما یا شما را به ما نزدیک‌تر می‌کند یا از ما دورتر.»"
@@ -682,25 +672,25 @@
    "t": 1792356300.0,
    "n": "opinion to russia with love signed donald trump waives sanctions and tariffs under the lindsey graham law",
    "fa": "🚨 اقدام دونالد ترامپ در لغو تحریم‌ها و تعرفه‌ها تحت قانون لیندسی گراهام به گزارش وال‌استریت ژورنال ترامپ تحریم‌ها and تعرفه‌ها را تحت قانون لیندسی گراهام لغو می‌کند."
+  },
+  {
+   "t": 1792356664.0,
+   "n": "iran s irgc navy says an oil tanker struck a naval mine south of the strait of hormuz triggering an explosion and fire in its engine room the irgc says the vessel was attempting to leave the strait through an unauthorized southern route after switching off its positioning and navigation systems at the start of its journey violating iranian maritime regulations",
+   "fa": "🇮🇷⚡️ — نیروی دریایی سپاه پاسداران ایران اعلام کرد که یک نفتکش در جنوب تنگه هرمز با یک مین دریایی برخورد کرده که باعث انفجار و آتش‌سوزی در موتورخانه آن شده است. سپاه پاسداران اعلام کرد که این کشتی تلاش می‌کرده با خاموش کردن سیستم‌های موقعیت‌یابی و ناوبری خود در ابتدای سفر، از طریق یک مسیر غیرمجاز جنوبی تنگه را ترک کند که این اقدام نقض مقررات دریایی ایران محسوب می‌شود."
+  },
+  {
+   "t": 1792356699.0,
+   "n": "iranian foreign minister abbas araghchi last time you wanted to finish the job iran emerged even stronger want to try your luck again be our guest but be careful we have unfinished jobs too netanyahu is driving america into another war to stay out of jail whatever the consequences for israel let alone potus",
+   "fa": "🇮🇷🇮🇱🇺🇸⚡️ — وزیر امور خارجه ایران، عباس عراقچی: دفعه پیش که می‌خواستید «کار را تمام کنید»، ایران حتی قوی‌تر ظاهر شد. می‌خواهید دوباره شانستان را امتحان کنید؟ بفرمایید. اما مراقب باشید؛ ما هم کارهای ناتمامی داریم. Netanyahu نتانیاهو آمریکا را به جنگ دیگری می‌کشاند تا از زندان دور بماند، هر پیامدی که برای اسرائیل داشته باشد — چه رسد به رئیس‌جمهور ایالات متحده."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 174
+  "requests": 175
  },
  "flip": 928,
  "quote_n": 382,
  "signals": [
-  {
-   "t": 1792270283.185533,
-   "s": 4,
-   "p": 65
-  },
-  {
-   "t": 1792270291.5161476,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1792270896.0547352,
    "s": 5,
@@ -1470,6 +1460,16 @@
    "t": 1792356678.2124088,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792356973.5273812,
+   "s": 4,
+   "p": 85
+  },
+  {
+   "t": 1792356978.2502446,
+   "s": 5,
+   "p": 90
   }
  ],
  "risk": {
