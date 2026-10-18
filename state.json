@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108386
+   "last_id": 108387
   },
   "khabarfouri": {
    "last_id": 569949
@@ -367,11 +367,6 @@
  },
  "recent": [
   {
-   "t": 1792261434.0,
-   "n": "israeli prime minister netanyahu they want to disrupt the elections or at least influence them all of israel s enemies say it openly from mamdani in new york through erdogan in istanbul through the ayatollahs in iran through hezbollah in lebanon through hamas in gaza and of course mansour abbas and mahmoud abbas they all say the same thing netanyahu must lose why do they say that why are they work",
-   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: آن‌ها می‌خواهند انتخابات را مختل کنند، یا حداقل روی آن تاثیر بگذارند. همه دشمنان اسرائیل آشکارا می‌گویند: از ممدانی در نیویورک، تا اردوغان در استانبول، تا آیت‌الله‌ها در ایران، تا حزب‌الله در لبنان، تا حماس در غزه، و البته منصور عباس و محمود عباس. همه آن‌ها یک چیز را می‌گویند: نتانیاهو باید ببکازد. چرا این را می‌گویند؟ چرا تلاش می‌کنند ما ببازیم؟ چون آن‌ها خواها"
-  },
-  {
    "t": 1792261504.0,
    "n": "israeli prime minister netanyahu who will work with trump over the next two years who will do it gadi eisenkot will he stand on international stages will he convince congress will he convince the leaders of the u s administration and what happens after two years if god forbid a president who is very hostile to israel comes to power will he know how to withstand those pressures",
    "fa": "🇮🇱🇺🇸⚡️ — نخست‌وزیر اسرائیل بنیامین نتانیاهو: چه کسی در دو سال آینده با ترامپ کار خواهد کرد؟ چه کسی این کار را انجام خواهد داد؟ گدی آیزنکوت؟ آیا او در تریبون‌های بین‌المللی خواهد ایستاد؟ آیا کنگره را متقاعد خواهد کرد؟ آیا رهبران دولت آمریکا را متقاعد خواهد کرد؟ و اگر دو سال دیگر، خدا نکرده، رئیس‌جمهوری که بسیار با اسرائیل خصومت دارد به قدرت برسد، چه اتفاقی می‌افتد؟ آیا او خواهد دانست چگونه در برابر"
@@ -665,13 +660,18 @@
    "t": 1792290377.0,
    "n": "nasa firms data shows a fire spreading northwest initially started at training grounds at cfb wainwright",
    "fa": "🇨🇦⚡️ — داده‌های ناسا (FIRMS) نشان می‌دهد که آتش‌سوزی در پایگاه نظامی وین‌رایت که ابتدا از مناطق آموزشی آغاز شده بود، در حال گسترش به سمت شمال غربی است."
+  },
+  {
+   "t": 1792291002.0,
+   "n": "ukrainian uav strike against a data center belonging to russian social media network vkontakte in saint petersburg russia has caused a large scale disruption in connectivity to the social media service connectivity is currently at 56 of normal levels",
+   "fa": "🔄 به‌روزرسانی 🇺🇦🇷🇺⚡️ — حمله پهپادی اوکراین به یک مرکز داده متعلق به شبکه اجتماعی روسی وی‌کی در سن‌پترزبورگ روسیه، باعث اختلال گسترده‌ای در اتصال به این سرویس اجتماعی شده است. در حال حاضر میزان اتصال به ۵۶ درصد سطح عادی رسیده است."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 8
+  "requests": 9
  },
- "flip": 778,
+ "flip": 779,
  "quote_n": 334,
  "signals": [
   {
