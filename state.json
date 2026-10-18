@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108481
+   "last_id": 108485
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132037
+   "last_id": 132038
   },
   "TelNews_Magazine": {
    "last_id": 101431
   },
   "NE_WG": {
-   "last_id": 114896
+   "last_id": 114897
   }
  },
  "fails": {},
@@ -276,7 +276,8 @@
     "WP-WSJ-0003985008",
     "WP-WSJ-0003983735",
     "WP-WSJ-0003985423",
-    "SB10222543145185073693004593513460296885752"
+    "SB10222543145185073693004593513460296885752",
+    "WP-WSJ-0003985803"
    ]
   },
   "NYT": {
@@ -376,26 +377,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792330801.0,
-   "n": "سردار نقدی فقط دو کشور در جهان بمب ۱۴ تنی دارند ایران و آمریکا",
-   "fa": "⭕️سردار نقدی: فقط دو کشور در جهان بمب ۱۴ تنی دارند: ایران و آمریکا"
-  },
-  {
-   "t": 1792331653.0,
-   "n": "مردم معترض در پاریس در حال غارت مغازه برندهای بزرگ",
-   "fa": "⭕️مردم معترض در پاریس در حال غارت مغازه برندهای بزرگ"
-  },
-  {
-   "t": 1792331669.0,
-   "n": "گزارش شلیک یک موشک از مشهد",
-   "fa": "🚨🚨🚨گزارش شلیک یک موشک از مشهد"
-  },
-  {
-   "t": 1792334184.0,
-   "n": "این کلیپ از اعتراضات فرانسه بیش از ۵۰ میلیون بازدید خورده",
-   "fa": "⭕️این کلیپ از اعتراضات فرانسه بیش از ۵۰ میلیون بازدید خورده"
-  },
   {
    "t": 1792334307.0,
    "n": "برند دیور dior به پلیس فرانسه برای حفاظت از فروشگاه خود اعتماد ندارد و تیم محافظتی اختصاصی خودش را رو به روی فروشگاه مرکزی در پاریس مستقر کرده",
@@ -675,20 +656,35 @@
    "t": 1792343297.0,
    "n": "uae president sheikh mohamed bin zayed met with saudi defense minister prince khalid bin salman in abu dhabi earlier today",
    "fa": "🇦🇪🇸🇦⚡️ — رئیس امارات متحده عربی، شیخ محمد بن زاید، امروز در ابوظبی با وزیر دفاع عربستان سعودی، شاهزاده خالد بن سلمان، دیدار کرد."
+  },
+  {
+   "t": 1792344161.0,
+   "n": "earlier 8 ansarallah ballistic missiles impacted in ma rib plc controlled yemen",
+   "fa": "🇾🇪❌🇾🇪 — دقایقی پیش، ۸ فروند موشک بالستیک انصارالله به استان مأرب در مناطق تحت کنترل دولت متبوع شورای ریاست‌جمهوری یمن اصابت کرد."
+  },
+  {
+   "t": 1792344180.0,
+   "n": "ukrainian drone strike hits putin s hometown striking oil terminal the fresh attack on russian oil facilities came following the collapse of efforts by president trump to enforce a fragile energy ceasefire",
+   "fa": "🔴 حمله پهپادی اوکراین به زادگاه پوتین و اصابت به یک پایانه نفتی به گزارش وال‌استریت ژورنال، حمله تازه به تأسیسات نفتی روسیه پس از فروپاشی تلاش‌های دونالد ترامپ برای اجرای یک آتش‌بس شکننده انرژی انجام شد."
+  },
+  {
+   "t": 1792344235.0,
+   "n": "a u s air force kc 135 stratotanker aerial refueling tanker made an emergency landing at ben gurion airport tel aviv after squawking 7700 emergency code",
+   "fa": "🇺🇸🇮🇱⚡️ — یک فروند هواپیمای سوخت‌رسان هوایی KC-135 استراتوتانکر نیروی هوایی ایالات متحده پس از اعلام وضعیت اضطراری با کد ۷۷۰۰، در فرودگاه بن‌گوریون در تل‌آویو فرود اضطراری کرد."
+  },
+  {
+   "t": 1792344298.0,
+   "n": "israel s national security minister ben gvir netanyahu won t give us defense right he won t give us justice he won t give us the police what am i supposed to be the tourism minister is that what he ll give me he sent messages to foreign ministers to prime ministers in europe telling them that ben gvir will not be in the government",
+   "fa": "🇮🇱🇪🇺⚡️ — ایتامار بن‌گویر، وزیر امنیت ملی اسرائیل: نتانیاهو به ما امنیت نمی‌دهد، درست است؟ او عدالت را به ما نمی‌دهد. او پلیس را به ما نمی‌دهد. من قرار است چه کاره باشم، وزیر گردشگری؟ آیا این چیزی است که او به من خواهد داد؟ او پیام‌هایی به وزیران امور خارجه و نخست‌وزیران در اروپا فرستاده و به آن‌ها گفته است که بن‌گویر در دولت نخواهد بود."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 137
+  "requests": 139
  },
- "flip": 892,
- "quote_n": 365,
+ "flip": 894,
+ "quote_n": 368,
  "signals": [
-  {
-   "t": 1792257677.0822632,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1792257972.3920557,
    "s": 3,
@@ -1493,6 +1489,21 @@
    "t": 1792343487.6978774,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792344376.0455172,
+   "s": 3,
+   "p": 50
+  },
+  {
+   "t": 1792344383.1494784,
+   "s": 4,
+   "p": 70
+  },
+  {
+   "t": 1792344392.3139575,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
