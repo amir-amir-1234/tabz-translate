@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108378
+   "last_id": 108382
   },
   "khabarfouri": {
    "last_id": 569949
@@ -367,16 +367,6 @@
  },
  "recent": [
   {
-   "t": 1792260758.0,
-   "n": "خبرگزاری فرانسه ۸۰۰ هزار نفر در اعتراضات سراسری فرانسه شرکت کردند",
-   "fa": "⭕️خبرگزاری فرانسه: ۸۰۰ هزار نفر در اعتراضات سراسری فرانسه شرکت کردند"
-  },
-  {
-   "t": 1792261229.0,
-   "n": "وزیر جنگ آمریکا ایران باید به سرعت بین توافق یا جنگ یکی را انتخاب کند",
-   "fa": "🚨وزیر جنگ آمریکا: ایران باید به‌سرعت بین توافق یا جنگ یکی را انتخاب کند"
-  },
-  {
    "t": 1792261275.0,
    "n": "سخنگوی سپاه آینده از آن ملتی است که بزرگترین تهدید دشمن را به طنز کوچه و بازار تبدیل می کند سردار محبی فقط یک تمدن وحشی می تواند از واژه مقدس مادر برای سنگین ترین بمب خود استفاده کند",
    "fa": "🇮🇷سخنگوی سپاه: آینده از آن ملتی است که بزرگترین تهدید دشمن را به طنز کوچه و بازار تبدیل می‌کند 💢سردار محبی: فقط یک تمدن وحشی می‌تواند از واژه مقدس مادر برای سنگین‌ترین بمب خود استفاده کند."
@@ -665,13 +655,23 @@
    "t": 1792289216.0,
    "n": "a fire occured at cfb wainwright canada initial reporting indicates the fire started at the training area and spread beyond the site to other areas of the base medevac helicopters and firefighting helicopters active a mass casualty incident is reported at the base with an emergency coordination center being set up and residents advised to avoid visiting the wainwright heath centre unless there s a",
    "fa": "🇨🇦⚡️ — آتش‌سوزی در پایگاه نیروهای مسلح کانادا در وین‌رایت رخ داد. گزارش‌های اولیه حاکی از آن است که آتش‌سوزی در منطقه آموزشی آغاز شده و به سایر نقاط پایگاه سرایت کرده است. هلیکوپترهای امداد هوایی و آتش‌نشانی در حال فعالیت هستند. گزارش‌هایی از تلفات انبوه در این پایگاه منتشر شده و یک مرکز هماهنگی اضطراری راه‌اندازی شده است. به ساکنان توصیه شده است تا زمانی که «نیاز پزشکی بحرانی» وجود ندارد، از مراج"
+  },
+  {
+   "t": 1792289455.0,
+   "n": "ukrainian uavs have managed to strike multiple locations in st petersburg the port petroleum processing terminal a vk data centre the vostochnaya substation leading to power outages in eastern districts of the city multiple bridges such as the kipolovo canal bridge the raid on the city is ongoing with a further 30 uavs approaching the area",
+   "fa": "🇺🇦پهپادهای اوکراینی موفق شدند چندین نقطه را در سن‌پترزبورگ هدف قرار دهند: - پایانه پالایش نفت پورت - یک مرکز داده وی‌کی (VK) - ایستگاه برق فرعی وستوچنایا (که منجر به قطعی برق در مناطق شرقی شهر شده است) - چندین پل از جمله پل کانال کیپولوکو حمله به شهر همچنان ادامه دارد و ۳۰ پهپاد دیگر در حال نزدیک شدن به منطقه هستند."
+  },
+  {
+   "t": 1792289477.0,
+   "n": "the ad situation in st petersburg has deteriorated rapidly earlier they were managing to intercept almost everything s 300 400 pantsir systems have mostly stopped operating around and in the city and for the last 30 minutes almost exclusively mobile fire groups have been engaging ukrainian uavs as a result the city is severely struggling to handle the massive influx of uavs",
+   "fa": "🔄 به‌روزرسانی 🔴 وضعیت پدافند هوایی در سن‌پترزبورگ به سرعت وخیم شده است، پیش‌تر آن‌ها موفق می‌شدند تقریباً همه چیز را رهگیری کنند، سامانه‌های اس-۳۰۰/۴۰۰ و پانتسیر تا حد زیادی در داخل و اطراف شهر از کار افتاده‌اند و در ۳۰ دقیقه گذشته تقریباً منحصراً گروه‌های آتش سیار با پهپادهای اوکراینی درگیر بوده‌اند. در نتیجه، شهر به‌شدت در مقابله با هجوم انبوه پهپادها دچار مشکل شده است"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 4
+  "requests": 5
  },
- "flip": 776,
+ "flip": 777,
  "quote_n": 334,
  "signals": [
   {
