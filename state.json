@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108393
+   "last_id": 108395
   },
   "khabarfouri": {
    "last_id": 569949
@@ -367,11 +367,6 @@
  },
  "recent": [
   {
-   "t": 1792261597.0,
-   "n": "israeli prime minister netanyahu there will be an attempt to interfere in the elections at least we re seeing indications of that they ll try to create security incidents to convince the israeli public that our achievements aren t so great i can certainly elaborate but i m not going to i don t think there s any point in exposing our intelligence sources",
-   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: تلاش‌هایی برای مداخله در انتخابات صورت خواهد گرفت. حداقل ما نشانه‌هایی از آن را می‌بینیم. آن‌ها سعی خواهند کرد حوادث امنیتی ایجاد کنند تا افکار عمومی اسرائیل را متقاعد کنند که دستاوردهای ما چندان بزرگ نیست. من قطعاً می‌توانم جزئیات بیشتری بگویم، اما این کار را نخواهم کرد. فکر نمی‌کنم دلیلی برای افشای منابع اطلاعاتی‌مان وجود داشته باشد."
-  },
-  {
    "t": 1792261651.0,
    "n": "i24news can you reassure us that as far as it depends on you the elections will take place as scheduled netanyahu of course as far as it depends on me but they want to disrupt the elections or at least influence them",
    "fa": "🔄 به‌روزرسانی 🇮🇱⚡️ — شبکه i24NEWS: آیا می‌توانید به ما اطمینان دهید که تا جایی که به شما بستگی دارد، انتخابات طبق برنامه برگزار خواهد شد؟ نتانیاهو: البته، تا جایی که به من بستگی دارد. اما آن‌ها می‌خواهند انتخابات را مختل کنند، یا حداقل بر آن تأثیر بگذارند."
@@ -665,13 +660,18 @@
    "t": 1792293282.0,
    "n": "israeli defense minister katz the achievements are dramatic in gaza we have achieved our objectives 70 80 of gaza is destroyed the same is true in southern lebanon",
    "fa": "🇮🇱❌🇵🇸🇱🇧 — وزیر دفاع اسرائیل، یسرائیل کاتز: دستاوردهای ما چشمگیر است. در غزه به اهداف خود رسیده‌ایم. ۷۰ تا ۸۰ درصد غزه ویران شده است. همین وضعیت در جنوب لبنان نیز صادق است."
+  },
+  {
+   "t": 1792293539.0,
+   "n": "israeli defense minister katz the entire world salutes us the entire world respects us countries in the region whether they say so openly or not want to be close to israel they appreciate our determination they appreciate the results",
+   "fa": "🇮🇱⚡️ — وزیر دفاع اسرائیل، کاتز: تمام جهان به ما ادای احترام می‌کند. تمام جهان به ما احترام می‌گذارد. کشورهای منطقه، چه آشکارا بگویند و چه نگویند، می‌خواهند به اسرائیل نزدیک باشند. آن‌ها اراده ما را تحسین می‌کنند. آن‌ها نتایج را ارج می‌نهند."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 11
+  "requests": 12
  },
- "flip": 780,
+ "flip": 781,
  "quote_n": 334,
  "signals": [
   {
@@ -1443,6 +1443,11 @@
    "t": 1792293379.85735,
    "s": 5,
    "p": 85
+  },
+  {
+   "t": 1792293675.3016129,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
