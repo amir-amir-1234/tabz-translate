@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108397
+   "last_id": 108398
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131967
+   "last_id": 131968
   },
   "TelNews_Magazine": {
    "last_id": 101379
@@ -367,11 +367,6 @@
  },
  "recent": [
   {
-   "t": 1792261695.0,
-   "n": "مشاور محسن رضایی آمریکا پیامی به ایران منتقل کرد که اگر مذاکرات شکست بخورد به کوه کلنگ حمله می کنیم و درخواست کرد که ایران پاسخ ندهد ایران نیز با رد قاطع این درخواست هشدار داد که چنین حمله ای با پاسخ شدید مواجه خواهد شد",
-   "fa": "📲مشاور محسن رضایی: آمریکا پیامی به ایران منتقل کرد که اگر مذاکرات شکست بخورد به کوه کلنگ حمله می‌کنیم و درخواست کرد که ایران پاسخ ندهد ایران نیز با رد قاطع این درخواست، هشدار داد که چنین حمله‌ای با پاسخ شدید مواجه خواهد شد."
-  },
-  {
    "t": 1792261723.0,
    "n": "israeli prime minister netanyahu they explicitly declare that they want to eliminate me incidentally they want to eliminate other senior officials as well we will do everything necessary until now we ve eliminated them they haven t eliminated us",
    "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل بنیامین نتانیاهو: آن‌ها صراحتاً اعلام می‌کنند که می‌خواهند مرا حذف کنند. اتفاقاً آن‌ها می‌خواهند مقامات ارشد دیگر را نیز حذف کنند. ما هر کار لازم را انجام خواهیم داد. تا کنون، ما آن‌ها را حذف کرده‌ایم. آن‌ها ما را حذف نکرده‌اند."
@@ -665,13 +660,18 @@
    "t": 1792294981.0,
    "n": "israeli prime minister netanyahu i think we need to understand that israel is the nation state of the jewish people our national identity is a combination of nationality and religion we have religious holidays we have religious symbols",
    "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: فکر می‌کنم باید درک کنیم که اسرائیل دولت‌ملت قوم یهود است. هویت ملی ما ترکیبی از ملیت و مذهب است. ما تعطیلات مذهبی داریم. ما نمادهای مذهبی داریم."
+  },
+  {
+   "t": 1792295263.0,
+   "n": "reporter what will be the central issue in the upcoming elections from your perspective ben gvir i think the central issue is encouraging emigration i want to be defense minister in order to encourage emigration",
+   "fa": "🇮🇱⚡️ — خبرنگار: از منظر شما موضوع اصلی در انتخابات پیش‌رو چه خواهد بود؟ بن‌گویر: فکر می‌کنم موضوع اصلی تشویق مهاجرت [فلسطینیان] است. من می‌خواهم وزیر دفاع شوم تا مهاجرت را تشویق کنم."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 15
+  "requests": 16
  },
- "flip": 784,
+ "flip": 785,
  "quote_n": 336,
  "signals": [
   {
@@ -1458,6 +1458,11 @@
    "t": 1792294566.5775373,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1792295483.3454862,
+   "s": 4,
+   "p": 40
   }
  ],
  "risk": {
