@@ -279,7 +279,8 @@
     "WP-WSJ-0003985423",
     "SB10222543145185073693004593513460296885752",
     "WP-WSJ-0003985803",
-    "WP-WSJ-0003985843"
+    "WP-WSJ-0003985843",
+    "WP-WSJ-0003985947"
    ]
   },
   "NYT": {
@@ -379,11 +380,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792338774.0,
-   "n": "israeli prime minister netanyahu on iran this is not the netherlands with nuclear weapons although the netherlands is starting to become a story too i m joking i m joking",
-   "fa": "🇮🇱🇳🇱🇮🇷⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل در خصوص ایران: اینجا هلند با تسلیحات هسته‌ای نیست — البته هلند هم دارد کم‌کم به یک داستان تبدیل می‌شود. شوخی می‌کنم. شوخی می‌کنم."
-  },
   {
    "t": 1792338987.0,
    "n": "israeli prime minister netanyahu on iran i came to president trump and said to him here is what i am going to do i did not ask for your permission here is what i am going to do i am going to do this one way or another take the b 2 and strike fordow that is what i am asking if you can thank you but in any case we are going he joined on the tenth day",
@@ -678,14 +674,19 @@
    "t": 1792350242.0,
    "n": "وزیر آموزش و پرورش در صورت بروز شرایط حاد آموزش در مناطق درگیر به صورت نقطه ای و موقت و حداکثر برای سه روز مجازی می شود و پس از آن آموزش حضوری از سر گرفته خواهد شد",
    "fa": "⭕️وزیر آموزش و پرورش: ‏ در صورت بروز شرایط حاد، آموزش در مناطق درگیر به‌صورت نقطه‌ای و موقت و حداکثر برای سه روز مجازی می‌شود و پس از آن، آموزش حضوری از سر گرفته خواهد شد"
+  },
+  {
+   "t": 1792350720.0,
+   "n": "french leaders trade blame after rioting sweeps the nation police struggled to contain groups that attacked everything from city halls to luxury boutiques",
+   "fa": "🔴 مقام‌های فرانسوی پس از وقوع شورش‌های سراسری در کشور یکدیگر را مقصر دانستند به گزارش وال‌استریت ژورنال، رهبران فرانسه پس از اینکه موجی از شورش سراسر کشور را فراگرفت، یکدیگر را ملامت کردند. نیروهای پلیس برای مهار گروه‌هایی که به اماکن مختلف از جمله تالارهای شهرداری و بوتیک‌های لوکس حمله می‌کردند، با دشواری مواجه شدند."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 157
+  "requests": 159
  },
- "flip": 914,
- "quote_n": 376,
+ "flip": 915,
+ "quote_n": 377,
  "signals": [
   {
    "t": 1792266075.231615,
