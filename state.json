@@ -13,7 +13,7 @@
    "last_id": 101403
   },
   "NE_WG": {
-   "last_id": 114856
+   "last_id": 114857
   }
  },
  "fails": {},
@@ -371,11 +371,6 @@
  },
  "recent": [
   {
-   "t": 1792295263.0,
-   "n": "reporter what will be the central issue in the upcoming elections from your perspective ben gvir i think the central issue is encouraging emigration i want to be defense minister in order to encourage emigration",
-   "fa": "🇮🇱⚡️ — خبرنگار: از منظر شما موضوع اصلی در انتخابات پیش‌رو چه خواهد بود؟ بن‌گویر: فکر می‌کنم موضوع اصلی تشویق مهاجرت [فلسطینیان] است. من می‌خواهم وزیر دفاع شوم تا مهاجرت را تشویق کنم."
-  },
-  {
    "t": 1792295625.0,
    "n": "israel s national security minister ben gvir what s happening right now is that they want to push me out benjamin netanyahu doesn t want me to be national security minister he doesn t want me to be defense minister what will they let us have the tourism ministry i m saying this to netanyahu you know i love you",
    "fa": "🇮🇱⚡️ — وزیر امنیت داخلی اسرائیل، بن‌گویر: آنچه در حال حاضر رخ می‌دهد این است که آن‌ها می‌خواهند مرا بیرون برانند. بنیامین نتانیاهو نمی‌خواهد من وزیر امنیت داخلی باشم. او نمی‌خواهد من وزیر دفاع باشم. آن‌ها چه چیزی را به ما واگذار خواهند کرد؟ وزارت گردشگری؟ من این را به نتانیاهو می‌گویم: تو می‌دانی که من دوستت دارم."
@@ -669,20 +664,20 @@
    "t": 1792323341.0,
    "n": "احمد نادری نماینده مجلس با شناختی که از رهبر فعلی انقلاب دارم فتوای ایشان درباره سلاح هسته ای متفاوت خواهد بود باید بمب اتم بسازیم",
    "fa": "⭕️احمد نادری، نماینده‌مجلس: با شناختی که از رهبر فعلی انقلاب دارم فتوای ایشان درباره سلاح هسته‌ای متفاوت خواهد بود. باید بمب اتم بسازیم!"
+  },
+  {
+   "t": 1792323688.0,
+   "n": "ویدیویی آخرالزمانی از اعتراضات فرانسه",
+   "fa": "🎥ویدیویی آخرالزمانی از اعتراضات فرانسه"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 78
+  "requests": 79
  },
- "flip": 828,
+ "flip": 829,
  "quote_n": 351,
  "signals": [
-  {
-   "t": 1792237272.4918206,
-   "s": 4,
-   "p": 80
-  },
   {
    "t": 1792237576.6901653,
    "s": 3,
