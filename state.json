@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132047
+   "last_id": 132048
   },
   "TelNews_Magazine": {
-   "last_id": 101443
+   "last_id": 101444
   },
   "NE_WG": {
-   "last_id": 114907
+   "last_id": 114908
   }
  },
  "fails": {},
@@ -280,7 +280,8 @@
     "SB10222543145185073693004593513460296885752",
     "WP-WSJ-0003985803",
     "WP-WSJ-0003985843",
-    "WP-WSJ-0003985947"
+    "WP-WSJ-0003985947",
+    "SB10222543145185073693004593513730667629690"
    ]
   },
   "NYT": {
@@ -380,11 +381,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792339020.0,
-   "n": "opinion saudi arabia has no good options amid strikes by iran s proxies the kingdom finds its viability under threat",
-   "fa": "⭕️ عربستان سعودی در میان حملات نیابتی ایران با تهدید مواجه است به گزارش وال‌استریت ژورنال، در میان حملات توسط نیروهای نیابتی ایران، پادشاهی عربستان سعودی بقای خود را در معرض تهدید می‌بیند."
-  },
   {
    "t": 1792339055.0,
    "n": "israeli prime minister netanyahu on iran an iranian leader once said israel is a one bomb country drop one bomb on it and it is finished not only because you would kill several hundred thousand people in one strike but because you would destroy the state it is very small very concentrated a nuclear bomb means the annihilation of the state",
@@ -679,13 +675,18 @@
    "t": 1792351198.0,
    "n": "5 هواپیمای سوخت رسان در نزدیکی تنگه هرمز در حال پرواز هستند",
    "fa": "🇺🇸🇮🇷 5 هواپیمای سوخت‌رسان در نزدیکی تنگه هرمز در حال پرواز هستند."
+  },
+  {
+   "t": 1792351318.0,
+   "n": "داماد حسن روحانی مادر همه بدبختی های ایران جبهه پایداری است",
+   "fa": "⭕️داماد حسن روحانی: مادر همه بدبختی‌های ایران، جبهه‌ پایداری است"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 160
+  "requests": 161
  },
- "flip": 915,
+ "flip": 916,
  "quote_n": 377,
  "signals": [
   {
@@ -1452,6 +1453,11 @@
    "t": 1792351271.6825144,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1792351568.1821983,
+   "s": 3,
+   "p": 20
   }
  ],
  "risk": {
