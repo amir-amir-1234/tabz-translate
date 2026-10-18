@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108421
+   "last_id": 108422
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132004
+   "last_id": 132005
   },
   "TelNews_Magazine": {
    "last_id": 101403
   },
   "NE_WG": {
-   "last_id": 114857
+   "last_id": 114858
   }
  },
  "fails": {},
@@ -324,7 +324,8 @@
     "https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html",
     "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
     "https://www.nytimes.com/2026/10/17/world/middleeast/egypt-president-el-sisi-term-limits-2030.html",
-    "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html"
+    "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
+    "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html"
    ]
   },
   "Treasury": {
@@ -370,21 +371,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792295625.0,
-   "n": "israel s national security minister ben gvir what s happening right now is that they want to push me out benjamin netanyahu doesn t want me to be national security minister he doesn t want me to be defense minister what will they let us have the tourism ministry i m saying this to netanyahu you know i love you",
-   "fa": "🇮🇱⚡️ — وزیر امنیت داخلی اسرائیل، بن‌گویر: آنچه در حال حاضر رخ می‌دهد این است که آن‌ها می‌خواهند مرا بیرون برانند. بنیامین نتانیاهو نمی‌خواهد من وزیر امنیت داخلی باشم. او نمی‌خواهد من وزیر دفاع باشم. آن‌ها چه چیزی را به ما واگذار خواهند کرد؟ وزارت گردشگری؟ من این را به نتانیاهو می‌گویم: تو می‌دانی که من دوستت دارم."
-  },
-  {
-   "t": 1792296287.0,
-   "n": "قطر میانجی گری میان ایران و آمریکا ادامه دارد سخنگوی وزارت امور خارجه قطر تلاش های میانجی گرانه میان آمریکا و ایران همچنان ادامه دارد دو طرف با وجود چالش های جدی به تبادل دیدگاه ها و پیشنهادها می پردازند کشورهای حاشیه حاشیه خلیج فارس دیپلماسی را ترجیح می دهند اما توانایی دفاع از خود را دارند و هدف قرار گرفتن بدون پاسخ بازدارنده را نمی پذیرند هدف از نشست صلاله بازگشایی موقت تنگه هرمز تا زمان دستیاب",
-   "fa": "🇶🇦🇺🇸🇮🇷قطر: میانجی‌گری میان ایران و آمریکا ادامه دارد 💢سخنگوی وزارت امور خارجه قطر: تلاش‌های میانجی‌گرانه میان آمریکا و ایران همچنان ادامه دارد. دو طرف با وجود چالش‌های جدی، به تبادل دیدگاه‌ها و پیشنهادها می‌پردازند. کشورهای حاشیه حاشیه خلیج فارس دیپلماسی را ترجیح می‌دهند، اما توانایی دفاع از خود را دارند و هدف قرار گرفتن بدون پاسخ بازدارنده را نمی‌پذیرند. هدف از نشست صلاله، بازگشایی موقت تنگه هرمز"
-  },
-  {
-   "t": 1792297066.0,
-   "n": "vice president jd vance on the riots in france western liberals imported the third world into france and other countries in the name of diversity and compassion they ignored fundamental questions of assimilation and compatibility they were told it would lead to this and they didn t listen i pray that france a beautiful country of amazing people will stop this madness before more of its landmarks b",
-   "fa": "🇺🇸🇫🇷⚡️ — جی‌دی ونس، معاون رئیس‌جمهور آمریکا درباره شورش‌ها در فرانسه: لیبرال‌های غربی جهان سوم را به نام تنوع و شفقت به فرانسه و دیگر کشورها وارد کردند. آن‌ها سوالات اساسی درباره همگون‌سازی و سازگاری را نادیده گرفتند. به آن‌ها گفته شده بود که کار به اینجا خواهد کشید و گوش ندادند. من دعا می‌کنم که فرانسه، کشوری زیبا با مردمی شگفت‌انگیز، پیش از سوختن بیشتر آثار باستانی‌اش، این جنون را متوقف کند. و ا"
-  },
   {
    "t": 1792297829.0,
    "n": "ukmto announces a tugboat traveling southbound northeast of khor fakkan uae was struck by 2 projectiles tugboat is continuing its route despite damage 1 casualty was reported",
@@ -669,25 +655,30 @@
    "t": 1792323688.0,
    "n": "ویدیویی آخرالزمانی از اعتراضات فرانسه",
    "fa": "🎥ویدیویی آخرالزمانی از اعتراضات فرانسه"
+  },
+  {
+   "t": 1792323932.0,
+   "n": "موج اعتراضات علیه گرانی بحران مسکن و مشکلات آموزشی در اروپا درگیری ها در چند کشور موجی از اعتراضات در کشورهای اروپایی به راه افتاده که محور اصلی آن افزایش هزینه های زندگی بحران مسکن دستمزدهای پایین و کمبود بودجه خدمات عمومی است فرانسه کانون اصلی این اعتراضات بوده است فرانسه حدود ۵۵۰ هزار نفر در سراسر کشور تظاهرات کردند ساختمان شهرداری لیموژ و دفتر گردشگری لیون به آتش کشیده شد حدود ۱۸۰۰ نفر بازداشت",
+   "fa": "🇪🇺موج اعتراضات علیه گرانی، بحران مسکن و مشکلات آموزشی در اروپا؛ درگیری‌ها در چند کشور 〰️ موجی از اعتراضات در کشورهای اروپایی به راه افتاده که محور اصلی آن افزایش هزینه‌های زندگی، بحران مسکن، دستمزدهای پایین و کمبود بودجه خدمات عمومی است. فرانسه کانون اصلی این اعتراضات بوده است. 🇫🇷فرانسه: حدود ۵۵۰ هزار نفر در سراسر کشور تظاهرات کردند. ساختمان شهرداری لیموژ و دفتر گردشگری لیون به آتش کشیده شد؛ حدود "
+  },
+  {
+   "t": 1792324045.0,
+   "n": "iranian foreign minister abbas araghchi our conditions are completely clear and were presented to the united states as part of a seven day plan they provided some comments which we are currently reviewing but as far as we are concerned the proposal remains on the table if there were any sincerity on the american side which there is not the path to fully reopening the strait of hormuz would be clea",
+   "fa": "🔄 به‌روزرسانی 🇮🇷🇺🇸⚡️ — عباس عراقچی، وزیر امور خارجه ایران: شرایط ما کاملاً روشن است و به عنوان بخشی از یک طرح هفت روزه به ایالات متحده ارائه شده است. آن‌ها نظراتی دادند که در حال بررسی آن هستیم، اما از نظر ما، این پیشنهاد همچنان روی میز است. اگر در طرف آمریکایی صداقتی وجود داشت، که ندارد، مسیر بازگشایی کامل تنگه هرمز روشن بود. اگر شرایط ما را برآورده کنند، تنگه هرمز در روز ششم بازگشایی خواهد شد و "
+  },
+  {
+   "t": 1792324177.0,
+   "n": "رهبر ۱۷ساله جنبش دانشجویی در فرانسه خواستار استقلال تصمیم گیری فرانسه بازنگری در روابط با ناتو تشکیل یک کشور فلسطینی مستقل پایان دادن به اشغال و شهرک سازی و توقف جنگ علیه غزه شد",
+   "fa": "🇫🇷🇮🇱🇵🇸رهبر ۱۷ساله جنبش دانشجویی در فرانسه خواستار استقلال تصمیم‌گیری فرانسه، بازنگری در روابط با ناتو، تشکیل یک کشور فلسطینی مستقل، پایان دادن به اشغال و شهرک‌سازی، و توقف جنگ علیه غزه شد‼️"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 79
+  "requests": 80
  },
- "flip": 829,
+ "flip": 831,
  "quote_n": 351,
  "signals": [
-  {
-   "t": 1792237576.6901653,
-   "s": 3,
-   "p": 30
-  },
-  {
-   "t": 1792237587.3237844,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1792237876.5759346,
    "s": 3,
@@ -1467,6 +1458,16 @@
    "t": 1792323670.6124551,
    "s": 4,
    "p": 85
+  },
+  {
+   "t": 1792324283.9146526,
+   "s": 2,
+   "p": 70
+  },
+  {
+   "t": 1792324288.072522,
+   "s": 4,
+   "p": 40
   }
  ],
  "risk": {
