@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108506
+   "last_id": 108507
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 101446
   },
   "NE_WG": {
-   "last_id": 114909
+   "last_id": 114910
   }
  },
  "fails": {},
@@ -382,11 +382,6 @@
  },
  "recent": [
   {
-   "t": 1792339529.0,
-   "n": "israeli prime minister netanyahu i established the ground barrier between israel and africa along the egyptian border it was primarily a barrier against infiltration otherwise there would already be another million muslims here and we would have been flooded like europe",
-   "fa": "🇮🇱🇪🇬⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: من مانع زمینی میان اسرائیل و آفریقا را در امتداد مرز مصر ایجاد کردم. این در درجه اول مانعی در برابر نفوذ بود. در غیر این صورت، در حال حاضر یک میلیون مسلمان دیگر اینجا بودند و مانند اروپا غرق می‌شدیم."
-  },
-  {
    "t": 1792339613.0,
    "n": "israeli prime minister netanyahu there was a bombing of a yandex center in russia by ukraine 60 of the online activity coming from russian actors working against us disappeared",
    "fa": "🇮🇱🇺🇦🇷🇺⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: مرکز یاندکس در روسیه توسط اوکراین بمباران شد. ۶۰ درصد از [فعالیت‌های آنلاین] بازیگران روسی که علیه ما کار می‌کردند، ناپدید شد."
@@ -680,20 +675,20 @@
    "t": 1792352859.0,
    "n": "ukrainian president zelensky told bloomberg that president trump is pressuring kyiv toward surrendering to russia saying recent u s actions appeared intended to force ukraine into concessions i believe steps have been taken to convince ukraine to capitulate zelensky said adding that he feared washington was seeking to end the war sooner at ukraine s expense zelensky also proposed halting ukrainian",
    "fa": "🇺🇦🇺🇸🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، به بلومبرگ گفت که دونالد ترامپ، رئیس‌جمهور آمریکا، کی‌یف را برای تسلیم شدن در برابر روسیه تحت فشار قرار داده است و اقدامات اخیر ایالات متحده ظاهراً با هدف وادار کردن اوکراین به امتیازدهی انجام شده است. زلنسکی گفت: «من معتقدم گام‌هایی برداشته شده است تا اوکراین را متقاعد به تسلیم کند»، و افزود که او بیم آن دارد که واشنگتن به دنبال پایان دادن زودهنگام "
+  },
+  {
+   "t": 1792353215.0,
+   "n": "ukrainian president zelensky remains in close contact with u s envoys jared kushner and steve witkoff over peace negotiations with another meeting potentially taking place later this week according to bloomberg when the potential risks for ukraine are of tsunami proportions one should intervene while it s still just a mild storm he said i believe much more is at stake than the diesel deal",
+   "fa": "🇺🇦🇺🇸🇷🇺⚡️ — به گزارش بلومبرگ، ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، برای پیشبرد مذاکرات صلح در ارتباط تنگاتنگ با فرستادگان ایالات متحده، جرد کوشنر و استیو ویتکوف قرار دارد و احتمالاً جلسه دیگری در اواخر همین هفته برگزار خواهد شد. او گفت: «هنگامی که خطرات احتمالی برای اوکراین در ابعاد سونامی است، باید پیش از آنکه تنها به طوفانی ملایم تبدیل شود، مداخله کرد.» او افزود: «من معتقدم بسیار بیشتر از توافق د"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 166
+  "requests": 167
  },
- "flip": 921,
+ "flip": 922,
  "quote_n": 379,
  "signals": [
-  {
-   "t": 1792266673.7695122,
-   "s": 5,
-   "p": 90
-  },
   {
    "t": 1792266977.866901,
    "s": 4,
@@ -1468,6 +1463,11 @@
    "t": 1792352771.1651878,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792353366.9248247,
+   "s": 2,
+   "p": 50
   }
  ],
  "risk": {
