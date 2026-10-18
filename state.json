@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108502
+   "last_id": 108503
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132049
+   "last_id": 132050
   },
   "TelNews_Magazine": {
    "last_id": 101445
@@ -382,16 +382,6 @@
  },
  "recent": [
   {
-   "t": 1792339105.0,
-   "n": "نتانیاهو ما آماده ایم حتی بدون کمک آمریکا حمله ی پیشگیرانه علیه ایران انجام دهیم و باید از حمله اولیه ی دشمن جلوگیری شود",
-   "fa": "🚨نتانیاهو: ما آماده‌ایم حتی بدون کمک آمریکا حمله‌ی پیشگیرانه علیه ایران انجام دهیم و باید از حمله‌ اولیه‌ی دشمن جلوگیری شود"
-  },
-  {
-   "t": 1792339155.0,
-   "n": "israeli prime minister netanyahu our communications energy transportation healthcare everything operates on digital systems you can simply take control of them and paralyze a country you can paralyze the economy you can paralyze life itself from traffic lights onward everything everything everything",
-   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: ارتباطات، انرژی، حمل‌ونقل، بهداشت و درمان ما — همه‌چیز بر روی سیستم‌های دیجیتال کار می‌کند. شما می‌توانید به سادگی کنترل آن‌ها را به دست بگیرید و یک کشور را فلج کنید. شما می‌توانید اقتصاد را فلج کنید. شما می‌توانید خود زندگی را، از چراغ‌های راهنمایی و رانندگی به بعد، فلج کنید. همه‌چیز. همه‌چیز. همه‌چیز."
-  },
-  {
    "t": 1792339217.0,
    "n": "israeli prime minister netanyahu when i was a child we used to get into fights in the neighborhood and i discovered a very simple rule whoever strikes first has an enormous advantage you go and punch the person who is coming to attack you and you strike first an enormous advantage",
    "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: در دوران کودکی، در محله دعوا می‌کردیم. و قانون بسیار ساده‌ای را کشف کردم: هرکس اول ضربه بزند، مزیت فوق‌العاده‌ای دارد. می‌روید و به کسی که برای حمله به شما می‌آید مشت می‌زنید و اول ضربه می‌زنید. یک مزیت فوق‌العاده."
@@ -680,13 +670,23 @@
    "t": 1792351629.0,
    "n": "آمیت سگال اسرائیل قصد دارد حملات خود را با موج گسترده ای از ترورها آغاز کند",
    "fa": "⭕️آمیت سگال: اسرائیل قصد دارد حملات خود را با موج گسترده‌ای از ترورها آغاز کند"
+  },
+  {
+   "t": 1792351900.0,
+   "n": "زهره فراهانی خبرنگار عاصم منیر با پیشنهاد جدید آمریکا وارد تهران خواهد شد",
+   "fa": "‼️زهره فراهانی، خبرنگار: عاصم منیر با پیشنهاد جدید آمریکا وارد تهران خواهد شد"
+  },
+  {
+   "t": 1792352069.0,
+   "n": "general ronald clark commander of u s army pacific wants to demonstrate more advanced american military capabilities across the indo pacific to strengthen deterrence against china and prevent war according to ft clark said the u s must reveal enough military capability and readiness to give your adversary pause including through deployments of typhon missile systems capable of firing tomahawk crui",
+   "fa": "🇺🇸🇨🇳⚡️ — ژنرال رونالد کلارک، فرمانده ارتش ایالات متحده در اقیانوس آرام، به گزارش فایننشال تایمز، می‌خواهد توانمندی‌های پیشرفته‌تر نظامی آمریکا را در سراسر منطقه هند-پاسیفیک به نمایش بگذارد تا بازدارندگی در برابر چین را تقویت کرده و از جنگ جلوگیری کند. کلارک گفت که آمریکا باید توانمندی و آمادگی نظامی کافی را برای «وادار کردن دشمن به مکث» آشکار کند، از جمله از طریق استقرار سامانه‌های موشکی تایفون که"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 162
+  "requests": 163
  },
- "flip": 916,
+ "flip": 917,
  "quote_n": 378,
  "signals": [
   {
@@ -1463,6 +1463,11 @@
    "t": 1792351883.803344,
    "s": 5,
    "p": 85
+  },
+  {
+   "t": 1792352166.10972,
+   "s": 2,
+   "p": 60
   }
  ],
  "risk": {
