@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108374
+   "last_id": 108377
   },
   "khabarfouri": {
    "last_id": 569949
@@ -367,11 +367,6 @@
  },
  "recent": [
   {
-   "t": 1792260323.0,
-   "n": "دادستان تهران روغن و لاستیک ماشین مستقیما به مردم عرضه می شود ۳۰۰ نقطه از ابتدای ماه آبان به صورت مستقیم لاستیک و روغن موتور را در تهران عرضه خواهند کرد",
-   "fa": "🎥 دادستان تهران: روغن و لاستیک ماشین مستقیما به مردم عرضه می‌شود ۳۰۰ نقطه از ابتدای ماه آبان به‌صورت مستقیم لاستیک و روغن‌موتور را در تهران عرضه خواهند کرد."
-  },
-  {
    "t": 1792260413.0,
    "n": "egypt s president says he will leave office in 2030 president abdel fattah el sisi who has so far ruled for over a dozen years pledged to respect constitutional limits while also seeking parliamentary approval to help defend saudi arabia",
    "fa": "🔴 رئیس‌جمهور مصر اعلام کرد در سال ۲۰۳۰ از مقام خود کناره‌گیری خواهد کرد به گزارش نیویورک تایمز رئیس‌جمهور عبدالفتاح السیسی که تاکنون بیش از یک دهه حکومت کرده است، متعهد شد که به محدودیت‌های قانون اساسی احترام بگذارد و در عین حال به دنبال کسب موافقت پارلمان برای کمک به دفاع از عربستان سعودی است."
@@ -665,13 +660,18 @@
    "t": 1792285493.0,
    "n": "دقایقی قبل زلزله ۳ ۴ ریشتری در بومهن شرق تهران",
    "fa": "🚨دقایقی قبل زلزله ۳.۴ ریشتری در بومهن، شرق تهران"
+  },
+  {
+   "t": 1792285930.0,
+   "n": "pro plc media announced the killing of three houthis ansarallah officers in taiz identified as major general muhyiddin al shami the commander of an unnamed special force brigade major general kamal al rajali major general tareq al sharif",
+   "fa": "🇾🇪❌🇾🇪 — رسانه‌های وابسته به دولت نجات ملی (PLC) از کشته شدن سه افسر ارشد حوثی (انصارالله) در تعز خبر دادند: سرلشکر محی الدین الشامی، فرمانده یک تیپ نیروی ویژه سرلشکر کمال الرجالی سرلشکر طارق الشریف"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 2
+  "requests": 3
  },
- "flip": 774,
+ "flip": 775,
  "quote_n": 333,
  "signals": [
   {
@@ -1448,6 +1448,11 @@
    "t": 1792285577.187119,
    "s": 3,
    "p": 20
+  },
+  {
+   "t": 1792286180.7730448,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
