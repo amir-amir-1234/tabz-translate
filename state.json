@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132033
+   "last_id": 132034
   },
   "TelNews_Magazine": {
-   "last_id": 101426
+   "last_id": 101427
   },
   "NE_WG": {
-   "last_id": 114891
+   "last_id": 114892
   }
  },
  "fails": {},
@@ -377,16 +377,6 @@
  },
  "recent": [
   {
-   "t": 1792328240.0,
-   "n": "the house of representatives session that was announced today to discuss supporting saudi arabia militarily was supposedly extended for two more days to allow the largest number of members of parliament to speak and complete their statements regarding egypt s supportive stance towards saudi arabia so far there is no official announcement that egypt will be or not be a part of the war until all req",
-   "fa": "⚡️🇪🇬 جلسه مجلس نمایندگان مصر که برای بررسی حمایت نظامی از عربستان اعلام شده بود، ظاهراً برای دو روز دیگر تمدید شد تا به تعداد بیشتری از نمایندگان اجازه داده شود درباره موضع حمایتی مصر از عربستان سخنرانی کنند و بیانیه‌های خود را کامل نمایند. تاکنون هیچ بیانیه رسمی مبنی بر اینکه مصر بخشی از جنگ خواهد بود یا نخواهد بود، تا زمان برآورده شدن تمام الزامات، صادر نشده است، به جز «ارائه حمایت در هر زمینه ا"
-  },
-  {
-   "t": 1792328251.0,
-   "n": "طائب آمریکایی ها وارد جنگ نمی شوند چون شیوه پاسخ ما غیرقابل پیش بینی شده",
-   "fa": "💢طائب: آمریکایی‌ها وارد جنگ نمی‌شوند چون شیوه پاسخ ما غیرقابل‌پیش‌بینی شده"
-  },
-  {
    "t": 1792328368.0,
    "n": "iran s new defense minister mehrdad akhlaqi ketabchi our finger is on the trigger we are ready for war with the zionists we are not building new factories at the old locations instead we are building them inside mountains and in secure facilities",
    "fa": "🇮🇷❌🇮🇱 — وزیر دفاع جدید ایران، مهرداد اخلاقی کتابچی: دست ما روی ماشه است؛ ما برای جنگ با صهیونیست‌ها آماده‌ایم. ما کارخانه‌های جدید را در مکان‌های قدیمی نمی‌سازیم. در عوض، آن‌ها را درون کوه‌ها و در تأسیسات امن می‌سازیم."
@@ -675,20 +665,25 @@
    "t": 1792341080.0,
    "n": "u s officials condemn west bank attacks as netanyahu casts doubt on them prime minister benjamin netanyahu of israel has downplayed accounts of recent extremist attacks on palestinians in the west bank amid the annual olive harvest",
    "fa": "⭕️ واکنش مقامات آمریکایی به حملات در کرانه باختری و ابراز تردید نتانیاهو به گزارش نیویورک تایمز بنیامین نتانیاهو نخست‌وزیر اسرائیل گزارش‌های مربوط به حملات افراط‌گرایان اخیر علیه فلسطینیان در کرانه باختری را در جریان فصل سالانه برداشت زیتون کم‌اهمیت جلوه داده است در حالی که مقامات آمریکایی این حملات را محکوم کرده‌اند."
+  },
+  {
+   "t": 1792341542.0,
+   "n": "حمله اسرائیل به وادی حجیر لبنان",
+   "fa": "🚨 〰️❌🏴حمله اسرائیل به وادی حجیر لبنان"
+  },
+  {
+   "t": 1792341578.0,
+   "n": "بعد از ایران خودرو شرکت سایپا نیز درخواست افزایش قیمت محصولات خودش رو اعلام کرده",
+   "fa": "⭕️بعد از ایران خودرو، شرکت سایپا نیز درخواست افزایش قیمت محصولات خودش رو اعلام کرده"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 130
+  "requests": 131
  },
- "flip": 888,
- "quote_n": 364,
+ "flip": 889,
+ "quote_n": 365,
  "signals": [
-  {
-   "t": 1792254965.519416,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1792256164.2939746,
    "s": 4,
@@ -1493,6 +1488,16 @@
    "t": 1792341351.8852217,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1792341674.0520573,
+   "s": 4,
+   "p": 75
+  },
+  {
+   "t": 1792341677.5032485,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
