@@ -281,7 +281,9 @@
     "WP-WSJ-0003985803",
     "WP-WSJ-0003985843",
     "WP-WSJ-0003985947",
-    "SB10222543145185073693004593513730667629690"
+    "SB10222543145185073693004593513730667629690",
+    "SB11676206231181634135104593519853452489038",
+    "SB10222543145185073693004593517310691323402"
    ]
   },
   "NYT": {
@@ -381,16 +383,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792340285.0,
-   "n": "protests again erupted in the heart of the french capital paris ahead of president macron s speech regarding yesterday s violent riot the crs 8 a special anti riot unit of the french national police was deployed and ordered to confront the protesters",
-   "fa": "🇫🇷⚡️ — اعتراضات بار دیگر در قلب پایتخت فرانسه، پاریس، پیش از سخنرانی رئیس‌جمهور مکرون درباره شورش خشونت‌آمیز روز گذشته سر گرفت. یگان CRS 8، یگان ویژه ضد شورش پلیس ملی فرانسه، مستقر شده و دستور مقابله با معترضان را دریافت کرد."
-  },
-  {
-   "t": 1792340305.0,
-   "n": "an israeli airstrike targeted houla southern lebanon a short while ago",
-   "fa": "🇮🇱❌🇱🇧 — دقایقی پیش یک حمله هوایی اسرائیل منطقه هولا در جنوب لبنان را هدف قرار داد."
-  },
   {
    "t": 1792340408.0,
    "n": "israeli prime minister benjamin netanyahu responding to president trump s endorsement said only the two of us can destroy iran s nuclear program",
@@ -680,14 +672,24 @@
    "t": 1792356177.0,
    "n": "president trump via truth social my decision on russia is a very simple one i am in the process of negotiating peace in the war between russia and ukraine and don t want to do anything that will drive foolishly russia away from the bargaining table great progress is being made and that includes current hostage negotiations signing that document at this time will do that and i can sign it later or ",
    "fa": "🇺🇸🇷🇺🇺🇦⚡️ — رئیس‌جمهور ترامپ از طریق توییتر (تروث سوشال): تصمیم من درباره روسیه بسیار ساده است. من در فرآیند مذاکره برای صلح در جنگ میان روسیه و اوکراین هستم و نمی‌خواهم کاری کنم که ابلهانه روسیه را از میز مذاکره دور کند. پیشرفت‌های بزرگی در جریان است، و این شامل مذاکرات جاری گروگان‌گیری نیز می‌شود! امضای آن سند در این زمان چنین کاری خواهد کرد و من می‌توانم بعداً، یا هر زمان که بخواهم، آن را امضا ک"
+  },
+  {
+   "t": 1792356300.0,
+   "n": "opinion why france is burning jean luc mélenchon and the left see an opening to take the presidency next year",
+   "fa": "⭕️ نگاهی به تحولات سیاسی فرانسه و خیزش چپ‌گراها برای ریاست‌جمهوری آینده به گزارش وال‌استریت ژورنال ژان‌لوک ملانشون و جناح چپ فرصتی را برای تصاحب مقام ریاست‌جمهوری در سال آینده می‌بینند."
+  },
+  {
+   "t": 1792356300.0,
+   "n": "opinion to russia with love signed donald trump waives sanctions and tariffs under the lindsey graham law",
+   "fa": "🚨 اقدام دونالد ترامپ در لغو تحریم‌ها و تعرفه‌ها تحت قانون لیندسی گراهام به گزارش وال‌استریت ژورنال ترامپ تحریم‌ها and تعرفه‌ها را تحت قانون لیندسی گراهام لغو می‌کند."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 172
+  "requests": 174
  },
- "flip": 927,
- "quote_n": 380,
+ "flip": 928,
+ "quote_n": 382,
  "signals": [
   {
    "t": 1792270283.185533,
@@ -1462,6 +1464,11 @@
   {
    "t": 1792356378.9608357,
    "s": 2,
+   "p": 60
+  },
+  {
+   "t": 1792356678.2124088,
+   "s": 4,
    "p": 60
   }
  ],
