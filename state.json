@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108499
+   "last_id": 108500
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,7 +10,7 @@
    "last_id": 132042
   },
   "TelNews_Magazine": {
-   "last_id": 101440
+   "last_id": 101441
   },
   "NE_WG": {
    "last_id": 114902
@@ -380,16 +380,6 @@
  },
  "recent": [
   {
-   "t": 1792338029.0,
-   "n": "nbc s welker who do you think specifically is to blame for the disruption to the starlink and starshield services do you think it was a deliberate interruption zelensky it was the message from the american government to limit this speed and technically spacex did it",
-   "fa": "🇺🇦🇺🇸⚡️ — ولکر از ان‌بی‌سی: چه کسی را به‌طور مشخص مقکر اخلال در خدمات استارلینک و استارشیلد می‌دانید؟ آیا فکر می‌کنید این یک قطع عمدی بوده است؟ زلنسکی: این پیامی از سوی دولت آمریکا برای محدود کردن این سرعت بود و از نظر فنی، اسپیس‌اکس این کار را انجام داد."
-  },
-  {
-   "t": 1792338078.0,
-   "n": "nbc s welker has the starlink system been fully restored what s the status right now zelensky no we have limitations",
-   "fa": "🇺🇦🇺🇸⚡️ — ولکر از ان‌بی‌سی: آیا سیستم استارلینک به‌طور کامل بازیابی شده است؟ وضعیت در حال حاضر چگونه است؟ زلنسکی: نه، ما همچنان با محدودیت‌هایی مواجه هستیم."
-  },
-  {
    "t": 1792338137.0,
    "n": "nbc s welker has the u s cut off intelligence sharing with ukraine zelensky it was blocked for a period of time and then it was unblocked by the american side we are very thankful for this now it works",
    "fa": "🇺🇦🇺🇸⚡️ — ولکر از ان‌بی‌سی: آیا ایالات متحده اشتراک‌گذاری اطلاعاتی با اوکراین را قطع کرده است؟ زلنسکی: این موضوع برای مدتی مسدود شده بود و سپس از سوی طرف آمریکایی رفع مسدودیت شد. ما بسیار سپاسگزاریم. اکنون کار می‌کند."
@@ -678,20 +668,25 @@
    "t": 1792347762.0,
    "n": "آشوب در آرژانتین معترضان پرچم آمریکا را لگدمال کردند",
    "fa": "🇦🇷🇺🇸آشوب در آرژانتین؛ معترضان پرچم آمریکا را لگدمال کردند‼️"
+  },
+  {
+   "t": 1792348886.0,
+   "n": "شهردار تهران مترو تا پایان شرایط جنگی رایگان می ماند",
+   "fa": "⭕️شهردار تهران: مترو تا پایان شرایط جنگی رایگان می‌ماند"
+  },
+  {
+   "t": 1792349018.0,
+   "n": "alerts in abha city southwestern saudi arabia",
+   "fa": "🇾🇪❌🇸🇦 — اعلام هشدار در شهر أبها در جنوب غربی عربستان سعودی."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 151
+  "requests": 152
  },
- "flip": 908,
- "quote_n": 371,
+ "flip": 909,
+ "quote_n": 373,
  "signals": [
-  {
-   "t": 1792262475.9859216,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1792262781.7239487,
    "s": 4,
@@ -1451,19 +1446,29 @@
    "t": 1792347976.1327085,
    "s": 4,
    "p": 40
+  },
+  {
+   "t": 1792349178.2845497,
+   "s": 3,
+   "p": 50
+  },
+  {
+   "t": 1792349181.8337698,
+   "s": 4,
+   "p": 70
   }
  ],
  "risk": {
-  "base": 61,
-  "ts": 1792344681.4182417,
+  "base": 60,
+  "ts": 1792349184.8358808,
   "attack": false,
-  "n": 162,
+  "n": 153,
   "shares": {
    "1": 0,
-   "2": 2,
-   "3": 28,
-   "4": 53,
-   "5": 18
+   "2": 3,
+   "3": 26,
+   "4": 56,
+   "5": 15
   }
  },
  "attack_ts": 1792268478.008418,
