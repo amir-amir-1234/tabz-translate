@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108466
+   "last_id": 108470
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132029
+   "last_id": 132030
   },
   "TelNews_Magazine": {
    "last_id": 101425
   },
   "NE_WG": {
-   "last_id": 114886
+   "last_id": 114887
   }
  },
  "fails": {},
@@ -375,21 +375,6 @@
  },
  "recent": [
   {
-   "t": 1792323932.0,
-   "n": "موج اعتراضات علیه گرانی بحران مسکن و مشکلات آموزشی در اروپا درگیری ها در چند کشور موجی از اعتراضات در کشورهای اروپایی به راه افتاده که محور اصلی آن افزایش هزینه های زندگی بحران مسکن دستمزدهای پایین و کمبود بودجه خدمات عمومی است فرانسه کانون اصلی این اعتراضات بوده است فرانسه حدود ۵۵۰ هزار نفر در سراسر کشور تظاهرات کردند ساختمان شهرداری لیموژ و دفتر گردشگری لیون به آتش کشیده شد حدود ۱۸۰۰ نفر بازداشت",
-   "fa": "🇪🇺موج اعتراضات علیه گرانی، بحران مسکن و مشکلات آموزشی در اروپا؛ درگیری‌ها در چند کشور 〰️ موجی از اعتراضات در کشورهای اروپایی به راه افتاده که محور اصلی آن افزایش هزینه‌های زندگی، بحران مسکن، دستمزدهای پایین و کمبود بودجه خدمات عمومی است. فرانسه کانون اصلی این اعتراضات بوده است. 🇫🇷فرانسه: حدود ۵۵۰ هزار نفر در سراسر کشور تظاهرات کردند. ساختمان شهرداری لیموژ و دفتر گردشگری لیون به آتش کشیده شد؛ حدود "
-  },
-  {
-   "t": 1792324045.0,
-   "n": "iranian foreign minister abbas araghchi our conditions are completely clear and were presented to the united states as part of a seven day plan they provided some comments which we are currently reviewing but as far as we are concerned the proposal remains on the table if there were any sincerity on the american side which there is not the path to fully reopening the strait of hormuz would be clea",
-   "fa": "🔄 به‌روزرسانی 🇮🇷🇺🇸⚡️ — عباس عراقچی، وزیر امور خارجه ایران: شرایط ما کاملاً روشن است و به عنوان بخشی از یک طرح هفت روزه به ایالات متحده ارائه شده است. آن‌ها نظراتی دادند که در حال بررسی آن هستیم، اما از نظر ما، این پیشنهاد همچنان روی میز است. اگر در طرف آمریکایی صداقتی وجود داشت، که ندارد، مسیر بازگشایی کامل تنگه هرمز روشن بود. اگر شرایط ما را برآورده کنند، تنگه هرمز در روز ششم بازگشایی خواهد شد و "
-  },
-  {
-   "t": 1792324177.0,
-   "n": "رهبر ۱۷ساله جنبش دانشجویی در فرانسه خواستار استقلال تصمیم گیری فرانسه بازنگری در روابط با ناتو تشکیل یک کشور فلسطینی مستقل پایان دادن به اشغال و شهرک سازی و توقف جنگ علیه غزه شد",
-   "fa": "🇫🇷🇮🇱🇵🇸رهبر ۱۷ساله جنبش دانشجویی در فرانسه خواستار استقلال تصمیم‌گیری فرانسه، بازنگری در روابط با ناتو، تشکیل یک کشور فلسطینی مستقل، پایان دادن به اشغال و شهرک‌سازی، و توقف جنگ علیه غزه شد‼️"
-  },
-  {
    "t": 1792323763.0,
    "n": "pope leo welcomed back as he delivers angelus prayer days after lung cancer surgery pope leo xiv made a remarkable return to the vatican on sunday appearing before thousands of catholic faithful in st peter s square just five days after undergoing surgery to remove a cancerous tumor from his lung the 71 year old pontiff delivered his traditional angelus prayer from a window overlooking the square ",
    "fa": "⭕️ بازگشت پاپ لئو چهاردهم به واتیکان و اجرای دعای آنجلوس پس از جراحی سرطان ریه به گزارش فاکس نیوز پاپ لئو چهاردهم روز یکشنبه بازگشتی چشمگیر به واتیکان داشت و تنها پنج روز پس از انجام جراحی برای خارج کردن یک تومور سرطانی از ریه خود، در برابر هزاران تن از مومنان کاتولیک در میدان سن پیتر ظاهر شد. این رهبر ۷۱ ساله کلیسای کاتولیک دعای سنتی آنجلوس خود را از پنجره‌ای رو به میدان قرائت کرد که این نخستین ب"
@@ -673,13 +658,28 @@
    "t": 1792339461.0,
    "n": "israeli prime minister netanyahu this is the world if you want to survive prepare for war if you want to prevent war prepare for war if you want to prevent your enemies from striking you strike them when necessary",
    "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: جهان این است: اگر می‌خواهید زنده بمانید، برای جنگ آماده شوید. اگر می‌خواهید از جنگ جلوگیری کنید، برای جنگ آماده شوید. اگر می‌خواهید مانع از ضربه زدن دشمنانتان به خود شوید، در صورت لزوم به آن‌ها ضربه بزنید."
+  },
+  {
+   "t": 1792339529.0,
+   "n": "israeli prime minister netanyahu i established the ground barrier between israel and africa along the egyptian border it was primarily a barrier against infiltration otherwise there would already be another million muslims here and we would have been flooded like europe",
+   "fa": "🇮🇱🇪🇬⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: من مانع زمینی میان اسرائیل و آفریقا را در امتداد مرز مصر ایجاد کردم. این در درجه اول مانعی در برابر نفوذ بود. در غیر این صورت، در حال حاضر یک میلیون مسلمان دیگر اینجا بودند و مانند اروپا غرق می‌شدیم."
+  },
+  {
+   "t": 1792339613.0,
+   "n": "israeli prime minister netanyahu there was a bombing of a yandex center in russia by ukraine 60 of the online activity coming from russian actors working against us disappeared",
+   "fa": "🇮🇱🇺🇦🇷🇺⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: مرکز یاندکس در روسیه توسط اوکراین بمباران شد. ۶۰ درصد از [فعالیت‌های آنلاین] بازیگران روسی که علیه ما کار می‌کردند، ناپدید شد."
+  },
+  {
+   "t": 1792339755.0,
+   "n": "israeli prime minister netanyahu what is victory it is breaking the enemy s power and its belief in its ability to pose a real threat you influence the enemy first by breaking its capabilities but also by breaking its spirit that is what delivers the result",
+   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: پیروزی چیست؟ پیروزی یعنی شکستن قدرت دشمن و باور آن به توانایی‌اش در ایجاد یک تهدید واقعی. شما ابتدا با از بین بردن توانایی‌های دشمن و همچنین با شکستن روحیه او، روی او تأثیر می‌گذارید. این همان چیزی است که نتیجه را رقم می‌زند."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 122
+  "requests": 123
  },
- "flip": 874,
+ "flip": 877,
  "quote_n": 363,
  "signals": [
   {
@@ -1446,6 +1446,21 @@
    "t": 1792339604.9062483,
    "s": 4,
    "p": 70
+  },
+  {
+   "t": 1792339875.6197288,
+   "s": 4,
+   "p": 40
+  },
+  {
+   "t": 1792339883.622028,
+   "s": 3,
+   "p": 30
+  },
+  {
+   "t": 1792339892.1410172,
+   "s": 4,
+   "p": 50
   }
  ],
  "risk": {
