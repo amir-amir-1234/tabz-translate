@@ -82,7 +82,8 @@
     "https://www.foxnews.com/world/violence-erupts-france-protests-macron-warns-unrest-being-exploited",
     "https://www.foxnews.com/world/former-us-ambassador-says-south-korea-prosecuted-him-over-speech-made-american-soil",
     "https://www.foxnews.com/world/three-men-158-years-murdering-american-australian-surfers-dumping-bodies-mexican-well",
-    "https://www.foxnews.com/world/limoges-town-hall-largely-lost-after-far-left-rioters-set-historic-building-fire-amid-french-unrest"
+    "https://www.foxnews.com/world/limoges-town-hall-largely-lost-after-far-left-rioters-set-historic-building-fire-amid-french-unrest",
+    "https://www.foxnews.com/world/fatalities-injuries-reported-canadian-forces-base-wainwright-alberta-after-incident-sparked-fire"
    ]
   },
   "WSJ": {
@@ -669,7 +670,7 @@
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 26
+  "requests": 27
  },
  "flip": 792,
  "quote_n": 338,
