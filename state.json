@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108441
+   "last_id": 108444
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,7 +10,7 @@
    "last_id": 132027
   },
   "TelNews_Magazine": {
-   "last_id": 101422
+   "last_id": 101423
   },
   "NE_WG": {
    "last_id": 114884
@@ -373,16 +373,6 @@
  },
  "recent": [
   {
-   "t": 1792317901.0,
-   "n": "به گزارش سی ان ان میزان کشتی های مورد هدف قرار گرفته ماه جاری در تنگه هرمز توسط ایران به ۲۱ فروند افزایش یافته است",
-   "fa": "🇺🇸🇮🇷به گزارش سی‌ان‌ان: میزان کشتی‌های مورد هدف قرار گرفته ماه جاری در تنگه هرمز توسط ایران به ۲۱ فروند افزایش یافته است"
-  },
-  {
-   "t": 1792319459.0,
-   "n": "european parliament votes to confront muslim brotherhood islamist entryism in overwhelming vote following the sanctioning of foreign muslim brotherhood groups by the trump administration the european parliament recently took its own action against the transnational radical islamist group as europe begins to respond to the threat of radical islam across the continent an overwhelming majority of the",
-   "fa": "🔴 پارلمان اروپا قطعنامه ای را در محکومیت اخوان المسلمین و نفوذ اسلام گرایان تصویب کرد به گزارش فاکس نیوز، به دنبال تحریم گروه های خارجی اخوان المسلمین توسط دولت ترامپ، پارلمان اروپا اخیراً اقدام خود را علیه این گروه رادیکال و فراملیتی اسلامی انجام داد. همزمان با شروع واکنش اروپا به تهدید اسلام رادیکال در سراسر این قاره، اکثریت قاطع پارلمان اروپا به قطعنامه ای رای دادند که اخوان المسلمین و اقدامات "
-  },
-  {
    "t": 1792320014.0,
    "n": "ukrainian president zelensky says russia has attacked ukraine s energy and oil and gas sector 76 times since president trump announced an energy ceasefire a week ago",
    "fa": "🇺🇦🇺🇸🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین می‌گوید روسیه از زمان اعلام آتش‌بس انرژی توسط رئیس‌جمهور ترامپ در یک هفته گذشته، ۷۶ بار به بخش انرژی و نفت و گاز اوکراین حمله کرده است."
@@ -671,20 +661,25 @@
    "t": 1792337359.0,
    "n": "u s treasury secretary scott bessent i will point out the uk in may waived its embargo on diesel and jet fuel made with russian crude so you know where is the outrage for the rest of the world president zelensky does not criticize his european partners",
    "fa": "🇺🇸🇪🇺🇺🇦🇷🇺⚡️ — وزیر خزانه‌داری آمریکا، اسکات بسنت: من اشاره می‌کنم که بریتانیا در ماه مه تحریم خود را بر روی دیزل و سوخت جت تولید شده با نفت خام روسیه لغو کرد. بنابراین، می‌دانید، خشم و اعتراض برای بقیه جهان کجاست؟ رئیس‌جمهور زلنسکی از شرکای اروپایی خود انتقاد نمی‌کند."
+  },
+  {
+   "t": 1792337416.0,
+   "n": "nbc s welker president zelensky also said there was a break in intelligence sharing as well bessent president zelensky should be very careful about making statements like this that aren t true",
+   "fa": "🇺🇸🇺🇦⚡️ — ولکر از ان‌بی‌سی: رئیس‌جمهور زلنسکی همچنین گفت که در اشتراک‌گذاری اطلاعاتی نیز وقفه ایجاد شده است. بسنت: رئیس‌جمهور زلنسکی باید در مورد بیان اظهاراتی از این دست که واقعیت ندارند، بسیار مراقب باشد."
+  },
+  {
+   "t": 1792337551.0,
+   "n": "nbc s welker zelensky says ukraine will not prevail if the united states sides with russia is president trump siding with russia here bessent no again that s a false binary what does the u s provide the u s provides intelligence starlink we allow nato to buy u s armaments and resell them to ukraine",
+   "fa": "🇺🇸🇺🇦🇷🇺⚡️ — ولکر از ان‌بی‌سی: زلنسکی می‌گوید اگر ایالات متحده طرف روسیه را بگیرد، اوکراین پیروز نخواهد شد. آیا رئیس‌جمهور ترامپ در اینجا طرف روسیه را می‌گیرد؟ بسنت: خیر. باز هم می‌گویم، این یک دوگانه دروغین است. ایالات متحده چه چیزی فراهم می‌کند؟ ایالات متحده اطلاعات و استارلینک را فراهم می‌کند. ما به ناتو اجازه می‌دهیم تسلیحات آمریکایی را بخрад و به اوکراین بفروشد."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 113
+  "requests": 114
  },
- "flip": 855,
+ "flip": 857,
  "quote_n": 360,
  "signals": [
-  {
-   "t": 1792251080.880558,
-   "s": 3,
-   "p": 50
-  },
   {
    "t": 1792251375.8933463,
    "s": 3,
