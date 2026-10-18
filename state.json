@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108402
+   "last_id": 108403
   },
   "khabarfouri": {
    "last_id": 569949
@@ -641,14 +641,19 @@
    "t": 1792315887.0,
    "n": "عراقچی در مقابل تهدیدات دشمن سر خم نمی کنیم وزیر امور خارجه ما در مقابل تهدیدات به هیچ وجه سر خم نمی کنیم بیشتر از گذشته آمادگی دفاع داریم در عین حال در مسیر دیپلماسی شرافتمندانه گام برداریم",
    "fa": "🎥عراقچی: در مقابل تهدیدات دشمن سر خم نمی‌کنیم 💢وزیر امور خارجه: ما در مقابل تهدیدات به هیچ وجه سر خم نمی‌کنیم؛ بیشتر از گذشته آمادگی دفاع داریم در عین حال در مسیر دیپلماسی شرافتمندانه گام برداریم."
+  },
+  {
+   "t": 1792316228.0,
+   "n": "an unidentified object possibly a drone was detected in lithuanian airspace on the morning of october 18 triggering air raid alerts nato fighter jets were scrambled but the object was not intercepted the object may have exploded near pasvalys in northern lithuania close to the latvian border latvia also issued emergency alerts in three municipalities over concerns the object could enter its airspa",
+   "fa": "🇱🇻🇱🇹⚡️— یک شیء ناشناس، احتمالاً یک پهپاد، صبح ۱۸ اکتبر در حریم هوایی لیتوانی شناسایی شد که باعث به صدا درآمدن آژیرهای هشدار حمله هوایی گردید. جنگنده‌های ناتو به پرواز درآمدند، اما این شیء رهگیری نشد. این شیء ممکن است در نزدیکی پاسوالیوس در شمال لیتوانی و در نزدیکی مرز لتونی منفجر شده باشد. لتونی نیز به دلیل نگرانی از ورود این شیء به حریم هوایی خود، در سه شهرداری هشدار اضطراری صادر کرد. پلیس لیتوان"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 55
+  "requests": 56
  },
  "flip": 811,
- "quote_n": 345,
+ "quote_n": 346,
  "signals": [
   {
    "t": 1792230375.9032571,
@@ -1434,6 +1439,11 @@
    "t": 1792316168.3194063,
    "s": 4,
    "p": 70
+  },
+  {
+   "t": 1792316477.762038,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
