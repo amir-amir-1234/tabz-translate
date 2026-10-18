@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108418
+   "last_id": 108420
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,7 +10,7 @@
    "last_id": 132001
   },
   "TelNews_Magazine": {
-   "last_id": 101400
+   "last_id": 101401
   },
   "NE_WG": {
    "last_id": 114853
@@ -371,11 +371,6 @@
  },
  "recent": [
   {
-   "t": 1792289477.0,
-   "n": "the ad situation in st petersburg has deteriorated rapidly earlier they were managing to intercept almost everything s 300 400 pantsir systems have mostly stopped operating around and in the city and for the last 30 minutes almost exclusively mobile fire groups have been engaging ukrainian uavs as a result the city is severely struggling to handle the massive influx of uavs",
-   "fa": "🔄 به‌روزرسانی 🔴 وضعیت پدافند هوایی در سن‌پترزبورگ به سرعت وخیم شده است، پیش‌تر آن‌ها موفق می‌شدند تقریباً همه چیز را رهگیری کنند، سامانه‌های اس-۳۰۰/۴۰۰ و پانتسیر تا حد زیادی در داخل و اطراف شهر از کار افتاده‌اند و در ۳۰ دقیقه گذشته تقریباً منحصراً گروه‌های آتش سیار با پهپادهای اوکراینی درگیر بوده‌اند. در نتیجه، شهر به‌شدت در مقابله با هجوم انبوه پهپادها دچار مشکل شده است"
-  },
-  {
    "t": 1792290377.0,
    "n": "nasa firms data shows a fire spreading northwest initially started at training grounds at cfb wainwright",
    "fa": "🇨🇦⚡️ — داده‌های ناسا (FIRMS) نشان می‌دهد که آتش‌سوزی در پایگاه نظامی وین‌رایت که ابتدا از مناطق آموزشی آغاز شده بود، در حال گسترش به سمت شمال غربی است."
@@ -669,13 +664,18 @@
    "t": 1792320960.0,
    "n": "zelensky takes a risk by publicly confronting trump over russia plus masked israeli settlers attack a group of european diplomats and a playboy inherits the world s most notorious mercenary force",
    "fa": "🔴 اقدام پرخطر زلنسکی در رویارویی علنی با ترامپ بر سر روسیه و سایر تحولات جهانی به گزارش وال‌استریت ژورنال، زلنسکی با رویارویی علنی با ترامپ بر سر روسیه دست به یک قمار خطرناک می‌زند. علاوه بر این، شهرک‌نشینان نقاب‌دار اسرائیلی به گروهی از دیپلمات‌های اروپایی حمله کردند و یک فرد عیاش مجهزترین و بدنام‌ترین نیروی مزدور جهان را به ارث می‌برد."
+  },
+  {
+   "t": 1792321594.0,
+   "n": "former hungarian pm viktor orbán today hungary is no longer neutral it is anti russian it has declared russia an enemy become pro ukrainian and entered the russian ukrainian war on the ukrainian side alongside the germans the french and the british they are taking our money to ukraine and dragging us into the war",
+   "fa": "🇭🇺🇷🇺🇺🇦⚡️ — ویکتور اوربان، نخست‌وزیر سابق مجارستان: امروز مجارستان دیگر بی‌طرف نیست، بلکه ضد روسی است. این کشور روسیه را دشمن اعلام کرده، حامی اوکراین شده و در کنار آلمانی‌ها، فرانسوی‌ها و بریتانیایی‌ها وارد جنگ روسیه و اوکراین شده است. آنها پول ما را به اوکراین می‌برند و ما را وارد جنگ می‌کنند."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 71
+  "requests": 72
  },
- "flip": 823,
+ "flip": 824,
  "quote_n": 349,
  "signals": [
   {
