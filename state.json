@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108472
+   "last_id": 108475
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132031
+   "last_id": 132032
   },
   "TelNews_Magazine": {
    "last_id": 101426
   },
   "NE_WG": {
-   "last_id": 114888
+   "last_id": 114889
   }
  },
  "fails": {},
@@ -86,7 +86,8 @@
     "https://www.foxnews.com/world/fatalities-injuries-reported-canadian-forces-base-wainwright-alberta-after-incident-sparked-fire",
     "https://www.foxnews.com/world/european-parliament-votes-confront-muslim-brotherhood-islamist-entryism-overwhelming-vote",
     "https://www.foxnews.com/world/pope-leo-welcomed-back-delivers-angelus-prayer-days-after-lung-cancer-surgery",
-    "https://www.foxnews.com/world/meloni-condemns-gangs-thugs-after-protests-turned-violent-across-italy"
+    "https://www.foxnews.com/world/meloni-condemns-gangs-thugs-after-protests-turned-violent-across-italy",
+    "https://www.foxnews.com/world/wheres-macron-french-leader-blasted-attending-concert-riots-escalated"
    ]
   },
   "WSJ": {
@@ -375,21 +376,6 @@
  },
  "recent": [
   {
-   "t": 1792325326.0,
-   "n": "ز ل نسکی همچنان به دستورات ترامپ بی اعتنا است تصاویری از هدف قرار دادن یک ایستگاه صادرات سوخت در بندر سن پترزبورگ روسیه صبح امروز منتشر شده است",
-   "fa": "🇺🇦🇺🇸🇷🇺‼️زِلِنسکی همچنان به دستورات ترامپ بی‌اعتنا است. 💢تصاویری از هدف قرار دادن یک ایستگاه صادرات سوخت در بندر سن پترزبورگ روسیه، صبح امروز، منتشر شده است."
-  },
-  {
-   "t": 1792325461.0,
-   "n": "وزیر دفاع جنگنده فوق پیشرفته ایرانی ساختیم که سال دیگه تیکاف میکنه و کاملا ساخت ایرانه",
-   "fa": "⭕️وزیر دفاع: جنگنده فوق پیشرفته ایرانی ساختیم که سال دیگه تیکاف میکنه و کاملا ساخت ایرانه"
-  },
-  {
-   "t": 1792325853.0,
-   "n": "مجری فاکس نیوز در جواب توییت مکرون تو یک سمور کثیف و منفوری خودت این کار رو کردی استعفا بده",
-   "fa": "🇫🇷🇺🇸مجری فاکس نیوز در جواب توییت مکرون: تو یک سمور کثیف و منفوری، خودت این کار رو کردی، استعفا بده!"
-  },
-  {
    "t": 1792326384.0,
    "n": "توافقات اولیه ایران با پاکستان برای بازگشایی مرز ریمدان در پی بروز مشکلاتی در روند صادرات از مرز ریمدان و تغییرات اعلام شده از سوی طرف پاکستانی در شرایط تعرفه ای و بانکی رایزنی ها برای رفع موانع تجاری و بازگشت صادرات به شرایط عادی آغاز شد در همین راستا رایزنی هایی با مقامات گمرک گبد پاکستان انجام شده تا مسائل و موانع موجود بررسی و زمینه برای تسهیل روند صادرات کالا فراهم شود مذاکرات برای دستیابی به",
    "fa": "🇮🇷🇵🇰توافقات اولیه ایران با پاکستان برای بازگشایی مرز ریمدان 〰️در پی بروز مشکلاتی در روند صادرات از مرز ریمدان و تغییرات اعلام‌ شده از سوی طرف پاکستانی در شرایط تعرفه‌ای و بانکی، رایزنی‌ها برای رفع موانع تجاری و بازگشت صادرات به شرایط عادی آغاز شد. 〰️در همین راستا رایزنی‌هایی با مقامات گمرک گبد پاکستان انجام شده تا مسائل و موانع موجود بررسی و زمینه برای تسهیل روند صادرات کالا فراهم شود. مذاکرات برا"
@@ -673,25 +659,30 @@
    "t": 1792340070.0,
    "n": "فکر میکنید اعتراضات فرانسه از چه شخصی شروع شده ایلوان بینوا پسر بچه ۱۷ ساله رهبر جنبش دانش آموزی فرانسه",
    "fa": "⭕️فکر میکنید اعتراضات فرانسه از چه شخصی شروع شده؟ ایلوان بینوا پسر بچه ۱۷ ساله رهبر جنبش دانش آموزی فرانسه"
+  },
+  {
+   "t": 1792339827.0,
+   "n": "where s macron french leader blasted for attending concert as riots escalated french president emmanuel macron is facing criticism over his decision to attend a celine dion concert friday night on the eve of nationwide demonstrations that descended into violence leaving hundreds of emergency personnel injured and nearly 1 800 people arrested macron and his wife brigitte were spotted at dion s conc",
+   "fa": "⭕️ انتقادات از امانوئل مکرون به دلیل شرکت در کنسرت حین ناآرامی‌ها و خشونت‌های گسترده در فرانسه به گزارش فاکس نیوز امانوئل مکرون رئیس‌جمهور فرانسه به دلیل تصمیم خود برای شرکت در کنسرت سلین دیون در شب جمعه، در آستانه تظاهرات سراسری که به خشونت کشیده شد و صدها نیروی امدادی را زخمی و نزدیک به ۱۸۰۰ نفر را بازداشت کرد، با انتقاداتی مواجه است. به گزارش رسانه‌های فرانسوی، مکرون و همسرش بریژیت در این کنسرت"
+  },
+  {
+   "t": 1792340285.0,
+   "n": "protests again erupted in the heart of the french capital paris ahead of president macron s speech regarding yesterday s violent riot the crs 8 a special anti riot unit of the french national police was deployed and ordered to confront the protesters",
+   "fa": "🇫🇷⚡️ — اعتراضات بار دیگر در قلب پایتخت فرانسه، پاریس، پیش از سخنرانی رئیس‌جمهور مکرون درباره شورش خشونت‌آمیز روز گذشته سر گرفت. یگان CRS 8، یگان ویژه ضد شورش پلیس ملی فرانسه، مستقر شده و دستور مقابله با معترضان را دریافت کرد."
+  },
+  {
+   "t": 1792340305.0,
+   "n": "an israeli airstrike targeted houla southern lebanon a short while ago",
+   "fa": "🇮🇱❌🇱🇧 — دقایقی پیش یک حمله هوایی اسرائیل منطقه هولا در جنوب لبنان را هدف قرار داد."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 124
+  "requests": 126
  },
- "flip": 881,
+ "flip": 883,
  "quote_n": 363,
  "signals": [
-  {
-   "t": 1792253774.12471,
-   "s": 3,
-   "p": 70
-  },
-  {
-   "t": 1792253778.61287,
-   "s": 4,
-   "p": 80
-  },
   {
    "t": 1792254365.215061,
    "s": 4,
@@ -1476,6 +1467,11 @@
    "t": 1792340192.1663277,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792340496.9462912,
+   "s": 5,
+   "p": 80
   }
  ],
  "risk": {
