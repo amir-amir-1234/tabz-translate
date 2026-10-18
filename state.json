@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108503
+   "last_id": 108506
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132052
+   "last_id": 132054
   },
   "TelNews_Magazine": {
    "last_id": 101446
@@ -382,16 +382,6 @@
  },
  "recent": [
   {
-   "t": 1792339408.0,
-   "n": "israeli prime minister netanyahu our national security doctrine requires strengthening our independent ability to produce our own ammunition and weapons we can find partners for this but the partners must be dependent on us not us on them that is a very big difference and this rearmament must take place in industrial and technological facilities underground",
-   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: دکترین امنیت ملی ما مستلزم تقویت توانایی مستقل ما برای تولید مهمات و تسلیحات خودمان است. ما می‌توانیم شرکایی برای این کار پیدا کنیم، اما شرکا باید به ما وابسته باشند، نه ما به آن‌ها. این یک تفاوت بسیار بزرگ است. و این تسلیح مجدد باید در تأسیسات صنعتی و تکنولوژیکی زیرزمینی انجام شود."
-  },
-  {
-   "t": 1792339461.0,
-   "n": "israeli prime minister netanyahu this is the world if you want to survive prepare for war if you want to prevent war prepare for war if you want to prevent your enemies from striking you strike them when necessary",
-   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: جهان این است: اگر می‌خواهید زنده بمانید، برای جنگ آماده شوید. اگر می‌خواهید از جنگ جلوگیری کنید، برای جنگ آماده شوید. اگر می‌خواهید مانع از ضربه زدن دشمنانتان به خود شوید، در صورت لزوم به آن‌ها ضربه بزنید."
-  },
-  {
    "t": 1792339529.0,
    "n": "israeli prime minister netanyahu i established the ground barrier between israel and africa along the egyptian border it was primarily a barrier against infiltration otherwise there would already be another million muslims here and we would have been flooded like europe",
    "fa": "🇮🇱🇪🇬⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: من مانع زمینی میان اسرائیل و آفریقا را در امتداد مرز مصر ایجاد کردم. این در درجه اول مانعی در برابر نفوذ بود. در غیر این صورت، در حال حاضر یک میلیون مسلمان دیگر اینجا بودند و مانند اروپا غرق می‌شدیم."
@@ -680,20 +670,25 @@
    "t": 1792352461.0,
    "n": "واکنش جالب پزشکیان وقتی یک دانش آموز از او پرسید میشه بغلتون کنم",
    "fa": "‼️واکنش جالب پزشکیان وقتی یک دانش آموز از او پرسید: میشه بغلتون کنم؟"
+  },
+  {
+   "t": 1792352718.0,
+   "n": "ground stop at harry reid int l airport las vegas nevada a private jet overran the runway narrowly missing a nearby street",
+   "fa": "🇺🇸⚡️ — توقف پروازها در فرودگاه بین‌المللی هری رید در لاس وگاس، نوادا. یک فروند جت شخصی از باند خارج شد و به طور معجزه‌آسایی از برخورد با خیابان مجاور نجات یافت."
+  },
+  {
+   "t": 1792352859.0,
+   "n": "ukrainian president zelensky told bloomberg that president trump is pressuring kyiv toward surrendering to russia saying recent u s actions appeared intended to force ukraine into concessions i believe steps have been taken to convince ukraine to capitulate zelensky said adding that he feared washington was seeking to end the war sooner at ukraine s expense zelensky also proposed halting ukrainian",
+   "fa": "🇺🇦🇺🇸🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، به بلومبرگ گفت که دونالد ترامپ، رئیس‌جمهور آمریکا، کی‌یف را برای تسلیم شدن در برابر روسیه تحت فشار قرار داده است و اقدامات اخیر ایالات متحده ظاهراً با هدف وادار کردن اوکراین به امتیازدهی انجام شده است. زلنسکی گفت: «من معتقدم گام‌هایی برداشته شده است تا اوکراین را متقاعد به تسلیم کند»، و افزود که او بیم آن دارد که واشنگتن به دنبال پایان دادن زودهنگام "
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 165
+  "requests": 166
  },
- "flip": 919,
- "quote_n": 378,
+ "flip": 921,
+ "quote_n": 379,
  "signals": [
-  {
-   "t": 1792266374.0585687,
-   "s": 5,
-   "p": 90
-  },
   {
    "t": 1792266673.7695122,
    "s": 5,
