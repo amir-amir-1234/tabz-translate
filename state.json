@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108519
+   "last_id": 108520
   },
   "khabarfouri": {
    "last_id": 569949
@@ -389,11 +389,6 @@
  },
  "recent": [
   {
-   "t": 1792347415.0,
-   "n": "نتانیاهو درباره ترکیه امیدوارم به رویارویی مستقیم با ترکیه نرسیم حداقل این چیزی است که من سعی می کنم از آن اجتناب کنم",
-   "fa": "🇮🇱🇹🇷 نتانیاهو درباره ترکیه: امیدوارم به رویارویی مستقیم با ترکیه نرسیم. حداقل، این چیزی است که من سعی می‌کنم از آن اجتناب کنم."
-  },
-  {
    "t": 1792347420.0,
    "n": "french president emmanuel macron we all feel angry tonight we feel shame as well seeing the disasters that unfolded in our streets",
    "fa": "🇫🇷⚡️ — رئیس‌جمهور فرانسه، امانوئل مکرون: امشب همه ما احساس خشم می‌کنیم. با دیدن فجایعی که در خیابان‌های ما رخ داد، احساس شرمساری نیز می‌کنیم."
@@ -687,13 +682,18 @@
    "t": 1792364460.0,
    "n": "some wall street leaders are weighing bailing on davos in the desert after attacks on riyadh recent attacks by houthi rebels are making u s executives nervous to travel to the future investment initiative conference in saudi arabia next week",
    "fa": "⭕️ برخی رهبران وال‌استریت پس از حملات به ریاض حضور در داووس در صحرا را ارزیابی می‌کنند به گزارش وال‌استریت ژورنال حملات اخیر شورشیان حوثی باعث نگرانی مدیران اجرایی ایالات متحده برای سفر به کنفرانس ابتکار سرمایه‌گذاری آینده در عربستان سعودی در هفته آینده شده است."
+  },
+  {
+   "t": 1792365911.0,
+   "n": "russian president vladimir putin has proposed a trilateral summit with president trump and chinese president xi jinping next month to discuss ending the war in ukraine according to wsj putin raised the proposal during an october 9 phone call with trump which also resulted in an agreement for the u s to purchase russian diesel and facilitate its sale internationally moscow has suggested holding the",
+   "fa": "🇷🇺🇺🇸🇨🇳⚡️ — به گزارش وال‌استریت ژورنال، ولادیمیر پوتین، رئیس‌جمهور روسیه، پیشنهاد برگزاری یک نشست سه‌جانبه با رئیس‌جمهور ترامپ و شی جین‌پینگ، رئیس‌جمهور چین، در ماه آینده برای گفتگو درباره پایان جنگ در اوکراین را مطرح کرده است. پوتین این پیشنهاد را طی تماس تلفنی ۹ اکتبر با ترامپ مطرح کرد که همچنین به توافقی برای خرید دیزل روسیه توسط ایالات متحده و تسهیل فروش بین‌المللی آن منجر شد. مسکو پیشنهاد کرده"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 194
+  "requests": 195
  },
- "flip": 944,
+ "flip": 945,
  "quote_n": 399,
  "signals": [
   {
@@ -1505,6 +1505,11 @@
    "t": 1792364810.638742,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1792365966.263304,
+   "s": 2,
+   "p": 60
   }
  ],
  "risk": {
