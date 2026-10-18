@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132051
+   "last_id": 132052
   },
   "TelNews_Magazine": {
-   "last_id": 101445
+   "last_id": 101446
   },
   "NE_WG": {
-   "last_id": 114908
+   "last_id": 114909
   }
  },
  "fails": {},
@@ -382,11 +382,6 @@
  },
  "recent": [
   {
-   "t": 1792339345.0,
-   "n": "israeli prime minister netanyahu we have changed our approach to an offensive proactive approach that is why we entered the refugee camps they were not refugee camps they were actually terrorist fortresses we entered them destroyed them and we are staying inside",
-   "fa": "🇮🇱❌🇵🇸 — نخست‌وزیر اسرائیل، نتانیاهو: ما رویکرد خود را به یک رویکرد تهاجمی و پیش دستانه تغییر داده‌ایم. به همین دلیل وارد اردوگاه‌های آوارگان شدیم. آن‌ها اردوگاه‌های آوارگان نبودند. آن‌ها در واقع دژهای تروریستی بودند. ما وارد آن‌ها شدیم، نابودشان کردیم و در داخل آن‌ها می‌مانیم."
-  },
-  {
    "t": 1792339408.0,
    "n": "israeli prime minister netanyahu our national security doctrine requires strengthening our independent ability to produce our own ammunition and weapons we can find partners for this but the partners must be dependent on us not us on them that is a very big difference and this rearmament must take place in industrial and technological facilities underground",
    "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: دکترین امنیت ملی ما مستلزم تقویت توانایی مستقل ما برای تولید مهمات و تسلیحات خودمان است. ما می‌توانیم شرکایی برای این کار پیدا کنیم، اما شرکا باید به ما وابسته باشند، نه ما به آن‌ها. این یک تفاوت بسیار بزرگ است. و این تسلیح مجدد باید در تأسیسات صنعتی و تکنولوژیکی زیرزمینی انجام شود."
@@ -680,20 +675,20 @@
    "t": 1792352221.0,
    "n": "تیتر و متن عجیب روزنامه امیر حسین ثابتی با مادر بمب ها هم مذاکره می کنیم این روزنامه از تصویر عراقچی استفاده کرده",
    "fa": "‼️تیتر و متن عجیب روزنامه امیر حسین ثابتی: با مادر بمب‌ها هم مذاکره می‌کنیم! 💢این روزنامه از تصویر عراقچی استفاده کرده!"
+  },
+  {
+   "t": 1792352461.0,
+   "n": "واکنش جالب پزشکیان وقتی یک دانش آموز از او پرسید میشه بغلتون کنم",
+   "fa": "‼️واکنش جالب پزشکیان وقتی یک دانش آموز از او پرسید: میشه بغلتون کنم؟"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 164
+  "requests": 165
  },
- "flip": 918,
+ "flip": 919,
  "quote_n": 378,
  "signals": [
-  {
-   "t": 1792266075.231615,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1792266374.0585687,
    "s": 5,
@@ -1473,6 +1468,11 @@
    "t": 1792352471.2652717,
    "s": 2,
    "p": 50
+  },
+  {
+   "t": 1792352771.1651878,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
