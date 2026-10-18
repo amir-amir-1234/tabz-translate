@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108403
+   "last_id": 108404
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131995
+   "last_id": 131996
   },
   "TelNews_Magazine": {
    "last_id": 101399
@@ -83,7 +83,8 @@
     "https://www.foxnews.com/world/former-us-ambassador-says-south-korea-prosecuted-him-over-speech-made-american-soil",
     "https://www.foxnews.com/world/three-men-158-years-murdering-american-australian-surfers-dumping-bodies-mexican-well",
     "https://www.foxnews.com/world/limoges-town-hall-largely-lost-after-far-left-rioters-set-historic-building-fire-amid-french-unrest",
-    "https://www.foxnews.com/world/fatalities-injuries-reported-canadian-forces-base-wainwright-alberta-after-incident-sparked-fire"
+    "https://www.foxnews.com/world/fatalities-injuries-reported-canadian-forces-base-wainwright-alberta-after-incident-sparked-fire",
+    "https://www.foxnews.com/world/european-parliament-votes-confront-muslim-brotherhood-islamist-entryism-overwhelming-vote"
    ]
   },
   "WSJ": {
@@ -369,11 +370,6 @@
  },
  "recent": [
   {
-   "t": 1792276766.0,
-   "n": "pro houthis ansarallah media had announced the downing of a turkish made karayel drone operated by the saudi air force over the hodeida region of yemen",
-   "fa": "🇾🇪❌🇸🇦 — رسانه‌های حوثی‌ها (انصارالله) از سرنگونی یک فروند پهپاد کارایل ساخت ترکیه متعلق به نیروی هوایی عربستان سعودی در منطقه الحدیده یمن خبر دادند."
-  },
-  {
    "t": 1792285200.0,
    "n": "the playboy who inherited the world s most notorious mercenary force the son of wagner group s late founder hangs on to an african stronghold making a fortune from guns drugs and gold",
    "fa": "⭕️ پسر بنیان‌گذار گروه واگنر کنترل پایگاه خود در آفریقا را حفظ کرده است به گزارش وال‌استریت ژورنال پسر بنیان‌گذار فقید گروه واگنر کنترل خود را بر یک پایگاه قدرتمند در آفریقا حفظ کرده است و از طریق تسلیحات، مواد مخدر و طلا ثروت کلانی به دست می‌آورد."
@@ -642,25 +638,25 @@
    "t": 1792317901.0,
    "n": "به گزارش سی ان ان میزان کشتی های مورد هدف قرار گرفته ماه جاری در تنگه هرمز توسط ایران به ۲۱ فروند افزایش یافته است",
    "fa": "🇺🇸🇮🇷به گزارش سی‌ان‌ان: میزان کشتی‌های مورد هدف قرار گرفته ماه جاری در تنگه هرمز توسط ایران به ۲۱ فروند افزایش یافته است"
+  },
+  {
+   "t": 1792319459.0,
+   "n": "european parliament votes to confront muslim brotherhood islamist entryism in overwhelming vote following the sanctioning of foreign muslim brotherhood groups by the trump administration the european parliament recently took its own action against the transnational radical islamist group as europe begins to respond to the threat of radical islam across the continent an overwhelming majority of the",
+   "fa": "🔴 پارلمان اروپا قطعنامه ای را در محکومیت اخوان المسلمین و نفوذ اسلام گرایان تصویب کرد به گزارش فاکس نیوز، به دنبال تحریم گروه های خارجی اخوان المسلمین توسط دولت ترامپ، پارلمان اروپا اخیراً اقدام خود را علیه این گروه رادیکال و فراملیتی اسلامی انجام داد. همزمان با شروع واکنش اروپا به تهدید اسلام رادیکال در سراسر این قاره، اکثریت قاطع پارلمان اروپا به قطعنامه ای رای دادند که اخوان المسلمین و اقدامات "
+  },
+  {
+   "t": 1792320014.0,
+   "n": "ukrainian president zelensky says russia has attacked ukraine s energy and oil and gas sector 76 times since president trump announced an energy ceasefire a week ago",
+   "fa": "🇺🇦🇺🇸🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین می‌گوید روسیه از زمان اعلام آتش‌بس انرژی توسط رئیس‌جمهور ترامپ در یک هفته گذشته، ۷۶ بار به بخش انرژی و نفت و گاز اوکراین حمله کرده است."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 63
+  "requests": 65
  },
- "flip": 814,
+ "flip": 815,
  "quote_n": 347,
  "signals": [
-  {
-   "t": 1792233368.8138149,
-   "s": 4,
-   "p": 65
-  },
-  {
-   "t": 1792233373.153184,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1792233675.6435044,
    "s": 3,
@@ -1435,19 +1431,24 @@
    "t": 1792317975.1860845,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1792320085.4528928,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
   "base": 59,
-  "ts": 1792316171.320828,
+  "ts": 1792320088.454393,
   "attack": false,
-  "n": 157,
+  "n": 155,
   "shares": {
    "1": 0,
    "2": 2,
-   "3": 36,
-   "4": 48,
-   "5": 13
+   "3": 32,
+   "4": 53,
+   "5": 12
   }
  },
  "attack_ts": 1792268478.008418,
