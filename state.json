@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108388
+   "last_id": 108393
   },
   "khabarfouri": {
    "last_id": 569949
@@ -367,11 +367,6 @@
  },
  "recent": [
   {
-   "t": 1792261504.0,
-   "n": "israeli prime minister netanyahu who will work with trump over the next two years who will do it gadi eisenkot will he stand on international stages will he convince congress will he convince the leaders of the u s administration and what happens after two years if god forbid a president who is very hostile to israel comes to power will he know how to withstand those pressures",
-   "fa": "🇮🇱🇺🇸⚡️ — نخست‌وزیر اسرائیل بنیامین نتانیاهو: چه کسی در دو سال آینده با ترامپ کار خواهد کرد؟ چه کسی این کار را انجام خواهد داد؟ گدی آیزنکوت؟ آیا او در تریبون‌های بین‌المللی خواهد ایستاد؟ آیا کنگره را متقاعد خواهد کرد؟ آیا رهبران دولت آمریکا را متقاعد خواهد کرد؟ و اگر دو سال دیگر، خدا نکرده، رئیس‌جمهوری که بسیار با اسرائیل خصومت دارد به قدرت برسد، چه اتفاقی می‌افتد؟ آیا او خواهد دانست چگونه در برابر"
-  },
-  {
    "t": 1792261597.0,
    "n": "israeli prime minister netanyahu there will be an attempt to interfere in the elections at least we re seeing indications of that they ll try to create security incidents to convince the israeli public that our achievements aren t so great i can certainly elaborate but i m not going to i don t think there s any point in exposing our intelligence sources",
    "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: تلاش‌هایی برای مداخله در انتخابات صورت خواهد گرفت. حداقل ما نشانه‌هایی از آن را می‌بینیم. آن‌ها سعی خواهند کرد حوادث امنیتی ایجاد کنند تا افکار عمومی اسرائیل را متقاعد کنند که دستاوردهای ما چندان بزرگ نیست. من قطعاً می‌توانم جزئیات بیشتری بگویم، اما این کار را نخواهم کرد. فکر نمی‌کنم دلیلی برای افشای منابع اطلاعاتی‌مان وجود داشته باشد."
@@ -665,13 +660,18 @@
    "t": 1792291002.0,
    "n": "ukrainian uav strike against a data center belonging to russian social media network vkontakte in saint petersburg russia has caused a large scale disruption in connectivity to the social media service connectivity is currently at 56 of normal levels",
    "fa": "🔄 به‌روزرسانی 🇺🇦🇷🇺⚡️ — حمله پهپادی اوکراین به یک مرکز داده متعلق به شبکه اجتماعی روسی وی‌کی در سن‌پترزبورگ روسیه، باعث اختلال گسترده‌ای در اتصال به این سرویس اجتماعی شده است. در حال حاضر میزان اتصال به ۵۶ درصد سطح عادی رسیده است."
+  },
+  {
+   "t": 1792293282.0,
+   "n": "israeli defense minister katz the achievements are dramatic in gaza we have achieved our objectives 70 80 of gaza is destroyed the same is true in southern lebanon",
+   "fa": "🇮🇱❌🇵🇸🇱🇧 — وزیر دفاع اسرائیل، یسرائیل کاتز: دستاوردهای ما چشمگیر است. در غزه به اهداف خود رسیده‌ایم. ۷۰ تا ۸۰ درصد غزه ویران شده است. همین وضعیت در جنوب لبنان نیز صادق است."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 10
+  "requests": 11
  },
- "flip": 779,
+ "flip": 780,
  "quote_n": 334,
  "signals": [
   {
@@ -1438,6 +1438,11 @@
    "t": 1792286180.7730448,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792293379.85735,
+   "s": 5,
+   "p": 85
   }
  ],
  "risk": {
