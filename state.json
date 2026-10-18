@@ -13,7 +13,7 @@
    "last_id": 101426
   },
   "NE_WG": {
-   "last_id": 114890
+   "last_id": 114891
   }
  },
  "fails": {},
@@ -329,7 +329,8 @@
     "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
     "https://www.nytimes.com/2026/10/17/world/middleeast/egypt-president-el-sisi-term-limits-2030.html",
     "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
-    "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html"
+    "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html",
+    "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html"
    ]
   },
   "Treasury": {
@@ -375,11 +376,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792327735.0,
-   "n": "president trump via truth social wow our country was scammed and we now have the proof you have not heard the last of this",
-   "fa": "🇺🇸⚡️ — پرزیدنت ترامپ از طریق شبکه اجتماعی تروث سوشال: وای. کشور ما فریب خورد، و اکنون مدرک داریم. این آخرین چیزی نیست که درباره آن می‌شنوید!"
-  },
   {
    "t": 1792328240.0,
    "n": "the house of representatives session that was announced today to discuss supporting saudi arabia militarily was supposedly extended for two more days to allow the largest number of members of parliament to speak and complete their statements regarding egypt s supportive stance towards saudi arabia so far there is no official announcement that egypt will be or not be a part of the war until all req",
@@ -674,14 +670,19 @@
    "t": 1792340873.0,
    "n": "israeli prime minister netanyahu finance ministers and heads of state come to me and ask how do you do it how do you do it we do it because i know how to manage the economy",
    "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: وزیران دارایی و سران کشورها نزد من می‌آیند و می‌پرسند: «چگونه این کار را انجام می‌دهید؟ چگونه این کار را انجام می‌دهید؟» ما این کار را انجام می‌دهیم چون من بلد هستم اقتصاد را مدیریت کنم."
+  },
+  {
+   "t": 1792341080.0,
+   "n": "u s officials condemn west bank attacks as netanyahu casts doubt on them prime minister benjamin netanyahu of israel has downplayed accounts of recent extremist attacks on palestinians in the west bank amid the annual olive harvest",
+   "fa": "⭕️ واکنش مقامات آمریکایی به حملات در کرانه باختری و ابراز تردید نتانیاهو به گزارش نیویورک تایمز بنیامین نتانیاهو نخست‌وزیر اسرائیل گزارش‌های مربوط به حملات افراط‌گرایان اخیر علیه فلسطینیان در کرانه باختری را در جریان فصل سالانه برداشت زیتون کم‌اهمیت جلوه داده است در حالی که مقامات آمریکایی این حملات را محکوم کرده‌اند."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 128
+  "requests": 130
  },
- "flip": 887,
- "quote_n": 363,
+ "flip": 888,
+ "quote_n": 364,
  "signals": [
   {
    "t": 1792254965.519416,
@@ -1487,6 +1488,11 @@
    "t": 1792341104.1328819,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792341351.8852217,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
