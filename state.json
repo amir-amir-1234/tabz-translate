@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132061
+   "last_id": 132062
   },
   "TelNews_Magazine": {
-   "last_id": 101450
+   "last_id": 101451
   },
   "NE_WG": {
-   "last_id": 114917
+   "last_id": 114919
   }
  },
  "fails": {},
@@ -386,16 +386,6 @@
  },
  "recent": [
   {
-   "t": 1792343222.0,
-   "n": "iranian parliament speaker ghalibaf the persian gulf data authority is coming to governments funds and firms in the region you are kindly advised to give no resources to any ai or data company aiding invasions or killing children no finance equity land and energy assist them and face our enforcement",
-   "fa": "🇮🇷🇺🇸⚡️ — رئیس مجلس شورای اسلامی، قالیباف: سازمان داده‌های خلیج فارس در راه است. به دولت‌ها، صندوق‌ها و شرکت‌های منطقه: به شما توصیه می‌شود هیچ منبعی به هیچ شرکت هوش مصنوعی یا داده‌ای که به تهاجم یا کشتن کودکان کمک می‌کند، اختصاص ندهید. هیچ مالی، سهامی، زمینی و انرژی‌ای. به آن‌ها کمک کنید و با اقدام متقابل ما روبه‌رو شوید."
-  },
-  {
-   "t": 1792343297.0,
-   "n": "uae president sheikh mohamed bin zayed met with saudi defense minister prince khalid bin salman in abu dhabi earlier today",
-   "fa": "🇦🇪🇸🇦⚡️ — رئیس امارات متحده عربی، شیخ محمد بن زاید، امروز در ابوظبی با وزیر دفاع عربستان سعودی، شاهزاده خالد بن سلمان، دیدار کرد."
-  },
-  {
    "t": 1792344161.0,
    "n": "earlier 8 ansarallah ballistic missiles impacted in ma rib plc controlled yemen",
    "fa": "🇾🇪❌🇾🇪 — دقایقی پیش، ۸ فروند موشک بالستیک انصارالله به استان مأرب در مناطق تحت کنترل دولت متبوع شورای ریاست‌جمهوری یمن اصابت کرد."
@@ -684,20 +674,25 @@
    "t": 1792358003.0,
    "n": "no reports of explosions anywhere else in iran explosions were likely the result of irgc navy operations off the coast a centcom operation would have conducted wider strikes by now",
    "fa": "🇮🇷⚡️ — هیچ گزارشی از انفجار در هیچ نقطه دیگری از ایران وجود ندارد. انفجارها احتمالاً نتیجه عملیات نیروی دریایی سپاه در سواحل بوده است. یک عملیات از سوی سنتکام تا کنون حملات گسترده‌تری را انجام داده بود."
+  },
+  {
+   "t": 1792358076.0,
+   "n": "حاجی بابایی مجلس تاحالا مردم ایران رو اینقدر با نشاط ندیده بودم",
+   "fa": "⭕️حاجی‌بابایی؛ مجلس: تاحالا مردم ایران رو اینقدر با نشاط ندیده بودم"
+  },
+  {
+   "t": 1792358126.0,
+   "n": "گزارش پرتاب موشک از یزد",
+   "fa": "🚨🚨🚨گزارش پرتاب موشک از یزد"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 181
+  "requests": 182
  },
- "flip": 932,
- "quote_n": 387,
+ "flip": 933,
+ "quote_n": 389,
  "signals": [
-  {
-   "t": 1792271772.532894,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1792272080.2570503,
    "s": 4,
@@ -1472,19 +1467,33 @@
    "t": 1792358130.1382275,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792358472.3891027,
+   "s": 3,
+   "p": 30
+  },
+  {
+   "t": 1792358475.763278,
+   "s": 5,
+   "p": 90
   }
  ],
  "risk": {
   "base": 100,
-  "ts": 1792357575.2769802,
+  "ts": 1792358478.7714028,
   "attack": true
  },
- "attack_ts": 1792357572.2747154,
+ "attack_ts": 1792358475.763278,
  "attack_cand": [
   {
    "t": 1792357572.2747154,
    "h": "🇮🇷⚡️ — گزارش انفجار در کنارک در جنوب شرقی ایران."
+  },
+  {
+   "t": 1792358475.763278,
+   "h": "🚨🚨🚨گزارش پرتاب موشک از یزد"
   }
  ],
- "attack_why": "🇮🇷⚡️ — گزارش انفجار در کنارک در جنوب شرقی ایران."
+ "attack_why": "🚨🚨🚨گزارش پرتاب موشک از یزد"
 }
