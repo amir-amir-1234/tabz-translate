@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108395
+   "last_id": 108396
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 101379
   },
   "NE_WG": {
-   "last_id": 114812
+   "last_id": 114813
   }
  },
  "fails": {},
@@ -367,11 +367,6 @@
  },
  "recent": [
   {
-   "t": 1792261651.0,
-   "n": "i24news can you reassure us that as far as it depends on you the elections will take place as scheduled netanyahu of course as far as it depends on me but they want to disrupt the elections or at least influence them",
-   "fa": "🔄 به‌روزرسانی 🇮🇱⚡️ — شبکه i24NEWS: آیا می‌توانید به ما اطمینان دهید که تا جایی که به شما بستگی دارد، انتخابات طبق برنامه برگزار خواهد شد؟ نتانیاهو: البته، تا جایی که به من بستگی دارد. اما آن‌ها می‌خواهند انتخابات را مختل کنند، یا حداقل بر آن تأثیر بگذارند."
-  },
-  {
    "t": 1792261667.0,
    "n": "نتانیاهو من متعهد به سرنگونی این رژیم جمهوری اسلامی هستم و می دانم چگونه این کار را انجام دهم ما راه زیادی را طی کرده ایم اما هنوز مراحل تکمیل نشده ای وجود دارد",
    "fa": "⭕️نتانیاهو:من متعهد به سرنگونی این رژیم (جمهوری اسلامی) هستم و می‌دانم چگونه این کار را انجام دهم. ما راه زیادی را طی کرده‌ایم، اما هنوز مراحل تکمیل‌نشده‌ای وجود دارد."
@@ -665,14 +660,19 @@
    "t": 1792293539.0,
    "n": "israeli defense minister katz the entire world salutes us the entire world respects us countries in the region whether they say so openly or not want to be close to israel they appreciate our determination they appreciate the results",
    "fa": "🇮🇱⚡️ — وزیر دفاع اسرائیل، کاتز: تمام جهان به ما ادای احترام می‌کند. تمام جهان به ما احترام می‌گذارد. کشورهای منطقه، چه آشکارا بگویند و چه نگویند، می‌خواهند به اسرائیل نزدیک باشند. آن‌ها اراده ما را تحسین می‌کنند. آن‌ها نتایج را ارج می‌نهند."
+  },
+  {
+   "t": 1792294085.0,
+   "n": "the saudi led coalition says an ah 6i reconnaissance helicopter belonging to saudi arabia s ministry of national guard crashed in the najran region due to a technical malfunction killing both crew members the helicopter went down inside saudi territory and that the two crew members were officers",
+   "fa": "🇸🇦⚡️ — ائتلاف تحت رهبری عربستان اعلام کرد که یک فروند بالگرد شناسایی AH-6i متعلق به وزارت گارد ملی عربستان سعودی در منطقه نجران به دلیل نقص فنی سقوط کرد و هر دو خدمه آن کشته شدند. این بالگرد در داخل خاک عربستان سقوط کرد و دو خدمه آن از افسران نظامی بودند."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 12
+  "requests": 13
  },
- "flip": 781,
- "quote_n": 334,
+ "flip": 782,
+ "quote_n": 335,
  "signals": [
   {
    "t": 1792213296.61656,
@@ -1448,6 +1448,11 @@
    "t": 1792293675.3016129,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1792294281.2453258,
+   "s": 4,
+   "p": 40
   }
  ],
  "risk": {
