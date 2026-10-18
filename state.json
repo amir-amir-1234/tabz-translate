@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132058
+   "last_id": 132060
   },
   "TelNews_Magazine": {
    "last_id": 101450
   },
   "NE_WG": {
-   "last_id": 114914
+   "last_id": 114916
   }
  },
  "fails": {},
@@ -89,7 +89,8 @@
     "https://www.foxnews.com/world/meloni-condemns-gangs-thugs-after-protests-turned-violent-across-italy",
     "https://www.foxnews.com/world/wheres-macron-french-leader-blasted-attending-concert-riots-escalated",
     "https://www.foxnews.com/world/canadian-pm-carney-4-service-members-killed-dozens-injured-military-base-fire",
-    "https://www.foxnews.com/world/french-newspaper-rips-macron-riots-erupt-across-france-indelible-stain"
+    "https://www.foxnews.com/world/french-newspaper-rips-macron-riots-erupt-across-france-indelible-stain",
+    "https://www.foxnews.com/world/priest-killed-falling-crucifix-livestreamed-mass-worshippers-rush-help"
    ]
   },
   "WSJ": {
@@ -385,21 +386,6 @@
  },
  "recent": [
   {
-   "t": 1792341080.0,
-   "n": "u s officials condemn west bank attacks as netanyahu casts doubt on them prime minister benjamin netanyahu of israel has downplayed accounts of recent extremist attacks on palestinians in the west bank amid the annual olive harvest",
-   "fa": "⭕️ واکنش مقامات آمریکایی به حملات در کرانه باختری و ابراز تردید نتانیاهو به گزارش نیویورک تایمز بنیامین نتانیاهو نخست‌وزیر اسرائیل گزارش‌های مربوط به حملات افراط‌گرایان اخیر علیه فلسطینیان در کرانه باختری را در جریان فصل سالانه برداشت زیتون کم‌اهمیت جلوه داده است در حالی که مقامات آمریکایی این حملات را محکوم کرده‌اند."
-  },
-  {
-   "t": 1792341542.0,
-   "n": "حمله اسرائیل به وادی حجیر لبنان",
-   "fa": "🚨 〰️❌🏴حمله اسرائیل به وادی حجیر لبنان"
-  },
-  {
-   "t": 1792341578.0,
-   "n": "بعد از ایران خودرو شرکت سایپا نیز درخواست افزایش قیمت محصولات خودش رو اعلام کرده",
-   "fa": "⭕️بعد از ایران خودرو، شرکت سایپا نیز درخواست افزایش قیمت محصولات خودش رو اعلام کرده"
-  },
-  {
    "t": 1792342527.0,
    "n": "صداوسیما تمام برنامه های عادیش رو قطع کرده و داره اعتراضات تو فرانسه رو زنده پخش میکنه",
    "fa": "⭕️صداوسیما تمام برنامه‌های عادیش رو قطع کرده و داره اعتراضات تو فرانسه رو زنده پخش میکنه"
@@ -683,20 +669,30 @@
    "t": 1792357456.0,
    "n": "explosions in konorak southeastern iran",
    "fa": "🇮🇷⚡️ — گزارش انفجار در کنارک در جنوب شرقی ایران."
+  },
+  {
+   "t": 1792357255.0,
+   "n": "priest killed by falling crucifix during livestreamed mass as worshippers rush to help a priest preparing communion was fatally struck by a falling crucifix during a livestreamed mass in ecuador turning a moment of worship into a frantic rush to save him father patricio alfredo sánchez molinari was standing at the altar of nuestra señora del perpetuo socorro church in guayaquil on saturday when th",
+   "fa": "⭕️ مرگ یک کشیش در گوآیاکیل اکوادور براثر سقوط صلیب در جریان مراسم زنده به گزارش فاکس نیوز یک کشیش هنگام آماده‌سازی آیین عشاء ربانی در جریان یک مراسم مذهبی که به صورت زنده پخش می‌شد، بر اثر سقوط یک صلیب بزرگ به شدت ضربه خورد و جان باخت و این رویداد لحظه عبادت را به تلاش شتابزده برای نجات او تبدیل کرد. پدر پاتریسیو آلفردو سانچز مولیناری روز شنبه در حالی که در برابر محراب کلیسای نوئسترا سنیورا دل پرپ"
+  },
+  {
+   "t": 1792357671.0,
+   "n": "گفت وگوی تلفنی عراقچی و وزیر خارجه مصر درباره کاهش تنش های منطقه ای پس از اعلام حمایت نظامی مصر از عربستان سعودی عباس عراقچی وزیر امور خارجه ایران در تماس تلفنی با همتای مصری خود درباره تلاش ها برای کاهش تنش ها در منطقه گفت وگو کرد",
+   "fa": "🇮🇷🇪🇬🇸🇦🇾🇪گفت‌وگوی تلفنی عراقچی و وزیر خارجه مصر درباره کاهش تنش‌های منطقه‌ای 🔴 پس از اعلام حمایت نظامی مصر از عربستان سعودی، عباس عراقچی، وزیر امور خارجه ایران، در تماس تلفنی با همتای مصری خود درباره تلاش‌ها برای کاهش تنش‌ها در منطقه گفت‌وگو کرد."
+  },
+  {
+   "t": 1792357732.0,
+   "n": "دو انفجار در منطقه ک نارک جنوب شرقی ایران احتمالا شلیک موشک های کروز به سمت تنگه هرمز",
+   "fa": "🔄 به‌روزرسانی 🚨🚨دو انفجار در منطقه کُنارک، جنوب شرقی ایران 💢احتمالاً شلیک موشک‌های کروز به سمت تنگه هرمز"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 178
+  "requests": 180
  },
- "flip": 929,
- "quote_n": 383,
+ "flip": 931,
+ "quote_n": 385,
  "signals": [
-  {
-   "t": 1792271170.0889285,
-   "s": 4,
-   "p": 65
-  },
   {
    "t": 1792271474.6795106,
    "s": 3,
@@ -1471,6 +1467,16 @@
    "t": 1792357572.2747154,
    "s": 5,
    "p": 85
+  },
+  {
+   "t": 1792357883.3202426,
+   "s": 2,
+   "p": 50
+  },
+  {
+   "t": 1792357886.6818137,
+   "s": 5,
+   "p": 80
   }
  ],
  "risk": {
