@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108476
+   "last_id": 108479
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132032
+   "last_id": 132033
   },
   "TelNews_Magazine": {
    "last_id": 101426
   },
   "NE_WG": {
-   "last_id": 114889
+   "last_id": 114890
   }
  },
  "fails": {},
@@ -376,21 +376,6 @@
  },
  "recent": [
   {
-   "t": 1792326567.0,
-   "n": "large clashes erupted between the pakistani army and the taliban led afghan army across the durand line with both the afghan and pakistani forces attacking each other s positions",
-   "fa": "🇵🇰❌🇦🇫 — درگیری‌های شدیدی میان ارتش پاکستان و ارتش افغانستان تحت رهبری طالبان در طول خط دیورند رخ داد و نیروهای افغان و پاکستانی به مواضع یکدیگر حمله کردند."
-  },
-  {
-   "t": 1792326615.0,
-   "n": "president trump via truth social france is burning the immigration of people from an entirely different world people with hatred in their hearts has shattered that once great country close your borders and take control before it is too late",
-   "fa": "🇺🇸🇫🇷⚡️ — رئیس‌جمهور ترامپ از طریق شبکه اجتماعی تروث سوشال: فرانسه در آتش می‌سوزد! مهاجرت مردمان دنیایی کاملاً متفاوت، مردمانی با کینه در دل، آن کشور زمانی بزرگ را نابود کرده است. پیش از آنکه خیلی دیر شود، مرزهای خود را ببندید و کنترل اوضاع را به دست بگیرید!"
-  },
-  {
-   "t": 1792326744.0,
-   "n": "طائب رئیس بسیج آمریکا شکست در جنگ نظامی رو پذیرفت و رفت",
-   "fa": "⭕️طائب رئیس بسیج: آمریکا شکست در جنگ نظامی رو پذیرفت و رفت"
-  },
-  {
    "t": 1792327735.0,
    "n": "president trump via truth social wow our country was scammed and we now have the proof you have not heard the last of this",
    "fa": "🇺🇸⚡️ — پرزیدنت ترامپ از طریق شبکه اجتماعی تروث سوشال: وای. کشور ما فریب خورد، و اکنون مدرک داریم. این آخرین چیزی نیست که درباره آن می‌شنوید!"
@@ -674,20 +659,30 @@
    "t": 1792340408.0,
    "n": "israeli prime minister benjamin netanyahu responding to president trump s endorsement said only the two of us can destroy iran s nuclear program",
    "fa": "🇮🇱🇺🇸❌🇮🇷 — بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در واکنش به تایید رئیس‌جمهور ترامپ گفت: «فقط ما دو نفر می‌توانیم برنامه هسته‌ای ایران را نابود کنیم.»"
+  },
+  {
+   "t": 1792340712.0,
+   "n": "israeli prime minister netanyahu israel is strong i foresee a bright future for us if we win and i foresee a tragedy for generations if god forbid we lose",
+   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: اسرائیل قوی است. اگر پیروز شویم، آینده‌ای درخشان را برای خود پیش‌بینی می‌کنم. و اگر خدا ناکرده شکست بخوریم، فاجعه‌ای را برای نسل‌ها پیش‌بینی می‌کنم."
+  },
+  {
+   "t": 1792340776.0,
+   "n": "israeli prime minister netanyahu and by the way even in europe you wouldn t believe it those who criticize and malign us come to me privately and whisper listen prime minister perhaps we could get some assistance from you with this or that and i tell them your actions will either bring you closer to us or push you away from us",
+   "fa": "🇮🇱🇪🇺⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: و اتفاقاً، حتی در اروپا، باورتان نمی‌شود. کسانی که از ما انتقاد می‌کنند و به بدگویی می‌پردازند، خصوصی نزد من می‌آیند و پچ‌پچ‌کنان می‌گویند: «گوش کن، آقای نخست‌وزیر، شاید بتوانیم در این یا آن مورد کمکی از شما دریافت کنیم.» و من به آن‌ها می‌گویم: «اعمال شما یا شما را به ما نزدیک‌تر می‌کند یا از ما دورتر.»"
+  },
+  {
+   "t": 1792340873.0,
+   "n": "israeli prime minister netanyahu finance ministers and heads of state come to me and ask how do you do it how do you do it we do it because i know how to manage the economy",
+   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: وزیران دارایی و سران کشورها نزد من می‌آیند و می‌پرسند: «چگونه این کار را انجام می‌دهید؟ چگونه این کار را انجام می‌دهید؟» ما این کار را انجام می‌دهیم چون من بلد هستم اقتصاد را مدیریت کنم."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 127
+  "requests": 128
  },
- "flip": 884,
+ "flip": 887,
  "quote_n": 363,
  "signals": [
-  {
-   "t": 1792254365.215061,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1792254965.519416,
    "s": 4,
@@ -1477,6 +1472,21 @@
    "t": 1792340768.333567,
    "s": 5,
    "p": 85
+  },
+  {
+   "t": 1792341088.6925492,
+   "s": 4,
+   "p": 60
+  },
+  {
+   "t": 1792341096.6713867,
+   "s": 3,
+   "p": 40
+  },
+  {
+   "t": 1792341104.1328819,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
