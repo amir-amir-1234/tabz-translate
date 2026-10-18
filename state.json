@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108486
+   "last_id": 108487
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,7 +10,7 @@
    "last_id": 132040
   },
   "TelNews_Magazine": {
-   "last_id": 101436
+   "last_id": 101438
   },
   "NE_WG": {
    "last_id": 114900
@@ -380,16 +380,6 @@
  },
  "recent": [
   {
-   "t": 1792337171.0,
-   "n": "u s treasury secretary scott bessent in the spring i asked our european allies to join us in putting secondary tariffs on china and india they refused so why should the u s bear the burden",
-   "fa": "🇺🇸🇪🇺⚡️ — وزیر خزانه‌داری آمریکا، اسکات بسنت: در بهار، من از متحدان اروپایی خود خواستم که در اعمال تعرفه‌های ثانویه بر چین و هند به ما ملحق شوند. آن‌ها امتناع کردند. بنابراین چرا ایالات متحده باید بار سنگین را به دوش بکشد؟"
-  },
-  {
-   "t": 1792337226.0,
-   "n": "u s treasury secretary scott bessent president trump sanctioned the two largest russian energy companies which dealt a catastrophic blow to the russian energy industry so no one has been tougher on russian sanctions than president trump",
-   "fa": "🇺🇸🇷🇺⚡️ — وزیر خزانه‌داری آمریکا، اسکات بسنت: رئیس‌جمهور ترامپ دو شرکت بزرگ انرژی روسیه را تحریم کرد که ضربه فاجعه‌باری به صنعت انرژی روسیه وارد آورد. بنابراین هیچ‌کس سخت‌گیرانه‌تر از رئیس‌جمهور ترامپ در زمینه تحریم‌های روسیه عمل نکرده است."
-  },
-  {
    "t": 1792337252.0,
    "n": "مصر آماده ایم تمامی اشکال حمایت لازم و ممکن را برای مقابله با حملات حوثی ها در اختیار عربستان قرار دهیم السیسی خواستار برگزاری نشست اضطراری پارلمان شده است تا مجوز لازم برای به کارگیری نیروهای نظامی مصر صادر شود انتخاب",
    "fa": "💢 مصر: آماده‌ایم تمامی اشکال حمایت لازم و ممکن را برای مقابله با حملات حوثی‌ها در اختیار عربستان قرار دهیم السیسی خواستار برگزاری نشست اضطراری پارلمان شده است تا مجوز لازم برای به‌کارگیری نیروهای نظامی مصر صادر شود / انتخاب"
@@ -678,14 +668,24 @@
    "t": 1792346221.0,
    "n": "تو جلسه امروز رسیدگی به صلاحیت وزیر دفاع ۲۵ نماینده به علت نداشتن اینترنت رای ندادن",
    "fa": "⭕️تو جلسه امروز رسیدگی به صلاحیت وزیر دفاع، ۲۵ نماینده به علت نداشتن اينترنت رای ندادن!"
+  },
+  {
+   "t": 1792346412.0,
+   "n": "the houthis ansarallah say saudi arabia carried out 110 airstrikes and missile strikes across sana a and eight yemeni governorates over the past 24 hours killing or injuring more than 30 people mostly women and children the total number of saudi led coalition air and missile strikes has now reached 2652",
+   "fa": "🇸🇦❌🇾🇪 — حوثی‌ها (انصارالله) اعلام کردند که عربستان سعودی طی ۲۴ ساعت گذشته ۱۱۰ حمله هوایی و موشکی در صنعا و هشت استان یمن انجام داده که بر اثر آن بیش از ۳۰ نفر، عمدتاً زنان و کودکان، کشته یا زخمی شدند. تعداد کل حملات هوایی و موشکی ائتلاف به رهبری عربستان اکنون به ۲۶۵۲ مورد رسیده است."
+  },
+  {
+   "t": 1792346461.0,
+   "n": "عاصم منیر دو روز دیگه برای جلوگیری از اغاز جنگ میاد تهران",
+   "fa": "⭕️عاصم منیر دو روز دیگه برای جلوگیری از اغاز جنگ میاد تهران"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 146
+  "requests": 147
  },
  "flip": 901,
- "quote_n": 370,
+ "quote_n": 371,
  "signals": [
   {
    "t": 1792260367.7773468,
@@ -1491,6 +1491,16 @@
    "t": 1792346506.6156282,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792346769.5651345,
+   "s": 4,
+   "p": 75
+  },
+  {
+   "t": 1792346774.372042,
+   "s": 2,
+   "p": 70
   }
  ],
  "risk": {
