@@ -7,10 +7,10 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132003
+   "last_id": 132004
   },
   "TelNews_Magazine": {
-   "last_id": 101402
+   "last_id": 101403
   },
   "NE_WG": {
    "last_id": 114856
@@ -371,11 +371,6 @@
  },
  "recent": [
   {
-   "t": 1792294981.0,
-   "n": "israeli prime minister netanyahu i think we need to understand that israel is the nation state of the jewish people our national identity is a combination of nationality and religion we have religious holidays we have religious symbols",
-   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: فکر می‌کنم باید درک کنیم که اسرائیل دولت‌ملت قوم یهود است. هویت ملی ما ترکیبی از ملیت و مذهب است. ما تعطیلات مذهبی داریم. ما نمادهای مذهبی داریم."
-  },
-  {
    "t": 1792295263.0,
    "n": "reporter what will be the central issue in the upcoming elections from your perspective ben gvir i think the central issue is encouraging emigration i want to be defense minister in order to encourage emigration",
    "fa": "🇮🇱⚡️ — خبرنگار: از منظر شما موضوع اصلی در انتخابات پیش‌رو چه خواهد بود؟ بن‌گویر: فکر می‌کنم موضوع اصلی تشویق مهاجرت [فلسطینیان] است. من می‌خواهم وزیر دفاع شوم تا مهاجرت را تشویق کنم."
@@ -669,14 +664,19 @@
    "t": 1792323236.0,
    "n": "مرگ کشیش اکوادوری بر اثر سقوط صلیب هنگام برگزاری مراسم کلیسا هشدار حاوی تصاویر دلخراش",
    "fa": "‼️مرگ کشیش اکوادوری بر اثر سقوط صلیب هنگام برگزاری مراسم کلیسا ⚠️هشدار! حاوی تصاویر دلخراش"
+  },
+  {
+   "t": 1792323341.0,
+   "n": "احمد نادری نماینده مجلس با شناختی که از رهبر فعلی انقلاب دارم فتوای ایشان درباره سلاح هسته ای متفاوت خواهد بود باید بمب اتم بسازیم",
+   "fa": "⭕️احمد نادری، نماینده‌مجلس: با شناختی که از رهبر فعلی انقلاب دارم فتوای ایشان درباره سلاح هسته‌ای متفاوت خواهد بود. باید بمب اتم بسازیم!"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 77
+  "requests": 78
  },
  "flip": 828,
- "quote_n": 350,
+ "quote_n": 351,
  "signals": [
   {
    "t": 1792237272.4918206,
@@ -1467,6 +1467,11 @@
    "t": 1792323091.3575861,
    "s": 4,
    "p": 50
+  },
+  {
+   "t": 1792323670.6124551,
+   "s": 4,
+   "p": 85
   }
  ],
  "risk": {
