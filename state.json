@@ -13,7 +13,7 @@
    "last_id": 101446
   },
   "NE_WG": {
-   "last_id": 114910
+   "last_id": 114911
   }
  },
  "fails": {},
@@ -382,11 +382,6 @@
  },
  "recent": [
   {
-   "t": 1792339613.0,
-   "n": "israeli prime minister netanyahu there was a bombing of a yandex center in russia by ukraine 60 of the online activity coming from russian actors working against us disappeared",
-   "fa": "🇮🇱🇺🇦🇷🇺⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: مرکز یاندکس در روسیه توسط اوکراین بمباران شد. ۶۰ درصد از [فعالیت‌های آنلاین] بازیگران روسی که علیه ما کار می‌کردند، ناپدید شد."
-  },
-  {
    "t": 1792339755.0,
    "n": "israeli prime minister netanyahu what is victory it is breaking the enemy s power and its belief in its ability to pose a real threat you influence the enemy first by breaking its capabilities but also by breaking its spirit that is what delivers the result",
    "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: پیروزی چیست؟ پیروزی یعنی شکستن قدرت دشمن و باور آن به توانایی‌اش در ایجاد یک تهدید واقعی. شما ابتدا با از بین بردن توانایی‌های دشمن و همچنین با شکستن روحیه او، روی او تأثیر می‌گذارید. این همان چیزی است که نتیجه را رقم می‌زند."
@@ -680,13 +675,18 @@
    "t": 1792353215.0,
    "n": "ukrainian president zelensky remains in close contact with u s envoys jared kushner and steve witkoff over peace negotiations with another meeting potentially taking place later this week according to bloomberg when the potential risks for ukraine are of tsunami proportions one should intervene while it s still just a mild storm he said i believe much more is at stake than the diesel deal",
    "fa": "🇺🇦🇺🇸🇷🇺⚡️ — به گزارش بلومبرگ، ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، برای پیشبرد مذاکرات صلح در ارتباط تنگاتنگ با فرستادگان ایالات متحده، جرد کوشنر و استیو ویتکوف قرار دارد و احتمالاً جلسه دیگری در اواخر همین هفته برگزار خواهد شد. او گفت: «هنگامی که خطرات احتمالی برای اوکراین در ابعاد سونامی است، باید پیش از آنکه تنها به طوفانی ملایم تبدیل شود، مداخله کرد.» او افزود: «من معتقدم بسیار بیشتر از توافق د"
+  },
+  {
+   "t": 1792353867.0,
+   "n": "لاوروف وزیرخارجه روسیه وضعیت در خاورمیانه در آستانه یک جنگ تمام عیار قرار دارد",
+   "fa": "🇷🇺🇺🇸🇮🇷لاوروف، وزیرخارجه روسیه: وضعیت در خاورمیانه در آستانه یک جنگ تمام‌عیار قرار دارد‼️"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 167
+  "requests": 168
  },
- "flip": 922,
+ "flip": 923,
  "quote_n": 379,
  "signals": [
   {
@@ -1458,6 +1458,11 @@
    "t": 1792353366.9248247,
    "s": 2,
    "p": 50
+  },
+  {
+   "t": 1792353969.817017,
+   "s": 4,
+   "p": 85
   }
  ],
  "risk": {
