@@ -7,10 +7,10 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132054
+   "last_id": 132055
   },
   "TelNews_Magazine": {
-   "last_id": 101446
+   "last_id": 101447
   },
   "NE_WG": {
    "last_id": 114911
@@ -382,11 +382,6 @@
  },
  "recent": [
   {
-   "t": 1792339755.0,
-   "n": "israeli prime minister netanyahu what is victory it is breaking the enemy s power and its belief in its ability to pose a real threat you influence the enemy first by breaking its capabilities but also by breaking its spirit that is what delivers the result",
-   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: پیروزی چیست؟ پیروزی یعنی شکستن قدرت دشمن و باور آن به توانایی‌اش در ایجاد یک تهدید واقعی. شما ابتدا با از بین بردن توانایی‌های دشمن و همچنین با شکستن روحیه او، روی او تأثیر می‌گذارید. این همان چیزی است که نتیجه را رقم می‌زند."
-  },
-  {
    "t": 1792339831.0,
    "n": "israeli prime minister netanyahu perhaps when we reach the end of days everyone will beat their swords into plowshares and the messiah will come but i can tell you with absolute certainty that this is not going to happen next thursday we will have to live by our sword in order to live for many years",
    "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: شاید وقتی به آخر الزمان برسیم، همه شمشیرهای خود را به گاوآهن تبدیل کنند و مسیح بیاید. اما می‌توانم با قطعیت به شما بگویم که این اتفاق پنجشنبه آینده رخ نخواهد داد. ما مجبور خواهیم بود با شمشیر خود زندگی کنیم تا سالیان سال زنده بمانیم."
@@ -680,13 +675,18 @@
    "t": 1792353867.0,
    "n": "لاوروف وزیرخارجه روسیه وضعیت در خاورمیانه در آستانه یک جنگ تمام عیار قرار دارد",
    "fa": "🇷🇺🇺🇸🇮🇷لاوروف، وزیرخارجه روسیه: وضعیت در خاورمیانه در آستانه یک جنگ تمام‌عیار قرار دارد‼️"
+  },
+  {
+   "t": 1792354054.0,
+   "n": "بابک زنجانی در این شرایط هیچ قدرتی نه توان تغییر نظام ایران را دارد و نه امکان جنگی جدی",
+   "fa": "⭕️بابک زنجانی: در این شرایط هیچ قدرتی نه توان تغییر نظام ایران را دارد و نه امکان جنگی جدی."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 168
+  "requests": 169
  },
- "flip": 923,
+ "flip": 924,
  "quote_n": 379,
  "signals": [
   {
@@ -1463,6 +1463,11 @@
    "t": 1792353969.817017,
    "s": 4,
    "p": 85
+  },
+  {
+   "t": 1792354282.0160837,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
