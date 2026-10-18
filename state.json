@@ -13,7 +13,7 @@
    "last_id": 101443
   },
   "NE_WG": {
-   "last_id": 114906
+   "last_id": 114907
   }
  },
  "fails": {},
@@ -381,11 +381,6 @@
  },
  "recent": [
   {
-   "t": 1792338987.0,
-   "n": "israeli prime minister netanyahu on iran i came to president trump and said to him here is what i am going to do i did not ask for your permission here is what i am going to do i am going to do this one way or another take the b 2 and strike fordow that is what i am asking if you can thank you but in any case we are going he joined on the tenth day",
-   "fa": "🇮🇱🇺🇸❌🇮🇷 — نخست‌وزیر اسرائیل، نتانیاهو، درباره ایران: من نزد رئیس‌جمهور ترامپ رفتم و به او گفتم: «کاری که قصد دارم انجام دهم این است.» من اجازه نخواستم. کاری که قرار است انجام دهم این است. من این کار را به هر طریقی انجام خواهم داد. بمب‌افکن‌های B-2 را بفرستید و فردو را بمباران کنید. این چیزی است که من می‌خواهم. اگر می‌توانید، ممنون. اما در هر صورت، ما می‌رویم. او در روز دهم ملحق شد."
-  },
-  {
    "t": 1792339020.0,
    "n": "opinion saudi arabia has no good options amid strikes by iran s proxies the kingdom finds its viability under threat",
    "fa": "⭕️ عربستان سعودی در میان حملات نیابتی ایران با تهدید مواجه است به گزارش وال‌استریت ژورنال، در میان حملات توسط نیروهای نیابتی ایران، پادشاهی عربستان سعودی بقای خود را در معرض تهدید می‌بیند."
@@ -679,11 +674,16 @@
    "t": 1792350720.0,
    "n": "french leaders trade blame after rioting sweeps the nation police struggled to contain groups that attacked everything from city halls to luxury boutiques",
    "fa": "🔴 مقام‌های فرانسوی پس از وقوع شورش‌های سراسری در کشور یکدیگر را مقصر دانستند به گزارش وال‌استریت ژورنال، رهبران فرانسه پس از اینکه موجی از شورش سراسر کشور را فراگرفت، یکدیگر را ملامت کردند. نیروهای پلیس برای مهار گروه‌هایی که به اماکن مختلف از جمله تالارهای شهرداری و بوتیک‌های لوکس حمله می‌کردند، با دشواری مواجه شدند."
+  },
+  {
+   "t": 1792351198.0,
+   "n": "5 هواپیمای سوخت رسان در نزدیکی تنگه هرمز در حال پرواز هستند",
+   "fa": "🇺🇸🇮🇷 5 هواپیمای سوخت‌رسان در نزدیکی تنگه هرمز در حال پرواز هستند."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 159
+  "requests": 160
  },
  "flip": 915,
  "quote_n": 377,
@@ -1447,6 +1447,11 @@
    "t": 1792350370.7598965,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792351271.6825144,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
