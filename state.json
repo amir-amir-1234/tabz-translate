@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132062
+   "last_id": 132064
   },
   "TelNews_Magazine": {
    "last_id": 101451
   },
   "NE_WG": {
-   "last_id": 114919
+   "last_id": 114921
   }
  },
  "fails": {},
@@ -386,16 +386,6 @@
  },
  "recent": [
   {
-   "t": 1792344161.0,
-   "n": "earlier 8 ansarallah ballistic missiles impacted in ma rib plc controlled yemen",
-   "fa": "🇾🇪❌🇾🇪 — دقایقی پیش، ۸ فروند موشک بالستیک انصارالله به استان مأرب در مناطق تحت کنترل دولت متبوع شورای ریاست‌جمهوری یمن اصابت کرد."
-  },
-  {
-   "t": 1792344180.0,
-   "n": "ukrainian drone strike hits putin s hometown striking oil terminal the fresh attack on russian oil facilities came following the collapse of efforts by president trump to enforce a fragile energy ceasefire",
-   "fa": "🔴 حمله پهپادی اوکراین به زادگاه پوتین و اصابت به یک پایانه نفتی به گزارش وال‌استریت ژورنال، حمله تازه به تأسیسات نفتی روسیه پس از فروپاشی تلاش‌های دونالد ترامپ برای اجرای یک آتش‌بس شکننده انرژی انجام شد."
-  },
-  {
    "t": 1792344235.0,
    "n": "a u s air force kc 135 stratotanker aerial refueling tanker made an emergency landing at ben gurion airport tel aviv after squawking 7700 emergency code",
    "fa": "🇺🇸🇮🇱⚡️ — یک فروند هواپیمای سوخت‌رسان هوایی KC-135 استراتوتانکر نیروی هوایی ایالات متحده پس از اعلام وضعیت اضطراری با کد ۷۷۰۰، در فرودگاه بن‌گوریون در تل‌آویو فرود اضطراری کرد."
@@ -684,20 +674,25 @@
    "t": 1792358126.0,
    "n": "گزارش پرتاب موشک از یزد",
    "fa": "🚨🚨🚨گزارش پرتاب موشک از یزد"
+  },
+  {
+   "t": 1792358591.0,
+   "n": "گزارش شلیک موشک از شیراز",
+   "fa": "🚨🚨گزارش شلیک موشک از شیراز"
+  },
+  {
+   "t": 1792358657.0,
+   "n": "هبچ انفجاری در شرق تهران صورت نگرفته است",
+   "fa": "❌ هبچ انفجاری در شرق تهران صورت نگرفته است."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 182
+  "requests": 183
  },
- "flip": 933,
- "quote_n": 389,
+ "flip": 934,
+ "quote_n": 391,
  "signals": [
-  {
-   "t": 1792272080.2570503,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1792272671.242749,
    "s": 3,
@@ -1477,6 +1472,16 @@
    "t": 1792358475.763278,
    "s": 5,
    "p": 90
+  },
+  {
+   "t": 1792358765.9670389,
+   "s": 5,
+   "p": 90
+  },
+  {
+   "t": 1792358769.5745008,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
