@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108515
+   "last_id": 108516
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132066
+   "last_id": 132067
   },
   "TelNews_Magazine": {
    "last_id": 101451
   },
   "NE_WG": {
-   "last_id": 114922
+   "last_id": 114923
   }
  },
  "fails": {},
@@ -386,11 +386,6 @@
  },
  "recent": [
   {
-   "t": 1792344235.0,
-   "n": "a u s air force kc 135 stratotanker aerial refueling tanker made an emergency landing at ben gurion airport tel aviv after squawking 7700 emergency code",
-   "fa": "🇺🇸🇮🇱⚡️ — یک فروند هواپیمای سوخت‌رسان هوایی KC-135 استراتوتانکر نیروی هوایی ایالات متحده پس از اعلام وضعیت اضطراری با کد ۷۷۰۰، در فرودگاه بن‌گوریون در تل‌آویو فرود اضطراری کرد."
-  },
-  {
    "t": 1792344298.0,
    "n": "israel s national security minister ben gvir netanyahu won t give us defense right he won t give us justice he won t give us the police what am i supposed to be the tourism minister is that what he ll give me he sent messages to foreign ministers to prime ministers in europe telling them that ben gvir will not be in the government",
    "fa": "🇮🇱🇪🇺⚡️ — ایتامار بن‌گویر، وزیر امنیت ملی اسرائیل: نتانیاهو به ما امنیت نمی‌دهد، درست است؟ او عدالت را به ما نمی‌دهد. او پلیس را به ما نمی‌دهد. من قرار است چه کاره باشم، وزیر گردشگری؟ آیا این چیزی است که او به من خواهد داد؟ او پیام‌هایی به وزیران امور خارجه و نخست‌وزیران در اروپا فرستاده و به آن‌ها گفته است که بن‌گویر در دولت نخواهد بود."
@@ -684,20 +679,20 @@
    "t": 1792358657.0,
    "n": "هبچ انفجاری در شرق تهران صورت نگرفته است",
    "fa": "❌ هبچ انفجاری در شرق تهران صورت نگرفته است."
+  },
+  {
+   "t": 1792359244.0,
+   "n": "all reports of renewed explosions and ballistic missile launches from iran are false",
+   "fa": "🇮🇷⚡️ — تمام گزارش‌های مربوط به انفجارهای جدید و پرتاب موشک‌های بالستیک از ایران نادرست است."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 184
+  "requests": 185
  },
  "flip": 934,
- "quote_n": 391,
+ "quote_n": 392,
  "signals": [
-  {
-   "t": 1792272671.242749,
-   "s": 3,
-   "p": 60
-  },
   {
    "t": 1792272963.99589,
    "s": 4,
@@ -1482,6 +1477,11 @@
    "t": 1792358769.5745008,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792359365.680989,
+   "s": 4,
+   "p": 70
   }
  ],
  "risk": {
