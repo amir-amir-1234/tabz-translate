@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108413
+   "last_id": 108417
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131999
+   "last_id": 132001
   },
   "TelNews_Magazine": {
    "last_id": 101400
   },
   "NE_WG": {
-   "last_id": 114850
+   "last_id": 114851
   }
  },
  "fails": {},
@@ -271,7 +271,8 @@
     "WP-WSJ-0003985227",
     "WP-WSJ-0003975840",
     "WP-WSJ-0003985008",
-    "WP-WSJ-0003983735"
+    "WP-WSJ-0003983735",
+    "WP-WSJ-0003985423"
    ]
   },
   "NYT": {
@@ -369,11 +370,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792289455.0,
-   "n": "ukrainian uavs have managed to strike multiple locations in st petersburg the port petroleum processing terminal a vk data centre the vostochnaya substation leading to power outages in eastern districts of the city multiple bridges such as the kipolovo canal bridge the raid on the city is ongoing with a further 30 uavs approaching the area",
-   "fa": "🇺🇦پهپادهای اوکراینی موفق شدند چندین نقطه را در سن‌پترزبورگ هدف قرار دهند: - پایانه پالایش نفت پورت - یک مرکز داده وی‌کی (VK) - ایستگاه برق فرعی وستوچنایا (که منجر به قطعی برق در مناطق شرقی شهر شده است) - چندین پل از جمله پل کانال کیپولوکو حمله به شهر همچنان ادامه دارد و ۳۰ پهپاد دیگر در حال نزدیک شدن به منطقه هستند."
-  },
   {
    "t": 1792289477.0,
    "n": "the ad situation in st petersburg has deteriorated rapidly earlier they were managing to intercept almost everything s 300 400 pantsir systems have mostly stopped operating around and in the city and for the last 30 minutes almost exclusively mobile fire groups have been engaging ukrainian uavs as a result the city is severely struggling to handle the massive influx of uavs",
@@ -668,14 +664,19 @@
    "t": 1792320846.0,
    "n": "vice president jd vance gas prices are too high they would be three times as high if it weren t for the united states navy keeping oil and gas moving out of the strait of hormuz if we just give up and we walk away and say oh we destroyed their nuclear program who cares energy prices are going to go way up",
    "fa": "🇺🇸🇮🇷⚡️ — جی‌دی ونس، معاون رئیس‌جمهور آمریکا: قیمت بنزین خیلی بالا است. اگر نیروی دریایی ایالات متحده نفت و گاز را از تنگه هرمز خارج نمی‌کرد، قیمت‌ها سه برابر بیشتر بود. اگر تسلیم شویم، کنار بکەیم و بگوییم «آه، ما برنامه هسته‌ای آنها را نابود کردیم. چه اهمیتی دارد؟»، قیمت انرژی به شدت بالا خواهد رفت."
+  },
+  {
+   "t": 1792320960.0,
+   "n": "zelensky takes a risk by publicly confronting trump over russia plus masked israeli settlers attack a group of european diplomats and a playboy inherits the world s most notorious mercenary force",
+   "fa": "🔴 اقدام پرخطر زلنسکی در رویارویی علنی با ترامپ بر سر روسیه و سایر تحولات جهانی به گزارش وال‌استریت ژورنال، زلنسکی با رویارویی علنی با ترامپ بر سر روسیه دست به یک قمار خطرناک می‌زند. علاوه بر این، شهرک‌نشینان نقاب‌دار اسرائیلی به گروهی از دیپلمات‌های اروپایی حمله کردند و یک فرد عیاش مجهزترین و بدنام‌ترین نیروی مزدور جهان را به ارث می‌برد."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 68
+  "requests": 70
  },
- "flip": 822,
- "quote_n": 348,
+ "flip": 823,
+ "quote_n": 349,
  "signals": [
   {
    "t": 1792236070.2460082,
