@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108406
+   "last_id": 108410
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131997
+   "last_id": 131998
   },
   "TelNews_Magazine": {
    "last_id": 101400
   },
   "NE_WG": {
-   "last_id": 114848
+   "last_id": 114849
   }
  },
  "fails": {},
@@ -370,16 +370,6 @@
  },
  "recent": [
   {
-   "t": 1792285200.0,
-   "n": "the playboy who inherited the world s most notorious mercenary force the son of wagner group s late founder hangs on to an african stronghold making a fortune from guns drugs and gold",
-   "fa": "⭕️ پسر بنیان‌گذار گروه واگنر کنترل پایگاه خود در آفریقا را حفظ کرده است به گزارش وال‌استریت ژورنال پسر بنیان‌گذار فقید گروه واگنر کنترل خود را بر یک پایگاه قدرتمند در آفریقا حفظ کرده است و از طریق تسلیحات، مواد مخدر و طلا ثروت کلانی به دست می‌آورد."
-  },
-  {
-   "t": 1792285200.0,
-   "n": "how zelensky decided to take the risk and publicly confront trump the ukrainian leader is calling out the white house for relaxing pressure on russia drawing more ire",
-   "fa": "🔴 تصمیم ولودیمیر زلنسکی برای رویارویی علنی با دونالد ترامپ به گزارش وال‌استریت ژورنال رهبر اوکراین کاخ سفید را به دلیل کاهش فشارها بر روسیه مورد انتقاد علنی قرار می‌دهد و خشم بیشتری را برمی‌انگیزد."
-  },
-  {
    "t": 1792285493.0,
    "n": "دقایقی قبل زلزله ۳ ۴ ریشتری در بومهن شرق تهران",
    "fa": "🚨دقایقی قبل زلزله ۳.۴ ریشتری در بومهن، شرق تهران"
@@ -663,14 +653,29 @@
    "t": 1792320238.0,
    "n": "new egypt s national defense council chaired by president el sisi has pledged to provide saudi arabia with all necessary and possible forms of support amid escalating houthi ansarallah attacks on the kingdom meeting in cairo on sunday the council expressed full solidarity with saudi arabia emphasizing that the kingdom s security is closely tied to egyptian and broader arab national security egypt ",
    "fa": "🇪🇬🇸🇦🇾🇪⚡️ — جدید: شورای دفاع ملی مصر به ریاست رئیس‌جمهور السیسی متعهد شد که در پی تشدید حملات حوثی‌ها (انصارالله) به پادشاهی عربستان سعودی، «تمام اشکال حمایت‌های لازم و ممکن» را به این کشور ارائه کند. این شورا روز یکشنبه در قاهره ضمن ابراز همبستگی کامل با عربستان سعودی، تأکید کرد که امنیت این کشور پیوند نزدیکی با امنیت ملی مصر و اعراب دارد. مصر متعهد شد از تمامیت ارضی، منابع، ثبات و اماکن مقدس اسلا"
+  },
+  {
+   "t": 1792320376.0,
+   "n": "romanian f 16 fighter jets shot down two russian jet powered geran drones over the black sea near sulina on saturday after they entered romanian airspace",
+   "fa": "🇷🇴🇷🇺⚡️ — جنگنده‌های اف-۱۶ رومانی روز شنبه دو فروند پهپاد جت‌مانند روسی گرانی را بر فراز دریای سیاه در نزدیکی سولينا پس از ورود به حریم هوایی رومانی سرنگون کردند."
+  },
+  {
+   "t": 1792320421.0,
+   "n": "جدال خبرنگار با ونس بر سر قیمت بالای بنزین در آمریکا جی دی ونس معاون رئیس جمهور آمریکا دلیل اصلی گرانی بنزین را تعطیلی بخشی از ظرفیت پالایش نفت آمریکا در دوران ریاست جمهوری جو بایدن دانست و گفت حدود ۲۰ درصد از ظرفیت پالایش نفت آمریکا از مدار خارج شده بود خبرنگار در پاسخ گفت نزدیک به دو سال گذشته است از یک مقطعی به بعد این دیگر اقتصاد دولت شماست نه اقتصاد جو بایدن",
+   "fa": "🇺🇸💢جدال خبرنگار با ونس بر سر قیمت بالای بنزین در آمریکا 🔴جی‌دی ونس، معاون رئیس‌جمهور آمریکا، دلیل اصلی گرانی بنزین را تعطیلی بخشی از ظرفیت پالایش نفت آمریکا در دوران ریاست‌جمهوری جو بایدن دانست و گفت حدود ۲۰ درصد از ظرفیت پالایش نفت آمریکا از مدار خارج شده بود. 🔴خبرنگار در پاسخ گفت: «نزدیک به دو سال گذشته است؛ از یک مقطعی به بعد، این دیگر اقتصاد دولت شماست، نه اقتصاد جو بایدن.»"
+  },
+  {
+   "t": 1792320490.0,
+   "n": "10 minutes ago alerts were activated in as sulayyil governorate and najran city saudi arabia",
+   "fa": "🇾🇪❌🇸🇦 — ۱۰ دقیقه پیش، آژیرهای هشدار در استان السلیل و شهر نجران در عربستان سعودی به صدا درآمدند."
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 66
+  "requests": 67
  },
- "flip": 818,
- "quote_n": 347,
+ "flip": 819,
+ "quote_n": 348,
  "signals": [
   {
    "t": 1792234268.4439576,
@@ -1459,6 +1464,16 @@
   },
   {
    "t": 1792320390.779059,
+   "s": 4,
+   "p": 75
+  },
+  {
+   "t": 1792320685.9122393,
+   "s": 4,
+   "p": 60
+  },
+  {
+   "t": 1792320689.4591193,
    "s": 4,
    "p": 75
   }
