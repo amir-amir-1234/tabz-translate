@@ -10,10 +10,10 @@
    "last_id": 132005
   },
   "TelNews_Magazine": {
-   "last_id": 101403
+   "last_id": 101404
   },
   "NE_WG": {
-   "last_id": 114858
+   "last_id": 114859
   }
  },
  "fails": {},
@@ -84,7 +84,8 @@
     "https://www.foxnews.com/world/three-men-158-years-murdering-american-australian-surfers-dumping-bodies-mexican-well",
     "https://www.foxnews.com/world/limoges-town-hall-largely-lost-after-far-left-rioters-set-historic-building-fire-amid-french-unrest",
     "https://www.foxnews.com/world/fatalities-injuries-reported-canadian-forces-base-wainwright-alberta-after-incident-sparked-fire",
-    "https://www.foxnews.com/world/european-parliament-votes-confront-muslim-brotherhood-islamist-entryism-overwhelming-vote"
+    "https://www.foxnews.com/world/european-parliament-votes-confront-muslim-brotherhood-islamist-entryism-overwhelming-vote",
+    "https://www.foxnews.com/world/pope-leo-welcomed-back-delivers-angelus-prayer-days-after-lung-cancer-surgery"
    ]
   },
   "WSJ": {
@@ -371,11 +372,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792297829.0,
-   "n": "ukmto announces a tugboat traveling southbound northeast of khor fakkan uae was struck by 2 projectiles tugboat is continuing its route despite damage 1 casualty was reported",
-   "fa": "🇮🇷⚡️ — سازمان تجارت دریایی بریتانیا (UKMTO) اعلام کرد که یک فروند یدک‌کش در حال حرکت به سمت جنوب در شمال شرقی خورفکان امارات متحده عربی مورد اصابت ۲ پرتابه قرار گرفته است. این یدک‌کش علیرغم خسارت به مسیر خود ادامه می‌دهد و ۱ مورد تلفات انسانی گزارش شده است."
-  },
   {
    "t": 1792300594.0,
    "n": "تأکید عراقچی بر تقویت روابط ایران و عراق در دیدار با نخست وزیر عراق عراقچی در دیدار با نخست وزیر عراق بر تقویت روابط دوجانبه نقش سازمان همکاری اسلامی در حمایت از فلسطین مقابله با ناامنی منطقه ای و ضرورت کاهش تنش ها تأکید کرد",
@@ -670,20 +666,20 @@
    "t": 1792324177.0,
    "n": "رهبر ۱۷ساله جنبش دانشجویی در فرانسه خواستار استقلال تصمیم گیری فرانسه بازنگری در روابط با ناتو تشکیل یک کشور فلسطینی مستقل پایان دادن به اشغال و شهرک سازی و توقف جنگ علیه غزه شد",
    "fa": "🇫🇷🇮🇱🇵🇸رهبر ۱۷ساله جنبش دانشجویی در فرانسه خواستار استقلال تصمیم‌گیری فرانسه، بازنگری در روابط با ناتو، تشکیل یک کشور فلسطینی مستقل، پایان دادن به اشغال و شهرک‌سازی، و توقف جنگ علیه غزه شد‼️"
+  },
+  {
+   "t": 1792323763.0,
+   "n": "pope leo welcomed back as he delivers angelus prayer days after lung cancer surgery pope leo xiv made a remarkable return to the vatican on sunday appearing before thousands of catholic faithful in st peter s square just five days after undergoing surgery to remove a cancerous tumor from his lung the 71 year old pontiff delivered his traditional angelus prayer from a window overlooking the square ",
+   "fa": "⭕️ بازگشت پاپ لئو چهاردهم به واتیکان و اجرای دعای آنجلوس پس از جراحی سرطان ریه به گزارش فاکس نیوز پاپ لئو چهاردهم روز یکشنبه بازگشتی چشمگیر به واتیکان داشت و تنها پنج روز پس از انجام جراحی برای خارج کردن یک تومور سرطانی از ریه خود، در برابر هزاران تن از مومنان کاتولیک در میدان سن پیتر ظاهر شد. این رهبر ۷۱ ساله کلیسای کاتولیک دعای سنتی آنجلوس خود را از پنجره‌ای رو به میدان قرائت کرد که این نخستین ب"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 80
+  "requests": 82
  },
- "flip": 831,
+ "flip": 832,
  "quote_n": 351,
  "signals": [
-  {
-   "t": 1792237876.5759346,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1792238178.7010808,
    "s": 2,
