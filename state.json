@@ -7,7 +7,7 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132050
+   "last_id": 132051
   },
   "TelNews_Magazine": {
    "last_id": 101445
@@ -382,11 +382,6 @@
  },
  "recent": [
   {
-   "t": 1792339217.0,
-   "n": "israeli prime minister netanyahu when i was a child we used to get into fights in the neighborhood and i discovered a very simple rule whoever strikes first has an enormous advantage you go and punch the person who is coming to attack you and you strike first an enormous advantage",
-   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: در دوران کودکی، در محله دعوا می‌کردیم. و قانون بسیار ساده‌ای را کشف کردم: هرکس اول ضربه بزند، مزیت فوق‌العاده‌ای دارد. می‌روید و به کسی که برای حمله به شما می‌آید مشت می‌زنید و اول ضربه می‌زنید. یک مزیت فوق‌العاده."
-  },
-  {
    "t": 1792339345.0,
    "n": "israeli prime minister netanyahu we have changed our approach to an offensive proactive approach that is why we entered the refugee camps they were not refugee camps they were actually terrorist fortresses we entered them destroyed them and we are staying inside",
    "fa": "🇮🇱❌🇵🇸 — نخست‌وزیر اسرائیل، نتانیاهو: ما رویکرد خود را به یک رویکرد تهاجمی و پیش دستانه تغییر داده‌ایم. به همین دلیل وارد اردوگاه‌های آوارگان شدیم. آن‌ها اردوگاه‌های آوارگان نبودند. آن‌ها در واقع دژهای تروریستی بودند. ما وارد آن‌ها شدیم، نابودشان کردیم و در داخل آن‌ها می‌مانیم."
@@ -680,13 +675,18 @@
    "t": 1792352069.0,
    "n": "general ronald clark commander of u s army pacific wants to demonstrate more advanced american military capabilities across the indo pacific to strengthen deterrence against china and prevent war according to ft clark said the u s must reveal enough military capability and readiness to give your adversary pause including through deployments of typhon missile systems capable of firing tomahawk crui",
    "fa": "🇺🇸🇨🇳⚡️ — ژنرال رونالد کلارک، فرمانده ارتش ایالات متحده در اقیانوس آرام، به گزارش فایننشال تایمز، می‌خواهد توانمندی‌های پیشرفته‌تر نظامی آمریکا را در سراسر منطقه هند-پاسیفیک به نمایش بگذارد تا بازدارندگی در برابر چین را تقویت کرده و از جنگ جلوگیری کند. کلارک گفت که آمریکا باید توانمندی و آمادگی نظامی کافی را برای «وادار کردن دشمن به مکث» آشکار کند، از جمله از طریق استقرار سامانه‌های موشکی تایفون که"
+  },
+  {
+   "t": 1792352221.0,
+   "n": "تیتر و متن عجیب روزنامه امیر حسین ثابتی با مادر بمب ها هم مذاکره می کنیم این روزنامه از تصویر عراقچی استفاده کرده",
+   "fa": "‼️تیتر و متن عجیب روزنامه امیر حسین ثابتی: با مادر بمب‌ها هم مذاکره می‌کنیم! 💢این روزنامه از تصویر عراقچی استفاده کرده!"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 163
+  "requests": 164
  },
- "flip": 917,
+ "flip": 918,
  "quote_n": 378,
  "signals": [
   {
@@ -1468,6 +1468,11 @@
    "t": 1792352166.10972,
    "s": 2,
    "p": 60
+  },
+  {
+   "t": 1792352471.2652717,
+   "s": 2,
+   "p": 50
   }
  ],
  "risk": {
