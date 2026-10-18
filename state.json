@@ -10,7 +10,7 @@
    "last_id": 131966
   },
   "TelNews_Magazine": {
-   "last_id": 101378
+   "last_id": 101379
   },
   "NE_WG": {
    "last_id": 114812
@@ -266,7 +266,9 @@
     "WP-WSJ-0003984799",
     "WP-WSJ-0003968780",
     "WP-WSJ-0003985102",
-    "WP-WSJ-0003985227"
+    "WP-WSJ-0003985227",
+    "WP-WSJ-0003975840",
+    "WP-WSJ-0003985008"
    ]
   },
   "NYT": {
@@ -364,21 +366,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792260056.0,
-   "n": "german chancellor friedrich merz on israel we stand with israel and we stand against anyone in germany who questions the state of israel s right to exist nothing has changed about that",
-   "fa": "🇩🇪🇮🇱⚡️ — فریدریش مرتس، صدراعظم آلمان درباره اسرائیل: ما در کنار اسرائیل می‌ایستیم و در کنار هر کسی در آلمان می‌ایستیم که حق موجودیت دولت اسرائیل را زیر سوال می‌برد. هیچ‌چیز در این باره تغییر نکرده است."
-  },
-  {
-   "t": 1792260061.0,
-   "n": "پزشکیان شیب مصرف انرژی کم شده بدون تنش اجتماعی داریم مصرف انرژی را مدیریت می کنیم مصرف بنزین درحال متعادل شدن است",
-   "fa": "🎥پزشکیان: شیب مصرف انرژی کم شده بدون تنش اجتماعی داریم مصرف انرژی را مدیریت می‎کنیم؛ مصرف بنزین درحال متعادل‌شدن است."
-  },
-  {
-   "t": 1792260300.0,
-   "n": "the situation in paris is still extremely tense with violent clashes between the gendarme and police riot units against the protesters ongoing the protesters are now gearing up and reportedly are trying to reach the french presidential palace",
-   "fa": "🇫🇷⚡️ — وضعیت در پاریس همچنان بسیار متشنج است و درگیری‌های خشونت‌آمیزی بین یگان‌های ضدشورش ژاندارمری و پلیس با معترضان در جریان است. معترضان در حال حاضر تجهیز شده و گزارش شده است که تلاش می‌کنند خود را به کاخ ریاست‌جمهوری فرانسه برسانند."
-  },
   {
    "t": 1792260323.0,
    "n": "دادستان تهران روغن و لاستیک ماشین مستقیما به مردم عرضه می شود ۳۰۰ نقطه از ابتدای ماه آبان به صورت مستقیم لاستیک و روغن موتور را در تهران عرضه خواهند کرد",
@@ -663,14 +650,29 @@
    "t": 1792276766.0,
    "n": "pro houthis ansarallah media had announced the downing of a turkish made karayel drone operated by the saudi air force over the hodeida region of yemen",
    "fa": "🇾🇪❌🇸🇦 — رسانه‌های حوثی‌ها (انصارالله) از سرنگونی یک فروند پهپاد کارایل ساخت ترکیه متعلق به نیروی هوایی عربستان سعودی در منطقه الحدیده یمن خبر دادند."
+  },
+  {
+   "t": 1792285200.0,
+   "n": "the playboy who inherited the world s most notorious mercenary force the son of wagner group s late founder hangs on to an african stronghold making a fortune from guns drugs and gold",
+   "fa": "⭕️ پسر بنیان‌گذار گروه واگنر کنترل پایگاه خود در آفریقا را حفظ کرده است به گزارش وال‌استریت ژورنال پسر بنیان‌گذار فقید گروه واگنر کنترل خود را بر یک پایگاه قدرتمند در آفریقا حفظ کرده است و از طریق تسلیحات، مواد مخدر و طلا ثروت کلانی به دست می‌آورد."
+  },
+  {
+   "t": 1792285200.0,
+   "n": "how zelensky decided to take the risk and publicly confront trump the ukrainian leader is calling out the white house for relaxing pressure on russia drawing more ire",
+   "fa": "🔴 تصمیم ولودیمیر زلنسکی برای رویارویی علنی با دونالد ترامپ به گزارش وال‌استریت ژورنال رهبر اوکراین کاخ سفید را به دلیل کاهش فشارها بر روسیه مورد انتقاد علنی قرار می‌دهد و خشم بیشتری را برمی‌انگیزد."
+  },
+  {
+   "t": 1792285493.0,
+   "n": "دقایقی قبل زلزله ۳ ۴ ریشتری در بومهن شرق تهران",
+   "fa": "🚨دقایقی قبل زلزله ۳.۴ ریشتری در بومهن، شرق تهران"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 0
+  "requests": 2
  },
- "flip": 771,
- "quote_n": 331,
+ "flip": 774,
+ "quote_n": 333,
  "signals": [
   {
    "t": 1792202766.6613827,
@@ -1441,6 +1443,11 @@
    "t": 1792276872.6815286,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792285577.187119,
+   "s": 3,
+   "p": 20
   }
  ],
  "risk": {
