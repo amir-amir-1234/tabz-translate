@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108377
+   "last_id": 108378
   },
   "khabarfouri": {
    "last_id": 569949
@@ -367,11 +367,6 @@
  },
  "recent": [
   {
-   "t": 1792260413.0,
-   "n": "egypt s president says he will leave office in 2030 president abdel fattah el sisi who has so far ruled for over a dozen years pledged to respect constitutional limits while also seeking parliamentary approval to help defend saudi arabia",
-   "fa": "🔴 رئیس‌جمهور مصر اعلام کرد در سال ۲۰۳۰ از مقام خود کناره‌گیری خواهد کرد به گزارش نیویورک تایمز رئیس‌جمهور عبدالفتاح السیسی که تاکنون بیش از یک دهه حکومت کرده است، متعهد شد که به محدودیت‌های قانون اساسی احترام بگذارد و در عین حال به دنبال کسب موافقت پارلمان برای کمک به دفاع از عربستان سعودی است."
-  },
-  {
    "t": 1792260758.0,
    "n": "خبرگزاری فرانسه ۸۰۰ هزار نفر در اعتراضات سراسری فرانسه شرکت کردند",
    "fa": "⭕️خبرگزاری فرانسه: ۸۰۰ هزار نفر در اعتراضات سراسری فرانسه شرکت کردند"
@@ -665,20 +660,20 @@
    "t": 1792285930.0,
    "n": "pro plc media announced the killing of three houthis ansarallah officers in taiz identified as major general muhyiddin al shami the commander of an unnamed special force brigade major general kamal al rajali major general tareq al sharif",
    "fa": "🇾🇪❌🇾🇪 — رسانه‌های وابسته به دولت نجات ملی (PLC) از کشته شدن سه افسر ارشد حوثی (انصارالله) در تعز خبر دادند: سرلشکر محی الدین الشامی، فرمانده یک تیپ نیروی ویژه سرلشکر کمال الرجالی سرلشکر طارق الشریف"
+  },
+  {
+   "t": 1792289216.0,
+   "n": "a fire occured at cfb wainwright canada initial reporting indicates the fire started at the training area and spread beyond the site to other areas of the base medevac helicopters and firefighting helicopters active a mass casualty incident is reported at the base with an emergency coordination center being set up and residents advised to avoid visiting the wainwright heath centre unless there s a",
+   "fa": "🇨🇦⚡️ — آتش‌سوزی در پایگاه نیروهای مسلح کانادا در وین‌رایت رخ داد. گزارش‌های اولیه حاکی از آن است که آتش‌سوزی در منطقه آموزشی آغاز شده و به سایر نقاط پایگاه سرایت کرده است. هلیکوپترهای امداد هوایی و آتش‌نشانی در حال فعالیت هستند. گزارش‌هایی از تلفات انبوه در این پایگاه منتشر شده و یک مرکز هماهنگی اضطراری راه‌اندازی شده است. به ساکنان توصیه شده است تا زمانی که «نیاز پزشکی بحرانی» وجود ندارد، از مراج"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 3
+  "requests": 4
  },
- "flip": 775,
- "quote_n": 333,
+ "flip": 776,
+ "quote_n": 334,
  "signals": [
-  {
-   "t": 1792202766.6613827,
-   "s": 4,
-   "p": 65
-  },
   {
    "t": 1792203370.8456428,
    "s": 5,
