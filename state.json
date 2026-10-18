@@ -10,10 +10,10 @@
    "last_id": 132002
   },
   "TelNews_Magazine": {
-   "last_id": 101401
+   "last_id": 101402
   },
   "NE_WG": {
-   "last_id": 114853
+   "last_id": 114854
   }
  },
  "fails": {},
@@ -371,11 +371,6 @@
  },
  "recent": [
   {
-   "t": 1792293282.0,
-   "n": "israeli defense minister katz the achievements are dramatic in gaza we have achieved our objectives 70 80 of gaza is destroyed the same is true in southern lebanon",
-   "fa": "🇮🇱❌🇵🇸🇱🇧 — وزیر دفاع اسرائیل، یسرائیل کاتز: دستاوردهای ما چشمگیر است. در غزه به اهداف خود رسیده‌ایم. ۷۰ تا ۸۰ درصد غزه ویران شده است. همین وضعیت در جنوب لبنان نیز صادق است."
-  },
-  {
    "t": 1792293539.0,
    "n": "israeli defense minister katz the entire world salutes us the entire world respects us countries in the region whether they say so openly or not want to be close to israel they appreciate our determination they appreciate the results",
    "fa": "🇮🇱⚡️ — وزیر دفاع اسرائیل، کاتز: تمام جهان به ما ادای احترام می‌کند. تمام جهان به ما احترام می‌گذارد. کشورهای منطقه، چه آشکارا بگویند و چه نگویند، می‌خواهند به اسرائیل نزدیک باشند. آن‌ها اراده ما را تحسین می‌کنند. آن‌ها نتایج را ارج می‌نهند."
@@ -669,30 +664,20 @@
    "t": 1792322341.0,
    "n": "عراقچی طرح ایران برای باز شدن تنگه هرمز همچنان روی میز است",
    "fa": "🇺🇸🇮🇷عراقچی: طرح ایران برای باز شدن تنگه هرمز همچنان روی میز است"
+  },
+  {
+   "t": 1792322433.0,
+   "n": "مجری صداوسیما خواستار ورود سازمان ملل برای جلوگیری از خشونت پلیس فرانسه علیه معترضان هستیم",
+   "fa": "⭕️مجری صداوسیما: خواستار ورود سازمان ملل برای جلوگیری از خشونت پلیس فرانسه علیه معترضان هستیم"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 74
+  "requests": 75
  },
- "flip": 825,
- "quote_n": 349,
+ "flip": 826,
+ "quote_n": 350,
  "signals": [
-  {
-   "t": 1792236070.2460082,
-   "s": 3,
-   "p": 30
-  },
-  {
-   "t": 1792236076.115433,
-   "s": 3,
-   "p": 40
-  },
-  {
-   "t": 1792236080.4578736,
-   "s": 5,
-   "p": 85
-  },
   {
    "t": 1792236368.4532683,
    "s": 4,
