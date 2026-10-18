@@ -10,7 +10,7 @@
    "last_id": 132055
   },
   "TelNews_Magazine": {
-   "last_id": 101447
+   "last_id": 101448
   },
   "NE_WG": {
    "last_id": 114911
@@ -382,11 +382,6 @@
  },
  "recent": [
   {
-   "t": 1792339831.0,
-   "n": "israeli prime minister netanyahu perhaps when we reach the end of days everyone will beat their swords into plowshares and the messiah will come but i can tell you with absolute certainty that this is not going to happen next thursday we will have to live by our sword in order to live for many years",
-   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: شاید وقتی به آخر الزمان برسیم، همه شمشیرهای خود را به گاوآهن تبدیل کنند و مسیح بیاید. اما می‌توانم با قطعیت به شما بگویم که این اتفاق پنجشنبه آینده رخ نخواهد داد. ما مجبور خواهیم بود با شمشیر خود زندگی کنیم تا سالیان سال زنده بمانیم."
-  },
-  {
    "t": 1792339902.0,
    "n": "israeli prime minister netanyahu someone asked me do you want fortress israel i said of course of course i do a country that does not control its borders does not control its future that is what we have seen in europe this is also a battle that is taking place in the united states",
    "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: کسی از من پرسید: «آیا دژ اسرائیل را می‌خواهید؟» گفتم: «البته. البته که می‌خواهم.» کشوری که مرزهای خود را کنترل نکند، آینده خود را کنترل نمی‌کند. این همان چیزی است که در اروپا دیده‌ایم. این همچنین نبردی است که در ایالات متحده در جریان است."
@@ -680,13 +675,18 @@
    "t": 1792354054.0,
    "n": "بابک زنجانی در این شرایط هیچ قدرتی نه توان تغییر نظام ایران را دارد و نه امکان جنگی جدی",
    "fa": "⭕️بابک زنجانی: در این شرایط هیچ قدرتی نه توان تغییر نظام ایران را دارد و نه امکان جنگی جدی."
+  },
+  {
+   "t": 1792354253.0,
+   "n": "علی قلهکی سفر احتمالی لاوروف به تهران به جمع بندی های اخیر هسته ای میان تهران روسیه واشنگتن مربوط می باشد که در صورت انجام سفر وزیر خارجه روسیه به ایران یعنی تفاهمات اولیه ای در این حوزه شکل گرفته است",
+   "fa": "⭕️علی قلهکی: سفر احتمالی لاوروف به تهران به جمع‌ بندی‌ های اخیر هسته‌ ای میان تهران _ روسیه _ واشنگتن مربوط می‌باشد که در صورتِ انجام سفر وزیر خارجه روسیه به ایران، یعنی تفاهمات اولیه‌ای در این حوزه شکل گرفته است"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 169
+  "requests": 170
  },
- "flip": 924,
+ "flip": 925,
  "quote_n": 379,
  "signals": [
   {
@@ -1468,6 +1468,11 @@
    "t": 1792354282.0160837,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792354575.31097,
+   "s": 2,
+   "p": 60
   }
  ],
  "risk": {
