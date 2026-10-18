@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132072
+   "last_id": 132073
   },
   "TelNews_Magazine": {
    "last_id": 101455
   },
   "NE_WG": {
-   "last_id": 114930
+   "last_id": 114931
   }
  },
  "fails": {},
@@ -285,7 +285,8 @@
     "WP-WSJ-0003985947",
     "SB10222543145185073693004593513730667629690",
     "SB11676206231181634135104593519853452489038",
-    "SB10222543145185073693004593517310691323402"
+    "SB10222543145185073693004593517310691323402",
+    "WP-WSJ-0003986105"
    ]
   },
   "NYT": {
@@ -385,16 +386,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792346412.0,
-   "n": "the houthis ansarallah say saudi arabia carried out 110 airstrikes and missile strikes across sana a and eight yemeni governorates over the past 24 hours killing or injuring more than 30 people mostly women and children the total number of saudi led coalition air and missile strikes has now reached 2652",
-   "fa": "🇸🇦❌🇾🇪 — حوثی‌ها (انصارالله) اعلام کردند که عربستان سعودی طی ۲۴ ساعت گذشته ۱۱۰ حمله هوایی و موشکی در صنعا و هشت استان یمن انجام داده که بر اثر آن بیش از ۳۰ نفر، عمدتاً زنان و کودکان، کشته یا زخمی شدند. تعداد کل حملات هوایی و موشکی ائتلاف به رهبری عربستان اکنون به ۲۶۵۲ مورد رسیده است."
-  },
-  {
-   "t": 1792346461.0,
-   "n": "عاصم منیر دو روز دیگه برای جلوگیری از اغاز جنگ میاد تهران",
-   "fa": "⭕️عاصم منیر دو روز دیگه برای جلوگیری از اغاز جنگ میاد تهران"
-  },
   {
    "t": 1792346871.0,
    "n": "israeli prime minister netanyahu russia has its own interests and the state of israel has its interests and they do not always overlap sometimes they even clash russia s cooperation with iran is something we oppose as is the fact that there are networks a bot operation against the state of israel involving the most blatant antisemitism imaginable we raise all these issues and we raise them very cl",
@@ -684,20 +675,25 @@
    "t": 1792361401.0,
    "n": "خبرنگار اسرائیلی به گفته منابعی در ایران درخواست ها برای انجام حمله در داخل سپاه پاسداران رو به افزایش است تندروها خواستار حمله به اسرائیل هستند گزینه دیگری که در دست بررسی است حمله به زیرساخت های نفتی امارات متحده عربی و کویت و احتمالا عراق با هدف افزایش قیمت جهانی انرژی است",
    "fa": "🇮🇱🇮🇷🇮🇷خبرنگار اسرائیلی: «به‌گفته منابعی در ایران، درخواست‌ها برای انجام حمله در داخل سپاه پاسداران رو به افزایش است. تندروها خواستار حمله به اسرائیل هستند. گزینه دیگری که در دست بررسی است، حمله به زیرساخت‌های نفتی امارات متحده عربی و کویت و احتمالا عراق، با هدف افزایش قیمت جهانی انرژی است.»"
+  },
+  {
+   "t": 1792358700.0,
+   "n": "trump s overtures to putin put republican candidates in hot seat gop politicians in a number of tight races are breaking with trump on russia policy ahead of midterms",
+   "fa": "🔴 واکنش سیاستمداران جمهوری‌خواه به رویکرد ترامپ در قبال روسیه در آستانه انتخابات میان‌دوره‌ای به گزارش وال‌استریت ژورنال، سیاستمداران حزب جمهوری‌خواه در تعدادی از رقابت‌های انتخاباتی فشرده، در آستانه انتخابات میان‌دوره‌ای، در زمینه سیاست مربوط به روسیه از ترامپ فاصله می‌گیرند."
+  },
+  {
+   "t": 1792361846.0,
+   "n": "قیمت هر بشکه نفت اندکی پس از باز شدن بازار از 110دلار هم عبور کرد",
+   "fa": "🚨قیمت هر بشکه نفت اندکی پس از باز شدن بازار، از 110دلار هم عبور کرد!"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 190
+  "requests": 192
  },
- "flip": 940,
- "quote_n": 396,
+ "flip": 942,
+ "quote_n": 397,
  "signals": [
-  {
-   "t": 1792275369.3328373,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1792275669.0616264,
    "s": 4,
@@ -1507,6 +1503,11 @@
    "t": 1792361480.4014132,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1792362077.878265,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
