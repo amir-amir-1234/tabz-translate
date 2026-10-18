@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 131968
+   "last_id": 131969
   },
   "TelNews_Magazine": {
    "last_id": 101379
   },
   "NE_WG": {
-   "last_id": 114814
+   "last_id": 114815
   }
  },
  "fails": {},
@@ -367,11 +367,6 @@
  },
  "recent": [
   {
-   "t": 1792261792.0,
-   "n": "israeli prime minister netanyahu the opposition will cancel all our tremendous achievements establish a palestinian state withdraw from all the security zones give in to every pressure and certainly not prevent iran from acquiring nuclear weapons once and for all",
-   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل بنیامین نتانیاهو: اپوزیسیون تمام دستاوردهای فوق‌العاده ما را لغو خواهد کرد، یک کشور فلسطینی تشکیل خواهد داد، از تمام مناطق امنیتی عقب‌نشینی خواهد کرد، در برابر هر فشاری تسلیم خواهد شد و قطعاً مانع از دستیابی ایران به سلاح هسته‌ای برای همیشه نخواهد شد."
-  },
-  {
    "t": 1792262099.0,
    "n": "israeli prime minister netanyahu on iran the opposition candidate opposed the idea of attacking iran he said it was a mistake he said we had to learn to live with a nuclear iran i will never live with a nuclear iran i have dedicated my life and i will dedicate my next term as well god willing if i am elected to ensuring once and for all that this does not happen",
    "fa": "🇮🇱🇮🇷⚡️ — نخست‌وزیر اسرائیل، نتانیاهو درباره ایران: نامزد اپوزیسیون با ایده حمله به ایران مخالفت کرد. او گفت این یک اشتباه بود. او گفت ما باید یاد بگیریم با یک ایران هسته‌ای زندگی کنیم. من هرگز با یک ایران هسته‌ای زندگی نخواهم کرد. من زندگی خود را وقف کرده‌ام، و دوره بعدی خود را نیز، ان‌شاءالله اگر انتخاب شوم، وقف خواهم کرد تا یک بار برای همیشه اطمینان حاصل کنم که این اتفاق نمی‌افتد."
@@ -665,14 +660,19 @@
    "t": 1792295625.0,
    "n": "israel s national security minister ben gvir what s happening right now is that they want to push me out benjamin netanyahu doesn t want me to be national security minister he doesn t want me to be defense minister what will they let us have the tourism ministry i m saying this to netanyahu you know i love you",
    "fa": "🇮🇱⚡️ — وزیر امنیت داخلی اسرائیل، بن‌گویر: آنچه در حال حاضر رخ می‌دهد این است که آن‌ها می‌خواهند مرا بیرون برانند. بنیامین نتانیاهو نمی‌خواهد من وزیر امنیت داخلی باشم. او نمی‌خواهد من وزیر دفاع باشم. آن‌ها چه چیزی را به ما واگذار خواهند کرد؟ وزارت گردشگری؟ من این را به نتانیاهو می‌گویم: تو می‌دانی که من دوستت دارم."
+  },
+  {
+   "t": 1792296287.0,
+   "n": "قطر میانجی گری میان ایران و آمریکا ادامه دارد سخنگوی وزارت امور خارجه قطر تلاش های میانجی گرانه میان آمریکا و ایران همچنان ادامه دارد دو طرف با وجود چالش های جدی به تبادل دیدگاه ها و پیشنهادها می پردازند کشورهای حاشیه حاشیه خلیج فارس دیپلماسی را ترجیح می دهند اما توانایی دفاع از خود را دارند و هدف قرار گرفتن بدون پاسخ بازدارنده را نمی پذیرند هدف از نشست صلاله بازگشایی موقت تنگه هرمز تا زمان دستیاب",
+   "fa": "🇶🇦🇺🇸🇮🇷قطر: میانجی‌گری میان ایران و آمریکا ادامه دارد 💢سخنگوی وزارت امور خارجه قطر: تلاش‌های میانجی‌گرانه میان آمریکا و ایران همچنان ادامه دارد. دو طرف با وجود چالش‌های جدی، به تبادل دیدگاه‌ها و پیشنهادها می‌پردازند. کشورهای حاشیه حاشیه خلیج فارس دیپلماسی را ترجیح می‌دهند، اما توانایی دفاع از خود را دارند و هدف قرار گرفتن بدون پاسخ بازدارنده را نمی‌پذیرند. هدف از نشست صلاله، بازگشایی موقت تنگه هرمز"
   }
  ],
  "usage": {
   "date": "2026-10-18",
-  "requests": 17
+  "requests": 18
  },
- "flip": 786,
- "quote_n": 336,
+ "flip": 787,
+ "quote_n": 337,
  "signals": [
   {
    "t": 1792213296.61656,
@@ -1468,6 +1468,11 @@
    "t": 1792295765.9265068,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792296672.7524972,
+   "s": 2,
+   "p": 60
   }
  ],
  "risk": {
