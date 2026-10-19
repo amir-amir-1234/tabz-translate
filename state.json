@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108571
+   "last_id": 108572
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,7 +10,7 @@
    "last_id": 132112
   },
   "TelNews_Magazine": {
-   "last_id": 101483
+   "last_id": 101484
   },
   "NE_WG": {
    "last_id": 114979
@@ -403,11 +403,6 @@
  },
  "recent": [
   {
-   "t": 1792401648.0,
-   "n": "secretary of state marco rubio on ukraine a few nights ago there was a software problem involving ukraine s early warning system eucom is looking at it i can t comment on what happened last night",
-   "fa": "🇺🇸🇺🇦⚡️ — مارکو روبیو، وزیر امور خارجه آمریکا، درباره اوکراین: چند شب پیش، یک مشکل نرم‌افزاری در سیستم هشدار زودهنگام اوکراین رخ داد. فرماندهی اروپایی ایالات متحده (EUCOM) در حال بررسی آن است. من نمی‌توانم درباره اتفاقی که دیشب رخ داد اظهار نظر کنم."
-  },
-  {
    "t": 1792401661.0,
    "n": "سفارت ایران از شهروندانش خواست که فورا خاک فرانسه رو ترک کنن",
    "fa": "⭕️ سفارت ایران از شهروندانش خواست که فورا خاک فرانسه رو ترک کنن"
@@ -701,14 +696,19 @@
    "t": 1792416487.0,
    "n": "israeli prime minister benjamin netanyahu says itamar ben gvir will serve as a senior minister in his next government dismissing claims that he was being sidelined ahead of the october 27 election as false political spin however netanyahu ruled out giving ben gvir the defense or national security ministries saying both would remain under likud s control",
    "fa": "🇮🇱⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل، می‌گوید ایتامار بن‌گویر به عنوان یک وزیر ارشد در دولت آینده او خدمت خواهد کرد و ادعاها مبنی بر اینکه او در آستانه انتخابات ۲۷ اکتبر به حاشیه رانده شده است را «چرخش سیاسی دروغین» رد کرد. با این حال، نتانیاهو واگذاری وزارتخانه‌های دفاع یا امنیت ملی به بن‌گویر را رد کرد و گفت هر دو تحت کنترل حزب لیکود باقی خواهند ماند."
+  },
+  {
+   "t": 1792416698.0,
+   "n": "چین ما آماده تقویت همکاری با ایران هستیم",
+   "fa": "⭕️چین: ما آماده تقویت همکاری با ایران هستیم"
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 102
+  "requests": 103
  },
- "flip": 1010,
- "quote_n": 432,
+ "flip": 1011,
+ "quote_n": 433,
  "signals": [
   {
    "t": 1792330563.7252524,
@@ -1588,6 +1588,11 @@
   {
    "t": 1792416690.8896687,
    "s": 4,
+   "p": 50
+  },
+  {
+   "t": 1792416971.4288342,
+   "s": 3,
    "p": 50
   }
  ],
