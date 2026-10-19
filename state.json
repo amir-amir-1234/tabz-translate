@@ -90,7 +90,8 @@
     "https://www.foxnews.com/world/wheres-macron-french-leader-blasted-attending-concert-riots-escalated",
     "https://www.foxnews.com/world/canadian-pm-carney-4-service-members-killed-dozens-injured-military-base-fire",
     "https://www.foxnews.com/world/french-newspaper-rips-macron-riots-erupt-across-france-indelible-stain",
-    "https://www.foxnews.com/world/priest-killed-falling-crucifix-livestreamed-mass-worshippers-rush-help"
+    "https://www.foxnews.com/world/priest-killed-falling-crucifix-livestreamed-mass-worshippers-rush-help",
+    "https://www.foxnews.com/world/saudi-arabia-edge-iconic-kingdom-centre-sends-workers-home-amid-houthi-attacks"
    ]
   },
   "WSJ": {
@@ -389,11 +390,6 @@
  },
  "recent": [
   {
-   "t": 1792347420.0,
-   "n": "french president emmanuel macron we all feel angry tonight we feel shame as well seeing the disasters that unfolded in our streets",
-   "fa": "🇫🇷⚡️ — رئیس‌جمهور فرانسه، امانوئل مکرون: امشب همه ما احساس خشم می‌کنیم. با دیدن فجایعی که در خیابان‌های ما رخ داد، احساس شرمساری نیز می‌کنیم."
-  },
-  {
    "t": 1792347545.0,
    "n": "french president emmanuel macron those people who looted need to pay for their crimes those people who attacked government buildings need to pay for their crimes",
    "fa": "🇫🇷⚡️ — رئیس‌جمهور فرانسه، امانوئل مکرون: کسانی که دست به غارت زدند باید به خاطر جرایم خود تاوان بدهند. کسانی که به ساختمان‌های دولتی حمله کردند باید به خاطر جرایم خود تاوان بدهند."
@@ -687,13 +683,18 @@
    "t": 1792365911.0,
    "n": "russian president vladimir putin has proposed a trilateral summit with president trump and chinese president xi jinping next month to discuss ending the war in ukraine according to wsj putin raised the proposal during an october 9 phone call with trump which also resulted in an agreement for the u s to purchase russian diesel and facilitate its sale internationally moscow has suggested holding the",
    "fa": "🇷🇺🇺🇸🇨🇳⚡️ — به گزارش وال‌استریت ژورنال، ولادیمیر پوتین، رئیس‌جمهور روسیه، پیشنهاد برگزاری یک نشست سه‌جانبه با رئیس‌جمهور ترامپ و شی جین‌پینگ، رئیس‌جمهور چین، در ماه آینده برای گفتگو درباره پایان جنگ در اوکراین را مطرح کرده است. پوتین این پیشنهاد را طی تماس تلفنی ۹ اکتبر با ترامپ مطرح کرد که همچنین به توافقی برای خرید دیزل روسیه توسط ایالات متحده و تسهیل فروش بین‌المللی آن منجر شد. مسکو پیشنهاد کرده"
+  },
+  {
+   "t": 1792370715.0,
+   "n": "saudi arabia on edge iconic kingdom centre sends workers home amid houthi attacks one of saudi arabia s most iconic skyscrapers ordered office workers to stay home sunday as escalating attacks by iran backed houthi rebels rattled the capital of riyadh amid fears of a widening middle east conflict the move came after the saudi led coalition said it intercepted two drones in the riyadh area a third ",
+   "fa": "⭕️ دورکاری کارکنان برج المملکه ریاض در پی حملات پهپادی و موشکی حوثی‌ها به گزارش فاکس نیوز یکی از شاخص‌ترین آسمان‌خراش‌های عربستان سعودی روز یکشنبه به کارکنان اداری خود دستور داد در پی تشدید حملات شورشیان حوثی تحت حمایت ایران که پایتخت ریاض را در میان نگرانی از گسترش درگیری‌ها در خاورمیانه به لرزه درآورده است، در خانه بمانند. این اقدام پس از آن صورت گرفت که ائتلاف تحت رهبری عربستان اعلام کرد دو پهپ"
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 0
+  "requests": 2
  },
- "flip": 945,
+ "flip": 946,
  "quote_n": 399,
  "signals": [
   {
@@ -1510,6 +1511,11 @@
    "t": 1792365966.263304,
    "s": 2,
    "p": 60
+  },
+  {
+   "t": 1792371364.75108,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
