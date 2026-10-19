@@ -293,7 +293,8 @@
     "WP-WSJ-0003986160",
     "WP-WSJ-0003986262",
     "WP-WSJ-0003985818",
-    "WP-WSJ-0003986749"
+    "WP-WSJ-0003986749",
+    "WP-WSJ-0003987112"
    ]
   },
   "NYT": {
@@ -393,16 +394,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792352461.0,
-   "n": "واکنش جالب پزشکیان وقتی یک دانش آموز از او پرسید میشه بغلتون کنم",
-   "fa": "‼️واکنش جالب پزشکیان وقتی یک دانش آموز از او پرسید: میشه بغلتون کنم؟"
-  },
-  {
-   "t": 1792352718.0,
-   "n": "ground stop at harry reid int l airport las vegas nevada a private jet overran the runway narrowly missing a nearby street",
-   "fa": "🇺🇸⚡️ — توقف پروازها در فرودگاه بین‌المللی هری رید در لاس وگاس، نوادا. یک فروند جت شخصی از باند خارج شد و به طور معجزه‌آسایی از برخورد با خیابان مجاور نجات یافت."
-  },
   {
    "t": 1792352859.0,
    "n": "ukrainian president zelensky told bloomberg that president trump is pressuring kyiv toward surrendering to russia saying recent u s actions appeared intended to force ukraine into concessions i believe steps have been taken to convince ukraine to capitulate zelensky said adding that he feared washington was seeking to end the war sooner at ukraine s expense zelensky also proposed halting ukrainian",
@@ -692,20 +683,20 @@
    "t": 1792395409.0,
    "n": "وزیر انرژی آمریکا جریان نفت از خلیج فارس به ۸۰ درصد سطح پیش از جنگ بازگشته است",
    "fa": "⭕️وزیر انرژی آمریکا: جریان نفت از خلیج فارس به ۸۰ درصد سطح پیش از جنگ بازگشته است."
+  },
+  {
+   "t": 1792395720.0,
+   "n": "oil prices fall as traders weigh russia sanctions waiver middle east risks oil prices fell monday pulling back after friday s gains as traders weighed a u s decision to waive newly imposed sanctions on russia against persistent middle east supply risks",
+   "fa": "🔴 کاهش بهای نفت در بازارهای جهانی تحت تأثیر معافیت تحریمی روسیه و ریسک‌های خاورمیانه به گزارش وال‌استریت ژورنال بهای نفت روز دوشنبه پس از رشد روز جمعه کاهش یافت، زیرا معامله‌گران تصمیم ایالات متحده مبنی بر معافیت تحریم‌های تازه اعمال‌شده بر روسیه را در برابر ریسک‌های مداوم عرضه در خاورمیانه ارزیابی کردند."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 32
+  "requests": 34
  },
- "flip": 958,
- "quote_n": 407,
+ "flip": 959,
+ "quote_n": 408,
  "signals": [
-  {
-   "t": 1792309274.4472814,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1792309573.4536257,
    "s": 4,
@@ -1515,6 +1506,11 @@
    "t": 1792395671.4481206,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792395968.7441478,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
