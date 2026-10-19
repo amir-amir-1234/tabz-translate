@@ -91,7 +91,8 @@
     "https://www.foxnews.com/world/canadian-pm-carney-4-service-members-killed-dozens-injured-military-base-fire",
     "https://www.foxnews.com/world/french-newspaper-rips-macron-riots-erupt-across-france-indelible-stain",
     "https://www.foxnews.com/world/priest-killed-falling-crucifix-livestreamed-mass-worshippers-rush-help",
-    "https://www.foxnews.com/world/saudi-arabia-edge-iconic-kingdom-centre-sends-workers-home-amid-houthi-attacks"
+    "https://www.foxnews.com/world/saudi-arabia-edge-iconic-kingdom-centre-sends-workers-home-amid-houthi-attacks",
+    "https://www.foxnews.com/world/4-canadian-soldiers-killed-dozens-injured-fast-moving-fire-erupts-military-base"
    ]
   },
   "WSJ": {
@@ -391,11 +392,6 @@
  },
  "recent": [
   {
-   "t": 1792349018.0,
-   "n": "alerts in abha city southwestern saudi arabia",
-   "fa": "🇾🇪❌🇸🇦 — اعلام هشدار در شهر أبها در جنوب غربی عربستان سعودی."
-  },
-  {
    "t": 1792349113.0,
    "n": "the alerts in abha city have been lifted",
    "fa": "🔄 به‌روزرسانی 🇸🇦⚡️ — وضعیت هشدار در شهر أبها لغو شد."
@@ -689,13 +685,18 @@
    "t": 1792375200.0,
    "n": "saudi arabia s military limitations are being exposed by houthi attacks the kingdom has advanced weaponry but the yemeni militant group has proved to be a resilient foe",
    "fa": "⭕️ آشکار شدن محدودیت‌های نظامی عربستان سعودی در پی حملات حوثی‌ها به گزارش وال‌استریت ژورنال، محدودیت‌های نظامی عربستان سعودی در اثر حملات حوثی‌ها در حال آشکار شدن است. این پادشاهی دارای تسلیحات پیشرفته است، اما این گروه شبه‌نظامی یمنی ثابت کرده است که یک دشمن سرسخت و مقاوم است."
+  },
+  {
+   "t": 1792346056.0,
+   "n": "4 canadian soldiers killed dozens injured after fast moving fire erupts at military base canadian officials said sunday that four service members were killed and dozens more injured after a fast moving fire swept through soldiers conducting live fire training at a military base in alberta the deadly fire erupted saturday at canadian forces base wainwright where a sudden shift in powerful winds sen",
+   "fa": "🔴 جان باختن ۴ نظامی کانادایی و مصدومیت ده‌ها نفر در آتش‌سوزی پایگاه نظامی آلبرتا به گزارش فاکس نیوز مقامات کانادایی روز یکشنبه اعلام کردند که بر اثر وقوع یک آتش‌سوزی سریع در جریان تمرینات تیراندازی واقعی در یک پایگاه نظامی در استان آلبرتا، چهار نظامی کشته و ده‌ها نفر دیگر مصدوم شدند. این آتش‌سوزی مرگبار روز شنبه در پایگاه نیروهای کانادایی وین‌رایت رخ داد و به گفته آسوشیتدپرس، تغییر ناگهانی بادهای "
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 8
+  "requests": 10
  },
- "flip": 948,
+ "flip": 949,
  "quote_n": 402,
  "signals": [
   {
