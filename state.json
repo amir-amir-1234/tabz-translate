@@ -1,16 +1,16 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108635
+   "last_id": 108636
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132165
+   "last_id": 132166
   },
   "TelNews_Magazine": {
-   "last_id": 101514
+   "last_id": 101515
   },
   "NE_WG": {
    "last_id": 115028
@@ -418,16 +418,6 @@
  },
  "recent": [
   {
-   "t": 1792424246.0,
-   "n": "israeli prime minister netanyahu on iran president trump understands despite amazing criticism and falsification that a nuclear iran with these mad ayatollahs who chant death to israel death to america that america is their ultimate target if they have nuclear weapons and the means to deliver them with intercontinental ballistic missiles then america is in peril every american city could be hit by",
-   "fa": "🇮🇱🇺🇸🇮🇷⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل درباره ایران: رئیس‌جمهور ترامپ با وجود انتقادات شگفت‌انگیز و تحریف‌ها، درک می‌کند که یک ایران هسته‌ای با این آیت‌الله‌های دیوانه که شعار «مرگ بر اسرائیل، مرگ بر آمریکا» سر می‌دهند، آمریکا هدف نهایی آن‌هاست. اگر آن‌ها سلاح هسته‌ای و ابزار پرتاب آن را با موشک‌های بالستیک قاره‌پیما داشته باشند، آنگاه آمریکا در خطر است. هر شهر آمریکایی می‌تواند توسط این د"
-  },
-  {
-   "t": 1792424342.0,
-   "n": "israeli prime minister netanyahu on iran trump and i have forged a partnership a personal bond that i think has historic consequences we ve joined forces against this malignant force that endangers all of us they say death to israel death to the united states by the way death to everything in between too",
-   "fa": "🇮🇱🇺🇸🇮🇷⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل درباره ایران: ترامپ و من مشارکتی ایجاد کرده‌ایم، پیوندی شخصی که فکر می‌کنم پیامدهای تاریخی دارد. ما نیروهای خود را علیه این نیروی بدخواه که همه ما را به خطر می‌اندازد، متحد کرده‌ایم. آن‌ها می‌گویند: «مرگ بر اسرائیل، مرگ بر ایالات متحده.» به هر حال، مرگ بر هر چیز در این میان نیز."
-  },
-  {
    "t": 1792424426.0,
    "n": "israeli prime minister netanyahu europe is an exhausted continent they have no will to fight they succumb to these islamist constituencies in there and the woke left an islamist bond i said this to trump you know you have one fighting ally in the world only one that s israel",
    "fa": "🇮🇱🇺🇸🇪🇺⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: اروپا قاره‌ای خسته است. آن‌ها هیچ اراده‌ای برای جنگ ندارند. آن‌ها تسلیم این حوزه‌های انتخابیه اسلامی در آنجا می‌شوند و پیوند چپ و اسلام‌گرایان بیدار. من این را به ترامپ گفتم: «می‌دانی، تو یک متحد جنگجو در دنیا داری، فقط یک‌دانه: آن هم اسرائیل است.»"
@@ -716,14 +706,24 @@
    "t": 1792438927.0,
    "n": "دونالد ترامپ درباره اوکراین ما در حال مذاکره با پوتین درباره اوکراین هستیم بنابراین قصد نداریم مذاکرات را درست در میانه راه متوقف کنیم",
    "fa": "🇺🇸 دونالد ترامپ درباره اوکراین: 💢ما در حال مذاکره با پوتین درباره اوکراین هستیم، بنابراین قصد نداریم مذاکرات را درست در میانه راه متوقف کنیم."
+  },
+  {
+   "t": 1792439499.0,
+   "n": "the federal bureau of alcohol tobacco firearms and explosives atf for the city of colombus in ohio reported a shooting incident in a mosque and is reportedly intervening",
+   "fa": "🇺🇸 — اداره کل الکل، تنباکو، سلاح‌های گرم و مواد منفجره (ATF) آمریکا در شهر کلمبوس، واقع در ایالت اوهایو، از وقوع تیراندازی در یک مسجد خبر داد و گزارش شده که در حال مداخله است."
+  },
+  {
+   "t": 1792439688.0,
+   "n": "ترامپ چین و روسیه می توانستند کمک های بیشتری به ایران بکنند کمک های آنها به ایران ناچیز بود",
+   "fa": "⭕️ترامپ: چین و روسیه می‌توانستند کمک‌های بیشتری به ایران بکنند، کمک‌های آنها به ایران ناچیز بود"
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 177
+  "requests": 178
  },
- "flip": 1082,
- "quote_n": 467,
+ "flip": 1084,
+ "quote_n": 468,
  "signals": [
   {
    "t": 1792353366.9248247,
@@ -1544,6 +1544,11 @@
    "t": 1792439178.411745,
    "s": 2,
    "p": 60
+  },
+  {
+   "t": 1792439768.5025806,
+   "s": 4,
+   "p": 50
   }
  ],
  "risk": {
