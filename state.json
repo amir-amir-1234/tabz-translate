@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108587
+   "last_id": 108595
   },
   "khabarfouri": {
    "last_id": 569949
@@ -407,11 +407,6 @@
  },
  "recent": [
   {
-   "t": 1792405717.0,
-   "n": "اووستاد خوش چشم برای مقابله با مادر بمب ها میتونیم gps رو مختل کنیم به هدف نخوره و بره بخوره جای دیگه یا اینکه با سامانه های دوش پرتاب رو هوا بزنیمش",
-   "fa": "🎥اووستاد خوش چشم: برای مقابله با مادر بمب‌ها میتونیم GPS رو مختل کنیم به هدف نخوره و بره بخوره جای دیگه ‼️یا اینکه با سامانه های دوش‌پرتاب رو هوا بزنیمش..."
-  },
-  {
    "t": 1792405861.0,
    "n": "علوم پزشکی تهران این احتمال وجود دارد که در اواخر آبان وارد پیک آنفلوآنزا شویم با زیرگونه های جدید اومیکرون مواجه شده ایم که قدرت واگیری بالایی دارند و می توانند بیماری های سیستم تنفسی فوقانی شدیدی را ایجاد کنند گروه های در معرض خطر نسبت به تزریق واکسن آنفلوآنزا حداکثر تا دو هفته اول آبان اقدام کنند",
    "fa": "💢علوم پزشکی تهران: این احتمال وجود دارد که در اواخر آبان‌ وارد پیک آنفلوآنزا شویم. با زیرگونه‌های جدید «اومیکرون»مواجه شده‌ایم که قدرت واگیری بالایی دارند و می‌توانند بیماری‌های سیستم تنفسی فوقانی شدیدی را ایجاد کنند. گروه‌های در معرض خطر نسبت به تزریق واکسن آنفلوآنزا حداکثر تا دو هفته اول آبان‌، اقدام کنند."
@@ -705,13 +700,18 @@
    "t": 1792421330.0,
    "n": "qatar is proposing a major investment program to rebuild lebanon s electricity sector including two gas fired power plants and a 20 year lng supply agreement according to a document obtained by reuters the plan includes two 825 megawatt power plants at deir ammar in northern lebanon and zahrani in the south alongside an lng agreement with qatarenergy gas would be delivered through a floating regas",
    "fa": "🇶🇦🇱🇧⚡️ — بر اساس سندی که به دست رویترز رسیده است، قطر یک برنامه سرمایه‌گذاری عمده برای بازسازی بخش برق لبنان، از جمله دو نیروگاه گازی و یک قرارداد تأمین ال‌ان‌جی ۲۰ ساله پیشنهاد می‌کند. این طرح شامل دو نیروگاه ۸۲۵ مگاواتی در دیر عمار در شمال لبنان و زهرانی در جنوب، در کنار یک توافق‌نامه ال‌ان‌جی با قطرانرژی است. گاز از طریق یک تأسیسات شناور گازسازی مجدد با قابلیت پردازش ۳.۵ میلیون متر مکعب در روز "
+  },
+  {
+   "t": 1792421520.0,
+   "n": "massive anti government protests in the albanian capital tirana have been ongoing for weeks now causing a large amount of destruction and injuries the initial protests started by the flamingo revolution social movement were due to the high cost of living and education alongside the lack of work opportunities in the country but quickly escalated into a daily urban war between the protesters and the",
+   "fa": "🇦🇱⚡️ — تظاهرات ضددولتی گسترده در تیرانا، پایتخت آلبانی، که از هفته‌ها پیش ادامه دارد، تخریب و تلفات زیادی به بار آورده است. اعتراضات اولیه که توسط جنبش اجتماعی «انقلاب فلامینگو» آغاز شد، به دلیل گرانی هزینه‌های زندگی و آموزش و همچنین کمبود فرصت‌های شغلی در کشور بود، اما به سرعت به یک جنگ شهری روزانه بین معترضان و پلیس آلبانی تبدیل شد."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 119
+  "requests": 120
  },
- "flip": 1028,
+ "flip": 1029,
  "quote_n": 443,
  "signals": [
   {
