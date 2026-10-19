@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132096
+   "last_id": 132097
   },
   "TelNews_Magazine": {
    "last_id": 101475
   },
   "NE_WG": {
-   "last_id": 114960
+   "last_id": 114961
   }
  },
  "fails": {},
@@ -400,11 +400,6 @@
  },
  "recent": [
   {
-   "t": 1792365911.0,
-   "n": "russian president vladimir putin has proposed a trilateral summit with president trump and chinese president xi jinping next month to discuss ending the war in ukraine according to wsj putin raised the proposal during an october 9 phone call with trump which also resulted in an agreement for the u s to purchase russian diesel and facilitate its sale internationally moscow has suggested holding the",
-   "fa": "🇷🇺🇺🇸🇨🇳⚡️ — به گزارش وال‌استریت ژورنال، ولادیمیر پوتین، رئیس‌جمهور روسیه، پیشنهاد برگزاری یک نشست سه‌جانبه با رئیس‌جمهور ترامپ و شی جین‌پینگ، رئیس‌جمهور چین، در ماه آینده برای گفتگو درباره پایان جنگ در اوکراین را مطرح کرده است. پوتین این پیشنهاد را طی تماس تلفنی ۹ اکتبر با ترامپ مطرح کرد که همچنین به توافقی برای خرید دیزل روسیه توسط ایالات متحده و تسهیل فروش بین‌المللی آن منجر شد. مسکو پیشنهاد کرده"
-  },
-  {
    "t": 1792370715.0,
    "n": "saudi arabia on edge iconic kingdom centre sends workers home amid houthi attacks one of saudi arabia s most iconic skyscrapers ordered office workers to stay home sunday as escalating attacks by iran backed houthi rebels rattled the capital of riyadh amid fears of a widening middle east conflict the move came after the saudi led coalition said it intercepted two drones in the riyadh area a third ",
    "fa": "⭕️ دورکاری کارکنان برج المملکه ریاض در پی حملات پهپادی و موشکی حوثی‌ها به گزارش فاکس نیوز یکی از شاخص‌ترین آسمان‌خراش‌های عربستان سعودی روز یکشنبه به کارکنان اداری خود دستور داد در پی تشدید حملات شورشیان حوثی تحت حمایت ایران که پایتخت ریاض را در میان نگرانی از گسترش درگیری‌ها در خاورمیانه به لرزه درآورده است، در خانه بمانند. این اقدام پس از آن صورت گرفت که ائتلاف تحت رهبری عربستان اعلام کرد دو پهپ"
@@ -698,20 +693,20 @@
    "t": 1792405861.0,
    "n": "علوم پزشکی تهران این احتمال وجود دارد که در اواخر آبان وارد پیک آنفلوآنزا شویم با زیرگونه های جدید اومیکرون مواجه شده ایم که قدرت واگیری بالایی دارند و می توانند بیماری های سیستم تنفسی فوقانی شدیدی را ایجاد کنند گروه های در معرض خطر نسبت به تزریق واکسن آنفلوآنزا حداکثر تا دو هفته اول آبان اقدام کنند",
    "fa": "💢علوم پزشکی تهران: این احتمال وجود دارد که در اواخر آبان‌ وارد پیک آنفلوآنزا شویم. با زیرگونه‌های جدید «اومیکرون»مواجه شده‌ایم که قدرت واگیری بالایی دارند و می‌توانند بیماری‌های سیستم تنفسی فوقانی شدیدی را ایجاد کنند. گروه‌های در معرض خطر نسبت به تزریق واکسن آنفلوآنزا حداکثر تا دو هفته اول آبان‌، اقدام کنند."
+  },
+  {
+   "t": 1792406641.0,
+   "n": "حرکت ناو هواپیمابر آمریکایی تئودور روزولت از ژاپن به سمت خاورمیانه",
+   "fa": "🇺🇸🇮🇷🇯🇵🚨حرکت ناو هواپیمابر آمریکایی «تئودور روزولت» از ژاپن به سمت خاورمیانه"
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 73
+  "requests": 74
  },
  "flip": 990,
  "quote_n": 416,
  "signals": [
-  {
-   "t": 1792320085.4528928,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1792320378.4119337,
    "s": 4,
@@ -1571,6 +1566,11 @@
    "t": 1792405884.1593804,
    "s": 4,
    "p": 50
+  },
+  {
+   "t": 1792406778.837331,
+   "s": 4,
+   "p": 85
   }
  ],
  "risk": {
