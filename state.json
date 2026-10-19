@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108555
+   "last_id": 108556
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,7 +10,7 @@
    "last_id": 132097
   },
   "TelNews_Magazine": {
-   "last_id": 101475
+   "last_id": 101476
   },
   "NE_WG": {
    "last_id": 114963
@@ -401,16 +401,6 @@
  },
  "recent": [
   {
-   "t": 1792370715.0,
-   "n": "saudi arabia on edge iconic kingdom centre sends workers home amid houthi attacks one of saudi arabia s most iconic skyscrapers ordered office workers to stay home sunday as escalating attacks by iran backed houthi rebels rattled the capital of riyadh amid fears of a widening middle east conflict the move came after the saudi led coalition said it intercepted two drones in the riyadh area a third ",
-   "fa": "⭕️ دورکاری کارکنان برج المملکه ریاض در پی حملات پهپادی و موشکی حوثی‌ها به گزارش فاکس نیوز یکی از شاخص‌ترین آسمان‌خراش‌های عربستان سعودی روز یکشنبه به کارکنان اداری خود دستور داد در پی تشدید حملات شورشیان حوثی تحت حمایت ایران که پایتخت ریاض را در میان نگرانی از گسترش درگیری‌ها در خاورمیانه به لرزه درآورده است، در خانه بمانند. این اقدام پس از آن صورت گرفت که ائتلاف تحت رهبری عربستان اعلام کرد دو پهپ"
-  },
-  {
-   "t": 1792372244.0,
-   "n": "u s embassy kuwait u s embassy manama and u s embassy amman have issued security alerts warning americans in kuwait bahrain and jordan of a possible escalation of the saudi ansarallah war and that iran and iranian aligned groups may target u s interests",
-   "fa": "🇺🇸🇮🇷⚡️ — سفارت‌های ایالات متحده در کویت، منامه و امان با صدور هشدارهای امنیتی به آمریکایی‌ها در کویت، بحرین و اردن درباره احتمال تشدید جنگ عربستان و انصارالله و اینکه ایران و گروه‌های هم‌پیمان آن ممکن است منافع ایالات متحده را هدف قرار دهند، هشدار دادند."
-  },
-  {
    "t": 1792374038.0,
    "n": "alerts in jazan province southwestern ksa",
    "fa": "🇾🇪❌🇸🇦 — اعلام وضعیت هشدار در استان جازان در جنوب غربی عربستان سعودی."
@@ -699,25 +689,25 @@
    "t": 1792406641.0,
    "n": "حرکت ناو هواپیمابر آمریکایی تئودور روزولت از ژاپن به سمت خاورمیانه",
    "fa": "🇺🇸🇮🇷🇯🇵🚨حرکت ناو هواپیمابر آمریکایی «تئودور روزولت» از ژاپن به سمت خاورمیانه"
+  },
+  {
+   "t": 1792407516.0,
+   "n": "زلنسکی اگر آمریکا جانب روسیه را بگیرد اوکراین دوام نخواهد آورد",
+   "fa": "⭕️زلنسکی: اگر آمریکا جانب روسیه را بگیرد اوکراین دوام نخواهد آورد"
+  },
+  {
+   "t": 1792407524.0,
+   "n": "the saudi backed plc says the houthis ansarallah fired three ballistic missiles at the al alam camp in yemen s shabwa governorate the military spokesperson did not mention anything about the mass casualties",
+   "fa": "🔄 به‌روزرسانی 🇾🇪❌🇾🇪 — شورای رهبری ریاست‌جمهوری یمن (مورد حمایت عربستان) اعلام کرد که حوثی‌ها (انصارالله) سه فروند موشک بالستیک به اردوگاه «العلم» در استان شبوه یمن شلیک کرده‌اند. سخنگوی نظامی این شورا به هیچ‌گونه تلفات گسترده‌ای اشاره نکرد."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 75
+  "requests": 77
  },
- "flip": 990,
- "quote_n": 416,
+ "flip": 991,
+ "quote_n": 418,
  "signals": [
-  {
-   "t": 1792320976.3691046,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1792320984.7994227,
-   "s": 4,
-   "p": 65
-  },
   {
    "t": 1792322172.3836474,
    "s": 4,
@@ -1547,6 +1537,11 @@
    "t": 1792406778.837331,
    "s": 4,
    "p": 85
+  },
+  {
+   "t": 1792407731.3017101,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
