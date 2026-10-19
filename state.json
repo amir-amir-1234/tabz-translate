@@ -1,16 +1,16 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108576
+   "last_id": 108578
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132116
+   "last_id": 132118
   },
   "TelNews_Magazine": {
-   "last_id": 101485
+   "last_id": 101487
   },
   "NE_WG": {
    "last_id": 114983
@@ -298,7 +298,8 @@
     "WP-WSJ-0003986749",
     "WP-WSJ-0003987112",
     "WP-WSJ-0003987128",
-    "WP-WSJ-0003986877"
+    "WP-WSJ-0003986877",
+    "WP-WSJ-0003987299"
    ]
   },
   "NYT": {
@@ -402,21 +403,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792402304.0,
-   "n": "secretary of state marco rubio months ago we have seen strikes on energy vessels in the black sea and there s been complaints a lot because we have american companies calling us and saying hey that was our oil on that ship that was hit by ukraine now i don t believe ukraine intentionally targeted them but those ships got hit and we already have a world that is facing an energy crisis because of wh",
-   "fa": "🇺🇸🇺🇦🇷🇺⚡️ — مارکو روبیو، وزیر امور خارجه آمریکا: ماه ها پیش، شاهد حملات به کشتی های انرژی در دریای سیاه بوده ایم. و شکایت های زیادی وجود داشته است، زیرا شرکت های آمریکایی با ما تماس می گیرند و می گویند: «هی، این نفت ما بود روی آن کشتی که توسط اوکراین مورد اصابت قرار گرفت.» حالا، من باور ندارم که اوکراین عمداً آنها را هدف قرار داده باشد، اما آن کشتی ها مورد اصابت قرار گرفتند. و ما از قبل با جهانی رو"
-  },
-  {
-   "t": 1792402610.0,
-   "n": "kim yo jong sister of north korea s supreme leader warned that the situation along the border with south korea is highly unstable saying pyongyang is considering resuming loudspeaker broadcasts directed toward the south kim said north korea was reviewing the possibility of restarting the broadcasts and considering additional measures it deemed necessary and appropriate",
-   "fa": "🇰🇵🇰🇷⚡️ — کیم یو جونگ، خواهر رهبر کره شمالی، هشدار داد که وضعیت در امتداد مرز با کره جنوبی «بسیار ناپایدار» است و گفت پیونگ‌یانگ در حال بررسی از سرگیری پخش برنامه‌های بلندگو به سمت جنوب است. کیم گفت کره شمالی در حال بررسی احتمال از سرگیری پخش‌ها و در نظر گرفتن اقدامات اضافی است که آن‌ها را «ضروری و مناسب» می‌داند."
-  },
-  {
-   "t": 1792402669.0,
-   "n": "بنیامین نتانیاهو نخست وزیر اسرائیل آمریکا هیچ متحدی بزرگ تر از اسرائیل ندارد در واقع اگر به سراسر جهان نگاه کنید هیچ متحد دیگری ندارید که در میدان نبرد در کنار شما بجنگد این یک واقعیت است",
-   "fa": "🇮🇱🇺🇸 بنیامین نتانیاهو، نخست‌وزیر اسرائیل: 🔴 آمریکا هیچ متحدی بزرگ‌تر از اسرائیل ندارد. 🔴 در واقع، اگر به سراسر جهان نگاه کنید، هیچ متحد دیگری ندارید که در میدان نبرد در کنار شما بجنگد. این یک واقعیت است."
-  },
   {
    "t": 1792402703.0,
    "n": "آمیت سگال تحلیلگر ارشد شبکه ۱۲ اسرائیل و چهره نزدیک به محافل امنیتی این کشور اسرائیل قصد دارد حملات خود را با موج گسترده ای از ترورهای هدفمند آغاز کند",
@@ -701,20 +687,30 @@
    "t": 1792417831.0,
    "n": "the houthis ansarallah announces striking 6 concentrations of saudi enemy forces likely referring to plc forces in al suqya and ras al ara bab el mandeb front with 6 ballistic missiles claiming dozens of casualties and destruction of several military vehicles",
    "fa": "🇾🇪❌🇾🇪🇸🇦 — حوثی‌ها (انصارالله) اعلام کردند که ۶ تجمع «ن نیروهای دشمن سعودی» [احتمالاً اشاره به نیروهای شورای رهبری ریاست‌جمهوری] در جبهه باب‌المندب در راس‌العرا و السقیا را با ۶ فروند موشک بالستیک هدف قرار داده و مدعی تلفات دهشتناک و انحراف چندین خودروی نظامی شدند."
+  },
+  {
+   "t": 1792417980.0,
+   "n": "kkr sent formal objection by eu over information provided in netco deal the european commission said it provisionally found that the group gave what it said was incorrect or misleading information related to long term wholesale access agreements",
+   "fa": "🔴 ارسال اعتراض رسمی اتحادیه اروپا به شرکت کی‌کی‌آر درباره اطلاعات معامله نت‌کو به گزارش وال‌استریت ژورنال کمیسیون اروپا اعلام کرد که به طور موقت به این نتیجه رسیده است که این گروه اطلاعاتی را که به گفته کمیسیون نادرست یا گمراه‌کننده بوده، در رابطه با توافق‌نامه‌های دسترسی عمده‌فروشی بلندمدت ارائه داده است."
+  },
+  {
+   "t": 1792418374.0,
+   "n": "خبرگزاری فرانسه کنترل برخی شهرها در پی اعتراضات از دست رفته است برخلاف شایعات هنوز هیچ کشته ای در اعتراضات اخیر گزارش نشده",
+   "fa": "🔄 به‌روزرسانی 🇫🇷خبرگزاری فرانسه: کنترل برخی شهرها در پی اعتراضات از دست رفته است/ برخلاف شایعات، هنوز هیچ کشته‌ای در اعتراضات اخیر گزارش نشده"
+  },
+  {
+   "t": 1792418392.0,
+   "n": "alerts in riyadh capital of ksa",
+   "fa": "🇾🇪❌🇸🇦 — اعلام هشدار در ریاض، پایتخت عربستان سعودی."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 106
+  "requests": 108
  },
- "flip": 1014,
- "quote_n": 435,
+ "flip": 1016,
+ "quote_n": 437,
  "signals": [
-  {
-   "t": 1792331776.2508848,
-   "s": 5,
-   "p": 90
-  },
   {
    "t": 1792335385.8840117,
    "s": 5,
@@ -1589,18 +1585,23 @@
    "t": 1792418111.0466237,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1792418523.3723948,
+   "s": 4,
+   "p": 70
   }
  ],
  "risk": {
   "base": 60,
-  "ts": 1792413084.4211385,
+  "ts": 1792418526.3740492,
   "attack": false,
-  "n": 172,
+  "n": 176,
   "shares": {
    "1": 0,
-   "2": 8,
-   "3": 19,
-   "4": 62,
+   "2": 7,
+   "3": 23,
+   "4": 61,
    "5": 10
   }
  },
