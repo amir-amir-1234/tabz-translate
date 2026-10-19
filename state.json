@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108573
+   "last_id": 108575
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132112
+   "last_id": 132115
   },
   "TelNews_Magazine": {
-   "last_id": 101484
+   "last_id": 101485
   },
   "NE_WG": {
-   "last_id": 114979
+   "last_id": 114980
   }
  },
  "fails": {},
@@ -403,26 +403,6 @@
  },
  "recent": [
   {
-   "t": 1792401661.0,
-   "n": "سفارت ایران از شهروندانش خواست که فورا خاک فرانسه رو ترک کنن",
-   "fa": "⭕️ سفارت ایران از شهروندانش خواست که فورا خاک فرانسه رو ترک کنن"
-  },
-  {
-   "t": 1792401670.0,
-   "n": "بنیامین نتانیاهو نخست وزیر اسرائیل ما در برابر ایران و گروه های وابسته به آن که از آن ها با عنوان شاخه های هیولایی یاد می کند از خود دفاع می کنیم اما در این مسیر از آمریکا و تمدن نیز دفاع می کنیم زیرا به گفته نتانیاهو آن ها بربرهایی هستند که می خواهند به سراغ شما هم بیایند",
-   "fa": "🇮🇱🇮🇷بنیامین نتانیاهو، نخست‌وزیر اسرائیل: 🔴 ما در برابر ایران و گروه‌های وابسته به آن که از آن‌ها با عنوان «شاخه‌های هیولایی» یاد می‌کند، از خود دفاع می‌کنیم؛ اما در این مسیر، از آمریکا و تمدن نیز دفاع می‌کنیم. 🔴 زیرا به گفته نتانیاهو، آن‌ها «بربرهایی هستند که می‌خواهند به سراغ شما هم بیایند.»"
-  },
-  {
-   "t": 1792401880.0,
-   "n": "reporter zelensky said in an interview the u s had paused some intelligence sharing earlier this week rubio i don t know where he s getting these things from or why he s saying these things to the press there s been no pause zelensky should be focused on bringing an end to this war",
-   "fa": "🇺🇸🇺🇦⚡️ — خبرنگار: زلنسکی در مصاحبه‌ای گفت ایالات متحده اوایل همین هفته اشتراک‌گذاری برخی اطلاعات ارتش را متوقف کرده است. روبیو: نمی‌دانم او این حرف‌ها را از کجا می‌آورد یا چرا این مسائل را با مطبوعات مطرح می‌کند. هیچ توقفی صورت نگرفته است. زلنسکی باید بر پایان دادن به این جنگ تمرکز کند."
-  },
-  {
-   "t": 1792402196.0,
-   "n": "breitbart is it time to have an election in ukraine marco rubio look the election issue comes up and i m not saying it s irrelevant but that s not at the core of why there s still a war going on",
-   "fa": "🇺🇸🇺🇦⚡️ — برایتبارت: آیا زمان برگزاری انتخابات در اوکراین فرا رسیده است؟ مارکو روبیو: ببینید، موضوع انتخابات مطرح می‌شود و من نمی‌گویم که بی‌اهمیت است، اما این مسئله هسته اصلی چرایی ادامه جنگ نیست."
-  },
-  {
    "t": 1792402200.0,
    "n": "china s export boom masks deep economic problems at home even as china makes strides in areas such as ai much of its domestic economy is dragged down by gloomy consumer sentiment and a real estate slump",
    "fa": "⭕️ رونق صادرات چین مشکلات عمیق اقتصادی در داخل این کشور را پنهان کرده است به گزارش وال‌استریت ژورنال با وجود اینکه چین در حوزه‌هایی مانند هوش مصنوعی پیشرفت‌هایی داشته است، بخش عمده‌ای از اقتصاد داخلی این کشور تحت تأثیر فضای تیره مصرف‌کنندگان و رکود بازار مسکن به پایین کشیده می‌شود."
@@ -701,25 +681,35 @@
    "t": 1792416698.0,
    "n": "چین ما آماده تقویت همکاری با ایران هستیم",
    "fa": "⭕️چین: ما آماده تقویت همکاری با ایران هستیم"
+  },
+  {
+   "t": 1792417322.0,
+   "n": "تصویری از ساختمان سوخته شهرداری لیموژ که توسط معترضین در آتش سوخت این بنای تاریخی از دو جنگ جهانی در امان ماند اما از اعتراضات فرانسه نه",
+   "fa": "⭕️ تصویری از ساختمان سوخته شهرداری لیموژ که توسط معترضین در آتش سوخت + این بنای تاریخی از دو جنگ جهانی در امان ماند اما از اعتراضات فرانسه نه"
+  },
+  {
+   "t": 1792417324.0,
+   "n": "uzbekistan and the u s signed 54 agreements worth approximately 12 billion covering critical minerals energy transportation finance and technology during secretary of state marco rubio s visit to samarkand uzbekistan also became the 77th country to join nasa s artemis accords on space exploration",
+   "fa": "🇺🇸🇺🇿⚡️ — ازبکستان و ایالات متحده طی سفر مارکو روبیو، وزیر امور خارجه، به سمرقند، ۵۴ توافق‌نامه به ارزش حدود ۱۲ میلیارد دلار در زمینه مواد معدنی حیاتی، انرژی، حمل‌ونقل، مالی و فناوری امضا کردند. ازبکستان همچنین به عنوان هفتادوهفتمین کشور به توافق‌نامه آرتمیس ناسا برای اکتشافات فضایی پیوست."
+  },
+  {
+   "t": 1792417331.0,
+   "n": "وزیر خارجه فرانسه ما شاید معترضان را با گاز اشک آور متفرق کنیم اما هیچوقت آنها را نمیکشیم و یا هیچوقت اینترنت را قطع نمیکنیم",
+   "fa": "🇫🇷🇮🇷وزیر خارجه فرانسه: ما شاید معترضان را با گاز اشک آور متفرق کنیم اما هیچوقت آنها را نمیکشیم و یا هیچوقت اینترنت را قطع نمیکنیم💢"
+  },
+  {
+   "t": 1792417442.0,
+   "n": "the houthis ansarallah say their forces struck saudi troop concentrations at the al alam camp in yemen s shabwa governorate killing and wounding dozens of personnel including officers the group warned fighters against joining saudi backed forces accusing riyadh of using financial incentives to recruit personnel and treating them as expendable rather than risking its own soldiers",
+   "fa": "🇾🇪❌🇾🇪🇸🇦 — حوثی‌ها (انصارالله) اعلام کردند نیروهایشان تجمع نظامیان سعودی را در اردوگاه «العلم» در استان شبوه یمن هدف قرار داده‌اند که بر اثر آن ده‌ها نفر از جمله چند افسر کشته و زخمی شدند. این گروه به جنگجویان درباره پیوستن به نیروهای تحت حمایت عربستان هشدار داد و ریاض را متهم کرد که از انگیزه‌های مالی برای جذب نیرو استفاده می‌کند و با آن‌ها به گونه‌ای رفتار می‌کند که انگار مصرف‌شدنی هستند، به جای "
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 103
+  "requests": 104
  },
- "flip": 1011,
- "quote_n": 433,
+ "flip": 1014,
+ "quote_n": 434,
  "signals": [
-  {
-   "t": 1792330874.7698596,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1792330881.7359433,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1792331168.9538627,
    "s": 3,
@@ -1589,6 +1579,16 @@
    "t": 1792416971.4288342,
    "s": 3,
    "p": 50
+  },
+  {
+   "t": 1792417583.3380687,
+   "s": 4,
+   "p": 60
+  },
+  {
+   "t": 1792417586.7435744,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
