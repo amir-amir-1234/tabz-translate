@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108625
+   "last_id": 108627
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132156
+   "last_id": 132157
   },
   "TelNews_Magazine": {
    "last_id": 101510
   },
   "NE_WG": {
-   "last_id": 115019
+   "last_id": 115021
   }
  },
  "fails": {},
@@ -416,16 +416,6 @@
  },
  "recent": [
   {
-   "t": 1792420907.0,
-   "n": "ukrainian president zelensky on starshield unfortunately we are recording cases across different sections of the front where the equipment stops functioning at speeds of 130 161 kilometers per hour this is slowing down our frontline logistics and limiting the use of various types of drones primarily mid strike drones and interceptors designed to counter jet powered shaheds today this issue must on",
-   "fa": "🇺🇦🇺🇸⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین درباره استارشیلد: متأسفانه، ما در بخش‌های مختلف خط مقدم مواردی را ثبت می‌کنیم که تجهیزات در سرعت‌های ۱۳۰ تا ۱۶۱ کیلومتر بر ساعت از کار می‌افتند. این امر لجستیک خط مقدم ما را کند کرده و استفاده از انواع پهپادها، به‌ویژه پهپادهای ضربتی متوسط و رهگیرها را که برای مقابله با پهپادهای جت‌پیمای شاهد طراحی شده‌اند، محدود می‌کند. امروز این مسئله باید بار دیگر با"
-  },
-  {
-   "t": 1792421224.0,
-   "n": "the trump administration is set to extend deportation protections for approximately 100 000 ukrainians for another six months according to wapo ukraine s embassy in washington and a trump administration official said that the protections scheduled to expire monday would remain in place through april 2027",
-   "fa": "🇺🇸🇺🇦⚡️ — به گزارش واشینگتن پست، دولت ترامپ قصد دارد حمایت‌های مربوط به تعلیق اخراج (مهاجران) را برای حدود ۱۰۰ هزار اوکراینی برای شش ماه دیگر تمدید کند. سفارت اوکراین در واشنگتن و یک مقام دولت ترامپ اعلام کردند که این حمایت‌ها که قرار بود روز دوشنبه منقضی شود، تا آوریل ۲۰۲۷ به قوت خود باقی خواهد ماند."
-  },
-  {
    "t": 1792421282.0,
    "n": "پرتاب کوکتل مولوتوف به سمت پلیس توسط مردم آلبانی",
    "fa": "⭕️پرتاب کوکتل مولوتوف به سمت پلیس توسط مردم آلبانی"
@@ -714,13 +704,23 @@
    "t": 1792434780.0,
    "n": "young protesters are putting india s modi on the defensive narendra modi s government has a reputation for being heavy handed toward dissent but its tactics in recent days have been met with a mix of wit and defiance by young protesters",
    "fa": "⭕️ واکنش طنزآمیز و متمردانه جوانان معترض به سرکوب‌گری دولت نارندرا مودی در هند به گزارش وال‌استریت ژورنال دولت نارندرا مودی به داشتن رویکردی سخت‌گیرانه در قبال مخالفت‌ها شهرت دارد، اما تاکتیک‌های آن در روزهای اخیر با واکنشی آمیخته به شوخ‌طبعی و سرپیچی از سوی معترضان جوان روبه‌رو شده است."
+  },
+  {
+   "t": 1792435448.0,
+   "n": "clashes erupted between iranian security forces and baluch militants of the jaysh al adle pff organization in the city of khash in the sistan and baluchistan region of iran",
+   "fa": "🇮🇷❌🇮🇷 — درگیری‌هایی بین نیروهای امنیتی ایران و شبه‌نظامیان بلوچ سازمان جیش‌العدل در شهر خاش واقع در استان سیستان و بلوچستان ایران رخ داد."
+  },
+  {
+   "t": 1792435461.0,
+   "n": "نتایج نظرسنجی انتخاباتی شبکه ۱۳ تلویزیون اسرائیل بعد از حمایت ترامپ از نتانیاهو حزب یاشار ۲۰ کرسی کنست را به دست می آورد و حزب لیکود به رهبری نتانیاهو ۱۸ کرسی نتایج یک نظرسنجی انتخاباتی شبکه ۱۳ تلویزیون اسرائیل بعد از حمایت ترامپ از نتانیاهو نشان می دهد که حزب یاشار با ۲۰ کرسی در صدر است و پس از آن حزب لیکود با ۱۸ کرسی در رتبه دوم قرار دارد",
+   "fa": "🇮🇱نتایج نظرسنجی انتخاباتی شبکه ۱۳ تلویزیون اسرائیل بعد از حمایت ترامپ از نتانیاهو: حزب یاشار ۲۰ کرسی کنست را به دست می‌آورد و حزب لیکود به رهبری نتانیاهو ۱۸ کرسی 💢نتایج یک نظرسنجی انتخاباتی شبکه ۱۳ تلویزیون اسرائیل بعد از حمایت ترامپ از نتانیاهو نشان می دهد که حزب یاشار با ۲۰ کرسی در صدر است و پس از آن حزب لیکود با ۱۸ کرسی در رتبه دوم قرار دارد."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 165
+  "requests": 166
  },
- "flip": 1070,
+ "flip": 1072,
  "quote_n": 460,
  "signals": [
   {
@@ -1552,6 +1552,11 @@
    "t": 1792434694.7934077,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792435579.9180768,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
