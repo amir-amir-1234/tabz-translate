@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108525
+   "last_id": 108526
   },
   "khabarfouri": {
    "last_id": 569949
@@ -390,11 +390,6 @@
  },
  "recent": [
   {
-   "t": 1792347586.0,
-   "n": "the two killed saudi pilots of the downed ah 6i helicopter were identified as ali ibrahim ali al talha and abdulaziz eid hersan al masradi",
-   "fa": "🇾🇪❌🇸🇦 — دو خلبان کشته‌شده سعودی بالگرد سرنگون‌شده AH-6i به نام‌های علی ابراهیم علی الطلحه و عبدالعزیز عید هرسان المسردی شناسایی شدند."
-  },
-  {
    "t": 1792347711.0,
    "n": "french president emmanuel macron we should never mix up peaceful protesters with looters and rioters because there are people who rightfully feel that fuel prices are going too high it s because of what has happened in the persian gulf a war that france was not part of",
    "fa": "🇫🇷🇮🇷⚡️ — رئیس‌جمهور فرانسه، امانوئل مکرون: ما هرگز نباید معترضان صلح‌جو را با غارتگران و اغتشاشگران اشتباه بگیریم، زیرا افرادی هستند که به‌حق احساس می‌کنند قیمت سوخت بیش از حد بالا می‌رود. این به دلیل اتفاقی است که در خلیج فارس رخ داده است، جنگی که فرانسه بخشی از آن نبود."
@@ -688,14 +683,19 @@
    "t": 1792372244.0,
    "n": "u s embassy kuwait u s embassy manama and u s embassy amman have issued security alerts warning americans in kuwait bahrain and jordan of a possible escalation of the saudi ansarallah war and that iran and iranian aligned groups may target u s interests",
    "fa": "🇺🇸🇮🇷⚡️ — سفارت‌های ایالات متحده در کویت، منامه و امان با صدور هشدارهای امنیتی به آمریکایی‌ها در کویت، بحرین و اردن درباره احتمال تشدید جنگ عربستان و انصارالله و اینکه ایران و گروه‌های هم‌پیمان آن ممکن است منافع ایالات متحده را هدف قرار دهند، هشدار دادند."
+  },
+  {
+   "t": 1792374038.0,
+   "n": "alerts in jazan province southwestern ksa",
+   "fa": "🇾🇪❌🇸🇦 — اعلام وضعیت هشدار در استان جازان در جنوب غربی عربستان سعودی."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 4
+  "requests": 5
  },
  "flip": 946,
- "quote_n": 399,
+ "quote_n": 400,
  "signals": [
   {
    "t": 1792293379.85735,
@@ -1511,6 +1511,11 @@
    "t": 1792372576.758421,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1792374369.4367702,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
