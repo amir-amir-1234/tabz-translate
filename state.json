@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108526
+   "last_id": 108527
   },
   "khabarfouri": {
    "last_id": 569949
@@ -390,11 +390,6 @@
  },
  "recent": [
   {
-   "t": 1792347711.0,
-   "n": "french president emmanuel macron we should never mix up peaceful protesters with looters and rioters because there are people who rightfully feel that fuel prices are going too high it s because of what has happened in the persian gulf a war that france was not part of",
-   "fa": "🇫🇷🇮🇷⚡️ — رئیس‌جمهور فرانسه، امانوئل مکرون: ما هرگز نباید معترضان صلح‌جو را با غارتگران و اغتشاشگران اشتباه بگیریم، زیرا افرادی هستند که به‌حق احساس می‌کنند قیمت سوخت بیش از حد بالا می‌رود. این به دلیل اتفاقی است که در خلیج فارس رخ داده است، جنگی که فرانسه بخشی از آن نبود."
-  },
-  {
    "t": 1792347762.0,
    "n": "آشوب در آرژانتین معترضان پرچم آمریکا را لگدمال کردند",
    "fa": "🇦🇷🇺🇸آشوب در آرژانتین؛ معترضان پرچم آمریکا را لگدمال کردند‼️"
@@ -688,14 +683,19 @@
    "t": 1792374038.0,
    "n": "alerts in jazan province southwestern ksa",
    "fa": "🇾🇪❌🇸🇦 — اعلام وضعیت هشدار در استان جازان در جنوب غربی عربستان سعودی."
+  },
+  {
+   "t": 1792374493.0,
+   "n": "alerts in jazan province southwestern ksa have been lifted active for 7 minutes",
+   "fa": "🔄 به‌روزرسانی 🇸🇦⚡️ — وضعیت‌های هشدار در استان جازان در جنوب غربی عربستان سعودی لغو شد. این وضعیت به مدت ۷ دقیقه فعال بود."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 5
+  "requests": 6
  },
- "flip": 946,
- "quote_n": 400,
+ "flip": 947,
+ "quote_n": 401,
  "signals": [
   {
    "t": 1792293379.85735,
@@ -1516,6 +1516,11 @@
    "t": 1792374369.4367702,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792374718.0885284,
+   "s": 4,
+   "p": 30
   }
  ],
  "risk": {
