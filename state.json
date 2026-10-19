@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132087
+   "last_id": 132088
   },
   "TelNews_Magazine": {
    "last_id": 101469
   },
   "NE_WG": {
-   "last_id": 114946
+   "last_id": 114947
   }
  },
  "fails": {},
@@ -397,21 +397,6 @@
  },
  "recent": [
   {
-   "t": 1792356664.0,
-   "n": "iran s irgc navy says an oil tanker struck a naval mine south of the strait of hormuz triggering an explosion and fire in its engine room the irgc says the vessel was attempting to leave the strait through an unauthorized southern route after switching off its positioning and navigation systems at the start of its journey violating iranian maritime regulations",
-   "fa": "🇮🇷⚡️ — نیروی دریایی سپاه پاسداران ایران اعلام کرد که یک نفتکش در جنوب تنگه هرمز با یک مین دریایی برخورد کرده که باعث انفجار و آتش‌سوزی در موتورخانه آن شده است. سپاه پاسداران اعلام کرد که این کشتی تلاش می‌کرده با خاموش کردن سیستم‌های موقعیت‌یابی و ناوبری خود در ابتدای سفر، از طریق یک مسیر غیرمجاز جنوبی تنگه را ترک کند که این اقدام نقض مقررات دریایی ایران محسوب می‌شود."
-  },
-  {
-   "t": 1792356699.0,
-   "n": "iranian foreign minister abbas araghchi last time you wanted to finish the job iran emerged even stronger want to try your luck again be our guest but be careful we have unfinished jobs too netanyahu is driving america into another war to stay out of jail whatever the consequences for israel let alone potus",
-   "fa": "🇮🇷🇮🇱🇺🇸⚡️ — وزیر امور خارجه ایران، عباس عراقچی: دفعه پیش که می‌خواستید «کار را تمام کنید»، ایران حتی قوی‌تر ظاهر شد. می‌خواهید دوباره شانستان را امتحان کنید؟ بفرمایید. اما مراقب باشید؛ ما هم کارهای ناتمامی داریم. Netanyahu نتانیاهو آمریکا را به جنگ دیگری می‌کشاند تا از زندان دور بماند، هر پیامدی که برای اسرائیل داشته باشد — چه رسد به رئیس‌جمهور ایالات متحده."
-  },
-  {
-   "t": 1792356843.0,
-   "n": "french newspaper rips macron after riots erupt across france indelible stain a prominent french newspaper delivered a blistering critique of the country s leadership after nationwide protests descended into riots looting and arson the article written by vincent trémolet de villers for the conservative newspaper le figaro and published sunday afternoon local time blamed years of political failures ",
-   "fa": "🔴 انتقاد شدید روزنامه فرانسوی از مکرون و سیاست‌های دولت پس از آغاز شورش‌ها به گزارش فاکس نیوز یک روزنامه برجسته فرانسوی پس از تبدیل شدن اعتراضات سراسری به شورش، غارت و آتش‌سوزی، انتقاد تندی را متوجه رهبری این کشور کرد. این مقاله که توسط ونسان ترموله دو ویلر برای روزنامه محافظه‌کار فیگارو نوشته شده و عصر یکشنبه به وقت محلی انتشار یافت، سال‌ها شکست سیاسی را مقصر بروز ناآرامی‌ها دانست و به‌ویژه امانو"
-  },
-  {
    "t": 1792357456.0,
    "n": "explosions in konorak southeastern iran",
    "fa": "🇮🇷⚡️ — گزارش انفجار در کنارک در جنوب شرقی ایران."
@@ -665,20 +650,20 @@
    "t": 1792399227.0,
    "n": "مخبر بعضی ها می گویند تنگه هرمز را بدهیم تا بقیه کشور از دست نرود",
    "fa": "🎥مخبر: بعضی‌ها می‌گویند تنگه هرمز را بدهیم تا بقیه کشور از دست نرود!"
+  },
+  {
+   "t": 1792400066.0,
+   "n": "روبیو اگر ایران وجود نداشت رسیدگی به مسئله فلسطین آسان تر بود مارکو روبیو وزیر امور خارجه آمریکا درباره ایران و مسئله فلسطین گفت اگر روحانیون شیعه تندرو در ایران وجود نداشتند اگر چنین چیزی نبود هیچ یک از این مشکلات هم وجود نداشت ممکن بود همچنان مسئله فلسطین مطرح باشد اما من معتقدم اگر ایران وجود نداشت رسیدگی به این مسئله آسان تر بود",
+   "fa": "🇺🇸🇮🇷🇵🇸 روبیو: اگر ایران وجود نداشت، رسیدگی به مسئله فلسطین آسان‌تر بود 🔴مارکو روبیو، وزیر امور خارجه آمریکا، درباره ایران و مسئله فلسطین گفت: 💢اگر روحانیون شیعه تندرو در ایران وجود نداشتند، اگر چنین چیزی نبود، هیچ‌یک از این مشکلات هم وجود نداشت. 💢ممکن بود همچنان مسئله فلسطین مطرح باشد؛ اما من معتقدم اگر ایران وجود نداشت، رسیدگی به این مسئله آسان‌تر بود."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 44
+  "requests": 45
  },
- "flip": 964,
+ "flip": 965,
  "quote_n": 409,
  "signals": [
-  {
-   "t": 1792313468.0684602,
-   "s": 5,
-   "p": 85
-  },
   {
    "t": 1792313770.1444833,
    "s": 4,
@@ -1468,6 +1453,11 @@
    "t": 1792399574.3199863,
    "s": 3,
    "p": 60
+  },
+  {
+   "t": 1792400173.943252,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
