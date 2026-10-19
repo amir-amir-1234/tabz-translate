@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108558
+   "last_id": 108560
   },
   "khabarfouri": {
    "last_id": 569949
@@ -401,11 +401,6 @@
  },
  "recent": [
   {
-   "t": 1792375200.0,
-   "n": "saudi arabia s military limitations are being exposed by houthi attacks the kingdom has advanced weaponry but the yemeni militant group has proved to be a resilient foe",
-   "fa": "⭕️ آشکار شدن محدودیت‌های نظامی عربستان سعودی در پی حملات حوثی‌ها به گزارش وال‌استریت ژورنال، محدودیت‌های نظامی عربستان سعودی در اثر حملات حوثی‌ها در حال آشکار شدن است. این پادشاهی دارای تسلیحات پیشرفته است، اما این گروه شبه‌نظامی یمنی ثابت کرده است که یک دشمن سرسخت و مقاوم است."
-  },
-  {
    "t": 1792376585.0,
    "n": "u s navy nimitz class aircraft carrier uss theodore roosevelt has departed u s fleet activities yokosuka japan to continue its journey to u s central command s area of responsibility",
    "fa": "🇺🇸🇮🇷⚡️ — نا هواپیمابر کلاس نیمیتز نیروی دریایی ایالات متحده، «یو‌اس‌اس تئودور روزولت»، برای ادامه سفر خود به منطقه مسئولیت فرماندهی مرکزی ایالات متحده (سنتکام)، پایگاه فعالیت‌های ناوگان ایالات متحده در یوکوسوکای ژاپن را ترک کرد."
@@ -699,20 +694,20 @@
    "t": 1792408215.0,
    "n": "پنهان سازی فزاینده صادرات سوخت ایران در عملیات دریایی گزارش ها حاکی از آن است که ایران به طور فزاینده ای صادرات گاز مایع نفتی lpg و سوخت جت خود را در میان شمار رو به افزایشی از عملیات حمل ونقل دریایی پنهان می کند",
    "fa": "🇺🇸🇮🇷 پنهان‌سازی فزاینده صادرات سوخت ایران در عملیات دریایی 🔴 گزارش‌ها حاکی از آن است که ایران به‌طور فزاینده‌ای، صادرات گاز مایع نفتی (LPG) و سوخت جت خود را در میان شمار رو‌به‌افزایشی از عملیات حمل‌ونقل دریایی پنهان می‌کند."
+  },
+  {
+   "t": 1792408781.0,
+   "n": "french prime minister sébastien lecornu accused far left groups of attempting to destabilize france through organized unrest warning that intelligence services had identified networks seeking to disrupt or prevent the upcoming presidential election lecornu said the government had ordered partial curfews in several areas to protect residents businesses and property declaring we cannot allow violent",
+   "fa": "🇫🇷⚡️ — سباستین لکورنو، نخست‌وزیر فرانسه، گروه‌های چپ افراطی را به تلاش برای بی‌ثبات‌سازی فرانسه از طریق ناآرامی‌های سازمان‌یافته متهم کرد و هشدار داد که سرویس‌های اطلاعاتی شبکه‌هایی را شناسایی کرده‌اند که به دنبال اختلال یا جلوگیری the انتخابات ریاست‌جمهوری پیش رو هستند. لکورنو گفت دولت برای محافظت از ساکنان، کسب‌وکارها و اموال، دستور برقراری منع آمدوشد جزئی را در چندین منطقه صادر کرده and اعلام ک"
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 80
+  "requests": 81
  },
- "flip": 994,
+ "flip": 995,
  "quote_n": 418,
  "signals": [
-  {
-   "t": 1792322172.3836474,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1792322475.275526,
    "s": 2,
