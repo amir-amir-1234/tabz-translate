@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108569
+   "last_id": 108571
   },
   "khabarfouri": {
    "last_id": 569949
@@ -403,11 +403,6 @@
  },
  "recent": [
   {
-   "t": 1792401591.0,
-   "n": "reporter what evidence do you actually have that putin is open to peace talks marco rubio what evidence this is not a criminal case this is about diplomacy in diplomacy you continue to try",
-   "fa": "🇺🇸🇷🇺🇺🇦⚡️ — خبرنگار: چه مدرکی در دست دارید که نشان دهد پوتین برای مذاکرات صلح آماده است؟ مارکو روبیو: چه مدرکی؟ این یک پرونده جنایی نیست، بلکه مسئله دیپلماسی است. در دیپلماسی، شما به تلاش خود ادامه می‌دهید."
-  },
-  {
    "t": 1792401648.0,
    "n": "secretary of state marco rubio on ukraine a few nights ago there was a software problem involving ukraine s early warning system eucom is looking at it i can t comment on what happened last night",
    "fa": "🇺🇸🇺🇦⚡️ — مارکو روبیو، وزیر امور خارجه آمریکا، درباره اوکراین: چند شب پیش، یک مشکل نرم‌افزاری در سیستم هشدار زودهنگام اوکراین رخ داد. فرماندهی اروپایی ایالات متحده (EUCOM) در حال بررسی آن است. من نمی‌توانم درباره اتفاقی که دیشب رخ داد اظهار نظر کنم."
@@ -701,13 +696,18 @@
    "t": 1792415960.0,
    "n": "بنی گانتس وزیر جنگ پیشین اسرائیل و مخالف نتانیاهو از انتخابات کناره گیری می کند",
    "fa": "🇮🇱 بنی گانتس، وزیر جنگ پیشین اسرائیل و مخالف نتانیاهو، از انتخابات کناره‌گیری می‌کند!"
+  },
+  {
+   "t": 1792416487.0,
+   "n": "israeli prime minister benjamin netanyahu says itamar ben gvir will serve as a senior minister in his next government dismissing claims that he was being sidelined ahead of the october 27 election as false political spin however netanyahu ruled out giving ben gvir the defense or national security ministries saying both would remain under likud s control",
+   "fa": "🇮🇱⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل، می‌گوید ایتامار بن‌گویر به عنوان یک وزیر ارشد در دولت آینده او خدمت خواهد کرد و ادعاها مبنی بر اینکه او در آستانه انتخابات ۲۷ اکتبر به حاشیه رانده شده است را «چرخش سیاسی دروغین» رد کرد. با این حال، نتانیاهو واگذاری وزارتخانه‌های دفاع یا امنیت ملی به بن‌گویر را رد کرد و گفت هر دو تحت کنترل حزب لیکود باقی خواهند ماند."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 101
+  "requests": 102
  },
- "flip": 1009,
+ "flip": 1010,
  "quote_n": 432,
  "signals": [
   {
@@ -1583,6 +1583,11 @@
   {
    "t": 1792416075.707993,
    "s": 3,
+   "p": 50
+  },
+  {
+   "t": 1792416690.8896687,
+   "s": 4,
    "p": 50
   }
  ],
