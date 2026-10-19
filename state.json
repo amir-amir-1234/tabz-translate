@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108605
+   "last_id": 108609
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,10 +10,10 @@
    "last_id": 132129
   },
   "TelNews_Magazine": {
-   "last_id": 101493
+   "last_id": 101494
   },
   "NE_WG": {
-   "last_id": 114995
+   "last_id": 114996
   }
  },
  "fails": {},
@@ -361,7 +361,8 @@
     "https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html",
     "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html",
     "https://www.nytimes.com/2026/10/19/world/middleeast/trump-netanyahu-endorsement-election.html",
-    "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html"
+    "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
+    "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html"
    ]
   },
   "Treasury": {
@@ -408,26 +409,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792410528.0,
-   "n": "turkish president erdoğan good news is coming from syria but zionist israel is doing everything it can to stir up trouble there as well",
-   "fa": "🇹🇷🇸🇾🇮🇱⚡️ — رئیس‌جمهور ترکیه، اردوغان: اخبار خوبی از سوریه می‌رسد، اما اسرائیل صهیونیست هر کاری که بتواند انجام می‌دهد تا در آنجا نیز دردسر ایجاد کند."
-  },
-  {
-   "t": 1792411054.0,
-   "n": "6 فروند هواپیمای ترابری نظامی آمریکایی و بریتانیایی به سمت خاورمیانه در حرکت هستند",
-   "fa": "🇬🇧🇺🇸 6 فروند هواپیمای ترابری نظامی آمریکایی و بریتانیایی به سمت خاورمیانه در حرکت هستند!"
-  },
-  {
-   "t": 1792411362.0,
-   "n": "سخنگوی سپاه در صورت تشدید جنگ شگفتی سازهای سپاه خود را نشان خواهند داد",
-   "fa": "⭕️سخنگوی سپاه: در صورت تشدید جنگ، شگفتی‌سازهای سپاه خود را نشان خواهند داد"
-  },
-  {
-   "t": 1792411514.0,
-   "n": "president trump via truth social the migrants have taken over france they must close the borders fast",
-   "fa": "🇺🇸🇫🇷⚡️ — دونالد ترامپ در شبکه اجتماعی تروث سوشال: مهاجران فرانسه را تسخیر کرده‌اند. آن‌ها باید سریعاً مرزها را ببندند!"
-  },
   {
    "t": 1792411655.0,
    "n": "israeli police detain 10 over violent settler attacks in west bank israel has faced pressure including from the united states to investigate the attacks rights group say most probes into extremist assaults on palestinians go nowhere",
@@ -707,20 +688,35 @@
    "t": 1792424446.0,
    "n": "ژنرال بازنشسته ارتش آمریکا احتمالا جنگ بعدی با ایران کوتاه تر خواهد بود جک کین وقتی عملیات آخر خود را پس از ۳۸ روز عملیات متوقف کردیم ۱۴ روز دیگر از برنامه مان باقی مانده بود این بار به زمان کمتری نیاز خواهیم داشت فکر می کنم این بار اسرائیل به شدت علیه حزب الله اقدام کند باید اقدامی هم علیه حوثی ها انجام شود زرادخانه های ما و اسرائیلی ها دوباره تکمیل شده",
    "fa": "🇺🇸🇮🇱🇮🇷ژنرال بازنشسته ارتش آمریکا: احتمالاً جنگ بعدی با ایران کوتاه‌تر خواهد بود 💢جک کین: وقتی عملیات آخر خود را پس از ۳۸ روز عملیات متوقف کردیم، ۱۴ روز دیگر از برنامه‌مان باقی مانده بود. این بار به زمان کمتری نیاز خواهیم داشت. فکر می‌کنم این بار اسرائیل به شدت علیه حزب‌الله اقدام کند. باید اقدامی هم علیه حوثی‌ها انجام شود. زرادخانه‌های ما و اسرائیلی‌ها دوباره تکمیل شده."
+  },
+  {
+   "t": 1792424599.0,
+   "n": "فاکس نیوز هیچکس نمیتواند جلوی حمله نتانیاهو را بگیرد",
+   "fa": "🚨فاکس نیوز : هیچکس نمیتواند جلوی حمله نتانیاهو را بگیرد."
+  },
+  {
+   "t": 1792424640.0,
+   "n": "israeli prime minister netanyahu macron called me on october 7 he said you know we have to work for an immediate ceasefire and to solve this by diplomacy and i said no no emmanuel it s not going to be solved by diplomacy these are monsters these are neo nazis i said you know hamas is like isis in fact it s worse in some respects than isis even worse than isis and let me tell you if we don t stop h",
+   "fa": "🇮🇱🇫🇷🇵🇸⚡️ — نخست‌وزیر اسرائیل نتانیاهو: مکرون در ۷ اکتبر با من تماس گرفت. او گفت: «می‌دانی، ما باید برای آتش‌بس فوری و حل این مسئله از طریق دیپلماسی تلاش کنیم.» و من گفتم: «نه، نه، امانوئل. این موضوع با دیپلماسی حل نخواهد شد. این‌ها هیولا هستند. این‌ها نئوستیزی هستند.» من گفتم: «می‌دانی، حماس مانند داعش است. در واقع، از برخی جهات حتی از داعش هم بدتر است، حتی بدتر از داعش. و بگذار به تو بگویم، اگر م"
+  },
+  {
+   "t": 1792424718.0,
+   "n": "channel 14 do you think emmanuel macron has learned his lesson today seeing what s happening in france netanyahu well i think the french people see what s happening in the streets of france and probably will as it looks like it could foster a change in the political makeup of france",
+   "fa": "🇮🇱🇫🇷⚡️ — شبکه ۱۴ اسرائیل: آیا فکر می‌کنید امانوئل مکرون امروز با دیدن آنچه در فرانسه اتفاق می‌افتد، درس عبرت گرفته است؟ نتانیاهو: خب، من فکر می‌کنم مردم فرانسه آنچه را که در خیابان‌های فرانسه اتفاق می‌افتد می‌بینند و احتمالاً، همان‌طور که به نظر می‌رسد، می‌تواند تغییری در ترکیب سیاسی فرانسه ایجاد کند."
+  },
+  {
+   "t": 1792424794.0,
+   "n": "channel 14 if a right wing government comes to power in france do you see relations with israel improving netanyahu i certainly do because they understand that they re under threat it s the common enemy that creates common interests",
+   "fa": "🇮🇱🇫🇷⚡️ — شبکه ۱۴ اسرائیل: اگر یک دولت راست‌گرا در فرانسه به قدرت برسد، آیا روابط با اسرائیل را رو به بهبود می‌بینید؟ نتانیاهو: قطعا همین طور است. زیرا آن‌ها می‌فهمند که در معرض تهدید هستند. این دشمن مشترک است که منافع مشترک ایجاد می‌کند."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 128
+  "requests": 129
  },
- "flip": 1041,
- "quote_n": 445,
+ "flip": 1044,
+ "quote_n": 446,
  "signals": [
-  {
-   "t": 1792338398.4816134,
-   "s": 5,
-   "p": 75
-  },
   {
    "t": 1792338980.3420537,
    "s": 5,
@@ -1645,6 +1641,26 @@
    "t": 1792424720.3925672,
    "s": 5,
    "p": 80
+  },
+  {
+   "t": 1792425074.4928255,
+   "s": 5,
+   "p": 85
+  },
+  {
+   "t": 1792425082.3243134,
+   "s": 4,
+   "p": 70
+  },
+  {
+   "t": 1792425090.2231834,
+   "s": 4,
+   "p": 65
+  },
+  {
+   "t": 1792425097.8482854,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
