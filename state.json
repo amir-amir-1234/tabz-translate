@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108582
+   "last_id": 108583
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 101489
   },
   "NE_WG": {
-   "last_id": 114985
+   "last_id": 114986
   }
  },
  "fails": {},
@@ -398,26 +398,12 @@
     "https://ofac.treasury.gov/recent-actions/20261013_33",
     "https://ofac.treasury.gov/recent-actions/20261014",
     "https://ofac.treasury.gov/recent-actions/20261015",
-    "https://ofac.treasury.gov/recent-actions/20261016"
+    "https://ofac.treasury.gov/recent-actions/20261016",
+    "https://ofac.treasury.gov/recent-actions/20261019"
    ]
   }
  },
  "recent": [
-  {
-   "t": 1792403521.0,
-   "n": "بنیامین نتانیاهو نخست وزیر اسرائیل می گویند ما جایگاه اخلاقی برتر خود را از دست داده ایم همین چند روز پیش شنیدم که کسی چنین حرفی می زد نه نه جایگاه اخلاقی برتر یعنی دفاع از مردم خود در برابر هیولاها آن هم با تلاش برای به حداقل رساندن تلفات غیرنظامیان",
-   "fa": "🇮🇱بنیامین نتانیاهو، نخست‌وزیر اسرائیل: 🔴 می‌گویند: «ما جایگاه اخلاقی برتر خود را از دست داده‌ایم.» همین چند روز پیش شنیدم که کسی چنین حرفی می‌زد. 🔴 نه، نه! جایگاه اخلاقی برتر یعنی دفاع از مردم خود در برابر هیولاها، آن هم با تلاش برای به حداقل رساندن تلفات غیرنظامیان."
-  },
-  {
-   "t": 1792403521.0,
-   "n": "israeli prime minister netanyahu on europe i really get pissed off with them you don t have to bend to the winds of fashion of islamist constituencies and the lunatic left stand up be a leader president trump is a leader be a leader they re not leaders they re so weak and passive and they re basically trying to appease the worst fanatics in their realm",
-   "fa": "🇮🇱🇪🇺⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل، درباره اروپا: من واقعاً از دست آن‌ها عصبانی می‌شوم. شما مجبور نیستید در برابر بادهای مد روز حوزه‌های انتخابیه اسلام‌گرا و چپ‌های دیوانه سر تعظیم فرود آورید. بایستید. رهبر باشید. دونالد ترامپ یک رهبر است. رهبر باشید! آن‌ها رهبر نیستند. آن‌ها بسیار ضعیف و منفعل هستند و اساساً تلاش می‌کنند تا بدترین تعصب‌ورزان قلمرو خود را راضی کنند."
-  },
-  {
-   "t": 1792403625.0,
-   "n": "israeli prime minister netanyahu on europe europe these are the same countries who are smashing us at the un vilifying us you lost the moral high ground you stole the land and then they come to me hey listen can you help us with this anti terrorist effort can you help us with this or help us with that",
-   "fa": "🇮🇱🇪🇺⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل، درباره اروپا: اروپا، این‌ها همان کشورهایی هستند که ما را در سازمان ملل می‌کوبند و بدنام می‌کنند. «شما جایگاه اخلاقی برتر را از دست داده‌اید. شما سرزمین را دزدیده‌اید.» و بعد نزد من می‌آیند: «هی، گوش کن، می‌توانی در این تلاش ضدتروریستی به ما کمک کنی؟ می‌توانی در این یا آن به ما کمک کنی؟»"
-  },
   {
    "t": 1792403696.0,
    "n": "israeli prime minister netanyahu look at islamist britain do you know that 3 000 brits have been brought to the dock put on trial for tweeting this or that and quite a few of them have gone to jail",
@@ -702,13 +688,28 @@
    "t": 1792419226.0,
    "n": "عراقچی مسائل منطقه راه حل نظامی ندارند",
    "fa": "⭕️عراقچی: مسائل منطقه راه‌حل نظامی ندارند"
+  },
+  {
+   "t": 1792419502.0,
+   "n": "محمد مخبر دستیار و مشاور رهبر اینکه می گویند ایران هیچ وقت در هیچ جنگی شکست نخورده اشتباه است اتفاقا در همه جنگ ها شکست خورده فقط در زمان جمهوری اسلامی بوده که شکست نخورده است",
+   "fa": "💢محمد مخبر، دستیار و مشاور رهبر: 💢اینکه می‌گویند ایران هیچ وقت در هیچ جنگی شکست نخورده اشتباه است؛ اتفاقا در همه جنگ‌ها شکست خورده فقط در زمان جمهوری اسلامی بوده که شکست نخورده است."
+  },
+  {
+   "t": 1792419550.0,
+   "n": "u s prosecutors say the saudi national accused of secretly installing a recording device in an openai executive conference room maintained frequent whatsapp contact with an unidentified member of the saudi royal family throughout 2025 and 2026 abdulrahman alfozan 35 a former openai engineer arrested on october 9 was allegedly encouraged by the royal to join a saudi ai initiative in may the royal t",
+   "fa": "🇺🇸🇸🇦⚡️ — دادستان‌های ایالات متحده می‌گویند تبعه سعودی متهم به نصب مخفیانه یک دستگاه ضبط در اتاق کنفرانس یکی از مدیران ارشد اوپن‌آی، در طول سال‌های ۲۰۲۵ و ۲۰۲۶ تماس‌های مکرری در واتس‌اپ با یکی از اعضای ناشناس خاندان سلطنتی عربستان داشته است. عبدالرحمن الفوزان ۳۵ ساله، مهندس سابق اوپن‌آی که در ۹ اکتبر دستگیر شد، ادعا می‌شود که توسط این فرد سلطنتی تشویق شده است تا به یک ابتکار هوش مصنوعی سعودی بپیوند"
+  },
+  {
+   "t": 1792419676.233725,
+   "n": "protecting american intellectual property act of 2022 paipa designations issuance of associated general licenses the department of the treasury s office of foreign assets control ofac is issuing protecting american intellectual property act of 2022 paipa general license 1 transactions authorized pursuant to the cyber related sanctions regulations and protecting american intellectual property act o",
+   "fa": "🚨 صدور مجوزهای عمومی جدید و اعمال تحریم‌های مرتبط با قانون حفاظت از مالکیت فکری آمریکا توسط اوفک به گزارش دفتر کنترل دارایی‌های خارجی آمریکا (اوفک)، وزارت خزانه‌داری ایالات متحده در حال صدور مجوز عمومی شماره ۱ قانون حفاظت از مالکیت فکری آمریکا مصوب سال ۲۰۲۲ تحت عنوان «معاملات مجاز طبق مقررات تحریم‌های مرتبط با سایبری» و مجوز عمومی شماره ۲ همین قانون با عنوان «مجوز توقف تدریجی معاملات مربوط به برخی"
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 111
+  "requests": 113
  },
- "flip": 1020,
+ "flip": 1022,
  "quote_n": 441,
  "signals": [
   {
@@ -1610,6 +1611,16 @@
    "t": 1792419381.5892165,
    "s": 2,
    "p": 40
+  },
+  {
+   "t": 1792419699.461491,
+   "s": 3,
+   "p": 40
+  },
+  {
+   "t": 1792419707.1088521,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
