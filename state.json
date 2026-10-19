@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108527
+   "last_id": 108528
   },
   "khabarfouri": {
    "last_id": 569949
@@ -289,7 +289,8 @@
     "SB10222543145185073693004593517310691323402",
     "WP-WSJ-0003986105",
     "WP-WSJ-0003986160",
-    "WP-WSJ-0003986262"
+    "WP-WSJ-0003986262",
+    "WP-WSJ-0003985818"
    ]
   },
   "NYT": {
@@ -389,16 +390,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792347762.0,
-   "n": "آشوب در آرژانتین معترضان پرچم آمریکا را لگدمال کردند",
-   "fa": "🇦🇷🇺🇸آشوب در آرژانتین؛ معترضان پرچم آمریکا را لگدمال کردند‼️"
-  },
-  {
-   "t": 1792348886.0,
-   "n": "شهردار تهران مترو تا پایان شرایط جنگی رایگان می ماند",
-   "fa": "⭕️شهردار تهران: مترو تا پایان شرایط جنگی رایگان می‌ماند"
-  },
   {
    "t": 1792349018.0,
    "n": "alerts in abha city southwestern saudi arabia",
@@ -688,14 +679,24 @@
    "t": 1792374493.0,
    "n": "alerts in jazan province southwestern ksa have been lifted active for 7 minutes",
    "fa": "🔄 به‌روزرسانی 🇸🇦⚡️ — وضعیت‌های هشدار در استان جازان در جنوب غربی عربستان سعودی لغو شد. این وضعیت به مدت ۷ دقیقه فعال بود."
+  },
+  {
+   "t": 1792375047.0,
+   "n": "security alerts were issued by the following u s embassy amman u s embassy beirut u s embassy doha u s virtual embassy iran u s mission iraq u s embassy jerusalem u s embassy manama u s embassy muscat u s mission saudi arabia u s mission united arab emirates u s mission yemen",
+   "fa": "🔄 به‌روزرسانی 🇺🇸🇮🇷🇾🇪⚡️ — سفارتخانه‌های ایالات متحده در کشورهای منطقه از جمله اردن، لبنان، قطر، عراق، بحرین، عمان، عربستان سعودی، امارات و یمن هشدارهای امنیتی جدیدی صادر کردند."
+  },
+  {
+   "t": 1792375200.0,
+   "n": "saudi arabia s military limitations are being exposed by houthi attacks the kingdom has advanced weaponry but the yemeni militant group has proved to be a resilient foe",
+   "fa": "⭕️ آشکار شدن محدودیت‌های نظامی عربستان سعودی در پی حملات حوثی‌ها به گزارش وال‌استریت ژورنال، محدودیت‌های نظامی عربستان سعودی در اثر حملات حوثی‌ها در حال آشکار شدن است. این پادشاهی دارای تسلیحات پیشرفته است، اما این گروه شبه‌نظامی یمنی ثابت کرده است که یک دشمن سرسخت و مقاوم است."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 6
+  "requests": 8
  },
- "flip": 947,
- "quote_n": 401,
+ "flip": 948,
+ "quote_n": 402,
  "signals": [
   {
    "t": 1792293379.85735,
@@ -1521,6 +1522,16 @@
    "t": 1792374718.0885284,
    "s": 4,
    "p": 30
+  },
+  {
+   "t": 1792375289.8835385,
+   "s": 4,
+   "p": 75
+  },
+  {
+   "t": 1792375293.3599298,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
