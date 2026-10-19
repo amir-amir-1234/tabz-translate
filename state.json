@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108650
+   "last_id": 108651
   },
   "khabarfouri": {
    "last_id": 569949
@@ -422,11 +422,6 @@
  },
  "recent": [
   {
-   "t": 1792433400.0,
-   "n": "opinion obama s dangerous mideast words his distortions of jewish history appear carefully considered which compounds the wound",
-   "fa": "⭕️ انتقاد از اظهارات خطرناک اوباما درباره خاورمیانه و تاریخ یهودیان به گزارش وال‌استریت ژورنال، تحریف‌های باراک اوباما از تاریخ یهودیان کاملاً حساب‌شده به نظر می‌رسد و همین امر صدمه را دوچندان می‌کند."
-  },
-  {
    "t": 1792433905.0,
    "n": "پزشکیان معتقدیم استقرار پایگاه های نظامی آمریکا در کشورهای منطقه جز افزایش تنش ها و تشدید اختلافات و بی ثباتی و ناامنی هیچ ثمر و فایده برای منطقه نداشته و نخواهد داشت",
    "fa": "⭕️پزشکیان : معتقدیم استقرار پایگاه‌های نظامی آمریکا در کشورهای منطقه ، جز افزایش تنش‌ها و تشدید اختلافات و بی‌ثباتی و ناامنی هیچ ثمر و فایده برای منطقه نداشته و نخواهد داشت."
@@ -720,13 +715,18 @@
    "t": 1792449410.0,
    "n": "reporter zelensky says you re on the wrong side of history trump zelensky doesn t know what he s talking about if he would have listened to me he would have made a much better deal a long time ago and he d have a million people living from his side",
    "fa": "🇺🇸🇺🇦🇷🇺⚡️ — خبرنگار: زلنسکی می‌گوید شما در سمت اشتباه تاریخ ایستاده‌اید. ترامپ: زلنسکی نمی‌داند چه می‌گوید. اگر او به حرف‌های من گوش داده بود، خیلی وقت پیش توافق خیلی بهتری انجام داده بود و یک میلیون نفر از مردمش زنده مانده بودند."
+  },
+  {
+   "t": 1792449948.0,
+   "n": "president trump russia could ve done a lot more to help iran russia has done very little for iran china could ve done a lot more for iran when china does not that much maybe nothing for iran and russia does very little for iran i view that as being a very positive thing",
+   "fa": "🇺🇸🇷🇺🇨🇳🇮🇷⚡️ — رئیس‌جمهور ترامپ: روسیه می‌توانست کارهای خیلی بیشتری برای کمک به ایران انجام دهد. روسیه کارهای بسیار کمی برای ایران انجام داده است. چین می‌توانست کارهای خیلی بیشتری برای ایران انجام دهد. وقتی چین کار چندانی نمی‌کند، شاید هیچ کاری برای ایران نمی‌کند، و روسیه کار بسیار کمی برای ایران انجام می‌دهد، من این را به عنوان یک امر بسیار مثبت می‌بینم."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 215
+  "requests": 216
  },
- "flip": 1106,
+ "flip": 1107,
  "quote_n": 476,
  "signals": [
   {
@@ -1513,6 +1513,11 @@
    "t": 1792449670.6503184,
    "s": 5,
    "p": 90
+  },
+  {
+   "t": 1792450275.56722,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
