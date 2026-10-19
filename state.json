@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108565
+   "last_id": 108566
   },
   "khabarfouri": {
    "last_id": 569949
@@ -354,7 +354,8 @@
     "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html",
     "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html",
     "https://www.nytimes.com/2026/10/19/world/middleeast/jews-dubai-fear.html",
-    "https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html"
+    "https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html",
+    "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html"
    ]
   },
   "Treasury": {
@@ -400,16 +401,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792391341.0,
-   "n": "سردار نقدی مراکز موشکی کشور با وجود بمباران های سنگین هیچ آسیبی ندیده اند و ذخایر استراتژیک کشور کاملا سالم مانده است",
-   "fa": "⭕️سردار نقدی: مراکز موشکی کشور با وجود بمباران‌های سنگین هیچ آسیبی ندیده‌اند، و ذخایر استراتژیک کشور کاملاً سالم مانده است"
-  },
-  {
-   "t": 1792393210.0,
-   "n": "عراقچی خطاب به رئیس جمهور فرانسه به صدای آینده فرانسه گوش دهید عباس عراقچی وزیر امور خارجه ایران نوشت مردم فرانسه خواهان تغییرات اساسی و گسترده از جمله آزادی تجمع هستند آقای رئیس جمهور به صدای آینده فرانسه گوش دهید",
-   "fa": "🇮🇷🇫🇷 عراقچی خطاب به رئیس‌جمهور فرانسه: به صدای آینده فرانسه گوش دهید 🔴عباس عراقچی، وزیر امور خارجه ایران، نوشت: «مردم فرانسه خواهان تغییرات اساسی و گسترده، از جمله آزادی تجمع هستند. آقای رئیس‌جمهور، به صدای آینده فرانسه گوش دهید.»"
-  },
   {
    "t": 1792393681.0,
    "n": "ارتش اسرائیل در بیانیه ای اعلام کرد تحت فرماندهی جنوب 3 فرمانده ارشد حماس که در طرح های خرابکارانه علیه نیروهای نظامی و شهروندان اسرائیلی نقش داشتند را ترور کرده است",
@@ -699,14 +690,24 @@
    "t": 1792411362.0,
    "n": "سخنگوی سپاه در صورت تشدید جنگ شگفتی سازهای سپاه خود را نشان خواهند داد",
    "fa": "⭕️سخنگوی سپاه: در صورت تشدید جنگ، شگفتی‌سازهای سپاه خود را نشان خواهند داد"
+  },
+  {
+   "t": 1792411514.0,
+   "n": "president trump via truth social the migrants have taken over france they must close the borders fast",
+   "fa": "🇺🇸🇫🇷⚡️ — دونالد ترامپ در شبکه اجتماعی تروث سوشال: مهاجران فرانسه را تسخیر کرده‌اند. آن‌ها باید سریعاً مرزها را ببندند!"
+  },
+  {
+   "t": 1792411655.0,
+   "n": "israeli police detain 10 over violent settler attacks in west bank israel has faced pressure including from the united states to investigate the attacks rights group say most probes into extremist assaults on palestinians go nowhere",
+   "fa": "🔴 بازداشت ۱۰ نفر توسط پلیس اسرائیل در پی حملات شهرک‌نشینان در کرانه باختری به گزارش نیویورک تایمز اسرائیل با فشارهایی، از جمله از سوی ایالات متحده، برای تحقیق درباره این حملات مواجه شده است. گروه‌های حقوق بشری می‌گویند بیشتر تحقیقات درباره حملات افراطیون به فلسطینی‌ها به جایی نمی‌رسد."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 87
+  "requests": 89
  },
- "flip": 999,
- "quote_n": 422,
+ "flip": 1001,
+ "quote_n": 423,
  "signals": [
   {
    "t": 1792325800.4333768,
@@ -1547,6 +1548,11 @@
    "t": 1792411568.7225184,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1792411877.9869368,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
