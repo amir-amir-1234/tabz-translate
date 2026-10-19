@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132120
+   "last_id": 132121
   },
   "TelNews_Magazine": {
-   "last_id": 101489
+   "last_id": 101490
   },
   "NE_WG": {
-   "last_id": 114987
+   "last_id": 114988
   }
  },
  "fails": {},
@@ -300,7 +300,8 @@
     "WP-WSJ-0003987112",
     "WP-WSJ-0003987128",
     "WP-WSJ-0003986877",
-    "WP-WSJ-0003987299"
+    "WP-WSJ-0003987299",
+    "WP-WSJ-0003987938"
    ]
   },
   "NYT": {
@@ -405,16 +406,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792403941.0,
-   "n": "سنگاپور و بمبئی اجازه پرواز به شرکت هواپیمایی جمهوری اسلامی ایران برای آوردن دارو را ندادند",
-   "fa": "⭕️سنگاپور و بمبئی اجازه پرواز به شرکت هواپیمایی جمهوری اسلامی ایران برای آوردن دارو را ندادند"
-  },
-  {
-   "t": 1792403950.0,
-   "n": "israeli prime minister netanyahu we have the readiness determination and capability to strike our enemies whenever necessary i am telling our enemies do not test us you will suffer even heavier blows than those you have endured so far",
-   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، بنیامین نتانیاهو: ما آمادگی، عزم و توانایی لازم را داریم تا در صورت لزوم به دشمنان خود ضربه بزنیم. من به دشمنانمان می‌گویم: ما را امتحان نکنید. شما ضرباتی حتی سنگین‌تر از آنچه تاکنون متحمل شده‌اید، متحمل خواهید شد."
-  },
   {
    "t": 1792404250.0,
    "n": "president trump s approval ratings have fallen to new lows ahead of the november midterm elections creating difficulties for republican candidates seeking to retain maga support while appealing to independent voters new polls from washington post abc ipsos nbc news and fox news place trump s approval at 33 34 and 36 respectively while democrats lead republicans by 8 10 points among registered vote",
@@ -704,14 +695,24 @@
    "t": 1792420201.0,
    "n": "ترامپ مهاجران کنترل فرانسه را در دست گرفته اند",
    "fa": "🇫🇷🇺🇸ترامپ: مهاجران کنترل فرانسه را در دست گرفته‌اند!"
+  },
+  {
+   "t": 1792420516.0,
+   "n": "سپاه هنوز از کلی سلاح رونمایی نکردیم و منتظر خطای محاسباتی دشمنیم",
+   "fa": "⭕️سپاه: هنوز از کلی سلاح رونمایی نکردیم و منتظر خطای محاسباتی دشمنیم"
+  },
+  {
+   "t": 1792420620.0,
+   "n": "saudi arabia decides against holding in person investor conference saudi arabia has decided not to hold its flagship investor conference in person next week and instead will hold it fully online or postpone the event entirely people familiar with the matter said",
+   "fa": "⭕️ عربستان سعودی از لغو برگزاری حضوری کنفرانس سرمایه‌گذاری خود در هفته آینده خبر داد به گزارش وال‌استریت ژورنال عربستان سعودی تصمیم گرفته است کنفرانس شاخص سرمایه‌گذاری خود را که قرار بود هفته آینده برگزار شود، به صورت حضوری برگزار نکند و در عوض این رویداد را به طور کامل به صورت آنلاین برگزار کرده یا برگزاری آن را به طور کامل به تعویق بیندازد. این مطلب را افراد مطلع از این موضوع اعلام کرده‌اند."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 115
+  "requests": 117
  },
- "flip": 1023,
- "quote_n": 441,
+ "flip": 1024,
+ "quote_n": 443,
  "signals": [
   {
    "t": 1792335385.8840117,
@@ -1622,6 +1623,16 @@
    "t": 1792419707.1088521,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792420889.63701,
+   "s": 5,
+   "p": 85
+  },
+  {
+   "t": 1792420893.0359263,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
