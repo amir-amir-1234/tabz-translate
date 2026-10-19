@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108618
+   "last_id": 108620
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132137
+   "last_id": 132138
   },
   "TelNews_Magazine": {
    "last_id": 101497
@@ -302,7 +302,8 @@
     "WP-WSJ-0003986877",
     "WP-WSJ-0003987299",
     "WP-WSJ-0003987938",
-    "SB12199027810792643414104593516042305782824"
+    "SB12199027810792643414104593516042305782824",
+    "WP-WSJ-0003988034"
    ]
   },
   "NYT": {
@@ -409,16 +410,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792415960.0,
-   "n": "بنی گانتس وزیر جنگ پیشین اسرائیل و مخالف نتانیاهو از انتخابات کناره گیری می کند",
-   "fa": "🇮🇱 بنی گانتس، وزیر جنگ پیشین اسرائیل و مخالف نتانیاهو، از انتخابات کناره‌گیری می‌کند!"
-  },
-  {
-   "t": 1792416487.0,
-   "n": "israeli prime minister benjamin netanyahu says itamar ben gvir will serve as a senior minister in his next government dismissing claims that he was being sidelined ahead of the october 27 election as false political spin however netanyahu ruled out giving ben gvir the defense or national security ministries saying both would remain under likud s control",
-   "fa": "🇮🇱⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل، می‌گوید ایتامار بن‌گویر به عنوان یک وزیر ارشد در دولت آینده او خدمت خواهد کرد و ادعاها مبنی بر اینکه او در آستانه انتخابات ۲۷ اکتبر به حاشیه رانده شده است را «چرخش سیاسی دروغین» رد کرد. با این حال، نتانیاهو واگذاری وزارتخانه‌های دفاع یا امنیت ملی به بن‌گویر را رد کرد و گفت هر دو تحت کنترل حزب لیکود باقی خواهند ماند."
-  },
   {
    "t": 1792416698.0,
    "n": "چین ما آماده تقویت همکاری با ایران هستیم",
@@ -708,14 +699,24 @@
    "t": 1792427986.0,
    "n": "rsf major general abdullah qurush was also killed in the sudanese air force strike on nyala",
    "fa": "🇸🇩❌🇸🇩 — سرلشکر عبدالله قورش، از فرماندهان نیروی واکنش سریع سودان، نیز در حمله هوایی ارتش سودان به نیالا کشته شد."
+  },
+  {
+   "t": 1792428360.0,
+   "n": "rioting in france what s fueling the violence and what happens next weeks of student led protests over conditions in french schools spiraled into violent protests across the country in recent days",
+   "fa": "🔴 اعتراضات دانشجویی در فرانسه به خشونت کشیده شد به گزارش وال‌استریت ژورنال اعتراضات چند هفته‌ای دانشجویی پیرامون وضعیت مدارس در فرانسه، طی روزهای اخیر در سراسر این کشور به اعتصابات و اعتراضات خشونت‌آمیز تبدیل شد."
+  },
+  {
+   "t": 1792428528.0,
+   "n": "netanyahu donald we have a job to finish we will finish it together we will finish it trump you re a great warrior and we ll prove that very soon i think you re gonna have a tremendous victory you re the man i want by my side netanyahu our alliance has proved that we can do amazing things together",
+   "fa": "🇮🇱🇺🇸❌🇮🇷 — نتانیاهو: دونالد، ما کاری برای تمام کردن داریم. با هم تمامش خواهیم کرد. تمامش می‌کنیم. ترامپ: تو یک جنگجوی بزرگ هستی، و به زودی این را ثابت خواهیم کرد... فکر می‌کنم پیروزی بزرگی خواهی داشت. تو همان مردی هستی که می‌خواهم در کنارم باشد. نتانیاهو: اتحاد ما ثابت کرده است که می‌توانیم کارهای شگفت‌انگیزی را با هم انجام دهیم."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 139
+  "requests": 141
  },
- "flip": 1052,
- "quote_n": 451,
+ "flip": 1053,
+ "quote_n": 452,
  "signals": [
   {
    "t": 1792342896.1506855,
@@ -1581,6 +1582,11 @@
    "t": 1792428079.4703088,
    "s": 4,
    "p": 85
+  },
+  {
+   "t": 1792428687.6713402,
+   "s": 5,
+   "p": 90
   }
  ],
  "risk": {
