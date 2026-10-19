@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132119
+   "last_id": 132120
   },
   "TelNews_Magazine": {
    "last_id": 101489
   },
   "NE_WG": {
-   "last_id": 114986
+   "last_id": 114987
   }
  },
  "fails": {},
@@ -406,11 +406,6 @@
  },
  "recent": [
   {
-   "t": 1792403696.0,
-   "n": "israeli prime minister netanyahu look at islamist britain do you know that 3 000 brits have been brought to the dock put on trial for tweeting this or that and quite a few of them have gone to jail",
-   "fa": "🇮🇱🇬🇧⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: به بریتانیای اسلام‌گرا نگاه کنید. آیا می‌دانید ۳۰۰۰ تبعه بریتانیایی به خاطر توییت کردن این یا آن به دادگاه کشیده شده و محاکمه شده‌اند و تعداد زیادی از آن‌ها روانه زندان شده‌اند؟"
-  },
-  {
    "t": 1792403941.0,
    "n": "سنگاپور و بمبئی اجازه پرواز به شرکت هواپیمایی جمهوری اسلامی ایران برای آوردن دارو را ندادند",
    "fa": "⭕️سنگاپور و بمبئی اجازه پرواز به شرکت هواپیمایی جمهوری اسلامی ایران برای آوردن دارو را ندادند"
@@ -704,13 +699,18 @@
    "t": 1792419676.233725,
    "n": "protecting american intellectual property act of 2022 paipa designations issuance of associated general licenses the department of the treasury s office of foreign assets control ofac is issuing protecting american intellectual property act of 2022 paipa general license 1 transactions authorized pursuant to the cyber related sanctions regulations and protecting american intellectual property act o",
    "fa": "🚨 صدور مجوزهای عمومی جدید و اعمال تحریم‌های مرتبط با قانون حفاظت از مالکیت فکری آمریکا توسط اوفک به گزارش دفتر کنترل دارایی‌های خارجی آمریکا (اوفک)، وزارت خزانه‌داری ایالات متحده در حال صدور مجوز عمومی شماره ۱ قانون حفاظت از مالکیت فکری آمریکا مصوب سال ۲۰۲۲ تحت عنوان «معاملات مجاز طبق مقررات تحریم‌های مرتبط با سایبری» و مجوز عمومی شماره ۲ همین قانون با عنوان «مجوز توقف تدریجی معاملات مربوط به برخی"
+  },
+  {
+   "t": 1792420201.0,
+   "n": "ترامپ مهاجران کنترل فرانسه را در دست گرفته اند",
+   "fa": "🇫🇷🇺🇸ترامپ: مهاجران کنترل فرانسه را در دست گرفته‌اند!"
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 114
+  "requests": 115
  },
- "flip": 1022,
+ "flip": 1023,
  "quote_n": 441,
  "signals": [
   {
@@ -1625,16 +1625,16 @@
   }
  ],
  "risk": {
-  "base": 60,
-  "ts": 1792418526.3740492,
+  "base": 59,
+  "ts": 1792420316.2668707,
   "attack": false,
-  "n": 176,
+  "n": 182,
   "shares": {
    "1": 0,
-   "2": 7,
-   "3": 23,
-   "4": 61,
-   "5": 10
+   "2": 8,
+   "3": 22,
+   "4": 62,
+   "5": 9
   }
  },
  "attack_ts": 1792360274.4190998,
