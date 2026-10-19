@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108529
+   "last_id": 108530
   },
   "khabarfouri": {
    "last_id": 569949
@@ -397,16 +397,6 @@
  },
  "recent": [
   {
-   "t": 1792355453.0,
-   "n": "ukrainian president zelensky told bloomberg that the u s is supplying ukraine with just 12 patriot interceptor missiles per month we have paid for the weapons zelensky said referring to additional shipments that remain pending a part of the supplies has been authorized while the rest haven t been and this is not a technical issue",
-   "fa": "🇺🇦🇺🇸⚡️ — رئیس‌جمهور اوکراین، زلنسکی، به بلومبرگ گفت که ایالات متحده ماهانه تنها ۱۲ موشک رهگیر پاتریوت به اوکراین تحویل می‌دهد. زلنسکی با اشاره به محموله‌های اضافی که همچنان در انتظار هستند، گفت: «ما پول تسلیحات را پرداخت کرده‌ایم.» «بخشی از تجهیزات تأیید شده، در حالی که مابقی نشده‌اند. و این یک مسئله فنی نیست.»"
-  },
-  {
-   "t": 1792355680.0,
-   "n": "irgc spokesman any attack on iran s energy infrastructure although it will be immediately repaired by our young scientists will turn the occupied territories into scorched earth forever and drive their occupiers into exile in the sinai desert the world will see what happens",
-   "fa": "🇮🇷❌🇺🇸🇮🇱 — سخنگوی سپاه پاسداران: هرگونه حمله به زیرساخت‌های انرژی ایران، هرچند بلافاصله توسط دانشمندان جوان ما ترمیم خواهد شد، اما سرزمین‌های اشغالی را برای همیشه به زمین سوخته تبدیل کرده و اشغالگران را به تبعید در صحرای سینا خواهد راند. جهان خواهد دید چه اتفاقی می‌افتد!"
-  },
-  {
    "t": 1792356177.0,
    "n": "president trump via truth social my decision on russia is a very simple one i am in the process of negotiating peace in the war between russia and ukraine and don t want to do anything that will drive foolishly russia away from the bargaining table great progress is being made and that includes current hostage negotiations signing that document at this time will do that and i can sign it later or ",
    "fa": "🇺🇸🇷🇺🇺🇦⚡️ — رئیس‌جمهور ترامپ از طریق توییتر (تروث سوشال): تصمیم من درباره روسیه بسیار ساده است. من در فرآیند مذاکره برای صلح در جنگ میان روسیه و اوکراین هستم و نمی‌خواهم کاری کنم که ابلهانه روسیه را از میز مذاکره دور کند. پیشرفت‌های بزرگی در جریان است، و این شامل مذاکرات جاری گروگان‌گیری نیز می‌شود! امضای آن سند در این زمان چنین کاری خواهد کرد و من می‌توانم بعداً، یا هر زمان که بخواهم، آن را امضا ک"
@@ -684,21 +674,11 @@
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 40
+  "requests": 41
  },
  "flip": 963,
  "quote_n": 409,
  "signals": [
-  {
-   "t": 1792312284.8029716,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1792312288.2474306,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1792312573.1433387,
    "s": 3,
