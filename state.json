@@ -13,7 +13,7 @@
    "last_id": 101465
   },
   "NE_WG": {
-   "last_id": 114942
+   "last_id": 114944
   }
  },
  "fails": {},
@@ -395,11 +395,6 @@
  },
  "recent": [
   {
-   "t": 1792352859.0,
-   "n": "ukrainian president zelensky told bloomberg that president trump is pressuring kyiv toward surrendering to russia saying recent u s actions appeared intended to force ukraine into concessions i believe steps have been taken to convince ukraine to capitulate zelensky said adding that he feared washington was seeking to end the war sooner at ukraine s expense zelensky also proposed halting ukrainian",
-   "fa": "🇺🇦🇺🇸🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، به بلومبرگ گفت که دونالد ترامپ، رئیس‌جمهور آمریکا، کی‌یف را برای تسلیم شدن در برابر روسیه تحت فشار قرار داده است و اقدامات اخیر ایالات متحده ظاهراً با هدف وادار کردن اوکراین به امتیازدهی انجام شده است. زلنسکی گفت: «من معتقدم گام‌هایی برداشته شده است تا اوکراین را متقاعد به تسلیم کند»، و افزود که او بیم آن دارد که واشنگتن به دنبال پایان دادن زودهنگام "
-  },
-  {
    "t": 1792353215.0,
    "n": "ukrainian president zelensky remains in close contact with u s envoys jared kushner and steve witkoff over peace negotiations with another meeting potentially taking place later this week according to bloomberg when the potential risks for ukraine are of tsunami proportions one should intervene while it s still just a mild storm he said i believe much more is at stake than the diesel deal",
    "fa": "🇺🇦🇺🇸🇷🇺⚡️ — به گزارش بلومبرگ، ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، برای پیشبرد مذاکرات صلح در ارتباط تنگاتنگ با فرستادگان ایالات متحده، جرد کوشنر و استیو ویتکوف قرار دارد و احتمالاً جلسه دیگری در اواخر همین هفته برگزار خواهد شد. او گفت: «هنگامی که خطرات احتمالی برای اوکراین در ابعاد سونامی است، باید پیش از آنکه تنها به طوفانی ملایم تبدیل شود، مداخله کرد.» او افزود: «من معتقدم بسیار بیشتر از توافق د"
@@ -688,20 +683,20 @@
    "t": 1792395720.0,
    "n": "oil prices fall as traders weigh russia sanctions waiver middle east risks oil prices fell monday pulling back after friday s gains as traders weighed a u s decision to waive newly imposed sanctions on russia against persistent middle east supply risks",
    "fa": "🔴 کاهش بهای نفت در بازارهای جهانی تحت تأثیر معافیت تحریمی روسیه و ریسک‌های خاورمیانه به گزارش وال‌استریت ژورنال بهای نفت روز دوشنبه پس از رشد روز جمعه کاهش یافت، زیرا معامله‌گران تصمیم ایالات متحده مبنی بر معافیت تحریم‌های تازه اعمال‌شده بر روسیه را در برابر ریسک‌های مداوم عرضه در خاورمیانه ارزیابی کردند."
+  },
+  {
+   "t": 1792396201.0,
+   "n": "غارت به سبک معترضان فرانسوی پلی استیشن مفت و مجانی معترضان به فروشگاه ها هجوم بردند و عده ای با برداشتن پلی استیشن های غنیمتی از آنجا خارج شدند",
+   "fa": "🇫🇷غارت به سبک معترضان فرانسوی؛ پلی‌ استیشن مفت و مجانی! 💢معترضان به فروشگاه‌ها هجوم بردند و عده‌ای با برداشتن پلی‌استیشن های غنیمتی از آنجا خارج شدند!"
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 34
+  "requests": 35
  },
- "flip": 959,
+ "flip": 960,
  "quote_n": 408,
  "signals": [
-  {
-   "t": 1792309573.4536257,
-   "s": 4,
-   "p": 65
-  },
   {
    "t": 1792309871.9593692,
    "s": 3,
