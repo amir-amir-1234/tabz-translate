@@ -13,7 +13,7 @@
    "last_id": 101475
   },
   "NE_WG": {
-   "last_id": 114961
+   "last_id": 114963
   }
  },
  "fails": {},
@@ -94,7 +94,8 @@
     "https://www.foxnews.com/world/saudi-arabia-edge-iconic-kingdom-centre-sends-workers-home-amid-houthi-attacks",
     "https://www.foxnews.com/world/4-canadian-soldiers-killed-dozens-injured-fast-moving-fire-erupts-military-base",
     "https://www.foxnews.com/world/strait-hormuz-crisis-traps-6000-sailors-attacks-ships-mount-un-maritime-chief-says",
-    "https://www.foxnews.com/world/whos-who-inside-frances-chaos-inc-franchise-communist-groups-labor-unions-global-activists"
+    "https://www.foxnews.com/world/whos-who-inside-frances-chaos-inc-franchise-communist-groups-labor-unions-global-activists",
+    "https://www.foxnews.com/world/us-lawmakers-sound-alarm-violence-grips-nato-ally-albania-amid-anti-government-protests"
    ]
   },
   "WSJ": {
@@ -702,26 +703,11 @@
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 74
+  "requests": 75
  },
  "flip": 990,
  "quote_n": 416,
  "signals": [
-  {
-   "t": 1792320378.4119337,
-   "s": 4,
-   "p": 65
-  },
-  {
-   "t": 1792320386.116625,
-   "s": 4,
-   "p": 50
-  },
-  {
-   "t": 1792320390.779059,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1792320685.9122393,
    "s": 4,
