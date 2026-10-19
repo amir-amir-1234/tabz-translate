@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108651
+   "last_id": 108652
   },
   "khabarfouri": {
    "last_id": 569949
@@ -422,11 +422,6 @@
  },
  "recent": [
   {
-   "t": 1792433905.0,
-   "n": "پزشکیان معتقدیم استقرار پایگاه های نظامی آمریکا در کشورهای منطقه جز افزایش تنش ها و تشدید اختلافات و بی ثباتی و ناامنی هیچ ثمر و فایده برای منطقه نداشته و نخواهد داشت",
-   "fa": "⭕️پزشکیان : معتقدیم استقرار پایگاه‌های نظامی آمریکا در کشورهای منطقه ، جز افزایش تنش‌ها و تشدید اختلافات و بی‌ثباتی و ناامنی هیچ ثمر و فایده برای منطقه نداشته و نخواهد داشت."
-  },
-  {
    "t": 1792434036.0,
    "n": "according to local sources rsf colonel khala fadl hussein was killed following a sudanese air force strike against the group position in ad duwayn east darfur region",
    "fa": "🇸🇩❌🇸🇩 — به گفته منابع محلی، سرهنگ خلا فضل حسین، از فرماندهان نیروی واکنش سریع سودان، در پی حمله نیروی هوایی سودان به مواضع این گروه در الدوین، واقع در منطقه شرق دارفور، کشته شد."
@@ -720,25 +715,20 @@
    "t": 1792449948.0,
    "n": "president trump russia could ve done a lot more to help iran russia has done very little for iran china could ve done a lot more for iran when china does not that much maybe nothing for iran and russia does very little for iran i view that as being a very positive thing",
    "fa": "🇺🇸🇷🇺🇨🇳🇮🇷⚡️ — رئیس‌جمهور ترامپ: روسیه می‌توانست کارهای خیلی بیشتری برای کمک به ایران انجام دهد. روسیه کارهای بسیار کمی برای ایران انجام داده است. چین می‌توانست کارهای خیلی بیشتری برای ایران انجام دهد. وقتی چین کار چندانی نمی‌کند، شاید هیچ کاری برای ایران نمی‌کند، و روسیه کار بسیار کمی برای ایران انجام می‌دهد، من این را به عنوان یک امر بسیار مثبت می‌بینم."
+  },
+  {
+   "t": 1792451372.0,
+   "n": "the trump administration has delayed approval of patriot interceptor missile transfers to ukraine leaving kyiv increasingly vulnerable to russian missile and drone attacks according to wapo",
+   "fa": "🇺🇸🇺🇦🇷🇺⚡️ — به گزارش واشنگتن پست، دولت ترامپ تأیید انتقال موشک‌های رهگیر پاتریوت به اوکراین را به تأخیر انداخته است که این امر کی‌یف را در برابر حملات موشکی و پهپادی روسیه آسیب‌پذیرتر می‌کند."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 217
+  "requests": 218
  },
- "flip": 1107,
+ "flip": 1108,
  "quote_n": 476,
  "signals": [
-  {
-   "t": 1792364807.2746358,
-   "s": 2,
-   "p": 60
-  },
-  {
-   "t": 1792364810.638742,
-   "s": 4,
-   "p": 65
-  },
   {
    "t": 1792365966.263304,
    "s": 2,
