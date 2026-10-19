@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132142
+   "last_id": 132144
   },
   "TelNews_Magazine": {
-   "last_id": 101503
+   "last_id": 101504
   },
   "NE_WG": {
-   "last_id": 115007
+   "last_id": 115008
   }
  },
  "fails": {},
@@ -414,16 +414,6 @@
  },
  "recent": [
   {
-   "t": 1792417442.0,
-   "n": "the houthis ansarallah say their forces struck saudi troop concentrations at the al alam camp in yemen s shabwa governorate killing and wounding dozens of personnel including officers the group warned fighters against joining saudi backed forces accusing riyadh of using financial incentives to recruit personnel and treating them as expendable rather than risking its own soldiers",
-   "fa": "🇾🇪❌🇾🇪🇸🇦 — حوثی‌ها (انصارالله) اعلام کردند نیروهایشان تجمع نظامیان سعودی را در اردوگاه «العلم» در استان شبوه یمن هدف قرار داده‌اند که بر اثر آن ده‌ها نفر از جمله چند افسر کشته و زخمی شدند. این گروه به جنگجویان درباره پیوستن به نیروهای تحت حمایت عربستان هشدار داد و ریاض را متهم کرد که از انگیزه‌های مالی برای جذب نیرو استفاده می‌کند و با آن‌ها به گونه‌ای رفتار می‌کند که انگار مصرف‌شدنی هستند، به جای "
-  },
-  {
-   "t": 1792417831.0,
-   "n": "the houthis ansarallah announces striking 6 concentrations of saudi enemy forces likely referring to plc forces in al suqya and ras al ara bab el mandeb front with 6 ballistic missiles claiming dozens of casualties and destruction of several military vehicles",
-   "fa": "🇾🇪❌🇾🇪🇸🇦 — حوثی‌ها (انصارالله) اعلام کردند که ۶ تجمع «ن نیروهای دشمن سعودی» [احتمالاً اشاره به نیروهای شورای رهبری ریاست‌جمهوری] در جبهه باب‌المندب در راس‌العرا و السقیا را با ۶ فروند موشک بالستیک هدف قرار داده و مدعی تلفات دهشتناک و انحراف چندین خودروی نظامی شدند."
-  },
-  {
    "t": 1792417980.0,
    "n": "kkr sent formal objection by eu over information provided in netco deal the european commission said it provisionally found that the group gave what it said was incorrect or misleading information related to long term wholesale access agreements",
    "fa": "🔴 ارسال اعتراض رسمی اتحادیه اروپا به شرکت کی‌کی‌آر درباره اطلاعات معامله نت‌کو به گزارش وال‌استریت ژورنال کمیسیون اروپا اعلام کرد که به طور موقت به این نتیجه رسیده است که این گروه اطلاعاتی را که به گفته کمیسیون نادرست یا گمراه‌کننده بوده، در رابطه با توافق‌نامه‌های دسترسی عمده‌فروشی بلندمدت ارائه داده است."
@@ -712,30 +702,25 @@
    "t": 1792430220.0,
    "n": "former openai worker accused of bugging discussed jobs with saudi royal in a detention filing prosecutors argue abdulrahman alfozan is a flight risk saying his wife and child moved permanently to saudi arabia",
    "fa": "🔴 متهم پرونده جاسوسی سایبری مذاکره شغلی با مقام سعودی داشته است به گزارش وال‌استریت ژورنال، دادستان‌ها در یک پرونده بازداشتی استدلال می‌کنند که عبدالرحمن الفوزان خطر فرار دارد و می‌گویند همسر و فرزند او به طور دائم به عربستان سعودی نقل مکان کرده‌اند."
+  },
+  {
+   "t": 1792430821.0,
+   "n": "حکومت نظامی در شهر مارسی فرانسه به دنبال بالا گرفتن اعتراضات مردمی در فرانسه فرماندار مارسی ممنوعیت هرگونه تجمع و تظاهرات در سراسر شهر از ساعت ۱۲ تا ۲۰ به وقت محلی در دوشنبه ۱۹ اکتبر ۲۰۲۶ را صادر کرد",
+   "fa": "🇫🇷حکومت نظامی در شهر مارسی فرانسه به دنبال بالا گرفتن اعتراضات مردمی در فرانسه،فرماندار مارسی ممنوعیت هرگونه تجمع و تظاهرات در سراسر شهر از ساعت ۱۲ تا ۲۰ به وقت محلی در دوشنبه ۱۹ اکتبر ۲۰۲۶ را صادر کرد."
+  },
+  {
+   "t": 1792430927.0,
+   "n": "تصویری پربازدید و متفاوت از اعتراضات در میدان پلاس دو لا ناسیون پاریس",
+   "fa": "🇫🇷تصویری پربازدید و متفاوت از اعتراضات در میدان پلاس دو لا ناسیون پاریس"
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 150
+  "requests": 151
  },
- "flip": 1057,
+ "flip": 1059,
  "quote_n": 455,
  "signals": [
-  {
-   "t": 1792344376.0455172,
-   "s": 3,
-   "p": 50
-  },
-  {
-   "t": 1792344383.1494784,
-   "s": 4,
-   "p": 70
-  },
-  {
-   "t": 1792344392.3139575,
-   "s": 3,
-   "p": 50
-  },
   {
    "t": 1792344966.2757654,
    "s": 4,
@@ -1584,7 +1569,7 @@
  ],
  "risk": {
   "base": 100,
-  "ts": 1792426590.7141366,
+  "ts": 1792431100.8650913,
   "attack": true
  },
  "attack_ts": 1792426581.310724,
