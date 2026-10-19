@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108630
+   "last_id": 108631
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132161
+   "last_id": 132162
   },
   "TelNews_Magazine": {
-   "last_id": 101512
+   "last_id": 101513
   },
   "NE_WG": {
-   "last_id": 115024
+   "last_id": 115025
   }
  },
  "fails": {},
@@ -418,11 +418,6 @@
  },
  "recent": [
   {
-   "t": 1792423663.0,
-   "n": "israeli prime minister netanyahu the other thing that has changed is ai and quantum everything we re doing now is digital so you can paralyze a country you can paralyze the transportation system the health system the communication system everything is run digitally and if you have that superiority you can paralyze a country and bring it to its heels",
-   "fa": "🇮🇱⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: مسئله دیگر این است که هوش مصنوعی و کوانتوم تغییر کرده‌اند. هر کاری که اکنون انجام می‌دهیم دیجیتالی است. بنابراین شما می‌توانید یک کشور را فلج کنید. شما می‌توانید سیستم حمل‌ونقل، سیستم بهداشتی و سیستم ارتباطی را فلج کنید. همه چیز به صورت دیجیتالی اداره می‌شود. و اگر آن برتری را داشته باشید، می‌توانید یک کشور را فلج کنید و آن را به زانو درآورید."
-  },
-  {
    "t": 1792423794.0,
    "n": "israeli prime minister netanyahu we have the nuclear threat that s number one we have the drones we have ballistic missiles we have ai we have the rate of change in production of weaponry that is accelerating and we have to be there we have to be independent as much as we can arms independence energy independence so nobody can blackmail us",
    "fa": "🇮🇱⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: ما تهدید هسته‌ای را داریم. این شماره یک است. ما پهپادها را داریم. ما موشک‌های بالستیک را داریم. ما هوش مصنوعی را داریم. سرعت تغییر در تولید تسلیحات در حال شتاب گرفتن است. و ما باید در آنجا حضور داشته باشیم. ما باید تا حد امکان مستقل باشیم — استقلال تسلیحاتی، استقلال انرژی، تا هیچ‌کس نتواند ما را باج‌خواهی کند."
@@ -716,20 +711,20 @@
    "t": 1792437816.0,
    "n": "لاپید نخست وزیر پیشین اسرائیل نتانیاهو به جای اینکه ترامپ را برای حمله به ایران متقاعد کند به او التماس کرد تا در انتخابات از وی حمایت کند",
    "fa": "🇮🇱🇮🇷 لاپید، نخست وزیر پیشین اسرائیل: نتانیاهو به جای اینکه ترامپ را برای حمله به ایران متقاعد کند، به او التماس کرد تا در انتخابات از وی حمایت کند."
+  },
+  {
+   "t": 1792438015.0,
+   "n": "ترامپ ضربات بسیار سنگینی را از نظر اقتصادی و نظامی به ایران وارد می کنیم",
+   "fa": "🚨ترامپ: ضربات بسیار سنگینی را از نظر اقتصادی و نظامی به ایران وارد می‌کنیم"
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 174
+  "requests": 175
  },
  "flip": 1079,
- "quote_n": 465,
+ "quote_n": 466,
  "signals": [
-  {
-   "t": 1792351568.1821983,
-   "s": 3,
-   "p": 20
-  },
   {
    "t": 1792351883.803344,
    "s": 5,
@@ -1554,6 +1549,11 @@
    "t": 1792437987.9261525,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792438283.7653322,
+   "s": 5,
+   "p": 90
   }
  ],
  "risk": {
