@@ -7,7 +7,7 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132118
+   "last_id": 132119
   },
   "TelNews_Magazine": {
    "last_id": 101489
@@ -95,7 +95,8 @@
     "https://www.foxnews.com/world/4-canadian-soldiers-killed-dozens-injured-fast-moving-fire-erupts-military-base",
     "https://www.foxnews.com/world/strait-hormuz-crisis-traps-6000-sailors-attacks-ships-mount-un-maritime-chief-says",
     "https://www.foxnews.com/world/whos-who-inside-frances-chaos-inc-franchise-communist-groups-labor-unions-global-activists",
-    "https://www.foxnews.com/world/us-lawmakers-sound-alarm-violence-grips-nato-ally-albania-amid-anti-government-protests"
+    "https://www.foxnews.com/world/us-lawmakers-sound-alarm-violence-grips-nato-ally-albania-amid-anti-government-protests",
+    "https://www.foxnews.com/world/alberta-holds-non-binding-separation-vote-independence-fight-grips-canada"
    ]
   },
   "WSJ": {
@@ -707,7 +708,7 @@
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 113
+  "requests": 114
  },
  "flip": 1022,
  "quote_n": 441,
