@@ -16,9 +16,7 @@
    "last_id": 114931
   }
  },
- "fails": {
-  "web:Fox News/2605562269": 1
- },
+ "fails": {},
  "web": {
   "Fox News": {
    "seen": [
@@ -94,7 +92,8 @@
     "https://www.foxnews.com/world/french-newspaper-rips-macron-riots-erupt-across-france-indelible-stain",
     "https://www.foxnews.com/world/priest-killed-falling-crucifix-livestreamed-mass-worshippers-rush-help",
     "https://www.foxnews.com/world/saudi-arabia-edge-iconic-kingdom-centre-sends-workers-home-amid-houthi-attacks",
-    "https://www.foxnews.com/world/4-canadian-soldiers-killed-dozens-injured-fast-moving-fire-erupts-military-base"
+    "https://www.foxnews.com/world/4-canadian-soldiers-killed-dozens-injured-fast-moving-fire-erupts-military-base",
+    "https://www.foxnews.com/world/strait-hormuz-crisis-traps-6000-sailors-attacks-ships-mount-un-maritime-chief-says"
    ]
   },
   "WSJ": {
@@ -293,7 +292,8 @@
     "WP-WSJ-0003986105",
     "WP-WSJ-0003986160",
     "WP-WSJ-0003986262",
-    "WP-WSJ-0003985818"
+    "WP-WSJ-0003985818",
+    "WP-WSJ-0003986749"
    ]
   },
   "NYT": {
@@ -393,16 +393,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792349442.0,
-   "n": "حمزه صفوی جنگ سوم میان ایران و اسرائیل در فاصله زمانی بین انتخابات اسرائیل و آمریکا بین 5 تا 12 آبان است",
-   "fa": "🚨حمزه صفوی: جنگ سوم میان ایران و اسرائیل در فاصله زمانی بین انتخابات اسرائیل و آمریکا بین 5 تا 12 آبان است."
-  },
-  {
-   "t": 1792349480.0,
-   "n": "رئیس جمهور فرانسه مکرون افرادی که مرتکب غارت شده اند باید برای جنایات خود پاسخگو باشند افرادی که به ساختمان های دولتی حمله کرده اند باید برای جنایات خود پاسخگو باشند",
-   "fa": "🇫🇷 رئیس‌جمهور فرانسه، مکرون: 💢افرادی که مرتکب غارت شده‌اند، باید برای جنایات خود پاسخگو باشند. 💢افرادی که به ساختمان‌های دولتی حمله کرده‌اند، باید برای جنایات خود پاسخگو باشند."
-  },
   {
    "t": 1792349491.0,
    "n": "رئیس جمهور فرانسه مکرون ما نباید معترضان مسالمت آمیز را با غارتگران و اغتشاشگران اشتباه بگیریم زیرا افرادی هستند که به حق احساس می کنند که قیمت سوخت بیش از حد افزایش یافته است این موضوع به دلیل جنگ با ایران است",
@@ -692,14 +682,24 @@
    "t": 1792376585.0,
    "n": "u s navy nimitz class aircraft carrier uss theodore roosevelt has departed u s fleet activities yokosuka japan to continue its journey to u s central command s area of responsibility",
    "fa": "🇺🇸🇮🇷⚡️ — نا هواپیمابر کلاس نیمیتز نیروی دریایی ایالات متحده، «یو‌اس‌اس تئودور روزولت»، برای ادامه سفر خود به منطقه مسئولیت فرماندهی مرکزی ایالات متحده (سنتکام)، پایگاه فعالیت‌های ناوگان ایالات متحده در یوکوسوکای ژاپن را ترک کرد."
+  },
+  {
+   "t": 1792376600.0,
+   "n": "strait of hormuz crisis traps 6 000 sailors as attacks on ships mount un maritime chief says thousands of sailors remain stranded near the strait of hormuz amid escalating attacks on commercial ships the united nations top maritime official warned sunday after iran accused the u s military of using an international emergency radio channel to threaten civilian crews the warning also came amid repor",
+   "fa": "⭕️ حبس ۶ هزار ملوان در تنگه هرمز همزمان با افزایش حملات به کشتی‌ها و هشدار سازمان بین‌المللی دریانوردی به گزارش فاکس نیوز مقام ارشد دریایی سازمان ملل متحد روز یکشنبه هشدار داد که در پی تشدید حملات به کشتی‌های تجاری، هزاران ملوان همچنان در نزدیکی تنگه هرمز سرگردان و گرفتار مانده‌اند؛ این هشدار پس از آن مطرح شد که ایران ارتش ایالات متحده را متهم کرد که از یک کانال رادیویی اضطراری بین‌المللی برای تهد"
+  },
+  {
+   "t": 1792377000.0,
+   "n": "china s economy expanded 4 5 in third quarter powered by exports the growth of the chinese economy picked up pace in the third quarter although poor consumer confidence and property market woes continue to weigh",
+   "fa": "🔴 رشد ۴.۵ درصدی اقتصاد چین در سه ماهه سوم با تکیه بر صادرات به گزارش وال‌استریت ژورنال رشد اقتصاد چین در سه ماهه سوم شتاب گرفت، هرچند ضعف اعتماد مصرف‌کنندگان و مشکلات بازار مسکن همچنان بر آن سنگینی می‌کند."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 14
+  "requests": 16
  },
- "flip": 949,
- "quote_n": 402,
+ "flip": 951,
+ "quote_n": 403,
  "signals": [
   {
    "t": 1792293379.85735,
@@ -1540,6 +1540,11 @@
    "t": 1792376770.121054,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1792377386.2776597,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
