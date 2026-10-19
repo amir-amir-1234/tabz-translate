@@ -303,7 +303,8 @@
     "WP-WSJ-0003987299",
     "WP-WSJ-0003987938",
     "SB12199027810792643414104593516042305782824",
-    "WP-WSJ-0003988034"
+    "WP-WSJ-0003988034",
+    "WP-WSJ-0003983216"
    ]
   },
   "NYT": {
@@ -385,7 +386,8 @@
     "https://home.treasury.gov/news/press-releases/sb0659/",
     "https://home.treasury.gov/news/press-releases/sb0661/",
     "https://home.treasury.gov/news/press-releases/sb0660/",
-    "https://home.treasury.gov/news/press-releases/sb0662/"
+    "https://home.treasury.gov/news/press-releases/sb0662/",
+    "https://home.treasury.gov/news/press-releases/sb0663/"
    ]
   },
   "OFAC": {
@@ -410,11 +412,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792417322.0,
-   "n": "تصویری از ساختمان سوخته شهرداری لیموژ که توسط معترضین در آتش سوخت این بنای تاریخی از دو جنگ جهانی در امان ماند اما از اعتراضات فرانسه نه",
-   "fa": "⭕️ تصویری از ساختمان سوخته شهرداری لیموژ که توسط معترضین در آتش سوخت + این بنای تاریخی از دو جنگ جهانی در امان ماند اما از اعتراضات فرانسه نه"
-  },
   {
    "t": 1792417324.0,
    "n": "uzbekistan and the u s signed 54 agreements worth approximately 12 billion covering critical minerals energy transportation finance and technology during secretary of state marco rubio s visit to samarkand uzbekistan also became the 77th country to join nasa s artemis accords on space exploration",
@@ -709,25 +706,20 @@
    "t": 1792428638.0,
    "n": "پروفسور خوش چشم بچه زرنگ باشی میتونی میتونی مادر همه بمب هارو با دوش پرتاب بزنی",
    "fa": "⭕️پروفسور خوش چشم: بچه زرنگ باشی میتونی میتونی مادر همه بمب هارو با دوش پرتاب بزنی"
+  },
+  {
+   "t": 1792429980.0,
+   "n": "israel s front runners shun arab voters who could help them win election opinion polls suggest the election is deadlocked except for about a million arab voters whose backing comes with drawbacks in a polarized society",
+   "fa": "🔴 نامزدهای پیشتاز انتخابات اسرائیل از جلب آرای شهروندان عرب پرهیز می‌کنند به گزارش وال‌استریت ژورنال نظرسنجی‌ها حاکی از آن است که رقابت‌های انتخاباتی در بن‌بست قرار دارد، مگر برای حدود یک میلیون رای‌دهنده عرب که حمایت آن‌ها در یک جامعه دوقطبی با معایبی همراه است."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 145
+  "requests": 147
  },
- "flip": 1054,
- "quote_n": 453,
+ "flip": 1055,
+ "quote_n": 454,
  "signals": [
-  {
-   "t": 1792343479.056765,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1792343487.6978774,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1792344376.0455172,
    "s": 3,
