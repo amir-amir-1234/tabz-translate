@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108520
+   "last_id": 108524
   },
   "khabarfouri": {
    "last_id": 569949
@@ -390,11 +390,6 @@
  },
  "recent": [
   {
-   "t": 1792347545.0,
-   "n": "french president emmanuel macron those people who looted need to pay for their crimes those people who attacked government buildings need to pay for their crimes",
-   "fa": "🇫🇷⚡️ — رئیس‌جمهور فرانسه، امانوئل مکرون: کسانی که دست به غارت زدند باید به خاطر جرایم خود تاوان بدهند. کسانی که به ساختمان‌های دولتی حمله کردند باید به خاطر جرایم خود تاوان بدهند."
-  },
-  {
    "t": 1792347586.0,
    "n": "the two killed saudi pilots of the downed ah 6i helicopter were identified as ali ibrahim ali al talha and abdulaziz eid hersan al masradi",
    "fa": "🇾🇪❌🇸🇦 — دو خلبان کشته‌شده سعودی بالگرد سرنگون‌شده AH-6i به نام‌های علی ابراهیم علی الطلحه و عبدالعزیز عید هرسان المسردی شناسایی شدند."
@@ -688,11 +683,16 @@
    "t": 1792370715.0,
    "n": "saudi arabia on edge iconic kingdom centre sends workers home amid houthi attacks one of saudi arabia s most iconic skyscrapers ordered office workers to stay home sunday as escalating attacks by iran backed houthi rebels rattled the capital of riyadh amid fears of a widening middle east conflict the move came after the saudi led coalition said it intercepted two drones in the riyadh area a third ",
    "fa": "⭕️ دورکاری کارکنان برج المملکه ریاض در پی حملات پهپادی و موشکی حوثی‌ها به گزارش فاکس نیوز یکی از شاخص‌ترین آسمان‌خراش‌های عربستان سعودی روز یکشنبه به کارکنان اداری خود دستور داد در پی تشدید حملات شورشیان حوثی تحت حمایت ایران که پایتخت ریاض را در میان نگرانی از گسترش درگیری‌ها در خاورمیانه به لرزه درآورده است، در خانه بمانند. این اقدام پس از آن صورت گرفت که ائتلاف تحت رهبری عربستان اعلام کرد دو پهپ"
+  },
+  {
+   "t": 1792372244.0,
+   "n": "u s embassy kuwait u s embassy manama and u s embassy amman have issued security alerts warning americans in kuwait bahrain and jordan of a possible escalation of the saudi ansarallah war and that iran and iranian aligned groups may target u s interests",
+   "fa": "🇺🇸🇮🇷⚡️ — سفارت‌های ایالات متحده در کویت، منامه و امان با صدور هشدارهای امنیتی به آمریکایی‌ها در کویت، بحرین و اردن درباره احتمال تشدید جنگ عربستان و انصارالله و اینکه ایران و گروه‌های هم‌پیمان آن ممکن است منافع ایالات متحده را هدف قرار دهند، هشدار دادند."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 2
+  "requests": 3
  },
  "flip": 946,
  "quote_n": 399,
@@ -1511,11 +1511,16 @@
    "t": 1792371364.75108,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1792372576.758421,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
   "base": 100,
-  "ts": 1792366277.618071,
+  "ts": 1792372579.7627048,
   "attack": true
  },
  "attack_ts": 1792360274.4190998,
