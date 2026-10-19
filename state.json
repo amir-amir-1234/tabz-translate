@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108638
+   "last_id": 108639
   },
   "khabarfouri": {
    "last_id": 569949
@@ -420,11 +420,6 @@
  },
  "recent": [
   {
-   "t": 1792427764.0,
-   "n": "کانال ۱۴ اسراییل تندروها در ایران خواهان انجام حمله هستند اما بحث هایی در جریان است که آیا باید به اسرائیل حمله شود یا به تأسیسات نفتی در منطقه",
-   "fa": "🇮🇱🇮🇷 کانال ۱۴ اسراییل: تندروها در ایران خواهان انجام حمله هستند، اما بحث‌هایی در جریان است که آیا باید به اسرائیل حمله شود یا به تأسیسات نفتی در منطقه."
-  },
-  {
    "t": 1792427933.0,
    "n": "ansarallah announces conducting 6 military operations against ksa employimg ballistic missiles cruise missiles and uavs over the past 48 hours in response to over 200 airstrikes and missile strikes conducted by saudi forces against ansarallah controlled yemen over the past 48 hours that resulted in dozens of deaths most being women and children the following was targeted over 6 operations shaybah ",
    "fa": "🇾🇪❌🇸🇦 — انصارالله از انجام ۶ عملیات نظامی علیه عربستان سعودی با استفاده از موشک‌های بالستیک، کروز و پهپاد طی ۴۸ ساعت گذشته در پاسخ به بیش از ۲۰۰ حمله هوایی و موشکی نیروهای سعودی خبر داد که منجر به کشته شدن ده‌ها نفر عمدتاً زن و کودک شده است. اهداف زیر طی ۶ عملیات مورد اصابت قرار گرفتند: - میدان نفتی شیبه و تأسیسات آرامکو در ینبع - فرودگاه بین‌المللی ملک خالد، ریاض - تأسیسات راداری در کوه الحصن، کو"
@@ -718,25 +713,20 @@
    "t": 1792444778.0,
    "n": "fighter jet activity in southern iraq they entered through syrian airspace in recent days israeli air force and u s air force fighter jets have routinely violated iraqi airspace and maneuvered close to the iranian border this is likely an attempt to normalize such conditions to affect the readiness of iranian forces if when a new strike against iran occurs",
    "fa": "🇮🇶⚡️ — فعالیت جنگنده‌ها در جنوب عراق که از طریق حریم هوایی سوریه وارد شده‌اند. در روزهای اخیر، جنگنده‌های نیروی هوایی اسرائیل و نیروی هوایی ایالات متحده به طور معمول حریم هوایی عراق را نقض کرده و در نزدیکی مرز ایران مانور داده‌اند. این احتمالاً تلاشی برای عادی‌سازی چنین شرایطی است تا آمادگی نیروهای ایرانی در صورت وقوع یا عدم وقوع حمله جدید به ایران را تحت تأثیر قرار دهد."
+  },
+  {
+   "t": 1792445115.0,
+   "n": "fighter jet activity in northern iraq salah al din governorate",
+   "fa": "🇮🇶⚡️ — فعالیت جنگنده‌ها در شمال عراق. استان صلاح‌الدین."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 197
+  "requests": 198
  },
  "flip": 1096,
- "quote_n": 472,
+ "quote_n": 473,
  "signals": [
-  {
-   "t": 1792358472.3891027,
-   "s": 3,
-   "p": 30
-  },
-  {
-   "t": 1792358475.763278,
-   "s": 5,
-   "p": 90
-  },
   {
    "t": 1792358765.9670389,
    "s": 5,
@@ -1521,6 +1511,11 @@
    "t": 1792444915.8071384,
    "s": 5,
    "p": 85
+  },
+  {
+   "t": 1792445166.8586512,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
