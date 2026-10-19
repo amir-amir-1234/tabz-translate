@@ -10,7 +10,7 @@
    "last_id": 132154
   },
   "TelNews_Magazine": {
-   "last_id": 101508
+   "last_id": 101509
   },
   "NE_WG": {
    "last_id": 115016
@@ -415,11 +415,6 @@
  },
  "recent": [
   {
-   "t": 1792419676.233725,
-   "n": "protecting american intellectual property act of 2022 paipa designations issuance of associated general licenses the department of the treasury s office of foreign assets control ofac is issuing protecting american intellectual property act of 2022 paipa general license 1 transactions authorized pursuant to the cyber related sanctions regulations and protecting american intellectual property act o",
-   "fa": "🚨 صدور مجوزهای عمومی جدید و اعمال تحریم‌های مرتبط با قانون حفاظت از مالکیت فکری آمریکا توسط اوفک به گزارش دفتر کنترل دارایی‌های خارجی آمریکا (اوفک)، وزارت خزانه‌داری ایالات متحده در حال صدور مجوز عمومی شماره ۱ قانون حفاظت از مالکیت فکری آمریکا مصوب سال ۲۰۲۲ تحت عنوان «معاملات مجاز طبق مقررات تحریم‌های مرتبط با سایبری» و مجوز عمومی شماره ۲ همین قانون با عنوان «مجوز توقف تدریجی معاملات مربوط به برخی"
-  },
-  {
    "t": 1792420201.0,
    "n": "ترامپ مهاجران کنترل فرانسه را در دست گرفته اند",
    "fa": "🇫🇷🇺🇸ترامپ: مهاجران کنترل فرانسه را در دست گرفته‌اند!"
@@ -713,14 +708,19 @@
    "t": 1792433400.0,
    "n": "opinion obama s dangerous mideast words his distortions of jewish history appear carefully considered which compounds the wound",
    "fa": "⭕️ انتقاد از اظهارات خطرناک اوباما درباره خاورمیانه و تاریخ یهودیان به گزارش وال‌استریت ژورنال، تحریف‌های باراک اوباما از تاریخ یهودیان کاملاً حساب‌شده به نظر می‌رسد و همین امر صدمه را دوچندان می‌کند."
+  },
+  {
+   "t": 1792433905.0,
+   "n": "پزشکیان معتقدیم استقرار پایگاه های نظامی آمریکا در کشورهای منطقه جز افزایش تنش ها و تشدید اختلافات و بی ثباتی و ناامنی هیچ ثمر و فایده برای منطقه نداشته و نخواهد داشت",
+   "fa": "⭕️پزشکیان : معتقدیم استقرار پایگاه‌های نظامی آمریکا در کشورهای منطقه ، جز افزایش تنش‌ها و تشدید اختلافات و بی‌ثباتی و ناامنی هیچ ثمر و فایده برای منطقه نداشته و نخواهد داشت."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 160
+  "requests": 161
  },
- "flip": 1066,
- "quote_n": 458,
+ "flip": 1067,
+ "quote_n": 459,
  "signals": [
   {
    "t": 1792347676.3358226,
@@ -1556,6 +1556,11 @@
    "t": 1792433786.6377947,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792434075.9606037,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
