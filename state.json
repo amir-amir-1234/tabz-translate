@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108560
+   "last_id": 108561
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,7 +10,7 @@
    "last_id": 132099
   },
   "TelNews_Magazine": {
-   "last_id": 101476
+   "last_id": 101477
   },
   "NE_WG": {
    "last_id": 114966
@@ -401,11 +401,6 @@
  },
  "recent": [
   {
-   "t": 1792376585.0,
-   "n": "u s navy nimitz class aircraft carrier uss theodore roosevelt has departed u s fleet activities yokosuka japan to continue its journey to u s central command s area of responsibility",
-   "fa": "🇺🇸🇮🇷⚡️ — نا هواپیمابر کلاس نیمیتز نیروی دریایی ایالات متحده، «یو‌اس‌اس تئودور روزولت»، برای ادامه سفر خود به منطقه مسئولیت فرماندهی مرکزی ایالات متحده (سنتکام)، پایگاه فعالیت‌های ناوگان ایالات متحده در یوکوسوکای ژاپن را ترک کرد."
-  },
-  {
    "t": 1792376600.0,
    "n": "strait of hormuz crisis traps 6 000 sailors as attacks on ships mount un maritime chief says thousands of sailors remain stranded near the strait of hormuz amid escalating attacks on commercial ships the united nations top maritime official warned sunday after iran accused the u s military of using an international emergency radio channel to threaten civilian crews the warning also came amid repor",
    "fa": "⭕️ حبس ۶ هزار ملوان در تنگه هرمز همزمان با افزایش حملات به کشتی‌ها و هشدار سازمان بین‌المللی دریانوردی به گزارش فاکس نیوز مقام ارشد دریایی سازمان ملل متحد روز یکشنبه هشدار داد که در پی تشدید حملات به کشتی‌های تجاری، هزاران ملوان همچنان در نزدیکی تنگه هرمز سرگردان و گرفتار مانده‌اند؛ این هشدار پس از آن مطرح شد که ایران ارتش ایالات متحده را متهم کرد که از یک کانال رادیویی اضطراری بین‌المللی برای تهد"
@@ -699,20 +694,20 @@
    "t": 1792408781.0,
    "n": "french prime minister sébastien lecornu accused far left groups of attempting to destabilize france through organized unrest warning that intelligence services had identified networks seeking to disrupt or prevent the upcoming presidential election lecornu said the government had ordered partial curfews in several areas to protect residents businesses and property declaring we cannot allow violent",
    "fa": "🇫🇷⚡️ — سباستین لکورنو، نخست‌وزیر فرانسه، گروه‌های چپ افراطی را به تلاش برای بی‌ثبات‌سازی فرانسه از طریق ناآرامی‌های سازمان‌یافته متهم کرد و هشدار داد که سرویس‌های اطلاعاتی شبکه‌هایی را شناسایی کرده‌اند که به دنبال اختلال یا جلوگیری the انتخابات ریاست‌جمهوری پیش رو هستند. لکورنو گفت دولت برای محافظت از ساکنان، کسب‌وکارها و اموال، دستور برقراری منع آمدوشد جزئی را در چندین منطقه صادر کرده and اعلام ک"
+  },
+  {
+   "t": 1792408856.0,
+   "n": "french prime minister sébastien lecornu says nearly 80 of arrests made during the recent riots are resulting in judicial proceedings with two thirds of those detained being adults almost all of them men and many already known to police",
+   "fa": "🇫🇷⚡️ — سباستین لکورنو، نخست‌وزیر فرانسه، می‌گوید نزدیک به ۸۰ درصد از دستگیری‌های انجام‌شده در جریان شورش‌های اخیر منجر به پیگرد قضایی شده است که دو سوم بازداشت‌شدگان بزرگسال، تقریباً همه مرد و بسیاری از آن‌ها از قبل برای پلیس شناخته شده بودند."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 81
+  "requests": 82
  },
- "flip": 995,
- "quote_n": 418,
+ "flip": 996,
+ "quote_n": 419,
  "signals": [
-  {
-   "t": 1792322475.275526,
-   "s": 2,
-   "p": 50
-  },
   {
    "t": 1792323087.0879562,
    "s": 3,
