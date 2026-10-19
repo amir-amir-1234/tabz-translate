@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108575
+   "last_id": 108576
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 101485
   },
   "NE_WG": {
-   "last_id": 114981
+   "last_id": 114983
   }
  },
  "fails": {},
@@ -403,11 +403,6 @@
  },
  "recent": [
   {
-   "t": 1792402200.0,
-   "n": "china s export boom masks deep economic problems at home even as china makes strides in areas such as ai much of its domestic economy is dragged down by gloomy consumer sentiment and a real estate slump",
-   "fa": "⭕️ رونق صادرات چین مشکلات عمیق اقتصادی در داخل این کشور را پنهان کرده است به گزارش وال‌استریت ژورنال با وجود اینکه چین در حوزه‌هایی مانند هوش مصنوعی پیشرفت‌هایی داشته است، بخش عمده‌ای از اقتصاد داخلی این کشور تحت تأثیر فضای تیره مصرف‌کنندگان و رکود بازار مسکن به پایین کشیده می‌شود."
-  },
-  {
    "t": 1792402304.0,
    "n": "secretary of state marco rubio months ago we have seen strikes on energy vessels in the black sea and there s been complaints a lot because we have american companies calling us and saying hey that was our oil on that ship that was hit by ukraine now i don t believe ukraine intentionally targeted them but those ships got hit and we already have a world that is facing an energy crisis because of wh",
    "fa": "🇺🇸🇺🇦🇷🇺⚡️ — مارکو روبیو، وزیر امور خارجه آمریکا: ماه ها پیش، شاهد حملات به کشتی های انرژی در دریای سیاه بوده ایم. و شکایت های زیادی وجود داشته است، زیرا شرکت های آمریکایی با ما تماس می گیرند و می گویند: «هی، این نفت ما بود روی آن کشتی که توسط اوکراین مورد اصابت قرار گرفت.» حالا، من باور ندارم که اوکراین عمداً آنها را هدف قرار داده باشد، اما آن کشتی ها مورد اصابت قرار گرفتند. و ما از قبل با جهانی رو"
@@ -701,14 +696,19 @@
    "t": 1792417442.0,
    "n": "the houthis ansarallah say their forces struck saudi troop concentrations at the al alam camp in yemen s shabwa governorate killing and wounding dozens of personnel including officers the group warned fighters against joining saudi backed forces accusing riyadh of using financial incentives to recruit personnel and treating them as expendable rather than risking its own soldiers",
    "fa": "🇾🇪❌🇾🇪🇸🇦 — حوثی‌ها (انصارالله) اعلام کردند نیروهایشان تجمع نظامیان سعودی را در اردوگاه «العلم» در استان شبوه یمن هدف قرار داده‌اند که بر اثر آن ده‌ها نفر از جمله چند افسر کشته و زخمی شدند. این گروه به جنگجویان درباره پیوستن به نیروهای تحت حمایت عربستان هشدار داد و ریاض را متهم کرد که از انگیزه‌های مالی برای جذب نیرو استفاده می‌کند و با آن‌ها به گونه‌ای رفتار می‌کند که انگار مصرف‌شدنی هستند، به جای "
+  },
+  {
+   "t": 1792417831.0,
+   "n": "the houthis ansarallah announces striking 6 concentrations of saudi enemy forces likely referring to plc forces in al suqya and ras al ara bab el mandeb front with 6 ballistic missiles claiming dozens of casualties and destruction of several military vehicles",
+   "fa": "🇾🇪❌🇾🇪🇸🇦 — حوثی‌ها (انصارالله) اعلام کردند که ۶ تجمع «ن نیروهای دشمن سعودی» [احتمالاً اشاره به نیروهای شورای رهبری ریاست‌جمهوری] در جبهه باب‌المندب در راس‌العرا و السقیا را با ۶ فروند موشک بالستیک هدف قرار داده و مدعی تلفات دهشتناک و انحراف چندین خودروی نظامی شدند."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 105
+  "requests": 106
  },
  "flip": 1014,
- "quote_n": 434,
+ "quote_n": 435,
  "signals": [
   {
    "t": 1792331776.2508848,
@@ -1584,6 +1584,11 @@
    "t": 1792417586.7435744,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1792418111.0466237,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
