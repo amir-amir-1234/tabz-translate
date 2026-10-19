@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108641
+   "last_id": 108643
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132194
+   "last_id": 132197
   },
   "TelNews_Magazine": {
    "last_id": 101527
   },
   "NE_WG": {
-   "last_id": 115050
+   "last_id": 115052
   }
  },
  "fails": {},
@@ -97,7 +97,8 @@
     "https://www.foxnews.com/world/whos-who-inside-frances-chaos-inc-franchise-communist-groups-labor-unions-global-activists",
     "https://www.foxnews.com/world/us-lawmakers-sound-alarm-violence-grips-nato-ally-albania-amid-anti-government-protests",
     "https://www.foxnews.com/world/alberta-holds-non-binding-separation-vote-independence-fight-grips-canada",
-    "https://www.foxnews.com/world/hungary-poland-defend-tough-migration-policies-france-reels-from-violent-unrest"
+    "https://www.foxnews.com/world/hungary-poland-defend-tough-migration-policies-france-reels-from-violent-unrest",
+    "https://www.foxnews.com/world/beleaguered-macron-cites-us-iran-war-factor-protests-amid-trump-vance-criticism"
    ]
   },
   "WSJ": {
@@ -421,16 +422,6 @@
  },
  "recent": [
   {
-   "t": 1792430927.0,
-   "n": "تصویری پربازدید و متفاوت از اعتراضات در میدان پلاس دو لا ناسیون پاریس",
-   "fa": "🇫🇷تصویری پربازدید و متفاوت از اعتراضات در میدان پلاس دو لا ناسیون پاریس"
-  },
-  {
-   "t": 1792431143.0,
-   "n": "بعد از انتشار گزارشات غیررسمی درباره حمله آمریکا به یک پایگاه نیروی دریایی ایران قیمت نفت برنت ۱۱۰ دلار شد",
-   "fa": "🚨بعد از انتشار گزارشات غیررسمی درباره حمله آمریکا به یک پایگاه نیروی دریایی ایران، قیمت نفت برنت ۱۱۰ دلار شد"
-  },
-  {
    "t": 1792431181.0,
    "n": "نتانیاهو حماس اکنون در خیابان های پاریس حضور دارد",
    "fa": "🇮🇱🇫🇷🇵🇸نتانیاهو: حماس اکنون در خیابان‌های پاریس حضور دارد!"
@@ -719,13 +710,23 @@
    "t": 1792447182.0,
    "n": "گزارش های اولیه تایید نشده حاکی از سرنگونی یک پهپاد در حریم هوایی ایران است",
    "fa": "🚨گزارش های اولیه تایید نشده حاکی از سرنگونی یک پهپاد در حریم هوایی ایران است!"
+  },
+  {
+   "t": 1792447378.0,
+   "n": "beleaguered macron cites us iran war as factor in protests amid trump vance criticism the embattled french president emmanuel macron on sunday pinned some of the blame on the u s war against the terrorist regime in iran for the widespread riots and looting unfolding across france the controversial passage referring to the iran war from his televised speech triggered criticism from some experts mac",
+   "fa": "⭕️ امانوئل مکرون جنگ آمریکا و ایران را عاملی در ناآرامی‌های فرانسه خواند و با انتقادات ترامپ و ونس روبه‌رو شد به گزارش فاکس نیوز امانوئل مکرون، رئیس‌جمهور تحت فشار فرانسه، روز یکشنبه بخشی از ملامت ناآرامی‌ها و غارت‌های گسترده در سراسر فرانسه را متوجه جنگ ایالات متحده علیه رژیم تروریستی در ایران کرد. بخش جنجالی سخنرانی تلویزیونی مکرون که به جنگ ایران اشاره داشت، انتقاد برخی کارشناسان را برانگیخت. م"
+  },
+  {
+   "t": 1792447525.0,
+   "n": "president trump putin is laying off iran that s nice because we re hitting iran very hard as you know economically as well as militarily russia has done nothing in iran that we can see and i think that s very positive we re negotiating with putin on ukraine so i m not looking to break up negotiations right in the middle",
+   "fa": "🇺🇸🇺🇦🇷🇺🇮🇷⚡️ — رئیس‌جمهور ترامپ: پوتین دست از حمایت ایران برداشته است. این خوب است چون همان‌طور که می‌دانید ما از نظر اقتصادی و نظامی فشار سختی به ایران می‌آوریم. روسیه کاری در ایران انجام نداده که ما بتوانیم ببینیم، و من فکر می‌کنم این بسیار مثبت است. ما در حال مذاکره با پوتین درباره اوکراین هستیم، بنابراین قصد نداریم مذاکرات را درست در میانه راه متوقف کنیم."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 207
+  "requests": 209
  },
- "flip": 1099,
+ "flip": 1100,
  "quote_n": 476,
  "signals": [
   {
@@ -1502,6 +1503,16 @@
    "t": 1792447299.0620482,
    "s": 5,
    "p": 90
+  },
+  {
+   "t": 1792447931.1580107,
+   "s": 4,
+   "p": 60
+  },
+  {
+   "t": 1792447938.3038177,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
