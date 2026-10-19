@@ -350,7 +350,8 @@
     "https://www.nytimes.com/2026/10/17/world/middleeast/egypt-president-el-sisi-term-limits-2030.html",
     "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
     "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html",
-    "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html"
+    "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html",
+    "https://www.nytimes.com/2026/10/19/world/middleeast/jews-dubai-fear.html"
    ]
   },
   "Treasury": {
@@ -655,25 +656,20 @@
    "t": 1792400066.0,
    "n": "روبیو اگر ایران وجود نداشت رسیدگی به مسئله فلسطین آسان تر بود مارکو روبیو وزیر امور خارجه آمریکا درباره ایران و مسئله فلسطین گفت اگر روحانیون شیعه تندرو در ایران وجود نداشتند اگر چنین چیزی نبود هیچ یک از این مشکلات هم وجود نداشت ممکن بود همچنان مسئله فلسطین مطرح باشد اما من معتقدم اگر ایران وجود نداشت رسیدگی به این مسئله آسان تر بود",
    "fa": "🇺🇸🇮🇷🇵🇸 روبیو: اگر ایران وجود نداشت، رسیدگی به مسئله فلسطین آسان‌تر بود 🔴مارکو روبیو، وزیر امور خارجه آمریکا، درباره ایران و مسئله فلسطین گفت: 💢اگر روحانیون شیعه تندرو در ایران وجود نداشتند، اگر چنین چیزی نبود، هیچ‌یک از این مشکلات هم وجود نداشت. 💢ممکن بود همچنان مسئله فلسطین مطرح باشد؛ اما من معتقدم اگر ایران وجود نداشت، رسیدگی به این مسئله آسان‌تر بود."
+  },
+  {
+   "t": 1792400323.0,
+   "n": "for israelis and jews in the u a e an eroding sense of security the emirates reputation as a haven was shaken by what the authorities said was a plot last month aimed at crashing a flight from dubai to tel aviv",
+   "fa": "⭕️ کاهش احساس امنیت میان اسرائیلی‌ها و یهودیان در امارات متحده عربی به گزارش نیویورک تایمز شهرت امارات به عنوان یک پناهگاه امن، پس از افشای توطئه‌ای در ماه گذشته که به گفته مقامات هدف آن سقوط یک پرواز از دبی به تل‌آویو بود، متزلزل شد."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 45
+  "requests": 47
  },
- "flip": 965,
- "quote_n": 409,
+ "flip": 966,
+ "quote_n": 410,
  "signals": [
-  {
-   "t": 1792313770.1444833,
-   "s": 4,
-   "p": 50
-  },
-  {
-   "t": 1792313776.4715009,
-   "s": 5,
-   "p": 75
-  },
   {
    "t": 1792314363.2219722,
    "s": 4,
@@ -1458,6 +1454,11 @@
    "t": 1792400173.943252,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1792400491.116033,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
