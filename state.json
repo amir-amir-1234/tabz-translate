@@ -10,10 +10,10 @@
    "last_id": 132156
   },
   "TelNews_Magazine": {
-   "last_id": 101509
+   "last_id": 101510
   },
   "NE_WG": {
-   "last_id": 115018
+   "last_id": 115019
   }
  },
  "fails": {},
@@ -306,7 +306,8 @@
     "WP-WSJ-0003988034",
     "WP-WSJ-0003983216",
     "WP-WSJ-0003988146",
-    "SB10222543145185073693004593516203075758738"
+    "SB10222543145185073693004593516203075758738",
+    "WP-WSJ-0003987672"
    ]
   },
   "NYT": {
@@ -414,11 +415,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792420843.0,
-   "n": "ukrainian president zelensky ukraine s minister of defense minister of foreign affairs and the presidential office team received urgent assignments regarding contacts with partners who can provide additional support for our air defenses as quickly as possible there are political agreements that have not been implemented at the working level there are also delays in certain types of vital supplies ",
-   "fa": "🇺🇦🇺🇸⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: تیم‌های وزارت دفاع، وزارت امور خارجه و دفتر ریاست‌جمهوری اوکراین مأموریت‌های فوری در خصوص تماس با شرکایی که می‌توانند در کوتاه‌ترین زمان ممکن پشتیبانی اضافی برای پدافند هوایی ما فراهم کنند، دریافت کردند. توافق‌نامه‌های سیاسی وجود دارد که در سطح اجرایی عملیاتی نشده‌اند. همچنین در برخی از انواع تسلیحات حیاتی در سطح وزارت جنگ ایالات متحده تاخیرهایی وجود د"
-  },
   {
    "t": 1792420907.0,
    "n": "ukrainian president zelensky on starshield unfortunately we are recording cases across different sections of the front where the equipment stops functioning at speeds of 130 161 kilometers per hour this is slowing down our frontline logistics and limiting the use of various types of drones primarily mid strike drones and interceptors designed to counter jet powered shaheds today this issue must on",
@@ -713,14 +709,19 @@
    "t": 1792434586.0,
    "n": "u s official to cnn denies reports that u s forces struck konorak naval base iran",
    "fa": "🔄 به‌روزرسانی 🇺🇸🇮🇷⚡️ — یک مقام ایالات متحده به سی‌ان‌ان گزارش‌ها مبنی بر حمله نیروهای آمریکایی به پایگاه دریایی کنارک در ایران را تکذیب کرد."
+  },
+  {
+   "t": 1792434780.0,
+   "n": "young protesters are putting india s modi on the defensive narendra modi s government has a reputation for being heavy handed toward dissent but its tactics in recent days have been met with a mix of wit and defiance by young protesters",
+   "fa": "⭕️ واکنش طنزآمیز و متمردانه جوانان معترض به سرکوب‌گری دولت نارندرا مودی در هند به گزارش وال‌استریت ژورنال دولت نارندرا مودی به داشتن رویکردی سخت‌گیرانه در قبال مخالفت‌ها شهرت دارد، اما تاکتیک‌های آن در روزهای اخیر با واکنشی آمیخته به شوخ‌طبعی و سرپیچی از سوی معترضان جوان روبه‌رو شده است."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 163
+  "requests": 165
  },
- "flip": 1069,
- "quote_n": 459,
+ "flip": 1070,
+ "quote_n": 460,
  "signals": [
   {
    "t": 1792349178.2845497,
