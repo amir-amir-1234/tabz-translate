@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108552
+   "last_id": 108553
   },
   "khabarfouri": {
    "last_id": 569949
@@ -687,13 +687,18 @@
    "t": 1792403950.0,
    "n": "israeli prime minister netanyahu we have the readiness determination and capability to strike our enemies whenever necessary i am telling our enemies do not test us you will suffer even heavier blows than those you have endured so far",
    "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل، بنیامین نتانیاهو: ما آمادگی، عزم و توانایی لازم را داریم تا در صورت لزوم به دشمنان خود ضربه بزنیم. من به دشمنانمان می‌گویم: ما را امتحان نکنید. شما ضرباتی حتی سنگین‌تر از آنچه تاکنون متحمل شده‌اید، متحمل خواهید شد."
+  },
+  {
+   "t": 1792404250.0,
+   "n": "president trump s approval ratings have fallen to new lows ahead of the november midterm elections creating difficulties for republican candidates seeking to retain maga support while appealing to independent voters new polls from washington post abc ipsos nbc news and fox news place trump s approval at 33 34 and 36 respectively while democrats lead republicans by 8 10 points among registered vote",
+   "fa": "🇺🇸⚡️ — محبوبیت دونالد ترامپ، رئیس‌جمهور آمریکا، در آستانه انتخابات میان‌دوره‌ای ماه نوامبر به سطوح پایین جدیدی سقوط کرده و چالش‌هایی را برای نامزدهای جمهوری‌خواه ایجاد کرده است که تلاش می‌کنند ضمن حفظ حمایت حامیان مگا، نظر رای‌دهندگان مستقل را نیز جلب کنند. نظرسنجی‌های جدید واشنگتن پست-ای‌بی‌سی-ایپسوس، ان‌بی‌سی نیوز و فاکس نیوز میزان محبوبیت ترامپ را به ترتیب ۳۳، ۳۴ و ۳۶ درصد نشان می‌دهند، در حالی"
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 67
+  "requests": 68
  },
- "flip": 985,
+ "flip": 986,
  "quote_n": 415,
  "signals": [
   {
