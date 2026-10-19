@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132169
+   "last_id": 132170
   },
   "TelNews_Magazine": {
-   "last_id": 101515
+   "last_id": 101516
   },
   "NE_WG": {
-   "last_id": 115031
+   "last_id": 115032
   }
  },
  "fails": {},
@@ -419,16 +419,6 @@
  },
  "recent": [
   {
-   "t": 1792424640.0,
-   "n": "israeli prime minister netanyahu macron called me on october 7 he said you know we have to work for an immediate ceasefire and to solve this by diplomacy and i said no no emmanuel it s not going to be solved by diplomacy these are monsters these are neo nazis i said you know hamas is like isis in fact it s worse in some respects than isis even worse than isis and let me tell you if we don t stop h",
-   "fa": "🇮🇱🇫🇷🇵🇸⚡️ — نخست‌وزیر اسرائیل نتانیاهو: مکرون در ۷ اکتبر با من تماس گرفت. او گفت: «می‌دانی، ما باید برای آتش‌بس فوری و حل این مسئله از طریق دیپلماسی تلاش کنیم.» و من گفتم: «نه، نه، امانوئل. این موضوع با دیپلماسی حل نخواهد شد. این‌ها هیولا هستند. این‌ها نئوستیزی هستند.» من گفتم: «می‌دانی، حماس مانند داعش است. در واقع، از برخی جهات حتی از داعش هم بدتر است، حتی بدتر از داعش. و بگذار به تو بگویم، اگر م"
-  },
-  {
-   "t": 1792424718.0,
-   "n": "channel 14 do you think emmanuel macron has learned his lesson today seeing what s happening in france netanyahu well i think the french people see what s happening in the streets of france and probably will as it looks like it could foster a change in the political makeup of france",
-   "fa": "🇮🇱🇫🇷⚡️ — شبکه ۱۴ اسرائیل: آیا فکر می‌کنید امانوئل مکرون امروز با دیدن آنچه در فرانسه اتفاق می‌افتد، درس عبرت گرفته است؟ نتانیاهو: خب، من فکر می‌کنم مردم فرانسه آنچه را که در خیابان‌های فرانسه اتفاق می‌افتد می‌بینند و احتمالاً، همان‌طور که به نظر می‌رسد، می‌تواند تغییری در ترکیب سیاسی فرانسه ایجاد کند."
-  },
-  {
    "t": 1792424794.0,
    "n": "channel 14 if a right wing government comes to power in france do you see relations with israel improving netanyahu i certainly do because they understand that they re under threat it s the common enemy that creates common interests",
    "fa": "🇮🇱🇫🇷⚡️ — شبکه ۱۴ اسرائیل: اگر یک دولت راست‌گرا در فرانسه به قدرت برسد، آیا روابط با اسرائیل را رو به بهبود می‌بینید؟ نتانیاهو: قطعا همین طور است. زیرا آن‌ها می‌فهمند که در معرض تهدید هستند. این دشمن مشترک است که منافع مشترک ایجاد می‌کند."
@@ -717,20 +707,25 @@
    "t": 1792440332.0,
    "n": "ترامپ نمی دونم چه کسی دستور قطع استارلینک در اوکراین رو داد اما دوست دارم بفهمم",
    "fa": "🇺🇸🇺🇦‏ترامپ: نمی‌دونم چه کسی دستور قطع استارلینک در اوکراین رو داد، اما دوست دارم بفهمم!🤔"
+  },
+  {
+   "t": 1792440736.0,
+   "n": "خبرنگار مکرون جنگ ایران رو مقصر می دونه و تو رو هم مسئول ناآرامی هاییه که همین الان در فرانسه جریان داره ترامپ این خبر جعلیه شما خبرنگار کدوم رسانه اید خبرنگار دیلی وایر ترامپ دیلی وایر رسانه خوبیه ببخشید",
+   "fa": "⭕️خبرنگار: مکرون جنگ ایران رو مقصر می‌دونه و تو رو هم مسئول ناآرامی‌هاییه که همین الان در فرانسه جریان داره. ترامپ: این خبر جعلیه. شما خبرنگار کدوم رسانه‌اید؟ خبرنگار: دیلی وایر. ترامپ: دیلی وایر رسانه خوبیه. ببخشید!"
+  },
+  {
+   "t": 1792440841.0,
+   "n": "ترامپ درباره فرانسه آنها فرانسه را نابود کرده اند بازگرداندن آن به حالت قبل کار دشواری خواهد بود امیدوارم فرانسه دوباره احیا شود",
+   "fa": "🇺🇸🇫🇷 ترامپ درباره فرانسه: 💢آنها فرانسه را نابود کرده‌اند. بازگرداندن آن به حالت قبل کار دشواری خواهد بود. 💢امیدوارم فرانسه دوباره احیا شود."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 180
+  "requests": 181
  },
- "flip": 1087,
+ "flip": 1089,
  "quote_n": 468,
  "signals": [
-  {
-   "t": 1792354282.0160837,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1792354575.31097,
    "s": 2,
@@ -1540,6 +1535,11 @@
    "t": 1792439768.5025806,
    "s": 4,
    "p": 50
+  },
+  {
+   "t": 1792440977.722086,
+   "s": 4,
+   "p": 40
   }
  ],
  "risk": {
