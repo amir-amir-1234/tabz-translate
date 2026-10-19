@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132103
+   "last_id": 132104
   },
   "TelNews_Magazine": {
-   "last_id": 101479
+   "last_id": 101480
   },
   "NE_WG": {
-   "last_id": 114970
+   "last_id": 114971
   }
  },
  "fails": {},
@@ -355,7 +355,8 @@
     "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html",
     "https://www.nytimes.com/2026/10/19/world/middleeast/jews-dubai-fear.html",
     "https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html",
-    "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html"
+    "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html",
+    "https://www.nytimes.com/2026/10/19/world/middleeast/trump-netanyahu-endorsement-election.html"
    ]
   },
   "Treasury": {
@@ -401,21 +402,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792393681.0,
-   "n": "ارتش اسرائیل در بیانیه ای اعلام کرد تحت فرماندهی جنوب 3 فرمانده ارشد حماس که در طرح های خرابکارانه علیه نیروهای نظامی و شهروندان اسرائیلی نقش داشتند را ترور کرده است",
-   "fa": "⭕️ارتش اسرائیل در بیانیه‌ای اعلام کرد تحت فرماندهی جنوب، 3 فرمانده ارشد حماس که در طرح‌های خرابکارانه علیه نیروهای نظامی و شهروندان اسرائیلی نقش داشتند را ترور کرده است."
-  },
-  {
-   "t": 1792394087.0,
-   "n": "حملات موشکی دیشب روسیه به پایتخت اوکراین",
-   "fa": "🎥حملات موشکی دیشب روسیه به پایتخت اوکراین"
-  },
-  {
-   "t": 1792395409.0,
-   "n": "وزیر انرژی آمریکا جریان نفت از خلیج فارس به ۸۰ درصد سطح پیش از جنگ بازگشته است",
-   "fa": "⭕️وزیر انرژی آمریکا: جریان نفت از خلیج فارس به ۸۰ درصد سطح پیش از جنگ بازگشته است."
-  },
   {
    "t": 1792395720.0,
    "n": "oil prices fall as traders weigh russia sanctions waiver middle east risks oil prices fell monday pulling back after friday s gains as traders weighed a u s decision to waive newly imposed sanctions on russia against persistent middle east supply risks",
@@ -700,14 +686,29 @@
    "t": 1792411655.0,
    "n": "israeli police detain 10 over violent settler attacks in west bank israel has faced pressure including from the united states to investigate the attacks rights group say most probes into extremist assaults on palestinians go nowhere",
    "fa": "🔴 بازداشت ۱۰ نفر توسط پلیس اسرائیل در پی حملات شهرک‌نشینان در کرانه باختری به گزارش نیویورک تایمز اسرائیل با فشارهایی، از جمله از سوی ایالات متحده، برای تحقیق درباره این حملات مواجه شده است. گروه‌های حقوق بشری می‌گویند بیشتر تحقیقات درباره حملات افراطیون به فلسطینی‌ها به جایی نمی‌رسد."
+  },
+  {
+   "t": 1792412331.0,
+   "n": "will trump s endorsement of netanyahu fire up his campaign or fizzle president trump said benjamin netanyahu was a great warrior as he faces a tough re election bid for prime minister but the trump brand is not what it once was in israel analysts say",
+   "fa": "⭕️ واکنش‌ها به حمایت ترامپ از نتانیاهو در رقابت‌های انتخاباتی اسرائیل به گزارش نیویورک تایمز رئیس‌جمهور ترامپ گفت بنیامین نتانیاهو یک «جنگجوی بزرگ» است، در حالی که او با یک رقابت انتخاباتی دشوار برای تصدی سمت نخست‌وزیری مواجه است. اما تحلیلگران می‌گویند برند ترامپ دیگر آن چیزی نیست که پیش‌تر در اسرائیل بود."
+  },
+  {
+   "t": 1792412429.0,
+   "n": "عراقچی خطاب به مکرون رئیس جمهور فرانسه مردم فرانسه خواهان تغییرات اساسی هستن از جمله اینکه بتونن آزادانه تجمع و اعتراض کنن",
+   "fa": "⭕️عراقچی خطاب به مکرون، رئیس‌جمهور فرانسه: مردم فرانسه خواهان تغییرات اساسی هستن؛ از جمله اینکه بتونن آزادانه تجمع و اعتراض کنن."
+  },
+  {
+   "t": 1792412451.0,
+   "n": "لیست سفارت های آمریکایی که هشدارهایی را در پی تحولات منطقه ای صادر کرده اند سفارت آمریکا در امارات متحده عربی سفارت آمریکا در اردن سفارت آمریکا در لبنان سفارت آمریکا در قطر سفارت مجازی آمریکا در ایران سفارت آمریکا در اسرائیل سفارت آمریکا در بحرین سفارت آمریکا در عمان سفارت آمریکا در عربستان سعودی سفارت آمریکا در یمن سفارت آمریکا در عراق",
+   "fa": "🇺🇸لیست سفارت‌های آمریکایی که هشدارهایی را در پی تحولات منطقه‌ای صادر کرده‌اند: سفارت آمریکا در امارات متحده عربی سفارت آمریکا در اردن سفارت آمریکا در لبنان سفارت آمریکا در قطر سفارت مجازی آمریکا در ایران سفارت آمریکا در اسرائیل سفارت آمریکا در بحرین سفارت آمریکا در عمان سفارت آمریکا در عربستان سعودی سفارت آمریکا در یمن سفارت آمریکا در عراق"
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 90
+  "requests": 92
  },
- "flip": 1001,
- "quote_n": 423,
+ "flip": 1003,
+ "quote_n": 425,
  "signals": [
   {
    "t": 1792326687.5327058,
@@ -1548,6 +1549,21 @@
    "t": 1792411877.9869368,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792412771.2001536,
+   "s": 4,
+   "p": 50
+  },
+  {
+   "t": 1792412774.659698,
+   "s": 3,
+   "p": 40
+  },
+  {
+   "t": 1792412779.113833,
+   "s": 4,
+   "p": 70
   }
  ],
  "risk": {
