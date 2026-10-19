@@ -10,7 +10,7 @@
    "last_id": 132085
   },
   "TelNews_Magazine": {
-   "last_id": 101466
+   "last_id": 101467
   },
   "NE_WG": {
    "last_id": 114944
@@ -93,7 +93,8 @@
     "https://www.foxnews.com/world/priest-killed-falling-crucifix-livestreamed-mass-worshippers-rush-help",
     "https://www.foxnews.com/world/saudi-arabia-edge-iconic-kingdom-centre-sends-workers-home-amid-houthi-attacks",
     "https://www.foxnews.com/world/4-canadian-soldiers-killed-dozens-injured-fast-moving-fire-erupts-military-base",
-    "https://www.foxnews.com/world/strait-hormuz-crisis-traps-6000-sailors-attacks-ships-mount-un-maritime-chief-says"
+    "https://www.foxnews.com/world/strait-hormuz-crisis-traps-6000-sailors-attacks-ships-mount-un-maritime-chief-says",
+    "https://www.foxnews.com/world/whos-who-inside-frances-chaos-inc-franchise-communist-groups-labor-unions-global-activists"
    ]
   },
   "WSJ": {
@@ -395,11 +396,6 @@
  },
  "recent": [
   {
-   "t": 1792354054.0,
-   "n": "بابک زنجانی در این شرایط هیچ قدرتی نه توان تغییر نظام ایران را دارد و نه امکان جنگی جدی",
-   "fa": "⭕️بابک زنجانی: در این شرایط هیچ قدرتی نه توان تغییر نظام ایران را دارد و نه امکان جنگی جدی."
-  },
-  {
    "t": 1792354253.0,
    "n": "علی قلهکی سفر احتمالی لاوروف به تهران به جمع بندی های اخیر هسته ای میان تهران روسیه واشنگتن مربوط می باشد که در صورت انجام سفر وزیر خارجه روسیه به ایران یعنی تفاهمات اولیه ای در این حوزه شکل گرفته است",
    "fa": "⭕️علی قلهکی: سفر احتمالی لاوروف به تهران به جمع‌ بندی‌ های اخیر هسته‌ ای میان تهران _ روسیه _ واشنگتن مربوط می‌باشد که در صورتِ انجام سفر وزیر خارجه روسیه به ایران، یعنی تفاهمات اولیه‌ای در این حوزه شکل گرفته است"
@@ -678,13 +674,23 @@
    "t": 1792396201.0,
    "n": "غارت به سبک معترضان فرانسوی پلی استیشن مفت و مجانی معترضان به فروشگاه ها هجوم بردند و عده ای با برداشتن پلی استیشن های غنیمتی از آنجا خارج شدند",
    "fa": "🇫🇷غارت به سبک معترضان فرانسوی؛ پلی‌ استیشن مفت و مجانی! 💢معترضان به فروشگاه‌ها هجوم بردند و عده‌ای با برداشتن پلی‌استیشن های غنیمتی از آنجا خارج شدند!"
+  },
+  {
+   "t": 1792396844.0,
+   "n": "who s who inside france s chaos inc franchise of communist groups labor unions and global activists as france s fiery student protests merged with a nationwide revolt on saturday a communist leader and academic vijay prashad celebrated the unrest with a message linking protests across three continents paris new delhi buenos aires prashad posted on x borrowing a line from the british punk band the ",
+   "fa": "🔴 نقش گروه‌های چپ‌گرا و شبکه‌های بین‌المللی در اعتصابات و ناآرامی‌های اخیر فرانسه به گزارش فاکس نیوز همزمان با ادغام اعتراضات پرشور دانشجویی در فرانسه با یک شورش سراسری در روز شنبه، ویجی پراشاد، رهبر کمونیست و آکادمیک، با پیامی که اعتراضات را در سه قاره به هم پیوند می‌داد، این ناآرامی‌ها را جشن گرفت. پراشاد در شبکه اجتماعی ایکس با وام‌گرفتن از بندی از گروه پانک راک بریتانیایی د کلش پستی منتشر کرد "
+  },
+  {
+   "t": 1792397342.0,
+   "n": "غارت کردن به اعتراضات ایتالیا هم رسید",
+   "fa": "⭕️غارت کردن به اعتراضات ایتالیا هم رسید"
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 36
+  "requests": 38
  },
- "flip": 960,
+ "flip": 962,
  "quote_n": 408,
  "signals": [
   {
