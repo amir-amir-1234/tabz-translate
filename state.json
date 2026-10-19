@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132167
+   "last_id": 132169
   },
   "TelNews_Magazine": {
    "last_id": 101515
   },
   "NE_WG": {
-   "last_id": 115030
+   "last_id": 115031
   }
  },
  "fails": {},
@@ -309,7 +309,8 @@
     "WP-WSJ-0003988146",
     "SB10222543145185073693004593516203075758738",
     "WP-WSJ-0003987672",
-    "WP-WSJ-0003979845"
+    "WP-WSJ-0003979845",
+    "WP-WSJ-0003988829"
    ]
   },
   "NYT": {
@@ -417,11 +418,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792424599.0,
-   "n": "فاکس نیوز هیچکس نمیتواند جلوی حمله نتانیاهو را بگیرد",
-   "fa": "🚨فاکس نیوز : هیچکس نمیتواند جلوی حمله نتانیاهو را بگیرد."
-  },
   {
    "t": 1792424640.0,
    "n": "israeli prime minister netanyahu macron called me on october 7 he said you know we have to work for an immediate ceasefire and to solve this by diplomacy and i said no no emmanuel it s not going to be solved by diplomacy these are monsters these are neo nazis i said you know hamas is like isis in fact it s worse in some respects than isis even worse than isis and let me tell you if we don t stop h",
@@ -716,20 +712,20 @@
    "t": 1792440001.0,
    "n": "ترامپ اگر پوتین و شی جین پینگ خواهان نشست سه جانبه هستند مایلم این کار را انجام دهم",
    "fa": "🇺🇸🇺🇦🇷🇺ترامپ: اگر پوتین و شی جین پینگ خواهان نشست سه جانبه هستند، مایلم این کار را انجام دهم"
+  },
+  {
+   "t": 1792440332.0,
+   "n": "ترامپ نمی دونم چه کسی دستور قطع استارلینک در اوکراین رو داد اما دوست دارم بفهمم",
+   "fa": "🇺🇸🇺🇦‏ترامپ: نمی‌دونم چه کسی دستور قطع استارلینک در اوکراین رو داد، اما دوست دارم بفهمم!🤔"
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 179
+  "requests": 180
  },
- "flip": 1086,
+ "flip": 1087,
  "quote_n": 468,
  "signals": [
-  {
-   "t": 1792353969.817017,
-   "s": 4,
-   "p": 85
-  },
   {
    "t": 1792354282.0160837,
    "s": 3,
