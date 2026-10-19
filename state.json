@@ -16,7 +16,9 @@
    "last_id": 114931
   }
  },
- "fails": {},
+ "fails": {
+  "web:Fox News/2605562269": 1
+ },
  "web": {
   "Fox News": {
    "seen": [
@@ -694,7 +696,7 @@
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 11
+  "requests": 14
  },
  "flip": 949,
  "quote_n": 402,
@@ -1542,7 +1544,7 @@
  ],
  "risk": {
   "base": 100,
-  "ts": 1792376773.123248,
+  "ts": 1792377086.0532684,
   "attack": true
  },
  "attack_ts": 1792360274.4190998,
