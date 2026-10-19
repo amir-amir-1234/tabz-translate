@@ -313,7 +313,8 @@
     "WP-WSJ-0003979845",
     "WP-WSJ-0003988829",
     "SB10222543145185073693004593514760903748192",
-    "SB10222543145185073693004593513761076414912"
+    "SB10222543145185073693004593513761076414912",
+    "WP-WSJ-0003989525"
    ]
   },
   "NYT": {
@@ -421,11 +422,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792434036.0,
-   "n": "according to local sources rsf colonel khala fadl hussein was killed following a sudanese air force strike against the group position in ad duwayn east darfur region",
-   "fa": "🇸🇩❌🇸🇩 — به گفته منابع محلی، سرهنگ خلا فضل حسین، از فرماندهان نیروی واکنش سریع سودان، در پی حمله نیروی هوایی سودان به مواضع این گروه در الدوین، واقع در منطقه شرق دارفور، کشته شد."
-  },
   {
    "t": 1792434408.0,
    "n": "ادعای مدیرکل استاندارد ۱۲۲ استاندارد مختلف در خودروهای داخلی چک می شود",
@@ -720,14 +716,19 @@
    "t": 1792451372.0,
    "n": "the trump administration has delayed approval of patriot interceptor missile transfers to ukraine leaving kyiv increasingly vulnerable to russian missile and drone attacks according to wapo",
    "fa": "🇺🇸🇺🇦🇷🇺⚡️ — به گزارش واشنگتن پست، دولت ترامپ تأیید انتقال موشک‌های رهگیر پاتریوت به اوکراین را به تأخیر انداخته است که این امر کی‌یف را در برابر حملات موشکی و پهپادی روسیه آسیب‌پذیرتر می‌کند."
+  },
+  {
+   "t": 1792453800.0,
+   "n": "vance declines to endorse netanyahu in re election bid the vice president split from trump who backed israeli prime minister benjamin netanyahu in israel s oct 27 election",
+   "fa": "🔴 خودداری معاون رئیس‌جمهور آمریکا از حمایت از نتانیاهو در انتخابات پیش‌رو به گزارش وال‌استریت ژورنال، معاون رئیس‌جمهور از حمایت از بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در رقابت انتخاباتی مجدد او خودداری کرد. معاون رئیس‌جمهور در این زمینه با ترامپ که از نخست‌وزیر اسرائیل در انتخابات ۲۷ اکتبر این کشور حمایت کرده بود، اختلاف نظر پیدا کرد."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 218
+  "requests": 220
  },
- "flip": 1108,
- "quote_n": 476,
+ "flip": 1109,
+ "quote_n": 477,
  "signals": [
   {
    "t": 1792371364.75108,
@@ -1503,6 +1504,11 @@
    "t": 1792450275.56722,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1792454163.6396017,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
