@@ -7,7 +7,7 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132140
+   "last_id": 132141
   },
   "TelNews_Magazine": {
    "last_id": 101500
@@ -304,7 +304,8 @@
     "WP-WSJ-0003987938",
     "SB12199027810792643414104593516042305782824",
     "WP-WSJ-0003988034",
-    "WP-WSJ-0003983216"
+    "WP-WSJ-0003983216",
+    "WP-WSJ-0003988146"
    ]
   },
   "NYT": {
@@ -412,16 +413,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792417324.0,
-   "n": "uzbekistan and the u s signed 54 agreements worth approximately 12 billion covering critical minerals energy transportation finance and technology during secretary of state marco rubio s visit to samarkand uzbekistan also became the 77th country to join nasa s artemis accords on space exploration",
-   "fa": "🇺🇸🇺🇿⚡️ — ازبکستان و ایالات متحده طی سفر مارکو روبیو، وزیر امور خارجه، به سمرقند، ۵۴ توافق‌نامه به ارزش حدود ۱۲ میلیارد دلار در زمینه مواد معدنی حیاتی، انرژی، حمل‌ونقل، مالی و فناوری امضا کردند. ازبکستان همچنین به عنوان هفتادوهفتمین کشور به توافق‌نامه آرتمیس ناسا برای اکتشافات فضایی پیوست."
-  },
-  {
-   "t": 1792417331.0,
-   "n": "وزیر خارجه فرانسه ما شاید معترضان را با گاز اشک آور متفرق کنیم اما هیچوقت آنها را نمیکشیم و یا هیچوقت اینترنت را قطع نمیکنیم",
-   "fa": "🇫🇷🇮🇷وزیر خارجه فرانسه: ما شاید معترضان را با گاز اشک آور متفرق کنیم اما هیچوقت آنها را نمیکشیم و یا هیچوقت اینترنت را قطع نمیکنیم💢"
-  },
   {
    "t": 1792417442.0,
    "n": "the houthis ansarallah say their forces struck saudi troop concentrations at the al alam camp in yemen s shabwa governorate killing and wounding dozens of personnel including officers the group warned fighters against joining saudi backed forces accusing riyadh of using financial incentives to recruit personnel and treating them as expendable rather than risking its own soldiers",
@@ -711,14 +702,24 @@
    "t": 1792429980.0,
    "n": "israel s front runners shun arab voters who could help them win election opinion polls suggest the election is deadlocked except for about a million arab voters whose backing comes with drawbacks in a polarized society",
    "fa": "🔴 نامزدهای پیشتاز انتخابات اسرائیل از جلب آرای شهروندان عرب پرهیز می‌کنند به گزارش وال‌استریت ژورنال نظرسنجی‌ها حاکی از آن است که رقابت‌های انتخاباتی در بن‌بست قرار دارد، مگر برای حدود یک میلیون رای‌دهنده عرب که حمایت آن‌ها در یک جامعه دوقطبی با معایبی همراه است."
+  },
+  {
+   "t": 1792430120.0,
+   "n": "آتش گرفتن پلیس فرانسه توسط معترضان",
+   "fa": "🇫🇷💢آتش گرفتن پلیس فرانسه توسط معترضان!"
+  },
+  {
+   "t": 1792430220.0,
+   "n": "former openai worker accused of bugging discussed jobs with saudi royal in a detention filing prosecutors argue abdulrahman alfozan is a flight risk saying his wife and child moved permanently to saudi arabia",
+   "fa": "🔴 متهم پرونده جاسوسی سایبری مذاکره شغلی با مقام سعودی داشته است به گزارش وال‌استریت ژورنال، دادستان‌ها در یک پرونده بازداشتی استدلال می‌کنند که عبدالرحمن الفوزان خطر فرار دارد و می‌گویند همسر و فرزند او به طور دائم به عربستان سعودی نقل مکان کرده‌اند."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 147
+  "requests": 149
  },
- "flip": 1055,
- "quote_n": 454,
+ "flip": 1057,
+ "quote_n": 455,
  "signals": [
   {
    "t": 1792344376.0455172,
