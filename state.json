@@ -397,11 +397,6 @@
  },
  "recent": [
   {
-   "t": 1792355414.0,
-   "n": "متکی کنترل تنگه کامل به دست ایران افتاده و طی دو هفته نفت ۱۴۰ دلار میشه",
-   "fa": "‼️متکی: کنترل تنگه کامل به دست ایران افتاده و طی دو هفته نفت ۱۴۰ دلار میشه"
-  },
-  {
    "t": 1792355453.0,
    "n": "ukrainian president zelensky told bloomberg that the u s is supplying ukraine with just 12 patriot interceptor missiles per month we have paid for the weapons zelensky said referring to additional shipments that remain pending a part of the supplies has been authorized while the rest haven t been and this is not a technical issue",
    "fa": "🇺🇦🇺🇸⚡️ — رئیس‌جمهور اوکراین، زلنسکی، به بلومبرگ گفت که ایالات متحده ماهانه تنها ۱۲ موشک رهگیر پاتریوت به اوکراین تحویل می‌دهد. زلنسکی با اشاره به محموله‌های اضافی که همچنان در انتظار هستند، گفت: «ما پول تسلیحات را پرداخت کرده‌ایم.» «بخشی از تجهیزات تأیید شده، در حالی که مابقی نشده‌اند. و این یک مسئله فنی نیست.»"
@@ -1502,15 +1497,15 @@
  ],
  "risk": {
   "base": 61,
-  "ts": 1792387885.9499464,
+  "ts": 1792398686.6423376,
   "attack": false,
-  "n": 162,
+  "n": 160,
   "shares": {
    "1": 0,
-   "2": 9,
-   "3": 17,
-   "4": 57,
-   "5": 17
+   "2": 8,
+   "3": 19,
+   "4": 58,
+   "5": 15
   }
  },
  "attack_ts": 1792360274.4190998,
