@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108623
+   "last_id": 108625
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132154
+   "last_id": 132155
   },
   "TelNews_Magazine": {
    "last_id": 101509
   },
   "NE_WG": {
-   "last_id": 115017
+   "last_id": 115018
   }
  },
  "fails": {},
@@ -415,16 +415,6 @@
  },
  "recent": [
   {
-   "t": 1792420516.0,
-   "n": "سپاه هنوز از کلی سلاح رونمایی نکردیم و منتظر خطای محاسباتی دشمنیم",
-   "fa": "⭕️سپاه: هنوز از کلی سلاح رونمایی نکردیم و منتظر خطای محاسباتی دشمنیم"
-  },
-  {
-   "t": 1792420620.0,
-   "n": "saudi arabia decides against holding in person investor conference saudi arabia has decided not to hold its flagship investor conference in person next week and instead will hold it fully online or postpone the event entirely people familiar with the matter said",
-   "fa": "⭕️ عربستان سعودی از لغو برگزاری حضوری کنفرانس سرمایه‌گذاری خود در هفته آینده خبر داد به گزارش وال‌استریت ژورنال عربستان سعودی تصمیم گرفته است کنفرانس شاخص سرمایه‌گذاری خود را که قرار بود هفته آینده برگزار شود، به صورت حضوری برگزار نکند و در عوض این رویداد را به طور کامل به صورت آنلاین برگزار کرده یا برگزاری آن را به طور کامل به تعویق بیندازد. این مطلب را افراد مطلع از این موضوع اعلام کرده‌اند."
-  },
-  {
    "t": 1792420843.0,
    "n": "ukrainian president zelensky ukraine s minister of defense minister of foreign affairs and the presidential office team received urgent assignments regarding contacts with partners who can provide additional support for our air defenses as quickly as possible there are political agreements that have not been implemented at the working level there are also delays in certain types of vital supplies ",
    "fa": "🇺🇦🇺🇸⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: تیم‌های وزارت دفاع، وزارت امور خارجه و دفتر ریاست‌جمهوری اوکراین مأموریت‌های فوری در خصوص تماس با شرکایی که می‌توانند در کوتاه‌ترین زمان ممکن پشتیبانی اضافی برای پدافند هوایی ما فراهم کنند، دریافت کردند. توافق‌نامه‌های سیاسی وجود دارد که در سطح اجرایی عملیاتی نشده‌اند. همچنین در برخی از انواع تسلیحات حیاتی در سطح وزارت جنگ ایالات متحده تاخیرهایی وجود د"
@@ -713,25 +703,25 @@
    "t": 1792434036.0,
    "n": "according to local sources rsf colonel khala fadl hussein was killed following a sudanese air force strike against the group position in ad duwayn east darfur region",
    "fa": "🇸🇩❌🇸🇩 — به گفته منابع محلی، سرهنگ خلا فضل حسین، از فرماندهان نیروی واکنش سریع سودان، در پی حمله نیروی هوایی سودان به مواضع این گروه در الدوین، واقع در منطقه شرق دارفور، کشته شد."
+  },
+  {
+   "t": 1792434408.0,
+   "n": "ادعای مدیرکل استاندارد ۱۲۲ استاندارد مختلف در خودروهای داخلی چک می شود",
+   "fa": "💢ادعای مدیرکل استاندارد: ۱۲۲ استاندارد مختلف در خودروهای داخلی چک می‌شود!"
+  },
+  {
+   "t": 1792434586.0,
+   "n": "u s official to cnn denies reports that u s forces struck konorak naval base iran",
+   "fa": "🔄 به‌روزرسانی 🇺🇸🇮🇷⚡️ — یک مقام ایالات متحده به سی‌ان‌ان گزارش‌ها مبنی بر حمله نیروهای آمریکایی به پایگاه دریایی کنارک در ایران را تکذیب کرد."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 162
+  "requests": 163
  },
- "flip": 1068,
+ "flip": 1069,
  "quote_n": 459,
  "signals": [
-  {
-   "t": 1792347969.2488112,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1792347976.1327085,
-   "s": 4,
-   "p": 40
-  },
   {
    "t": 1792349178.2845497,
    "s": 3,
@@ -1549,6 +1539,16 @@
   },
   {
    "t": 1792434075.9606037,
+   "s": 4,
+   "p": 60
+  },
+  {
+   "t": 1792434690.4162002,
+   "s": 3,
+   "p": 30
+  },
+  {
+   "t": 1792434694.7934077,
    "s": 4,
    "p": 60
   }
