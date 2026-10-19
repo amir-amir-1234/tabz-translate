@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108528
+   "last_id": 108529
   },
   "khabarfouri": {
    "last_id": 569949
@@ -392,11 +392,6 @@
  },
  "recent": [
   {
-   "t": 1792349113.0,
-   "n": "the alerts in abha city have been lifted",
-   "fa": "🔄 به‌روزرسانی 🇸🇦⚡️ — وضعیت هشدار در شهر أبها لغو شد."
-  },
-  {
    "t": 1792349442.0,
    "n": "حمزه صفوی جنگ سوم میان ایران و اسرائیل در فاصله زمانی بین انتخابات اسرائیل و آمریکا بین 5 تا 12 آبان است",
    "fa": "🚨حمزه صفوی: جنگ سوم میان ایران و اسرائیل در فاصله زمانی بین انتخابات اسرائیل و آمریکا بین 5 تا 12 آبان است."
@@ -690,11 +685,16 @@
    "t": 1792346056.0,
    "n": "4 canadian soldiers killed dozens injured after fast moving fire erupts at military base canadian officials said sunday that four service members were killed and dozens more injured after a fast moving fire swept through soldiers conducting live fire training at a military base in alberta the deadly fire erupted saturday at canadian forces base wainwright where a sudden shift in powerful winds sen",
    "fa": "🔴 جان باختن ۴ نظامی کانادایی و مصدومیت ده‌ها نفر در آتش‌سوزی پایگاه نظامی آلبرتا به گزارش فاکس نیوز مقامات کانادایی روز یکشنبه اعلام کردند که بر اثر وقوع یک آتش‌سوزی سریع در جریان تمرینات تیراندازی واقعی در یک پایگاه نظامی در استان آلبرتا، چهار نظامی کشته و ده‌ها نفر دیگر مصدوم شدند. این آتش‌سوزی مرگبار روز شنبه در پایگاه نیروهای کانادایی وین‌رایت رخ داد و به گفته آسوشیتدپرس، تغییر ناگهانی بادهای "
+  },
+  {
+   "t": 1792376585.0,
+   "n": "u s navy nimitz class aircraft carrier uss theodore roosevelt has departed u s fleet activities yokosuka japan to continue its journey to u s central command s area of responsibility",
+   "fa": "🇺🇸🇮🇷⚡️ — نا هواپیمابر کلاس نیمیتز نیروی دریایی ایالات متحده، «یو‌اس‌اس تئودور روزولت»، برای ادامه سفر خود به منطقه مسئولیت فرماندهی مرکزی ایالات متحده (سنتکام)، پایگاه فعالیت‌های ناوگان ایالات متحده در یوکوسوکای ژاپن را ترک کرد."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 10
+  "requests": 11
  },
  "flip": 949,
  "quote_n": 402,
@@ -1533,11 +1533,16 @@
    "t": 1792375293.3599298,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792376770.121054,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
   "base": 100,
-  "ts": 1792372579.7627048,
+  "ts": 1792376773.123248,
   "attack": true
  },
  "attack_ts": 1792360274.4190998,
