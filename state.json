@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108597
+   "last_id": 108600
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132126
+   "last_id": 132127
   },
   "TelNews_Magazine": {
    "last_id": 101493
   },
   "NE_WG": {
-   "last_id": 114993
+   "last_id": 114994
   }
  },
  "fails": {},
@@ -360,7 +360,8 @@
     "https://www.nytimes.com/2026/10/19/world/middleeast/jews-dubai-fear.html",
     "https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html",
     "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html",
-    "https://www.nytimes.com/2026/10/19/world/middleeast/trump-netanyahu-endorsement-election.html"
+    "https://www.nytimes.com/2026/10/19/world/middleeast/trump-netanyahu-endorsement-election.html",
+    "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html"
    ]
   },
   "Treasury": {
@@ -407,21 +408,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792407651.0,
-   "n": "مکرون دست از تجاوز به کشور من بردار برو سراغ زن خودت دیوارنوشته ای در اعتراضات فرانسه",
-   "fa": "🇫🇷❌«مکرون، دست از تجاوز به کشور من بردار؛ برو سراغ زن خودت» ‼️دیوارنوشته‌ای در اعتراضات فرانسه"
-  },
-  {
-   "t": 1792408215.0,
-   "n": "پنهان سازی فزاینده صادرات سوخت ایران در عملیات دریایی گزارش ها حاکی از آن است که ایران به طور فزاینده ای صادرات گاز مایع نفتی lpg و سوخت جت خود را در میان شمار رو به افزایشی از عملیات حمل ونقل دریایی پنهان می کند",
-   "fa": "🇺🇸🇮🇷 پنهان‌سازی فزاینده صادرات سوخت ایران در عملیات دریایی 🔴 گزارش‌ها حاکی از آن است که ایران به‌طور فزاینده‌ای، صادرات گاز مایع نفتی (LPG) و سوخت جت خود را در میان شمار رو‌به‌افزایشی از عملیات حمل‌ونقل دریایی پنهان می‌کند."
-  },
-  {
-   "t": 1792408781.0,
-   "n": "french prime minister sébastien lecornu accused far left groups of attempting to destabilize france through organized unrest warning that intelligence services had identified networks seeking to disrupt or prevent the upcoming presidential election lecornu said the government had ordered partial curfews in several areas to protect residents businesses and property declaring we cannot allow violent",
-   "fa": "🇫🇷⚡️ — سباستین لکورنو، نخست‌وزیر فرانسه، گروه‌های چپ افراطی را به تلاش برای بی‌ثبات‌سازی فرانسه از طریق ناآرامی‌های سازمان‌یافته متهم کرد و هشدار داد که سرویس‌های اطلاعاتی شبکه‌هایی را شناسایی کرده‌اند که به دنبال اختلال یا جلوگیری the انتخابات ریاست‌جمهوری پیش رو هستند. لکورنو گفت دولت برای محافظت از ساکنان، کسب‌وکارها و اموال، دستور برقراری منع آمدوشد جزئی را در چندین منطقه صادر کرده and اعلام ک"
-  },
   {
    "t": 1792408856.0,
    "n": "french prime minister sébastien lecornu says nearly 80 of arrests made during the recent riots are resulting in judicial proceedings with two thirds of those detained being adults almost all of them men and many already known to police",
@@ -706,13 +692,28 @@
    "t": 1792423479.0,
    "n": "زاکانی شهردار تهران مشکلی برای اسکان پناهندگان فرانسوی در تهران نداریم",
    "fa": "⭕️زاکانی، شهردار تهران: مشکلی برای اسکان پناهندگان فرانسوی در تهران نداریم."
+  },
+  {
+   "t": 1792423558.0,
+   "n": "israeli prime minister netanyahu they can fly these drones and they can put a grenade in them and they can target anyone they want they can do that by the thousands or tens of thousands and you can have swarms of them with ai so we have to be there both offensively and defensively",
+   "fa": "🇮🇱⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: آن‌ها می‌توانند این پهپادها را به پرواز درآورند و در آن‌ها نارنجک بگذارند و هرکسی را که بخواهند هدف قرار دهند. آن‌ها می‌توانند این کار را به تعداد هزاران یا ده‌ها هزار انجام دهند. و شما می‌توانید دسته‌هایی از آن‌ها را با هوش مصنوعی داشته باشید. بنابراین ما باید در آنجا حضور داشته باشیم، هم در حوزه تهاجمی و هم دفاعی."
+  },
+  {
+   "t": 1792423663.0,
+   "n": "israeli prime minister netanyahu the other thing that has changed is ai and quantum everything we re doing now is digital so you can paralyze a country you can paralyze the transportation system the health system the communication system everything is run digitally and if you have that superiority you can paralyze a country and bring it to its heels",
+   "fa": "🇮🇱⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: مسئله دیگر این است که هوش مصنوعی و کوانتوم تغییر کرده‌اند. هر کاری که اکنون انجام می‌دهیم دیجیتالی است. بنابراین شما می‌توانید یک کشور را فلج کنید. شما می‌توانید سیستم حمل‌ونقل، سیستم بهداشتی و سیستم ارتباطی را فلج کنید. همه چیز به صورت دیجیتالی اداره می‌شود. و اگر آن برتری را داشته باشید، می‌توانید یک کشور را فلج کنید و آن را به زانو درآورید."
+  },
+  {
+   "t": 1792423794.0,
+   "n": "israeli prime minister netanyahu we have the nuclear threat that s number one we have the drones we have ballistic missiles we have ai we have the rate of change in production of weaponry that is accelerating and we have to be there we have to be independent as much as we can arms independence energy independence so nobody can blackmail us",
+   "fa": "🇮🇱⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: ما تهدید هسته‌ای را داریم. این شماره یک است. ما پهپادها را داریم. ما موشک‌های بالستیک را داریم. ما هوش مصنوعی را داریم. سرعت تغییر در تولید تسلیحات در حال شتاب گرفتن است. و ما باید در آنجا حضور داشته باشیم. ما باید تا حد امکان مستقل باشیم — استقلال تسلیحاتی، استقلال انرژی، تا هیچ‌کس نتواند ما را باج‌خواهی کند."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 125
+  "requests": 126
  },
- "flip": 1033,
+ "flip": 1036,
  "quote_n": 445,
  "signals": [
   {
@@ -1629,6 +1630,21 @@
    "t": 1792423576.8341975,
    "s": 3,
    "p": 20
+  },
+  {
+   "t": 1792423912.434683,
+   "s": 4,
+   "p": 65
+  },
+  {
+   "t": 1792423921.3674843,
+   "s": 4,
+   "p": 60
+  },
+  {
+   "t": 1792423930.4560661,
+   "s": 4,
+   "p": 70
   }
  ],
  "risk": {
