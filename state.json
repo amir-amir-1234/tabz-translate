@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108647
+   "last_id": 108649
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132200
+   "last_id": 132201
   },
   "TelNews_Magazine": {
    "last_id": 101528
   },
   "NE_WG": {
-   "last_id": 115055
+   "last_id": 115057
   }
  },
  "fails": {},
@@ -422,16 +422,6 @@
  },
  "recent": [
   {
-   "t": 1792432981.0,
-   "n": "سردار محبی سلاح های جدید رونمایی می شوند پسماندهای قدرت آمریکا را از منطقه جارو می کنیم",
-   "fa": "🎥سردار محبی: سلاح‌های جدید رونمایی می‌شوند؛ پسماندهای قدرت آمریکا را از منطقه جارو می‌کنیم💢"
-  },
-  {
-   "t": 1792433158.0,
-   "n": "به تازگی یک فروند موشک بالستیک از شهر ارومیه در استان آذربایجان غربی شلیک شد",
-   "fa": "🚨 〰️🇮🇷🚨به تازگی یک فروند موشک بالستیک از شهر ارومیه در استان آذربایجان غربی شلیک شد."
-  },
-  {
    "t": 1792433400.0,
    "n": "opinion obama s dangerous mideast words his distortions of jewish history appear carefully considered which compounds the wound",
    "fa": "⭕️ انتقاد از اظهارات خطرناک اوباما درباره خاورمیانه و تاریخ یهودیان به گزارش وال‌استریت ژورنال، تحریف‌های باراک اوباما از تاریخ یهودیان کاملاً حساب‌شده به نظر می‌رسد و همین امر صدمه را دوچندان می‌کند."
@@ -720,13 +710,23 @@
    "t": 1792449172.0,
    "n": "president trump i m supporting stopping the war between russia and ukraine zelensky is not helping matters much i think he doesn t want to stop it but i want to see people not die",
    "fa": "🇺🇸🇺🇦🇷🇺⚡️ — رئیس‌جمهور ترامپ: من از توقف جنگ بین روسیه و اوکراین حمایت می‌کنم... زلنسکی کمک چندانی به اوضاع نمی‌کند. فکر می‌کنم او نمی‌خواهد آن را متوقف کند. اما من می‌خواهم ببینم که مردم کشته نمی‌شوند."
+  },
+  {
+   "t": 1792449325.0,
+   "n": "two sources with knowledge tell axios that u s secretary of war pete hegseth met with israeli prime minister benjamin netanyahu in israel today amidst discussions between israel and the united states about potentially resuming war with iran",
+   "fa": "🇺🇸🇮🇱🇮🇷⚡️ — دو منبع آگاه به پایگاه خبری آکسیوس گفتند که پیتر هگست، وزیر دفاع ایالات متحده، امروز در سرزمین‌های اشغالی با بنیامین نتانیاهو، نخست‌وزیر اسرائیل دیدار کرده است. این دیدار در جریان گفتگوها میان اسرائیل و ایالات متحده درباره احتمال ازسرگیری جنگ با ایران انجام شده است."
+  },
+  {
+   "t": 1792449410.0,
+   "n": "reporter zelensky says you re on the wrong side of history trump zelensky doesn t know what he s talking about if he would have listened to me he would have made a much better deal a long time ago and he d have a million people living from his side",
+   "fa": "🇺🇸🇺🇦🇷🇺⚡️ — خبرنگار: زلنسکی می‌گوید شما در سمت اشتباه تاریخ ایستاده‌اید. ترامپ: زلنسکی نمی‌داند چه می‌گوید. اگر او به حرف‌های من گوش داده بود، خیلی وقت پیش توافق خیلی بهتری انجام داده بود و یک میلیون نفر از مردمش زنده مانده بودند."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 213
+  "requests": 214
  },
- "flip": 1105,
+ "flip": 1106,
  "quote_n": 476,
  "signals": [
   {
@@ -1508,6 +1508,11 @@
    "t": 1792449097.4719796,
    "s": 4,
    "p": 50
+  },
+  {
+   "t": 1792449670.6503184,
+   "s": 5,
+   "p": 90
   }
  ],
  "risk": {
