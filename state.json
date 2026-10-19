@@ -7,7 +7,7 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132152
+   "last_id": 132154
   },
   "TelNews_Magazine": {
    "last_id": 101508
@@ -305,7 +305,8 @@
     "SB12199027810792643414104593516042305782824",
     "WP-WSJ-0003988034",
     "WP-WSJ-0003983216",
-    "WP-WSJ-0003988146"
+    "WP-WSJ-0003988146",
+    "SB10222543145185073693004593516203075758738"
    ]
   },
   "NYT": {
@@ -413,11 +414,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792419550.0,
-   "n": "u s prosecutors say the saudi national accused of secretly installing a recording device in an openai executive conference room maintained frequent whatsapp contact with an unidentified member of the saudi royal family throughout 2025 and 2026 abdulrahman alfozan 35 a former openai engineer arrested on october 9 was allegedly encouraged by the royal to join a saudi ai initiative in may the royal t",
-   "fa": "🇺🇸🇸🇦⚡️ — دادستان‌های ایالات متحده می‌گویند تبعه سعودی متهم به نصب مخفیانه یک دستگاه ضبط در اتاق کنفرانس یکی از مدیران ارشد اوپن‌آی، در طول سال‌های ۲۰۲۵ و ۲۰۲۶ تماس‌های مکرری در واتس‌اپ با یکی از اعضای ناشناس خاندان سلطنتی عربستان داشته است. عبدالرحمن الفوزان ۳۵ ساله، مهندس سابق اوپن‌آی که در ۹ اکتبر دستگیر شد، ادعا می‌شود که توسط این فرد سلطنتی تشویق شده است تا به یک ابتکار هوش مصنوعی سعودی بپیوند"
-  },
   {
    "t": 1792419676.233725,
    "n": "protecting american intellectual property act of 2022 paipa designations issuance of associated general licenses the department of the treasury s office of foreign assets control ofac is issuing protecting american intellectual property act of 2022 paipa general license 1 transactions authorized pursuant to the cyber related sanctions regulations and protecting american intellectual property act o",
@@ -712,25 +708,20 @@
    "t": 1792433158.0,
    "n": "به تازگی یک فروند موشک بالستیک از شهر ارومیه در استان آذربایجان غربی شلیک شد",
    "fa": "🚨 〰️🇮🇷🚨به تازگی یک فروند موشک بالستیک از شهر ارومیه در استان آذربایجان غربی شلیک شد."
+  },
+  {
+   "t": 1792433400.0,
+   "n": "opinion obama s dangerous mideast words his distortions of jewish history appear carefully considered which compounds the wound",
+   "fa": "⭕️ انتقاد از اظهارات خطرناک اوباما درباره خاورمیانه و تاریخ یهودیان به گزارش وال‌استریت ژورنال، تحریف‌های باراک اوباما از تاریخ یهودیان کاملاً حساب‌شده به نظر می‌رسد و همین امر صدمه را دوچندان می‌کند."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 158
+  "requests": 160
  },
- "flip": 1065,
- "quote_n": 457,
+ "flip": 1066,
+ "quote_n": 458,
  "signals": [
-  {
-   "t": 1792347077.1927338,
-   "s": 4,
-   "p": 65
-  },
-  {
-   "t": 1792347081.680021,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1792347676.3358226,
    "s": 4,
@@ -1560,6 +1551,11 @@
    "t": 1792433476.31688,
    "s": 5,
    "p": 90
+  },
+  {
+   "t": 1792433786.6377947,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
