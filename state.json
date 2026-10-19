@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108536
+   "last_id": 108538
   },
   "khabarfouri": {
    "last_id": 569949
@@ -16,7 +16,9 @@
    "last_id": 114949
   }
  },
- "fails": {},
+ "fails": {
+  "tabzlive/108539": 1
+ },
  "web": {
   "Fox News": {
    "seen": [
@@ -296,7 +298,8 @@
     "WP-WSJ-0003985818",
     "WP-WSJ-0003986749",
     "WP-WSJ-0003987112",
-    "WP-WSJ-0003987128"
+    "WP-WSJ-0003987128",
+    "WP-WSJ-0003986877"
    ]
   },
   "NYT": {
@@ -397,11 +400,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792359244.0,
-   "n": "all reports of renewed explosions and ballistic missile launches from iran are false",
-   "fa": "🇮🇷⚡️ — تمام گزارش‌های مربوط به انفجارهای جدید و پرتاب موشک‌های بالستیک از ایران نادرست است."
-  },
   {
    "t": 1792359368.0,
    "n": "نتانیاهو در مصاحبه با مارک لوین درباره ایران هیچ توافقی حتی دو ثانیه هم دوام نمی آورد چون آنها یک کار را به طور مداوم و قابل اعتماد انجام میدهند دروغ میگویند و فریبکاری میکنند",
@@ -646,20 +644,25 @@
    "t": 1792402196.0,
    "n": "breitbart is it time to have an election in ukraine marco rubio look the election issue comes up and i m not saying it s irrelevant but that s not at the core of why there s still a war going on",
    "fa": "🇺🇸🇺🇦⚡️ — برایتبارت: آیا زمان برگزاری انتخابات در اوکراین فرا رسیده است؟ مارکو روبیو: ببینید، موضوع انتخابات مطرح می‌شود و من نمی‌گویم که بی‌اهمیت است، اما این مسئله هسته اصلی چرایی ادامه جنگ نیست."
+  },
+  {
+   "t": 1792402200.0,
+   "n": "china s export boom masks deep economic problems at home even as china makes strides in areas such as ai much of its domestic economy is dragged down by gloomy consumer sentiment and a real estate slump",
+   "fa": "⭕️ رونق صادرات چین مشکلات عمیق اقتصادی در داخل این کشور را پنهان کرده است به گزارش وال‌استریت ژورنال با وجود اینکه چین در حوزه‌هایی مانند هوش مصنوعی پیشرفت‌هایی داشته است، بخش عمده‌ای از اقتصاد داخلی این کشور تحت تأثیر فضای تیره مصرف‌کنندگان و رکود بازار مسکن به پایین کشیده می‌شود."
+  },
+  {
+   "t": 1792402304.0,
+   "n": "secretary of state marco rubio months ago we have seen strikes on energy vessels in the black sea and there s been complaints a lot because we have american companies calling us and saying hey that was our oil on that ship that was hit by ukraine now i don t believe ukraine intentionally targeted them but those ships got hit and we already have a world that is facing an energy crisis because of wh",
+   "fa": "🇺🇸🇺🇦🇷🇺⚡️ — مارکو روبیو، وزیر امور خارجه آمریکا: ماه ها پیش، شاهد حملات به کشتی های انرژی در دریای سیاه بوده ایم. و شکایت های زیادی وجود داشته است، زیرا شرکت های آمریکایی با ما تماس می گیرند و می گویند: «هی، این نفت ما بود روی آن کشتی که توسط اوکراین مورد اصابت قرار گرفت.» حالا، من باور ندارم که اوکراین عمداً آنها را هدف قرار داده باشد، اما آن کشتی ها مورد اصابت قرار گرفتند. و ما از قبل با جهانی رو"
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 52
+  "requests": 55
  },
- "flip": 973,
- "quote_n": 411,
+ "flip": 975,
+ "quote_n": 412,
  "signals": [
-  {
-   "t": 1792315882.9519513,
-   "s": 3,
-   "p": 50
-  },
   {
    "t": 1792316168.3194063,
    "s": 4,
@@ -1459,6 +1462,11 @@
    "t": 1792402290.329552,
    "s": 2,
    "p": 40
+  },
+  {
+   "t": 1792402595.977538,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
