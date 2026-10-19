@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108533
+   "last_id": 108536
   },
   "khabarfouri": {
    "last_id": 569949
@@ -641,13 +641,18 @@
    "t": 1792401880.0,
    "n": "reporter zelensky said in an interview the u s had paused some intelligence sharing earlier this week rubio i don t know where he s getting these things from or why he s saying these things to the press there s been no pause zelensky should be focused on bringing an end to this war",
    "fa": "🇺🇸🇺🇦⚡️ — خبرنگار: زلنسکی در مصاحبه‌ای گفت ایالات متحده اوایل همین هفته اشتراک‌گذاری برخی اطلاعات ارتش را متوقف کرده است. روبیو: نمی‌دانم او این حرف‌ها را از کجا می‌آورد یا چرا این مسائل را با مطبوعات مطرح می‌کند. هیچ توقفی صورت نگرفته است. زلنسکی باید بر پایان دادن به این جنگ تمرکز کند."
+  },
+  {
+   "t": 1792402196.0,
+   "n": "breitbart is it time to have an election in ukraine marco rubio look the election issue comes up and i m not saying it s irrelevant but that s not at the core of why there s still a war going on",
+   "fa": "🇺🇸🇺🇦⚡️ — برایتبارت: آیا زمان برگزاری انتخابات در اوکراین فرا رسیده است؟ مارکو روبیو: ببینید، موضوع انتخابات مطرح می‌شود و من نمی‌گویم که بی‌اهمیت است، اما این مسئله هسته اصلی چرایی ادامه جنگ نیست."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 50
+  "requests": 52
  },
- "flip": 972,
+ "flip": 973,
  "quote_n": 411,
  "signals": [
   {
@@ -1449,6 +1454,11 @@
    "t": 1792401986.9539213,
    "s": 4,
    "p": 70
+  },
+  {
+   "t": 1792402290.329552,
+   "s": 2,
+   "p": 40
   }
  ],
  "risk": {
