@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132095
+   "last_id": 132096
   },
   "TelNews_Magazine": {
-   "last_id": 101474
+   "last_id": 101475
   },
   "NE_WG": {
-   "last_id": 114958
+   "last_id": 114960
   }
  },
  "fails": {},
@@ -352,7 +352,8 @@
     "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
     "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html",
     "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html",
-    "https://www.nytimes.com/2026/10/19/world/middleeast/jews-dubai-fear.html"
+    "https://www.nytimes.com/2026/10/19/world/middleeast/jews-dubai-fear.html",
+    "https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html"
    ]
   },
   "Treasury": {
@@ -398,11 +399,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792364460.0,
-   "n": "some wall street leaders are weighing bailing on davos in the desert after attacks on riyadh recent attacks by houthi rebels are making u s executives nervous to travel to the future investment initiative conference in saudi arabia next week",
-   "fa": "⭕️ برخی رهبران وال‌استریت پس از حملات به ریاض حضور در داووس در صحرا را ارزیابی می‌کنند به گزارش وال‌استریت ژورنال حملات اخیر شورشیان حوثی باعث نگرانی مدیران اجرایی ایالات متحده برای سفر به کنفرانس ابتکار سرمایه‌گذاری آینده در عربستان سعودی در هفته آینده شده است."
-  },
   {
    "t": 1792365911.0,
    "n": "russian president vladimir putin has proposed a trilateral summit with president trump and chinese president xi jinping next month to discuss ending the war in ukraine according to wsj putin raised the proposal during an october 9 phone call with trump which also resulted in an agreement for the u s to purchase russian diesel and facilitate its sale internationally moscow has suggested holding the",
@@ -697,13 +693,18 @@
    "t": 1792405717.0,
    "n": "اووستاد خوش چشم برای مقابله با مادر بمب ها میتونیم gps رو مختل کنیم به هدف نخوره و بره بخوره جای دیگه یا اینکه با سامانه های دوش پرتاب رو هوا بزنیمش",
    "fa": "🎥اووستاد خوش چشم: برای مقابله با مادر بمب‌ها میتونیم GPS رو مختل کنیم به هدف نخوره و بره بخوره جای دیگه ‼️یا اینکه با سامانه های دوش‌پرتاب رو هوا بزنیمش..."
+  },
+  {
+   "t": 1792405861.0,
+   "n": "علوم پزشکی تهران این احتمال وجود دارد که در اواخر آبان وارد پیک آنفلوآنزا شویم با زیرگونه های جدید اومیکرون مواجه شده ایم که قدرت واگیری بالایی دارند و می توانند بیماری های سیستم تنفسی فوقانی شدیدی را ایجاد کنند گروه های در معرض خطر نسبت به تزریق واکسن آنفلوآنزا حداکثر تا دو هفته اول آبان اقدام کنند",
+   "fa": "💢علوم پزشکی تهران: این احتمال وجود دارد که در اواخر آبان‌ وارد پیک آنفلوآنزا شویم. با زیرگونه‌های جدید «اومیکرون»مواجه شده‌ایم که قدرت واگیری بالایی دارند و می‌توانند بیماری‌های سیستم تنفسی فوقانی شدیدی را ایجاد کنند. گروه‌های در معرض خطر نسبت به تزریق واکسن آنفلوآنزا حداکثر تا دو هفته اول آبان‌، اقدام کنند."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 72
+  "requests": 73
  },
- "flip": 989,
+ "flip": 990,
  "quote_n": 416,
  "signals": [
   {
