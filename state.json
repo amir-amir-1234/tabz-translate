@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108553
+   "last_id": 108554
   },
   "khabarfouri": {
    "last_id": 569949
@@ -682,11 +682,16 @@
    "t": 1792404250.0,
    "n": "president trump s approval ratings have fallen to new lows ahead of the november midterm elections creating difficulties for republican candidates seeking to retain maga support while appealing to independent voters new polls from washington post abc ipsos nbc news and fox news place trump s approval at 33 34 and 36 respectively while democrats lead republicans by 8 10 points among registered vote",
    "fa": "🇺🇸⚡️ — محبوبیت دونالد ترامپ، رئیس‌جمهور آمریکا، در آستانه انتخابات میان‌دوره‌ای ماه نوامبر به سطوح پایین جدیدی سقوط کرده و چالش‌هایی را برای نامزدهای جمهوری‌خواه ایجاد کرده است که تلاش می‌کنند ضمن حفظ حمایت حامیان مگا، نظر رای‌دهندگان مستقل را نیز جلب کنند. نظرسنجی‌های جدید واشنگتن پست-ای‌بی‌سی-ایپسوس، ان‌بی‌سی نیوز و فاکس نیوز میزان محبوبیت ترامپ را به ترتیب ۳۳، ۳۴ و ۳۶ درصد نشان می‌دهند، در حالی"
+  },
+  {
+   "t": 1792404779.0,
+   "n": "graphic insane footage shows the aftermath of a deadly houthi ansarallah ballistic missile attack on the al alam camp in yemen s shabwa governorate dozens of saudi backed forces died and many are injured body parts are scattered all over the place",
+   "fa": "🇾🇪❌🇾🇪 — تصاویر تکان‌دهنده و بسیار خشن، پس از حمله مرگبار موشک بالستیک حوثی‌ها (انصارالله) به اردوگاه «العلم» در استان شبوه یمن را نشان می‌دهد. ده‌ها تن از نیروهای تحت حمایت عربستان سعودی کشته و بسیاری زخمی شده‌اند. اعضای بدن در همه جا پخش شده است."
   }
  ],
  "usage": {
   "date": "2026-10-19",
-  "requests": 69
+  "requests": 70
  },
  "flip": 986,
  "quote_n": 415,
@@ -1529,6 +1534,11 @@
   {
    "t": 1792404120.3948696,
    "s": 5,
+   "p": 85
+  },
+  {
+   "t": 1792404976.6540048,
+   "s": 4,
    "p": 85
   }
  ],
