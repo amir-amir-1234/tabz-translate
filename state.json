@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132255
+   "last_id": 132256
   },
   "TelNews_Magazine": {
-   "last_id": 101573
+   "last_id": 101574
   },
   "NE_WG": {
-   "last_id": 115108
+   "last_id": 115109
   }
  },
  "fails": {},
@@ -438,16 +438,6 @@
  },
  "recent": [
   {
-   "t": 1792495349.0,
-   "n": "global chaos inc grows to 101 groups with plans for new rounds of demonstrations the political theater of chaos inc is preparing for a rebellion sweeping europe two days after an estimated 500 000 demonstrators poured into streets across france and clashes left parts of paris and other cities burning french activists are calling supporters back into the streets saturday oct 24 for a new protest bi",
-   "fa": "⭕️ گسترش شبکه اعتراضات در اروپا و شناسایی ۱۰۱ سازمان مرتبط با آن توسط فاکس نیوز به گزارش فاکس نیوز تئاتر سیاسی «آشوب شرکت‌سهامی» در حال آماده‌سازی برای یک «شورش... فراگیر در اروپا» است. دو روز پس از آنکه تخمین زده می‌شود ۵۰۰ هزار تظاهرکننده به خیابان‌های سراسر فرانسه سرازیر شدند و درگیری‌ها بخش‌هایی از پاریس و سایر شهرها را به آتش کشید، فعالان فرانسوی حامیان خود را فرا می‌خوانند تا روز شنبه ۲۴ اکت"
-  },
-  {
-   "t": 1792495443.0,
-   "n": "hegseth said to make unannounced visit to israel for talks with netanyahu defense secretary pete hegseth traveled to the region as diplomatic efforts to end the war with iran have stalled two people with knowledge of the trip said israel will hold elections in a week",
-   "fa": "🚨 پیت هگسث در سفر اعلام‌نشده برای گفتگو با نتانیاهو وارد اسرائیل شد به گزارش نیویورک تایمز پیت هگسث، وزیر دفاع، در حالی که تلاش‌های دیپلماتیک برای پایان دادن به جنگ با ایران متوقف شده است، به منطقه سفر کرد؛ این موضوع را دو فرد مطلع از این سفر اعلام کردند. اسرائیل یک هفته دیگر انتخابات برگزار خواهد کرد."
-  },
-  {
    "t": 1792495632.0,
    "n": "uk prime minister andy burnham has asked the royal air force to conduct defensive missions to protect saudi arabia from houthi ansarallah attacks according to bloomberg raf typhoon fighter jets will be deployed to help defend saudi cities and infrastructure against aerial attacks",
    "fa": "🇬🇧🇸🇦🇾🇪⚡️ — اندی برنهام، نخست‌وزیر بریتانیا، از نیروی هوایی سلطنتی خواسته است ماموریت‌های دفاعی را برای محافظت از عربستان سعودی در برابر حملات حوثی‌ها (انصارالله) انجام دهد، بر اساس گزارش بلومبرگ. جنگنده‌های تایفون نیروی هوایی سلطنتی برای کمک به دفاع از شهرهای عربستان و زیرساخت‌ها در برابر حملات هوایی مستقر خواهند شد."
@@ -736,20 +726,25 @@
    "t": 1792511221.0,
    "n": "جروزالم پست ترامپ اخیرا تا آستانه صدور مجوز حمله به ایران پیش رفت",
    "fa": "⭕️جروزالم پست: ترامپ اخیراً تا آستانه صدور مجوز حمله به ایران پیش رفت"
+  },
+  {
+   "t": 1792512054.0,
+   "n": "تریتا پارسی هم اکنون احتمال وقوع دور سوم جنگ به 90 درصد رسیده است",
+   "fa": "🚨تریتا پارسی: هم اکنون احتمال وقوع دور سوم جنگ به 90 درصد رسیده است"
+  },
+  {
+   "t": 1792512148.0,
+   "n": "فرمانده ارتش پاکستان با رئیس جمهور دیدار کرد",
+   "fa": "🇵🇰🇮🇷 فرمانده ارتش پاکستان با رئیس‌جمهور دیدار کرد"
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 110
+  "requests": 111
  },
- "flip": 1201,
- "quote_n": 518,
+ "flip": 1202,
+ "quote_n": 519,
  "signals": [
-  {
-   "t": 1792425696.8344412,
-   "s": 4,
-   "p": 70
-  },
   {
    "t": 1792426290.8402884,
    "s": 4,
@@ -1529,6 +1524,16 @@
    "t": 1792511499.727185,
    "s": 5,
    "p": 90
+  },
+  {
+   "t": 1792512394.3502502,
+   "s": 5,
+   "p": 90
+  },
+  {
+   "t": 1792512399.1811004,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
