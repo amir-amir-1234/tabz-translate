@@ -336,7 +336,8 @@
     "SB10553546939527494218504593523850102740668",
     "SB10865903614445404644304593524021041939016",
     "SB11676206231181634135104593523643473933844",
-    "WP-WSJ-0003992282"
+    "WP-WSJ-0003992282",
+    "WP-WSJO-0000391609"
    ]
   },
   "NYT": {
@@ -447,11 +448,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792519577.0,
-   "n": "the british counter terrorism unit reportedly re arrested two men involved in the fairford airbase incident following a suspicion of association with iranian intelligence services",
-   "fa": "🇬🇧🇮🇷 واحد ضد تروریسم بریتانیا گزارش داد که دو مرد مرتبط با حادثه پایگاه هوایی فیرفورد را به ظن ارتباط با سرویس‌های اطلاعاتی ایران دوباره بازداشت کرده است."
-  },
   {
    "t": 1792519668.0,
    "n": "shahurah domestic airport is a dual civilian military airport in najran province southwestern ksa located 120 miles from ansarallah controlled yemen around 20 miles closer than king khalid ab ksa s known closest military base to ansarallah controlled yemen with a permanent fighter jet presence shahurah domestic airport has no permanent fighter jet presence and is likely housing fighter jets tempor",
@@ -746,14 +742,19 @@
    "t": 1792539735.0,
    "n": "the pentagon is reassessing its military presence in the middle east and the cost of rebuilding u s bases damaged by iranian attacks with officials considering whether some installations should be restored or abandoned according to breaking defense officials are working with centcom to determine which bases should be restored while reassessing defenses against drones and cruise missiles iranian st",
    "fa": "🇺🇸🇮🇷⚡️ — به گزارش «برکینگ دیفنس»، پنتاگون در حال ارزیابی مجدد حضور نظامی خود در خاورمیانه و هزینه‌های بازسازی پایگاه‌های آسیب‌دیده ایالات متحده در اثر حملات ایران است و مقامات در حال بررسی این موضوع هستند که آیا برخی از تأسیسات باید بازسازی شوند یا رها گردند. مقام‌ها با سنتکام همکاری می‌کنند تا مشخص کنند کدام پایگاه‌ها باید احیا شوند، در حالی که هم‌زمان دفاع در برابر پهپادها و موشک‌های کروز را مجد"
+  },
+  {
+   "t": 1792531560.0,
+   "n": "the mothers of kherson review a ukraine war opera a startlingly of the moment work about russia s abduction of children during the war in ukraine co commissioned by the metropolitan opera had its premiere in warsaw last week",
+   "fa": "🔴 اجرای اپرای مادران خرسون درباره ربایش کودکان اوکراینی در ورشو به گزارش وال‌استریت ژورنال، یک اثر تکان‌دهنده و کاملاً مرتبط با شرایط روز درباره ربایش کودکان توسط روسیه در جریان جنگ در اوکراین که به طور مشترک توسط اپرای متروپولیتن سفارش داده شده بود، هفته گذشته در ورشو به روی صحنه رفت."
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 202
+  "requests": 204
  },
- "flip": 1274,
- "quote_n": 553,
+ "flip": 1275,
+ "quote_n": 554,
  "signals": [
   {
    "t": 1792454163.6396017,
