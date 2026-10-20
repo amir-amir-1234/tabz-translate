@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108738
+   "last_id": 108739
   },
   "khabarfouri": {
    "last_id": 569949
@@ -448,11 +448,6 @@
  },
  "recent": [
   {
-   "t": 1792519293.0,
-   "n": "secretary of state marco rubio on iran we have a nation state that is openly openly saying we are targeting commercial vessels we are trying to kill sailors you haven t seen that since the second world war they are doing nazi u boat tactics that s what the world should be rallying around and condemning",
-   "fa": "🇺🇸🇮🇷⚡️ — وزیر امور خارجه، مارکو روبیو درباره ایران: ما با یک دولت-ملت روبرو هستیم که آشکارا می‌گوید: «ما کشتی‌های تجاری را هدف قرار می‌دهیم. ما تلاش می‌کنیم ملوانان را بکشیم.» شما از جنگ جهانی دوم تاکنون چنین چیزی ندیده‌اید. آن‌ها در حال اجرای تاکتیک‌های زیردریایی‌های نازی هستند. این همان چیزی است که جهان باید حول آن متحد شده و آن را محکوم کند."
-  },
-  {
    "t": 1792519577.0,
    "n": "the british counter terrorism unit reportedly re arrested two men involved in the fairford airbase incident following a suspicion of association with iranian intelligence services",
    "fa": "🇬🇧🇮🇷 واحد ضد تروریسم بریتانیا گزارش داد که دو مرد مرتبط با حادثه پایگاه هوایی فیرفورد را به ظن ارتباط با سرویس‌های اطلاعاتی ایران دوباره بازداشت کرده است."
@@ -746,11 +741,16 @@
    "t": 1792538224.0,
    "n": "white house envoy steve witkoff will meet russian president vladimir putin in st petersburg on wednesday to present an updated u s peace proposal for ukraine with jared kushner joining virtually according to axios the meeting follows talks in oslo involving zelensky the leaders of norway and finland and representatives from france britain germany poland the eu and nato a u s official said meaningf",
    "fa": "🇺🇸🇷🇺🇺🇦⚡️ — به گزارش آکسیوس، استیو ویتکوف، فرستاده کاخ سفید، روز چهارشنبه برای ارائه پیشنهاد صلح به‌روزرسانی‌شده ایالات متحده برای اوکراین، در سن‌پترزبورگ با ولادیمیر پوتین، رئیس‌جمهور روسیه، دیدار خواهد کرد و جارد کوشنر نیز به صورت مجازی در این نشست شرکت خواهد داشت. این دیدار به دنبال مذاکراتی در اسلو با حضور زلنسکی، رهبران نروژ و فنلاند و نمایندگانی از فرانسه، بریتانیا، آلمان، لهستان، اتحادیه ارو"
+  },
+  {
+   "t": 1792539735.0,
+   "n": "the pentagon is reassessing its military presence in the middle east and the cost of rebuilding u s bases damaged by iranian attacks with officials considering whether some installations should be restored or abandoned according to breaking defense officials are working with centcom to determine which bases should be restored while reassessing defenses against drones and cruise missiles iranian st",
+   "fa": "🇺🇸🇮🇷⚡️ — به گزارش «برکینگ دیفنس»، پنتاگون در حال ارزیابی مجدد حضور نظامی خود در خاورمیانه و هزینه‌های بازسازی پایگاه‌های آسیب‌دیده ایالات متحده در اثر حملات ایران است و مقامات در حال بررسی این موضوع هستند که آیا برخی از تأسیسات باید بازسازی شوند یا رها گردند. مقام‌ها با سنتکام همکاری می‌کنند تا مشخص کنند کدام پایگاه‌ها باید احیا شوند، در حالی که هم‌زمان دفاع در برابر پهپادها و موشک‌های کروز را مجد"
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 201
+  "requests": 202
  },
  "flip": 1274,
  "quote_n": 553,
@@ -1669,6 +1669,11 @@
    "t": 1792538474.8932776,
    "s": 2,
    "p": 60
+  },
+  {
+   "t": 1792539968.9220533,
+   "s": 5,
+   "p": 90
   }
  ],
  "risk": {
