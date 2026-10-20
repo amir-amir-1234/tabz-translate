@@ -10,7 +10,7 @@
    "last_id": 132213
   },
   "TelNews_Magazine": {
-   "last_id": 101537
+   "last_id": 101538
   },
   "NE_WG": {
    "last_id": 115066
@@ -317,7 +317,8 @@
     "WP-WSJ-0003989525",
     "WP-WSJ-0003988838",
     "WP-WSJ-0003989215",
-    "WP-WSJ-0003990128"
+    "WP-WSJ-0003990128",
+    "WP-WSJ-0003990159"
    ]
   },
   "NYT": {
@@ -425,11 +426,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792438423.0,
-   "n": "ترامپ درباره اعتراضات فرانسه پاریس به زودی به شهر مسلمانان تبدیل می شود",
-   "fa": "⭕️ترامپ درباره اعتراضات فرانسه: پاریس به زودی به شهر مسلمانان تبدیل می‌شود"
-  },
   {
    "t": 1792438927.0,
    "n": "دونالد ترامپ درباره اوکراین ما در حال مذاکره با پوتین درباره اوکراین هستیم بنابراین قصد نداریم مذاکرات را درست در میانه راه متوقف کنیم",
@@ -724,14 +720,19 @@
    "t": 1792479240.0,
    "n": "u k wage growth picks up ahead of bank of england meeting wage growth rose a little in the three months through august with unemployment also falling raising the likelihood that the bank of england will raise its key rate next month",
    "fa": "⭕️ افزایش رشد دستمزدها در بریتانیا در آستانه نشست بانک مرکزی به گزارش وال‌استریت ژورنال رشد دستمزدها در دوره سه ماهه منتهی به ماه اوت اندکی افزایش یافت و همزمان نرخ بیکاری نیز کاهش پیدا کرد. این تحولات احتمال اینکه بانک مرکزی بریتانیا نرخ بهره کلیدی خود را در ماه آینده افزایش دهد، بیشتر کرده است."
+  },
+  {
+   "t": 1792480020.0,
+   "n": "oil prices up as traders weigh middle east supply risks oil prices rose as traders weighed persistent middle east supply risks against signs of recovering gulf crude exports and prospects for additional russian energy supplies",
+   "fa": "🔴 افزایش قیمت نفت همزمان با ارزیابی ریسک‌های عرضه خاورمیانه توسط معامله‌گران به گزارش وال‌استریت ژورنال قیمت نفت همزمان با ارزیابی ریسک‌های مداوم عرضه در خاورمیانه در برابر نشانه‌هایی از بهبود صادرات نفت خام خلیج فارس و چشم‌انداز افزایش عرضه‌های انرژی روسیه، افزایش یافت."
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 23
+  "requests": 25
  },
- "flip": 1122,
- "quote_n": 480,
+ "flip": 1123,
+ "quote_n": 481,
  "signals": [
   {
    "t": 1792393869.0681677,
@@ -1487,6 +1488,11 @@
    "t": 1792479371.6838112,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792480271.7892175,
+   "s": 4,
+   "p": 50
   }
  ],
  "risk": {
