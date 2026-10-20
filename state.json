@@ -334,7 +334,8 @@
     "WP-WSJ-0003991992",
     "SB11676206231181634135104593521821411871326",
     "SB10553546939527494218504593523850102740668",
-    "SB10865903614445404644304593524021041939016"
+    "SB10865903614445404644304593524021041939016",
+    "SB11676206231181634135104593523643473933844"
    ]
   },
   "NYT": {
@@ -445,11 +446,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792518170.0,
-   "n": "secretary of war pete hegseth we re going to run the department of war like a business not a bureaucracy",
-   "fa": "🇺🇸⚡️ — وزیر دفاع، پیت هگست: ما وزارت دفاع را مانند یک کسب‌وکار اداره خواهیم کرد، نه یک بوروکراسی."
-  },
   {
    "t": 1792518197.0,
    "n": "senior qatari officials are also arriving in tehran iran presumably to take part in today s meeting both qatar and pakistan are mediators in the u s iran peace negotiations",
@@ -744,14 +740,19 @@
    "t": 1792532160.0,
    "n": "opinion russia arrests another journalist this time the target is a japanese reporter as putin fans tensions",
    "fa": "🔴 بازداشت یک خبرنگار ژاپنی در روسیه همزمان با افزایش تنش‌آفرینی‌های پوتین به گزارش وال‌استریت ژورنال روسیه در ادامه اقدامات خود خبرنگار دیگری را این بار از کشور ژاپن بازداشت کرده است. بر اساس این گزارش این اقدام در شرایطی صورت می‌گیرد که ولادیمیر پوتین رئیس‌جمهور روسیه به تنش‌آفرینی‌های خود ادامه می‌دهد."
+  },
+  {
+   "t": 1792532280.0,
+   "n": "opinion trump s new global triumvirate his yalta 2 courtship of putin and xi could blow up alliances at home and abroad",
+   "fa": "⭕️ دیدگاه: آیا ترامپ به دنبال ایجاد یک تریومویرات جهانی جدید است؟ به گزارش وال‌استریت ژورنال، تلاش دوم ترامپ برای توافق به سبک یالتا با پوتین و شی جین‌پینگ می‌تواند اتحادها را در داخل و خارج از کشور منفجر کند."
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 189
+  "requests": 191
  },
- "flip": 1267,
- "quote_n": 551,
+ "flip": 1268,
+ "quote_n": 552,
  "signals": [
   {
    "t": 1792446674.6949434,
@@ -1657,6 +1658,11 @@
    "t": 1792531888.4482262,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1792532772.771674,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
