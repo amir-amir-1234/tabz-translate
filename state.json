@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108729
+   "last_id": 108731
   },
   "khabarfouri": {
    "last_id": 569949
@@ -442,16 +442,6 @@
  },
  "recent": [
   {
-   "t": 1792514695.0,
-   "n": "more than 72 civilians were killed following an airstrike attributed to the sudanese air force in the market of the town of amiet in the abyei special administrative region with some local sources claiming a number as high as 220 civilians killed following the attack the south sudanese government recalled the sudanese ambassador for protestations and to receive an official explanation the abyei re",
-   "fa": "🇸🇩🇸🇸⚡️ — بیش از ۷۲ غیرنظامی در پی حمله هوایی منتسب به نیروی هوایی سودان به بازار شهر امیئت در منطقه اداری ویژه ابی، کشته شدند و برخی منابع محلی شمار کشته‌شدگان را تا ۲۲۰۰ غیرنظامی نیز اعلام کرده‌اند. به دنبال این حمله، دولت سودان جنوبی سفیر سودان را برای اعتراض و دریافت توضیح رسمی احضار کرد. 📝 منطقه ابی یک منطقه اداری ویژه و غنی از نفت است که به‌طور مشترک توسط سودان و سودان جنوبی اداره می‌شود و بر"
-  },
-  {
-   "t": 1792514951.0,
-   "n": "دیدار ویتکاف و زلنسکی در نروژ",
-   "fa": "🇺🇸🇺🇦🇳🇴 دیدار ویتکاف و زلنسکی در نروژ"
-  },
-  {
    "t": 1792514976.0,
    "n": "وضعیت وحشتناک اتصال اینترنت بین الملل در ایران ارتباط udp قطع و اتصال به tcp با کندی پیش میرود در آخرین لحظاتی که وضعیت به این شکل بود شبکه اینترنت بین الملل برای ماه ها خاموش شد",
    "fa": "⭕️وضعیت وحشتناک اتصال اینترنت بین الملل در ایران ارتباط UDP قطع و اتصال به TCP با کندی پیش میرود ؛ در آخرین لحظاتی که وضعیت به این شکل بود شبکه اینترنت بین الملل برای ماه ها خاموش شد."
@@ -740,14 +730,24 @@
    "t": 1792526934.0,
    "n": "نتانیاهو درباره ترامپ رئیس جمهور ترامپ پدیده ای است که شاید هر صد سال یک بار ظهور کند مشارکت میان ما از زمان تأسیس اسرائیل در نزدیک به ۸۰ سال پیش بی سابقه بوده است",
    "fa": "🇮🇱🇺🇸 نتانیاهو درباره ترامپ: ‼️«رئیس‌جمهور ترامپ پدیده‌ای است که شاید هر صد سال یک‌بار ظهور کند. مشارکت میان ما، از زمان تأسیس اسرائیل در نزدیک به ۸۰ سال پیش، بی‌سابقه بوده است.»"
+  },
+  {
+   "t": 1792527024.0,
+   "n": "saudi led coalition to restore legitimacy in yemen has published footage of a royal saudi air force airstrike against an ansarallah ballistic missile launcher claiming it was used in an earlier launch towards riyadh capital of ksa",
+   "fa": "🇸🇦❌🇾🇪 — ائتلاف به رهبری عربستان سعودی برای بازگرداندن مشروعیت در یمن، تصاویری از حمله هوایی نیروی هوایی سلطنتی عربستان به یک سکوی پرتاب موشک بالستیک انصارالله منتشر کرد و مدعی شد که این سکو در پرتاب قبلی به سمت ریاض، پایتخت عربستان، استفاده شده است."
+  },
+  {
+   "t": 1792527109.0,
+   "n": "tasnim news agency citing an informed source denies reports that a qatari delegation traveled to tehran iran earlier today assuming tasnim s report is true it is unclear what the qatari aircraft was present for it was there for an irregularly short time it was probably there to deliver either a note or money",
+   "fa": "🔄 به‌روزرسانی 🇮🇷🇶🇦⚡️ — خبرگزاری تسنیم به نقل از یک منبع آگاه، گزارش‌ها درباره سفر یک هیئت قطری به تهران در اوایل امروز را تکذیب کرد. با فرض صحت گزارش تسنیم، مشخص نیست هواپیمای قطری برای چه منظوری حضور داشته است. این حضور به طور غیرعادی کوتاه بود؛ احتمالاً برای تحویل یک یادداشت یا پول بوده است."
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 173
+  "requests": 175
  },
- "flip": 1255,
- "quote_n": 539,
+ "flip": 1256,
+ "quote_n": 540,
  "signals": [
   {
    "t": 1792440977.722086,
@@ -1643,6 +1643,16 @@
    "t": 1792527087.170654,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792527394.4078405,
+   "s": 4,
+   "p": 60
+  },
+  {
+   "t": 1792527397.8844528,
+   "s": 2,
+   "p": 40
   }
  ],
  "risk": {
