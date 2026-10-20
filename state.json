@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108652
+   "last_id": 108656
   },
   "khabarfouri": {
    "last_id": 569949
@@ -423,11 +423,6 @@
  },
  "recent": [
   {
-   "t": 1792434408.0,
-   "n": "ادعای مدیرکل استاندارد ۱۲۲ استاندارد مختلف در خودروهای داخلی چک می شود",
-   "fa": "💢ادعای مدیرکل استاندارد: ۱۲۲ استاندارد مختلف در خودروهای داخلی چک می‌شود!"
-  },
-  {
    "t": 1792434586.0,
    "n": "u s official to cnn denies reports that u s forces struck konorak naval base iran",
    "fa": "🔄 به‌روزرسانی 🇺🇸🇮🇷⚡️ — یک مقام ایالات متحده به سی‌ان‌ان گزارش‌ها مبنی بر حمله نیروهای آمریکایی به پایگاه دریایی کنارک در ایران را تکذیب کرد."
@@ -721,13 +716,18 @@
    "t": 1792453800.0,
    "n": "vance declines to endorse netanyahu in re election bid the vice president split from trump who backed israeli prime minister benjamin netanyahu in israel s oct 27 election",
    "fa": "🔴 خودداری معاون رئیس‌جمهور آمریکا از حمایت از نتانیاهو در انتخابات پیش‌رو به گزارش وال‌استریت ژورنال، معاون رئیس‌جمهور از حمایت از بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در رقابت انتخاباتی مجدد او خودداری کرد. معاون رئیس‌جمهور در این زمینه با ترامپ که از نخست‌وزیر اسرائیل در انتخابات ۲۷ اکتبر این کشور حمایت کرده بود، اختلاف نظر پیدا کرد."
+  },
+  {
+   "t": 1792456491.0,
+   "n": "president trump issued a warning via truth social claiming that the democratic party wants the ongoing riots and migration in france to happen in america also calling on europe to close its borders",
+   "fa": "🇺🇸🇫🇷⚡️ — رئیس‌جمهور ترامپ طی پیامی در تروث‌سوشال مدعی شد که حزب دموکرات می‌خواهد ناآرامی‌ها و مهاجرت‌های جاری در فرانسه در آمریکا نیز رخ دهد و همچنین از اروپا خواست مرزهای خود را ببندد:"
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 0
+  "requests": 1
  },
- "flip": 1109,
+ "flip": 1110,
  "quote_n": 477,
  "signals": [
   {
@@ -1509,6 +1509,11 @@
    "t": 1792454163.6396017,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792456566.7147455,
+   "s": 4,
+   "p": 30
   }
  ],
  "risk": {
