@@ -1,16 +1,16 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108717
+   "last_id": 108719
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132265
+   "last_id": 132266
   },
   "TelNews_Magazine": {
-   "last_id": 101586
+   "last_id": 101587
   },
   "NE_WG": {
    "last_id": 115125
@@ -439,21 +439,6 @@
  },
  "recent": [
   {
-   "t": 1792505498.0,
-   "n": "president trump on iran we could win the war tomorrow frankly we could leave today and we ve already won",
-   "fa": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره ایران: ما می‌توانیم جنگ را فردا پیروز شویم. صادقانه بگویم، ما همین امروز می‌توانیم خارج شویم و از همین حالا پیروز شده‌ایم."
-  },
-  {
-   "t": 1792505648.0,
-   "n": "ترامپ جهان بابت کارهایی که ما در ایران انجام می دهیم بسیار سپاسگزار است",
-   "fa": "⭕️ترامپ: جهان بابت کارهایی که ما در ایران انجام می‌دهیم، بسیار سپاسگزار است"
-  },
-  {
-   "t": 1792505745.0,
-   "n": "president trump on iran we re doing something that biden and obama should have done stop the iran situation because you just can t have that we wouldn t even have a world the world is very thankful for what we re doing our prices are much lower you re gonna see some very low oil prices very soon",
-   "fa": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره ایران: ما کاری را انجام می‌دهیم که بایدن و اوباما باید انجام می‌دادند: متوقف کردن وضعیت ایران، چون نمی‌توان آن را تحمل کرد. ما حتی دنیایی نخواهیم داشت. جهان بابت کاری که ما انجام می‌دهیم بسیار سپاسگزار است. قیمت‌های ما بسیار پایین‌تر است. به‌زودی شاهد قیمت‌های بسیار پایین نفت خواهید بود."
-  },
-  {
    "t": 1792506937.0,
    "n": "سردار ابن الرضا به عنوان مشاور رئیس جمهور در امور دفاعی کشور منصوب شد",
    "fa": "🇮🇷🇮🇷سردار ابن الرضا به عنوان «مشاور رئیس‌جمهور در امور دفاعی کشور» منصوب شد"
@@ -737,20 +722,30 @@
    "t": 1792519293.0,
    "n": "secretary of state marco rubio on iran we have a nation state that is openly openly saying we are targeting commercial vessels we are trying to kill sailors you haven t seen that since the second world war they are doing nazi u boat tactics that s what the world should be rallying around and condemning",
    "fa": "🇺🇸🇮🇷⚡️ — وزیر امور خارجه، مارکو روبیو درباره ایران: ما با یک دولت-ملت روبرو هستیم که آشکارا می‌گوید: «ما کشتی‌های تجاری را هدف قرار می‌دهیم. ما تلاش می‌کنیم ملوانان را بکشیم.» شما از جنگ جهانی دوم تاکنون چنین چیزی ندیده‌اید. آن‌ها در حال اجرای تاکتیک‌های زیردریایی‌های نازی هستند. این همان چیزی است که جهان باید حول آن متحد شده و آن را محکوم کند."
+  },
+  {
+   "t": 1792519577.0,
+   "n": "the british counter terrorism unit reportedly re arrested two men involved in the fairford airbase incident following a suspicion of association with iranian intelligence services",
+   "fa": "🇬🇧🇮🇷 واحد ضد تروریسم بریتانیا گزارش داد که دو مرد مرتبط با حادثه پایگاه هوایی فیرفورد را به ظن ارتباط با سرویس‌های اطلاعاتی ایران دوباره بازداشت کرده است."
+  },
+  {
+   "t": 1792519668.0,
+   "n": "shahurah domestic airport is a dual civilian military airport in najran province southwestern ksa located 120 miles from ansarallah controlled yemen around 20 miles closer than king khalid ab ksa s known closest military base to ansarallah controlled yemen with a permanent fighter jet presence shahurah domestic airport has no permanent fighter jet presence and is likely housing fighter jets tempor",
+   "fa": "🇸🇦🇾🇪⚡️ فرودگاه داخلی شروره یک فرودگاه دوگانه غیر نظامی-نظامی در استان نجران در جنوب غربی عربستان سعودی است که در فاصله حدود ۱۲۰ مایلی مناطق تحت کنترل انصارالله در یمن واقع شده است، حدود ۲۰ مایل نزدیک‌تر از پایگاه هوایی ملک خالد، که به عنوان نزدیک‌ترین پایگاه نظامی شناخته شده عربستان به مناطق تحت کنترل انصارالله با حضور دائمی جنگنده‌ها است. فرودگاه داخلی شروره حضور دائمی جنگنده ندارد و احتمالاً به "
+  },
+  {
+   "t": 1792519782.0,
+   "n": "فرمانده ارتش پاکستان ما نگران احتمال از سرگیری جنگ هستیم",
+   "fa": "⭕️فرمانده ارتش پاکستان: ما نگران احتمال از سرگیری جنگ هستیم"
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 143
+  "requests": 146
  },
- "flip": 1233,
- "quote_n": 527,
+ "flip": 1235,
+ "quote_n": 529,
  "signals": [
-  {
-   "t": 1792433179.1213567,
-   "s": 4,
-   "p": 65
-  },
   {
    "t": 1792433476.31688,
    "s": 5,
@@ -1610,6 +1605,21 @@
    "t": 1792519587.4381504,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1792519887.2888703,
+   "s": 4,
+   "p": 50
+  },
+  {
+   "t": 1792519891.2138345,
+   "s": 4,
+   "p": 60
+  },
+  {
+   "t": 1792519894.6790273,
+   "s": 4,
+   "p": 70
   }
  ],
  "risk": {
