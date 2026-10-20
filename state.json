@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108734
+   "last_id": 108736
   },
   "khabarfouri": {
    "last_id": 569949
@@ -447,11 +447,6 @@
  },
  "recent": [
   {
-   "t": 1792518354.0,
-   "n": "secretary of war pete hegseth i just arrived back from a trip to central command and got to meet with pilots and refuelers and maintainers that are out there on the front lines doing historic work in ensuring that iran never has a nuclear weapon",
-   "fa": "🇺🇸❌🇮🇷 — وزیر دفاع، پیت هگست: من تازه از سفری به ستاد فرماندهی مرکزی (سنتکام) برگشته‌ام و توانستم با خلبانان، سوخت‌رسان‌ها و تعمیرکارانی که در خط مقدم حضور دارند، دیدار کنم؛ کسانی که در حال انجام کاری تاریخی برای اطمینان از عدم دستیابی ایران به سلاح هسته‌ای هستند."
-  },
-  {
    "t": 1792518761.0,
    "n": "فرمانده ارتش پاکستان فیلد مارشال عاصم منیر تهران را ترک کرد",
    "fa": "🇵🇰🇶🇦🇮🇷 فرمانده ارتش پاکستان، فیلد مارشال عاصم منیر، تهران را ترک کرد."
@@ -745,30 +740,20 @@
    "t": 1792533301.0,
    "n": "عراقچی آمریکا در باتلاق جنگ با ایران گرفتار شده است",
    "fa": "‼️عراقچی: آمریکا در باتلاق جنگ با ایران گرفتار شده است"
+  },
+  {
+   "t": 1792533885.0,
+   "n": "a source that participated in an iraq iran kurdistan security meeting yesterday told rudaw that the status of iranian kurdish militia groups was not discussed in the meeting despite a post on x by iranian ambassador to iraq mohammad kazem ale sadegh claiming that it had been agreed that iranian kurdish militia groups present in iraq would either be expelled from iraqi kurdistan or be transferred t",
+   "fa": "🇮🇶🇮🇷🇮🇶⚡️ — یک منبع شرکت‌کننده در نشست امنیتی ایران، عراق و اقلیم کردستان روز گذشته به شبکه رووداو گفت که وضعیت گروه‌های شبه‌نظامی کرد ایرانی در این نشست بررسی نشده است، برخلاف ادعای محمدکاظم آل‌صادق، سفیر ایران در عراق، در شبکه ایکس که مدعی شده بود توافق شده این گروه‌ها از اقلیم کردستان اخراج یا به بازداشت ایران درآورده شوند."
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 193
+  "requests": 194
  },
- "flip": 1269,
+ "flip": 1270,
  "quote_n": 552,
  "signals": [
-  {
-   "t": 1792447289.4894044,
-   "s": 4,
-   "p": 75
-  },
-  {
-   "t": 1792447294.820647,
-   "s": 4,
-   "p": 70
-  },
-  {
-   "t": 1792447299.0620482,
-   "s": 5,
-   "p": 90
-  },
   {
    "t": 1792447931.1580107,
    "s": 4,
@@ -1678,6 +1663,11 @@
    "t": 1792533375.5760808,
    "s": 4,
    "p": 80
+  },
+  {
+   "t": 1792533968.6910114,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
