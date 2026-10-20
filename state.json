@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132290
+   "last_id": 132291
   },
   "TelNews_Magazine": {
    "last_id": 101606
   },
   "NE_WG": {
-   "last_id": 115148
+   "last_id": 115149
   }
  },
  "fails": {},
@@ -447,11 +447,6 @@
  },
  "recent": [
   {
-   "t": 1792518761.0,
-   "n": "فرمانده ارتش پاکستان فیلد مارشال عاصم منیر تهران را ترک کرد",
-   "fa": "🇵🇰🇶🇦🇮🇷 فرمانده ارتش پاکستان، فیلد مارشال عاصم منیر، تهران را ترک کرد."
-  },
-  {
    "t": 1792518866.0,
    "n": "پزشکیان آمریکایی ها برای هرگونه مذاکره ابتدا باید فشارها و تحریم ها را بردارند",
    "fa": "⭕️پزشکیان: آمریکایی‌ها برای هرگونه مذاکره ابتدا باید فشارها و تحریم‌ها را بردارند!"
@@ -745,13 +740,18 @@
    "t": 1792533885.0,
    "n": "a source that participated in an iraq iran kurdistan security meeting yesterday told rudaw that the status of iranian kurdish militia groups was not discussed in the meeting despite a post on x by iranian ambassador to iraq mohammad kazem ale sadegh claiming that it had been agreed that iranian kurdish militia groups present in iraq would either be expelled from iraqi kurdistan or be transferred t",
    "fa": "🇮🇶🇮🇷🇮🇶⚡️ — یک منبع شرکت‌کننده در نشست امنیتی ایران، عراق و اقلیم کردستان روز گذشته به شبکه رووداو گفت که وضعیت گروه‌های شبه‌نظامی کرد ایرانی در این نشست بررسی نشده است، برخلاف ادعای محمدکاظم آل‌صادق، سفیر ایران در عراق، در شبکه ایکس که مدعی شده بود توافق شده این گروه‌ها از اقلیم کردستان اخراج یا به بازداشت ایران درآورده شوند."
+  },
+  {
+   "t": 1792533994.0,
+   "n": "عراقچی با توجه تجربیات پیشین هیچ اعتمادی به رویکرد آمریکایی ها وجود ندارد",
+   "fa": "‼️عراقچی: با توجه تجربیات پیشین ، هیچ اعتمادی به رویکرد آمریکایی‌ها وجود ندارد"
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 194
+  "requests": 195
  },
- "flip": 1270,
+ "flip": 1271,
  "quote_n": 552,
  "signals": [
   {
@@ -1668,6 +1668,11 @@
    "t": 1792533968.6910114,
    "s": 3,
    "p": 50
+  },
+  {
+   "t": 1792534274.428393,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
