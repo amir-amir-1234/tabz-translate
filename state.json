@@ -98,7 +98,8 @@
     "https://www.foxnews.com/world/us-lawmakers-sound-alarm-violence-grips-nato-ally-albania-amid-anti-government-protests",
     "https://www.foxnews.com/world/alberta-holds-non-binding-separation-vote-independence-fight-grips-canada",
     "https://www.foxnews.com/world/hungary-poland-defend-tough-migration-policies-france-reels-from-violent-unrest",
-    "https://www.foxnews.com/world/beleaguered-macron-cites-us-iran-war-factor-protests-amid-trump-vance-criticism"
+    "https://www.foxnews.com/world/beleaguered-macron-cites-us-iran-war-factor-protests-amid-trump-vance-criticism",
+    "https://www.foxnews.com/world/some-synagogues-canceled-prayers-french-jews-faced-warnings-amid-violent-protests"
    ]
   },
   "WSJ": {
@@ -319,7 +320,8 @@
     "WP-WSJ-0003989215",
     "WP-WSJ-0003990128",
     "WP-WSJ-0003990159",
-    "WP-WSJ-0003990380"
+    "WP-WSJ-0003990380",
+    "WP-WSJ-0003989769"
    ]
   },
   "NYT": {
@@ -428,16 +430,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792447378.0,
-   "n": "beleaguered macron cites us iran war as factor in protests amid trump vance criticism the embattled french president emmanuel macron on sunday pinned some of the blame on the u s war against the terrorist regime in iran for the widespread riots and looting unfolding across france the controversial passage referring to the iran war from his televised speech triggered criticism from some experts mac",
-   "fa": "⭕️ امانوئل مکرون جنگ آمریکا و ایران را عاملی در ناآرامی‌های فرانسه خواند و با انتقادات ترامپ و ونس روبه‌رو شد به گزارش فاکس نیوز امانوئل مکرون، رئیس‌جمهور تحت فشار فرانسه، روز یکشنبه بخشی از ملامت ناآرامی‌ها و غارت‌های گسترده در سراسر فرانسه را متوجه جنگ ایالات متحده علیه رژیم تروریستی در ایران کرد. بخش جنجالی سخنرانی تلویزیونی مکرون که به جنگ ایران اشاره داشت، انتقاد برخی کارشناسان را برانگیخت. م"
-  },
-  {
-   "t": 1792447525.0,
-   "n": "president trump putin is laying off iran that s nice because we re hitting iran very hard as you know economically as well as militarily russia has done nothing in iran that we can see and i think that s very positive we re negotiating with putin on ukraine so i m not looking to break up negotiations right in the middle",
-   "fa": "🇺🇸🇺🇦🇷🇺🇮🇷⚡️ — رئیس‌جمهور ترامپ: پوتین دست از حمایت ایران برداشته است. این خوب است چون همان‌طور که می‌دانید ما از نظر اقتصادی و نظامی فشار سختی به ایران می‌آوریم. روسیه کاری در ایران انجام نداده که ما بتوانیم ببینیم، و من فکر می‌کنم این بسیار مثبت است. ما در حال مذاکره با پوتین درباره اوکراین هستیم، بنابراین قصد نداریم مذاکرات را درست در میانه راه متوقف کنیم."
-  },
   {
    "t": 1792448178.0,
    "n": "خبرگزاری یونهاپ کره جنوبی کیم جونگ اون زنده است و امروز از یک سایت نظامی در کره شمالی بازدید کرده",
@@ -727,25 +719,25 @@
    "t": 1792490292.0,
    "n": "نیروی قدس سپاه پاسداران انقلاب اسلامی اعلام کرد که دو تانکر نفتی به آتش کشیده شده و متوقف شدند پس از اینکه با مین های دریایی کار گذاشته شده توسط سپاه در تنگه هرمز جنوبی برخورد کردند",
    "fa": "🔄 به‌روزرسانی 🚨 〰️ نیروی قدس سپاه پاسداران انقلاب اسلامی اعلام کرد که دو تانکر نفتی به آتش کشیده شده و متوقف شدند، پس از اینکه با مین‌های دریایی کار گذاشته شده توسط سپاه در تنگه هرمز جنوبی برخورد کردند."
+  },
+  {
+   "t": 1792490407.0,
+   "n": "some synagogues canceled prayers as french jews faced warnings amid violent protests for some french jews saturday s unrest brought an unsettling warning conceal outward signs of jewish identity and avoid gathering outside synagogues one community member told fox news digital that some congregations had even canceled afternoon prayers on the sabbath as demonstrations across france descended into v",
+   "fa": "⭕️ لغو نماز برخی یهودیان فرانسوی همزمان با هشدارهای امنیتی در پی اعتراضات خشونت‌بار به گزارش فاکس نیوز ناآرامی‌های روز شنبه هشدار نگران‌کننده‌ای را برای برخی از یهودیان فرانسوی به همراه داشت که بر اساس آن از آنان خواسته شد نشانه‌های ظاهری هویت یهودی خود را پنهان کنند و از تجمع در بیرون کنیسه‌ها بپرهیزند. یک عضو این جامعه به فاکس نیوز دیجیتال گفت که برخی از جماعت‌ها حتی مراسم نماز عصر را در روز سبت"
+  },
+  {
+   "t": 1792490580.0,
+   "n": "netflix won the streaming wars now it faces its biggest disruption in years plus we examine how the riots in france benefit marine le pen and why nurses are quitting in droves",
+   "fa": "🔴 نتفلیکس جنگ‌های استریم را برد اما اکنون با بزرگ‌ترین اختلال خود روبه‌رو است به گزارش وال‌استریت ژورنال علاوه بر این، ما بررسی می‌کنیم که چگونه شورش‌ها در فرانسه به سود مارین لوپن تمام می‌شود و چرا پرستاران دسته‌جمعی استعفا می‌دهند."
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 46
+  "requests": 48
  },
- "flip": 1145,
- "quote_n": 493,
+ "flip": 1147,
+ "quote_n": 494,
  "signals": [
-  {
-   "t": 1792404113.753115,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1792404120.3948696,
-   "s": 5,
-   "p": 85
-  },
   {
    "t": 1792404976.6540048,
    "s": 4,
