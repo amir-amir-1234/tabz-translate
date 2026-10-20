@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108722
+   "last_id": 108723
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132271
+   "last_id": 132272
   },
   "TelNews_Magazine": {
-   "last_id": 101591
+   "last_id": 101592
   },
   "NE_WG": {
-   "last_id": 115130
+   "last_id": 115131
   }
  },
  "fails": {},
@@ -440,11 +440,6 @@
  },
  "recent": [
   {
-   "t": 1792509204.0,
-   "n": "u s ambassador to india sergio gor the united states and india aren t just strategic partners we re architects of the world of tomorrow",
-   "fa": "🇺🇸🇮🇳⚡️ — سرجیو گور، سفیر ایالات متحده در هند: ایالات متحده و هند صرفاً شرکای استراتژیک نیستند. ما معماران دنیای فردا هستیم."
-  },
-  {
    "t": 1792509278.0,
    "n": "israeli prime minister netanyahu we will also have peace with lebanon but we must complete the elimination of the iranian regime that s the main thing",
    "fa": "🇮🇱🇱🇧🇮🇷⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: ما با لبنان نیز صلح خواهیم کرد. اما باید نابودی رژیم ایران را کامل کنیم - این موضوع اصلی است."
@@ -738,20 +733,20 @@
    "t": 1792522580.0,
    "n": "تقوی نیا ایران آماده جنگ است",
    "fa": "📲تقوی‌نیا: ایران آماده جنگ است‼️"
+  },
+  {
+   "t": 1792522921.0,
+   "n": "رئیس کمیسون امنیت ملی خطاب به اسرائیل انتهای مسیرتون نابودی به دست اراده ملت شجاع ایران و جبهه مقاومته",
+   "fa": "⭕️رئیس کمیسون امنیت ملی خطاب به اسرائیل: انتهای مسیرتون نابودی به دست اراده ملت شجاع ایران و جبهه مقاومته."
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 158
+  "requests": 159
  },
- "flip": 1241,
- "quote_n": 533,
+ "flip": 1242,
+ "quote_n": 534,
  "signals": [
-  {
-   "t": 1792436492.5169504,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1792436771.9672852,
    "s": 5,
@@ -1636,6 +1631,11 @@
    "t": 1792522931.793213,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792523165.8685486,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
