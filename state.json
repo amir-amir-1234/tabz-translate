@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108664
+   "last_id": 108666
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132237
+   "last_id": 132238
   },
   "TelNews_Magazine": {
    "last_id": 101554
@@ -99,7 +99,8 @@
     "https://www.foxnews.com/world/alberta-holds-non-binding-separation-vote-independence-fight-grips-canada",
     "https://www.foxnews.com/world/hungary-poland-defend-tough-migration-policies-france-reels-from-violent-unrest",
     "https://www.foxnews.com/world/beleaguered-macron-cites-us-iran-war-factor-protests-amid-trump-vance-criticism",
-    "https://www.foxnews.com/world/some-synagogues-canceled-prayers-french-jews-faced-warnings-amid-violent-protests"
+    "https://www.foxnews.com/world/some-synagogues-canceled-prayers-french-jews-faced-warnings-amid-violent-protests",
+    "https://www.foxnews.com/world/global-chaos-inc-grows-101-groups-plans-new-rounds-demonstrations"
    ]
   },
   "WSJ": {
@@ -384,7 +385,8 @@
     "https://www.nytimes.com/2026/10/19/world/middleeast/trump-netanyahu-endorsement-election.html",
     "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
     "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html",
-    "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html"
+    "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html",
+    "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html"
    ]
   },
   "Treasury": {
@@ -432,26 +434,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792475698.0,
-   "n": "ترامپ درباره اروپا مهاجران جهان سومی از همه چیز درباره فرانسه بیزارند و در حال نابود کردن این کشور هستند ما اجازه نخواهیم داد چنین اتفاقی برای کشور خودمان بیفتد",
-   "fa": "🇺🇸🇪🇺 ترامپ درباره اروپا: «مهاجران جهان سومی از همه‌چیز درباره فرانسه بیزارند و در حال نابود کردن این کشور هستند. ما اجازه نخواهیم داد چنین اتفاقی برای کشور خودمان بیفتد.»"
-  },
-  {
-   "t": 1792475881.0,
-   "n": "نتانیاهو درباره ایران دستور امروز من به موساد ارتش اسرائیل idf و سازمان اطلاعات نظامی سرنگونی این رژیم است",
-   "fa": "🇮🇱🇮🇷💢نتانیاهو درباره ایران: «دستور امروز من به موساد، ارتش اسرائیل (IDF) و سازمان اطلاعات نظامی، سرنگونی این رژیم است.»"
-  },
-  {
-   "t": 1792477921.0,
-   "n": "فرمانده ارتش پاکستان امروز رهسپار ایران می شود یک منبع رسمی به خبرنگار ایرنا گفت که فیلد مارشال سید عاصم منیر رئیس نیروهای دفاعی و فرمانده ارتش پاکستان امروز سه شنبه ۲۸ مهر به ایران سفر می کند",
-   "fa": "💢فرمانده ارتش پاکستان امروز رهسپار ایران می‌شود یک منبع رسمی به خبرنگار ایرنا گفت که فیلد مارشال «سید عاصم منیر» رئیس نیروهای دفاعی و فرمانده ارتش پاکستان امروز سه‌شنبه ۲۸ مهر به ایران سفر می‌کند."
-  },
-  {
-   "t": 1792478534.0,
-   "n": "ترامپ درباره ایران ایران ۲۲۹ فروند جنگنده زیبا داشت ما همه آن ها را نابود کردیم",
-   "fa": "🇺🇸🇮🇷 ترامپ درباره ایران: «ایران ۲۲۹ فروند جنگنده زیبا داشت. ما همه آن‌ها را نابود کردیم.»"
-  },
   {
    "t": 1792478784.0,
    "n": "ترامپ ما در ایران کمک خواستیم کمکی که به آن نیاز نداشتیم اما من ناتو را در حال آزمایش بودم",
@@ -731,14 +713,34 @@
    "t": 1792495501.0,
    "n": "محسن رضایی دیدار با عاصم منیر را نپذیرفت به گزارش ایران پالیسی محسن رضایی دبیر شورای عالی امنیت ملی ایران درخواست دیدار عاصم منیر فرمانده ارتش پاکستان را نپذیرفته است",
    "fa": "🔄 به‌روزرسانی 🚨محسن رضایی دیدار با عاصم منیر را نپذیرفت💢 💢به گزارش ایران پالیسی، محسن رضایی، دبیر شورای‌عالی امنیت ملی ایران، درخواست دیدار عاصم منیر، فرمانده ارتش پاکستان، را نپذیرفته است."
+  },
+  {
+   "t": 1792495349.0,
+   "n": "global chaos inc grows to 101 groups with plans for new rounds of demonstrations the political theater of chaos inc is preparing for a rebellion sweeping europe two days after an estimated 500 000 demonstrators poured into streets across france and clashes left parts of paris and other cities burning french activists are calling supporters back into the streets saturday oct 24 for a new protest bi",
+   "fa": "⭕️ گسترش شبکه اعتراضات در اروپا و شناسایی ۱۰۱ سازمان مرتبط با آن توسط فاکس نیوز به گزارش فاکس نیوز تئاتر سیاسی «آشوب شرکت‌سهامی» در حال آماده‌سازی برای یک «شورش... فراگیر در اروپا» است. دو روز پس از آنکه تخمین زده می‌شود ۵۰۰ هزار تظاهرکننده به خیابان‌های سراسر فرانسه سرازیر شدند و درگیری‌ها بخش‌هایی از پاریس و سایر شهرها را به آتش کشید، فعالان فرانسوی حامیان خود را فرا می‌خوانند تا روز شنبه ۲۴ اکت"
+  },
+  {
+   "t": 1792495443.0,
+   "n": "hegseth said to make unannounced visit to israel for talks with netanyahu defense secretary pete hegseth traveled to the region as diplomatic efforts to end the war with iran have stalled two people with knowledge of the trip said israel will hold elections in a week",
+   "fa": "🚨 پیت هگسث در سفر اعلام‌نشده برای گفتگو با نتانیاهو وارد اسرائیل شد به گزارش نیویورک تایمز پیت هگسث، وزیر دفاع، در حالی که تلاش‌های دیپلماتیک برای پایان دادن به جنگ با ایران متوقف شده است، به منطقه سفر کرد؛ این موضوع را دو فرد مطلع از این سفر اعلام کردند. اسرائیل یک هفته دیگر انتخابات برگزار خواهد کرد."
+  },
+  {
+   "t": 1792495632.0,
+   "n": "uk prime minister andy burnham has asked the royal air force to conduct defensive missions to protect saudi arabia from houthi ansarallah attacks according to bloomberg raf typhoon fighter jets will be deployed to help defend saudi cities and infrastructure against aerial attacks",
+   "fa": "🇬🇧🇸🇦🇾🇪⚡️ — اندی برنهام، نخست‌وزیر بریتانیا، از نیروی هوایی سلطنتی خواسته است ماموریت‌های دفاعی را برای محافظت از عربستان سعودی در برابر حملات حوثی‌ها (انصارالله) انجام دهد، بر اساس گزارش بلومبرگ. جنگنده‌های تایفون نیروی هوایی سلطنتی برای کمک به دفاع از شهرهای عربستان و زیرساخت‌ها در برابر حملات هوایی مستقر خواهند شد."
+  },
+  {
+   "t": 1792495770.0,
+   "n": "ukmto reported an incident involving a tanker and military forces approximately 121 nautical miles east of duqm oman the tanker was involved in an interaction linked to ongoing military activity in the region",
+   "fa": "🇴🇲⚡️ — سازمان عملیات تجارت دریایی بریتانیا از یک حادثه مربوط به یک تانکر و نیروهای نظامی در حدود ۱۲۱ مایلی دریایی شرق الدقم در عمان خبر داد. این تانکر درگیر تعاملی مرتبط با «فعالیت نظامی جاری در منطقه» بوده است."
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 60
+  "requests": 63
  },
- "flip": 1159,
- "quote_n": 502,
+ "flip": 1162,
+ "quote_n": 503,
  "signals": [
   {
    "t": 1792409770.8801801,
@@ -1514,18 +1516,33 @@
    "t": 1792495587.264513,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1792495920.1221404,
+   "s": 4,
+   "p": 75
+  },
+  {
+   "t": 1792495925.7505224,
+   "s": 4,
+   "p": 65
+  },
+  {
+   "t": 1792495930.5953686,
+   "s": 4,
+   "p": 50
   }
  ],
  "risk": {
-  "base": 58,
-  "ts": 1792492587.399764,
+  "base": 59,
+  "ts": 1792495933.5996432,
   "attack": false,
-  "n": 151,
+  "n": 158,
   "shares": {
    "1": 0,
    "2": 8,
-   "3": 30,
-   "4": 46,
+   "3": 25,
+   "4": 50,
    "5": 16
   }
  },
