@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108682
+   "last_id": 108683
   },
   "khabarfouri": {
    "last_id": 569949
@@ -437,11 +437,6 @@
  },
  "recent": [
   {
-   "t": 1792490292.0,
-   "n": "نیروی قدس سپاه پاسداران انقلاب اسلامی اعلام کرد که دو تانکر نفتی به آتش کشیده شده و متوقف شدند پس از اینکه با مین های دریایی کار گذاشته شده توسط سپاه در تنگه هرمز جنوبی برخورد کردند",
-   "fa": "🔄 به‌روزرسانی 🚨 〰️ نیروی قدس سپاه پاسداران انقلاب اسلامی اعلام کرد که دو تانکر نفتی به آتش کشیده شده و متوقف شدند، پس از اینکه با مین‌های دریایی کار گذاشته شده توسط سپاه در تنگه هرمز جنوبی برخورد کردند."
-  },
-  {
    "t": 1792490407.0,
    "n": "some synagogues canceled prayers as french jews faced warnings amid violent protests for some french jews saturday s unrest brought an unsettling warning conceal outward signs of jewish identity and avoid gathering outside synagogues one community member told fox news digital that some congregations had even canceled afternoon prayers on the sabbath as demonstrations across france descended into v",
    "fa": "⭕️ لغو نماز برخی یهودیان فرانسوی همزمان با هشدارهای امنیتی در پی اعتراضات خشونت‌بار به گزارش فاکس نیوز ناآرامی‌های روز شنبه هشدار نگران‌کننده‌ای را برای برخی از یهودیان فرانسوی به همراه داشت که بر اساس آن از آنان خواسته شد نشانه‌های ظاهری هویت یهودی خود را پنهان کنند و از تجمع در بیرون کنیسه‌ها بپرهیزند. یک عضو این جامعه به فاکس نیوز دیجیتال گفت که برخی از جماعت‌ها حتی مراسم نماز عصر را در روز سبت"
@@ -735,20 +730,20 @@
    "t": 1792505648.0,
    "n": "ترامپ جهان بابت کارهایی که ما در ایران انجام می دهیم بسیار سپاسگزار است",
    "fa": "⭕️ترامپ: جهان بابت کارهایی که ما در ایران انجام می‌دهیم، بسیار سپاسگزار است"
+  },
+  {
+   "t": 1792505745.0,
+   "n": "president trump on iran we re doing something that biden and obama should have done stop the iran situation because you just can t have that we wouldn t even have a world the world is very thankful for what we re doing our prices are much lower you re gonna see some very low oil prices very soon",
+   "fa": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره ایران: ما کاری را انجام می‌دهیم که بایدن و اوباما باید انجام می‌دادند: متوقف کردن وضعیت ایران، چون نمی‌توان آن را تحمل کرد. ما حتی دنیایی نخواهیم داشت. جهان بابت کاری که ما انجام می‌دهیم بسیار سپاسگزار است. قیمت‌های ما بسیار پایین‌تر است. به‌زودی شاهد قیمت‌های بسیار پایین نفت خواهید بود."
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 92
+  "requests": 93
  },
  "flip": 1190,
  "quote_n": 514,
  "signals": [
-  {
-   "t": 1792419381.5892165,
-   "s": 2,
-   "p": 40
-  },
   {
    "t": 1792419699.461491,
    "s": 3,
@@ -1538,6 +1533,11 @@
    "t": 1792505806.6832676,
    "s": 4,
    "p": 80
+  },
+  {
+   "t": 1792506101.3138287,
+   "s": 4,
+   "p": 70
   }
  ],
  "risk": {
