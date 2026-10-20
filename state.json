@@ -387,7 +387,8 @@
     "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
     "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html",
     "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html",
-    "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html"
+    "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
+    "https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html"
    ]
   },
   "Treasury": {
@@ -435,11 +436,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792480785.0,
-   "n": "عراقچی در طول تاریخ همکاری ایران و روسیه هرگز تا این اندازه نزدیک نبوده است میزبان وزیر امور خارجه روسیه برای گفت وگوهایی به موقع در تهران بودم درباره طیف گسترده ای از موضوعات از اروپا تا غرب آسیا از جمله لبنان فلسطین اوکراین و یمن گفت وگو کردیم همچنین بر گسترش همکاری های اقتصادی و هسته ای تمرکز داشتیم",
-   "fa": "🇮🇷🇷🇺‏عراقچی: در طول تاریخ، همکاری ایران و روسیه هرگز تا این اندازه نزدیک نبوده‌ است میزبان وزیر امور خارجهٔ روسیه، برای گفت‌وگوهایی به‌موقع در تهران بودم. دربارهٔ طیف گسترده‌ای از موضوعات، از اروپا تا غرب آسیا، از جمله لبنان، فلسطین، اوکراین و یمن گفت‌وگو کردیم. همچنین بر گسترش همکاری‌های اقتصادی و هسته‌ای تمرکز داشتیم."
-  },
   {
    "t": 1792481054.0,
    "n": "گشت زنی جنگنده اف ۵ در دزفول",
@@ -734,20 +730,20 @@
    "t": 1792497353.0,
    "n": "حضور هواپیمای نظامی هندی در آسمان امارات",
    "fa": "📸 حضور هواپیمای نظامی هندی در آسمان امارات!"
+  },
+  {
+   "t": 1792497845.0,
+   "n": "yemeni city of taiz running out of essentials as houthis close in the iranian backed houthi militia has cut road access to taiz besieging one of yemen s largest cities where officials warn of an impending humanitarian disaster",
+   "fa": "🔴 محاصره شهر تعز یمن و بحران انسانی ناشی از قطع راه های ارتباطی توسط حوثی ها به گزارش نیویورک تایمز شبه‌نظامیان حوثی وابسته به ایران مسیرهای جاده‌ای منتهی به تعز را قطع کرده و یکی از بزرگ‌ترین شهرهای یمن را در محاصره خود درآورده‌اند، در حالی که مقام‌های محلی درباره وقوع یک فاجعه انسانی قریب‌الوقوع هشدار می‌دهند."
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 69
+  "requests": 71
  },
- "flip": 1168,
- "quote_n": 504,
+ "flip": 1169,
+ "quote_n": 505,
  "signals": [
-  {
-   "t": 1792411568.7225184,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1792411877.9869368,
    "s": 3,
@@ -1537,6 +1533,11 @@
    "t": 1792497707.0960631,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792498281.7868037,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
