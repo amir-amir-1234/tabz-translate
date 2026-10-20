@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108725
+   "last_id": 108728
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132273
+   "last_id": 132275
   },
   "TelNews_Magazine": {
    "last_id": 101593
   },
   "NE_WG": {
-   "last_id": 115132
+   "last_id": 115134
   }
  },
  "fails": {},
@@ -440,26 +440,6 @@
  },
  "recent": [
   {
-   "t": 1792510062.0,
-   "n": "new the u s is deploying a third aircraft carrier strike group and a marine expeditionary unit to the middle east adding approximately 10 000 sailors and marines to the region according to fox news citing two u s officials the uss theodore roosevelt carrier strike group carrying around 6 000 sailors and the 13th marine expeditionary unit aboard the makin island amphibious ready group with approxim",
-   "fa": "🇺🇸🇮🇷⚡️ — فوری: به گزارش فاکس نیوز به نقل از دو مقام آمریکایی، ایالات متحده در حال اعزام سومین ناوگروه ضربت و یک یگان تفنگداران دریایی به خاورمیانه است که حدود ۱۰ هزار ملوان و تفنگدار دریایی دیگر را به منطقه اضافه می‌کند. انتظار می‌رود ناوگروه ضربت یواس‌اس تئودور روزولت با حدود ۶۰۰۰ ملوان و سیزدهمین یگان اعزامی تفنگداران دریایی سوار بر گروه آماده آبی-خاکی یواس‌اس ماکین آیلند با حدود ۴۲۰۰ پرسنل، تا "
-  },
-  {
-   "t": 1792510065.0,
-   "n": "پزشکیان خاک می خوریم اما خاک نمی دهیم",
-   "fa": "🇮🇷 پزشکیان: «خاک می‌خوریم اما خاک نمی‌دهیم»"
-  },
-  {
-   "t": 1792510165.0,
-   "n": "the iranian navy says its surveillance teams detected a tanker on fire in a restricted area of the southern corridor of the strait of hormuz earlier today the vessel had disabled its tracking systems and attempted to pass through the prohibited area despite previous warnings the statement itself does not directly mention anything about it being targeted",
-   "fa": "🇮🇷⚡️ — نیروی دریایی ایران اعلام کرد که تیم‌های نظارتی این کشور امروز یک فروند نفتکش در حال سوختن را در «منطقه ممنوعه» در کریدور جنوبی تنگه هرمز «شناسایی» کرده‌اند. این شناور سیستم‌های ردیابی خود را خاموش کرده بود و علیرغم اخطارهای قبلی تلاش کرده بود از منطقه ممنوعه عبور کند. این بیانیه به طور مستقیم به هدف قرار گرفتن آن اشاره‌ای نکرده است."
-  },
-  {
-   "t": 1792510382.0,
-   "n": "یک بل بوئینگ ارتش آمریکا از پایگاه دیه گو گارسیا به امارات پرواز کرد اصلی ترین کاربرد آن انتقال سپاه تفنگداران دریایی ایالات متحده است",
-   "fa": "🚨یک بل-بوئینگ ارتش آمریکا از پایگاه دیه‌گو گارسیا به امارات پرواز کرد اصلی‌ترین کاربرد آن انتقال سپاه تفنگداران دریایی ایالات متحده است."
-  },
-  {
    "t": 1792511221.0,
    "n": "جروزالم پست ترامپ اخیرا تا آستانه صدور مجوز حمله به ایران پیش رفت",
    "fa": "⭕️جروزالم پست: ترامپ اخیراً تا آستانه صدور مجوز حمله به ایران پیش رفت"
@@ -738,14 +718,34 @@
    "t": 1792523734.0,
    "n": "ترامپ خطاب به یک خبرنگار هی نمی دانم تو دیگر کدوم خری هستی ولی بهتر است مراقب باشی",
    "fa": "⭕️ ترامپ خطاب به یک خبرنگار: هی! نمی‌دانم تو دیگر کدوم خری هستی، ولی بهتر است مراقب باشی."
+  },
+  {
+   "t": 1792524103.0,
+   "n": "iran s supreme national security council secretary mohsen rezaee not a single gram of enriched uranium will be removed from iran there will be no negotiations until the united states takes steps to build trust that process must begin with the full fulfillment of all iran s conditions",
+   "fa": "🇮🇷🇺🇸⚡️ — دبیر شورای عالی امنیت ملی ایران، محسن رضایی: حتی یک گرم اورانیوم غنی‌شده از ایران خارج نخواهد شد. هیچ مذاکره‌ای انجام نخواهد شد تا زمانی که ایالات متحده گام‌هایی برای اعتماده‌سازی بردارد. این روند باید با تحقق کامل تمامی شرط‌های ایران آغاز شود."
+  },
+  {
+   "t": 1792524138.0,
+   "n": "saraya al quds jenin batallion announces targeting a bus carrying israelis traveling to mevo dotan an israeli settlement southwest of jenin with heavy gunfire",
+   "fa": "🇵🇸❌🇮🇱 — گردان جنین وابسته به سرایا القدس از هدف قرار دادن یک اتوبوس حامل اسرائیلی‌ها در حال سفر به مِوو دوتان، شهرک اسرائیلی در جنوب غربی جنین، با «آتش سنگین گلوله» خبر داد."
+  },
+  {
+   "t": 1792524180.0,
+   "n": "اظهارات ترامپ درباره جنگ اوکراین اوکراین باید خواهان پایان این جنگ باشد نه روسیه زلنسکی باید خواهان پایان این جنگ باشد و اگر اینطور نباشد فکر می کنم این موضوع به یک فاجعه تبدیل خواهد شد",
+   "fa": "🇺🇸🇺🇦 اظهارات ترامپ درباره جنگ اوکراین: 💢اوکراین باید خواهان پایان این جنگ باشد نه روسیه!! 💢زلنسکی باید خواهان پایان این جنگ باشد، و اگر اینطور نباشد، فکر می‌کنم این موضوع به یک فاجعه تبدیل خواهد شد."
+  },
+  {
+   "t": 1792524233.0,
+   "n": "president trump crashes out on a reporter for the third time wait wait quiet quiet what s wrong with you are you a sick person",
+   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ برای سومین بار بر سر یک خبرنگار فریاد کشید: صبر کن صبر کن — ساکت. ساکت!!!! مشکل تو چیه؟ آیا آدم مریضی هستی؟"
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 163
+  "requests": 164
  },
- "flip": 1246,
- "quote_n": 534,
+ "flip": 1248,
+ "quote_n": 535,
  "signals": [
   {
    "t": 1792437975.3089817,
@@ -1636,6 +1636,16 @@
    "t": 1792524086.1003835,
    "s": 4,
    "p": 30
+  },
+  {
+   "t": 1792524394.6101892,
+   "s": 4,
+   "p": 85
+  },
+  {
+   "t": 1792524398.1753376,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
