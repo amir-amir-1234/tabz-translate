@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132256
+   "last_id": 132257
   },
   "TelNews_Magazine": {
-   "last_id": 101574
+   "last_id": 101575
   },
   "NE_WG": {
-   "last_id": 115109
+   "last_id": 115110
   }
  },
  "fails": {},
@@ -438,16 +438,6 @@
  },
  "recent": [
   {
-   "t": 1792495632.0,
-   "n": "uk prime minister andy burnham has asked the royal air force to conduct defensive missions to protect saudi arabia from houthi ansarallah attacks according to bloomberg raf typhoon fighter jets will be deployed to help defend saudi cities and infrastructure against aerial attacks",
-   "fa": "🇬🇧🇸🇦🇾🇪⚡️ — اندی برنهام، نخست‌وزیر بریتانیا، از نیروی هوایی سلطنتی خواسته است ماموریت‌های دفاعی را برای محافظت از عربستان سعودی در برابر حملات حوثی‌ها (انصارالله) انجام دهد، بر اساس گزارش بلومبرگ. جنگنده‌های تایفون نیروی هوایی سلطنتی برای کمک به دفاع از شهرهای عربستان و زیرساخت‌ها در برابر حملات هوایی مستقر خواهند شد."
-  },
-  {
-   "t": 1792495770.0,
-   "n": "ukmto reported an incident involving a tanker and military forces approximately 121 nautical miles east of duqm oman the tanker was involved in an interaction linked to ongoing military activity in the region",
-   "fa": "🇴🇲⚡️ — سازمان عملیات تجارت دریایی بریتانیا از یک حادثه مربوط به یک تانکر و نیروهای نظامی در حدود ۱۲۱ مایلی دریایی شرق الدقم در عمان خبر داد. این تانکر درگیر تعاملی مرتبط با «فعالیت نظامی جاری در منطقه» بوده است."
-  },
-  {
    "t": 1792496022.0,
    "n": "iran has deliberately prolonged negotiations with the u s in an effort to weaken president trump politically ahead of november s midterm elections according to reuters citing senior iranian officials tehran distrusts washington and is convinced trump could resume military strikes to break the stalemate making iran very reluctant to reach a quick deal",
    "fa": "🇮🇷🇺🇸⚡️ — به گزارش رویترز به نقل از مقام‌های ارشد ایرانی، ایران به‌عمد مذاکرات با ایالات متحده را طولانی کرده است تا رئیس‌جمهور ترامپ را در آستانه انتخابات میان‌دوره‌ای ماه نوامبر از نظر سیاسی تضعیف کند. تهران به واشنگتن بی‌اعتماد است و متقاعد شده است که ترامپ ممکن است برای شکستن بن‌بست، حملات نظامی را از سر بگیرد؛ مسئله‌ای که ایران را نسبت به دستیابی به توافقی سریع بسیار بی‌رغبت کرده است."
@@ -736,20 +726,25 @@
    "t": 1792512148.0,
    "n": "فرمانده ارتش پاکستان با رئیس جمهور دیدار کرد",
    "fa": "🇵🇰🇮🇷 فرمانده ارتش پاکستان با رئیس‌جمهور دیدار کرد"
+  },
+  {
+   "t": 1792512808.0,
+   "n": "پس از ورود فرمانده ارتش پاکستان هیئتی از قطر عازم ایران می شود",
+   "fa": "🇵🇰🇮🇷💢پس از ورود فرمانده ارتش پاکستان، هیئتی از قطر عازم ایران می‌شود."
+  },
+  {
+   "t": 1792512809.0,
+   "n": "قالیباف خطاب به عاصم منیر ما حرف جدیدی نداریم و آمریکا جز با اجرای شروط هفتگانه نمی تواند اعتماد ایران را کسب کند",
+   "fa": "⭕️قالیباف خطاب به عاصم منیر: ما حرف جدیدی نداریم و آمریکا جز با اجرای شروط هفتگانه، نمی‌تواند اعتماد ایران را کسب کند"
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 111
+  "requests": 112
  },
- "flip": 1202,
+ "flip": 1204,
  "quote_n": 519,
  "signals": [
-  {
-   "t": 1792426290.8402884,
-   "s": 4,
-   "p": 70
-  },
   {
    "t": 1792426581.310724,
    "s": 5,
@@ -1534,6 +1529,16 @@
    "t": 1792512399.1811004,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792513011.1364045,
+   "s": 2,
+   "p": 55
+  },
+  {
+   "t": 1792513016.450296,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
