@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108656
+   "last_id": 108658
   },
   "khabarfouri": {
    "last_id": 569949
@@ -423,11 +423,6 @@
  },
  "recent": [
   {
-   "t": 1792434586.0,
-   "n": "u s official to cnn denies reports that u s forces struck konorak naval base iran",
-   "fa": "🔄 به‌روزرسانی 🇺🇸🇮🇷⚡️ — یک مقام ایالات متحده به سی‌ان‌ان گزارش‌ها مبنی بر حمله نیروهای آمریکایی به پایگاه دریایی کنارک در ایران را تکذیب کرد."
-  },
-  {
    "t": 1792434780.0,
    "n": "young protesters are putting india s modi on the defensive narendra modi s government has a reputation for being heavy handed toward dissent but its tactics in recent days have been met with a mix of wit and defiance by young protesters",
    "fa": "⭕️ واکنش طنزآمیز و متمردانه جوانان معترض به سرکوب‌گری دولت نارندرا مودی در هند به گزارش وال‌استریت ژورنال دولت نارندرا مودی به داشتن رویکردی سخت‌گیرانه در قبال مخالفت‌ها شهرت دارد، اما تاکتیک‌های آن در روزهای اخیر با واکنشی آمیخته به شوخ‌طبعی و سرپیچی از سوی معترضان جوان روبه‌رو شده است."
@@ -721,13 +716,18 @@
    "t": 1792456491.0,
    "n": "president trump issued a warning via truth social claiming that the democratic party wants the ongoing riots and migration in france to happen in america also calling on europe to close its borders",
    "fa": "🇺🇸🇫🇷⚡️ — رئیس‌جمهور ترامپ طی پیامی در تروث‌سوشال مدعی شد که حزب دموکرات می‌خواهد ناآرامی‌ها و مهاجرت‌های جاری در فرانسه در آمریکا نیز رخ دهد و همچنین از اروپا خواست مرزهای خود را ببندد:"
+  },
+  {
+   "t": 1792456535.0,
+   "n": "president trump is crashing out on truth social the dumocrat agenda is a plan to extinguish western civilization they want to open the borders shut down the power plants set loose the criminals turn your children transgender confiscate your money and raise up the palestinian flag while they defile the american flag all of us here tonight represent the greatest nation in world history with the most",
+   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ در تروث‌سوشال حمله تندی کرد: دستورکار دموکرات‌ها برنامه‌ای برای نابودی تمدن غرب است. آن‌ها می‌خواهند مرزها را باز کنند، نیروگاه‌ها را تعطیل کنند، جنایتکاران را آزاد کنند، فرزندان شما را ترنسجنسر کنند، پول شما را مصادره کنند و پرچم فلسطین را بالا ببرند، در حالی که به پرچم آمریکا بی‌حرمتی می‌کنند. همه ما که امشب اینجا هستیم نماینده بزرگ‌ترین ملت در تاریخ جهان، با فوق‌العاده‌ت"
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 1
+  "requests": 2
  },
- "flip": 1110,
+ "flip": 1111,
  "quote_n": 477,
  "signals": [
   {
@@ -1512,6 +1512,11 @@
   },
   {
    "t": 1792456566.7147455,
+   "s": 4,
+   "p": 30
+  },
+  {
+   "t": 1792456872.235952,
    "s": 4,
    "p": 30
   }
