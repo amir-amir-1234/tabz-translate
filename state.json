@@ -314,7 +314,8 @@
     "WP-WSJ-0003988829",
     "SB10222543145185073693004593514760903748192",
     "SB10222543145185073693004593513761076414912",
-    "WP-WSJ-0003989525"
+    "WP-WSJ-0003989525",
+    "WP-WSJ-0003988838"
    ]
   },
   "NYT": {
@@ -422,11 +423,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792434780.0,
-   "n": "young protesters are putting india s modi on the defensive narendra modi s government has a reputation for being heavy handed toward dissent but its tactics in recent days have been met with a mix of wit and defiance by young protesters",
-   "fa": "⭕️ واکنش طنزآمیز و متمردانه جوانان معترض به سرکوب‌گری دولت نارندرا مودی در هند به گزارش وال‌استریت ژورنال دولت نارندرا مودی به داشتن رویکردی سخت‌گیرانه در قبال مخالفت‌ها شهرت دارد، اما تاکتیک‌های آن در روزهای اخیر با واکنشی آمیخته به شوخ‌طبعی و سرپیچی از سوی معترضان جوان روبه‌رو شده است."
-  },
   {
    "t": 1792435448.0,
    "n": "clashes erupted between iranian security forces and baluch militants of the jaysh al adle pff organization in the city of khash in the sistan and baluchistan region of iran",
@@ -721,14 +717,19 @@
    "t": 1792456535.0,
    "n": "president trump is crashing out on truth social the dumocrat agenda is a plan to extinguish western civilization they want to open the borders shut down the power plants set loose the criminals turn your children transgender confiscate your money and raise up the palestinian flag while they defile the american flag all of us here tonight represent the greatest nation in world history with the most",
    "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ در تروث‌سوشال حمله تندی کرد: دستورکار دموکرات‌ها برنامه‌ای برای نابودی تمدن غرب است. آن‌ها می‌خواهند مرزها را باز کنند، نیروگاه‌ها را تعطیل کنند، جنایتکاران را آزاد کنند، فرزندان شما را ترنسجنسر کنند، پول شما را مصادره کنند و پرچم فلسطین را بالا ببرند، در حالی که به پرچم آمریکا بی‌حرمتی می‌کنند. همه ما که امشب اینجا هستیم نماینده بزرگ‌ترین ملت در تاریخ جهان، با فوق‌العاده‌ت"
+  },
+  {
+   "t": 1792458000.0,
+   "n": "marine le pen seizes on french chaos to present herself as leader in waiting nationwide unrest is benefiting the far right candidate while president emmanuel macron s government struggles to maintain control",
+   "fa": "⭕️ بهره‌برداری مارین لوپن از آشوب‌های فرانسه برای اثبات خود به عنوان رهبر آینده به گزارش وال‌استریت ژورنال، ناآرامی‌های سراسری به نفع نامزد راست افراطی تمام شده است، در حالی که دولت امانوئل مکرون، رئیس‌جمهور فرانسه، برای حفظ کنترل تلاش می‌کند."
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 3
+  "requests": 5
  },
- "flip": 1111,
- "quote_n": 477,
+ "flip": 1112,
+ "quote_n": 478,
  "signals": [
   {
    "t": 1792372576.758421,
