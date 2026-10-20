@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108701
+   "last_id": 108704
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132263
+   "last_id": 132264
   },
   "TelNews_Magazine": {
    "last_id": 101584
@@ -439,16 +439,6 @@
  },
  "recent": [
   {
-   "t": 1792501465.0,
-   "n": "مصطفی نجفی مشاور سابق محسن رضایی خبر رد درخواست عاصم منیر توسط فیلد مارشال رضایی صحت ندارد",
-   "fa": "🔄 به‌روزرسانی ⭕️مصطفی نجفی، مشاور سابق محسن رضایی: خبر رد درخواست عاصم منیر توسط فیلد مارشال رضایی، صحت ندارد"
-  },
-  {
-   "t": 1792501523.0,
-   "n": "secretary of state marco rubio i saw somebody associated with the ukrainian government say that people in ukraine are dying because the u s is denying them information that s scandalous that s outrageous that s just simply not true that s not accurate",
-   "fa": "🇺🇸🇺🇦⚡️ — وزیر امور خارجه مارکو روبیو: من دیدم فردی مرتبط با دولت اوکراین گفته است که مردم در اوکراین به این دلیل می‌میرند که ایالات متحده اطلاعات را از آن‌ها دریغ می‌کند. این رسوایی است. این تکان‌دهنده است. این به سادگی درست نیست. این دقیق نیست."
-  },
-  {
    "t": 1792501542.0,
    "n": "قشقاوی اگر قرار باشد با تحریم برای مردم ما مشکل درست کنند ما هم برای آن ها مشکل درست می کنیم سخنگوی کمیسیون امنیت ملی کشورهای منطقه متوجه شدند که امنیت به شکل گذشته ایجاد نمی شود و حتما ایران نیز باید در آن مشارکت داشته باشد",
    "fa": "💢قشقاوی: اگر قرار باشد با تحریم برای مردم ما مشکل درست کنند ما هم برای آن‌ها مشکل درست می‌کنیم 💢سخنگوی کمیسیون امنیت ملی: کشورهای منطقه متوجه شدند که امنیت به شکل گذشته ایجاد نمی شود و حتما ایران نیز باید در آن مشارکت داشته باشد."
@@ -737,20 +727,25 @@
    "t": 1792517647.0,
    "n": "ukrainian president zelensky putin helps the iranians we saw different details regarding the drones which russia delivered to iran and i think also they shared with them intelligence i mean from satellites and other information this is what we know i know that russia is on the side of the iranians",
    "fa": "🇺🇦🇷🇺🇮🇷⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: پوتین به ایرانی‌ها کمک می‌کند. ما جزئیات مختلفی را در خصوص پهپادهایی که روسیه به ایران تحویل داده دیده‌ای منظورم داده‌های ماهواره‌ای و سایر اطلاعات است. این چیزی است که ما می‌دانیم. من می‌دانم که روسیه در کنار ایرانی‌ها قرار دارد."
+  },
+  {
+   "t": 1792517792.0,
+   "n": "channel 14 going forward what kind of preemptive strikes might we see you ve spoken about the possibility of war with türkiye recently netanyahu no no",
+   "fa": "🇮🇱🇹🇷⚡️ — شبکه ۱۴ اسرائیل: در آینده چه نوع حملات پیشگیرانه‌ای ممکن است ببینیم؟ شما اخیراً درباره احتمال جنگ با ترکیه صحبت کرده‌اید. نتانیاهو: نه، نه."
+  },
+  {
+   "t": 1792517880.0,
+   "n": "israeli prime minister netanyahu i don t want a confrontation with türkiye türkiye wants a confrontation with us erdoğan says that israel should be destroyed that jerusalem is their city he thinks he ll come back to the ottoman empire he forgets there s a country here that we ve been attached to for over 3 000 years we re not in the 16th century when the ottomans took over here and ruled it for 40",
+   "fa": "🇮🇱🇹🇷⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: من به دنبال رویارویی با ترکیه نیستم. ترکیه به دنبال رویارویی با ماست. اردوغان می‌گوید اسرائیل باید نابود شود، که بیت‌المقدس شهر آن‌هاست. او فکر می‌کند به امپراتوری عثمانی بازخواهد گشت. او فراموش می‌کند که در اینجا کشوری وجود دارد که بیش از ۳۰۰۰ سال است به آن وابسته‌ایم. ما در قرن شانزدهم نیستیم که عثمانی‌ها اینجا را تصرف کردند و ۴۰۰ سال بر آن حکومت کرد"
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 127
+  "requests": 130
  },
- "flip": 1219,
+ "flip": 1221,
  "quote_n": 522,
  "signals": [
-  {
-   "t": 1792431374.1301317,
-   "s": 4,
-   "p": 85
-  },
   {
    "t": 1792431690.0818026,
    "s": 3,
@@ -1570,6 +1565,16 @@
    "t": 1792517820.971524,
    "s": 4,
    "p": 70
+  },
+  {
+   "t": 1792518140.9490492,
+   "s": 4,
+   "p": 50
+  },
+  {
+   "t": 1792518147.6403394,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
