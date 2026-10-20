@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132223
+   "last_id": 132224
   },
   "TelNews_Magazine": {
    "last_id": 101545
   },
   "NE_WG": {
-   "last_id": 115076
+   "last_id": 115077
   }
  },
  "fails": {},
@@ -378,7 +378,8 @@
     "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html",
     "https://www.nytimes.com/2026/10/19/world/middleeast/trump-netanyahu-endorsement-election.html",
     "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
-    "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html"
+    "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html",
+    "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html"
    ]
   },
   "Treasury": {
@@ -426,16 +427,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792444677.0,
-   "n": "فعالیت گسترده هواپیماهای اطفاء حریق در آسمان امارات به دلایل مختلف اغلب به منظور هدف قرار دادن کشتی ها در تنگه هرمز صورت می گیرد و این هواپیماها به سمت این تنگه هدایت می شوند",
-   "fa": "🇦🇪فعالیت گسترده هواپیماهای اطفاء حریق در آسمان امارات، به دلایل مختلف، اغلب به منظور هدف قرار دادن کشتی‌ها در تنگه هرمز صورت می‌گیرد و این هواپیماها به سمت این تنگه هدایت می‌شوند."
-  },
-  {
-   "t": 1792444778.0,
-   "n": "fighter jet activity in southern iraq they entered through syrian airspace in recent days israeli air force and u s air force fighter jets have routinely violated iraqi airspace and maneuvered close to the iranian border this is likely an attempt to normalize such conditions to affect the readiness of iranian forces if when a new strike against iran occurs",
-   "fa": "🇮🇶⚡️ — فعالیت جنگنده‌ها در جنوب عراق که از طریق حریم هوایی سوریه وارد شده‌اند. در روزهای اخیر، جنگنده‌های نیروی هوایی اسرائیل و نیروی هوایی ایالات متحده به طور معمول حریم هوایی عراق را نقض کرده و در نزدیکی مرز ایران مانور داده‌اند. این احتمالاً تلاشی برای عادی‌سازی چنین شرایطی است تا آمادگی نیروهای ایرانی در صورت وقوع یا عدم وقوع حمله جدید به ایران را تحت تأثیر قرار دهد."
-  },
   {
    "t": 1792445115.0,
    "n": "fighter jet activity in northern iraq salah al din governorate",
@@ -725,20 +716,25 @@
    "t": 1792486621.0,
    "n": "توییت وزیر جنگ آمریکا پس از سفر ناگهانی خود به اسرائیل بهترین های کشورمان در مأموریتی تاریخی در خاورمیانه حضور دارند خداوند یار و نگهدارشان باشد",
    "fa": "⭕️توییت وزیر جنگ آمریکا پس از سفر ناگهانی خود به اسرائیل: بهترین‌های کشورمان در مأموریتی تاریخی در خاورمیانه حضور دارند، خداوند یار و نگهدارشان باشد."
+  },
+  {
+   "t": 1792486914.0,
+   "n": "taunting trump over gas prices iran braces for aftermath of u s vote the midterm elections appear to be a factor for both sides in the war as president trump weighs his next steps",
+   "fa": "⭕️ دست و پنجه نرم کردن ایران با پیامدهای انتخابات آمریکا و سر به سر گذاشتن ترامپ بر سر قیمت بنزین به گزارش نیویورک تایمز انتخابات میان‌دوره‌ای به نظر می‌رسد عاملی برای هر دو طرف در جنگ باشد در حالی که رئیس‌جمهور ترامپ گام‌های بعدی خود را سبک و سنگین می‌کند."
+  },
+  {
+   "t": 1792486997.0,
+   "n": "دقایقی پیش عاصم منیر فرمانده ارتش پاکستان و هیأت همراه وارد تهران شد",
+   "fa": "🔄 به‌روزرسانی 🇮🇷🇺🇸🇵🇰🚨دقایقی پیش، عاصم منیر فرمانده ارتش پاکستان و هیأت همراه وارد تهران شد!"
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 37
+  "requests": 39
  },
- "flip": 1137,
- "quote_n": 487,
+ "flip": 1138,
+ "quote_n": 488,
  "signals": [
-  {
-   "t": 1792400491.116033,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1792401076.9962711,
    "s": 4,
@@ -1538,6 +1534,16 @@
    "t": 1792486892.9874148,
    "s": 5,
    "p": 75
+  },
+  {
+   "t": 1792487169.4682713,
+   "s": 4,
+   "p": 60
+  },
+  {
+   "t": 1792487174.279644,
+   "s": 3,
+   "p": 70
   }
  ],
  "risk": {
