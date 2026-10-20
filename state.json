@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132279
+   "last_id": 132280
   },
   "TelNews_Magazine": {
    "last_id": 101597
   },
   "NE_WG": {
-   "last_id": 115137
+   "last_id": 115138
   }
  },
  "fails": {},
@@ -102,7 +102,8 @@
     "https://www.foxnews.com/world/some-synagogues-canceled-prayers-french-jews-faced-warnings-amid-violent-protests",
     "https://www.foxnews.com/world/global-chaos-inc-grows-101-groups-plans-new-rounds-demonstrations",
     "https://www.foxnews.com/world/iran-regime-under-pressure-rebel-groups-escalate-attacks-volatile-southeast",
-    "https://www.foxnews.com/world/sea-mine-crisis-re-emerges-strait-hormuz-tehran-urges-washington-accept-deal"
+    "https://www.foxnews.com/world/sea-mine-crisis-re-emerges-strait-hormuz-tehran-urges-washington-accept-deal",
+    "https://www.foxnews.com/world/reporters-notebook-france-braces-more-unrest-after-parts-paris-spun-out-control"
    ]
   },
   "WSJ": {
@@ -441,16 +442,6 @@
  },
  "recent": [
   {
-   "t": 1792514160.0,
-   "n": "opinion the ukraine kill zone is ai s testing ground artificial intelligence is transforming war in real time by analyzing data and automating weapons",
-   "fa": "⭕️ هوش مصنوعی در حال تحول جنگ اوکراین از طریق تحلیل داده‌ها و تسلیحات خودکار است به گزارش وال‌استریت ژورنال هوش مصنوعی با تحلیل داده‌ها و خودکارسازی سلاح‌ها، جنگ را در زمان واقعی دگرگون می‌کند."
-  },
-  {
-   "t": 1792514434.0,
-   "n": "محسن رضایی به عاصم منیر حتی ذره ای از مواد هسته ای غنی شده از ایران خارج نخواهد شد",
-   "fa": "⭕️محسن رضایی به عاصم منیر: حتی ذره‌ای از مواد هسته‌ای غنی‌شده از ایران خارج نخواهد شد"
-  },
-  {
    "t": 1792514695.0,
    "n": "more than 72 civilians were killed following an airstrike attributed to the sudanese air force in the market of the town of amiet in the abyei special administrative region with some local sources claiming a number as high as 220 civilians killed following the attack the south sudanese government recalled the sudanese ambassador for protestations and to receive an official explanation the abyei re",
    "fa": "🇸🇩🇸🇸⚡️ — بیش از ۷۲ غیرنظامی در پی حمله هوایی منتسب به نیروی هوایی سودان به بازار شهر امیئت در منطقه اداری ویژه ابی، کشته شدند و برخی منابع محلی شمار کشته‌شدگان را تا ۲۲۰۰ غیرنظامی نیز اعلام کرده‌اند. به دنبال این حمله، دولت سودان جنوبی سفیر سودان را برای اعتراض و دریافت توضیح رسمی احضار کرد. 📝 منطقه ابی یک منطقه اداری ویژه و غنی از نفت است که به‌طور مشترک توسط سودان و سودان جنوبی اداره می‌شود و بر"
@@ -739,13 +730,23 @@
    "t": 1792526410.0,
    "n": "تسنیم هیچ هیئتی از قطر به ایران سفر نکرده است",
    "fa": "⭕️تسنیم: هیچ هیئتی از قطر به ایران سفر نکرده است"
+  },
+  {
+   "t": 1792526226.0,
+   "n": "reporter s notebook france braces for more unrest after parts of paris spun out of control paris france paris is burning yet again but this time according to officials and analysts it s different and unrest here could have a lasting impact on france perhaps the world i have been covering protests in france for decades i lived in paris for nine years i know that the french are very skilled at takin",
+   "fa": "⭕️ هشدار مقام‌های فرانسوی درباره موج جدید ناآرامی‌ها و خشونت‌ها در پاریس به گزارش فاکس نیوز پاریس بار دیگر در آتش می‌سوزد، اما به گفته مقام‌ها و تحلیلگران، این بار شرایط متفاوت است و ناآرامی‌های جاری می‌تواند تأثیری ماندگار بر فرانسه و شاید جهان داشته باشد. این گزارشگر که دهه‌ها به پوشش اعتراضات در فرانسه پرداخته و ۹ سال در پاریس زندگی کرده است، یادآور می‌شود که مردم فرانسه در آوردن سیاست به خیابا"
+  },
+  {
+   "t": 1792526934.0,
+   "n": "نتانیاهو درباره ترامپ رئیس جمهور ترامپ پدیده ای است که شاید هر صد سال یک بار ظهور کند مشارکت میان ما از زمان تأسیس اسرائیل در نزدیک به ۸۰ سال پیش بی سابقه بوده است",
+   "fa": "🇮🇱🇺🇸 نتانیاهو درباره ترامپ: ‼️«رئیس‌جمهور ترامپ پدیده‌ای است که شاید هر صد سال یک‌بار ظهور کند. مشارکت میان ما، از زمان تأسیس اسرائیل در نزدیک به ۸۰ سال پیش، بی‌سابقه بوده است.»"
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 171
+  "requests": 173
  },
- "flip": 1253,
+ "flip": 1255,
  "quote_n": 539,
  "signals": [
   {
@@ -1637,6 +1638,11 @@
    "t": 1792526773.4717252,
    "s": 3,
    "p": 50
+  },
+  {
+   "t": 1792527087.170654,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
