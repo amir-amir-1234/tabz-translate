@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108699
+   "last_id": 108701
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 101584
   },
   "NE_WG": {
-   "last_id": 115119
+   "last_id": 115120
   }
  },
  "fails": {},
@@ -439,16 +439,6 @@
  },
  "recent": [
   {
-   "t": 1792500740.0,
-   "n": "طبق گزارش های منتشر شده هوش مصنوعی chat gpt برای ایرانی ها به صورت کامل تحریم و فیلتر شد",
-   "fa": "⭕️طبق گزارش های منتشر شده، هوش مصنوعی Chat GPT برای ایرانی ها به صورت کامل تحریم و فیلتر شد."
-  },
-  {
-   "t": 1792501180.0,
-   "n": "ukrainian president zelensky has arrived in oslo for talks with u s envoy steve witkoff and european partners hosted by norwegian prime minister jonas gahr støre and finnish president alexander stubb the meetings aim to develop proposals on security guarantees for ukraine and terms for a lasting peace which witkoff would present to russian president vladimir putin afterwards",
-   "fa": "🇺🇦🇳🇴🇺🇸🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، برای گفتگو با استیو ویتکوف، فرستاده ایالات متحده، و شرکای اروپایی وارد اسلو شد. این نشست‌ها که به میزبانی یوناس گاهر استوره، نخست‌وزیر نروژ، و الکساندر استاب، رئیس‌جمهور فنلاند، برگزار می‌شود، با هدف تدوین پیشنهادهایی درباره تضمین‌های امنیتی برای اوکراین و شرایط یک صلح پایدار انجام می‌گیرد که ویتکوف بعدها آن را به ولادیمیر پوتین، رئیس‌جمهور روسیه، "
-  },
-  {
    "t": 1792501465.0,
    "n": "مصطفی نجفی مشاور سابق محسن رضایی خبر رد درخواست عاصم منیر توسط فیلد مارشال رضایی صحت ندارد",
    "fa": "🔄 به‌روزرسانی ⭕️مصطفی نجفی، مشاور سابق محسن رضایی: خبر رد درخواست عاصم منیر توسط فیلد مارشال رضایی، صحت ندارد"
@@ -737,13 +727,23 @@
    "t": 1792517339.0,
    "n": "نتانیاهو درباره ترکیه من به دنبال درگیری با ترکیه نیستم اما زمانی که امنیت اسرائیل مستلزم آن باشد از آن اجتناب نمی کنم",
    "fa": "🇮🇱🇹🇷 نتانیاهو درباره ترکیه: 💢من به دنبال درگیری با ترکیه نیستم، اما زمانی که امنیت اسرائیل مستلزم آن باشد، از آن اجتناب نمی‌کنم."
+  },
+  {
+   "t": 1792517570.0,
+   "n": "ukrainian president zelensky we are thankful that intelligence works now i m speaking about early warning what is very important for our people for children adults civilians because we can hear when ballistic is coming we are thankful for the americans now it works it s great",
+   "fa": "🇺🇦🇺🇸⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: ما سپاسگزاریم که اطلاعات اکنون کار می‌کند. من درباره هشدار زودهنگام صحبت می‌کنم که برای مردم ما، کودکان، بزرگسالان و غیرنظامیان بسیار مهم است، زیرا می‌توانیم هنگام آمدن موشک‌های بالستیک صدای آن را بشنویم. ما از آمریکایی‌ها سپاسگزاریم. اکنون کار می‌کند. این عالی است."
+  },
+  {
+   "t": 1792517647.0,
+   "n": "ukrainian president zelensky putin helps the iranians we saw different details regarding the drones which russia delivered to iran and i think also they shared with them intelligence i mean from satellites and other information this is what we know i know that russia is on the side of the iranians",
+   "fa": "🇺🇦🇷🇺🇮🇷⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: پوتین به ایرانی‌ها کمک می‌کند. ما جزئیات مختلفی را در خصوص پهپادهایی که روسیه به ایران تحویل داده دیده‌ای منظورم داده‌های ماهواره‌ای و سایر اطلاعات است. این چیزی است که ما می‌دانیم. من می‌دانم که روسیه در کنار ایرانی‌ها قرار دارد."
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 126
+  "requests": 127
  },
- "flip": 1217,
+ "flip": 1219,
  "quote_n": 522,
  "signals": [
   {
@@ -1565,6 +1565,11 @@
    "t": 1792517504.8429992,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1792517820.971524,
+   "s": 4,
+   "p": 70
   }
  ],
  "risk": {
