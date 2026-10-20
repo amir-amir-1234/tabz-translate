@@ -318,7 +318,8 @@
     "WP-WSJ-0003988838",
     "WP-WSJ-0003989215",
     "WP-WSJ-0003990128",
-    "WP-WSJ-0003990159"
+    "WP-WSJ-0003990159",
+    "WP-WSJ-0003990380"
    ]
   },
   "NYT": {
@@ -427,11 +428,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792446838.0,
-   "n": "خبرگزاری فارس مرگ کیم را تکذیب کرد",
-   "fa": "🔄 به‌روزرسانی 🇰🇵🚨خبرگزاری فارس مرگ کیم را تکذیب کرد!"
-  },
   {
    "t": 1792446961.0,
    "n": "islamic republic of iran air force fighter aviation patrolled the southern iran iraq border as israeli american fighters flew above southern iraq likely combat air patrol in case any launches occured",
@@ -726,20 +722,20 @@
    "t": 1792489445.0,
    "n": "روابط عمومی سپاه دو فروند نفتکش متخلف به آتش کشیده و متوقف شدند",
    "fa": "⭕️روابط عمومی سپاه: دو فروند نفتکش متخلف به آتش کشیده و متوقف شدند"
+  },
+  {
+   "t": 1792489740.0,
+   "n": "german investor confidence declines for first time in six months investor sentiment in slipped in october for the first time since april as high energy prices driven by the war in the middle east continued to squeeze households and business",
+   "fa": "🔴 کاهش اعتماد سرمایه‌گذاران آلمانی برای نخستین بار در شش ماه گذشته به دلیل بحران خاورمیانه به گزارش وال‌استریت ژورنال، احساسات سرمایه‌گذاران در ماه اکتبر برای نخستین بار از ماه آوریل کاهش یافت؛ زیرا بالا بودن بهای انرژی ناشی از جنگ در خاورمیانه همچنان به خانواده‌ها و کسب‌وکارها فشار وارد می‌کند."
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 42
+  "requests": 44
  },
- "flip": 1142,
- "quote_n": 490,
+ "flip": 1143,
+ "quote_n": 491,
  "signals": [
-  {
-   "t": 1792403177.097048,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1792403479.3476598,
    "s": 3,
