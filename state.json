@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108715
+   "last_id": 108717
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 101586
   },
   "NE_WG": {
-   "last_id": 115124
+   "last_id": 115125
   }
  },
  "fails": {},
@@ -439,16 +439,6 @@
  },
  "recent": [
   {
-   "t": 1792505243.0,
-   "n": "رویترز به نقل از منابع ایرانی ارشد تهران در حال آماده سازی برای رویارویی با ایالات متحده و اسرائیل است به جای اینکه به توافقی برای پایان دادن به جنگ برسد",
-   "fa": "🇮🇷🇺🇸🇮🇱رویترز، به نقل از منابع ایرانی ارشد: تهران در حال آماده‌سازی برای رویارویی با ایالات متحده و اسرائیل است، به جای اینکه به توافقی برای پایان دادن به جنگ برسد"
-  },
-  {
-   "t": 1792505262.0,
-   "n": "برخی تحلیلگران اقتصادی قیمت نفت را تا ۱۱۸و حتی۱۳۰ دلار پیش بینی می کنند",
-   "fa": "‼️برخی تحلیلگران اقتصادی قیمت نفت را تا ۱۱۸و حتی۱۳۰ دلار پیش‌بینی می کنند!"
-  },
-  {
    "t": 1792505498.0,
    "n": "president trump on iran we could win the war tomorrow frankly we could leave today and we ve already won",
    "fa": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره ایران: ما می‌توانیم جنگ را فردا پیروز شویم. صادقانه بگویم، ما همین امروز می‌توانیم خارج شویم و از همین حالا پیروز شده‌ایم."
@@ -737,20 +727,25 @@
    "t": 1792519088.0,
    "n": "secretary of state marco rubio in the case of pakistan it s a country that we have to have a relationship with it s a country that possesses nuclear weapons it s a country that from a geographic standpoint we need to be able to interact with them in much the same way as the government of india has to have and has a relationship and meets with leaders from iran so these are difficult things to bala",
    "fa": "🇺🇸🇵🇰⚡️ — وزیر امور خارجه، مارکو روبیو: در مورد پاکستان، این کشوری است که ما باید با آن رابطه داشته باشیم. این کشوری است که سلاح هسته‌ای دارد. این کشوری است که از نظر جغرافیایی، ما باید بتوانیم با آن‌ها تعامل داشته باشیم، درست همان‌طور که دولت هند باید با رهبران ایران رابطه داشته باشد و با آن‌ها دیدار کند. بنابراین ایجاد تعادل در این موارد دشوار است، اما باید به عنوان بخشی از سیاست خارجی ما انجام ش"
+  },
+  {
+   "t": 1792519251.0,
+   "n": "secretary of state marco rubio on iran it s tough to make a deal with the iranian regime unfortunately they don t know how to make a deal and they re controlled by radical shia clerics who are driven by theology very difficult to make a deal with them if you look at any given night in the straits the amount of traffic and oil and energy flowing through there is 80 100 equal to what it was before t",
+   "fa": "🇺🇸🇮🇷⚡️ — وزیر امور خارجه، مارکو روبیو درباره ایران: توافق با رژیم ایران دشوار است. متأسفانه، آن‌ها بلد نیستند توافق کنند و توسط روحانیون تندروی شیعه که الهام‌بخش تفکرشان الهیات است، کنترل می‌شوند. توافق با آن‌ها بسیار دشوار است. اگر در هر شب معینی به تنگه نگاه کنید، میزان ترافیک، نفت و انرژی که از آنجا عبور می‌کند ۸۰ تا ۱۰۰ درصد برابر با میزان آن پیش از درگیری است."
+  },
+  {
+   "t": 1792519293.0,
+   "n": "secretary of state marco rubio on iran we have a nation state that is openly openly saying we are targeting commercial vessels we are trying to kill sailors you haven t seen that since the second world war they are doing nazi u boat tactics that s what the world should be rallying around and condemning",
+   "fa": "🇺🇸🇮🇷⚡️ — وزیر امور خارجه، مارکو روبیو درباره ایران: ما با یک دولت-ملت روبرو هستیم که آشکارا می‌گوید: «ما کشتی‌های تجاری را هدف قرار می‌دهیم. ما تلاش می‌کنیم ملوانان را بکشیم.» شما از جنگ جهانی دوم تاکنون چنین چیزی ندیده‌اید. آن‌ها در حال اجرای تاکتیک‌های زیردریایی‌های نازی هستند. این همان چیزی است که جهان باید حول آن متحد شده و آن را محکوم کند."
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 141
+  "requests": 143
  },
- "flip": 1231,
+ "flip": 1233,
  "quote_n": 527,
  "signals": [
-  {
-   "t": 1792432892.5766225,
-   "s": 2,
-   "p": 70
-  },
   {
    "t": 1792433179.1213567,
    "s": 4,
@@ -1605,6 +1600,16 @@
    "t": 1792519315.1024604,
    "s": 2,
    "p": 50
+  },
+  {
+   "t": 1792519580.5453255,
+   "s": 4,
+   "p": 65
+  },
+  {
+   "t": 1792519587.4381504,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
