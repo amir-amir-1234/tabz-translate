@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108709
+   "last_id": 108711
   },
   "khabarfouri": {
    "last_id": 569949
@@ -439,16 +439,6 @@
  },
  "recent": [
   {
-   "t": 1792503324.0,
-   "n": "democrats are preparing investigations into alleged corruption within the trump administration if they regain control of the house next month with elon musk among their main targets politico reports potential probes could examine elon s leadership of doge federal job cuts alleged data breaches government contracts and starlink s role in ukraine",
-   "fa": "🇺🇸⚡️ — به گزارش پولیتیکو، دموکرات‌ها در حال آماده‌سازی تحقیقات درباره فساد ادعایی در دولت ترامپ در صورت به دست گرفتن کنترل مجدد مجلس نمایندگان در ماه آینده هستند که ایلان ماسک یکی از اهداف اصلی آن‌ها خواهد است. تحقیقات احتمالی می‌تواند رهبری ایلان در دوج، کاهش مشاغل فدرال، نشت اطلاعات ادعایی، قراردادهای دولتی و نقش استارلینک در اوکراین را بررسی کند."
-  },
-  {
-   "t": 1792503430.0,
-   "n": "سخنگوی ارتش اسرائیل idf بیش از ۵۴۰ زیرساخت تروریستی در منطقه امنیتی منهدم شد فعالیت لشکر ۹۱ در جنوب لبنان نیروهای تیپ های ۳۰۰ ۷۶۹ و ۴ و همچنین مرکز آموزش پیاده تحت فرماندهی لشکر ۹۱ در منطقه امنیتی برای رفع تهدیدها علیه کشور اسرائیل فعالیت می کنند طی هفته های اخیر نیروها در مناطق روستاهای الخیام طیر حرفا میس الجبل و مجدل زون که در منطقه امنیتی قرار دارند فعالیت کردند و بیش از ۵۴۰ زیرساخت تروریستی ا",
-   "fa": "⭕️ 〰️❌🏴 سخنگوی ارتش اسرائیل (IDF): بیش از ۵۴۰ زیرساخت تروریستی در منطقه امنیتی منهدم شد: فعالیت لشکر ۹۱ در جنوب لبنان نیروهای تیپ‌های ۳۰۰، ۷۶۹ و ۴ و همچنین مرکز آموزش ‌پیاده، تحت فرماندهی لشکر ۹۱، در منطقه امنیتی برای رفع تهدیدها علیه کشور اسرائیل فعالیت می‌کنند. طی هفته‌های اخیر، نیروها در مناطق روستاهای الخیام، طیر حرفا، میس الجبل و مجدل زون که در منطقه امنیتی قرار دارند، فعالیت کردند و بیش از ۵"
-  },
-  {
    "t": 1792503652.0,
    "n": "the sudanese army repelled a large rsf offensive toward the town of sali in the blue nile state of sudan inflicting large casualties on the uae backed rebel group",
    "fa": "🇸🇩❌🇸🇩 — ارتش سودان یک تهاجم بزرگ نیروهای پشتیبانی سریع را به سمت شهر سالی در ایالت نیل آبی سودان دفع کرد و تلفات سنگینی به این گروه شورشی حامی امارات وارد آورد."
@@ -737,14 +727,24 @@
    "t": 1792518290.0,
    "n": "secretary of war pete hegseth president trump is unleashing a great american revival a reawakening of our industrial spirit and our national confidence a new golden age for america",
    "fa": "🇺🇸⚡️ — وزیر دفاع، پیت هگست: رئیس‌جمهور ترامپ در حال آزادسازی یک احیای بزرگ آمریکایی، بیداری دوباره روح صنعتی و اعتماد ملی ماست — یک عصر طلایی جدید برای آمریکا."
+  },
+  {
+   "t": 1792518337.0,
+   "n": "departure of pakistan s chief of army staff asim munir from tehran iran the qataris seem to actually be there for other purposes",
+   "fa": "🇮🇷🇶🇦🇵🇰⚡️ — خروج عاصم منیر، فرمانده ارتش پاکستان از تهران، ایران. به نظر می‌رسد قطری‌ها در واقع برای اهداف دیگری آنجا هستند 😅"
+  },
+  {
+   "t": 1792518354.0,
+   "n": "secretary of war pete hegseth i just arrived back from a trip to central command and got to meet with pilots and refuelers and maintainers that are out there on the front lines doing historic work in ensuring that iran never has a nuclear weapon",
+   "fa": "🇺🇸❌🇮🇷 — وزیر دفاع، پیت هگست: من تازه از سفری به ستاد فرماندهی مرکزی (سنتکام) برگشته‌ام و توانستم با خلبانان، سوخت‌رسان‌ها و تعمیرکارانی که در خط مقدم حضور دارند، دیدار کنم؛ کسانی که در حال انجام کاری تاریخی برای اطمینان از عدم دستیابی ایران به سلاح هسته‌ای هستند."
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 135
+  "requests": 136
  },
- "flip": 1226,
- "quote_n": 524,
+ "flip": 1228,
+ "quote_n": 525,
  "signals": [
   {
    "t": 1792432279.2815638,
@@ -1578,6 +1578,16 @@
   },
   {
    "t": 1792518425.1165206,
+   "s": 4,
+   "p": 70
+  },
+  {
+   "t": 1792518680.984291,
+   "s": 2,
+   "p": 40
+  },
+  {
+   "t": 1792518689.5793252,
    "s": 4,
    "p": 70
   }
