@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132248
+   "last_id": 132249
   },
   "TelNews_Magazine": {
-   "last_id": 101568
+   "last_id": 101569
   },
   "NE_WG": {
-   "last_id": 115101
+   "last_id": 115102
   }
  },
  "fails": {},
@@ -437,16 +437,6 @@
  },
  "recent": [
   {
-   "t": 1792490407.0,
-   "n": "some synagogues canceled prayers as french jews faced warnings amid violent protests for some french jews saturday s unrest brought an unsettling warning conceal outward signs of jewish identity and avoid gathering outside synagogues one community member told fox news digital that some congregations had even canceled afternoon prayers on the sabbath as demonstrations across france descended into v",
-   "fa": "⭕️ لغو نماز برخی یهودیان فرانسوی همزمان با هشدارهای امنیتی در پی اعتراضات خشونت‌بار به گزارش فاکس نیوز ناآرامی‌های روز شنبه هشدار نگران‌کننده‌ای را برای برخی از یهودیان فرانسوی به همراه داشت که بر اساس آن از آنان خواسته شد نشانه‌های ظاهری هویت یهودی خود را پنهان کنند و از تجمع در بیرون کنیسه‌ها بپرهیزند. یک عضو این جامعه به فاکس نیوز دیجیتال گفت که برخی از جماعت‌ها حتی مراسم نماز عصر را در روز سبت"
-  },
-  {
-   "t": 1792490580.0,
-   "n": "netflix won the streaming wars now it faces its biggest disruption in years plus we examine how the riots in france benefit marine le pen and why nurses are quitting in droves",
-   "fa": "🔴 نتفلیکس جنگ‌های استریم را برد اما اکنون با بزرگ‌ترین اختلال خود روبه‌رو است به گزارش وال‌استریت ژورنال علاوه بر این، ما بررسی می‌کنیم که چگونه شورش‌ها در فرانسه به سود مارین لوپن تمام می‌شود و چرا پرستاران دسته‌جمعی استعفا می‌دهند."
-  },
-  {
    "t": 1792491169.0,
    "n": "قطر راه حل مسالمت آمیز از طریق میز مذاکره تنها راه حلی است که امنیت و ثبات منطقه را حفظ می کند",
    "fa": "⭕️قطر:راه‌حل مسالمت‌آمیز از طریق میز مذاکره، تنها راه‌حلی است که امنیت و ثبات منطقه را حفظ می‌کند"
@@ -735,14 +725,24 @@
    "t": 1792505745.0,
    "n": "president trump on iran we re doing something that biden and obama should have done stop the iran situation because you just can t have that we wouldn t even have a world the world is very thankful for what we re doing our prices are much lower you re gonna see some very low oil prices very soon",
    "fa": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره ایران: ما کاری را انجام می‌دهیم که بایدن و اوباما باید انجام می‌دادند: متوقف کردن وضعیت ایران، چون نمی‌توان آن را تحمل کرد. ما حتی دنیایی نخواهیم داشت. جهان بابت کاری که ما انجام می‌دهیم بسیار سپاسگزار است. قیمت‌های ما بسیار پایین‌تر است. به‌زودی شاهد قیمت‌های بسیار پایین نفت خواهید بود."
+  },
+  {
+   "t": 1792506937.0,
+   "n": "سردار ابن الرضا به عنوان مشاور رئیس جمهور در امور دفاعی کشور منصوب شد",
+   "fa": "🇮🇷🇮🇷سردار ابن الرضا به عنوان «مشاور رئیس‌جمهور در امور دفاعی کشور» منصوب شد"
+  },
+  {
+   "t": 1792507145.0,
+   "n": "نتانیاهو من دیروز دوشنبه با ترامپ در مورد اهمیت حذف رژیم ایران صحبت کردم",
+   "fa": "🚨نتانیاهو: من دیروز، دوشنبه، با ترامپ در مورد اهمیت حذف رژیم ایران صحبت کردم"
   }
  ],
  "usage": {
   "date": "2026-10-20",
-  "requests": 93
+  "requests": 94
  },
- "flip": 1190,
- "quote_n": 514,
+ "flip": 1191,
+ "quote_n": 515,
  "signals": [
   {
    "t": 1792420889.63701,
@@ -1528,6 +1528,16 @@
    "t": 1792506101.3138287,
    "s": 4,
    "p": 70
+  },
+  {
+   "t": 1792507298.9949424,
+   "s": 3,
+   "p": 40
+  },
+  {
+   "t": 1792507302.6056309,
+   "s": 5,
+   "p": 90
   }
  ],
  "risk": {
