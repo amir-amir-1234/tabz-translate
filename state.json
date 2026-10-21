@@ -10,7 +10,7 @@
    "last_id": 132371
   },
   "TelNews_Magazine": {
-   "last_id": 101655
+   "last_id": 101656
   },
   "NE_WG": {
    "last_id": 115228
@@ -467,11 +467,6 @@
  },
  "recent": [
   {
-   "t": 1792586928.0,
-   "n": "the eu has unveiled a new arctic security strategy aimed at strengthening surveillance protecting undersea infrastructure and expanding its icebreaker fleet amid growing competition with russia china and the u s the plan includes a maritime security hub to coordinate intelligence a dedicated arctic cable hub to monitor and repair undersea cables and expanded satellite surveillance through the eu s",
-   "fa": "🇪🇺⚡️ — اتحادیه اروپا از یک راهبرد جدید امنیت قطب شمال با هدف تقویت نظارت، محافظت از زیرساخت‌های زیردریایی و گسترش ناوگان یخ‌شکن خود در مواجهه با رقابت فزاینده با روسیه، چین و ایالات متحده رونمایی کرد. این طرح شامل یک مرکز امنیت دریایی برای هماهنگی اطلاعات، یک مرکز اختصاصی کابل‌های قطب شمال برای نظارت و تعمیر کابل‌های زیردریایی، و گسترش نظارت ماهواره‌ای از طریق شبکه کوپرنیک اتحادیه اروپا است. این ر"
-  },
-  {
    "t": 1792587025.0,
    "n": "reporter has the date for your visit to damascus been finalized türkiye s erdoğan the date hasn t been finalized yet but we will make the visit",
    "fa": "🇹🇷🇸🇾⚡️ — خبرنگار: آیا تاریخ سفر شما به دمشق نهایی شده است؟ اردوغان، رئیس‌جمهور ترکیه: تاریخ آن هنوز نهایی نشده است، اما این سفر را انجام خواهیم داد."
@@ -765,25 +760,20 @@
    "t": 1792603751.0,
    "n": "نخست وزیر بریتانیا اندی برنهام از سلطان هایثم بن طارق عمان در خیابان داونینگ در لندن استقبال کرد",
    "fa": "🇬🇧🇴🇲 نخست‌وزیر بریتانیا، اندی برنهام، از سلطان هایثم بن طارق عمان در خیابان داونینگ در لندن استقبال کرد."
+  },
+  {
+   "t": 1792603963.0,
+   "n": "کانال ۱۳ اسرائیل اظهارات تحریک آمیز نتانیاهو ممکن است ایران را وادار به حمله کند",
+   "fa": "⭕️کانال ۱۳ اسرائیل: اظهارات تحریک آمیز نتانیاهو ممکن است ایران را وادار به حمله کند‌‌"
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 138
+  "requests": 139
  },
- "flip": 1389,
- "quote_n": 600,
+ "flip": 1390,
+ "quote_n": 601,
  "signals": [
-  {
-   "t": 1792517498.492061,
-   "s": 4,
-   "p": 75
-  },
-  {
-   "t": 1792517504.8429992,
-   "s": 4,
-   "p": 65
-  },
   {
    "t": 1792517820.971524,
    "s": 4,
@@ -1703,6 +1693,11 @@
    "t": 1792603888.3852646,
    "s": 2,
    "p": 45
+  },
+  {
+   "t": 1792604166.2863073,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
