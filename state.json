@@ -10,10 +10,10 @@
    "last_id": 132347
   },
   "TelNews_Magazine": {
-   "last_id": 101639
+   "last_id": 101640
   },
   "NE_WG": {
-   "last_id": 115198
+   "last_id": 115200
   }
  },
  "fails": {},
@@ -104,7 +104,8 @@
     "https://www.foxnews.com/world/iran-regime-under-pressure-rebel-groups-escalate-attacks-volatile-southeast",
     "https://www.foxnews.com/world/sea-mine-crisis-re-emerges-strait-hormuz-tehran-urges-washington-accept-deal",
     "https://www.foxnews.com/world/reporters-notebook-france-braces-more-unrest-after-parts-paris-spun-out-control",
-    "https://www.foxnews.com/world/stephen-hubbard-russia-american-prisoner-release"
+    "https://www.foxnews.com/world/stephen-hubbard-russia-american-prisoner-release",
+    "https://www.foxnews.com/world/ukraines-zelenskyy-open-freezing-front-lines-ceasefire-russia"
    ]
   },
   "WSJ": {
@@ -461,11 +462,6 @@
  },
  "recent": [
   {
-   "t": 1792577214.0,
-   "n": "israeli prime minister benjamin netanyahu planned a major multi day attack on iran for october 10 but president trump blocked the operation to avoid restarting the war ahead of the november 3 u s midterm elections according to ft the planned strikes would have targeted iranian nuclear facilities government sites power plants and other civilian infrastructure with an intensity reportedly exceeding ",
-   "fa": "🇮🇱🇺🇸🇮🇷⚡️ — به گزارش فایننشال تایمز، بنیامین نتانیاهو، نخست‌وزیر اسرائیل، برنامه‌ریزی کرده بود که در ۱۰ اکتبر یک حمله بزرگ و چندروزه علیه ایران انجام دهد، اما رئیس‌جمهور ترامپ برای جلوگیری از از سرگیری جنگ پیش از انتخابات میان‌دوره‌ای آمریکا در ۳ نوامبر، مانع از این عملیات شد. حملات برنامه‌ریزی‌شده تأسیسات هسته‌ای، سایت‌های دولتی، نیروگاه‌ها و سایر زیرساخت‌های غیرنظامی ایران را با شدت و عظمتی فراتر"
-  },
-  {
    "t": 1792577306.0,
    "n": "ریک اسکات سناتور جمهوری خواه از آغاز حمله به ایران حمایت میکنم",
    "fa": "⭕️ریک اسکات، سناتور جمهوری‌خواه: از آغاز حمله به ایران حمایت میکنم."
@@ -759,25 +755,20 @@
    "t": 1792591984.0,
    "n": "israeli prime minister benjamin netanyahu we are ready to finish the war to finish the job we will overthrow the regime and eliminate the axis of evil once and for all we have the power to achieve this",
    "fa": "🇮🇱❌🇮🇷 — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: ما آماده‌ایم جنگ را تمام کنیم، کار را تمام کنیم. ما رژیم را سرنگون خواهیم کرد و محور شرارت را یک‌بار برای همیشه نابود خواهیم کرد. ما قدرت دستیابی به این هدف را داریم."
+  },
+  {
+   "t": 1792591912.0,
+   "n": "ukraine s zelenskyy open to freezing front lines in ceasefire with russia ukrainian president volodymyr zelenskyy told fox friends on wednesday that he is open to freezing the front lines of the ukraine russia war in an effort to bring the long running conflict to an end zelenskyy made the remark after being asked by brian kilmeade if he would accept a peace deal that freezes everything the way it",
+   "fa": "🔴 ولودیمیر زلنسکی از آمادگی برای فریز کردن خطوط مقدم جنگ با روسیه خبر داد به گزارش فاکس نیوز ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، روز چهارشنبه در گفتگو با برنامه «فاکس اند فرندز» اعلام کرد که او برای پایان دادن به درگیری طولانی‌مدت اوکراین و روسیه، به فریز کردن خطوط مقدم جنگ تمایل دارد. زلنسکی این اظهارات را پس از آن بیان کرد که برایان کیلمید از او پرسید آیا «یک توافق صلح را که همه‌چیز را همین‌طور"
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 95
+  "requests": 97
  },
- "flip": 1362,
+ "flip": 1363,
  "quote_n": 587,
  "signals": [
-  {
-   "t": 1792505803.1289935,
-   "s": 4,
-   "p": 85
-  },
-  {
-   "t": 1792505806.6832676,
-   "s": 4,
-   "p": 80
-  },
   {
    "t": 1792506101.3138287,
    "s": 4,
@@ -1717,6 +1708,11 @@
    "t": 1792592220.1225867,
    "s": 5,
    "p": 90
+  },
+  {
+   "t": 1792592503.2719502,
+   "s": 2,
+   "p": 60
   }
  ],
  "risk": {
