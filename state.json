@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108746
+   "last_id": 108748
   },
   "khabarfouri": {
    "last_id": 569949
@@ -451,11 +451,6 @@
  },
  "recent": [
   {
-   "t": 1792522160.0,
-   "n": "the qatari delegation departed tehran iran a short while ago",
-   "fa": "🇮🇷🇶🇦⚡️ — هیئت قطری دقایقی پیش تهران، ایران را ترک کرد."
-  },
-  {
    "t": 1792522169.0,
    "n": "ترامپ درباره ایران ما فقط باید تصمیم نهایی را درباره ایران بگیریم می خواهیم از چه راهی پیروز شویم از راه مسالمت آمیز یا از راه غیرمسالمت آمیز اما ما داریم خیلی خوب پیش می رویم",
    "fa": "⭕️ترامپ درباره ایران: ما فقط باید تصمیم نهایی را درباره ایران بگیریم. می‌خواهیم از چه راهی پیروز شویم؛ از راه مسالمت‌آمیز یا از راه غیرمسالمت‌آمیز؟ اما ما داریم خیلی خوب پیش می‌رویم."
@@ -749,13 +744,18 @@
    "t": 1792544606.0,
    "n": "president trump is pushing to remove journalists from the white house s james s brady press briefing room and potentially restore the indoor swimming pool originally built for president franklin d roosevelt according to nyt trump raised the proposal repeatedly with former press secretary karoline leavitt before her departure in august suggesting that relocating reporters could be her last legacy t",
    "fa": "🇺🇸⚡️ — به نوشته نیویورک تایمز، دونالد ترامپ، رئیس‌جمهور آمریکا، در حال تلاش برای اخراج خبرنگاران از سالن مطبوعاتی جیمز اس. بریدی در کاخ سفید و احتمالاً احیای استخر سرپوشیده‌ای است که در اصل برای فرانکلین د. روزولت ساخته شده بود. ترامپ این پیشنهاد را بارها پیش از جدایی کارولین لیویت، سخنگوی پیشین کاخ سفید، در ماه اوت مطرح کرد و پیشنهاد داد که جابجایی خبرنگاران می‌تواند «آخرین میراث» او باشد. مشاورا"
+  },
+  {
+   "t": 1792544995.0,
+   "n": "israeli and lebanese officials met at u s central command headquarters at macdill air force base in tampa florida on tuesday according to the jerusalem post the talks focused on implementing a u s brokered framework under which lebanese forces would assume control of areas vacated by withdrawing israeli troops with the broader objective of disarming and weakening hezbollah s influence",
+   "fa": "🇮🇱🇱🇧🇺🇸⚡️ — به گزارش جروزالم پست، مقام‌های اسرائیلی و لبنانی روز سه‌شنبه در مقر فرماندهی مرکزی ایالات متحده (سنتکام) در پایگاه نیروی هوایی مک‌دیل در تمپای فلوریدا با یکدیگر دیدار کردند. این مذاکرات بر اجرای چارچوبی با میانجیگری ایالات متحده تمرکز داشت که بر اساس آن نیروهای لبنانی کنترل مناطق تخلیه‌شده توسط نیروهای در حال عقب‌نشینی اسرائیل را به دست می‌گیرند و هدف گسترده‌تر آن خلع سلاح و تضعیف نفوذ "
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 9
+  "requests": 10
  },
- "flip": 1281,
+ "flip": 1282,
  "quote_n": 556,
  "signals": [
   {
@@ -1677,6 +1677,11 @@
    "t": 1792542972.3981,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792545074.239808,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
