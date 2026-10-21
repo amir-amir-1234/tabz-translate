@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108771
+   "last_id": 108776
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,7 +10,7 @@
    "last_id": 132333
   },
   "TelNews_Magazine": {
-   "last_id": 101630
+   "last_id": 101631
   },
   "NE_WG": {
    "last_id": 115186
@@ -461,31 +461,6 @@
  },
  "recent": [
   {
-   "t": 1792563480.0,
-   "n": "u k inflation jumps again on energy costs inflation rose further above the bank of england s target as policymakers prepare for a meeting that investors expect will yield a first rate rise since the start of the war between the u s and iran",
-   "fa": "⭕️ افزایش دوباره نرخ تورم بریتانیا همزمان با رشد هزینه‌های انرژی به گزارش وال‌استریت ژورنال نرخ تورم فراتر از هدف‌گذاری بانک مرکزی بریتانیا افزایش یافته است و این در حالی است که سیاست‌گذاران خود را برای نشستی آماده می‌کنند که سرمایه‌گذاران انتظار دارند به نخستین افزایش نرخ بهره از زمان آغاز جنگ میان آمریکا و ایران منجر شود."
-  },
-  {
-   "t": 1792564141.0,
-   "n": "وزیر جنگ آمریکا ماهیت گفت وگوی اخیر من و نتانیاهو چیزی نیست که بخواهم درباره آن صحبت کنم",
-   "fa": "⭕️وزیر جنگ آمریکا: ماهیت گفت‌وگوی اخیر من و نتانیاهو چیزی نیست که بخواهم درباره‌ آن صحبت کنم"
-  },
-  {
-   "t": 1792564621.0,
-   "n": "هگست آمریکا همچنان در حال بررسی ابعاد حمله به مدرسه میناب است وقتی زمان انتشار نتایج فرا برسد آن ها را منتشر خواهیم کرد",
-   "fa": "🎬هگست: آمریکا همچنان در حال بررسی ابعاد حمله به مدرسه میناب است 💢وقتی زمان انتشار نتایج فرا برسد، آن‌ها را منتشر خواهیم کرد."
-  },
-  {
-   "t": 1792564800.0,
-   "n": "u k government on track to cut borrowing ahead of budget the government cut borrowing in the first six months of its fiscal year but at a slower pace than planned 6 billion ahead of projections published in march",
-   "fa": "🔴 کاهش استقراض دولت بریتانیا در نیمه نخست سال مالی پیش از ارائه بودجه به گزارش وال‌استریت ژورنال دولت در شش ماه نخست سال مالی خود میزان استقراض را کاهش داد، اما این کار را با سرعتی کمتر از برنامه ریزی انجام داد که ۶ میلیارد پوند جلوتر از پیش بینی های منتشر شده در ماه مارس قرار دارد."
-  },
-  {
-   "t": 1792565211.0,
-   "n": "وقوع چندین انفجار در تنگه هرمز",
-   "fa": "🚨🚨وقوع چندین انفجار در تنگه هرمز"
-  },
-  {
    "t": 1792565520.0,
    "n": "oil prices rise as hormuz shipping risks persist oil prices rebounding from the previous session s losses as traders weighed renewed threats to shipping through the hormuz strait and attacks targeting saudi arabia against a recovery in middle east oil exports",
    "fa": "⭕️ افزایش قیمت نفت به دنبال تداوم خطرات کشتیرانی در تنگه هرمز به گزارش وال‌استریت ژورنال بهای نفت پس از افت در جلسه معاملاتی پیشین، همزمان با ارزیابی معامله‌گران از تهدیدات تازه علیه تردد کشتی‌ها در تنگه هرمز و حملات هدفمند به عربستان سعودی در برابر روند احیای صادرات نفت خاورمیانه، با افزایش مواجه شد."
@@ -759,25 +734,40 @@
    "t": 1792581241.0,
    "n": "حمله موشکی حوثی ها به فرودگاه الریان در مکلا حوثی های یمن اعلام کردند فرودگاه الریان در شهر مکلا را با ۳ موشک بالستیک هدف قرار داده اند",
    "fa": "🔄 به‌روزرسانی ‼️حمله موشکی حوثی‌ها به فرودگاه الریان در مکلا حوثی‌های یمن اعلام کردند فرودگاه الریان در شهر مکلا را با ۳ موشک بالستیک هدف قرار داده‌اند."
+  },
+  {
+   "t": 1792581940.0,
+   "n": "ukrainian president zelensky they re russia not winning on the battlefield that s why they want to use any kind of pressure on us to push us from our land it s not fair we want to end this war as quick as possible we can t just leave our country our houses it s our children so we speak about staying where we stand let s move to diplomacy it s a great idea the ceasefire of the president of the unit",
+   "fa": "🇺🇦🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: آنها (روسیه) در میدان نبرد پیروز نمی‌شوند. به همین دلیل است که می‌خواهند از هر نوع فشاری بر ما استفاده کنند تا ما را از سرزمین‌مان بیرون برانند. این عادلانه نیست. ما می‌خواهیم این جنگ را در سریع‌ترین زمان ممکن پایان دهیم. ما نمی‌توانیم فقط کشور و خانه‌هایمان را رها کنیم. این فرزندان ما هستند. بنابراین ما درباره ماندن در جایی که هستیم صحبت می‌کنیم. بیای"
+  },
+  {
+   "t": 1792582005.0,
+   "n": "ukrainian president zelensky i spoke yesterday with secretary rubio by the way now intelligence works thank you so much it was very dangerous for us not to get early warning information about ballistic attacks from the russian side right now it works about starlink starshield it s still limited but the secretary told me that he will work with his team on this to unblock this question god bless it ",
+   "fa": "🇺🇦🇺🇸🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: من دیروز با مارکو روبیو، وزیر امور خارجه صحبت کردم. به هر حال، اکنون اطلاعات کار می‌کند. بسیار سپاسگزارم. برای ما بسیار خطرناک بود که اطلاعات هشدار اولیه درباره حملات بالستیک از سوی روسیه را دریافت نکنیم. در حال حاضر، این سیستم کار می‌کند. درباره استارلینک، استارشییل — هنوز محدود است، اما وزیر به من گفت که او با تیم خود روی این موضوع کار خواهد کرد تا"
+  },
+  {
+   "t": 1792582054.0,
+   "n": "fox s kilmeade would you accept a peace deal that freezes everything the way it is right now where you still keep 75 or more of your country regardless of how it started would you accept where it is right now zelensky yes",
+   "fa": "🇺🇦🇷🇺⚡️ — کیل‌مید، خبرنگار فاکس: آیا توافق صلح را که همه‌چیز را همان‌طور که هست منجمد کند و در آن شما ۷۵ درصد یا بیشتر از کشور خود را حفظ کنید، می‌پذیرید؟ صرف نظر از اینکه چگونه شروع شد، آیا وضعیت فعلی را می‌پذیرید؟ زلنسکی: بله."
+  },
+  {
+   "t": 1792582071.0,
+   "n": "عضو کمیسیون امنیت ملی مجلس تردیدی در حمله نظامی جدید آمریکا و اسرائیل نداریم و آماده ایم اسرائیل را از روی نقشه پاک کنیم",
+   "fa": "🚨عضو کمیسیون امنیت ملی مجلس: تردیدی در حمله نظامی جدید آمریکا و اسرائیل نداریم و آماده ایم اسرائیل را از روی نقشه پاک کنیم!"
+  },
+  {
+   "t": 1792582177.0,
+   "n": "steve witkoff to putin you talk so much about president trump being a humanitarian you are a humanitarian also sir and i salute that i commend you",
+   "fa": "🇺🇸🇷🇺⚡️ — استیو ویتکاف خطاب به پوتین: شما بسیار درباره اینکه رئیس‌جمهور ترامپ یک بشردوستانه است صحبت می‌کنید. شما نیز یک بشردوستانه هستید، آقا، و من به آن درود می‌فرستم. من از شما قدردانی می‌کنم."
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 65
+  "requests": 66
  },
- "flip": 1331,
- "quote_n": 583,
+ "flip": 1335,
+ "quote_n": 584,
  "signals": [
-  {
-   "t": 1792495582.7182517,
-   "s": 4,
-   "p": 70
-  },
-  {
-   "t": 1792495587.264513,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1792495920.1221404,
    "s": 4,
@@ -1732,19 +1722,44 @@
    "t": 1792581377.7256615,
    "s": 5,
    "p": 75
+  },
+  {
+   "t": 1792582288.7938364,
+   "s": 2,
+   "p": 50
+  },
+  {
+   "t": 1792582295.446875,
+   "s": 2,
+   "p": 50
+  },
+  {
+   "t": 1792582303.8548234,
+   "s": 2,
+   "p": 60
+  },
+  {
+   "t": 1792582307.2401614,
+   "s": 5,
+   "p": 90
+  },
+  {
+   "t": 1792582315.1693227,
+   "s": 2,
+   "p": 40
   }
  ],
  "risk": {
-  "base": 58,
-  "ts": 1792580514.0008335,
+  "base": 57,
+  "ts": 1792582318.1713305,
   "attack": false,
-  "n": 192,
+  "n": 196,
   "shares": {
    "1": 0,
-   "2": 7,
-   "3": 35,
-   "4": 45,
-   "5": 13
+   "2": 13,
+   "3": 32,
+   "4": 41,
+   "5": 14
   }
  },
  "attack_ts": 1792447299.0620482,
