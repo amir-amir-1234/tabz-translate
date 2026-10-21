@@ -13,7 +13,7 @@
    "last_id": 101660
   },
   "NE_WG": {
-   "last_id": 115240
+   "last_id": 115241
   }
  },
  "fails": {},
@@ -469,11 +469,6 @@
  },
  "recent": [
   {
-   "t": 1792591984.0,
-   "n": "israeli prime minister benjamin netanyahu we are ready to finish the war to finish the job we will overthrow the regime and eliminate the axis of evil once and for all we have the power to achieve this",
-   "fa": "🇮🇱❌🇮🇷 — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: ما آماده‌ایم جنگ را تمام کنیم، کار را تمام کنیم. ما رژیم را سرنگون خواهیم کرد و محور شرارت را یک‌بار برای همیشه نابود خواهیم کرد. ما قدرت دستیابی به این هدف را داریم."
-  },
-  {
    "t": 1792591912.0,
    "n": "ukraine s zelenskyy open to freezing front lines in ceasefire with russia ukrainian president volodymyr zelenskyy told fox friends on wednesday that he is open to freezing the front lines of the ukraine russia war in an effort to bring the long running conflict to an end zelenskyy made the remark after being asked by brian kilmeade if he would accept a peace deal that freezes everything the way it",
    "fa": "🔴 ولودیمیر زلنسکی از آمادگی برای فریز کردن خطوط مقدم جنگ با روسیه خبر داد به گزارش فاکس نیوز ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، روز چهارشنبه در گفتگو با برنامه «فاکس اند فرندز» اعلام کرد که او برای پایان دادن به درگیری طولانی‌مدت اوکراین و روسیه، به فریز کردن خطوط مقدم جنگ تمایل دارد. زلنسکی این اظهارات را پس از آن بیان کرد که برایان کیلمید از او پرسید آیا «یک توافق صلح را که همه‌چیز را همین‌طور"
@@ -767,14 +762,19 @@
    "t": 1792607272.0,
    "n": "سوژه شدن سلام مقامات ایرانی با عاصم منیر در رسانه های عربی",
    "fa": "🇮🇷🇵🇰سوژه شدن سلام مقامات ایرانی با عاصم منیر در رسانه‌های عربی"
+  },
+  {
+   "t": 1792607472.0,
+   "n": "دقایقی پیش صدای چند انفجار از کرپان سیریک شنیده شد هنوز منشأ و ماهیت این صداها مشخص نیست",
+   "fa": "🚨🚨دقایقی پیش صدای چند انفجار از کرپان سیریک شنیده شد؛ هنوز منشأ و ماهیت این صداها مشخص نیست!"
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 154
+  "requests": 155
  },
  "flip": 1403,
- "quote_n": 609,
+ "quote_n": 610,
  "signals": [
   {
    "t": 1792521477.1540155,
@@ -1690,19 +1690,24 @@
    "t": 1792607490.3341591,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792607765.6724591,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
   "base": 58,
-  "ts": 1792603891.3914278,
+  "ts": 1792607768.674869,
   "attack": false,
-  "n": 186,
+  "n": 184,
   "shares": {
    "1": 0,
-   "2": 19,
+   "2": 16,
    "3": 24,
-   "4": 40,
-   "5": 17
+   "4": 45,
+   "5": 15
   }
  },
  "attack_ts": 1792447299.0620482,
