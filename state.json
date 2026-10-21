@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108791
+   "last_id": 108792
   },
   "khabarfouri": {
    "last_id": 569949
@@ -461,11 +461,6 @@
  },
  "recent": [
   {
-   "t": 1792576020.0,
-   "n": "musk ordered starlink slowdown that crippled ukraine s drones and sowed panic in kyiv plus autism therapy workers say big chains pressured them to boost treatment hours and nyse is getting trounced in the battle for wall street s biggest ipos",
-   "fa": "⭕️ دستور ایلان ماسک برای کندسازی استارلینک و اختلال در پهپادهای اکراین به گزارش وال‌استریت ژورنال ایلان ماسک دستور کندسازی شبکه استارلینک را صادر کرده بود که این اقدام پهپادهای اکراین را از کار انداخت و وحشت را در کی‌یف ایجاد کرد. افزون بر این، کارکنان درمان اوتیسم اعلام کردند که زنجیره‌های بزرگ به آن‌ها فشار آورده‌اند تا ساعات درمان را افزایش دهند و بورس نیویورک در نبرد برای جذب بزرگ‌ترین عرضه او"
-  },
-  {
    "t": 1792576264.0,
    "n": "سرگردانی شهروندان عراقی در ایران پس از بسته شدن گذرگاه مرزی الشیب چذابه از سوی دولت عراق",
    "fa": "🔄 به‌روزرسانی ‼️سرگردانی شهروندان عراقی در ایران پس از بسته‌شدن گذرگاه مرزی الشیب (چذابه) از سوی دولت عراق"
@@ -759,25 +754,20 @@
    "t": 1792589868.0,
    "n": "u s envoy steve witkoff and russian envoy kirill dmitriev meet with american stephen hubbard following his release from russian detention we just left president putin he sends you blessings and wishes and good things from today it s a new life for you witkoff told hubbard",
    "fa": "🇺🇸🇷🇺⚡️ — استیو ویتکاف، فرستاده آمریکا و کیریل دمیتریف، فرستاده روسیه، پس از آزادی استیون هابارد از بازداشت روسیه با او دیدار کردند. ویتکاف به هابارد گفت: «ما همین الان از نزد رئیس‌جمهور پوتین آمدیم. او برای شما دعا و آرزوی سلامتی و اتفاقات خوب دارد. از امروز، زندگی جدیدی برای شما آغاز شده است.»"
+  },
+  {
+   "t": 1792590038.0,
+   "n": "french presidential candidate jean luc mélenchon iran was illegitimately attacked whatever you may think of its government just because you don t like a government doesn t give you the right to besiege it bomb everything around it and destroy its schools roads and bridges that s what the americans did",
+   "fa": "🇫🇷🇺🇸🇮🇷⚡️ — ژان لوک ملانشون، نامزد ریاست‌جمهوری فرانسه: ایران به طور نامشروع مورد حمله قرار گرفت، هر نظری که درباره دولت آن داشته باشید. صرف نظر از اینکه از یک دولت خوشتان می‌آید یا نه، این حق را به شما نمی‌دهد که آن را محاصره کنید، اطراف آن را بمباران کنید و مدارس، جاده‌ها و پل‌هایش را نابودی کنید. این همان کاری است که آمریکایی‌ها انجام دادند."
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 90
+  "requests": 91
  },
- "flip": 1360,
+ "flip": 1361,
  "quote_n": 587,
  "signals": [
-  {
-   "t": 1792503683.793438,
-   "s": 4,
-   "p": 45
-  },
-  {
-   "t": 1792503692.1336703,
-   "s": 4,
-   "p": 70
-  },
   {
    "t": 1792504582.1473255,
    "s": 4,
@@ -1726,6 +1716,11 @@
   {
    "t": 1792589801.6686208,
    "s": 3,
+   "p": 60
+  },
+  {
+   "t": 1792590381.8284512,
+   "s": 4,
    "p": 60
   }
  ],
