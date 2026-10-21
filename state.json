@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108833
+   "last_id": 108835
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 101683
   },
   "NE_WG": {
-   "last_id": 115294
+   "last_id": 115295
   }
  },
  "fails": {},
@@ -477,11 +477,6 @@
  },
  "recent": [
   {
-   "t": 1792607194.0,
-   "n": "an idf remotely operated armored personnel carrier malfunctioned during an operation near ras al bayada in southern lebanon last week causing it to move uncontrollably toward a lebanese army position kan news reports israeli forces attempted to destroy the vehicle with airstrikes but mistakenly targeted a lebanese army apc due to an identification error no casualties or damage were reported the ma",
-   "fa": "🇮🇱🇱🇧⚡️ — کان نیوز گزارش داد که یک نفربر زرهی کنترل از راه دور ارتش اسرائیل هفته گذشته طی عملیاتی در نزدیکی رأس‌البیاضه در جنوب لبنان دچار نقص فنی شد و به طور کنترل‌نشده‌ای به سمت مواضع ارتش لبنان حرکت کرد. نیروهای اسرائیلی تلاش کردند این خودرو را با حملات هوایی منهدم کنند، اما به دلیل خطای شناسایی، به اشتباه یک نفربر ارتش لبنان را هدف قرار دادند. هیچ تلفات یا خسارتی گزارش نشد. خودروی معیوب اسرائیل"
-  },
-  {
    "t": 1792607272.0,
    "n": "سوژه شدن سلام مقامات ایرانی با عاصم منیر در رسانه های عربی",
    "fa": "🇮🇷🇵🇰سوژه شدن سلام مقامات ایرانی با عاصم منیر در رسانه‌های عربی"
@@ -775,14 +770,19 @@
    "t": 1792621509.0,
    "n": "twenty minutes ago a second missile launcher in sirik was struck by a presumably american ucav",
    "fa": "🔄 به‌روزرسانی 🇺🇸❌🇮🇷 — بیست دقیقه پیش، یک لانچر موشک دوم در سیریک توسط احتمالاً یک پهپاد رزمی آمریکایی هدف قرار گرفت."
+  },
+  {
+   "t": 1792622189.0,
+   "n": "منابع سعودی می گویند یک تیر موشک بالستیک یمنی امروز با برخورد به فرودگاه ملک فهد دمام موجب کشته شدن ۱ نفر و زخمی شدن ۸ نفر دیگر شده است",
+   "fa": "🇸🇦🇾🇪 منابع سعودی می گویند یک تیر موشک بالستیک یمنی امروز با برخورد به فرودگاه ملک فهد دمام موجب کشته شدن ۱ نفر و زخمی شدن ۸ نفر دیگر شده است"
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 204
+  "requests": 205
  },
  "flip": 1430,
- "quote_n": 636,
+ "quote_n": 637,
  "signals": [
   {
    "t": 1792536672.501801,
@@ -1753,6 +1753,11 @@
    "t": 1792621885.6040704,
    "s": 5,
    "p": 90
+  },
+  {
+   "t": 1792622472.2980738,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
