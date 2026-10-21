@@ -10,10 +10,10 @@
    "last_id": 132382
   },
   "TelNews_Magazine": {
-   "last_id": 101661
+   "last_id": 101663
   },
   "NE_WG": {
-   "last_id": 115244
+   "last_id": 115245
   }
  },
  "fails": {},
@@ -105,7 +105,8 @@
     "https://www.foxnews.com/world/sea-mine-crisis-re-emerges-strait-hormuz-tehran-urges-washington-accept-deal",
     "https://www.foxnews.com/world/reporters-notebook-france-braces-more-unrest-after-parts-paris-spun-out-control",
     "https://www.foxnews.com/world/stephen-hubbard-russia-american-prisoner-release",
-    "https://www.foxnews.com/world/ukraines-zelenskyy-open-freezing-front-lines-ceasefire-russia"
+    "https://www.foxnews.com/world/ukraines-zelenskyy-open-freezing-front-lines-ceasefire-russia",
+    "https://www.foxnews.com/world/bibas-family-relative-takes-fight-icc-after-mother-two-young-boys-murdered-hamas"
    ]
   },
   "WSJ": {
@@ -469,11 +470,6 @@
  },
  "recent": [
   {
-   "t": 1792591912.0,
-   "n": "ukraine s zelenskyy open to freezing front lines in ceasefire with russia ukrainian president volodymyr zelenskyy told fox friends on wednesday that he is open to freezing the front lines of the ukraine russia war in an effort to bring the long running conflict to an end zelenskyy made the remark after being asked by brian kilmeade if he would accept a peace deal that freezes everything the way it",
-   "fa": "🔴 ولودیمیر زلنسکی از آمادگی برای فریز کردن خطوط مقدم جنگ با روسیه خبر داد به گزارش فاکس نیوز ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، روز چهارشنبه در گفتگو با برنامه «فاکس اند فرندز» اعلام کرد که او برای پایان دادن به درگیری طولانی‌مدت اوکراین و روسیه، به فریز کردن خطوط مقدم جنگ تمایل دارد. زلنسکی این اظهارات را پس از آن بیان کرد که برایان کیلمید از او پرسید آیا «یک توافق صلح را که همه‌چیز را همین‌طور"
-  },
-  {
    "t": 1792592497.0,
    "n": "israeli defense minister katz on iran the iranian regime is at its weakest point ever and we recognize that this weakness could drive it to take the most extreme measures including against the state of israel if iran attacks israel iran will burn",
    "fa": "🇮🇱❌🇮🇷 — کاتص، وزیر دفاع اسرائیل درباره ایران: رژیم ایران در ضعیف‌ترین نقطه تاریخ خود قرار دارد — و ما تشخیص می‌دهیم که این ضعف ممکن است آن را به اتخاذ شدیدترین اقدامات، از جمله علیه دولت اسرائیل، سوق دهد. اگر ایران به اسرائیل حمله کند، ایران خواهد سوخت!"
@@ -767,13 +763,18 @@
    "t": 1792607472.0,
    "n": "دقایقی پیش صدای چند انفجار از کرپان سیریک شنیده شد هنوز منشأ و ماهیت این صداها مشخص نیست",
    "fa": "🚨🚨دقایقی پیش صدای چند انفجار از کرپان سیریک شنیده شد؛ هنوز منشأ و ماهیت این صداها مشخص نیست!"
+  },
+  {
+   "t": 1792607957.0,
+   "n": "bibas family relative takes fight to icc after mother two young boys murdered by hamas the international criminal court has so far turned a blind eye to the family of shiri bibas and her young sons who were brutally murdered by iran backed hamas terrorists after being forcefully taken from their homes during the oct 7 attack on israel the bibas boys ariel four kfir nine months and their mother shi",
+   "fa": "⭕️ بستگان خانواده بیباس پس از قتل آن‌ها توسط حماس به دیوان کیفری بین‌المللی متوسل شدند به گزارش فاکس نیوز دیوان کیفری بین‌المللی تاکنون چشم خود را به روی خانواده شیری بیباس و پسران خردسالش بسته است؛ کسانی که پس از ربوده شدن از خانه‌هایشان در جریان حمله ۷ اکتبر به اسرائیل، به دست تروریست‌های حماس با حمایت ایران به شکل فجیعی به قتل رسیدند. پسران بیباس — آریل چهارساله، کفیر ۹ ماهه و مادرشان شیری — به"
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 157
+  "requests": 159
  },
- "flip": 1403,
+ "flip": 1404,
  "quote_n": 610,
  "signals": [
   {
@@ -1685,6 +1686,11 @@
    "t": 1792607765.6724591,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792608678.0945296,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
