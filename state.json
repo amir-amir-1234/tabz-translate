@@ -13,7 +13,7 @@
    "last_id": 101684
   },
   "NE_WG": {
-   "last_id": 115299
+   "last_id": 115300
   }
  },
  "fails": {},
@@ -361,7 +361,8 @@
     "WP-WSJ-0003994623",
     "SB10553546939527494218504593521640778090564",
     "SB10865903614445404644304593525500909885088",
-    "WP-WSJ-0003995330"
+    "WP-WSJ-0003995330",
+    "WP-WSJ-0003996652"
    ]
   },
   "NYT": {
@@ -476,16 +477,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792609441.0,
-   "n": "خبرگزاری فارس تحرکات نظامی تو منطقه نشون میده که جنگ حتمیه",
-   "fa": "⭕️خبرگزاری فارس : تحرکات نظامی تو منطقه نشون میده که جنگ حتمیه."
-  },
-  {
-   "t": 1792609620.0,
-   "n": "witkoff s praise of putin as humanitarian tracks with u s approach to russia the u s envoy s remarks in russia sparked fury among ukraine s supporters but they follow president trump s strategy for ending the ukraine war",
-   "fa": "🔴 تمجید ویتکوف از پوتین به عنوان انسان‌دوست با رویکرد آمریکا در قبال روسیه همسو است به گزارش وال‌استریت ژورنال سخنان فرستاده ایالات متحده در روسیه خشم حامیان اوکراین را برانگیخت، اما این اظهارات با راهبرد رئیس‌جمهور ترامپ برای پایان دادن به جنگ اوکراین مطابقت دارد."
-  },
   {
    "t": 1792609685.0,
    "n": "چند انفجار در منطقه سیریک استان هرمزگان ایران به گوش رسید به گزارش ها موشک های ضدکشتی سپاه از سواحل به سمت کشتی های موجود در تنگه هرمز شلیک شدند",
@@ -775,14 +766,24 @@
    "t": 1792625215.0,
    "n": "the white house has given politico 48 hours to retract or correct three articles concerning chief of staff susie wiles warning of unspecified consequences if the outlet fails to comply with the deadline expiring on thursday according to axios white house counsel will scharf accused politico of publishing false claims about trump s alleged plans to replace wiles his reaction to the reporting and he",
    "fa": "🇺🇸⚡️ — به گزارش اکسیوس، کاخ سفید ۴۸ ساعت به نشریه پولیتیکو فرصت داده است تا سه مقاله درباره «سوزی وایلز» رئیس کارکنان کاخ سفید را پس بگیرد یا اصلاح کند و در صورت عدم پیروی، درباره پیامدهای نامشخص هشدار داده است. این مهلت روز پنجشنبه به پایان می‌رسد. «ویل شارف» مشاور حقوقی کاخ سفید، پولیتیکو را به انتشار ادعاهای نادرست درباره برنامه‌های ادعایی ترامپ برای جایگزینی وایلز، واکنش او به این گزارش‌ها و د"
+  },
+  {
+   "t": 1792626540.0,
+   "n": "how does the ukrainian military use starlink ukraine is using a basic starshield service which uses starlink s standard equipment with different features",
+   "fa": "⭕️ چگونگی استفاده ارتش اوکراین از سرویس استارلینک به گزارش وال‌استریت ژورنال اوکراین در حال استفاده از یک سرویس پایه استارشیلد است که از تجهیزات استاندارد استارلینک با قابلیت‌های متفاوتی بهره می‌برد."
+  },
+  {
+   "t": 1792626611.0,
+   "n": "دونالد ترامپ درباره ایران ما یک محاصره در تنگه هرمز داریم",
+   "fa": "🇺🇸دونالد ترامپ درباره ایران: ما یک محاصره در تنگه هرمز داریم."
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 217
+  "requests": 219
  },
- "flip": 1435,
- "quote_n": 640,
+ "flip": 1436,
+ "quote_n": 641,
  "signals": [
   {
    "t": 1792541165.9329486,
@@ -1781,6 +1782,11 @@
   },
   {
    "t": 1792625170.5122783,
+   "s": 4,
+   "p": 80
+  },
+  {
+   "t": 1792626973.8180869,
    "s": 4,
    "p": 80
   }
