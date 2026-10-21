@@ -10,7 +10,7 @@
    "last_id": 132348
   },
   "TelNews_Magazine": {
-   "last_id": 101640
+   "last_id": 101641
   },
   "NE_WG": {
    "last_id": 115200
@@ -463,11 +463,6 @@
  },
  "recent": [
   {
-   "t": 1792577331.0,
-   "n": "president trump via truth social as the president of the united states i have been watching data centers very closely and have come to a very strong conclusion new and large in some cases gigantic data enters are mandated by me to make their own electricity and give or sell any excess back to the local community or grid and therefore there is electric price increase in fact there could be a substa",
-   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ از طریق توجی سوشیال: به عنوان رئیس‌جمهور ایالات متحده، مراکز داده را بسیار دقیق زیر نظر داشته‌ام و به نتیجه بسیار محکمی رسیده‌ام. مراکز داده جدید و بزرگ، و در برخی موارد غول‌پیکر، توسط من موظف شده‌اند که برق خود را تولید کنند و مازاد آن را به جامعه محلی یا شبکه بازگردانند یا بفروشند، و بنابراین افزایش قیمت برق وجود دارد. در واقع، ممکن است کاهش قابل توجهی رخ دهد. سایر عناصر "
-  },
-  {
    "t": 1792577700.0,
    "n": "turkey plans to submit a parliamentary mandate authorizing the deployment of military personnel to saudi arabia under the mecca defense agreement with saudi arabia and pakistan an ak party lawmaker told reuters the deployment proposal will be submitted to parliament once the agreement has been ratified",
    "fa": "🇹🇷🇸🇦⚡️ — به گفته یک قانون‌گذار حزب عدالت و توسعه به رویترز، ترکیه قصد دارد لایحه پارلمانی برای اجازه اعزام پرسنل نظامی به عربستان سعودی تحت توافق دفاعی مکه با عربستان سعودی و پاکستان را ارائه دهد. پس از تصویب توافق، پیشنهاد اعزام به پارلمان ارائه خواهد شد."
@@ -761,14 +756,19 @@
    "t": 1792592497.0,
    "n": "israeli defense minister katz on iran the iranian regime is at its weakest point ever and we recognize that this weakness could drive it to take the most extreme measures including against the state of israel if iran attacks israel iran will burn",
    "fa": "🇮🇱❌🇮🇷 — کاتص، وزیر دفاع اسرائیل درباره ایران: رژیم ایران در ضعیف‌ترین نقطه تاریخ خود قرار دارد — و ما تشخیص می‌دهیم که این ضعف ممکن است آن را به اتخاذ شدیدترین اقدامات، از جمله علیه دولت اسرائیل، سوق دهد. اگر ایران به اسرائیل حمله کند، ایران خواهد سوخت!"
+  },
+  {
+   "t": 1792593259.0,
+   "n": "نتانیاهو رهبر جدید ایران تصمیم گرفته به سمت ساخت بمب های هسته ای حرکت کند",
+   "fa": "⭕️نتانیاهو: رهبر جدید ایران تصمیم گرفته به سمت ساخت بمب های هسته ای حرکت کند."
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 99
+  "requests": 102
  },
  "flip": 1363,
- "quote_n": 587,
+ "quote_n": 588,
  "signals": [
   {
    "t": 1792507298.9949424,
@@ -1714,6 +1714,11 @@
    "t": 1792592786.251277,
    "s": 5,
    "p": 85
+  },
+  {
+   "t": 1792593694.1519,
+   "s": 5,
+   "p": 90
   }
  ],
  "risk": {
