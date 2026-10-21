@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108821
+   "last_id": 108823
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132379
+   "last_id": 132381
   },
   "TelNews_Magazine": {
    "last_id": 101660
@@ -469,16 +469,6 @@
  },
  "recent": [
   {
-   "t": 1792591907.0,
-   "n": "israeli prime minister benjamin netanyahu khamenei s son has not learned the lesson and has decided to return to the nuclear project this time he has decided to hide it deep underground he thinks we cannot reach it but he does not understand our determination",
-   "fa": "🇮🇱❌🇮🇷 — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: پسر خامنه‌ای درس عبرت نگرفته و تصمیم گرفته است به پروژه هسته‌ای بازگردد. این بار او تصمیم گرفته است آن را در اعماق زمین پنهان کند. او فکر می‌کند ما نمی‌توانیم به آن دسترسی پیدا کنیم، اما اراده ما را درک نمی‌کند."
-  },
-  {
-   "t": 1792591939.0,
-   "n": "israeli prime minister benjamin netanyahu mojtaba khamenei has decided to follow in his father s footsteps iran is once again trying to develop these bombs of death therefore there is only one way to eliminate this threat once and for all to overthrow the regime in iran that is my directive to the idf mossad and the security establishment",
-   "fa": "🇮🇱❌🇮🇷 — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: مجتبی خامنه‌ای تصمیم گرفته است راه پدرش را ادامه دهد. ایران بار دیگر تلاش می‌کند این بمب‌های مرگ را توسعه دهد. بنابراین، تنها یک راه برای از بین بردن این تهدید یک‌بار برای همیشه وجود دارد: سرنگونی رژیم در ایران. این دستور من به ارتش اسرائیل، موساد و نهادهای امنیتی است."
-  },
-  {
    "t": 1792591984.0,
    "n": "israeli prime minister benjamin netanyahu we are ready to finish the war to finish the job we will overthrow the regime and eliminate the axis of evil once and for all we have the power to achieve this",
    "fa": "🇮🇱❌🇮🇷 — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: ما آماده‌ایم جنگ را تمام کنیم، کار را تمام کنیم. ما رژیم را سرنگون خواهیم کرد و محور شرارت را یک‌بار برای همیشه نابود خواهیم کرد. ما قدرت دستیابی به این هدف را داریم."
@@ -767,25 +757,25 @@
    "t": 1792607064.0,
    "n": "نت بلاکس تایید شده داده های شبکه ای نشان می دهند که اختلالی مداوم در اتصال اینترنت کره شمالی که از قبل محدود بود وجود دارد این حادثه همزمان با قطع دسترسی بین المللی به وب سایت هایی است که دامنه kp را دارند",
    "fa": "‼️🇰🇵 نت بلاکس: ⛔️تایید شده: داده‌های شبکه‌ای نشان می‌دهند که اختلالی مداوم در اتصال اینترنت کره شمالی، که از قبل محدود بود، وجود دارد. این حادثه همزمان با قطع دسترسی بین‌المللی به وب‌سایت‌هایی است که دامنه \".kp\" را دارند."
+  },
+  {
+   "t": 1792607194.0,
+   "n": "an idf remotely operated armored personnel carrier malfunctioned during an operation near ras al bayada in southern lebanon last week causing it to move uncontrollably toward a lebanese army position kan news reports israeli forces attempted to destroy the vehicle with airstrikes but mistakenly targeted a lebanese army apc due to an identification error no casualties or damage were reported the ma",
+   "fa": "🇮🇱🇱🇧⚡️ — کان نیوز گزارش داد که یک نفربر زرهی کنترل از راه دور ارتش اسرائیل هفته گذشته طی عملیاتی در نزدیکی رأس‌البیاضه در جنوب لبنان دچار نقص فنی شد و به طور کنترل‌نشده‌ای به سمت مواضع ارتش لبنان حرکت کرد. نیروهای اسرائیلی تلاش کردند این خودرو را با حملات هوایی منهدم کنند، اما به دلیل خطای شناسایی، به اشتباه یک نفربر ارتش لبنان را هدف قرار دادند. هیچ تلفات یا خسارتی گزارش نشد. خودروی معیوب اسرائیل"
+  },
+  {
+   "t": 1792607272.0,
+   "n": "سوژه شدن سلام مقامات ایرانی با عاصم منیر در رسانه های عربی",
+   "fa": "🇮🇷🇵🇰سوژه شدن سلام مقامات ایرانی با عاصم منیر در رسانه‌های عربی"
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 153
+  "requests": 154
  },
- "flip": 1401,
+ "flip": 1403,
  "quote_n": 609,
  "signals": [
-  {
-   "t": 1792520771.137025,
-   "s": 5,
-   "p": 90
-  },
-  {
-   "t": 1792520774.7371633,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1792521477.1540155,
    "s": 5,
@@ -1690,6 +1680,16 @@
    "t": 1792606894.517203,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792607483.7742233,
+   "s": 4,
+   "p": 60
+  },
+  {
+   "t": 1792607490.3341591,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
