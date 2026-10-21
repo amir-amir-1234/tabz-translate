@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108781
+   "last_id": 108782
   },
   "khabarfouri": {
    "last_id": 569949
@@ -461,11 +461,6 @@
  },
  "recent": [
   {
-   "t": 1792569481.0,
-   "n": "یک پهپاد یک پایگاه متعلق به گروه های مسلح مخالف ایرانی را در منطقه کردستان عراق مورد هدف قرار داد",
-   "fa": "🇮🇷❌🏳️ یک پهپاد، یک پایگاه متعلق به گروه‌های مسلح مخالف ایرانی را در منطقه کردستان عراق مورد هدف قرار داد."
-  },
-  {
    "t": 1792570442.0,
    "n": "توی میدون تجریش تهران رفتن یه بیلبورد با طرح زندان ساختن که توش یه نفر به عنوان نقش ترامپ داخلش زندانیه و خبرگزاری مهر هم گفته قراره ۲۴ ساعت فعال باشه",
    "fa": "⭕️توی میدون تجریش تهران رفتن یه بیلبورد با طرح زندان ساختن که توش یه نفر به عنوان نقش ترامپ داخلش زندانیه و خبرگزاری مهر هم گفته قراره ۲۴ ساعت فعال باشه!!!"
@@ -759,20 +754,20 @@
    "t": 1792586928.0,
    "n": "the eu has unveiled a new arctic security strategy aimed at strengthening surveillance protecting undersea infrastructure and expanding its icebreaker fleet amid growing competition with russia china and the u s the plan includes a maritime security hub to coordinate intelligence a dedicated arctic cable hub to monitor and repair undersea cables and expanded satellite surveillance through the eu s",
    "fa": "🇪🇺⚡️ — اتحادیه اروپا از یک راهبرد جدید امنیت قطب شمال با هدف تقویت نظارت، محافظت از زیرساخت‌های زیردریایی و گسترش ناوگان یخ‌شکن خود در مواجهه با رقابت فزاینده با روسیه، چین و ایالات متحده رونمایی کرد. این طرح شامل یک مرکز امنیت دریایی برای هماهنگی اطلاعات، یک مرکز اختصاصی کابل‌های قطب شمال برای نظارت و تعمیر کابل‌های زیردریایی، و گسترش نظارت ماهواره‌ای از طریق شبکه کوپرنیک اتحادیه اروپا است. این ر"
+  },
+  {
+   "t": 1792587025.0,
+   "n": "reporter has the date for your visit to damascus been finalized türkiye s erdoğan the date hasn t been finalized yet but we will make the visit",
+   "fa": "🇹🇷🇸🇾⚡️ — خبرنگار: آیا تاریخ سفر شما به دمشق نهایی شده است؟ اردوغان، رئیس‌جمهور ترکیه: تاریخ آن هنوز نهایی نشده است، اما این سفر را انجام خواهیم داد."
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 77
+  "requests": 78
  },
- "flip": 1346,
+ "flip": 1347,
  "quote_n": 586,
  "signals": [
-  {
-   "t": 1792500673.398494,
-   "s": 3,
-   "p": 60
-  },
   {
    "t": 1792500964.6237833,
    "s": 3,
@@ -1707,6 +1702,11 @@
    "t": 1792586484.5885608,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1792587255.4519567,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
