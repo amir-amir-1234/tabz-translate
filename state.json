@@ -13,7 +13,7 @@
    "last_id": 101626
   },
   "NE_WG": {
-   "last_id": 115182
+   "last_id": 115183
   }
  },
  "fails": {},
@@ -461,11 +461,6 @@
  },
  "recent": [
   {
-   "t": 1792543648.0,
-   "n": "president trump i m pleased to announce something else this is a very very big one the department of war will be investing 1 5 billion to produce cutting edge semiconductor chips right here in north carolina",
-   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ: خوشحالم که خبر دیگری را اعلام می‌کنم؛ این یک خبر بسیار بسیار بزرگ است: وزارت جنگ ۱.۵ میلیارد دلار برای تولید تراشه‌های پیشرفته نیمه‌هادی در همین ایالت کارولینای شمالی سرمایه‌گذاری خواهد کرد."
-  },
-  {
    "t": 1792544311.0,
    "n": "house republicans hold a narrow fundraising advantage over democrats heading into the final two weeks before the midterm elections reversing a trend that saw democrats outraise republicans by 84 million in 2024 and 74 million in 2022 according to axios the national republican congressional committee has raised 250 million this election cycle compared with 249 million for the democratic congression",
    "fa": "🇺🇸⚡️ — به گزارش آکسیوس، جمهوری‌خواهان مجلس نمایندگان در آستانه دو هفته پایانی منتهی به انتخابات میان‌دوره‌ای، برتری مالی اندکی نسبت به دموکرات‌ها دارند و روند جمع‌آوری کمک‌های مالی را معکوس کرده‌اند؛ در حالی که دموکرات‌ها در سال ۲۰۲۴ و ۲۰۲۲ به ترتیب ۸۴ و ۷۴ میلیون دلار بیشتر از جمهوری‌خواهان کمک مالی جذب کرده بودند. کمیته ملی ارتقای نامزدهای جمهوری‌خواه مجلس نمایندگان در این چرخه انتخاباتی ۲۵۰ میل"
@@ -759,13 +754,18 @@
    "t": 1792579037.0,
    "n": "ukmto reported two new attacks on tankers in the past day on tuesday evening a projectile struck a tanker 30 nautical miles southeast of al faw iraq the crew is safe and there is no reported damage overnight a tanker was struck by a projectile 11 nautical miles west of bukha oman which started a fire that was later extinguished the tanker is now at anchor and the crew is safe",
    "fa": "🔄 به‌روزرسانی 🇮🇷⚡️ — سازمان تجارت دریایی بریتانیا (UKMTO) از دو حمله جدید به نفتکش‌ها در روز گذشته خبر داد: — سه‌شنبه عصر، یک پرتابه به نفتکشی در ۳۰ مایل دریایی جنوب شرقی فاو در عراق اصابت کرد. خدمه در امنیت هستند و هیچ خسارتی گزارش نشده است. — شبانه، یک نفتکش در ۱۱ مایل دریایی غرب بخا در عمان مورد اصابت پرتابه قرار گرفت که منجر به آتش‌سوزی شد و بعداً مهار گردید. نفتکش در لنگرگاه است و خدمه در امن"
+  },
+  {
+   "t": 1792579359.0,
+   "n": "امروز october 21 تولد ۷۷ سالگی نتانیاهو هست",
+   "fa": "🇮🇱 امروز October 21، تولد ۷۷ سالگی نتانیاهو هست!"
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 59
+  "requests": 60
  },
- "flip": 1324,
+ "flip": 1325,
  "quote_n": 582,
  "signals": [
   {
@@ -1717,6 +1717,11 @@
    "t": 1792579315.8290696,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792579573.323768,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
