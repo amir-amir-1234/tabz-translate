@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108785
+   "last_id": 108786
   },
   "khabarfouri": {
    "last_id": 569949
@@ -461,11 +461,6 @@
  },
  "recent": [
   {
-   "t": 1792573011.0,
-   "n": "اعتراضات به آلبانی رسید دامنه اعتراضات در حال گسترش است",
-   "fa": "🎥اعتراضات به آلبانی رسید دامنه اعتراضات در حال گسترش است."
-  },
-  {
    "t": 1792573821.0,
    "n": "ویدیو منتشر شده توسط یکی از کارکنان آلومینیوم اراک امروز صبح فرماندار اراک آنچه رخ داده تنها بروز یک حادثه فنی در سیستم برق بوده که باعث انتشار مقداری بخارات و دود شده است",
    "fa": "🎥ویدیو منتشر شده توسط یکی از کارکنان آلومینیوم اراک | امروز صبح ‼️فرماندار اراک: آنچه رخ داده تنها بروز یک حادثه فنی در سیستم برق بوده که باعث انتشار مقداری بخارات و دود شده است"
@@ -759,11 +754,16 @@
    "t": 1792588398.0,
    "n": "harakat hezbollah al nujaba s military deputy abdul qader al karbala i released a statement declaring their continued abstention from iraq s political process and their refusal to disarm their weaponry",
    "fa": "🇮🇶⚡️ — بیانیه معاون نظامی حرکة حزب‌الله النجباء، عبدالقادر کربلایی، در اعلام تداوم خودداری از مشارکت در روند سیاسی عراق و امتناع از خلع سلاح."
+  },
+  {
+   "t": 1792588689.0,
+   "n": "iranian president masoud pezeshkian threats and sanctions must be practically lifted in action so that the ground for dialogue can be provided one cannot increase the intensity of sanctions and pressures every day close the paths of interaction and simultaneously speak of negotiation dialogue with the language of threats and pressure has no meaning",
+   "fa": "🇮🇷🇺🇸⚡️ — مسعود پزشکیان، رئیس‌جمهور ایران: تهدیدها و تحریم‌ها باید در عمل به‌طور عملی برداشته شود تا زمینه برای گفت‌وگو فراهم گردد. نمی‌توان هر روز بر شدت تحریم‌ها و فشارها افزود، راه‌های تعامل را بست و هم‌زمان از مذاکره سخن گفت. گفت‌وگو با زبان تهدید و فشار هیچ معنایی ندارد."
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 82
+  "requests": 83
  },
  "flip": 1353,
  "quote_n": 587,
@@ -1707,19 +1707,24 @@
    "t": 1792588585.3369224,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792588880.544885,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
   "base": 57,
-  "ts": 1792582318.1713305,
+  "ts": 1792588883.5465238,
   "attack": false,
-  "n": 196,
+  "n": 188,
   "shares": {
    "1": 0,
    "2": 13,
    "3": 32,
-   "4": 41,
-   "5": 14
+   "4": 44,
+   "5": 11
   }
  },
  "attack_ts": 1792447299.0620482,
