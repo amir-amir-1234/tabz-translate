@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108744
+   "last_id": 108745
   },
   "khabarfouri": {
    "last_id": 569949
@@ -450,11 +450,6 @@
  },
  "recent": [
   {
-   "t": 1792520601.0,
-   "n": "پزشکیان میخواهند با جنگ مردم ما را بترسانند در حالی که ملت ما از شهادت هراسی ندارد",
-   "fa": "⭕️پزشکیان: میخواهند با جنگ مردم ما را بترسانند، در حالی که ملت ما از شهادت هراسی ندارد"
-  },
-  {
    "t": 1792521189.0,
    "n": "مرندی به زودی درسی فراموش نشدنی و دردناک به اسرائیل خواهیم داد",
    "fa": "⭕️مرندی: به زودی درسی فراموش نشدنی و دردناک به اسرائیل خواهیم داد."
@@ -748,13 +743,18 @@
    "t": 1792543648.0,
    "n": "president trump i m pleased to announce something else this is a very very big one the department of war will be investing 1 5 billion to produce cutting edge semiconductor chips right here in north carolina",
    "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ: خوشحالم که خبر دیگری را اعلام می‌کنم؛ این یک خبر بسیار بسیار بزرگ است: وزارت جنگ ۱.۵ میلیارد دلار برای تولید تراشه‌های پیشرفته نیمه‌هادی در همین ایالت کارولینای شمالی سرمایه‌گذاری خواهد کرد."
+  },
+  {
+   "t": 1792544311.0,
+   "n": "house republicans hold a narrow fundraising advantage over democrats heading into the final two weeks before the midterm elections reversing a trend that saw democrats outraise republicans by 84 million in 2024 and 74 million in 2022 according to axios the national republican congressional committee has raised 250 million this election cycle compared with 249 million for the democratic congression",
+   "fa": "🇺🇸⚡️ — به گزارش آکسیوس، جمهوری‌خواهان مجلس نمایندگان در آستانه دو هفته پایانی منتهی به انتخابات میان‌دوره‌ای، برتری مالی اندکی نسبت به دموکرات‌ها دارند و روند جمع‌آوری کمک‌های مالی را معکوس کرده‌اند؛ در حالی که دموکرات‌ها در سال ۲۰۲۴ و ۲۰۲۲ به ترتیب ۸۴ و ۷۴ میلیون دلار بیشتر از جمهوری‌خواهان کمک مالی جذب کرده بودند. کمیته ملی ارتقای نامزدهای جمهوری‌خواه مجلس نمایندگان در این چرخه انتخاباتی ۲۵۰ میل"
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 6
+  "requests": 7
  },
- "flip": 1278,
+ "flip": 1279,
  "quote_n": 555,
  "signals": [
   {
