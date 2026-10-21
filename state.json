@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108748
+   "last_id": 108750
   },
   "khabarfouri": {
    "last_id": 569949
@@ -451,11 +451,6 @@
  },
  "recent": [
   {
-   "t": 1792522169.0,
-   "n": "ترامپ درباره ایران ما فقط باید تصمیم نهایی را درباره ایران بگیریم می خواهیم از چه راهی پیروز شویم از راه مسالمت آمیز یا از راه غیرمسالمت آمیز اما ما داریم خیلی خوب پیش می رویم",
-   "fa": "⭕️ترامپ درباره ایران: ما فقط باید تصمیم نهایی را درباره ایران بگیریم. می‌خواهیم از چه راهی پیروز شویم؛ از راه مسالمت‌آمیز یا از راه غیرمسالمت‌آمیز؟ اما ما داریم خیلی خوب پیش می‌رویم."
-  },
-  {
    "t": 1792522542.0,
    "n": "president trump says nato was nice enough to give us greenland we got greenland",
    "fa": "🇺🇸🇬🇱🇩🇰⚡️ — رئیس‌جمهور ترامپ گفت ناتو «به اندازه کافی لطف داشت که گرینلند را به ما بدهد. ما گرینلند را به دست آوردیم.»"
@@ -749,11 +744,16 @@
    "t": 1792544995.0,
    "n": "israeli and lebanese officials met at u s central command headquarters at macdill air force base in tampa florida on tuesday according to the jerusalem post the talks focused on implementing a u s brokered framework under which lebanese forces would assume control of areas vacated by withdrawing israeli troops with the broader objective of disarming and weakening hezbollah s influence",
    "fa": "🇮🇱🇱🇧🇺🇸⚡️ — به گزارش جروزالم پست، مقام‌های اسرائیلی و لبنانی روز سه‌شنبه در مقر فرماندهی مرکزی ایالات متحده (سنتکام) در پایگاه نیروی هوایی مک‌دیل در تمپای فلوریدا با یکدیگر دیدار کردند. این مذاکرات بر اجرای چارچوبی با میانجیگری ایالات متحده تمرکز داشت که بر اساس آن نیروهای لبنانی کنترل مناطق تخلیه‌شده توسط نیروهای در حال عقب‌نشینی اسرائیل را به دست می‌گیرند و هدف گسترده‌تر آن خلع سلاح و تضعیف نفوذ "
+  },
+  {
+   "t": 1792545276.0,
+   "n": "president trump on iran we just extinguished a nuclear bomb from the worst country in the world and our gas prices it s a small thing to pay our gas prices are lower than under obama and sleepy joe biden",
+   "fa": "🇺🇸🇮🇷⚡️ — دونالد ترامپ درباره ایران: ما به تازگی بمب هسته‌ای را از بدترین کشور جهان خنثی کردیم و قیمت بنزین ما — که هزینه کوچکی برای پرداخت است — پایین‌تر از دوران اوباما و جو بایدن خواب‌آلود است."
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 10
+  "requests": 11
  },
  "flip": 1282,
  "quote_n": 556,
@@ -1682,19 +1682,24 @@
    "t": 1792545074.239808,
    "s": 3,
    "p": 50
+  },
+  {
+   "t": 1792545369.7339036,
+   "s": 4,
+   "p": 85
   }
  ],
  "risk": {
   "base": 59,
-  "ts": 1792539079.2002814,
+  "ts": 1792545372.7360861,
   "attack": false,
-  "n": 183,
+  "n": 186,
   "shares": {
    "1": 0,
-   "2": 13,
-   "3": 21,
-   "4": 51,
-   "5": 15
+   "2": 12,
+   "3": 24,
+   "4": 49,
+   "5": 16
   }
  },
  "attack_ts": 1792447299.0620482,
