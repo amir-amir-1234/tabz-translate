@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108743
+   "last_id": 108744
   },
   "khabarfouri": {
    "last_id": 569949
@@ -450,11 +450,6 @@
  },
  "recent": [
   {
-   "t": 1792520537.0,
-   "n": "a ship was struck in the strait of hormuz 10 minutes ago",
-   "fa": "🇮🇷🇴🇲⚡️ — یک کشتی ۱۰ دقیقه پیش در تنگه هرمز مورد اصابت قرار گرفت."
-  },
-  {
    "t": 1792520601.0,
    "n": "پزشکیان میخواهند با جنگ مردم ما را بترسانند در حالی که ملت ما از شهادت هراسی ندارد",
    "fa": "⭕️پزشکیان: میخواهند با جنگ مردم ما را بترسانند، در حالی که ملت ما از شهادت هراسی ندارد"
@@ -748,13 +743,18 @@
    "t": 1792542653.0,
    "n": "russia s naval presence in the mediterranean has declined significantly with no russian warships operating in the region for roughly two months until early september marking the first such absence since 2016 according to breaking defense citing a nato official the decline is attributed to russia s loss of access to its naval base at tartus in syria shortages of support vessels turkish restrictions",
    "fa": "🇷🇺🪖⚡️ — حضور نیروی دریایی روسیه در مدیترانه به طور قابل توجهی کاهش یافته و به گفته یک مقام ناتو به نقل از «برکینگ دیفنس»، تا اوایل سپتامبر هیچ ناو جنگی روسی برای حدود دو ماه در این منطقه فعالیت نداشته که این نخستین غیبت از نوع خود از سال ۲۰۱۶ تاکنون محسوب می‌شود. این کاهش به از دست رفتن دسترسی روسیه به پایگاه دریایی خود در طرطوس سوریه، کمبود شناورهای پشتیبانی، محدودیت‌های ترکیه بر تردد ناوهای جنگی"
+  },
+  {
+   "t": 1792543648.0,
+   "n": "president trump i m pleased to announce something else this is a very very big one the department of war will be investing 1 5 billion to produce cutting edge semiconductor chips right here in north carolina",
+   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ: خوشحالم که خبر دیگری را اعلام می‌کنم؛ این یک خبر بسیار بسیار بزرگ است: وزارت جنگ ۱.۵ میلیارد دلار برای تولید تراشه‌های پیشرفته نیمه‌هادی در همین ایالت کارولینای شمالی سرمایه‌گذاری خواهد کرد."
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 5
+  "requests": 6
  },
- "flip": 1277,
+ "flip": 1278,
  "quote_n": 555,
  "signals": [
   {
