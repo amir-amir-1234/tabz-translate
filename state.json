@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108797
+   "last_id": 108798
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132347
+   "last_id": 132348
   },
   "TelNews_Magazine": {
    "last_id": 101640
@@ -462,11 +462,6 @@
  },
  "recent": [
   {
-   "t": 1792577306.0,
-   "n": "ریک اسکات سناتور جمهوری خواه از آغاز حمله به ایران حمایت میکنم",
-   "fa": "⭕️ریک اسکات، سناتور جمهوری‌خواه: از آغاز حمله به ایران حمایت میکنم."
-  },
-  {
    "t": 1792577331.0,
    "n": "president trump via truth social as the president of the united states i have been watching data centers very closely and have come to a very strong conclusion new and large in some cases gigantic data enters are mandated by me to make their own electricity and give or sell any excess back to the local community or grid and therefore there is electric price increase in fact there could be a substa",
    "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ از طریق توجی سوشیال: به عنوان رئیس‌جمهور ایالات متحده، مراکز داده را بسیار دقیق زیر نظر داشته‌ام و به نتیجه بسیار محکمی رسیده‌ام. مراکز داده جدید و بزرگ، و در برخی موارد غول‌پیکر، توسط من موظف شده‌اند که برق خود را تولید کنند و مازاد آن را به جامعه محلی یا شبکه بازگردانند یا بفروشند، و بنابراین افزایش قیمت برق وجود دارد. در واقع، ممکن است کاهش قابل توجهی رخ دهد. سایر عناصر "
@@ -760,20 +755,20 @@
    "t": 1792591912.0,
    "n": "ukraine s zelenskyy open to freezing front lines in ceasefire with russia ukrainian president volodymyr zelenskyy told fox friends on wednesday that he is open to freezing the front lines of the ukraine russia war in an effort to bring the long running conflict to an end zelenskyy made the remark after being asked by brian kilmeade if he would accept a peace deal that freezes everything the way it",
    "fa": "🔴 ولودیمیر زلنسکی از آمادگی برای فریز کردن خطوط مقدم جنگ با روسیه خبر داد به گزارش فاکس نیوز ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، روز چهارشنبه در گفتگو با برنامه «فاکس اند فرندز» اعلام کرد که او برای پایان دادن به درگیری طولانی‌مدت اوکراین و روسیه، به فریز کردن خطوط مقدم جنگ تمایل دارد. زلنسکی این اظهارات را پس از آن بیان کرد که برایان کیلمید از او پرسید آیا «یک توافق صلح را که همه‌چیز را همین‌طور"
+  },
+  {
+   "t": 1792592497.0,
+   "n": "israeli defense minister katz on iran the iranian regime is at its weakest point ever and we recognize that this weakness could drive it to take the most extreme measures including against the state of israel if iran attacks israel iran will burn",
+   "fa": "🇮🇱❌🇮🇷 — کاتص، وزیر دفاع اسرائیل درباره ایران: رژیم ایران در ضعیف‌ترین نقطه تاریخ خود قرار دارد — و ما تشخیص می‌دهیم که این ضعف ممکن است آن را به اتخاذ شدیدترین اقدامات، از جمله علیه دولت اسرائیل، سوق دهد. اگر ایران به اسرائیل حمله کند، ایران خواهد سوخت!"
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 97
+  "requests": 98
  },
  "flip": 1363,
  "quote_n": 587,
  "signals": [
-  {
-   "t": 1792506101.3138287,
-   "s": 4,
-   "p": 70
-  },
   {
    "t": 1792507298.9949424,
    "s": 3,
@@ -1713,19 +1708,24 @@
    "t": 1792592503.2719502,
    "s": 2,
    "p": 60
+  },
+  {
+   "t": 1792592786.251277,
+   "s": 5,
+   "p": 85
   }
  ],
  "risk": {
-  "base": 57,
-  "ts": 1792588883.5465238,
+  "base": 58,
+  "ts": 1792592789.2558026,
   "attack": false,
-  "n": 188,
+  "n": 189,
   "shares": {
    "1": 0,
-   "2": 13,
-   "3": 32,
-   "4": 44,
-   "5": 11
+   "2": 14,
+   "3": 31,
+   "4": 38,
+   "5": 17
   }
  },
  "attack_ts": 1792447299.0620482,
