@@ -1,16 +1,16 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108788
+   "last_id": 108790
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132345
+   "last_id": 132346
   },
   "TelNews_Magazine": {
-   "last_id": 101637
+   "last_id": 101638
   },
   "NE_WG": {
    "last_id": 115198
@@ -461,21 +461,6 @@
  },
  "recent": [
   {
-   "t": 1792575179.0,
-   "n": "وزیر دفاع خاک می خوریم اما خاک نمی دهیم",
-   "fa": "‼️وزیر دفاع: خاک می‌خوریم اما خاک نمی‌دهیم"
-  },
-  {
-   "t": 1792575181.0,
-   "n": "سخنگوی وزارت کشور ورود کالا از تمامی مرزهای آبی و خاکی بدون وقفه ادامه دارد و کشور با کمبود کالاهای اساسی مواجه نیست ذخایر راهبردی نیز برای ماه های آینده پیش بینی شده است",
-   "fa": "⭕️سخنگوی وزارت کشور: ورود کالا از تمامی مرزهای آبی و خاکی بدون وقفه ادامه دارد و کشور با کمبود کالاهای اساسی مواجه نیست؛ ذخایر راهبردی نیز برای ماه‌های آینده پیش‌بینی شده است!"
-  },
-  {
-   "t": 1792575188.0,
-   "n": "پزشکیان به دنبال جنگ نیستیم اما زیر بار زور و قلدری هم نخواهیم رفت",
-   "fa": "🎥پزشکیان: به دنبال جنگ نیستیم اما زیر بار زور و قلدری هم نخواهیم رفت‼️"
-  },
-  {
    "t": 1792575793.0,
    "n": "russia releases american teacher imprisoned on ukraine mercenary charges after trump pressed putin russia has freed a retired u s teacher who was locked up on charges of fighting as a mercenary in ukraine according to u s envoy steve witkoff the michigan man stephen hubbard had been sentenced in 2024 to almost seven years imprisonment the associated press contributed to this report this is a break",
    "fa": "🔴 روسیه معلم آمریکایی زندانی در اکراین را پس از فشار ترامپ آزاد کرد به گزارش فاکس نیوز روسیه یک معلم بازنشسته آمریکایی را که به اتهام جنگیدن به عنوان مزدور در اکراین زندانی شده بود، آزاد کرد. این خبر را استیو ویتکاف، فرستاده ایالات متحده اعلام کرد. استیون هابارد، مرد اهل میشیگان، در سال ۲۰۲۴ به نزدیک به هفت سال زندان محکوم شده بود. این گزارش با مشارکت اسوشیتدپرس تهیه شده است و به عنوان یک خبر فوری"
@@ -759,13 +744,28 @@
    "t": 1792589232.0,
    "n": "سردار باقرزاده موضوع ۴ اسیر ایرانی در کویت مسجل شده و سفیر ایران توانست با آن ها ملاقات کند و پس از این ملاقات مقرر شد صلیب سرخ این مسئله را جدی تر دنبال کند",
    "fa": "🇮🇷سردار باقرزاده: موضوع ۴ اسیر ایرانی در کویت مسجل شده و سفیر ایران توانست با آن‌ها ملاقات کند و پس از این ملاقات مقرر شد صلیب سرخ این مسئله را جدی‌تر دنبال کند"
+  },
+  {
+   "t": 1792589411.0,
+   "n": "president trump via truth social numerous people who requested that sanctions be immediately imposed on russia have called to apologize to president trump in that they didn t know that he was negotiating the release of stephen hubbard a truly big and important deal for the u s if sanctions would have been placed certainly those negotiations would have come to a complete and total halt",
+   "fa": "🇺🇸🇷🇺⚡️ — رئیس‌جمهور ترامپ در تروث سوشال: افراد متعددی که درخواست کرده بودند تحریم‌ها علیه روسیه بلافاصله اعمال شود، با رئیس‌جمهور ترامپ تماس گرفتند تا عذرخواهی کنند؛ زیرا نمی‌دانستند که او در حال مذاکره برای آزادی استیون هابارد، یک توافق واقعاً بزرگ و مهم برای ایالات متحده، بوده است. اگر تحریم‌ها اعمال می‌شد، بدون شک آن مذاکرات به‌طور کامل و کلی متوقف می‌شد."
+  },
+  {
+   "t": 1792589442.0,
+   "n": "president trump via truth social great news for the wealth and prosperity of the united kingdom and the wonderful region of aberdeen the u k has started drilling in the north sea one of the greatest and most prosperous areas of oil in the world they should go full blast this will make the u k very wealthy again take down the costly and ridiculous windmills",
+   "fa": "🇺🇸🇬🇧⚡️ — رئیس‌جمهور ترامپ در تروث سوشال: خبرها عالی برای ثروت و رفاه پادشاهی متحده و منطقه فوق‌العاده آبردین. بریتانیا استخراج نفت در دریای شمال را آغاز کرده است که یکی از بزرگترین و پربازده‌ترین مناطق نفتی در جهان است. آن‌ها باید با تمام قوا پیش بروند!!! این کار بریتانیا را دوباره بسیار ثروتمند خواهد کرد. توربین‌های بادی پرهزینه و مسخره را پایین بیاورید!"
+  },
+  {
+   "t": 1792589641.0,
+   "n": "پزشکیان ۷۵ تا ۸۰ درصد تجارت ما از طریق دریا بود که بسته اند از راه های جایگزین داریم مسیر را باز می کنیم تا تجارت انجام شود",
+   "fa": "🇮🇷 پزشکیان: ۷۵ تا ۸۰ درصد تجارت ما از طریق دریا بود که بسته‌اند/ از راه‌های جایگزین داریم‌ مسیر را باز می‌کنیم تا تجارت انجام شود‼️👀"
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 87
+  "requests": 89
  },
- "flip": 1356,
+ "flip": 1359,
  "quote_n": 587,
  "signals": [
   {
@@ -1727,6 +1727,16 @@
    "t": 1792589540.146197,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792589790.9764688,
+   "s": 4,
+   "p": 50
+  },
+  {
+   "t": 1792589801.6686208,
+   "s": 3,
+   "p": 60
   }
  ],
  "risk": {
