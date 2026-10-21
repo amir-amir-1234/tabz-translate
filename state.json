@@ -10,7 +10,7 @@
    "last_id": 132318
   },
   "TelNews_Magazine": {
-   "last_id": 101622
+   "last_id": 101623
   },
   "NE_WG": {
    "last_id": 115177
@@ -103,7 +103,8 @@
     "https://www.foxnews.com/world/global-chaos-inc-grows-101-groups-plans-new-rounds-demonstrations",
     "https://www.foxnews.com/world/iran-regime-under-pressure-rebel-groups-escalate-attacks-volatile-southeast",
     "https://www.foxnews.com/world/sea-mine-crisis-re-emerges-strait-hormuz-tehran-urges-washington-accept-deal",
-    "https://www.foxnews.com/world/reporters-notebook-france-braces-more-unrest-after-parts-paris-spun-out-control"
+    "https://www.foxnews.com/world/reporters-notebook-france-braces-more-unrest-after-parts-paris-spun-out-control",
+    "https://www.foxnews.com/world/stephen-hubbard-russia-american-prisoner-release"
    ]
   },
   "WSJ": {
@@ -343,7 +344,8 @@
     "WP-WSJ-0003993776",
     "WP-WSJ-0003993809",
     "WP-WSJ-0003993820",
-    "WP-WSJ-0003993860"
+    "WP-WSJ-0003993860",
+    "WP-WSJ-0003993481"
    ]
   },
   "NYT": {
@@ -456,16 +458,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792532896.0,
-   "n": "عراقچی ایران آماده میانجی گری میان انصارالله و عربستان است",
-   "fa": "‼️عراقچی: ایران آماده میانجی‌گری میان انصارالله و عربستان است"
-  },
-  {
-   "t": 1792532910.0,
-   "n": "عراقچی با عمان بر سر مسیرهای جدید تردد کشتی ها در تنگه هرمز به توافق رسیدیم",
-   "fa": "‼️عراقچی: با عمان بر سر مسیرهای جدید تردد کشتی‌ها در تنگه هرمز به توافق رسیدیم"
-  },
   {
    "t": 1792533246.0,
    "n": "عراقچی مذاکرات با طرف آمریکایی از طریق کشورهای میانجی همچنان ادامه دارد آمریکا با شروط ایران موافق است اما می خواهد چند نکته اضافه کند",
@@ -740,25 +732,25 @@
    "t": 1792575188.0,
    "n": "پزشکیان به دنبال جنگ نیستیم اما زیر بار زور و قلدری هم نخواهیم رفت",
    "fa": "🎥پزشکیان: به دنبال جنگ نیستیم اما زیر بار زور و قلدری هم نخواهیم رفت‼️"
+  },
+  {
+   "t": 1792575793.0,
+   "n": "russia releases american teacher imprisoned on ukraine mercenary charges after trump pressed putin russia has freed a retired u s teacher who was locked up on charges of fighting as a mercenary in ukraine according to u s envoy steve witkoff the michigan man stephen hubbard had been sentenced in 2024 to almost seven years imprisonment the associated press contributed to this report this is a break",
+   "fa": "🔴 روسیه معلم آمریکایی زندانی در اکراین را پس از فشار ترامپ آزاد کرد به گزارش فاکس نیوز روسیه یک معلم بازنشسته آمریکایی را که به اتهام جنگیدن به عنوان مزدور در اکراین زندانی شده بود، آزاد کرد. این خبر را استیو ویتکاف، فرستاده ایالات متحده اعلام کرد. استیون هابارد، مرد اهل میشیگان، در سال ۲۰۲۴ به نزدیک به هفت سال زندان محکوم شده بود. این گزارش با مشارکت اسوشیتدپرس تهیه شده است و به عنوان یک خبر فوری"
+  },
+  {
+   "t": 1792576020.0,
+   "n": "musk ordered starlink slowdown that crippled ukraine s drones and sowed panic in kyiv plus autism therapy workers say big chains pressured them to boost treatment hours and nyse is getting trounced in the battle for wall street s biggest ipos",
+   "fa": "⭕️ دستور ایلان ماسک برای کندسازی استارلینک و اختلال در پهپادهای اکراین به گزارش وال‌استریت ژورنال ایلان ماسک دستور کندسازی شبکه استارلینک را صادر کرده بود که این اقدام پهپادهای اکراین را از کار انداخت و وحشت را در کی‌یف ایجاد کرد. افزون بر این، کارکنان درمان اوتیسم اعلام کردند که زنجیره‌های بزرگ به آن‌ها فشار آورده‌اند تا ساعات درمان را افزایش دهند و بورس نیویورک در نبرد برای جذب بزرگ‌ترین عرضه او"
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 46
+  "requests": 48
  },
- "flip": 1310,
- "quote_n": 576,
+ "flip": 1312,
+ "quote_n": 578,
  "signals": [
-  {
-   "t": 1792489579.3232117,
-   "s": 4,
-   "p": 40
-  },
-  {
-   "t": 1792489582.8988814,
-   "s": 5,
-   "p": 85
-  },
   {
    "t": 1792490167.82312,
    "s": 4,
