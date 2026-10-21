@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132315
+   "last_id": 132316
   },
   "TelNews_Magazine": {
    "last_id": 101619
   },
   "NE_WG": {
-   "last_id": 115172
+   "last_id": 115174
   }
  },
  "fails": {},
@@ -407,7 +407,8 @@
     "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html",
     "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
     "https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html",
-    "https://www.nytimes.com/2026/10/21/world/middleeast/why-palestinians-hope-israelis-will-oust-netanyahu-in-pivotal-election.html"
+    "https://www.nytimes.com/2026/10/21/world/middleeast/why-palestinians-hope-israelis-will-oust-netanyahu-in-pivotal-election.html",
+    "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html"
    ]
   },
   "Treasury": {
@@ -749,25 +750,20 @@
    "t": 1792572481.0,
    "n": "زبان بدن فیلد مارشال محسن رضایی در دیدار با فیلد مارشال عاصم منیر که در فضای مجازی وایرال شده است",
    "fa": "🇮🇷🇵🇰‼️زبان بدن فیلد مارشال محسن رضایی در دیدار با فیلد مارشال عاصم منیر که در فضای مجازی وایرال شده است!"
+  },
+  {
+   "t": 1792573011.0,
+   "n": "اعتراضات به آلبانی رسید دامنه اعتراضات در حال گسترش است",
+   "fa": "🎥اعتراضات به آلبانی رسید دامنه اعتراضات در حال گسترش است."
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 41
+  "requests": 42
  },
- "flip": 1302,
+ "flip": 1303,
  "quote_n": 573,
  "signals": [
-  {
-   "t": 1792486565.9285264,
-   "s": 4,
-   "p": 75
-  },
-  {
-   "t": 1792486569.307421,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1792486892.9874148,
    "s": 5,
@@ -1695,6 +1691,11 @@
   },
   {
    "t": 1792572679.1532571,
+   "s": 3,
+   "p": 30
+  },
+  {
+   "t": 1792573298.2238336,
    "s": 3,
    "p": 30
   }
