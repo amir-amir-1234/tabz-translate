@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108784
+   "last_id": 108785
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,7 +10,7 @@
    "last_id": 132344
   },
   "TelNews_Magazine": {
-   "last_id": 101636
+   "last_id": 101637
   },
   "NE_WG": {
    "last_id": 115197
@@ -461,16 +461,6 @@
  },
  "recent": [
   {
-   "t": 1792572430.0,
-   "n": "palestinians hope israeli election will oust netanyahu many in gaza and the west bank are desperate to avoid more years of prime minister benjamin netanyahu s right wing government which has made life close to unbearable",
-   "fa": "🔴 امیدواری فلسطینیان به برکناری نتانیاهو در انتخابات اسرائیل به گزارش نیویورک تایمز بسیاری از ساکنان غزه و کرانه باختری به شدت امیدوارند که از تداوم سال‌های بیشتر حکومت دولت راستی بنیامین نتانیاهو، نخست‌وزیر اسرائیل، جلوگیری کنند؛ دولتی که زندگی را در این مناطق تقریبا غیرقابل تحمل ساخته است."
-  },
-  {
-   "t": 1792572481.0,
-   "n": "زبان بدن فیلد مارشال محسن رضایی در دیدار با فیلد مارشال عاصم منیر که در فضای مجازی وایرال شده است",
-   "fa": "🇮🇷🇵🇰‼️زبان بدن فیلد مارشال محسن رضایی در دیدار با فیلد مارشال عاصم منیر که در فضای مجازی وایرال شده است!"
-  },
-  {
    "t": 1792573011.0,
    "n": "اعتراضات به آلبانی رسید دامنه اعتراضات در حال گسترش است",
    "fa": "🎥اعتراضات به آلبانی رسید دامنه اعتراضات در حال گسترش است."
@@ -759,20 +749,25 @@
    "t": 1792587717.0,
    "n": "ethiopian air force su 27 fighter jet filmed operating above mekelle capital of tigray region mekelle was captured from the tigray defense forces by the ethiopian national defense force earlier this month",
    "fa": "🇪🇹⚡️ — یک فروند جنگنده سوخو-۲۷ نیروی هوایی اتیوپی در حال پرواز بر فراز مکه‌له، مرکز منطقه تیگرای، فیلمبرداری شد. مکه‌له اوایل ماه جاری توسط نیروی دفاع ملی اتیوپی از نیروهای دفاعی تیگرای پس گرفته شده بود."
+  },
+  {
+   "t": 1792588321.0,
+   "n": "پزشکیان دکتر لاریجانی به دنبال حل همه قضایا بود رهبری هم دستور داده بود داشتیم حل می کردیم آمریکایی ها نخواستند",
+   "fa": "⭕️پزشکیان: دکتر لاریجانی به دنبال حل همه قضایا بود؛ رهبری هم دستور داده بود، داشتیم حل می‌کردیم؛ آمریکایی‌ها نخواستند"
+  },
+  {
+   "t": 1792588398.0,
+   "n": "harakat hezbollah al nujaba s military deputy abdul qader al karbala i released a statement declaring their continued abstention from iraq s political process and their refusal to disarm their weaponry",
+   "fa": "🇮🇶⚡️ — بیانیه معاون نظامی حرکة حزب‌الله النجباء، عبدالقادر کربلایی، در اعلام تداوم خودداری از مشارکت در روند سیاسی عراق و امتناع از خلع سلاح."
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 81
+  "requests": 82
  },
- "flip": 1351,
- "quote_n": 586,
+ "flip": 1353,
+ "quote_n": 587,
  "signals": [
-  {
-   "t": 1792501887.97656,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1792502474.971584,
    "s": 2,
@@ -1702,6 +1697,16 @@
    "t": 1792587721.88337,
    "s": 2,
    "p": 60
+  },
+  {
+   "t": 1792588580.991504,
+   "s": 2,
+   "p": 60
+  },
+  {
+   "t": 1792588585.3369224,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
