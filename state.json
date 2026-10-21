@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132390
+   "last_id": 132392
   },
   "TelNews_Magazine": {
-   "last_id": 101668
+   "last_id": 101669
   },
   "NE_WG": {
-   "last_id": 115261
+   "last_id": 115263
   }
  },
  "fails": {},
@@ -106,7 +106,8 @@
     "https://www.foxnews.com/world/reporters-notebook-france-braces-more-unrest-after-parts-paris-spun-out-control",
     "https://www.foxnews.com/world/stephen-hubbard-russia-american-prisoner-release",
     "https://www.foxnews.com/world/ukraines-zelenskyy-open-freezing-front-lines-ceasefire-russia",
-    "https://www.foxnews.com/world/bibas-family-relative-takes-fight-icc-after-mother-two-young-boys-murdered-hamas"
+    "https://www.foxnews.com/world/bibas-family-relative-takes-fight-icc-after-mother-two-young-boys-murdered-hamas",
+    "https://www.foxnews.com/world/pope-leo-xiv-needs-no-further-cancer-treatment-after-lung-tumor-removed-doctors-say"
    ]
   },
   "WSJ": {
@@ -356,7 +357,8 @@
     "SB11676206231181634135104593521590675071644",
     "WP-WSJ-0003991741",
     "WP-WSJ-0003995591",
-    "WP-WSJ-0003994712"
+    "WP-WSJ-0003994712",
+    "WP-WSJ-0003994623"
    ]
   },
   "NYT": {
@@ -471,26 +473,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792601010.0,
-   "n": "وزارت خزانه داری ایالات متحده تحریم های جدیدی را مرتبط با ایران اعمال کرد",
-   "fa": "🚨وزارت خزانه‌داری ایالات متحده تحریم‌های جدیدی را مرتبط با ایران اعمال کرد"
-  },
-  {
-   "t": 1792601168.0570834,
-   "n": "iran related designations belarus and north korea designations removals issuance of iran related and russia related general licenses and amended frequently asked questions the department of the treasury s office of foreign assets control ofac is issuing iran general license gg authorizing the wind down of transactions involving karnkakis and karnakis and iran general license hh authorizing wind do",
-   "fa": "🚨 اعلام تحریم‌های مرتبط با ایران و اصلاحات جدید از سوی اوفک به گزارش دفتر کنترل دارایی‌های خارجی آمریکا (اوفک)، وزارت خزانه‌داری مجوز عمومی شماره جی‌جی ایران با عنوان «مجوز توقف معاملات مربوط به کارناکیس و کارناکیس» و مجوز عمومی شماره اچ‌اچ ایران با عنوان «مجوز فعالیت‌های توقف، معاملات محدود ایمنی و زیست‌محیطی، و تخلیه بار مربوط به برخی اشخاص یا کشتی‌های مسدود شده در تاریخ ۲۱ اکتبر ۲۰۲۶» را صادر م"
-  },
-  {
-   "t": 1792600980.0,
-   "n": "opinion the price of gas and the meaning of sacrifice sacrifices today are real but they pale in comparison to what was endured during world war ii",
-   "fa": "⭕️ مقایسه فداکاری‌های امروز با سختی‌های جنگ جهانی دوم به گزارش وال‌استریت ژورنال فداکاری‌های امروز واقعی هستند، اما در مقایسه با آنچه در طول جنگ جهانی دوم تحمل شد، بسیار ناچیز به نظر می‌رسند."
-  },
-  {
-   "t": 1792601385.0,
-   "n": "العربیه پاکستان بر این باور است که ایران باید در پرونده هسته ای انعطاف بیشتری از خود نشان دهد",
-   "fa": "⭕️ العربیه: پاکستان بر این باور است که ایران باید در پرونده هسته‌ای انعطاف بیشتری از خود نشان دهد"
-  },
   {
    "t": 1792601275.0,
    "n": "u s special envoy steve witkoff in oslo and st petersburg jared kushner and i met with russian ukrainian and european leaders to advance president trump s mission to end the war in st petersburg we met with president putin to build on the progress made in oslo with president zelenskyy discuss a peace framework and thank president putin for releasing american citizen stephen hubbard to return home ",
@@ -770,14 +752,34 @@
    "t": 1792612030.0,
    "n": "ترامپ در واکنش به انسان دوست خواندن پوتین از سوی ویتکاف خبرنگار ویتکاف پوتین را یک انسان دوست توصیف کرده است دونالد ترامپ رئیس جمهور آمریکا فکر می کنم از این نظر بتوانید چنین چیزی بگویید چون قرار بود مردی را که فکر می کرد تا آخر عمر در زندان خواهد بود آزاد کنیم",
    "fa": "🇺🇸🇺🇸🇷🇺 ترامپ در واکنش به انسان‌دوست خواندن پوتین از سوی ویتکاف: 🔴 خبرنگار: ویتکاف، پوتین را یک انسان‌دوست توصیف کرده است. 🔴 دونالد ترامپ، رئیس‌جمهور آمریکا: «فکر می‌کنم از این نظر بتوانید چنین چیزی بگویید؛ چون قرار بود مردی را که فکر می‌کرد تا آخر عمر در زندان خواهد بود، آزاد کنیم.»"
+  },
+  {
+   "t": 1792611596.0,
+   "n": "pope leo xiv needs no further cancer treatment after lung tumor removed doctors say pope leo xiv will need no further treatment for lung cancer after final tests confirmed the disease was localized his doctors said wednesday the tumor removed oct 13 was a lung adenocarcinoma dr luigi carbone and professor stefano margaritora said a subsequent cancer assessment confirmed that no further treatment i",
+   "fa": "⭕️ پزشکان اعلام کردند پاپ لئو چهاردهم پس از خارجسازی تومور ریوی نیازی به درمان بیشتر ندارد به گزارش فاکس نیوز پزشکان روز چهارشنبه اعلام کردند پاپ لئو چهاردهم پس از اینکه آزمایش‌های نهایی تأیید کرد بیماری او موضعی بوده است، برای سرطان ریه به درمان بیشتری نیاز نخواهد داشت. دکتر لوئیجی کاربونه و پروفسور استفانو مارگاریتورا گفتند توموری که در تاریخ ۱۳ اکتبر برداشته شد، یک آدنوکارسینوم ریه بوده است. پز"
+  },
+  {
+   "t": 1792612260.0,
+   "n": "nine ebola cases have kenya holding its breath health authorities are waiting to see whether their swift quarantine actions were enough to prevent a full blown outbreak",
+   "fa": "🔴 نه مورد ابلا به ابولا کنیا را در حالت انتظار قرار داده است به گزارش وال‌استریت ژورنال مقامات بهداشتی منتظرند تا ببینند آیا اقدامات قرنطینه سریع آن‌ها برای جلوگیری از یک شیوع تمام‌عیار کافی بوده است یا خیر."
+  },
+  {
+   "t": 1792612295.0,
+   "n": "تامی پیگات سخنگوی وزارت امور خارجه ایالات متحده آمریکا درمورد گزارش های تخلیه سفارت خانه ها این نادرست است وزارت امور خارجه آمریکا دستور خروج کارمندان غیراضطراری دولت آمریکا و اعضای خانواده هایشان را تنها در عربستان سعودی صادر کرده است حوثی های تحت حمایت ایران به طور فزاینده ای درگیر خصومت ها علیه عربستان سعودی شده اند از جمله حملات به فرودگاه های غیرنظامی و سایر زیرساخت های حیاتی که منجر به تلفات",
+   "fa": "🔄 به‌روزرسانی ⭕️تامی پیگات سخنگوی وزارت امور خارجه ایالات متحده آمریکا درمورد گزارش‌های تخلیه‌سفارت خانه ها: «این نادرست است. وزارت امور خارجه آمریکا دستور خروج کارمندان غیراضطراری دولت آمریکا و اعضای خانواده‌هایشان را تنها در عربستان سعودی صادر کرده است. حوثی‌های تحت حمایت ایران به طور فزاینده‌ای درگیر خصومت‌ها علیه عربستان سعودی شده‌اند، از جمله حملات به فرودگاه‌های غیرنظامی و سایر زیرساخت‌های ح"
+  },
+  {
+   "t": 1792612430.0,
+   "n": "علی قلهکی پاکستان و عراق در همکاری کامل با آمریکا بخشی از مرزهای زمینی خود را با ایران بستند",
+   "fa": "🇺🇸🇮🇷🇮🇶🇵🇰علی قلهکی: پاکستان و عراق در همکاری کاملِ با آمریکا بخشی از مرزهای زمینی خود را با ایران بستند!"
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 173
+  "requests": 175
  },
- "flip": 1413,
- "quote_n": 621,
+ "flip": 1415,
+ "quote_n": 622,
  "signals": [
   {
    "t": 1792526179.002747,
@@ -1728,6 +1730,16 @@
    "t": 1792611968.4053679,
    "s": 5,
    "p": 90
+  },
+  {
+   "t": 1792612582.0975678,
+   "s": 4,
+   "p": 75
+  },
+  {
+   "t": 1792612587.2444253,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
