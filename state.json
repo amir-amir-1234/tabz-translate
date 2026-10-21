@@ -10,10 +10,10 @@
    "last_id": 132363
   },
   "TelNews_Magazine": {
-   "last_id": 101650
+   "last_id": 101652
   },
   "NE_WG": {
-   "last_id": 115218
+   "last_id": 115219
   }
  },
  "fails": {},
@@ -349,7 +349,8 @@
     "WP-WSJ-0003993481",
     "WP-WSJ-0003994059",
     "WP-WSJ-0003994056",
-    "WP-WSJ-0003994729"
+    "WP-WSJ-0003994729",
+    "SB10865903614445404644304593521820373704406"
    ]
   },
   "NYT": {
@@ -457,31 +458,12 @@
     "https://ofac.treasury.gov/recent-actions/20261014",
     "https://ofac.treasury.gov/recent-actions/20261015",
     "https://ofac.treasury.gov/recent-actions/20261016",
-    "https://ofac.treasury.gov/recent-actions/20261019"
+    "https://ofac.treasury.gov/recent-actions/20261019",
+    "https://ofac.treasury.gov/recent-actions/20261021"
    ]
   }
  },
  "recent": [
-  {
-   "t": 1792581241.0,
-   "n": "حمله موشکی حوثی ها به فرودگاه الریان در مکلا حوثی های یمن اعلام کردند فرودگاه الریان در شهر مکلا را با ۳ موشک بالستیک هدف قرار داده اند",
-   "fa": "🔄 به‌روزرسانی ‼️حمله موشکی حوثی‌ها به فرودگاه الریان در مکلا حوثی‌های یمن اعلام کردند فرودگاه الریان در شهر مکلا را با ۳ موشک بالستیک هدف قرار داده‌اند."
-  },
-  {
-   "t": 1792581940.0,
-   "n": "ukrainian president zelensky they re russia not winning on the battlefield that s why they want to use any kind of pressure on us to push us from our land it s not fair we want to end this war as quick as possible we can t just leave our country our houses it s our children so we speak about staying where we stand let s move to diplomacy it s a great idea the ceasefire of the president of the unit",
-   "fa": "🇺🇦🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: آنها (روسیه) در میدان نبرد پیروز نمی‌شوند. به همین دلیل است که می‌خواهند از هر نوع فشاری بر ما استفاده کنند تا ما را از سرزمین‌مان بیرون برانند. این عادلانه نیست. ما می‌خواهیم این جنگ را در سریع‌ترین زمان ممکن پایان دهیم. ما نمی‌توانیم فقط کشور و خانه‌هایمان را رها کنیم. این فرزندان ما هستند. بنابراین ما درباره ماندن در جایی که هستیم صحبت می‌کنیم. بیای"
-  },
-  {
-   "t": 1792582005.0,
-   "n": "ukrainian president zelensky i spoke yesterday with secretary rubio by the way now intelligence works thank you so much it was very dangerous for us not to get early warning information about ballistic attacks from the russian side right now it works about starlink starshield it s still limited but the secretary told me that he will work with his team on this to unblock this question god bless it ",
-   "fa": "🇺🇦🇺🇸🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: من دیروز با مارکو روبیو، وزیر امور خارجه صحبت کردم. به هر حال، اکنون اطلاعات کار می‌کند. بسیار سپاسگزارم. برای ما بسیار خطرناک بود که اطلاعات هشدار اولیه درباره حملات بالستیک از سوی روسیه را دریافت نکنیم. در حال حاضر، این سیستم کار می‌کند. درباره استارلینک، استارشییل — هنوز محدود است، اما وزیر به من گفت که او با تیم خود روی این موضوع کار خواهد کرد تا"
-  },
-  {
-   "t": 1792582054.0,
-   "n": "fox s kilmeade would you accept a peace deal that freezes everything the way it is right now where you still keep 75 or more of your country regardless of how it started would you accept where it is right now zelensky yes",
-   "fa": "🇺🇦🇷🇺⚡️ — کیل‌مید، خبرنگار فاکس: آیا توافق صلح را که همه‌چیز را همان‌طور که هست منجمد کند و در آن شما ۷۵ درصد یا بیشتر از کشور خود را حفظ کنید، می‌پذیرید؟ صرف نظر از اینکه چگونه شروع شد، آیا وضعیت فعلی را می‌پذیرید؟ زلنسکی: بله."
-  },
   {
    "t": 1792582071.0,
    "n": "عضو کمیسیون امنیت ملی مجلس تردیدی در حمله نظامی جدید آمریکا و اسرائیل نداریم و آماده ایم اسرائیل را از روی نقشه پاک کنیم",
@@ -761,14 +743,34 @@
    "t": 1792600801.0,
    "n": "رئیس جمهور پزشکیان ما از شهادت نمیترسیم",
    "fa": "🇮🇷 رئیس‌جمهور پزشکیان: ما از شهادت نمیترسیم"
+  },
+  {
+   "t": 1792600819.0,
+   "n": "خوش چشم کارشناس صداوسیما آمریکا ضعیف شده و واجبه که ضربه آخر و نهایی رو بزنیم تا کارش تموم شه",
+   "fa": "⭕️خوش چشم کارشناس صداوسیما: آمریکا ضعیف شده و واجبه که ضربه آخر و نهایی رو بزنیم تا کارش تموم شه"
+  },
+  {
+   "t": 1792600920.0,
+   "n": "opinion france is testing the limits of public outrage this is a clearly recognizable anti western uprising",
+   "fa": "🔴 فرانسه محدودیت‌های خشم عمومی را آزمایش می‌کند به گزارش وال‌استریت ژورنال، این یک قیام ضد غربی به وضوح قابل تشخیص است."
+  },
+  {
+   "t": 1792601010.0,
+   "n": "وزارت خزانه داری ایالات متحده تحریم های جدیدی را مرتبط با ایران اعمال کرد",
+   "fa": "🚨وزارت خزانه‌داری ایالات متحده تحریم‌های جدیدی را مرتبط با ایران اعمال کرد"
+  },
+  {
+   "t": 1792601168.0570834,
+   "n": "iran related designations belarus and north korea designations removals issuance of iran related and russia related general licenses and amended frequently asked questions the department of the treasury s office of foreign assets control ofac is issuing iran general license gg authorizing the wind down of transactions involving karnkakis and karnakis and iran general license hh authorizing wind do",
+   "fa": "🚨 اعلام تحریم‌های مرتبط با ایران و اصلاحات جدید از سوی اوفک به گزارش دفتر کنترل دارایی‌های خارجی آمریکا (اوفک)، وزارت خزانه‌داری مجوز عمومی شماره جی‌جی ایران با عنوان «مجوز توقف معاملات مربوط به کارناکیس و کارناکیس» و مجوز عمومی شماره اچ‌اچ ایران با عنوان «مجوز فعالیت‌های توقف، معاملات محدود ایمنی و زیست‌محیطی، و تخلیه بار مربوط به برخی اشخاص یا کشتی‌های مسدود شده در تاریخ ۲۱ اکتبر ۲۰۲۶» را صادر م"
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 124
+  "requests": 126
  },
- "flip": 1377,
- "quote_n": 593,
+ "flip": 1379,
+ "quote_n": 596,
  "signals": [
   {
    "t": 1792514785.6229281,
@@ -1679,6 +1681,21 @@
    "t": 1792600877.5690815,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792601188.33938,
+   "s": 4,
+   "p": 65
+  },
+  {
+   "t": 1792601195.260438,
+   "s": 4,
+   "p": 80
+  },
+  {
+   "t": 1792601200.531806,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
