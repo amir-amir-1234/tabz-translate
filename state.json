@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132416
+   "last_id": 132417
   },
   "TelNews_Magazine": {
    "last_id": 101681
   },
   "NE_WG": {
-   "last_id": 115291
+   "last_id": 115292
   }
  },
  "fails": {},
@@ -477,11 +477,6 @@
  },
  "recent": [
   {
-   "t": 1792606494.0,
-   "n": "the u s treasury has announced new sanctions against iran s shadow fleet networks under operation economic outcast targeting shipping companies legal facilitators and vessels that they say are involved in transporting iranian oil petrochemicals and steel the measures target panama and greece based law firm karnakis and karnakis five associated individuals shipping operator roxette maritime singapo",
-   "fa": "🔄 به‌روزرسانی 🇺🇸🇮🇷⚡️ — وزارت خزانه‌داری ایالات متحده تحریم‌های جدیدی را علیه شبکه‌های ناوگان در سایه ایران تحت عملیات «طرد اقتصادی» اعلام کرد که شرکت‌های کشتیرانی، تسهیل‌کنندگان حقوقی و شناورهایی را که به گفته این وزارتخانه در انتقال نفت، پتروشیمی و فولاد ایران دست دارند، هدف قرار می‌دهد. این اقدامات شرکت حقوقی «کارناکیس و کارناکیس» مستقر در پاناما و یونان، پنج فرد مرتبط، اپراتور کشتیرانی «روکسِت "
-  },
-  {
    "t": 1792606539.0,
    "n": "u s treasury secretary scott bessent whether you are conducting illegal oil transfers at sea or sitting in the corner office of a law firm if you are supporting the iranian regime we will find you and sanction you iran s facilitators must make a choice either you are with us or against us we know who you are we know what you re doing and we will continue to take action",
    "fa": "🇺🇸🇮🇷⚡️ — وزیر خزانه‌داری ایالات متحده، اسکات بسنت: چه در دریا مشغول انتقال‌های غیرقانونی نفت باشید و چه در دفتر گوشه یک شرکت حقوقی نشسته باشید، اگر از رژیم ایران حمایت کنید، شما را پیدا می‌کنیم و تحریمتان خواهیم کرد. تسهیلگران ایران باید انتخاب کنند: یا با ما هستید یا علیه ما. ما می‌دانیم شما چه کسانی هستید، می‌دانیم چه می‌کنید و به اقدامات خود ادامه خواهیم داد."
@@ -775,14 +770,19 @@
    "t": 1792619769.0,
    "n": "مقام آمریکایی حرکت هایی سریع برای استقرار تجهیزات نظامی در مکان های مختلف در حال انجام است به منظور آمادگی برای آنچه که انتظار می رود مجوز ترامپ برای از سرگیری حملات به ایران باشد",
    "fa": "⭕️مقام آمریکایی: حرکت‌هایی سریع برای استقرار تجهیزات نظامی در مکان‌های مختلف در حال انجام است، به منظور آمادگی برای آنچه که انتظار می‌رود مجوز ترامپ برای از سرگیری حملات به ایران باشد"
+  },
+  {
+   "t": 1792620292.0,
+   "n": "وال استریت جورنال اسرائیل فهرستی از اهداف خود در ایران را تهیه کرده و این فهرست را به وزیر جنگ آمریکا ارائه داده است این اقدام بر اساس اطلاعات جدیدی است که به دست آمده است",
+   "fa": "🇮🇱🇺🇸❌🇮🇷وال استریت جورنال:اسرائیل فهرستی از اهداف خود در ایران را تهیه کرده و این فهرست را به وزیر جنگ آمریکا ارائه داده است. این اقدام بر اساس اطلاعات جدیدی است که به دست آمده است."
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 199
+  "requests": 200
  },
  "flip": 1429,
- "quote_n": 634,
+ "quote_n": 635,
  "signals": [
   {
    "t": 1792533968.6910114,
@@ -1751,6 +1751,11 @@
   },
   {
    "t": 1792620093.866693,
+   "s": 5,
+   "p": 90
+  },
+  {
+   "t": 1792620369.5761602,
    "s": 5,
    "p": 90
   }
