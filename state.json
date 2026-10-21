@@ -337,7 +337,8 @@
     "SB10865903614445404644304593524021041939016",
     "SB11676206231181634135104593523643473933844",
     "WP-WSJ-0003992282",
-    "WP-WSJO-0000391609"
+    "WP-WSJO-0000391609",
+    "WP-WSJ-0003991517"
    ]
   },
   "NYT": {
@@ -448,11 +449,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792519668.0,
-   "n": "shahurah domestic airport is a dual civilian military airport in najran province southwestern ksa located 120 miles from ansarallah controlled yemen around 20 miles closer than king khalid ab ksa s known closest military base to ansarallah controlled yemen with a permanent fighter jet presence shahurah domestic airport has no permanent fighter jet presence and is likely housing fighter jets tempor",
-   "fa": "🇸🇦🇾🇪⚡️ فرودگاه داخلی شروره یک فرودگاه دوگانه غیر نظامی-نظامی در استان نجران در جنوب غربی عربستان سعودی است که در فاصله حدود ۱۲۰ مایلی مناطق تحت کنترل انصارالله در یمن واقع شده است، حدود ۲۰ مایل نزدیک‌تر از پایگاه هوایی ملک خالد، که به عنوان نزدیک‌ترین پایگاه نظامی شناخته شده عربستان به مناطق تحت کنترل انصارالله با حضور دائمی جنگنده‌ها است. فرودگاه داخلی شروره حضور دائمی جنگنده ندارد و احتمالاً به "
-  },
   {
    "t": 1792519782.0,
    "n": "فرمانده ارتش پاکستان ما نگران احتمال از سرگیری جنگ هستیم",
@@ -747,14 +743,19 @@
    "t": 1792531560.0,
    "n": "the mothers of kherson review a ukraine war opera a startlingly of the moment work about russia s abduction of children during the war in ukraine co commissioned by the metropolitan opera had its premiere in warsaw last week",
    "fa": "🔴 اجرای اپرای مادران خرسون درباره ربایش کودکان اوکراینی در ورشو به گزارش وال‌استریت ژورنال، یک اثر تکان‌دهنده و کاملاً مرتبط با شرایط روز درباره ربایش کودکان توسط روسیه در جریان جنگ در اوکراین که به طور مشترک توسط اپرای متروپولیتن سفارش داده شده بود، هفته گذشته در ورشو به روی صحنه رفت."
+  },
+  {
+   "t": 1792540800.0,
+   "n": "more oil is now coming out of the persian gulf than before the iran war experience and big paydays have created a more resilient tanker fleet oil traders worry it isn t sustainable",
+   "fa": "⭕️ خروج نفت از خلیج فارس به سطحی فراتر از پیش از جنگ ایران رسیده است به گزارش وال‌استریت ژورنال، در حال حاضر نفت بیشتری نسبت به دوران پیش از جنگ ایران از خلیج فارس خارج می‌شود. تجارت نفت و دستمزدهای کلان باعث ایجاد ناوگان نفتکش مقاوم‌تری شده است، با این حال معامله‌گران نفت نگران هستند که این وضعیت پایدار نباشد."
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 0
+  "requests": 2
  },
- "flip": 1275,
- "quote_n": 554,
+ "flip": 1276,
+ "quote_n": 555,
  "signals": [
   {
    "t": 1792456566.7147455,
@@ -1670,6 +1671,11 @@
    "t": 1792539968.9220533,
    "s": 5,
    "p": 90
+  },
+  {
+   "t": 1792541165.9329486,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
