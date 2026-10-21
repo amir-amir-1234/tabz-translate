@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108814
+   "last_id": 108818
   },
   "khabarfouri": {
    "last_id": 569949
@@ -469,11 +469,6 @@
  },
  "recent": [
   {
-   "t": 1792588689.0,
-   "n": "iranian president masoud pezeshkian threats and sanctions must be practically lifted in action so that the ground for dialogue can be provided one cannot increase the intensity of sanctions and pressures every day close the paths of interaction and simultaneously speak of negotiation dialogue with the language of threats and pressure has no meaning",
-   "fa": "🇮🇷🇺🇸⚡️ — مسعود پزشکیان، رئیس‌جمهور ایران: تهدیدها و تحریم‌ها باید در عمل به‌طور عملی برداشته شود تا زمینه برای گفت‌وگو فراهم گردد. نمی‌توان هر روز بر شدت تحریم‌ها و فشارها افزود، راه‌های تعامل را بست و هم‌زمان از مذاکره سخن گفت. گفت‌وگو با زبان تهدید و فشار هیچ معنایی ندارد."
-  },
-  {
    "t": 1792588993.0,
    "n": "israeli prime minister benjamin netanyahu turns 77 today becoming the oldest person ever to serve as israel s prime minister first elected at age 46 as the country s youngest prime minister he now holds both records",
    "fa": "🇮🇱⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل، امروز ۷۷ ساله شد و به مسن‌ترین فردی تبدیل شد که تاکنون به عنوان نخست‌وزیر اسرائیل خدمت کرده است. او که برای نخستین بار در سن ۴۶ سالگی به عنوان جوان‌ترین نخست‌وزیر کشور انتخاب شد، اکنون هر دو رکورد را در اختیار دارد."
@@ -767,30 +762,20 @@
    "t": 1792605447.0,
    "n": "dozens of israeli air force fighter jets and refueling aircraft flew more than 1280 km 800 miles toward iran on monday passing through syrian and iraqi airspace before turning back near the iranian border according to axios citing israeli and u s officials israel notified washington beforehand describing the operation as a training exercise intended to demonstrate military capabilities and deter i",
    "fa": "🔄 به‌روزرسانی 🇮🇱🇮🇷⚡️ — به گزارش اکسیوس به نقل از مقامات اسرائیلی و آمریکایی، ده‌ها فروند جنگنده و هواپیمای سوخت‌رسان نیروی هوایی اسرائیل روز دوشنبه بیش از ۱۲۸۰ کیلومتر (۸۰۰ مایل) به سمت ایران پرواز کردند و پیش از بازگشت در نزدیکی مرز ایران، از حریم هوایی سوریه و عراق عبور کردند. اسرائیل از پیش به واشنگتن اطلاع داده بود و این عملیات را به عنوان یک رزمایش نظامی با هدف نمایش توانمندی‌های نظامی و بازد"
+  },
+  {
+   "t": 1792605818.0,
+   "n": "centcom released photos showing u s marines training with fpv drones aboard the uss portland lpd 27 while operating in the arabian sea centcom says it is using the region as an innovation testing ground to evaluate emerging technologies and rapidly equip deployed personnel with advanced capabilities",
+   "fa": "🇺🇸⚡️ — سنتکام تصاویری منتشر کرد که تفنگداران دریایی ایالات متحده را در حال تمرین با پهپادهای FPV عرشه ناو یواس‌اس پورتلند (LPD 27) هنگام فعالیت در دریای عرب نشان می‌دهد. سنتکام می‌گوید از این منطقه به عنوان یک آزمایشگاه نوآوری برای ارزیابی فناوری‌های نوظهور و تجهیز سریع پرسنل مستقر با قابلیت‌های پیشرفته استفاده می‌کند."
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 145
+  "requests": 146
  },
- "flip": 1393,
+ "flip": 1394,
  "quote_n": 605,
  "signals": [
-  {
-   "t": 1792519304.5973368,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1792519308.1007757,
-   "s": 4,
-   "p": 75
-  },
-  {
-   "t": 1792519315.1024604,
-   "s": 2,
-   "p": 50
-  },
   {
    "t": 1792519580.5453255,
    "s": 4,
@@ -1685,6 +1670,11 @@
    "t": 1792605711.3955452,
    "s": 5,
    "p": 85
+  },
+  {
+   "t": 1792605973.8722448,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
