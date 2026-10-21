@@ -1,16 +1,16 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108756
+   "last_id": 108758
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132322
+   "last_id": 132323
   },
   "TelNews_Magazine": {
-   "last_id": 101623
+   "last_id": 101624
   },
   "NE_WG": {
    "last_id": 115180
@@ -460,11 +460,6 @@
  },
  "recent": [
   {
-   "t": 1792533994.0,
-   "n": "عراقچی با توجه تجربیات پیشین هیچ اعتمادی به رویکرد آمریکایی ها وجود ندارد",
-   "fa": "‼️عراقچی: با توجه تجربیات پیشین ، هیچ اعتمادی به رویکرد آمریکایی‌ها وجود ندارد"
-  },
-  {
    "t": 1792534725.0,
    "n": "عراقچی مردم ایران هزینه سنگین تحریم ها را برای حفظ عزت و استقلال خود تحمل کرده اند",
    "fa": "💢عراقچی: مردم ایران هزینه سنگین تحریم‌ها را برای حفظ عزت و استقلال خود تحمل کرده‌اند"
@@ -748,14 +743,29 @@
    "t": 1792577046.0,
    "n": "پزشکیان نمی توان هم تهدید کرد و هم انتظار مذاکره داشت",
    "fa": "🇮🇷 پزشکیان: نمی‌توان هم تهدید کرد و هم انتظار مذاکره داشت‼️ ⠀"
+  },
+  {
+   "t": 1792577214.0,
+   "n": "israeli prime minister benjamin netanyahu planned a major multi day attack on iran for october 10 but president trump blocked the operation to avoid restarting the war ahead of the november 3 u s midterm elections according to ft the planned strikes would have targeted iranian nuclear facilities government sites power plants and other civilian infrastructure with an intensity reportedly exceeding ",
+   "fa": "🇮🇱🇺🇸🇮🇷⚡️ — به گزارش فایننشال تایمز، بنیامین نتانیاهو، نخست‌وزیر اسرائیل، برنامه‌ریزی کرده بود که در ۱۰ اکتبر یک حمله بزرگ و چندروزه علیه ایران انجام دهد، اما رئیس‌جمهور ترامپ برای جلوگیری از از سرگیری جنگ پیش از انتخابات میان‌دوره‌ای آمریکا در ۳ نوامبر، مانع از این عملیات شد. حملات برنامه‌ریزی‌شده تأسیسات هسته‌ای، سایت‌های دولتی، نیروگاه‌ها و سایر زیرساخت‌های غیرنظامی ایران را با شدت و عظمتی فراتر"
+  },
+  {
+   "t": 1792577306.0,
+   "n": "ریک اسکات سناتور جمهوری خواه از آغاز حمله به ایران حمایت میکنم",
+   "fa": "⭕️ریک اسکات، سناتور جمهوری‌خواه: از آغاز حمله به ایران حمایت میکنم."
+  },
+  {
+   "t": 1792577331.0,
+   "n": "president trump via truth social as the president of the united states i have been watching data centers very closely and have come to a very strong conclusion new and large in some cases gigantic data enters are mandated by me to make their own electricity and give or sell any excess back to the local community or grid and therefore there is electric price increase in fact there could be a substa",
+   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ از طریق توجی سوشیال: به عنوان رئیس‌جمهور ایالات متحده، مراکز داده را بسیار دقیق زیر نظر داشته‌ام و به نتیجه بسیار محکمی رسیده‌ام. مراکز داده جدید و بزرگ، و در برخی موارد غول‌پیکر، توسط من موظف شده‌اند که برق خود را تولید کنند و مازاد آن را به جامعه محلی یا شبکه بازگردانند یا بفروشند، و بنابراین افزایش قیمت برق وجود دارد. در واقع، ممکن است کاهش قابل توجهی رخ دهد. سایر عناصر "
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 51
+  "requests": 52
  },
- "flip": 1315,
- "quote_n": 579,
+ "flip": 1317,
+ "quote_n": 580,
  "signals": [
   {
    "t": 1792491373.30576,
@@ -1686,6 +1696,16 @@
    "t": 1792577170.9311833,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792577475.500028,
+   "s": 5,
+   "p": 90
+  },
+  {
+   "t": 1792577479.02904,
+   "s": 4,
+   "p": 70
   }
  ],
  "risk": {
