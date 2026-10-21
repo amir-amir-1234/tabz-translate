@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108745
+   "last_id": 108746
   },
   "khabarfouri": {
    "last_id": 569949
@@ -338,7 +338,8 @@
     "SB11676206231181634135104593523643473933844",
     "WP-WSJ-0003992282",
     "WP-WSJO-0000391609",
-    "WP-WSJ-0003991517"
+    "WP-WSJ-0003991517",
+    "WP-WSJ-0003990421"
    ]
   },
   "NYT": {
@@ -449,16 +450,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792521189.0,
-   "n": "مرندی به زودی درسی فراموش نشدنی و دردناک به اسرائیل خواهیم داد",
-   "fa": "⭕️مرندی: به زودی درسی فراموش نشدنی و دردناک به اسرائیل خواهیم داد."
-  },
-  {
-   "t": 1792520778.0,
-   "n": "sea mine crisis re emerges in strait of hormuz as tehran urges washington to accept deal sea mines have resurfaced as a threat in the strait of hormuz where iran claimed oct 17 that two oil tankers caught fire after striking the explosives raising fresh alarms over the safety of one of the world s most critical shipping lanes this came as the international maritime organization imo warned that sea",
-   "fa": "⭕️ بحران مین‌های دریایی در تنگه هرمز و هشدار سازمان بین‌المللی دریانوردی به گزارش فاکس نیوز مین‌های دریایی بار دیگر به عنوان یک تهدید در تنگه هرمز پدیدار شده‌اند؛ جایی که ایران در تاریخ ۱۷ اکتبر ادعا کرد که دو نفتکش پس از برخورد با این مواد منفجره دچار آتش‌سوزی شده‌اند و این امر زنگ‌های هشدار جدیدی را درباره ایمنی یکی از حیاتی‌ترین آبراه‌های کشتیرانی جهان به صدا درآورده است. این تحول در حالی رخ دا"
-  },
   {
    "t": 1792522160.0,
    "n": "the qatari delegation departed tehran iran a short while ago",
@@ -748,14 +739,24 @@
    "t": 1792544311.0,
    "n": "house republicans hold a narrow fundraising advantage over democrats heading into the final two weeks before the midterm elections reversing a trend that saw democrats outraise republicans by 84 million in 2024 and 74 million in 2022 according to axios the national republican congressional committee has raised 250 million this election cycle compared with 249 million for the democratic congression",
    "fa": "🇺🇸⚡️ — به گزارش آکسیوس، جمهوری‌خواهان مجلس نمایندگان در آستانه دو هفته پایانی منتهی به انتخابات میان‌دوره‌ای، برتری مالی اندکی نسبت به دموکرات‌ها دارند و روند جمع‌آوری کمک‌های مالی را معکوس کرده‌اند؛ در حالی که دموکرات‌ها در سال ۲۰۲۴ و ۲۰۲۲ به ترتیب ۸۴ و ۷۴ میلیون دلار بیشتر از جمهوری‌خواهان کمک مالی جذب کرده بودند. کمیته ملی ارتقای نامزدهای جمهوری‌خواه مجلس نمایندگان در این چرخه انتخاباتی ۲۵۰ میل"
+  },
+  {
+   "t": 1792544400.0,
+   "n": "airfield attack marked opening shot in putin s sabotage campaign against europe the russian leader ordered new wave of attacks against nato countries",
+   "fa": "⭕️ حمله به فرودگاه آغازگر کمپین خرابکارانه پوتین علیه اروپا بود به گزارش وال‌استریت ژورنال حمله به فرودگاه به عنوان شلیک افتتاحیه در کمپین خرابکارانه پوتین علیه اروپا ثبت شد. رهبر روسیه دستور موج جدیدی از حملات را علیه کشورهای عضو ناتو صادر کرد."
+  },
+  {
+   "t": 1792544606.0,
+   "n": "president trump is pushing to remove journalists from the white house s james s brady press briefing room and potentially restore the indoor swimming pool originally built for president franklin d roosevelt according to nyt trump raised the proposal repeatedly with former press secretary karoline leavitt before her departure in august suggesting that relocating reporters could be her last legacy t",
+   "fa": "🇺🇸⚡️ — به نوشته نیویورک تایمز، دونالد ترامپ، رئیس‌جمهور آمریکا، در حال تلاش برای اخراج خبرنگاران از سالن مطبوعاتی جیمز اس. بریدی در کاخ سفید و احتمالاً احیای استخر سرپوشیده‌ای است که در اصل برای فرانکلین د. روزولت ساخته شده بود. ترامپ این پیشنهاد را بارها پیش از جدایی کارولین لیویت، سخنگوی پیشین کاخ سفید، در ماه اوت مطرح کرد و پیشنهاد داد که جابجایی خبرنگاران می‌تواند «آخرین میراث» او باشد. مشاورا"
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 7
+  "requests": 9
  },
- "flip": 1279,
- "quote_n": 555,
+ "flip": 1281,
+ "quote_n": 556,
  "signals": [
   {
    "t": 1792466475.742756,
