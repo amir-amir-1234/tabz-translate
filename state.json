@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132314
+   "last_id": 132315
   },
   "TelNews_Magazine": {
-   "last_id": 101618
+   "last_id": 101619
   },
   "NE_WG": {
-   "last_id": 115171
+   "last_id": 115172
   }
  },
  "fails": {},
@@ -406,7 +406,8 @@
     "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html",
     "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html",
     "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
-    "https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html"
+    "https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html",
+    "https://www.nytimes.com/2026/10/21/world/middleeast/why-palestinians-hope-israelis-will-oust-netanyahu-in-pivotal-election.html"
    ]
   },
   "Treasury": {
@@ -454,11 +455,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792529478.0,
-   "n": "wsj citing u s officials and other people familiar with the matter reports spacex ceo elon musk ordered speed restrictions on starshield s use by the armed forces of ukraine u s officials say elon musk acted unilaterally when starshield restrictions were put in place but one source familiar with the matter claims musk consulted with president trump and other senior u s officials before enacting st",
-   "fa": "🇺🇸🇺🇦⚡️ — روزنامه وال‌استریت ژورنال به نقل از مقام‌های آمریکایی و افراد مطلع گزارش داد که ایلان ماسک، مدیرعامل اسپیس‌ایکس، دستور اعمال محدودیت سرعت بر استفاده نیروهای مسلح اوکراین از استارشیلد را صادر کرده است. مقام‌های آمریکایی می‌گویند ایلان ماسک زمانی که محدودیت‌های استارشیلد وضع شد به طور یکجانبه عمل کرد، اما یک منبع مطلع ادعا می‌کند که ماسک پیش از اعمال این محدودیت‌ها با رئیس‌جمهور ترامپ و سای"
-  },
   {
    "t": 1792529521.0,
    "n": "انصارالله یمن گزینه حمله زمینی به عربستان سعودی روی میز است",
@@ -748,14 +744,24 @@
    "t": 1792571615.0,
    "n": "نایب فرمانده سپاه پاسداران انقلاب اسلامی آمریکایی ها و متحدانشان سرمایه های هنگفتی در اختیار دارند اگر آن ها بخواهند به زیرساخت های ما آسیب برسانند طبیعی است که ما از تمام توانایی های خود برای نابودی سرمایه ها و دارایی های متعلق به آن ها استفاده کنیم از جمله کابل های اینترنت که به راحتی در زیر آب تنگه هرمز امتداد دارند",
    "fa": "🇮🇷نایب فرمانده سپاه پاسداران انقلاب اسلامی: 💢آمریکایی‌ها و متحدانشان سرمایه‌های هنگفتی در اختیار دارند. اگر آن‌ها بخواهند به زیرساخت‌های ما آسیب برسانند، طبیعی است که ما از تمام توانایی‌های خود برای نابودی سرمایه‌ها و دارایی‌های متعلق به آن‌ها استفاده کنیم، از جمله کابل‌های اینترنت که به راحتی در زیر آب تنگه هرمز امتداد دارند."
+  },
+  {
+   "t": 1792572430.0,
+   "n": "palestinians hope israeli election will oust netanyahu many in gaza and the west bank are desperate to avoid more years of prime minister benjamin netanyahu s right wing government which has made life close to unbearable",
+   "fa": "🔴 امیدواری فلسطینیان به برکناری نتانیاهو در انتخابات اسرائیل به گزارش نیویورک تایمز بسیاری از ساکنان غزه و کرانه باختری به شدت امیدوارند که از تداوم سال‌های بیشتر حکومت دولت راستی بنیامین نتانیاهو، نخست‌وزیر اسرائیل، جلوگیری کنند؛ دولتی که زندگی را در این مناطق تقریبا غیرقابل تحمل ساخته است."
+  },
+  {
+   "t": 1792572481.0,
+   "n": "زبان بدن فیلد مارشال محسن رضایی در دیدار با فیلد مارشال عاصم منیر که در فضای مجازی وایرال شده است",
+   "fa": "🇮🇷🇵🇰‼️زبان بدن فیلد مارشال محسن رضایی در دیدار با فیلد مارشال عاصم منیر که در فضای مجازی وایرال شده است!"
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 39
+  "requests": 41
  },
- "flip": 1300,
- "quote_n": 572,
+ "flip": 1302,
+ "quote_n": 573,
  "signals": [
   {
    "t": 1792486267.4989355,
@@ -1696,6 +1702,16 @@
    "t": 1792571770.6934202,
    "s": 4,
    "p": 85
+  },
+  {
+   "t": 1792572674.2172213,
+   "s": 3,
+   "p": 30
+  },
+  {
+   "t": 1792572679.1532571,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
