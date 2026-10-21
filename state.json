@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108812
+   "last_id": 108814
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132373
+   "last_id": 132374
   },
   "TelNews_Magazine": {
    "last_id": 101658
   },
   "NE_WG": {
-   "last_id": 115230
+   "last_id": 115231
   }
  },
  "fails": {},
@@ -469,16 +469,6 @@
  },
  "recent": [
   {
-   "t": 1792588321.0,
-   "n": "پزشکیان دکتر لاریجانی به دنبال حل همه قضایا بود رهبری هم دستور داده بود داشتیم حل می کردیم آمریکایی ها نخواستند",
-   "fa": "⭕️پزشکیان: دکتر لاریجانی به دنبال حل همه قضایا بود؛ رهبری هم دستور داده بود، داشتیم حل می‌کردیم؛ آمریکایی‌ها نخواستند"
-  },
-  {
-   "t": 1792588398.0,
-   "n": "harakat hezbollah al nujaba s military deputy abdul qader al karbala i released a statement declaring their continued abstention from iraq s political process and their refusal to disarm their weaponry",
-   "fa": "🇮🇶⚡️ — بیانیه معاون نظامی حرکة حزب‌الله النجباء، عبدالقادر کربلایی، در اعلام تداوم خودداری از مشارکت در روند سیاسی عراق و امتناع از خلع سلاح."
-  },
-  {
    "t": 1792588689.0,
    "n": "iranian president masoud pezeshkian threats and sanctions must be practically lifted in action so that the ground for dialogue can be provided one cannot increase the intensity of sanctions and pressures every day close the paths of interaction and simultaneously speak of negotiation dialogue with the language of threats and pressure has no meaning",
    "fa": "🇮🇷🇺🇸⚡️ — مسعود پزشکیان، رئیس‌جمهور ایران: تهدیدها و تحریم‌ها باید در عمل به‌طور عملی برداشته شود تا زمینه برای گفت‌وگو فراهم گردد. نمی‌توان هر روز بر شدت تحریم‌ها و فشارها افزود، راه‌های تعامل را بست و هم‌زمان از مذاکره سخن گفت. گفت‌وگو با زبان تهدید و فشار هیچ معنایی ندارد."
@@ -767,25 +757,25 @@
    "t": 1792605240.0,
    "n": "elon musk s starlink speed cap has scrambled ukraine s defenses a slowdown in ukraine s military version of starlink ordered by musk is hurting kyiv s ability to stop russian attacks",
    "fa": "🔴 محدودیت سرعت استارلینک ایلان ماسک دفاع اوکراین را مختل کرد به گزارش وال‌استریت ژورنال کاهش سرعت نسخه نظامی استارلینک در اوکراین که به دستور ایلان ماسک انجام شده است، توانایی کی‌یف را در متوقف کردن حملات روسیه آسیب می‌زند."
+  },
+  {
+   "t": 1792605296.0,
+   "n": "iran s foreign minister abbas araghchi in a ft op ed iran is prepared to give diplomacy another chance if we see strong evidence of a sincere desire on the part of the us to achieve a just and honorable solution to permanently end this conflict president trump made mistaken assumptions about iran when entering this war repeating that error now will only result in an infinitely more painful outcome",
+   "fa": "🇮🇷🇺🇸⚡️ — وزیر امور خارجه ایران، عباس عراقچی، در یادداشتی در فایننشال تایمز: ایران آماده است اگر شواهد محکمی از تمایل صادقانه ایالات متحده برای دستیابی به یک راه حل عادلانه و شرافتمندانه جهت پایان دادن دائمی به این درگیری ببیند، به دیپلماسی فرصت دوباره‌ای بدهد. رئیس‌جمهور ترامپ هنگام ورود به این جنگ فرض‌های اشتباهی درباره ایران کرد. تکرار آن اشتباه اکنون تنها به نتیجه‌ای بی‌نهایت دردناک‌تر منجر خوا"
+  },
+  {
+   "t": 1792605447.0,
+   "n": "dozens of israeli air force fighter jets and refueling aircraft flew more than 1280 km 800 miles toward iran on monday passing through syrian and iraqi airspace before turning back near the iranian border according to axios citing israeli and u s officials israel notified washington beforehand describing the operation as a training exercise intended to demonstrate military capabilities and deter i",
+   "fa": "🔄 به‌روزرسانی 🇮🇱🇮🇷⚡️ — به گزارش اکسیوس به نقل از مقامات اسرائیلی و آمریکایی، ده‌ها فروند جنگنده و هواپیمای سوخت‌رسان نیروی هوایی اسرائیل روز دوشنبه بیش از ۱۲۸۰ کیلومتر (۸۰۰ مایل) به سمت ایران پرواز کردند و پیش از بازگشت در نزدیکی مرز ایران، از حریم هوایی سوریه و عراق عبور کردند. اسرائیل از پیش به واشنگتن اطلاع داده بود و این عملیات را به عنوان یک رزمایش نظامی با هدف نمایش توانمندی‌های نظامی و بازد"
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 144
+  "requests": 145
  },
  "flip": 1393,
- "quote_n": 604,
+ "quote_n": 605,
  "signals": [
-  {
-   "t": 1792518981.0708222,
-   "s": 2,
-   "p": 40
-  },
-  {
-   "t": 1792518984.4531362,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1792519304.5973368,
    "s": 4,
@@ -1685,6 +1675,16 @@
    "t": 1792605374.2376044,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1792605706.8828027,
+   "s": 2,
+   "p": 75
+  },
+  {
+   "t": 1792605711.3955452,
+   "s": 5,
+   "p": 85
   }
  ],
  "risk": {
