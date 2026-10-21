@@ -10,7 +10,7 @@
    "last_id": 132410
   },
   "TelNews_Magazine": {
-   "last_id": 101675
+   "last_id": 101676
   },
   "NE_WG": {
    "last_id": 115284
@@ -476,11 +476,6 @@
  },
  "recent": [
   {
-   "t": 1792605296.0,
-   "n": "iran s foreign minister abbas araghchi in a ft op ed iran is prepared to give diplomacy another chance if we see strong evidence of a sincere desire on the part of the us to achieve a just and honorable solution to permanently end this conflict president trump made mistaken assumptions about iran when entering this war repeating that error now will only result in an infinitely more painful outcome",
-   "fa": "🇮🇷🇺🇸⚡️ — وزیر امور خارجه ایران، عباس عراقچی، در یادداشتی در فایننشال تایمز: ایران آماده است اگر شواهد محکمی از تمایل صادقانه ایالات متحده برای دستیابی به یک راه حل عادلانه و شرافتمندانه جهت پایان دادن دائمی به این درگیری ببیند، به دیپلماسی فرصت دوباره‌ای بدهد. رئیس‌جمهور ترامپ هنگام ورود به این جنگ فرض‌های اشتباهی درباره ایران کرد. تکرار آن اشتباه اکنون تنها به نتیجه‌ای بی‌نهایت دردناک‌تر منجر خوا"
-  },
-  {
    "t": 1792605447.0,
    "n": "dozens of israeli air force fighter jets and refueling aircraft flew more than 1280 km 800 miles toward iran on monday passing through syrian and iraqi airspace before turning back near the iranian border according to axios citing israeli and u s officials israel notified washington beforehand describing the operation as a training exercise intended to demonstrate military capabilities and deter i",
    "fa": "🔄 به‌روزرسانی 🇮🇱🇮🇷⚡️ — به گزارش اکسیوس به نقل از مقامات اسرائیلی و آمریکایی، ده‌ها فروند جنگنده و هواپیمای سوخت‌رسان نیروی هوایی اسرائیل روز دوشنبه بیش از ۱۲۸۰ کیلومتر (۸۰۰ مایل) به سمت ایران پرواز کردند و پیش از بازگشت در نزدیکی مرز ایران، از حریم هوایی سوریه و عراق عبور کردند. اسرائیل از پیش به واشنگتن اطلاع داده بود و این عملیات را به عنوان یک رزمایش نظامی با هدف نمایش توانمندی‌های نظامی و بازد"
@@ -774,30 +769,20 @@
    "t": 1792616785.0,
    "n": "ادعای nbc سربازان و دیپلمات های آمریکایی در حال تخلیه پایگاه های آمریکا در خاورمیانه هستند",
    "fa": "🇺🇸🚨ادعای NBC: سربازان و دیپلمات‌های آمریکایی در حال تخلیه پایگاه‌های آمریکا در خاورمیانه هستند"
+  },
+  {
+   "t": 1792617223.0,
+   "n": "رسانه های عراقی هم از پرواز جنگنده های ناشناس در حریم هوایی این کشور خبر دادند هواپیماهای نظامی ناشناس در اربیل در شمال عراق در حال پرواز هستند",
+   "fa": "⭕️رسانه‌های عراقی هم از پرواز جنگنده‌های ناشناس در حریم هوایی این کشور خبر دادند هواپیماهای نظامی ناشناس در اربیل، در شمال عراق در حال پرواز هستند."
   }
  ],
  "usage": {
   "date": "2026-10-21",
-  "requests": 191
+  "requests": 192
  },
- "flip": 1425,
+ "flip": 1426,
  "quote_n": 630,
  "signals": [
-  {
-   "t": 1792530685.57694,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1792530695.9510827,
-   "s": 4,
-   "p": 70
-  },
-  {
-   "t": 1792530699.3815234,
-   "s": 5,
-   "p": 90
-  },
   {
    "t": 1792530978.489845,
    "s": 4,
@@ -1762,6 +1747,11 @@
    "t": 1792617075.0246875,
    "s": 5,
    "p": 90
+  },
+  {
+   "t": 1792617304.0537379,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
