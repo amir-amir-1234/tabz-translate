@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108849
+   "last_id": 108850
   },
   "khabarfouri": {
    "last_id": 569949
@@ -482,11 +482,6 @@
  },
  "recent": [
   {
-   "t": 1792611519.0,
-   "n": "ترامپ درباره جنگ اوکراین شاید حالا به توافق برای پایان دادن به جنگ پوتین علیه اوکراین نزدیک تر شده باشیم تا امروز هیچ وقت تا این اندازه به توافق نزدیک نبوده ایم",
-   "fa": "🇺🇸🇺🇦ترامپ درباره جنگ اوکراین: 🔴 «شاید حالا به توافق برای پایان دادن به جنگ پوتین علیه اوکراین نزدیک‌تر شده باشیم. 🔴 تا امروز، هیچ‌وقت تا این اندازه به توافق نزدیک نبوده‌ایم.»"
-  },
-  {
    "t": 1792611549.0,
    "n": "طبق اعلام خبرگزاری ها با شروع جنگ اینترنت کشور قطع میشه",
    "fa": "⭕️طبق اعلام خبرگزاری ها، با شروع جنگ اینترنت کشور قطع میشه"
@@ -780,14 +775,19 @@
    "t": 1792643408.0,
    "n": "president trump on iran we have a little conflict against iran we re doing very well militarily and financially against iran i think we re not negotiating something one way or the other will happen fairly soon most people seem to think it s after the election we re gonna see what happens but i will say this what we ve done with iran is amazing",
    "fa": "🇺🇸🇮🇷⚡️ — دونالد ترامپ درباره ایران: ما یک درگیری کوچک با ایران داریم. ما از نظر نظامی و مالی در برابر ایران بسیار خوب عمل می‌کنیم. من فکر می‌کنم ما مذاکره نمی‌کنیم. چیزی به هر طریقی به زودی رخ خواهد داد. بیشتر مردم به نظر می‌رسد فکر می‌کنند این اتفاق پس از انتخابات رخ خواهد داد، خواهیم دید چه می‌شود، اما من این را خواهم گفت: کاری که ما با ایران انجام داده‌ایم شگفت‌انگیز است."
+  },
+  {
+   "t": 1792643663.0,
+   "n": "new iran s irgc navy claims four vessels were struck simultaneously and set ablaze while transferring oil between ships in the north central persian gulf after using unauthorized routes the irgc also reported that three other vessels struck mines west of the strait of hormuz last night and caught fire they accused the u s of encouraging ships to cross mined waters and warned that continued activit",
+   "fa": "🇮🇷🇺🇸⚡️ — خبر جدید: نیروی دریایی سپاه پاسداران ایران ادعا کرد که چهار فروند کشتی هنگام انتقال نفت بین کشتی‌ها در شمال مرکزی خلیج فارس به دلیل استفاده از «مسیرهای غیرمجاز» به‌طور همزمان هدف قرار گرفته و طعمه حریق شده‌اند. سپاه همچنین گزارش داد که سه کشتی دیگر شب گذشته در غرب تنگه هرمز با مین برخورد کرده و دچار آتش‌سوزی شدند. آن‌ها ایالات متحده را به تشویق کشتی‌ها به تردد در آب‌های مین‌گذاری‌شده متهم"
   }
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 14
+  "requests": 15
  },
  "flip": 1442,
- "quote_n": 644,
+ "quote_n": 645,
  "signals": [
   {
    "t": 1792560682.890096,
@@ -1808,6 +1808,11 @@
    "t": 1792643493.3730102,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1792643774.0098524,
+   "s": 5,
+   "p": 90
   }
  ],
  "risk": {
