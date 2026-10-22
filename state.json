@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132460
+   "last_id": 132461
   },
   "TelNews_Magazine": {
    "last_id": 101709
   },
   "NE_WG": {
-   "last_id": 115347
+   "last_id": 115348
   }
  },
  "fails": {},
@@ -489,16 +489,6 @@
  },
  "recent": [
   {
-   "t": 1792639318.0,
-   "n": "the saudi backed plc government in a communique threatened to strike gatherings and mobilization of arab tribal communities in houthis ansarallah controlled territory warning civilians not to join them",
-   "fa": "🇾🇪🇾🇪⚡️ — دولت شورای رهبری ریاست‌جمهوری یمن تحت حمایت عربستان سعودی طی بیانیه‌ای تهدید کرد که تجمع‌ها و بسیج جوامع قبیله‌ای عرب در مناطق تحت کنترل انصارالله (حوثی‌ها) را هدف قرار خواهد داد و به غیرنظامیان هشدار داد که به آن‌ها ملحق نشوند."
-  },
-  {
-   "t": 1792643408.0,
-   "n": "president trump on iran we have a little conflict against iran we re doing very well militarily and financially against iran i think we re not negotiating something one way or the other will happen fairly soon most people seem to think it s after the election we re gonna see what happens but i will say this what we ve done with iran is amazing",
-   "fa": "🇺🇸🇮🇷⚡️ — دونالد ترامپ درباره ایران: ما یک درگیری کوچک با ایران داریم. ما از نظر نظامی و مالی در برابر ایران بسیار خوب عمل می‌کنیم. من فکر می‌کنم ما مذاکره نمی‌کنیم. چیزی به هر طریقی به زودی رخ خواهد داد. بیشتر مردم به نظر می‌رسد فکر می‌کنند این اتفاق پس از انتخابات رخ خواهد داد، خواهیم دید چه می‌شود، اما من این را خواهم گفت: کاری که ما با ایران انجام داده‌ایم شگفت‌انگیز است."
-  },
-  {
    "t": 1792643663.0,
    "n": "new iran s irgc navy claims four vessels were struck simultaneously and set ablaze while transferring oil between ships in the north central persian gulf after using unauthorized routes the irgc also reported that three other vessels struck mines west of the strait of hormuz last night and caught fire they accused the u s of encouraging ships to cross mined waters and warned that continued activit",
    "fa": "🇮🇷🇺🇸⚡️ — خبر جدید: نیروی دریایی سپاه پاسداران ایران ادعا کرد که چهار فروند کشتی هنگام انتقال نفت بین کشتی‌ها در شمال مرکزی خلیج فارس به دلیل استفاده از «مسیرهای غیرمجاز» به‌طور همزمان هدف قرار گرفته و طعمه حریق شده‌اند. سپاه همچنین گزارش داد که سه کشتی دیگر شب گذشته در غرب تنگه هرمز با مین برخورد کرده و دچار آتش‌سوزی شدند. آن‌ها ایالات متحده را به تشویق کشتی‌ها به تردد در آب‌های مین‌گذاری‌شده متهم"
@@ -787,20 +777,25 @@
    "t": 1792669078.0,
    "n": "تصاویری از خط تولید پهپادهای ارتش منتشر شد",
    "fa": "🇮🇷تصاویری از خط تولید پهپادهای ارتش منتشر شد"
+  },
+  {
+   "t": 1792670248.0,
+   "n": "۵ هواپیمای سوخت رسان در نزدیکی تنگه هرمز فعالیت می کنند",
+   "fa": "‼️۵ هواپیمای سوخت‌رسان در نزدیکی تنگه هرمز فعالیت می‌کنند."
+  },
+  {
+   "t": 1792670268.0,
+   "n": "دیده شدن جنگنده های اسرائیلی در نزدیکی مرز ایران و عراق این تمرینات حمله به ایران برای هفتمین روز متوالی در جریان است",
+   "fa": "🇮🇱🇮🇷🇮🇶دیده شدن جنگنده های اسرائیلی در نزدیکی مرز ایران و عراق 🔴این تمرینات حمله به ایران برای هفتمین روز متوالی در جریان است"
   }
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 78
+  "requests": 79
  },
- "flip": 1483,
+ "flip": 1485,
  "quote_n": 669,
  "signals": [
-  {
-   "t": 1792583771.77294,
-   "s": 4,
-   "p": 65
-  },
   {
    "t": 1792584376.072847,
    "s": 3,
@@ -1790,6 +1785,16 @@
    "t": 1792669286.425862,
    "s": 3,
    "p": 50
+  },
+  {
+   "t": 1792670577.4848714,
+   "s": 4,
+   "p": 65
+  },
+  {
+   "t": 1792670582.5436153,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
