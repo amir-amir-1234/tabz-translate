@@ -430,7 +430,8 @@
     "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
     "https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html",
     "https://www.nytimes.com/2026/10/21/world/middleeast/why-palestinians-hope-israelis-will-oust-netanyahu-in-pivotal-election.html",
-    "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html"
+    "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
+    "https://www.nytimes.com/2026/10/22/world/middleeast/archers-mount-their-steeds-in-pursuit-of-centuries-old-warrior-spirit.html"
    ]
   },
   "Treasury": {
@@ -783,7 +784,7 @@
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 12
+  "requests": 13
  },
  "flip": 1442,
  "quote_n": 644,
