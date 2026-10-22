@@ -10,10 +10,10 @@
    "last_id": 132523
   },
   "TelNews_Magazine": {
-   "last_id": 101763
+   "last_id": 101764
   },
   "NE_WG": {
-   "last_id": 115415
+   "last_id": 115416
   }
  },
  "fails": {},
@@ -502,11 +502,6 @@
  },
  "recent": [
   {
-   "t": 1792690409.0,
-   "n": "ونس از وابستگی آمریکا به دیگر کشورها برای تولید کالا و مواد غذایی خسته شده ام",
-   "fa": "‼️ونس: از وابستگی آمریکا به دیگر کشورها برای تولید کالا و مواد غذایی خسته شده‌ام!"
-  },
-  {
    "t": 1792690780.0,
    "n": "israeli national security minister itamar ben gvir told time that he wants prime minister benjamin netanyahu to remain in power after the october 27 elections but hopes to secure enough parliamentary seats to push the next government further to the right ben gvir is seeking the defense minister portfolio which netanyahu has so far resisted granting him he advocates full israeli control over gaza t",
    "fa": "🇮🇱🇵🇸⚡️ — ایتامار بن‌گویر، وزیر امنیت ملی اسرائیل به مجله تایم گفت که می‌خواهد بنیامین نتانیاهو پس از انتخابات ۲۷ اکتبر در قدرت باقی بماند، اما امیدوار است کرسی‌های پارلمانی کافی برای هل دادن دولت بعدی به سمت راست‌تر به دست آورد. بن‌گویر به دنبال تصدی پست وزارت دفاع است که نتانیاهو تا کنون در برابر واگذاری آن به او مقاومت کرده است. او از کنترل کامل اسرائیل بر غزه، ایجاد شهرک‌های اسرائیلی در آنجا و "
@@ -800,14 +795,19 @@
    "t": 1792705912.0,
    "n": "one indian civilian was killed and 100 more were injured including 10 in critical condition following the yearly banni festival taking place in the kurnool district andhra pradesh region of india which commemorates the victory of sri mala malleswara swamy an avatar of the hindu deity shiva against two demons during the festival the participants are tasked in a ritual to symbolically beat each othe",
    "fa": "🇮🇳 — در جریان جشنواره سالانه بنی در منطقه کورنول در ایالت آندرا پرادش هند، یک غیرنظامی کشته و ۱۰۰ نفر دیگر از جمله ۱۰ نفر با حال وخیم مجروح شدند. این مراسم به یادبود پیروزی مالیشوار سوامی، از خدایان هندو، برگزار می‌شود و شرکت‌کنندگان در آن به طور نمادین با چوب‌های بامبو یکدیگر را کتک می‌زنند."
+  },
+  {
+   "t": 1792706221.0,
+   "n": "تحلیلگر فاکس نیوز جنگ بعدی شبیه دو جنگ قبلی نیست جنگی بزرگ و بی سابقه رخ خواهد داد",
+   "fa": "⭕️تحلیلگر فاکس نیوز: جنگ بعدی شبیه دو جنگ قبلی نیست، جنگی بزرگ و بی سابقه رخ خواهد داد"
   }
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 224
+  "requests": 225
  },
- "flip": 1569,
- "quote_n": 708,
+ "flip": 1570,
+ "quote_n": 709,
  "signals": [
   {
    "t": 1792620093.866693,
@@ -1633,6 +1633,11 @@
    "t": 1792705293.283096,
    "s": 5,
    "p": 90
+  },
+  {
+   "t": 1792706499.8904886,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
