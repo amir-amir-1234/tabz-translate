@@ -1,16 +1,16 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108883
+   "last_id": 108884
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132493
+   "last_id": 132494
   },
   "TelNews_Magazine": {
-   "last_id": 101738
+   "last_id": 101739
   },
   "NE_WG": {
    "last_id": 115384
@@ -494,11 +494,6 @@
  },
  "recent": [
   {
-   "t": 1792669078.0,
-   "n": "تصاویری از خط تولید پهپادهای ارتش منتشر شد",
-   "fa": "🇮🇷تصاویری از خط تولید پهپادهای ارتش منتشر شد"
-  },
-  {
    "t": 1792670248.0,
    "n": "۵ هواپیمای سوخت رسان در نزدیکی تنگه هرمز فعالیت می کنند",
    "fa": "‼️۵ هواپیمای سوخت‌رسان در نزدیکی تنگه هرمز فعالیت می‌کنند."
@@ -792,20 +787,20 @@
    "t": 1792690409.0,
    "n": "ونس از وابستگی آمریکا به دیگر کشورها برای تولید کالا و مواد غذایی خسته شده ام",
    "fa": "‼️ونس: از وابستگی آمریکا به دیگر کشورها برای تولید کالا و مواد غذایی خسته شده‌ام!"
+  },
+  {
+   "t": 1792690780.0,
+   "n": "israeli national security minister itamar ben gvir told time that he wants prime minister benjamin netanyahu to remain in power after the october 27 elections but hopes to secure enough parliamentary seats to push the next government further to the right ben gvir is seeking the defense minister portfolio which netanyahu has so far resisted granting him he advocates full israeli control over gaza t",
+   "fa": "🇮🇱🇵🇸⚡️ — ایتامار بن‌گویر، وزیر امنیت ملی اسرائیل به مجله تایم گفت که می‌خواهد بنیامین نتانیاهو پس از انتخابات ۲۷ اکتبر در قدرت باقی بماند، اما امیدوار است کرسی‌های پارلمانی کافی برای هل دادن دولت بعدی به سمت راست‌تر به دست آورد. بن‌گویر به دنبال تصدی پست وزارت دفاع است که نتانیاهو تا کنون در برابر واگذاری آن به او مقاومت کرده است. او از کنترل کامل اسرائیل بر غزه، ایجاد شهرک‌های اسرائیلی در آنجا و "
   }
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 173
+  "requests": 174
  },
- "flip": 1526,
+ "flip": 1527,
  "quote_n": 689,
  "signals": [
-  {
-   "t": 1792604166.2863073,
-   "s": 4,
-   "p": 65
-  },
   {
    "t": 1792604484.014349,
    "s": 4,
@@ -1755,6 +1750,11 @@
    "t": 1792690593.3412871,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792690922.3931208,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
