@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108865
+   "last_id": 108867
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132465
+   "last_id": 132466
   },
   "TelNews_Magazine": {
-   "last_id": 101712
+   "last_id": 101713
   },
   "NE_WG": {
-   "last_id": 115352
+   "last_id": 115353
   }
  },
  "fails": {},
@@ -490,16 +490,6 @@
  },
  "recent": [
   {
-   "t": 1792651442.0,
-   "n": "نتانیاهو همه دشمنان اسرائیل می خواهند من در انتخابات به رهبری ایران حماس حزب الله اردوغان ممدانی و عباس شکست بخورم",
-   "fa": "🇮🇱🚫🇮🇷🇹🇷🇺🇸🏴〰️ نتانیاهو: همه دشمنان اسرائیل می خواهند من در انتخابات به رهبری ایران، حماس، حزب الله، اردوغان، ممدانی و عباس شکست بخورم."
-  },
-  {
-   "t": 1792651804.0,
-   "n": "قیمت نفت برنت دوباره از ۱۱۱ دلار عبور کرد",
-   "fa": "🔥💢قیمت نفت برنت دوباره از ۱۱۱ دلار عبور کرد"
-  },
-  {
    "t": 1792652318.0,
    "n": "saudi arabia s civil aviation authority says the death toll from wednesday s attack on king fahd international airport in dammam has risen to two a saudi citizen and an indian national eight others remain injured including saudi indian yemeni bangladeshi and nepalese nationals",
    "fa": "🔄 به‌روزرسانی 🇾🇪❌🇸🇦 — سازمان هواپیمایی کشوری عربستان سعودی اعلام کرد که تلفات حمله روز چهارشنبه به فرودگاه بین‌المللی ملک فهد در دمام به دو نفر، شامل یک شهروند سعودی و یک تبعه هند، افزایش یافته است. هشت نفر دیگر همچنان زخمی هستند، از جمله اتباع عربستان، هند، یمن، بنگلادش و نپال."
@@ -788,20 +778,25 @@
    "t": 1792674000.0,
    "n": "the trump administration is making homeownership more affordable proposed rules implement the road to housing act and support affordable homeownership in america washington today the u s department of the treasury issued proposed regulations to make homeownership more affordable for hardworking americans the proposed regulations implement section 1001 of the 21st century road to housing act road t",
    "fa": "⭕️ پیشنهاد مقررات جدید وزارت خزانه‌داری آمریکا برای محدود کردن سرمایه‌گذاران نهادی بزرگ در بازار مسکن به گزارش وزارت خزانه‌داری آمریکا، این وزارتخانه مقررات پیشنهادی خود را با هدف مقرون‌به‌صرفه‌تر کردن مالکیت خانه برای آمریکایی‌های زحمتکش صادر کرد. این مقررات پیشنهادی، بخش ۱۰۰۱ قانون راه به سوی مسکن قرن بیست و یکم را اجرا می‌کند که سرمایه‌گذاران نهادی بزرگ را از خرید خانه‌های تک‌خانواری محدود می‌س"
+  },
+  {
+   "t": 1792674074.0,
+   "n": "مکرون دولت فرانسه در روزهای آینده تجمعاتی را که توسط اتحادیه های صنفی سازماندهی نمی شوند ممنوع خواهد کرد",
+   "fa": "⭕️مکرون: دولت فرانسه در روزهای آینده تجمعاتی را که توسط اتحادیه‌های صنفی سازماندهی نمی‌شوند، ممنوع خواهد کرد"
+  },
+  {
+   "t": 1792674171.0,
+   "n": "russia is suspected of using fishing trawlers to spy on critical undersea communication cables linking britain with europe and the u s according to the telegraph analysis identified more than 500 suspicious movements involving 17 russian vessels including ships slowing down changing direction and following cable routes british officials fear the activity could help moscow identify potential target",
+   "fa": "🇬🇧🇷🇺🇪🇺⚡️ — به گزارش تلگراف، روسیه مظنون است که از کشتی‌های ماهیگیری برای جاسوسی از کابل‌های ارتباطی زیردریایی حیاتی که بریتانیا را به اروپا و ایالات متحده متصل می‌کنند، استفاده می‌کند. تحلیل‌ها بیش از ۵۰۰ حرکت مشکوک را شناسایی کردند که شامل ۱۷ کشتی روسی از جمله کشتی‌هایی می‌شود که سرعت خود را کم کرده، تغییر مسیر داده و مسیر کابل‌ها را دنبال کرده‌اند. مقامات بریتانیایی نگران هستند که این فعالیت‌ها "
   }
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 92
+  "requests": 93
  },
- "flip": 1492,
- "quote_n": 674,
+ "flip": 1494,
+ "quote_n": 675,
  "signals": [
-  {
-   "t": 1792587721.88337,
-   "s": 2,
-   "p": 60
-  },
   {
    "t": 1792588580.991504,
    "s": 2,
@@ -1791,6 +1786,11 @@
    "t": 1792674196.2524655,
    "s": 4,
    "p": 85
+  },
+  {
+   "t": 1792674395.7442446,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
