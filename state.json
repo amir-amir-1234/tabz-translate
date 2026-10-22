@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108887
+   "last_id": 108888
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,7 +10,7 @@
    "last_id": 132496
   },
   "TelNews_Magazine": {
-   "last_id": 101740
+   "last_id": 101742
   },
   "NE_WG": {
    "last_id": 115386
@@ -373,7 +373,8 @@
     "WP-WSJ-0003990449",
     "SB10553546939527494218504593522420608744856",
     "SB11676206231181634135104593524052691594108",
-    "SB11676206231181634135104593526124130671816"
+    "SB11676206231181634135104593526124130671816",
+    "WP-WSJ-0003999201"
    ]
   },
   "NYT": {
@@ -493,16 +494,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792672783.0,
-   "n": "شرکت آرامکو عربستان از کارکنان خود خواسته است تا دفتر مرکزی این شرکت در ظهران را تخلیه کنند",
-   "fa": "⭕️شرکت «آرامکو» عربستان از کارکنان خود خواسته است تا دفتر مرکزی این شرکت در ظهران را تخلیه کنند."
-  },
-  {
-   "t": 1792672923.0,
-   "n": "the houthis ansarallah announced the targeting of the saudi ministry of defense hq in the capital riyadh alongside the aramco yanbu facility and the king fahd and abha international airports",
-   "fa": "🇾🇪❌🇸🇦 — حوثی‌ها (انصارالله) از هدف قرار دادن مقر وزارت دفاع عربستان در پایتخت، ریاض، به همراه تأسیسات آرامکو در ینبع و فرودگاه‌های بین‌المللی ملک فهد و أبها خبر دادند."
-  },
   {
    "t": 1792673692.0,
    "n": "عباس آخوندی الان در وضعیت بی دولتی هستیم و علاوه بر سیاست خارجی در هیچ مسئله ای در ایران نمی شود تصمیم گیری کرد",
@@ -792,20 +783,25 @@
    "t": 1792691646.0,
    "n": "ukrainian president zelensky we re awaiting a response from marco rubio regarding the possibility of restoring starlink satellite connectivity at speeds of up to 400 km h",
    "fa": "🇺🇦🇺🇸⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: ما منتظر پاسخ مارکو روبیو درباره امکان بازگرداندن اتصال ماهواره‌ای استارلینک با سرعت‌های تا ۴۰۰ کیلومتر بر ساعت هستیم."
+  },
+  {
+   "t": 1792691699.0,
+   "n": "ukrainian president zelensky i have agreements with the europeans and those agreements remain in place the europeans can only transfer the missiles when the american side approves it",
+   "fa": "🇺🇦🇪🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: من توافقاتی با اروپایی‌ها دارم و آن توافقات سر جای خود باقی هستند. اروپایی‌ها تنها زمانی می‌توانند موشک‌ها را منتقل کنند که طرف آمریکایی آن را تایید کند."
+  },
+  {
+   "t": 1792691940.0,
+   "n": "trump called musk and asked him to lift ukraine starlink restrictions the military grade system appeared to be working more normally on thursday soon after the call",
+   "fa": "🔴 تماس ترامپ با ماسک برای لغو محدودیت‌های استارلینک در اوکراین به گزارش وال‌استریت ژورنال ترامپ با ماسک تماس گرفت و از او خواست تا محدودیت‌های استارلینک اوکراین را بردارد. این سیستم با درجه نظامی اندکی پس از این تماس در روز پنجشنبه به شکلی عادی‌تر به نظر می‌رسید که در حال کار است."
   }
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 176
+  "requests": 178
  },
- "flip": 1533,
- "quote_n": 691,
+ "flip": 1535,
+ "quote_n": 692,
  "signals": [
-  {
-   "t": 1792605374.2376044,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1792605706.8828027,
    "s": 2,
