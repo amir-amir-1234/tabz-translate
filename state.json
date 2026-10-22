@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108923
+   "last_id": 108924
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,7 +10,7 @@
    "last_id": 132519
   },
   "TelNews_Magazine": {
-   "last_id": 101758
+   "last_id": 101759
   },
   "NE_WG": {
    "last_id": 115411
@@ -377,7 +377,8 @@
     "WP-WSJ-0003999201",
     "WP-WSJ-0003999272",
     "SB10553546939527494218504593525593308987024",
-    "WP-WSJ-0003999755"
+    "WP-WSJ-0003999755",
+    "WP-WSJ-0003999646"
    ]
   },
   "NYT": {
@@ -499,16 +500,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792688183.0,
-   "n": "vice president jd vance on the diesel deal with russia i can assure you that they re not playing the president of the united states like a fiddle he s very realistic about this the question is are there ways to work with other countries even adversarial nations that can benefit the united states in the process and i think president trump recognizes that we could disagree with russia about 50 of is",
-   "fa": "🇺🇸🇷🇺⚡️ — جی‌دی ونس، معاون رئیس‌جمهور آمریکا درباره توافق دیزل با روسیه: من به شما اطمینان می‌دهم که آن‌ها رئیس‌جمهور ایالات متحده را بازیچه خود قرار نداده‌اند. او در این باره بسیار واقع‌بین است. مسئله این است که آیا راه‌هایی برای همکاری با سایر کشورها، حتی کشورهای متخاصم، وجود دارد که بتواند در این فرآیند به ایالات متحده سود برساند؟ و من فکر می‌کنم پرزیدنت ترامپ تشخیص می‌دهد که ما می‌توانیم در ۵۰ "
-  },
-  {
-   "t": 1792688290.0,
-   "n": "vice president jd vance on the ukraine war sometimes we find the ukrainians are being a little bit more intransigent sometimes we find the russians are being a little bit more intransigent but that s the job of diplomacy is to engage in these things and try to solve problems",
-   "fa": "🇺🇸🇺🇦🇷🇺⚡️ — جی‌دی ونس، معاون رئیس‌جمهور آمریکا درباره جنگ اوکراین: گاهی اوقات می‌بینیم که اوکراینی‌ها کمی سرسخت‌تر هستند. گاهی اوقات می‌بینیم که روس‌ها کمی سرسخت‌تر هستند. اما این کار دیپلماسی است که در این مسائل درگیر شود و برای حل مشکلات تلاش کند."
-  },
   {
    "t": 1792688461.0,
    "n": "u s treasury secretary scott bessent before tankers filled iran s main oil loading terminal after no crude tankers in sight kharg island is now nothing more than a monument to the one thing the iranian regime can still produce failure the regime s arrogance and belligerence continue to punish ordinary iranians operation economic outcast is cutting off the regime s oil lifeline denying it resources",
@@ -798,14 +789,24 @@
    "t": 1792704147.0,
    "n": "در طول ۲۴ ساعت گذشته ۱02 فروند هواپیمای نظامی در این منطقه شناسایی شده اند از این تعداد ۴ فروند هواپیمای باری بودند که از خارج وارد شده بودند که ۳ فروند آمریکایی و ۱ فروند ایتالیایی بودند همچنین ۷ فروند هواپیمای باری نظامی منطقه ای ۳۴ فروند هواپیمای سوخت رسان ۱۸ فروند هواپیمای جاسوسی ۳۲ فروند هواپیمای باری نظامی که در داخل منطقه تردد داشتند و ۷ فروند هلیکوپتر نظامی نیز مشاهده شده اند",
    "fa": "🇺🇸در طول ۲۴ ساعت گذشته، ۱02 فروند هواپیمای نظامی در این منطقه شناسایی شده‌اند. از این تعداد، ۴ فروند هواپیمای باری بودند که از خارج وارد شده بودند، که ۳ فروند آمریکایی و ۱ فروند ایتالیایی بودند. 💢همچنین، ۷ فروند هواپیمای باری نظامی منطقه‌ای، ۳۴ فروند هواپیمای سوخت‌رسان، ۱۸ فروند هواپیمای جاسوسی، ۳۲ فروند هواپیمای باری نظامی که در داخل منطقه تردد داشتند و ۷ فروند هلیکوپتر نظامی نیز مشاهده شده‌اند."
+  },
+  {
+   "t": 1792704284.0,
+   "n": "earlier today several russian military aircraft landed at the 6th tactical ab bushehr coastal southern iran likely transporting military supplies to iran",
+   "fa": "🇷🇺🇮🇷⚡️ — اوایل امروز، چندین فروند هواپیمای نظامی روسیه در پایگاه تاکتیکی ششم در بوشهر واقع در جنوب ایران به زمین نشستند. این پروازها احتمالاً حامل تجهیزات نظامی برای ایران هستند."
+  },
+  {
+   "t": 1792704420.0,
+   "n": "trump spoke to musk about ending ukraine s starlink speed caps plus the doj is reviewing allegations against a former homeland security adviser and meta s hunt to fund its ai build out spooked investors",
+   "fa": "🔴 گفتگوی ترامپ و ماسک درباره پایان دادن به محدودیت‌های سرعت استارلینک در اوکراین به گزارش وال‌استریت ژورنال، دونالد ترامپ با ایلان ماسک درباره پایان دادن به محدودیت‌های سرعت استارلینک در اوکراین گفتگو کرده است. همچنین وزارت دادگستری در حال بررسی اتهامات علیه یک مشاور سابق امنیت داخلی است و تلاش متا برای تأمین مالی توسعه هوش مصنوعی خود، سرمایه‌گذاران را نگران کرده است."
   }
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 216
+  "requests": 218
  },
- "flip": 1563,
- "quote_n": 704,
+ "flip": 1565,
+ "quote_n": 706,
  "signals": [
   {
    "t": 1792618282.5659065,
@@ -1631,6 +1632,11 @@
    "t": 1792704379.876764,
    "s": 4,
    "p": 80
+  },
+  {
+   "t": 1792704687.6797047,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
