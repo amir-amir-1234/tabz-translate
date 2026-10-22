@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108848
+   "last_id": 108849
   },
   "khabarfouri": {
    "last_id": 569949
@@ -482,11 +482,6 @@
  },
  "recent": [
   {
-   "t": 1792611403.0,
-   "n": "خبرگزاری فارس هم معتقده که جنگ حتمیه",
-   "fa": "‼️خبرگزاری فارس هم معتقده که جنگ حتمیه"
-  },
-  {
    "t": 1792611519.0,
    "n": "ترامپ درباره جنگ اوکراین شاید حالا به توافق برای پایان دادن به جنگ پوتین علیه اوکراین نزدیک تر شده باشیم تا امروز هیچ وقت تا این اندازه به توافق نزدیک نبوده ایم",
    "fa": "🇺🇸🇺🇦ترامپ درباره جنگ اوکراین: 🔴 «شاید حالا به توافق برای پایان دادن به جنگ پوتین علیه اوکراین نزدیک‌تر شده باشیم. 🔴 تا امروز، هیچ‌وقت تا این اندازه به توافق نزدیک نبوده‌ایم.»"
@@ -780,11 +775,16 @@
    "t": 1792639318.0,
    "n": "the saudi backed plc government in a communique threatened to strike gatherings and mobilization of arab tribal communities in houthis ansarallah controlled territory warning civilians not to join them",
    "fa": "🇾🇪🇾🇪⚡️ — دولت شورای رهبری ریاست‌جمهوری یمن تحت حمایت عربستان سعودی طی بیانیه‌ای تهدید کرد که تجمع‌ها و بسیج جوامع قبیله‌ای عرب در مناطق تحت کنترل انصارالله (حوثی‌ها) را هدف قرار خواهد داد و به غیرنظامیان هشدار داد که به آن‌ها ملحق نشوند."
+  },
+  {
+   "t": 1792643408.0,
+   "n": "president trump on iran we have a little conflict against iran we re doing very well militarily and financially against iran i think we re not negotiating something one way or the other will happen fairly soon most people seem to think it s after the election we re gonna see what happens but i will say this what we ve done with iran is amazing",
+   "fa": "🇺🇸🇮🇷⚡️ — دونالد ترامپ درباره ایران: ما یک درگیری کوچک با ایران داریم. ما از نظر نظامی و مالی در برابر ایران بسیار خوب عمل می‌کنیم. من فکر می‌کنم ما مذاکره نمی‌کنیم. چیزی به هر طریقی به زودی رخ خواهد داد. بیشتر مردم به نظر می‌رسد فکر می‌کنند این اتفاق پس از انتخابات رخ خواهد داد، خواهیم دید چه می‌شود، اما من این را خواهم گفت: کاری که ما با ایران انجام داده‌ایم شگفت‌انگیز است."
   }
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 13
+  "requests": 14
  },
  "flip": 1442,
  "quote_n": 644,
@@ -1803,12 +1803,25 @@
    "t": 1792639570.9325829,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792643493.3730102,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
-  "base": 100,
-  "ts": 1792636279.435555,
-  "attack": true
+  "base": 63,
+  "ts": 1792643496.3751612,
+  "attack": false,
+  "n": 204,
+  "shares": {
+   "1": 0,
+   "2": 9,
+   "3": 15,
+   "4": 51,
+   "5": 25
+  }
  },
  "attack_ts": 1792621885.6040704,
  "attack_cand": [
