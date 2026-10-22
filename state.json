@@ -7,7 +7,7 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132439
+   "last_id": 132440
   },
   "TelNews_Magazine": {
    "last_id": 101696
@@ -16,7 +16,9 @@
    "last_id": 115322
   }
  },
- "fails": {},
+ "fails": {
+  "tabzlive/108852": 1
+ },
  "web": {
   "Fox News": {
    "seen": [
@@ -786,16 +788,11 @@
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 42
+  "requests": 46
  },
  "flip": 1458,
  "quote_n": 654,
  "signals": [
-  {
-   "t": 1792570575.7559032,
-   "s": 4,
-   "p": 40
-  },
   {
    "t": 1792571170.9102502,
    "s": 4,
