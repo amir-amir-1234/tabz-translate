@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108881
+   "last_id": 108883
   },
   "khabarfouri": {
    "last_id": 569949
@@ -493,11 +493,6 @@
  },
  "recent": [
   {
-   "t": 1792667321.0,
-   "n": "5 فروند هواپیمای نظامی متعلق به آمریکا و بریتانیا به سمت خاورمیانه در حرکت هستند",
-   "fa": "🇬🇧🇺🇸 5 فروند هواپیمای نظامی متعلق به آمریکا و بریتانیا به سمت خاورمیانه در حرکت هستند‼️"
-  },
-  {
    "t": 1792667402.0,
    "n": "وال استریت ژورنال روزانه 23 میلیون بشکه نفت خام از تنگه هرمز عبور می کند",
    "fa": "🇺🇸🇮🇷 وال استریت ژورنال: روزانه 23 میلیون بشکه نفت خام از تنگه هرمز عبور می‌کند‼️"
@@ -791,11 +786,16 @@
    "t": 1792688290.0,
    "n": "vice president jd vance on the ukraine war sometimes we find the ukrainians are being a little bit more intransigent sometimes we find the russians are being a little bit more intransigent but that s the job of diplomacy is to engage in these things and try to solve problems",
    "fa": "🇺🇸🇺🇦🇷🇺⚡️ — جی‌دی ونس، معاون رئیس‌جمهور آمریکا درباره جنگ اوکراین: گاهی اوقات می‌بینیم که اوکراینی‌ها کمی سرسخت‌تر هستند. گاهی اوقات می‌بینیم که روس‌ها کمی سرسخت‌تر هستند. اما این کار دیپلماسی است که در این مسائل درگیر شود و برای حل مشکلات تلاش کند."
+  },
+  {
+   "t": 1792688461.0,
+   "n": "u s treasury secretary scott bessent before tankers filled iran s main oil loading terminal after no crude tankers in sight kharg island is now nothing more than a monument to the one thing the iranian regime can still produce failure the regime s arrogance and belligerence continue to punish ordinary iranians operation economic outcast is cutting off the regime s oil lifeline denying it resources",
+   "fa": "🔄 به‌روزرسانی 🇺🇸🇮🇷⚡️ — اسکات بسنت، وزیر خزانه‌داری آمریکا: پیش از این: نفتکش‌ها پایانه اصلی بارگیری نفت ایران را پر می‌کردند. اکنون: هیچ نفتکش حامل نفت خامی دیده نمی‌شود. جزیره خارک اکنون چیزی بیش از بنای یادبودی برای تنها چیزی نیست که رژیم ایران هنوز می‌تواند تولید کند: شکست. تکبر و ستیزه‌جویی رژیم همچنان مردم عادی ایران را مجازات می‌کند. «عملیات طرد اقتصادی» در حال قطع کردن شریان حیاتی نفت رژیم "
   }
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 153
+  "requests": 157
  },
  "flip": 1521,
  "quote_n": 687,
@@ -1759,6 +1759,11 @@
    "t": 1792688526.9946122,
    "s": 2,
    "p": 50
+  },
+  {
+   "t": 1792688887.546262,
+   "s": 4,
+   "p": 80
   }
  ],
  "risk": {
