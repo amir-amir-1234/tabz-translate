@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108867
+   "last_id": 108868
   },
   "khabarfouri": {
    "last_id": 569949
@@ -492,11 +492,6 @@
  },
  "recent": [
   {
-   "t": 1792655221.0,
-   "n": "وال استریت ژورنال پیشنهاد آزادسازی دارایی های ایران در برابر امتیاز هسته ای روی میز است",
-   "fa": "⭕️وال‌استریت‌ژورنال: پیشنهاد آزادسازی دارایی‌های ایران در برابر امتیاز هسته‌ای روی میز است"
-  },
-  {
    "t": 1792655460.0,
    "n": "energy security concerns spur u k to preserve gas pipelines to europe the pipelines are only used occasionally but give the u k greater flexibility to tap gas from other sources in times of high demand such as severe winters",
    "fa": "🔴 بریتانیا برای تامین امنیت انرژی خطوط لوله گاز به اروپا را حفظ می‌کند به گزارش وال‌استریت ژورنال نگرانی‌های مربوط به امنیت انرژی بریتانیا را بر آن داشته است تا خطوط لوله گاز به اروپا را حفظ کند. این خطوط لوله تنها گاهگاهی مورد استفاده قرار می‌گیرند، اما به بریتانیا انعطاف‌پذیری بیشتری می‌دهند تا در زمان‌های تقاضای بالا، مانند زمستان‌های سخت، بتواند از منابع دیگر گاز برداشت کند."
@@ -790,30 +785,20 @@
    "t": 1792678381.0,
    "n": "اسرائیل هیوم واشنگتن زمان حملات بعدی به ایران را تعیین خواهد کرد",
    "fa": "⭕️اسرائیل هیوم : واشنگتن زمان حملات بعدی به ایران را تعیین خواهد کرد"
+  },
+  {
+   "t": 1792678763.0,
+   "n": "major u s banks including jpmorgan bank of america citi and morgan stanley are restricting third party ai agents after detecting unauthorized access to customer accounts and cases where agents appeared to act beyond user instructions axios reports banks fear agents could make unauthorized purchases transfer funds or take other actions affecting customers finances banks acknowledge customers will i",
+   "fa": "🇺🇸⚡️ — به گزارش آکسیوس، بانک‌های بزرگ آمریکایی از جمله جی‌پ مورگان، بنک آو آمریکا، سیتی و مورگان استنلی پس از کشف دسترسی غیرمجاز به حساب‌های مشتریان و مواردی که در آن عوامل هوش مصنوعی فراتر از دستورالعمل کاربران عمل کرده‌اند، محدودیت‌هایی را برای عوامل هوش مصنوعی شخص ثالث اعمال می‌کنند. بانک‌ها نگرانند که عوامل هوش مصنوعی بتوانند خریدهای غیرمجاز انجام دهند، وجوه منتقل کنند یا اقدامات دیگری را که ب"
   }
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 114
+  "requests": 116
  },
- "flip": 1501,
+ "flip": 1502,
  "quote_n": 677,
  "signals": [
-  {
-   "t": 1792592210.2986913,
-   "s": 5,
-   "p": 90
-  },
-  {
-   "t": 1792592215.3569715,
-   "s": 5,
-   "p": 95
-  },
-  {
-   "t": 1792592220.1225867,
-   "s": 5,
-   "p": 90
-  },
   {
    "t": 1792592503.2719502,
    "s": 2,
