@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108888
+   "last_id": 108899
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132497
+   "last_id": 132498
   },
   "TelNews_Magazine": {
-   "last_id": 101742
+   "last_id": 101744
   },
   "NE_WG": {
-   "last_id": 115387
+   "last_id": 115388
   }
  },
  "fails": {},
@@ -495,16 +495,6 @@
  },
  "recent": [
   {
-   "t": 1792673692.0,
-   "n": "عباس آخوندی الان در وضعیت بی دولتی هستیم و علاوه بر سیاست خارجی در هیچ مسئله ای در ایران نمی شود تصمیم گیری کرد",
-   "fa": "‼️عباس آخوندی: الان در وضعیت بی‌دولتی هستیم و علاوه بر سیاست خارجی در هیچ مسئله‌ای در ایران نمی‌شود تصمیم‌گیری کرد"
-  },
-  {
-   "t": 1792673676.0,
-   "n": "ادعای نیویورک تایمز ترامپ احتمالا برای حملات جدید تا پس از انتخابات در آمریکا صبر می کند",
-   "fa": "🇺🇸🇮🇷 ادعای نیویورک‌تایمز: ترامپ احتمالاً برای حملات جدید، تا پس از انتخابات در آمریکا صبر می‌کند."
-  },
-  {
    "t": 1792673914.0,
    "n": "saudi aramco has ordered staff to evacuate its headquarters in dhahran and work remotely six people familiar with the matter told reuters the move came a day after the houthi ansarallah attack on king fahd international airport that killed two people and marks the first time aramco has evacuated its headquarters since the iran war began",
    "fa": "🔄 به‌روزرسانی 🇸🇦🇾🇪⚡️ — شرکت آرامکو عربستان به کارکنان خود دستور داده است تا دفتر مرکزی خود در ظهران را تخلیه کرده و دورکار شوند؛ این موضوع را شش فرد مطلع به رویترز گفتند. این اقدام یک روز پس از حمله حوثی‌ها (انصارالله) به فرودگاه بین‌المللی ملک فهد که دو کشته بر جای گذاشت، صورت گرفت و نشان‌دهنده نخستین بار است که آرامکو از زمان آغاز جنگ با ایران مقر خود را تخلیه می‌کند."
@@ -793,20 +783,25 @@
    "t": 1792691940.0,
    "n": "trump called musk and asked him to lift ukraine starlink restrictions the military grade system appeared to be working more normally on thursday soon after the call",
    "fa": "🔴 تماس ترامپ با ماسک برای لغو محدودیت‌های استارلینک در اوکراین به گزارش وال‌استریت ژورنال ترامپ با ماسک تماس گرفت و از او خواست تا محدودیت‌های استارلینک اوکراین را بردارد. این سیستم با درجه نظامی اندکی پس از این تماس در روز پنجشنبه به شکلی عادی‌تر به نظر می‌رسید که در حال کار است."
+  },
+  {
+   "t": 1792692349.0,
+   "n": "interesting meidastouch and valor media network have published previously unseen footage and firsthand accounts from u s service members contractors and military families describing extensive damage to american bases across saudi arabia jordan kuwait the uae and bahrain during the war with iran at prince sultan air base in saudi arabia images show destroyed dining facilities damaged living quarter",
+   "fa": "🇮🇷❌🇺🇸 — جالب توجه: رسانه‌های میداس‌تاچ و والور مدیا نتورک تصاویر دیده نشده و روایت‌های دست اولی از نظامیان، پیمانکاران و خانواده‌های نظامیان آمریکایی منتشر کرده‌اند که از خسارت‌های گسترده به پایگاه‌های آمریکا در عربستان سعودی، اردن، کویت، امارات و بحرین در جریان جنگ با ایران خبر می‌دهد. در پایگاه هوایی شاهزاده سلطان در عربستان سعودی، تصاویر امکانات غذاخوری تخریب‌شده، مح آرشیو آسیب‌دیده، هواپیماهای"
+  },
+  {
+   "t": 1792692414.0,
+   "n": "بریتانیا از ساعاتی پیش فعالیت 4 بانک ایرانی موجود در این کشور را متوقف کرد و معافیت های صادر شده برای آنها را لغو کرد",
+   "fa": "⭕️بریتانیا از ساعاتی پیش فعالیت 4 بانک ایرانی موجود در این کشور را متوقف کرد و معافیت های صادر شده برای آنها را لغو کرد."
   }
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 179
+  "requests": 180
  },
  "flip": 1535,
- "quote_n": 692,
+ "quote_n": 693,
  "signals": [
-  {
-   "t": 1792605973.8722448,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1792606319.744887,
    "s": 4,
@@ -1756,6 +1751,16 @@
    "t": 1792691793.9392908,
    "s": 3,
    "p": 50
+  },
+  {
+   "t": 1792692692.3941493,
+   "s": 5,
+   "p": 90
+  },
+  {
+   "t": 1792692696.1890247,
+   "s": 4,
+   "p": 85
   }
  ],
  "risk": {
