@@ -7,17 +7,17 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132524
+   "last_id": 132525
   },
   "TelNews_Magazine": {
    "last_id": 101764
   },
   "NE_WG": {
-   "last_id": 115418
+   "last_id": 115420
   }
  },
  "fails": {
-  "tabzlive/108929": 1
+  "tabzlive/108929": 2
  },
  "web": {
   "Fox News": {
@@ -806,7 +806,7 @@
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 228
+  "requests": 231
  },
  "flip": 1570,
  "quote_n": 710,
