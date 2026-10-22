@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132449
+   "last_id": 132450
   },
   "TelNews_Magazine": {
-   "last_id": 101703
+   "last_id": 101704
   },
   "NE_WG": {
-   "last_id": 115336
+   "last_id": 115337
   }
  },
  "fails": {},
@@ -107,7 +107,8 @@
     "https://www.foxnews.com/world/stephen-hubbard-russia-american-prisoner-release",
     "https://www.foxnews.com/world/ukraines-zelenskyy-open-freezing-front-lines-ceasefire-russia",
     "https://www.foxnews.com/world/bibas-family-relative-takes-fight-icc-after-mother-two-young-boys-murdered-hamas",
-    "https://www.foxnews.com/world/pope-leo-xiv-needs-no-further-cancer-treatment-after-lung-tumor-removed-doctors-say"
+    "https://www.foxnews.com/world/pope-leo-xiv-needs-no-further-cancer-treatment-after-lung-tumor-removed-doctors-say",
+    "https://www.foxnews.com/world/macron-has-one-more-chance-save-country-its-lost-france-business-owner-warns"
    ]
   },
   "WSJ": {
@@ -367,7 +368,8 @@
     "WP-WSJ-0003996924",
     "WP-WSJ-0003997275",
     "WP-WSJ-0003997679",
-    "WP-WSJ-0003997707"
+    "WP-WSJ-0003997707",
+    "WP-WSJ-0003990449"
    ]
   },
   "NYT": {
@@ -485,21 +487,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792623819.0,
-   "n": "فعالیت های جنگنده های ارتش بر فراز تهران",
-   "fa": "🚨 〰️🇮🇷🇺🇸 فعالیت های جنگنده های ارتش بر فراز تهران"
-  },
-  {
-   "t": 1792623847.0,
-   "n": "رسانه های اسرائیلی از تحرکات بزرگ در پایگاه آمریکایی در اردن خبر می دهند",
-   "fa": "🇯🇴🇮🇱🇺🇸رسانه های اسرائیلی از تحرکات بزرگ در پایگاه آمریکایی در اردن خبر می دهند."
-  },
-  {
-   "t": 1792624607.0,
-   "n": "new the u s and israel have developed detailed plans for renewed strikes against iran following the november 3 midterm elections according to nyt the proposed operation could involve an intensive three day campaign targeting iran s nuclear facilities missile and drone arsenal and potentially energy infrastructure potential targets include iran s deeply buried pickaxe mountain nuclear facility some",
-   "fa": "🇺🇸🇮🇱🇮🇷⚡️ — نیویورک تایمز: ایالات متحده و اسرائیل طرح‌های تفصیلی برای حملات مجدد علیه ایران پس از انتخابات میان‌دوره‌ای ۳ نوامبر تدوین کرده‌اند. عملیات پیشنهادی می‌تواند شامل یک کمپین فشرده سه روزه با هدف قرار دادن تأسیسات هسته‌ای، زرادخانه موشک و پهپاد و به‌طور بالقوه زیرساخت‌های انرژی ایران باشد. اهداف احتمالی شامل تأسیسات هسته‌ای عمیقاً مدفون شده کوه کلنگ (پیک‌اکس ماونتین) ایران است. برخی مقام‌ه"
-  },
   {
    "t": 1792624807.0,
    "n": "ukmto announces receiving a time late report of an oil tanker 30 nautical miles southeast of al faw iraq being struck by a projectile no injuries damage or environmental impact",
@@ -784,30 +771,30 @@
    "t": 1792663741.0,
    "n": "آناتولی یک منبع سپاه پاسداران گزارش داد که این نیرو در تدارک رونمایی از یک جنگ افزار جدید با عنوان مادر تمام بمب ها است",
    "fa": "⭕️آناتولی: یک منبع سپاه پاسداران گزارش داد که این نیرو در تدارک رونمایی از یک جنگ‌افزار جدید با عنوان «مادر تمام بمب‌ها» است."
+  },
+  {
+   "t": 1792664340.0,
+   "n": "the subterranean battle playing out deep in ukraine s soviet era pipelines with drones dominating the sky ukraine and russia are going head to head underground as soldiers from both sides crawl through miles of gas pipelines to get behind enemy lines",
+   "fa": "⭕️ نبرد زیرزمینی میان روسیه و اوکراین در لوله‌های گاز دوران شوروی سابق به گزارش وال‌استریت ژورنال در شرایطی که پهپادها آسمان را در تسلط خود دارند، اوکراین و روسیه در زیر زمین به نبرد تن‌به‌تن روی آورده‌اند و سربازان هر دو طرف با خزیدن در میان مایل‌ها لوله گاز تلاش می‌کنند تا به پشت خطوط دشمن نفوذ کنند."
+  },
+  {
+   "t": 1792664481.0,
+   "n": "نتانیاهو از تلاش گسترده برای جابه جایی فلسطینی ها از غزه خبر داد نتانیاهو گفت با کشورهای ثالث برای فراهم کردن زمینه ی انتقال فلسطینی ها از غزه به شدت در حال همکاریه او در این باره گفت مشکل کشورهایی هستن که حاضر باشن اون ها رو بپذیرن روی این موضوع هم داریم کار می کنیم خودم به شدت پیگیرشم و قدم های اولیه هم برداشته شده نمی خوام وارد جزئیات بشم",
+   "fa": "🇮🇱🇵🇸 نتانیاهو از تلاش گسترده برای جابه‌جایی فلسطینی‌ها از غزه خبر داد. ‼️نتانیاهو گفت با کشورهای ثالث، برای فراهم کردن زمینه‌ی انتقال فلسطینی‌ها از غزه، به‌شدت در حال همکاریه 💢او در این‌باره گفت: مشکل، کشورهایی هستن که حاضر باشن اون‌ها رو بپذیرن. روی این موضوع هم داریم کار می‌کنیم. خودم به‌شدت پیگیرشم و قدم‌های اولیه هم برداشته شده. نمی‌خوام وارد جزئیات بشم."
+  },
+  {
+   "t": 1792664512.0,
+   "n": "ایلان ماسک پول در آینده اهمیتی نخواهد داشت فکر نمی کنم حتی آنهایی که به عنوان افراد ثروتمند شناخته می شوند در نهایت کنترل هوش مصنوعی ها را در دست بگیرند به نظر من این هوش مصنوعی ها خودشان کنترل خواهند شد",
+   "fa": "‼️ایلان ماسک: پول در آینده اهمیتی نخواهد داشت فکر نمی‌کنم حتی آنهایی که به عنوان افراد ثروتمند شناخته می‌شوند، در نهایت کنترل هوش مصنوعی‌ها را در دست بگیرند. به نظر من، این هوش مصنوعی‌ها خودشان کنترل خواهند شد."
   }
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 63
+  "requests": 65
  },
- "flip": 1471,
- "quote_n": 663,
+ "flip": 1474,
+ "quote_n": 664,
  "signals": [
-  {
-   "t": 1792578073.2600956,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1792578076.8962595,
-   "s": 3,
-   "p": 40
-  },
-  {
-   "t": 1792578080.3247058,
-   "s": 3,
-   "p": 60
-  },
   {
    "t": 1792579297.0817437,
    "s": 3,
@@ -1812,6 +1799,11 @@
    "t": 1792663882.981976,
    "s": 4,
    "p": 70
+  },
+  {
+   "t": 1792664778.442521,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
