@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108847
+   "last_id": 108848
   },
   "khabarfouri": {
    "last_id": 569949
@@ -481,11 +481,6 @@
  },
  "recent": [
   {
-   "t": 1792611210.0,
-   "n": "دو انفجار در نزدیکی سیریک",
-   "fa": "🚨🚨دو انفجار در نزدیکی سیریک"
-  },
-  {
    "t": 1792611403.0,
    "n": "خبرگزاری فارس هم معتقده که جنگ حتمیه",
    "fa": "‼️خبرگزاری فارس هم معتقده که جنگ حتمیه"
@@ -779,11 +774,16 @@
    "t": 1792638180.0,
    "n": "oil rises as geopolitics back in focus after ai jitters ease oil rose and asian equities were lower as the spotlight returned to middle east geopolitical developments after artificial intelligence jitters eased",
    "fa": "⭕️ افزایش قیمت نفت و کاهش سهام آسیایی با بازگشت توجهات به تنش‌های خاورمیانه به گزارش وال‌استریت ژورنال پس از فروکش کردن نگرانی‌ها درباره هوش مصنوعی، به دنبال بازگشت تمرکزها بر تحولات ژئوپلیتیک خاورمیانه، قیمت نفت افزایش یافت و سهام آسیایی کاهش پیدا کرد."
+  },
+  {
+   "t": 1792639318.0,
+   "n": "the saudi backed plc government in a communique threatened to strike gatherings and mobilization of arab tribal communities in houthis ansarallah controlled territory warning civilians not to join them",
+   "fa": "🇾🇪🇾🇪⚡️ — دولت شورای رهبری ریاست‌جمهوری یمن تحت حمایت عربستان سعودی طی بیانیه‌ای تهدید کرد که تجمع‌ها و بسیج جوامع قبیله‌ای عرب در مناطق تحت کنترل انصارالله (حوثی‌ها) را هدف قرار خواهد داد و به غیرنظامیان هشدار داد که به آن‌ها ملحق نشوند."
   }
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 11
+  "requests": 12
  },
  "flip": 1442,
  "quote_n": 644,
@@ -1797,6 +1797,11 @@
    "t": 1792638370.2490473,
    "s": 3,
    "p": 50
+  },
+  {
+   "t": 1792639570.9325829,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
