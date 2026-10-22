@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108922
+   "last_id": 108923
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,7 +10,7 @@
    "last_id": 132517
   },
   "TelNews_Magazine": {
-   "last_id": 101755
+   "last_id": 101757
   },
   "NE_WG": {
    "last_id": 115409
@@ -471,7 +471,8 @@
     "https://home.treasury.gov/news/press-releases/sb0663/",
     "https://home.treasury.gov/news/press-releases/sb0664/",
     "https://home.treasury.gov/news/press-releases/sb0665/",
-    "https://home.treasury.gov/news/press-releases/sb0666/"
+    "https://home.treasury.gov/news/press-releases/sb0666/",
+    "https://home.treasury.gov/news/press-releases/sb0667/"
    ]
   },
   "OFAC": {
@@ -497,21 +498,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792686302.0,
-   "n": "نتانیاهو گزارش هایی مبنی بر اینکه ترامپ اخیرا مانع از انجام حمله من به رژیم ایران شده است مغرضانه و نادرست هستند",
-   "fa": "🇮🇱 نتانیاهو: گزارش‌هایی مبنی بر اینکه ترامپ اخیراً مانع از انجام حمله من به رژیم ایران شده است، مغرضانه و نادرست هستند!"
-  },
-  {
-   "t": 1792686830.0,
-   "n": "بازار سهام وال استریت آمریکا در دقایق اخیر بیش از 1 تریلیون دلار سقوط کرده است",
-   "fa": "⭕️بازار سهام وال استریت آمریکا در دقایق اخیر بیش از 1 تریلیون دلار سقوط کرده است."
-  },
-  {
-   "t": 1792687125.0,
-   "n": "france s macron blames protests on ultra left groups whose aim is to bring down the republic french president emmanuel macron vowed thursday to ban protests by individuals or groups with no legitimate authority as he blamed ultra left groups for riots and looting that spread across his country macron made the remarks as thousands of protesters took to the streets of paris on thursday according to ",
-   "fa": "🔴 مکرون گروه‌های چپ افراطی را مقصر ناآرامی‌ها دانست و بر ممنوعیت تجمعات غیرقانونی تأکید کرد به گزارش فاکس نیوز امانوئل مکرون رئیس‌جمهور فرانسه روز پنج‌شنبه متعهد شد که تجمعات برگزارکنندگان یا گروه‌های فاقد صلاحیت قانونی را ممنوع کند و در عین حال، گروه‌های چپ افراطی را مقصر شورش‌ها و غارت‌هایی دانست که در سراسر این کشور گسترش یافته است. به گزارش آسوشیتدپرس این اظهارات مکرون در حالی مطرح شد که هزارا"
-  },
   {
    "t": 1792687322.0,
    "n": "نیویورک تایمز آمریکا و اسرائیل برای حمله احتمالی به ایران پس از انتخابات طرح هایی آماده کرده اند",
@@ -796,30 +782,30 @@
    "t": 1792701434.0,
    "n": "ترامپ از سوال انتخاب ونس برای دوره ریاست جمهوری بعدی طفره رفت زود است که بخواهیم درباره آن فکر کنیم",
    "fa": "‼️ترامپ از سوال انتخاب ونس برای دوره ریاست جمهوری بعدی طفره رفت: زود است که بخواهیم درباره آن فکر کنیم"
+  },
+  {
+   "t": 1792702615.0,
+   "n": "president trump on iran many great patriots really love the iran war",
+   "fa": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره ایران: بسیاری از میهن‌پرستان بزرگ واقعاً جنگ با ایران را دوست دارند."
+  },
+  {
+   "t": 1792702800.0,
+   "n": "treasury issues proposed rule to implement comprehensive outbound investment national security act washington the u s department of the treasury treasury today issued a notice of proposed rulemaking nprm to propose updates to the outbound investment security program oisp based on direction from congress in the comprehensive outbound investment security coins act passed as part of the fiscal year 2",
+   "fa": "🚨 وزارت خزانه‌داری آمریکا پیش‌نویس قانون سرمایه‌گذاری خارجی را صادر کرد به گزارش وزارت خزانه‌داری آمریکا، این وزارتخانه امروز اخطاریه پیشنهاد قانون‌گذاری صادر کرد تا به‌روزرسانی‌های برنامه امنیت سرمایه‌گذاری خارجی را بر اساس دستورالعمل کنگره در قانون امنیت سرمایه‌گذاری خارجی جامع، که به عنوان بخشی از قانون اجازه دفاع ملی سال مالی ۲۰۲۶ تصویب شده است، پیشنهاد کند. قانون امنیت سرمایه‌گذاری خارجی جامع"
+  },
+  {
+   "t": 1792702819.0,
+   "n": "ریک اسکات سناتور ارشد جمهوری خواه متاسفانه ما مجبور خواهیم بود به جنگیدن با ایران ادامه دهیم مدتی طول خواهد کشید",
+   "fa": "⭕️ ریک اسکات، سناتور ارشد جمهوری خواه: متاسفانه، ما مجبور خواهیم بود به جنگیدن با ایران ادامه دهیم، مدتی طول خواهد کشید"
   }
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 210
+  "requests": 212
  },
- "flip": 1558,
- "quote_n": 701,
+ "flip": 1560,
+ "quote_n": 702,
  "signals": [
-  {
-   "t": 1792616163.9026017,
-   "s": 5,
-   "p": 85
-  },
-  {
-   "t": 1792616167.303269,
-   "s": 5,
-   "p": 90
-  },
-  {
-   "t": 1792616171.3188255,
-   "s": 4,
-   "p": 65
-  },
   {
    "t": 1792616492.3675573,
    "s": 4,
@@ -1644,6 +1630,21 @@
    "t": 1792701392.0100567,
    "s": 4,
    "p": 85
+  },
+  {
+   "t": 1792702912.6615264,
+   "s": 4,
+   "p": 60
+  },
+  {
+   "t": 1792702917.6633708,
+   "s": 4,
+   "p": 40
+  },
+  {
+   "t": 1792702921.1297653,
+   "s": 4,
+   "p": 70
   }
  ],
  "risk": {
