@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132452
+   "last_id": 132454
   },
   "TelNews_Magazine": {
-   "last_id": 101705
+   "last_id": 101706
   },
   "NE_WG": {
-   "last_id": 115340
+   "last_id": 115341
   }
  },
  "fails": {},
@@ -488,11 +488,6 @@
  },
  "recent": [
   {
-   "t": 1792625215.0,
-   "n": "the white house has given politico 48 hours to retract or correct three articles concerning chief of staff susie wiles warning of unspecified consequences if the outlet fails to comply with the deadline expiring on thursday according to axios white house counsel will scharf accused politico of publishing false claims about trump s alleged plans to replace wiles his reaction to the reporting and he",
-   "fa": "🇺🇸⚡️ — به گزارش اکسیوس، کاخ سفید ۴۸ ساعت به نشریه پولیتیکو فرصت داده است تا سه مقاله درباره «سوزی وایلز» رئیس کارکنان کاخ سفید را پس بگیرد یا اصلاح کند و در صورت عدم پیروی، درباره پیامدهای نامشخص هشدار داده است. این مهلت روز پنجشنبه به پایان می‌رسد. «ویل شارف» مشاور حقوقی کاخ سفید، پولیتیکو را به انتشار ادعاهای نادرست درباره برنامه‌های ادعایی ترامپ برای جایگزینی وایلز، واکنش او به این گزارش‌ها و د"
-  },
-  {
    "t": 1792626540.0,
    "n": "how does the ukrainian military use starlink ukraine is using a basic starshield service which uses starlink s standard equipment with different features",
    "fa": "⭕️ چگونگی استفاده ارتش اوکراین از سرویس استارلینک به گزارش وال‌استریت ژورنال اوکراین در حال استفاده از یک سرویس پایه استارشیلد است که از تجهیزات استاندارد استارلینک با قابلیت‌های متفاوتی بهره می‌برد."
@@ -786,20 +781,20 @@
    "t": 1792665324.0,
    "n": "مقام آمریکایی به وال استریت ژورنال احتمال دارد که تنش ها به سرعت در منطقه و فراتر از محدوده جغرافیایی خود تشدید شوند",
    "fa": "🇺🇸🇮🇷مقام آمریکایی به وال استریت ژورنال: احتمال دارد که تنش‌ها به سرعت در منطقه و فراتر از محدوده جغرافیایی خود تشدید شوند‼️"
+  },
+  {
+   "t": 1792666384.0,
+   "n": "فوری نتانیاهو درباره ایران ما بزودی ضربه نهایی رو وارد میکنیم یا ما نابودشون می کنیم یا اونا ما رو نابود می کنن",
+   "fa": "🇮🇱🇮🇷 فوری/ نتانیاهو درباره ایران: 🚨ما بزودی ضربه نهایی رو وارد میکنیم ‼️یا ما نابودشون می‌کنیم یا اونا ما رو نابود می‌کنن."
   }
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 68
+  "requests": 69
  },
  "flip": 1476,
  "quote_n": 666,
  "signals": [
-  {
-   "t": 1792579882.091251,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1792580492.9617996,
    "s": 3,
@@ -1804,6 +1799,11 @@
    "t": 1792665678.0667002,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1792666574.1634068,
+   "s": 5,
+   "p": 90
   }
  ],
  "risk": {
