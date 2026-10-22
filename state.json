@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108906
+   "last_id": 108907
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132499
+   "last_id": 132500
   },
   "TelNews_Magazine": {
    "last_id": 101745
   },
   "NE_WG": {
-   "last_id": 115392
+   "last_id": 115393
   }
  },
  "fails": {},
@@ -495,11 +495,6 @@
  },
  "recent": [
   {
-   "t": 1792674171.0,
-   "n": "russia is suspected of using fishing trawlers to spy on critical undersea communication cables linking britain with europe and the u s according to the telegraph analysis identified more than 500 suspicious movements involving 17 russian vessels including ships slowing down changing direction and following cable routes british officials fear the activity could help moscow identify potential target",
-   "fa": "🇬🇧🇷🇺🇪🇺⚡️ — به گزارش تلگراف، روسیه مظنون است که از کشتی‌های ماهیگیری برای جاسوسی از کابل‌های ارتباطی زیردریایی حیاتی که بریتانیا را به اروپا و ایالات متحده متصل می‌کنند، استفاده می‌کند. تحلیل‌ها بیش از ۵۰۰ حرکت مشکوک را شناسایی کردند که شامل ۱۷ کشتی روسی از جمله کشتی‌هایی می‌شود که سرعت خود را کم کرده، تغییر مسیر داده و مسیر کابل‌ها را دنبال کرده‌اند. مقامات بریتانیایی نگران هستند که این فعالیت‌ها "
-  },
-  {
    "t": 1792675816.0,
    "n": "قیمت پژو ۲۰۷ در بازار به ۴ ۵ میلیارد تومن رسید",
    "fa": "💢قیمت پژو ۲۰۷ در بازار به ۴.۵ میلیارد تومن رسید"
@@ -793,20 +788,20 @@
    "t": 1792693446.0,
    "n": "خبرگزاری i24news هم اکنون ایالات متحده در حال اجرای عملیات گسترده ای برای خارج کردن اعضای خانواده دیپلمات های آمریکایی از کشورهای خاورمیانه است",
    "fa": "⭕️خبرگزاری I24NEWS: هم اکنون ایالات متحده در حال اجرای عملیات گسترده‌ای برای خارج کردن اعضای خانواده دیپلمات‌های آمریکایی از کشورهای خاورمیانه است."
+  },
+  {
+   "t": 1792694290.0,
+   "n": "israeli prime minister netanyahu on gaza hamas will not be there we will destroy hamas that is not difficult",
+   "fa": "🇮🇱❌🇵🇸 — نخست‌وزیر اسرائیل، نتانیاهو درباره غزه: حماس آنجا نخواهد بود. ما حماس را نابود خواهیم کرد. این کار دشواری نیست."
   }
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 183
+  "requests": 184
  },
- "flip": 1537,
+ "flip": 1538,
  "quote_n": 694,
  "signals": [
-  {
-   "t": 1792607765.6724591,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1792608678.0945296,
    "s": 3,
@@ -1716,6 +1711,11 @@
    "t": 1792693572.5808203,
    "s": 5,
    "p": 85
+  },
+  {
+   "t": 1792694484.1056778,
+   "s": 4,
+   "p": 70
   }
  ],
  "risk": {
