@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108924
+   "last_id": 108925
   },
   "khabarfouri": {
    "last_id": 569949
@@ -501,11 +501,6 @@
  },
  "recent": [
   {
-   "t": 1792688461.0,
-   "n": "u s treasury secretary scott bessent before tankers filled iran s main oil loading terminal after no crude tankers in sight kharg island is now nothing more than a monument to the one thing the iranian regime can still produce failure the regime s arrogance and belligerence continue to punish ordinary iranians operation economic outcast is cutting off the regime s oil lifeline denying it resources",
-   "fa": "🔄 به‌روزرسانی 🇺🇸🇮🇷⚡️ — اسکات بسنت، وزیر خزانه‌داری آمریکا: پیش از این: نفتکش‌ها پایانه اصلی بارگیری نفت ایران را پر می‌کردند. اکنون: هیچ نفتکش حامل نفت خامی دیده نمی‌شود. جزیره خارک اکنون چیزی بیش از بنای یادبودی برای تنها چیزی نیست که رژیم ایران هنوز می‌تواند تولید کند: شکست. تکبر و ستیزه‌جویی رژیم همچنان مردم عادی ایران را مجازات می‌کند. «عملیات طرد اقتصادی» در حال قطع کردن شریان حیاتی نفت رژیم "
-  },
-  {
    "t": 1792689001.0,
    "n": "قالیباف خطاب به تصمیم گیران و مردم آمریکا اگر مسیر غلط را انتخاب کنید هیچ نفعی نخواهید برد تمام پیامدها تلخ و سیاه اند",
    "fa": "⭕️قالیباف خطاب به تصمیم گیران و مردم آمریکا: اگر مسیر غلط را انتخاب کنید، هیچ نفعی نخواهید برد، تمام پیامدها تلخ و سیاه‌اند"
@@ -799,25 +794,20 @@
    "t": 1792704420.0,
    "n": "trump spoke to musk about ending ukraine s starlink speed caps plus the doj is reviewing allegations against a former homeland security adviser and meta s hunt to fund its ai build out spooked investors",
    "fa": "🔴 گفتگوی ترامپ و ماسک درباره پایان دادن به محدودیت‌های سرعت استارلینک در اوکراین به گزارش وال‌استریت ژورنال، دونالد ترامپ با ایلان ماسک درباره پایان دادن به محدودیت‌های سرعت استارلینک در اوکراین گفتگو کرده است. همچنین وزارت دادگستری در حال بررسی اتهامات علیه یک مشاور سابق امنیت داخلی است و تلاش متا برای تأمین مالی توسعه هوش مصنوعی خود، سرمایه‌گذاران را نگران کرده است."
+  },
+  {
+   "t": 1792704879.0,
+   "n": "a secondary possibility is russia evacuating nuclear scientists from bushehr npp but i don t believe this was the sole purpose of the mission as there weren t enough nuclear scientists there to require several planes it is however possible that russian nuclear scientists were evacuated after military supplies were unloaded if this occured then war is more likely",
+   "fa": "🇷🇺🇮🇷⚡️ — احتمال دوم تخلیه دانشمندان هسته‌ای روسیه از نیروگاه اتمی بوشهر است، اما من معتقدم این تنها هدف مأموریت نبوده است زیرا تعداد دانشمندان هسته‌ای به اندازه‌ای نبود که به چندین هواپیما نیاز داشته باشد. با این حال، ممکن است دانشمندان هسته‌ای روسیه پس از تخلیه تجهیزات نظامی از کشور خارج شده باشند. اگر این اتفاق رخ داده باشد، احتمال جنگ بیشتر است."
   }
  ],
  "usage": {
   "date": "2026-10-22",
-  "requests": 218
+  "requests": 219
  },
  "flip": 1565,
- "quote_n": 706,
+ "quote_n": 707,
  "signals": [
-  {
-   "t": 1792618282.5659065,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1792618287.1453512,
-   "s": 5,
-   "p": 90
-  },
   {
    "t": 1792618570.7563846,
    "s": 5,
@@ -1637,18 +1627,23 @@
    "t": 1792704687.6797047,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1792704964.9767194,
+   "s": 5,
+   "p": 85
   }
  ],
  "risk": {
-  "base": 61,
-  "ts": 1792701089.2193732,
+  "base": 62,
+  "ts": 1792704967.9782007,
   "attack": false,
-  "n": 171,
+  "n": 165,
   "shares": {
    "1": 0,
    "2": 6,
-   "3": 25,
-   "4": 49,
+   "3": 21,
+   "4": 52,
    "5": 21
   }
  },
