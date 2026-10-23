@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132599
+   "last_id": 132600
   },
   "TelNews_Magazine": {
    "last_id": 101812
   },
   "NE_WG": {
-   "last_id": 115499
+   "last_id": 115500
   }
  },
  "fails": {},
@@ -520,11 +520,6 @@
  },
  "recent": [
   {
-   "t": 1792759445.0,
-   "n": "the israeli military announced that two soldiers were killed and three others wounded in a shooting attack at a checkpoint near hebron in the occupied west bank this morning the soldiers were identified as staff sgt ron yonatan roytman 23 from ashkelon and sgt yuval shai svilem 20 from hod hasharon three other soldiers sustained light to moderate injuries the two palestinian attackers were killed ",
-   "fa": "🇵🇸❌🇮🇱 — ارتش اسرائیل اعلام کرد که در پی یک حمله تیراندازی در یک ایست بازرسی در نزدیکی الخلیل در کرانه باختری اشغالی، دو نظامی کشته و سه تن دیگر زخمی شدند. این سربازان، استوار دوم ران یوناتان رویِتمن ۲۳ ساله از اشکلون و گروهبان یووال شای سویلم ۲۰ ساله از هود هشارون معرفی شدند. سه نظامی دیگر جراحات خفیف تا متوسط برداشتند. دو مهاجم فلسطینی پس از ۲۰ دقیقه تبادل آتش با نیروهای اسرائیلی کشته شدند."
-  },
-  {
    "t": 1792759540.0,
    "n": "ronald lauder president of the world jewish congress and a former close associate of benjamin netanyahu has publicly criticized the israeli prime minister in an interview with haaretz accusing him of prioritizing his political survival over israel s future lauder said he recognized netanyahu s political motivations nearly 30 years ago and now fears the country is heading in a dangerous direction h",
    "fa": "🇮🇱⚡️ — رونالد لادر، رئیس کنگره جهانی یهودیان و از متحدان پیشین و نزدیک بنیامین نتانیاهو، در مصاحبه با روزنامه هاآرتض به شدت از نخست‌وزیر اسرائیل انتقاد کرد و او را متهم ساخت که بقای سیاسی خود را بر آینده اسرائیل ترجیح می‌دهد. لادر گفت که انگیزه‌های سیاسی نتانیاهو را نزدیک به ۳۰ سال پیش شناخته بود و اکنون بیم آن دارد که کشور در مسیری خطرناک حرکت کند. وی فاش کرد که آپارتمان خود در تل‌آویو را فروخته "
@@ -818,13 +813,18 @@
    "t": 1792771190.0,
    "n": "a source in iraq s coordination framework tells channel8 that the iraqi prime minister ali al zaidi has ordered the closure of ansarallah s office in iraq and the deportation of all 7 ansarallah figures present inside the country there were more present in the war against isis and the iran war but most have reportedly left",
    "fa": "🇮🇶❌🇾🇪 — یک منبع در چارچوب هماهنگی عراق به رسانه کردی عراقی Channel8 گفت که علی الزیدی، نخست‌وزیر عراق، دستور بستن دفتر انصارالله در عراق و اخراج هر ۷ چهره انصارالله حاضر در داخل کشور را صادر کرده است. تعداد بیشتری در جریان جنگ با داعش و جنگ ایران حضور داشتند، اما گزارش شده است که بیشتر آن‌ها رفته‌اند."
+  },
+  {
+   "t": 1792771530.0,
+   "n": "بن بست در مذاکرات دولت عراق با گروه های مسلح نزدیک به ایران یک منبع در چارچوب هماهنگی عراق به شبکه channel8 گفته است مذاکرات دولت عراق با گروه موسوم به مقاومت اسلامی عراق تاکنون نتیجه ای نداشته است پیشنهاد این گروه برای نگهداری موشک ها و پهپادها توسط شبه نظامیان تحت نظارت دولت نیز رد شده است به گفته این منبع کتائب حزب الله و حرکت حزب الله النجباء همچنان حاضر به خلع سلاح نیستند در همین حال گروه های",
+   "fa": "🔄 به‌روزرسانی 🇮🇶❌🏴🇮🇷 بن‌بست در مذاکرات دولت عراق با گروه‌های مسلح نزدیک به ایران 〰️ یک منبع در چارچوب هماهنگی عراق به شبکه Channel8 گفته است مذاکرات دولت عراق با گروه موسوم به «مقاومت اسلامی عراق» تاکنون نتیجه‌ای نداشته است. پیشنهاد این گروه برای نگهداری موشک‌ها و پهپادها توسط شبه‌نظامیان، تحت نظارت دولت، نیز رد شده است. 〰️ به گفته این منبع، کتائب حزب‌الله و حرکت حزب‌الله النجباء همچنان حاضر به خل"
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 120
+  "requests": 121
  },
- "flip": 1676,
+ "flip": 1677,
  "quote_n": 763,
  "signals": [
   {
@@ -1676,6 +1676,11 @@
    "t": 1792771311.7342207,
    "s": 3,
    "p": 55
+  },
+  {
+   "t": 1792771880.0987267,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
