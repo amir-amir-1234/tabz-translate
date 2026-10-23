@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109009
+   "last_id": 109010
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132631
+   "last_id": 132632
   },
   "TelNews_Magazine": {
    "last_id": 101831
   },
   "NE_WG": {
-   "last_id": 115538
+   "last_id": 115540
   }
  },
  "fails": {},
@@ -528,11 +528,6 @@
  },
  "recent": [
   {
-   "t": 1792769090.0,
-   "n": "العربیه به نقل از دونالد ترامپ ما در حال انجام مذاکرات سازنده ای با ایران هستیم و قبل از انتخابات میان دوره ای به ایران حمله نخواهیم کرد",
-   "fa": "⭕️العربیه به نقل از دونالد ترامپ: ما در حال انجام مذاکرات سازنده‌ای با ایران هستیم و قبل از انتخابات میان‌دوره‌ای، به ایران حمله نخواهیم کرد"
-  },
-  {
    "t": 1792769265.0,
    "n": "a newly constructed multi story building located in the eastleigh neighborhood of the kenyan capital nairobi completely collapsed trapping an unknown number of workers and civilians underneath rescue efforts are now underway according to kenyan authorities",
    "fa": "🇰🇪⚡️ — یک ساختمان چندطبقه نوساز واقع در محله ایستلی در پایتخت کنیا، نایروبی، به‌طور کامل فروریخت و تعداد ناممشخصی از کارگران و غیرنظامیان را در زیر آوار گرفتار کرد. به گفته مقامات کنیا، عملیات امدادونجات در حال حاضر در جریان است."
@@ -826,14 +821,25 @@
    "t": 1792780934.0,
    "n": "هم اکنون وضعیت عادی ترافیک هوایی در خاورمیانه",
    "fa": "🔴هم اکنون وضعیت عادی ترافیک هوایی در خاورمیانه"
+  },
+  {
+   "t": 1792781419.0,
+   "n": "ansarallah announces over the past 24 hours saudi forces conducted 124 airstrikes and missile strikes against ansarallah s capital sana a and ansarallah controlled ta izz lahij sa dah hajjah al hudaydah amran al jawf governorates royal saudi air force f 15 fighter jets from king khalid ab conducted airstrikes and missiles were launched from najran province southwestern ksa the attacks caused casua",
+   "fa": "🇸🇦❌🇾🇪 — انصارالله اعلام کرد در ۲۴ ساعت گذشته نیروهای سعودی ۱۲۴ حمله هوایی و موشکی علیه پایتخت انصارالله یعنی صنعا و استان‌های تحت کنترل انصارالله یعنی تعز، لحج، صعده، حجه، الحدیده، عمران و الجوف انجام دادند. جنگنده‌های اف-۱۵ نیروی هوایی پادشاهی سعودی از پایگاه هوایی ملک خالد دست به حملات هوایی زدند و موشک‌هایی نیز از استان نجران در جنوب غربی عربستان سعودی شلیک شد. به گفته انصارالله، این حملات تلفا"
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 170
+  "requests": 171
  },
  "flip": 1710,
- "quote_n": 778,
+ "quote_n": 779,
+ "feed": [
+  {
+   "t": 1792781419.0,
+   "tx": "🇸🇦❌🇾🇪 — انصارالله اعلام کرد در ۲۴ ساعت گذشته نیروهای سعودی ۱۲۴ حمله هوایی و موشکی علیه پایتخت انصارالله یعنی صنعا و استان‌های تحت کنترل انصارالله یعنی تعز، لحج، صعده، حجه، الحدیده، عمران و الجوف انجام دادند. جنگنده‌های اف-۱۵ نیروی هوایی پادشاهی سعودی از پایگاه هوایی ملک خالد دست به حملات هوایی زدند و موشک‌هایی نیز از استان نجران در جنوب غربی عربستان سعودی شلیک شد.\n\nبه گفته انصارالله، این حملات تلفاتی از جمله در میان زنان و کودکان برجای گذاشته است."
+  }
+ ],
  "signals": [
   {
    "t": 1792697183.0578904,
@@ -1739,6 +1745,11 @@
    "t": 1792781172.8675637,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792781768.5231347,
+   "s": 4,
+   "p": 85
   }
  ],
  "risk": {
