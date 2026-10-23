@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109002
+   "last_id": 109004
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132610
+   "last_id": 132611
   },
   "TelNews_Magazine": {
    "last_id": 101818
   },
   "NE_WG": {
-   "last_id": 115511
+   "last_id": 115513
   }
  },
  "fails": {},
@@ -114,7 +114,8 @@
     "https://www.foxnews.com/world/43-years-after-beirut-terror-attack-killed-241-americans-rabbi-recalls-chaplains-extraordinary-response",
     "https://www.foxnews.com/world/first-fox-50-antifa-groups-france-mobilize-growing-network-287-organizations-chaos-inc",
     "https://www.foxnews.com/world/two-suspected-gunmen-dead-two-idf-soldiers-killed-west-bank-shooting",
-    "https://www.foxnews.com/world/serbias-longtime-leader-faces-biggest-political-test-students-mount-election-challenge"
+    "https://www.foxnews.com/world/serbias-longtime-leader-faces-biggest-political-test-students-mount-election-challenge",
+    "https://www.foxnews.com/world/state-department-says-trump-spot-on-france-protests-macron-decries-stupid-comments"
    ]
   },
   "WSJ": {
@@ -524,31 +525,6 @@
  },
  "recent": [
   {
-   "t": 1792761601.0,
-   "n": "نتانیاهو ارتش های غربی بیش از حد فربه هستند بنیامین نتانیاهو نخست وزیر اسرائیل مدعی شد ارتش های غربی بسیار بزرگ و پرهزینه اند و بخش زیادی از بودجه آن ها صرف حقوق مزایا و هزینه های مشابه می شود او با اشاره به ارتش اسرائیل گفت این کشور نیز با چنین وضعیتی روبه روست اما به گفته او این مسئله در اسرائیل بسیار کمتر است نتانیاهو برای توضیح تفاوت ارتش آمریکا و دیگر کشورهای غربی را به یک کشتی گیر سوموی عظیم",
-   "fa": "🇮🇱نتانیاهو: ارتش‌های غربی بیش از حد فربه هستند 🔴 بنیامین نتانیاهو، نخست‌وزیر اسرائیل، مدعی شد ارتش‌های غربی بسیار بزرگ و پرهزینه‌اند و بخش زیادی از بودجه آن‌ها صرف حقوق، مزایا و هزینه‌های مشابه می‌شود. 🔴 او با اشاره به ارتش اسرائیل گفت این کشور نیز با چنین وضعیتی روبه‌روست، اما به گفته او، این مسئله در اسرائیل بسیار کمتر است. 🔴 نتانیاهو برای توضیح تفاوت، ارتش آمریکا و دیگر کشورهای غربی را به «یک ک"
-  },
-  {
-   "t": 1792761610.0,
-   "n": "israeli prime minister netanyahu if you think we will continue receiving tens of billions of dollars in american assistance for our defense budget prepare yourselves and get used to the idea that it won t continue because america has changed not israel it s over it s over and it will come to an end it s only a matter of time",
-   "fa": "🇮🇱🇺🇸⚡️ — نخست‌وزیر اسرائیل نتانیاهو: اگر فکر می‌کنید که ما برای بودجه دفاعی خود همچنان ده‌ها میلیارد دلار کمک آمریکایی دریافت خواهیم کرد، خود را آماده کنید و به این فکر عادت کنید که دیگر ادامه نخواهد داشت. چون آمریکا تغییر کرده است، نه اسرائیل. کار تمام است. تمام شده است و روزی به پایان خواهد رسید. این فقط مسئله زمان است."
-  },
-  {
-   "t": 1792761896.0,
-   "n": "زاکانی تدبیر رهبری این است که تا آمریکا به تعهداتش در تفاهم نامه عمل نکند راه برای مذاکره باز نیست",
-   "fa": "⭕️زاکانی: تدبیر رهبری این است که تا آمریکا به تعهداتش در تفاهم‌نامه عمل نکند، راه برای مذاکره باز نیست"
-  },
-  {
-   "t": 1792762040.0,
-   "n": "the white house announced that first lady melania trump helped secure a temporary localized ceasefire between russia and ukraine in the city of oleshky beginning october 29 both sides agreed to suspend military operations in the area to allow humanitarian aid deliveries and establish a safe evacuation corridor for civilians particularly elderly residents facing severe shortages of food water and m",
-   "fa": "🇺🇸🇺🇦🇷🇺⚡️ — کاخ سفید اعلام کرد ملانیا ترامپ، بانوی اول آمریکا، به برقراری یک آتش‌بس موقت و محلی میان روسیه و اوکراین در شهر اولشکی کمک کرده که از ۲۹ اکتبر آغاز می‌شود. دو طرف توافق کردند عملیات نظامی را در این منطقه به حالت تعلیق درآورند تا امکان ارسال کمک‌های بشردوستانه و ایجاد یک کریدور تخلیه امن برای غیرنظامیان، به‌ویژه ساکنان سالخورده‌ای که با کمبود شدید مواد غذایی، آب و تجهیزات پزشکی مواجه هست"
-  },
-  {
-   "t": 1792762381.0,
-   "n": "the sudanese government in a statement of the ministry of foreign affairs categorically refuted any accusation linking them to the abye attack instead accusing the uae backed rsf of being responsible",
-   "fa": "🇸🇩🇸🇸🇸🇩 — دولت سودان با انتشار بیانیه‌ای از سوی وزارت امور خارجه، هرگونه اتهام مبنی بر ارتباط خود با حمله ابیی را به شدت رد کرد و در عوض، نیروهای واکنش سریع (RSF) تحت حمایت امارات را مسئول آن دانست."
-  },
-  {
    "t": 1792762728.0,
    "n": "نتانیاهو من در جریان یک عملیات بسیار بزرگ در کرانه باختری قرار گرفته ام که از سال ۱۹۶۷ بی سابقه خواهد بود و ما زمان اجرای آن را انتخاب خواهیم کرد",
    "fa": "⭕️نتانیاهو: من در جریان یک عملیات بسیار بزرگ در کرانه باختری قرار گرفته‌ام که از سال ۱۹۶۷ بی‌سابقه خواهد بود و ما زمان اجرای آن را انتخاب خواهیم کرد"
@@ -822,13 +798,38 @@
    "t": 1792775046.0,
    "n": "the u s transportation department announced 425 000 in combined fines against air france and klm for operating dozens of flights over iraq below the minimum permitted altitude intended to protect aircraft from threats from the ground",
    "fa": "🇺🇸🇮🇶⚡️ — وزارت حمل‌ونقل ایالات متحده از اعمال جریمه‌های ترکیبی ۴۲۵ هزار دلاری علیه ایرفرانس و کی‌ال‌ام به دلیل انجام ده‌ها پرواز بر فراز عراق پایین‌تر از حداقل ارتفاع مجاز با هدف محافظت از هواپیماها در برابر تهدیدات زمینی خبر داد."
+  },
+  {
+   "t": 1792775227.0,
+   "n": "state department says trump is spot on with france protests after macron decries stupid comments the state department told fox news digital that president donald trump s views on france are spot on after french president emmanuel macron criticized foreign leaders for making unacceptable and stupid comments about the protests rocking the european country speaking at a midterms rally on monday trump",
+   "fa": "🔴 واکنش وزارت خارجه آمریکا به اظهارات مکرون و حمایت از سخنان ترامپ درباره اعتراضات فرانسه به گزارش فاکس نیوز وزارت امور خارجه به فاکس نیوز دیجیتال اعلام کرد دیدگاه‌های دونالد ترامپ رئیس‌جمهور درباره فرانسه «کاملاً درست» است، این در حالی است که امانوئل مکرون رئیس‌جمهور فرانسه رهبران خارجی را به خاطر طرح نظرات «غیرقابل قبول و احمقانه» درباره اعتراضاتی که این کشور اروپایی را تکان داده است، محکوم کرد."
+  },
+  {
+   "t": 1792775563.0,
+   "n": "کاخ سفید مدعی آتش بس محدود در یک شهر اوکراین با میانجی گری ملانیا ترامپ و تایید پوتین شد",
+   "fa": "🇺🇸🇷🇺🇺🇦کاخ سفید مدعی آتش‌بس محدود در یک شهر اوکراین با میانجی‌گری ملانیا ترامپ و تایید پوتین شد‼️"
+  },
+  {
+   "t": 1792775568.0,
+   "n": "ukrainian president zelensky we have an agreement to hold a trilateral meeting ukraine the united states and russia at the team level the plan is to meet in the first half of november",
+   "fa": "🇺🇦🇷🇺🇺🇸⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: ما توافق کرده‌ایم که یک نشست سه جانبه در سطح تیم‌ها میان اوکراین، ایالات متحده و روسیه برگزار کنیم. برنامه این است که در نیمه اول نوامبر دیدار کنیم."
+  },
+  {
+   "t": 1792775638.0,
+   "n": "ukrainian president zelensky the speed limits on starlink and starshield are still there the speed has not been restored and the delivery of interceptors to protect us against russian ballistic missiles is still delayed this is a real problem because the russians attack us almost every single day",
+   "fa": "🇺🇦🇺🇸🇷🇺⚡️ — ولودیمیر زلنسکی، رئیس‌جمهور اوکراین: محدودیت‌های سرعت در استارلینک و استارشیلد همچنان پابرجا هستند. سرعت بازیابی نشده است. و تحویل رهگیرها برای محافظت از ما در برابر موشک‌های بالستیک روسیه همچنان با تاخیر مواجه است. این یک مشکل واقعی است، زیرا روس‌ها تقریباً هر روز به ما حمله می‌کنند."
+  },
+  {
+   "t": 1792775715.0,
+   "n": "رصد هواگردها و پهپادهای ناشناس در حریم هوایی عراق رسانه جنگی مقاومت اسلامی در عراق با انتشار آمار رصد روزانه از تداوم نقض حاکمیت هوایی این کشور توسط پرنده های دشمن خبر داد",
+   "fa": "🇺🇸🇮🇱🇮🇶رصد هواگردها و پهپادهای ناشناس در حریم هوایی عراق رسانه جنگی مقاومت اسلامی در عراق با انتشار آمار رصد روزانه، از تداوم نقض حاکمیت هوایی این کشور توسط پرنده‌های دشمن خبر داد."
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 136
+  "requests": 138
  },
- "flip": 1688,
+ "flip": 1693,
  "quote_n": 772,
  "signals": [
   {
@@ -1705,6 +1706,16 @@
    "t": 1792775200.9807577,
    "s": 3,
    "p": 50
+  },
+  {
+   "t": 1792775802.1761851,
+   "s": 2,
+   "p": 60
+  },
+  {
+   "t": 1792775814.2875464,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
