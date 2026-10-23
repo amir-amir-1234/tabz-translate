@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108946
+   "last_id": 108948
   },
   "khabarfouri": {
    "last_id": 569949
@@ -507,11 +507,6 @@
  },
  "recent": [
   {
-   "t": 1792697319.0,
-   "n": "بر اساس داده های فلایت رادار آمریکا درحال تخلیه هواپیماهای نظامی و جنگنده هاش از پایگاه العدید قطره",
-   "fa": "⭕️بر اساس داده های فلایت رادار؛ آمریکا درحال تخلیه هواپیماهای نظامی و جنگنده هاش از پایگاه العدید قطره."
-  },
-  {
    "t": 1792697329.0,
    "n": "watch catholic archbishops and bishops pray with president trump in the oval office",
    "fa": "🇺🇸⚡️ — ببینید: اسقف‌های اعظم و اسقف‌های کاتولیک در دفتر بیضی با رئیس‌جمهور ترامپ دعا می‌کنند."
@@ -805,14 +800,19 @@
    "t": 1792728072.0,
    "n": "gadi eisenkot couldn t be more unlike netanyahu can he beat him mr eisenkot an ex military chief leading in the polls calls the israeli prime minister an anti leader but his low key campaigning style is worrying supporters",
    "fa": "🔴 گادی آیزنکوت و چالش‌های پیش‌روی او در رقابت با بنیامین نتانیاهو به گزارش نیویورک تایمز گادی آیزنکوت، رئیس پیشین ارتش که در نظرسنجی‌ها پیشتاز است، نخست‌وزیر اسرائیل را یک ضدرهبر می‌نامد. با این حال، سبک مبارزات انتخاباتی کم‌هیاهوی او باعث نگرانی حامیانش شده است."
+  },
+  {
+   "t": 1792731456.0,
+   "n": "two palestinians conducted a shooting in the vicinity of hebron west bank against an idf checkpoint two idf soldiers were injured in the attack and both the palestinians were killed",
+   "fa": "🇵🇸❌🇮🇱 — دو فلسطینی در نزدیکی الخلیل در کرانه باختری دست به تیراندازی علیه یک ایست بازرسی ارتش اسرائیل زدند. دو سرباز ارتش اسرائیل در این حمله زخمی شدند و هر دو فرد فلسطینی کشته شدند."
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 18
+  "requests": 19
  },
- "flip": 1585,
- "quote_n": 722,
+ "flip": 1586,
+ "quote_n": 723,
  "signals": [
   {
    "t": 1792645561.7582028,
@@ -1633,6 +1633,11 @@
    "t": 1792728675.9594588,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792731692.9355571,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
