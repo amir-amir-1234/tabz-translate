@@ -452,7 +452,8 @@
     "https://www.nytimes.com/2026/10/22/world/middleeast/archers-mount-their-steeds-in-pursuit-of-centuries-old-warrior-spirit.html",
     "https://www.nytimes.com/2026/10/22/world/middleeast/horseback-archery-nomad-games.html",
     "https://www.nytimes.com/2026/10/22/podcasts/the-daily/israel-election-netanyahu.html",
-    "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html"
+    "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+    "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html"
    ]
   },
   "Treasury": {
@@ -505,11 +506,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792696880.0,
-   "n": "پوتین در مورد اوکراین ما توافق کردیم که آماده ایم مذاکرات سه جانبه خود را از سر بگیریم هدف از این مذاکرات بررسی موضوع تضمین امنیت اوکراین و روسیه پس از دستیابی به توافق های صلح خواهد بود",
-   "fa": "🇷🇺❌🇺🇦 پوتین در مورد اوکراین: ما توافق کردیم که آماده‌ایم مذاکرات سه جانبه خود را از سر بگیریم. هدف از این مذاکرات، بررسی موضوع تضمین امنیت اوکراین و روسیه پس از دستیابی به توافق‌های صلح خواهد بود."
-  },
   {
    "t": 1792697319.0,
    "n": "بر اساس داده های فلایت رادار آمریکا درحال تخلیه هواپیماهای نظامی و جنگنده هاش از پایگاه العدید قطره",
@@ -804,14 +800,19 @@
    "t": 1792723761.0,
    "n": "uae s ministry of climate change and environment has closed beaches and coastal areas in umm al quwain northern uae due to an oil spill from an oil tanker fishermen have also been advisted to avoid fishing a few days ago the irgc navy struck an oil tanker 25km south of the area causing an oil spill",
    "fa": "🇦🇪🇮🇷⚡️ — وزارت تغییرات اقلیمی و محیط زیست امارات سواحل و مناطق ساحلی ام‌القوین در شمال امارات را به دلیل نشت نفت از یک نفتکش بسته است. به ماهیگیران نیز توصیه شده است از ماهیگیری خودداری کنند. چند روز پیش، نیروی دریایی سپاه پاسداران یک نفتکش را در فاصله ۲۵ کیلومتری جنوب این منطقه هدف قرار داد که باعث نشت نفت شد."
+  },
+  {
+   "t": 1792728072.0,
+   "n": "gadi eisenkot couldn t be more unlike netanyahu can he beat him mr eisenkot an ex military chief leading in the polls calls the israeli prime minister an anti leader but his low key campaigning style is worrying supporters",
+   "fa": "🔴 گادی آیزنکوت و چالش‌های پیش‌روی او در رقابت با بنیامین نتانیاهو به گزارش نیویورک تایمز گادی آیزنکوت، رئیس پیشین ارتش که در نظرسنجی‌ها پیشتاز است، نخست‌وزیر اسرائیل را یک ضدرهبر می‌نامد. با این حال، سبک مبارزات انتخاباتی کم‌هیاهوی او باعث نگرانی حامیانش شده است."
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 16
+  "requests": 18
  },
- "flip": 1584,
- "quote_n": 721,
+ "flip": 1585,
+ "quote_n": 722,
  "signals": [
   {
    "t": 1792643493.3730102,
@@ -1637,12 +1638,25 @@
    "t": 1792723871.7330189,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792728675.9594588,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
-  "base": 100,
-  "ts": 1792722683.952965,
-  "attack": true
+  "base": 62,
+  "ts": 1792728678.9612796,
+  "attack": false,
+  "n": 166,
+  "shares": {
+   "1": 0,
+   "2": 4,
+   "3": 20,
+   "4": 53,
+   "5": 23
+  }
  },
  "attack_ts": 1792706769.6983304,
  "attack_cand": [
