@@ -23,7 +23,7 @@ import re
 import sys
 import time
 import zlib
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -78,6 +78,11 @@ WEB_SEEN_KEEP = 400
 WEB_FILTER_CHARS = 700    # how much of an article the relevance filter sees (title + first lines)
 WEB_PHOTOS = env_bool("WEB_PHOTOS", False)   # news-agency photos are licensed: off by default
 STATE_FILE = Path(env("STATE_FILE", "state.json"))
+# A readable list of the latest published items (full text, Tehran time, newest first), written next to state.json so
+# the news can be read on github.com without Telegram.
+FEED_ENABLED = env_bool("FEED_ENABLED", True)
+FEED_FILE = Path(env("FEED_FILE", "feed.md"))
+FEED_KEEP = int(env("FEED_KEEP", "100"))
 GLOSSARY_FILE = Path(env("GLOSSARY_FILE", "glossary.txt"))
 
 BATCH_SIZE = 12           # posts per Gemini request
@@ -144,6 +149,7 @@ def load_state():
     return {"channels": chans, "fails": fails, "web": web,
             "recent": list(data.get("recent") or []), "usage": dict(data.get("usage") or {}),
             "flip": int(data.get("flip") or 0), "quote_n": int(data.get("quote_n") or 0),
+            "feed": [x for x in (data.get("feed") or []) if isinstance(x, dict)],
             "signals": [x for x in (data.get("signals") or []) if isinstance(x, dict)],
             "risk": data.get("risk") if isinstance(data.get("risk"), dict) else {},
             "attack_ts": float(data.get("attack_ts") or 0),
@@ -155,6 +161,37 @@ def save_state(state):
     if DRY_RUN:
         return
     STATE_FILE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
+    write_feed(state)
+
+
+TEHRAN = timezone(timedelta(hours=3, minutes=30))
+
+
+def render_feed(items):
+    """feed.md: HTML inside Markdown so GitHub shows the Persian text right-to-left. Newest first.
+    The file only changes when an item is added, so it does not create empty commits."""
+    out = ['<div dir="rtl">', "", "<h1>آخرین خبرها</h1>"]
+    if not items:
+        out.append("<p>هنوز خبری ثبت نشده است.</p>")
+    day = None
+    for it in sorted(items, key=lambda x: x.get("t", 0), reverse=True):
+        dt = datetime.fromtimestamp(it.get("t", 0), TEHRAN)
+        if dt.date() != day:
+            day = dt.date()
+            out.append(f"<h3>{dt:%Y-%m-%d} (وقت تهران)</h3>")
+        text = html.escape(str(it.get("tx", "")).strip(), quote=False).replace("\n", "<br>")
+        out.append(f"<p><b>{dt:%H:%M}</b> — {text}</p>")
+    out += ["", "</div>", ""]
+    return "\n".join(out)
+
+
+def write_feed(state):
+    if not FEED_ENABLED:
+        return
+    try:
+        FEED_FILE.write_text(render_feed(state.get("feed", [])[-FEED_KEEP:]), encoding="utf-8")
+    except Exception as e:                         # noqa: BLE001   the feed must never stop the bot
+        log("  feed write failed:", str(e)[:100])
 
 
 # ---------------------------------------------------------------- scraping ---
@@ -1159,6 +1196,9 @@ def prune_recent(state, now=None):
 
 
 def add_recent(state, post, cleaned, fa_text):
+    if FEED_ENABLED:
+        state.setdefault("feed", []).append({"t": post.get("ts") or time.time(), "tx": strip_tags(fa_text).strip()})
+        state["feed"] = state["feed"][-FEED_KEEP:]
     snippet = re.sub(r"\s+", " ", strip_tags(fa_text)).strip()[:400]
     state["recent"].append({"t": post.get("ts") or time.time(), "n": norm(cleaned), "fa": snippet})
     state["recent"] = state["recent"][-RECENT_KEEP:]
