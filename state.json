@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108951
+   "last_id": 108952
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 101791
   },
   "NE_WG": {
-   "last_id": 115464
+   "last_id": 115465
   }
  },
  "fails": {},
@@ -515,16 +515,6 @@
  },
  "recent": [
   {
-   "t": 1792721437.0,
-   "n": "5 minutes ago alerts sounded in abha city and khamis mushait governorate southwestern saudi arabia the alerts lasted for around 2 3 minutes",
-   "fa": "🇾🇪❌🇸🇦 — ۵ دقیقه پیش، هشدارهایی در شهر ابها و استان خمیس مشیط در جنوب غربی عربستان سعودی به صدا درآمدند. این هشدارها حدود ۲ تا ۳ دقیقه فعال بودند."
-  },
-  {
-   "t": 1792723761.0,
-   "n": "uae s ministry of climate change and environment has closed beaches and coastal areas in umm al quwain northern uae due to an oil spill from an oil tanker fishermen have also been advisted to avoid fishing a few days ago the irgc navy struck an oil tanker 25km south of the area causing an oil spill",
-   "fa": "🇦🇪🇮🇷⚡️ — وزارت تغییرات اقلیمی و محیط زیست امارات سواحل و مناطق ساحلی ام‌القوین در شمال امارات را به دلیل نشت نفت از یک نفتکش بسته است. به ماهیگیران نیز توصیه شده است از ماهیگیری خودداری کنند. چند روز پیش، نیروی دریایی سپاه پاسداران یک نفتکش را در فاصله ۲۵ کیلومتری جنوب این منطقه هدف قرار داد که باعث نشت نفت شد."
-  },
-  {
    "t": 1792728072.0,
    "n": "gadi eisenkot couldn t be more unlike netanyahu can he beat him mr eisenkot an ex military chief leading in the polls calls the israeli prime minister an anti leader but his low key campaigning style is worrying supporters",
    "fa": "🔴 گادی آیزنکوت و چالش‌های پیش‌روی او در رقابت با بنیامین نتانیاهو به گزارش نیویورک تایمز گادی آیزنکوت، رئیس پیشین ارتش که در نظرسنجی‌ها پیشتاز است، نخست‌وزیر اسرائیل را یک ضدرهبر می‌نامد. با این حال، سبک مبارزات انتخاباتی کم‌هیاهوی او باعث نگرانی حامیانش شده است."
@@ -813,13 +803,23 @@
    "t": 1792758769.0,
    "n": "iran s foreign minister abbas araghchi the u s has over the past three years spent 11 billion in taxpayer money on missile defense for israel it has fired more interceptors defending israel than israel has that is not a symbiotic relationship it is a parasitic one",
    "fa": "🇮🇷🇺🇸🇮🇱⚡️ — عباس عراقچی، وزیر خارجه ایران: ایالات متحده طی سه سال گذشته ۱۱ میلیارد دلار از پول مالیات‌دهندگان را صرف دفاع موشکی از اسرائیل کرده است. این کشور رهگیرهای بیشتری در دفاع از اسرائیل شلیک کرده تا خود اسرائیل. این یک رابطه همزیستی نیست. یک رابطه انگلی است."
+  },
+  {
+   "t": 1792758993.0,
+   "n": "u s and south korean officials increasingly doubt that president trump will meet north korean leader kim jong un this year according to reuters trump has expressed interest in restarting negotiations with pyongyang but north korea has shown little willingness to engage in talks over its nuclear program washington has received no response to proposals for a meeting and officials say there is little",
+   "fa": "🇺🇸🇰🇵⚡️ — به گزارش رویترز، مقام‌های آمریکایی و کره‌جنوبی نسبت به دیدار دونالد ترامپ با کیم جونگ اون، رهبر کره‌شمالی، در سال جاری تردید فزاینده‌ای دارند. ترامپ ابراز علاقه کرده است که مذاکرات با پیونگ‌یانگ را از سر بگیرد، اما کره‌شمالی تمایل کمی برای مشارکت در گفت‌وگوها پیرامون برنامه هسته‌ای خود نشان داده است. واشنگتن هیچ پاسخی به پیشنهادهای مطرح‌شده برای برگزاری دیدار دریافت نکرده و مقام‌ها می‌گوی"
+  },
+  {
+   "t": 1792759176.0,
+   "n": "تهدید پاکستان و عراق توسط بابک زنجانی از دوشنبه منتظر قیمت جدید گاز باشید",
+   "fa": "🇮🇷❌🇵🇰🇮🇶‼️تهدید پاکستان و عراق توسط بابک زنجانی/ از دوشنبه منتظر قیمت جدید گاز باشید"
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 80
+  "requests": 81
  },
- "flip": 1633,
+ "flip": 1635,
  "quote_n": 746,
  "signals": [
   {
@@ -1586,6 +1586,16 @@
    "t": 1792759002.086822,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1792759280.5430593,
+   "s": 2,
+   "p": 50
+  },
+  {
+   "t": 1792759285.3775756,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
