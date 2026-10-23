@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132581
+   "last_id": 132582
   },
   "TelNews_Magazine": {
-   "last_id": 101796
+   "last_id": 101800
   },
   "NE_WG": {
-   "last_id": 115476
+   "last_id": 115477
   }
  },
  "fails": {},
@@ -113,7 +113,8 @@
     "https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank",
     "https://www.foxnews.com/world/43-years-after-beirut-terror-attack-killed-241-americans-rabbi-recalls-chaplains-extraordinary-response",
     "https://www.foxnews.com/world/first-fox-50-antifa-groups-france-mobilize-growing-network-287-organizations-chaos-inc",
-    "https://www.foxnews.com/world/two-suspected-gunmen-dead-two-idf-soldiers-killed-west-bank-shooting"
+    "https://www.foxnews.com/world/two-suspected-gunmen-dead-two-idf-soldiers-killed-west-bank-shooting",
+    "https://www.foxnews.com/world/serbias-longtime-leader-faces-biggest-political-test-students-mount-election-challenge"
    ]
   },
   "WSJ": {
@@ -820,7 +821,7 @@
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 98
+  "requests": 99
  },
  "flip": 1656,
  "quote_n": 754,
