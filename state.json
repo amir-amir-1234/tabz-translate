@@ -13,7 +13,7 @@
    "last_id": 101779
   },
   "NE_WG": {
-   "last_id": 115445
+   "last_id": 115446
   }
  },
  "fails": {},
@@ -510,11 +510,6 @@
  },
  "recent": [
   {
-   "t": 1792704284.0,
-   "n": "earlier today several russian military aircraft landed at the 6th tactical ab bushehr coastal southern iran likely transporting military supplies to iran",
-   "fa": "🇷🇺🇮🇷⚡️ — اوایل امروز، چندین فروند هواپیمای نظامی روسیه در پایگاه تاکتیکی ششم در بوشهر واقع در جنوب ایران به زمین نشستند. این پروازها احتمالاً حامل تجهیزات نظامی برای ایران هستند."
-  },
-  {
    "t": 1792704420.0,
    "n": "trump spoke to musk about ending ukraine s starlink speed caps plus the doj is reviewing allegations against a former homeland security adviser and meta s hunt to fund its ai build out spooked investors",
    "fa": "🔴 گفتگوی ترامپ و ماسک درباره پایان دادن به محدودیت‌های سرعت استارلینک در اوکراین به گزارش وال‌استریت ژورنال، دونالد ترامپ با ایلان ماسک درباره پایان دادن به محدودیت‌های سرعت استارلینک در اوکراین گفتگو کرده است. همچنین وزارت دادگستری در حال بررسی اتهامات علیه یک مشاور سابق امنیت داخلی است و تلاش متا برای تأمین مالی توسعه هوش مصنوعی خود، سرمایه‌گذاران را نگران کرده است."
@@ -812,7 +807,7 @@
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 50
+  "requests": 51
  },
  "flip": 1608,
  "quote_n": 733,
