@@ -7,10 +7,10 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132552
+   "last_id": 132553
   },
   "TelNews_Magazine": {
-   "last_id": 101779
+   "last_id": 101780
   },
   "NE_WG": {
    "last_id": 115446
@@ -510,11 +510,6 @@
  },
  "recent": [
   {
-   "t": 1792704420.0,
-   "n": "trump spoke to musk about ending ukraine s starlink speed caps plus the doj is reviewing allegations against a former homeland security adviser and meta s hunt to fund its ai build out spooked investors",
-   "fa": "🔴 گفتگوی ترامپ و ماسک درباره پایان دادن به محدودیت‌های سرعت استارلینک در اوکراین به گزارش وال‌استریت ژورنال، دونالد ترامپ با ایلان ماسک درباره پایان دادن به محدودیت‌های سرعت استارلینک در اوکراین گفتگو کرده است. همچنین وزارت دادگستری در حال بررسی اتهامات علیه یک مشاور سابق امنیت داخلی است و تلاش متا برای تأمین مالی توسعه هوش مصنوعی خود، سرمایه‌گذاران را نگران کرده است."
-  },
-  {
    "t": 1792704879.0,
    "n": "a secondary possibility is russia evacuating nuclear scientists from bushehr npp but i don t believe this was the sole purpose of the mission as there weren t enough nuclear scientists there to require several planes it is however possible that russian nuclear scientists were evacuated after military supplies were unloaded if this occured then war is more likely",
    "fa": "🇷🇺🇮🇷⚡️ — احتمال دوم تخلیه دانشمندان هسته‌ای روسیه از نیروگاه اتمی بوشهر است، اما من معتقدم این تنها هدف مأموریت نبوده است زیرا تعداد دانشمندان هسته‌ای به اندازه‌ای نبود که به چندین هواپیما نیاز داشته باشد. با این حال، ممکن است دانشمندان هسته‌ای روسیه پس از تخلیه تجهیزات نظامی از کشور خارج شده باشند. اگر این اتفاق رخ داده باشد، احتمال جنگ بیشتر است."
@@ -807,16 +802,11 @@
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 51
+  "requests": 52
  },
  "flip": 1608,
  "quote_n": 733,
  "signals": [
-  {
-   "t": 1792661194.837477,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1792661772.5175924,
    "s": 4,
