@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108966
+   "last_id": 108969
   },
   "khabarfouri": {
    "last_id": 569949
@@ -112,7 +112,8 @@
     "https://www.foxnews.com/world/frances-macron-blames-protests-ultra-left-groups-aim-bring-down-republic",
     "https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank",
     "https://www.foxnews.com/world/43-years-after-beirut-terror-attack-killed-241-americans-rabbi-recalls-chaplains-extraordinary-response",
-    "https://www.foxnews.com/world/first-fox-50-antifa-groups-france-mobilize-growing-network-287-organizations-chaos-inc"
+    "https://www.foxnews.com/world/first-fox-50-antifa-groups-france-mobilize-growing-network-287-organizations-chaos-inc",
+    "https://www.foxnews.com/world/two-suspected-gunmen-dead-two-idf-soldiers-killed-west-bank-shooting"
    ]
   },
   "WSJ": {
@@ -517,21 +518,6 @@
  },
  "recent": [
   {
-   "t": 1792740674.0,
-   "n": "سفیر آمریکا در سازمان ملل ایالات متحده برای رویارویی بلندمدت با ایران آماده می شود",
-   "fa": "⭕️سفیر آمریکا در سازمان ملل: ایالات متحده برای رویارویی بلندمدت با ایران آماده می‌شود"
-  },
-  {
-   "t": 1792740752.0,
-   "n": "فارن پالیسی جنگ آمریکا علیه ایران جهان را برای همیشه تغییر داده است شاید ۱۰ سال بعد اصول بنیادین ژئوپلیتیک مدرن را به طور اساسی تغییر شکل داده باشد",
-   "fa": "🇮🇷🇺🇸🚫فارن پالیسی: «جنگ آمریکا علیه ایران» جهان را برای همیشه تغییر داده است/ شاید ۱۰ سال بعد اصول بنیادینِ ژئوپلیتیک مدرن را به‌طور اساسی تغییر شکل داده باشد"
-  },
-  {
-   "t": 1792740857.0,
-   "n": "صداوسیما پهپاد جدیدشاهد۲۳۸ را با سرعت سه برابر شاهد۱۳۶ بزودی در میدان نبرد خواهید دید",
-   "fa": "⭕️صداوسیما: پهپاد جدیدشاهد۲۳۸ را با سرعت سه برابر شاهد۱۳۶ بزودی در میدان نبرد خواهید دید"
-  },
-  {
    "t": 1792741521.0,
    "n": "انسداد مجدد مرز ریمدان در پی درگیری های پاکستان در پی درگیری های مسلحانه گروه جدایی طلبان بلوچ با نظامیان پاکستانی در مناطق گوادر و ریمدان پاکستان این گذرگاه مرزی بار دیگر مسدود شد و چند خودروی تجاری آتش گرفتند",
    "fa": "🚫انسداد مجدد مرز ریمدان در پی درگیری‌های پاکستان در پی درگیری‌های مسلحانه گروه جدایی طلبان بلوچ با نظامیان پاکستانی در مناطق گوادر و ریمدان پاکستان، این گذرگاه مرزی بار دیگر مسدود شد و چند خودروی تجاری آتش گرفتند."
@@ -815,20 +801,30 @@
    "t": 1792760621.0,
    "n": "canadian pm mark carney on türkiye türkiye is a unique country it s a modern european country it s an asian country it s unique it s at the crossroads deep deep history and cutting edge modern very good food lots of reasons to be connected",
    "fa": "🇨🇦🇹🇷⚡️ — نخست‌وزیر کانادا مارک کارنی درباره ترکیه: ترکیه کشوری بی‌نظیر است. این کشور یک کشور مدرن اروپایی است. این یک کشور آسیایی است. بی‌نظیر است. در چهارراه جهان قرار دارد. تاریخی بسیار عمیق و مدرن پیشرفته. غذای بسیار خوب، دلایل زیادی برای ارتباط وجود دارد."
+  },
+  {
+   "t": 1792760742.0,
+   "n": "israeli prime minister netanyahu we need to understand that there could be sanctions including banking sanctions you have to prepare an economy capable of bypassing them you know about the currencies that can bypass this and i m working on that as well",
+   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل بنیامین نتانیاهو: ما باید بفهمیم که ممکن است تحریم‌هایی از جمله تحریم‌های بانکی وجود داشته باشد. شما باید اقتصاد را برای دور زدن آن‌ها آماده کنید. شما ارزهایی را که می‌توانند این را دور بزنند می‌شناسید. و من هم روی آن کار می‌کنم."
+  },
+  {
+   "t": 1792760829.0,
+   "n": "host are you afraid of what will happen after trump netanyahu are you not afraid host even if it s jd vance netanyahu i m telling you with certainty there has never been a president this friendly and i doubt there will ever be one like him again so we have to prepare for a rainy day and i m preparing for it",
+   "fa": "🇮🇱🇺🇸⚡️ — مجری: آیا از اتفاقات پس از ترامپ می‌ترسید؟ نتانیاهو: مگر شما نمی‌ترسید؟ مجری: حتی اگر جی‌دی ونس باشد؟ نتانیاهو: با اطمینان به شما می‌گویم: هرگز رئیس‌جمهوری به این دوستی وجود نداشته و شک دارم دیگر کسی مثل او بیاید. بنابراین ما باید برای روز مبادا آماده شویم و من هم در حال آماده شدن برای آن هستم."
+  },
+  {
+   "t": 1792760958.0,
+   "n": "israeli prime minister netanyahu if we win the stock market will be green very green strong green the other two scenarios are very red it would be a major disaster an economic disaster but also a political and security disaster",
+   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل بنیامین نتانیاهو: اگر ما پیروز شویم، بازار بورس سبز خواهد بود. بسیار سبز - سبز قوی. دو سناریوی دیگر بسیار قرمز است. این یک فاجعه بزرگ خواهد بود. یک فاجعه اقتصادی، اما همچنین یک فاجعه سیاسی و امنیتی."
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 87
+  "requests": 88
  },
- "flip": 1646,
+ "flip": 1649,
  "quote_n": 751,
  "signals": [
-  {
-   "t": 1792674395.7442446,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1792676190.580876,
    "s": 3,
@@ -1613,6 +1609,21 @@
    "t": 1792760771.9998653,
    "s": 4,
    "p": 80
+  },
+  {
+   "t": 1792761090.5734963,
+   "s": 4,
+   "p": 60
+  },
+  {
+   "t": 1792761098.7000873,
+   "s": 4,
+   "p": 40
+  },
+  {
+   "t": 1792761106.8713965,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
