@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108932
+   "last_id": 108933
   },
   "khabarfouri": {
    "last_id": 569949
@@ -504,11 +504,6 @@
  },
  "recent": [
   {
-   "t": 1792693446.0,
-   "n": "خبرگزاری i24news هم اکنون ایالات متحده در حال اجرای عملیات گسترده ای برای خارج کردن اعضای خانواده دیپلمات های آمریکایی از کشورهای خاورمیانه است",
-   "fa": "⭕️خبرگزاری I24NEWS: هم اکنون ایالات متحده در حال اجرای عملیات گسترده‌ای برای خارج کردن اعضای خانواده دیپلمات‌های آمریکایی از کشورهای خاورمیانه است."
-  },
-  {
    "t": 1792694290.0,
    "n": "israeli prime minister netanyahu on gaza hamas will not be there we will destroy hamas that is not difficult",
    "fa": "🇮🇱❌🇵🇸 — نخست‌وزیر اسرائیل، نتانیاهو درباره غزه: حماس آنجا نخواهد بود. ما حماس را نابود خواهیم کرد. این کار دشواری نیست."
@@ -802,13 +797,18 @@
    "t": 1792715184.0,
    "n": "the alerts in riyadh city have been lifted they were activated for 9 minutes",
    "fa": "🔄 به‌روزرسانی 🇸🇦⚡️ — هشدارهای امنیتی در شهر ریاض لغو شد. این هشدارها به مدت ۹ دقیقه فعال بودند."
+  },
+  {
+   "t": 1792716854.0,
+   "n": "denmark has confirmed its first purchase of long range precision missiles including anthem and joint strike missiles for its f 35 fighter jets as part of efforts to strengthen its military capabilities and deter potential russian aggression danish defence minister jeppe bruus said the weapons would allow denmark to strike targets behind enemy lines in the event of an attack citing the deterioratin",
+   "fa": "🇩🇰⚡️ — دانمارک تأیید کرد که برای نخستین بار موشک‌های دقیق دوربرد، از جمله موشک‌های انتم و موشک‌های حمله مشترک برای جنگنده‌های اف-۳۵ خود را به عنوان بخشی از تلاش‌ها برای تقویت توانمندی‌های نظامی و بازدارندگی در برابر تجاوز احتمالی روسیه خریداری کرده است. یپه برووس، وزیر دفاع دانمارک، گفت این تسلیحات به دانمارک اجازه می‌دهد در صورت بروز حمله، اهدافی را در پشت خطوط دشمن هدف قرار دهد و به وضعیت رو به "
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 4
+  "requests": 5
  },
- "flip": 1577,
+ "flip": 1578,
  "quote_n": 716,
  "signals": [
   {
@@ -1615,6 +1615,11 @@
    "t": 1792715286.852896,
    "s": 4,
    "p": 50
+  },
+  {
+   "t": 1792716966.3378615,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
