@@ -381,7 +381,8 @@
     "WP-WSJ-0003999646",
     "SB11676206231181634135104593528032272153790",
     "WP-WSJ-0003994735",
-    "WP-WSJ-0003999309"
+    "WP-WSJ-0003999309",
+    "WP-WSJ-0003886883"
    ]
   },
   "NYT": {
@@ -503,11 +504,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792694473.0,
-   "n": "بی بی سی برای اولین بار یک نفر در فرانسه به شاموندا ویروسی که فقط گاوها می گرفتند مبتلا شده",
-   "fa": "⭕️بی بی سی: برای اولین بار یک نفر در فرانسه به شاموندا، ویروسی که فقط گاوها می‌گرفتند، مبتلا شده"
-  },
   {
    "t": 1792694512.0,
    "n": "israeli prime minister netanyahu the unholy alliance between the extreme left and radical islam destroyed france and now they are destroying britain they will destroy the state of israel they will bring us to the brink of annihilation",
@@ -802,14 +798,19 @@
    "t": 1792717210.0,
    "n": "president trump seemingly glitches when trying to say jihadist",
    "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ ظاهراً هنگام تلاش برای گفتن کلمه «جهادی» دچار لکنت زبان شد."
+  },
+  {
+   "t": 1792717200.0,
+   "n": "china s most controversial region has become a showcase for its commercial ambitions xinjiang once the focus of international criticism is key to beijing s plan to expand exports and energy production",
+   "fa": "⭕️ منطقه سین‌کیانگ چین به کانون جاه‌طلبی‌های تجاری و انرژی پکن تبدیل شده است به گزارش وال‌استریت ژورنال منطقه سین‌کیانگ که روزی کانون انتقادات بین‌المللی بود، اکنون کلید اصلی برنامه پکن برای گسترش صادرات و تولید انرژی به شمار می‌رود."
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 6
+  "requests": 8
  },
- "flip": 1579,
- "quote_n": 716,
+ "flip": 1580,
+ "quote_n": 717,
  "signals": [
   {
    "t": 1792631181.1534727,
