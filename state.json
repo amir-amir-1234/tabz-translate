@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132608
+   "last_id": 132609
   },
   "TelNews_Magazine": {
    "last_id": 101817
   },
   "NE_WG": {
-   "last_id": 115507
+   "last_id": 115509
   }
  },
  "fails": {},
@@ -524,16 +524,6 @@
  },
  "recent": [
   {
-   "t": 1792760621.0,
-   "n": "canadian pm mark carney on türkiye türkiye is a unique country it s a modern european country it s an asian country it s unique it s at the crossroads deep deep history and cutting edge modern very good food lots of reasons to be connected",
-   "fa": "🇨🇦🇹🇷⚡️ — نخست‌وزیر کانادا مارک کارنی درباره ترکیه: ترکیه کشوری بی‌نظیر است. این کشور یک کشور مدرن اروپایی است. این یک کشور آسیایی است. بی‌نظیر است. در چهارراه جهان قرار دارد. تاریخی بسیار عمیق و مدرن پیشرفته. غذای بسیار خوب، دلایل زیادی برای ارتباط وجود دارد."
-  },
-  {
-   "t": 1792760742.0,
-   "n": "israeli prime minister netanyahu we need to understand that there could be sanctions including banking sanctions you have to prepare an economy capable of bypassing them you know about the currencies that can bypass this and i m working on that as well",
-   "fa": "🇮🇱⚡️ — نخست‌وزیر اسرائیل بنیامین نتانیاهو: ما باید بفهمیم که ممکن است تحریم‌هایی از جمله تحریم‌های بانکی وجود داشته باشد. شما باید اقتصاد را برای دور زدن آن‌ها آماده کنید. شما ارزهایی را که می‌توانند این را دور بزنند می‌شناسید. و من هم روی آن کار می‌کنم."
-  },
-  {
    "t": 1792760829.0,
    "n": "host are you afraid of what will happen after trump netanyahu are you not afraid host even if it s jd vance netanyahu i m telling you with certainty there has never been a president this friendly and i doubt there will ever be one like him again so we have to prepare for a rainy day and i m preparing for it",
    "fa": "🇮🇱🇺🇸⚡️ — مجری: آیا از اتفاقات پس از ترامپ می‌ترسید؟ نتانیاهو: مگر شما نمی‌ترسید؟ مجری: حتی اگر جی‌دی ونس باشد؟ نتانیاهو: با اطمینان به شما می‌گویم: هرگز رئیس‌جمهوری به این دوستی وجود نداشته و شک دارم دیگر کسی مثل او بیاید. بنابراین ما باید برای روز مبادا آماده شویم و من هم در حال آماده شدن برای آن هستم."
@@ -822,20 +812,25 @@
    "t": 1792774034.0,
    "n": "israeli settlers turn a palestinian rite into a gantlet of violence and fear this year s olive harvest in the israeli occupied west bank is the most violent in years as settlers have attacked farmers and besieged homes drawing condemnation from u s officials and others",
    "fa": "⭕️ خشونت شهرک‌نشینان اسرائیلی برداشت محصول زیتون در کرانه باختری را به خون کشید به گزارش نیویورک تایمز برداشت محصول زیتون در سال جاری در کرانه باختری اشغالی به خشونت‌آمیزترین مورد طی سال‌های اخیر تبدیل شده است، زیرا شهرک‌نشینان به کشاورزان حمله کرده و خانه‌ها را در محاصره قرار داده‌اند که این اقدامات محکومیت مقام‌های ایالات متحده و دیگران را به دنبال داشته است."
+  },
+  {
+   "t": 1792774547.0,
+   "n": "مجری برنامه از ناصر همتی می پرسد که میزان ذخایر ارزی ایران در حال حاضر چقدر است رئیس بانک مرکزی آیا می خواهید میزان ذخایر ارزی مان را به ترامپ بگویم خیر این رقم را فاش نخواهم کرد ایران ذخایر لازم برای تأمین واردات موردنیاز کشور تا پایان دوره ریاست جمهوری ترامپ را در اختیار دارد",
+   "fa": "⁉️مجری برنامه از ناصر همتی می پرسد که میزان ذخایر ارزی ایران در حال حاضر چقدر است؟ 💢رئیس بانک مرکزی: آیا می‌خواهید میزان ذخایر ارزی‌مان را به ترامپ بگویم؟ خیر، این رقم را فاش نخواهم کرد. ایران ذخایر لازم برای تأمین واردات موردنیاز کشور تا پایان دوره ریاست‌جمهوری ترامپ را در اختیار دارد."
+  },
+  {
+   "t": 1792774561.0,
+   "n": "وزیر خارجه فرانسه هرگونه تنش جدید بین ایران و آمریکا به افزایش بهای نفت منجر خواهد شد",
+   "fa": "🇫🇷🇺🇸🇮🇷وزیر خارجه فرانسه: هرگونه تنش جدید بین ایران و آمریکا به افزایش بهای نفت منجر خواهد شد"
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 133
+  "requests": 134
  },
- "flip": 1684,
+ "flip": 1686,
  "quote_n": 771,
  "signals": [
-  {
-   "t": 1792688197.9756892,
-   "s": 4,
-   "p": 50
-  },
   {
    "t": 1792688513.8241754,
    "s": 4,
@@ -1710,6 +1705,16 @@
    "t": 1792774570.5700324,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792774919.9216533,
+   "s": 3,
+   "p": 50
+  },
+  {
+   "t": 1792774924.7453287,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
