@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109036
+   "last_id": 109037
   },
   "khabarfouri": {
    "last_id": 569949
@@ -406,7 +406,8 @@
     "SB11676206231181634135104593524062116361572",
     "SB11676206231181634135104593529732124994550",
     "WP-WSJ-0004003894",
-    "SB10553546939527494218504593526072221552426"
+    "SB10553546939527494218504593526072221552426",
+    "WP-WSJ-0004003036"
    ]
   },
   "NYT": {
@@ -534,16 +535,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792780801.0,
-   "n": "سازمان توسعه تجارت مشکل تجارت ایران و پاکستان در روزهای آینده حل می شود",
-   "fa": "🇮🇷🇵🇰سازمان توسعه تجارت: مشکل تجارت ایران و پاکستان در روزهای آینده حل می‌شود"
-  },
-  {
-   "t": 1792780934.0,
-   "n": "هم اکنون وضعیت عادی ترافیک هوایی در خاورمیانه",
-   "fa": "🔴هم اکنون وضعیت عادی ترافیک هوایی در خاورمیانه"
-  },
   {
    "t": 1792781419.0,
    "n": "ansarallah announces over the past 24 hours saudi forces conducted 124 airstrikes and missile strikes against ansarallah s capital sana a and ansarallah controlled ta izz lahij sa dah hajjah al hudaydah amran al jawf governorates royal saudi air force f 15 fighter jets from king khalid ab conducted airstrikes and missiles were launched from najran province southwestern ksa the attacks caused casua",
@@ -833,14 +824,24 @@
    "t": 1792793950.0,
    "n": "مسعود پزشکیان سر مزار آیت الله خامنه ای",
    "fa": "⭕️ ‏🇮🇷🇮🇷 مسعود پزشکیان‌ سر مزار آیت‌الله خامنه‌ای ‎"
+  },
+  {
+   "t": 1792794658.0,
+   "n": "shatrujeet kapur the director general of the indian indo tibetan border police confirmed during a press conference that skirmishes between the pla and the indian army have been ongoing since the month of july claiming that the confrontation took place even during chinese president xi jinping s visit to delhi during the brics summit",
+   "fa": "🇮🇳❌🇨🇳 — شاتروجیت کاپور، مدیرکل پلیس مرزی هند و تبت، در جریان یک کنفرانس مطبوعاتی تأیید کرد که درگیری‌ها میان ارتش آزادیبخش خلق چین و ارتش هند از ماه ژوئیه ادامه داشته و مدعی شد که این رویارویی حتی در جریان سفر شی جین‌پینگ، رئیس‌جمهور چین به دهلی در جریان اجلاس بریکس نیز رخ داده است."
+  },
+  {
+   "t": 1792794780.0,
+   "n": "iran is now losing overland trade routes to u s pressure pakistan and iraq have shut some border crossings tightening the economic squeeze of the navy blockade and air sanctions",
+   "fa": "⭕️ ایران در پی فشارهای ایالات متحده مسیرهای تجارت زمینی خود را از دست می‌دهد به گزارش وال‌استریت ژورنال، کشورهای پاکستان و عراق برخی از گذرگاه‌های مرزی خود را بسته‌اند که این امر باعث تشدید فشار اقتصادی ناشی از محاصره دریایی و تحریم‌های هوایی شده است."
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 217
+  "requests": 219
  },
- "flip": 1746,
- "quote_n": 798,
+ "flip": 1748,
+ "quote_n": 799,
  "feed": [
   {
    "t": 1792781419.0,
@@ -1073,14 +1074,17 @@
   {
    "t": 1792793950.0,
    "tx": "⭕️ ‏🇮🇷🇮🇷 مسعود پزشکیان‌ سر مزار آیت‌الله خامنه‌ای\n\n‎"
+  },
+  {
+   "t": 1792794658.0,
+   "tx": "🇮🇳❌🇨🇳 — شاتروجیت کاپور، مدیرکل پلیس مرزی هند و تبت، در جریان یک کنفرانس مطبوعاتی تأیید کرد که درگیری‌ها میان ارتش آزادیبخش خلق چین و ارتش هند از ماه ژوئیه ادامه داشته و مدعی شد که این رویارویی حتی در جریان سفر شی جین‌پینگ، رئیس‌جمهور چین به دهلی در جریان اجلاس بریکس نیز رخ داده است."
+  },
+  {
+   "t": 1792794780.0,
+   "tx": "⭕️ ایران در پی فشارهای ایالات متحده مسیرهای تجارت زمینی خود را از دست می‌دهد\n\nبه گزارش وال‌استریت ژورنال، کشورهای پاکستان و عراق برخی از گذرگاه‌های مرزی خود را بسته‌اند که این امر باعث تشدید فشار اقتصادی ناشی از محاصره دریایی و تحریم‌های هوایی شده است."
   }
  ],
  "signals": [
-  {
-   "t": 1792708317.3998406,
-   "s": 5,
-   "p": 85
-  },
   {
    "t": 1792708879.4516578,
    "s": 5,
@@ -2075,6 +2079,11 @@
    "t": 1792794079.3783114,
    "s": 3,
    "p": 50
+  },
+  {
+   "t": 1792794974.7394078,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
