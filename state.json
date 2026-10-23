@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108989
+   "last_id": 108991
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132594
+   "last_id": 132596
   },
   "TelNews_Magazine": {
    "last_id": 101810
   },
   "NE_WG": {
-   "last_id": 115493
+   "last_id": 115495
   }
  },
  "fails": {},
@@ -520,16 +520,6 @@
  },
  "recent": [
   {
-   "t": 1792758601.0,
-   "n": "سنتکام پرواز جنگنده های پنهان کار اف ۳۵سی از پایگاهی در خاورمیانه فرماندهی مرکزی آمریکا سنتکام اعلام کرد تفنگداران دریایی این کشور در جریان عملیات پروازی معمول جنگنده های پنهان کار f 35c را از یک پایگاه در خاورمیانه به پرواز درآوردند",
-   "fa": "⭕️ 〰️🇺🇸❌🇮🇷 سنتکام: پرواز جنگنده‌های پنهان‌کار اف-۳۵سی از پایگاهی در خاورمیانه 💢فرماندهی مرکزی آمریکا (سنتکام) اعلام کرد تفنگداران دریایی این کشور در جریان عملیات پروازی معمول، جنگنده‌های پنهان‌کار F-35C را از یک پایگاه در خاورمیانه به پرواز درآوردند."
-  },
-  {
-   "t": 1792758677.0,
-   "n": "fifty antifa groups in france join vast network to ensure chaos in weekend protests first on fox some 50 radical antifa cells in a wider network of nearly 300 groups are mobilizing to ensure this weekend s demonstrations in france devolve into chaos and mayhem fox news digital has learned self described antifa groups are working with a sprawling network of communist socialist far left and anti isr",
-   "fa": "🔴 بسیج حدود ۵۰ گروه آنتیفا در فرانسه برای ایجاد آشوب در تظاهرات آخر هفته به گزارش فاکس نیوز بررسی‌های این رسانه نشان می‌دهد که حدود ۵۰ هسته رادیکال آنتیفا در قالب یک شبکه گسترده‌تر شامل نزدیک به ۳۰۰ گروه، در حال بسیج شدن هستند تا اطمینان حاصل کنند که تظاهرات آخر هفته جاری در فرانسه به آشوب و بی‌نظمی کشیده شود. گروه‌های خودخوانده آنتیفا با یک شبکه گسترده از گروه‌های کمونیستی، سوسیالیستی، چپ افراطی "
-  },
-  {
    "t": 1792758679.0,
    "n": "لحظاتی پیش نفت برنت برای اولین بار پس از آتش بس میان ایران و آمریکا از 115 دلار عبور کرد",
    "fa": "⭕️لحظاتی پیش نفت برنت برای اولین بار پس از آتش بس میان ایران و آمریکا، از 115 دلار عبور کرد."
@@ -818,14 +808,24 @@
    "t": 1792769514.0,
    "n": "the shooters of the hamoud church pledged loyalty to the isis terror organization prior to the shooting one of them said we massacred the christians in support of islam and the islamic state",
    "fa": "🏴‍☠️❌🇯🇴 — عاملان تیراندازی کلیسای حمود پیش از تیراندازی با سازمان تروریستی داعش بیعت کرده بودند. یکی از آن‌ها گفت: «ما مسیحیان را در حمایت از اسلام و دولت اسلامی قتل‌عام کردیم»."
+  },
+  {
+   "t": 1792769817.0,
+   "n": "bloomberg reports u k prime minister andy burnham is scheduled to speak with president trump today as u k officials get concerned the u s is preparing a new offensive against iran that could disrupt energy and further increase inflation favoring a diplomatic solution to the conflict this will be the first time burnham and trump speak since trump announced the russian american diesel deal",
+   "fa": "🇬🇧🇺🇸🇮🇷⚡️ — بلومبرگ گزارش داد اندی برنهام، نخست‌وزیر بریتانیا، برنامه‌ریزی کرده است امروز با رئیس‌جمهور ترامپ گفتگو کند؛ زیرا مقامات بریتانیایی نگرانند که ایالات متحده در حال آماده‌سازی یک تهاجم جدید علیه ایران باشد که می‌تواند بازار انرژی را مختل کرده و تورم را بیشتر افزایش دهد، و از این رو از یک راه حل دیپلماتیک برای مناقشه حمایت می‌کنند. این اولین باری خواهد بود که برنهام و ترامپ از زمان اعلام ت"
+  },
+  {
+   "t": 1792769905.0,
+   "n": "u s special envoy tom barrack on iran could there be a strike this weekend absolutely president trump has been very clear he s open and available and accessible to a deal and we ve been at the table for months and months and months everybody agrees pretty much that the imminent threat of nuclear is gone",
+   "fa": "🇺🇸🇮🇷⚡️ — تام باراک، فرستاده ویژه ایالات متحده در امور ایران: آیا ممکن است در این آخر هفته حمله‌ای رخ دهد؟ قطعاً. رئیس‌جمهور ترامپ بسیار صریح بوده است. او آماده، در دسترس و پذیرای یک توافق است. و ما ماه‌ها و ماه‌هاست که پشت میز مذاکره بوده‌ایم. تقریباً همه توافق دارند که تهدید قریب‌الوقوع اتمی از بین رفته است."
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 114
+  "requests": 115
  },
- "flip": 1671,
- "quote_n": 760,
+ "flip": 1672,
+ "quote_n": 761,
  "signals": [
   {
    "t": 1792683784.2157385,
@@ -1666,11 +1666,21 @@
    "t": 1792769493.8249202,
    "s": 1,
    "p": 65
+  },
+  {
+   "t": 1792770084.1060271,
+   "s": 2,
+   "p": 70
+  },
+  {
+   "t": 1792770091.2283154,
+   "s": 5,
+   "p": 85
   }
  ],
  "risk": {
   "base": 100,
-  "ts": 1792766181.8675945,
+  "ts": 1792770094.2326565,
   "attack": true
  },
  "attack_ts": 1792766178.860622,
