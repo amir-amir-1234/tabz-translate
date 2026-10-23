@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108971
+   "last_id": 108972
   },
   "khabarfouri": {
    "last_id": 569949
@@ -518,11 +518,6 @@
  },
  "recent": [
   {
-   "t": 1792745581.0,
-   "n": "گاردین به دیپلمات های بریتانیایی و آلمانی دستور داده شده است که پس از نیمه شب اردن و کویت را ترک کنند",
-   "fa": "⭕️گاردین: به دیپلمات‌های بریتانیایی و آلمانی دستور داده شده است که پس از نیمه‌شب، اردن و کویت را ترک کنند."
-  },
-  {
    "t": 1792746052.0,
    "n": "the epstein files produce an unlikely weapon for the houthi messaging wars the yemeni militia is using the culture of its sworn enemies in the renewed fighting with saudi arabia",
    "fa": "🔴 استفاده حوثی‌ها از پرونده‌های اپستین در جنگ تبلیغاتی علیه عربستان سعودی به گزارش نیویورک تایمز شبه‌نظامیان یمنی در جریان درگیری‌های تازه با عربستان سعودی، از فرهنگ دشمنان قسم‌خورده خود به عنوان یک سلاح غیرمنتظره بهره می‌گیرند."
@@ -816,13 +811,18 @@
    "t": 1792762040.0,
    "n": "the white house announced that first lady melania trump helped secure a temporary localized ceasefire between russia and ukraine in the city of oleshky beginning october 29 both sides agreed to suspend military operations in the area to allow humanitarian aid deliveries and establish a safe evacuation corridor for civilians particularly elderly residents facing severe shortages of food water and m",
    "fa": "🇺🇸🇺🇦🇷🇺⚡️ — کاخ سفید اعلام کرد ملانیا ترامپ، بانوی اول آمریکا، به برقراری یک آتش‌بس موقت و محلی میان روسیه و اوکراین در شهر اولشکی کمک کرده که از ۲۹ اکتبر آغاز می‌شود. دو طرف توافق کردند عملیات نظامی را در این منطقه به حالت تعلیق درآورند تا امکان ارسال کمک‌های بشردوستانه و ایجاد یک کریدور تخلیه امن برای غیرنظامیان، به‌ویژه ساکنان سالخورده‌ای که با کمبود شدید مواد غذایی، آب و تجهیزات پزشکی مواجه هست"
+  },
+  {
+   "t": 1792762381.0,
+   "n": "the sudanese government in a statement of the ministry of foreign affairs categorically refuted any accusation linking them to the abye attack instead accusing the uae backed rsf of being responsible",
+   "fa": "🇸🇩🇸🇸🇸🇩 — دولت سودان با انتشار بیانیه‌ای از سوی وزارت امور خارجه، هرگونه اتهام مبنی بر ارتباط خود با حمله ابیی را به شدت رد کرد و در عوض، نیروهای واکنش سریع (RSF) تحت حمایت امارات را مسئول آن دانست."
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 92
+  "requests": 93
  },
- "flip": 1653,
+ "flip": 1654,
  "quote_n": 752,
  "signals": [
   {
