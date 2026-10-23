@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132620
+   "last_id": 132622
   },
   "TelNews_Magazine": {
    "last_id": 101829
   },
   "NE_WG": {
-   "last_id": 115529
+   "last_id": 115530
   }
  },
  "fails": {},
@@ -527,11 +527,6 @@
  },
  "recent": [
   {
-   "t": 1792768034.0,
-   "n": "reporter you must know now who ordered starlink limitations on ukraine trump i have no idea i wouldn t tell you if i did know why would i tell you",
-   "fa": "🇺🇸🇺🇦⚡️ — خبرنگار: شما باید اکنون بدانید چه کسی دستور محدودیت‌های استارلینک در اوکراین را صادر کرد. ترامپ: هیچ ایده‌ای ندارم. اگر هم می‌دانستم به شما نمی‌گفتم. چرا باید به شما بگویم؟"
-  },
-  {
    "t": 1792768072.0,
    "n": "president trump on ukraine s starlink access if there s a problem i will get it straightened out",
    "fa": "🇺🇸🇺🇦⚡️ — رئیس‌جمهور ترامپ درباره دسترسی اوکراین به استارلینک: اگر مشکلی وجود داشته باشد، آن را حل خواهم کرد."
@@ -825,25 +820,20 @@
    "t": 1792778803.0,
    "n": "reporter your ambassador to türkiye said that absolutely there could be a strike on iran this weekend trump he is a powerful man i guess i don t know anything about it",
    "fa": "🇺🇸🇮🇷⚡️ — خبرنگار: سفیر شما در ترکیه گفته است که «قطعاً» ممکن است آخر هفته حمله‌ای به ایران صورت بگیرد. ترامپ: گمان می‌کنم او مرد قدرتمندی است. من چیزی در این باره نمی‌دانم."
+  },
+  {
+   "t": 1792779048.0,
+   "n": "کاخ سفید در پیام فوری تمام شهروندان امریکایی در امارات و قطر و بحرین و کویت دستور خروج فوری صادر کرد",
+   "fa": "⭕️⭕️ کاخ سفید در پیام فوری: تمام شهروندان امریکایی در امارات و قطر و بحرین و کویت دستور خروج فوری صادر کرد‼️"
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 161
+  "requests": 162
  },
  "flip": 1702,
  "quote_n": 776,
  "signals": [
-  {
-   "t": 1792692692.3941493,
-   "s": 5,
-   "p": 90
-  },
-  {
-   "t": 1792692696.1890247,
-   "s": 4,
-   "p": 85
-  },
   {
    "t": 1792693285.635321,
    "s": 4,
@@ -1713,6 +1703,11 @@
    "t": 1792779100.2929313,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792779376.4891577,
+   "s": 5,
+   "p": 90
   }
  ],
  "risk": {
