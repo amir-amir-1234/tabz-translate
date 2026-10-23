@@ -13,7 +13,7 @@
    "last_id": 101776
   },
   "NE_WG": {
-   "last_id": 115440
+   "last_id": 115441
   }
  },
  "fails": {},
@@ -509,11 +509,6 @@
  },
  "recent": [
   {
-   "t": 1792702615.0,
-   "n": "president trump on iran many great patriots really love the iran war",
-   "fa": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره ایران: بسیاری از میهن‌پرستان بزرگ واقعاً جنگ با ایران را دوست دارند."
-  },
-  {
    "t": 1792702800.0,
    "n": "treasury issues proposed rule to implement comprehensive outbound investment national security act washington the u s department of the treasury treasury today issued a notice of proposed rulemaking nprm to propose updates to the outbound investment security program oisp based on direction from congress in the comprehensive outbound investment security coins act passed as part of the fiscal year 2",
    "fa": "🚨 وزارت خزانه‌داری آمریکا پیش‌نویس قانون سرمایه‌گذاری خارجی را صادر کرد به گزارش وزارت خزانه‌داری آمریکا، این وزارتخانه امروز اخطاریه پیشنهاد قانون‌گذاری صادر کرد تا به‌روزرسانی‌های برنامه امنیت سرمایه‌گذاری خارجی را بر اساس دستورالعمل کنگره در قانون امنیت سرمایه‌گذاری خارجی جامع، که به عنوان بخشی از قانون اجازه دفاع ملی سال مالی ۲۰۲۶ تصویب شده است، پیشنهاد کند. قانون امنیت سرمایه‌گذاری خارجی جامع"
@@ -807,25 +802,20 @@
    "t": 1792742706.0,
    "n": "two suspected gunmen killed after shooting wounds 5 israelis in west bank five people were wounded including two critically and two suspected gunmen were killed in a shooting friday in the southern west bank officials said the israel defense forces idf reported that it responded to a shooting in the judea junction area friday and killed two people it identified as terrorists a blockade was establi",
    "fa": "🔄 به‌روزرسانی ⭕️ کشته شدن دو مهاجم و زخمی شدن پنج اسرائیلی در تیراندازی کرانه باختری به گزارش فاکس نیوز مقام‌ها اعلام کردند در پی یک تیراندازی در روز جمعه در جنوب کرانه باختری، پنج نفر زخمی شدند که حال دو تن از آن‌ها وخیم است و دو فرد مظنون به تیراندازی نیز کشته شدند. اردیو اسرائیل اعلام کرد که به یک تیراندازی در منطقه تقاطع یهودا در روز جمعه واکنش نشان داده و دو نفر را که آن‌ها را تروریست معرفی ک"
+  },
+  {
+   "t": 1792744002.0,
+   "n": "اینترنت ثابت هم گران شد ایرانسل هم قیمت اینترنت td lte را ۴۰ درصد افزایش داد",
+   "fa": "⭕️اینترنت ثابت هم گران شد ایرانسل هم قیمت اینترنت TD-LTE را ۴۰ درصد افزایش داد."
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 41
+  "requests": 42
  },
- "flip": 1602,
+ "flip": 1603,
  "quote_n": 730,
  "signals": [
-  {
-   "t": 1792657575.020587,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1792657578.3881679,
-   "s": 3,
-   "p": 50
-  },
   {
    "t": 1792658174.0925949,
    "s": 3,
@@ -1620,19 +1610,24 @@
    "t": 1792743077.9525912,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792744285.3826184,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
-  "base": 62,
-  "ts": 1792733482.8358872,
+  "base": 61,
+  "ts": 1792744288.3847818,
   "attack": false,
-  "n": 167,
+  "n": 160,
   "shares": {
    "1": 0,
-   "2": 4,
-   "3": 20,
-   "4": 51,
-   "5": 26
+   "2": 3,
+   "3": 28,
+   "4": 50,
+   "5": 20
   }
  },
  "attack_ts": 1792706769.6983304,
