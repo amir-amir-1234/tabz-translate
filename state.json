@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108934
+   "last_id": 108935
   },
   "khabarfouri": {
    "last_id": 569949
@@ -505,11 +505,6 @@
  },
  "recent": [
   {
-   "t": 1792694512.0,
-   "n": "israeli prime minister netanyahu the unholy alliance between the extreme left and radical islam destroyed france and now they are destroying britain they will destroy the state of israel they will bring us to the brink of annihilation",
-   "fa": "🇮🇱🇬🇧🇫🇷⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: ائتلاف نامقدس میان چپ افراطی و اسلام‌گرایی افراطی، فرانسه را نابود کرد و اکنون در حال نابودی بریتانیا است. آن‌ها دولت اسرائیل را نیز نابود خواهند کرد. آن‌ها ما را تا آستانه نابودی پیش خواهند برد."
-  },
-  {
    "t": 1792695567.0,
    "n": "russian president vladimir putin the lands lost by kyiv are not their territory they are historically russian lands",
    "fa": "🇷🇺❌🇺🇦 — ولادیمیر پوتین، رئیس‌جمهور روسیه: سرزمین‌هایی که کی‌یف از دست داده قلمرو آن‌ها نیست؛ آن‌ها سرزمین‌های تاریخی روسیه هستند."
@@ -803,20 +798,20 @@
    "t": 1792717200.0,
    "n": "china s most controversial region has become a showcase for its commercial ambitions xinjiang once the focus of international criticism is key to beijing s plan to expand exports and energy production",
    "fa": "⭕️ منطقه سین‌کیانگ چین به کانون جاه‌طلبی‌های تجاری و انرژی پکن تبدیل شده است به گزارش وال‌استریت ژورنال منطقه سین‌کیانگ که روزی کانون انتقادات بین‌المللی بود، اکنون کلید اصلی برنامه پکن برای گسترش صادرات و تولید انرژی به شمار می‌رود."
+  },
+  {
+   "t": 1792717541.0,
+   "n": "president trump you know we only have a little more than two years left can you believe it but i m going to have a lot of power when i leave and i m going to keep you number one",
+   "fa": "🇺🇸⚡️ — دونالد ترامپ: می‌دانید، ما فقط کمی بیش از دو سال دیگر زمان داریم. می‌توانید باور کنید؟ اما وقتی بروم قدرت زیادی خواهم داشت و شما را شماره یک نگه خواهم داشت."
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 8
+  "requests": 9
  },
- "flip": 1580,
+ "flip": 1581,
  "quote_n": 717,
  "signals": [
-  {
-   "t": 1792631181.1534727,
-   "s": 4,
-   "p": 70
-  },
   {
    "t": 1792633873.6109924,
    "s": 4,
@@ -1624,6 +1619,11 @@
   },
   {
    "t": 1792717299.2509274,
+   "s": 4,
+   "p": 30
+  },
+  {
+   "t": 1792717883.1350596,
    "s": 4,
    "p": 30
   }
