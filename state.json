@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108936
+   "last_id": 108938
   },
   "khabarfouri": {
    "last_id": 569949
@@ -505,11 +505,6 @@
  },
  "recent": [
   {
-   "t": 1792695567.0,
-   "n": "russian president vladimir putin the lands lost by kyiv are not their territory they are historically russian lands",
-   "fa": "🇷🇺❌🇺🇦 — ولادیمیر پوتین، رئیس‌جمهور روسیه: سرزمین‌هایی که کی‌یف از دست داده قلمرو آن‌ها نیست؛ آن‌ها سرزمین‌های تاریخی روسیه هستند."
-  },
-  {
    "t": 1792696260.0,
    "n": "el salvador attempts rescue of military personnel after gang ambush in haiti salvadoran president nayib bukele threatens a harsher military response if haitian gangs don t return four salvadoran members of a u n backed force alive",
    "fa": "⭕️ هشدار بوکله به باندهای هائیتی پس از کمین و ربایش نظامیان سالوادوری به گزارش وال‌استریت ژورنال، نایب بوکله، رئیس‌جمهور السالوادور، تهدید کرده است که اگر باندهای هائیتی چهار عضو سالوادوری یک نیروی تحت حمایت سازمان ملل را زنده بازنگردانند، با واکنش نظامی شدیدتری مواجه خواهند شد. این تهدید پس از آن مطرح شد که نظامیان سالوادوری در کمین باندهای هائیتی گرفتار شدند و السالوادور تلاش برای نجات پرسنل نظا"
@@ -803,14 +798,19 @@
    "t": 1792717541.0,
    "n": "president trump you know we only have a little more than two years left can you believe it but i m going to have a lot of power when i leave and i m going to keep you number one",
    "fa": "🇺🇸⚡️ — دونالد ترامپ: می‌دانید، ما فقط کمی بیش از دو سال دیگر زمان داریم. می‌توانید باور کنید؟ اما وقتی بروم قدرت زیادی خواهم داشت و شما را شماره یک نگه خواهم داشت."
+  },
+  {
+   "t": 1792718555.0,
+   "n": "alerts in najran province southwestern ksa",
+   "fa": "🇾🇪❌🇸🇦 — اعلام هشدار در استان نجران در جنوب غربی عربستان سعودی."
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 10
+  "requests": 11
  },
  "flip": 1581,
- "quote_n": 717,
+ "quote_n": 718,
  "signals": [
   {
    "t": 1792633873.6109924,
@@ -1626,6 +1626,11 @@
    "t": 1792717883.1350596,
    "s": 4,
    "p": 30
+  },
+  {
+   "t": 1792718766.5552285,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
