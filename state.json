@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108952
+   "last_id": 108956
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132570
+   "last_id": 132571
   },
   "TelNews_Magazine": {
    "last_id": 101791
@@ -515,21 +515,6 @@
  },
  "recent": [
   {
-   "t": 1792728072.0,
-   "n": "gadi eisenkot couldn t be more unlike netanyahu can he beat him mr eisenkot an ex military chief leading in the polls calls the israeli prime minister an anti leader but his low key campaigning style is worrying supporters",
-   "fa": "🔴 گادی آیزنکوت و چالش‌های پیش‌روی او در رقابت با بنیامین نتانیاهو به گزارش نیویورک تایمز گادی آیزنکوت، رئیس پیشین ارتش که در نظرسنجی‌ها پیشتاز است، نخست‌وزیر اسرائیل را یک ضدرهبر می‌نامد. با این حال، سبک مبارزات انتخاباتی کم‌هیاهوی او باعث نگرانی حامیانش شده است."
-  },
-  {
-   "t": 1792731456.0,
-   "n": "two palestinians conducted a shooting in the vicinity of hebron west bank against an idf checkpoint two idf soldiers were injured in the attack and both the palestinians were killed",
-   "fa": "🇵🇸❌🇮🇱 — دو فلسطینی در نزدیکی الخلیل در کرانه باختری دست به تیراندازی علیه یک ایست بازرسی ارتش اسرائیل زدند. دو سرباز ارتش اسرائیل در این حمله زخمی شدند و هر دو فرد فلسطینی کشته شدند."
-  },
-  {
-   "t": 1792731613.0,
-   "n": "injury toll among israelis has rose to four two are in critical condition and two are lightly injured",
-   "fa": "🔄 به‌روزرسانی 🇵🇸❌🇮🇱 — آمار مجروحان اسرائیلی به چهار نفر افزایش یافت. دو نفر در وضعیت وخیم و دو نفر به صورت سطحی مجروح شده‌اند."
-  },
-  {
    "t": 1792731782.0,
    "n": "چند هواپیمای نظامی روسیه در پایگاه هوایی تاکتیکی ششم بوشهر فرود آمدند احتمالا حامل تجهیزات نظامی",
    "fa": "⭕️چند هواپیمای نظامی روسیه در پایگاه هوایی تاکتیکی ششم بوشهر فرود آمدند؛ احتمالاً حامل تجهیزات نظامی!"
@@ -813,14 +798,29 @@
    "t": 1792759176.0,
    "n": "تهدید پاکستان و عراق توسط بابک زنجانی از دوشنبه منتظر قیمت جدید گاز باشید",
    "fa": "🇮🇷❌🇵🇰🇮🇶‼️تهدید پاکستان و عراق توسط بابک زنجانی/ از دوشنبه منتظر قیمت جدید گاز باشید"
+  },
+  {
+   "t": 1792759197.0,
+   "n": "نشست وزیران خارجه ترکیه عربستان سعودی پاکستان و مصر به همراه چهار کشور اروپایی در استانبول آغاز شد",
+   "fa": "🇹🇷🇸🇦🇵🇰🇪🇬 نشست وزیران خارجه ترکیه، عربستان سعودی، پاکستان و مصر به همراه چهار کشور اروپایی در استانبول آغاز شد."
+  },
+  {
+   "t": 1792759257.0,
+   "n": "new at least seven people were killed and around 10 others injured some critically after gunmen opened fire during a funeral at a church in jordan s southern karak governorate earlier today the attack occurred at hamoud church in the village of hmoud approximately 100 kilometers south of amman eyewitnesses say two gunmen exited a vehicle and opened fire on mourners for roughly five minutes before ",
+   "fa": "🇯🇴⚡️ — فوریه: بر اثر تیراندازی افراد مسلح در جریان یک مراسم تدفین در کلیسایی در استان الکرک در جنوب اردن، دست‌کم هفت نفر کشته و حدود ۱۰ نفر دیگر زخمی شدند که حال برخی از آن‌ها وخیم گزارش شده است. این حمله در کلیسای حمود در روستای حمود، در حدود ۱۰۰ کیلومتری جنوب امان رخ داد. به گفته شاهدان عینی، دو فرد مسلح از یک خودرو پیاده شده و به مدت حدود پنج دقیقه به روی شرکت‌کنندگان در مراسم آتش گشودند و سپس "
+  },
+  {
+   "t": 1792759445.0,
+   "n": "the israeli military announced that two soldiers were killed and three others wounded in a shooting attack at a checkpoint near hebron in the occupied west bank this morning the soldiers were identified as staff sgt ron yonatan roytman 23 from ashkelon and sgt yuval shai svilem 20 from hod hasharon three other soldiers sustained light to moderate injuries the two palestinian attackers were killed ",
+   "fa": "🇵🇸❌🇮🇱 — ارتش اسرائیل اعلام کرد که در پی یک حمله تیراندازی در یک ایست بازرسی در نزدیکی الخلیل در کرانه باختری اشغالی، دو نظامی کشته و سه تن دیگر زخمی شدند. این سربازان، استوار دوم ران یوناتان رویِتمن ۲۳ ساله از اشکلون و گروهبان یووال شای سویلم ۲۰ ساله از هود هشارون معرفی شدند. سه نظامی دیگر جراحات خفیف تا متوسط برداشتند. دو مهاجم فلسطینی پس از ۲۰ دقیقه تبادل آتش با نیروهای اسرائیلی کشته شدند."
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 81
+  "requests": 82
  },
- "flip": 1635,
- "quote_n": 746,
+ "flip": 1636,
+ "quote_n": 748,
  "signals": [
   {
    "t": 1792673190.1783543,
@@ -1596,6 +1596,16 @@
    "t": 1792759285.3775756,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792759574.1344562,
+   "s": 2,
+   "p": 50
+  },
+  {
+   "t": 1792759584.038273,
+   "s": 4,
+   "p": 80
   }
  ],
  "risk": {
