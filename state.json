@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132553
+   "last_id": 132554
   },
   "TelNews_Magazine": {
    "last_id": 101780
   },
   "NE_WG": {
-   "last_id": 115446
+   "last_id": 115447
   }
  },
  "fails": {},
@@ -456,7 +456,8 @@
     "https://www.nytimes.com/2026/10/22/podcasts/the-daily/israel-election-netanyahu.html",
     "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
     "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
-    "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html"
+    "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
+    "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html"
    ]
   },
   "Treasury": {
@@ -509,11 +510,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792704879.0,
-   "n": "a secondary possibility is russia evacuating nuclear scientists from bushehr npp but i don t believe this was the sole purpose of the mission as there weren t enough nuclear scientists there to require several planes it is however possible that russian nuclear scientists were evacuated after military supplies were unloaded if this occured then war is more likely",
-   "fa": "🇷🇺🇮🇷⚡️ — احتمال دوم تخلیه دانشمندان هسته‌ای روسیه از نیروگاه اتمی بوشهر است، اما من معتقدم این تنها هدف مأموریت نبوده است زیرا تعداد دانشمندان هسته‌ای به اندازه‌ای نبود که به چندین هواپیما نیاز داشته باشد. با این حال، ممکن است دانشمندان هسته‌ای روسیه پس از تخلیه تجهیزات نظامی از کشور خارج شده باشند. اگر این اتفاق رخ داده باشد، احتمال جنگ بیشتر است."
-  },
   {
    "t": 1792704990.0,
    "n": "یک مقام دولتی به نشنال گفت که انتظار می رود پس از بستن گذرگاه مرزی الشیب با ایران توسط عراق گذرگاه های دیگر نیز به تدریج از این مسیر پیروی کنند",
@@ -798,13 +794,18 @@
    "t": 1792746661.0,
    "n": "ایرانسل و همراه اول اینترنت و مکالمه را هم ۴۰ درصد گران کردند",
    "fa": "🌐🌐ایرانسل و همراه اول اینترنت و مکالمه را هم ۴۰ درصد گران کردند‼️"
+  },
+  {
+   "t": 1792748101.0,
+   "n": "خوش چشم یک ماه قبل تا اول آبان جنگ حتمیست",
+   "fa": "‼️خوش چشم یک ماه قبل: تا اول آبان جنگ حتمیست!"
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 52
+  "requests": 53
  },
- "flip": 1608,
+ "flip": 1609,
  "quote_n": 733,
  "signals": [
   {
@@ -1606,6 +1607,11 @@
    "t": 1792746974.0647233,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792748171.0999353,
+   "s": 4,
+   "p": 50
   }
  ],
  "risk": {
