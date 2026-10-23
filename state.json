@@ -13,12 +13,10 @@
    "last_id": 101790
   },
   "NE_WG": {
-   "last_id": 115463
+   "last_id": 115464
   }
  },
- "fails": {
-  "web:Fox News/4086949291": 1
- },
+ "fails": {},
  "web": {
   "Fox News": {
    "seen": [
@@ -112,7 +110,8 @@
     "https://www.foxnews.com/world/pope-leo-xiv-needs-no-further-cancer-treatment-after-lung-tumor-removed-doctors-say",
     "https://www.foxnews.com/world/macron-has-one-more-chance-save-country-its-lost-france-business-owner-warns",
     "https://www.foxnews.com/world/frances-macron-blames-protests-ultra-left-groups-aim-bring-down-republic",
-    "https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank"
+    "https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank",
+    "https://www.foxnews.com/world/43-years-after-beirut-terror-attack-killed-241-americans-rabbi-recalls-chaplains-extraordinary-response"
    ]
   },
   "WSJ": {
@@ -515,11 +514,6 @@
  },
  "recent": [
   {
-   "t": 1792717541.0,
-   "n": "president trump you know we only have a little more than two years left can you believe it but i m going to have a lot of power when i leave and i m going to keep you number one",
-   "fa": "🇺🇸⚡️ — دونالد ترامپ: می‌دانید، ما فقط کمی بیش از دو سال دیگر زمان داریم. می‌توانید باور کنید؟ اما وقتی بروم قدرت زیادی خواهم داشت و شما را شماره یک نگه خواهم داشت."
-  },
-  {
    "t": 1792718555.0,
    "n": "alerts in najran province southwestern ksa",
    "fa": "🇾🇪❌🇸🇦 — اعلام هشدار در استان نجران در جنوب غربی عربستان سعودی."
@@ -813,25 +807,20 @@
    "t": 1792758135.0,
    "n": "دانشگاه هرمزگان تمامی کلاس های درس مقطع کارشناسی این دانشگاه طبق روال مهرماه تا اطلاع ثانوی به صورت مجازی برگزار خواهد شد",
    "fa": "❌دانشگاه هرمزگان: تمامی کلاس‌های درس مقطع کارشناسی این دانشگاه، طبق روال مهرماه، تا اطلاع ثانوی به‌صورت مجازی برگزار خواهد شد"
+  },
+  {
+   "t": 1792758601.0,
+   "n": "سنتکام پرواز جنگنده های پنهان کار اف ۳۵سی از پایگاهی در خاورمیانه فرماندهی مرکزی آمریکا سنتکام اعلام کرد تفنگداران دریایی این کشور در جریان عملیات پروازی معمول جنگنده های پنهان کار f 35c را از یک پایگاه در خاورمیانه به پرواز درآوردند",
+   "fa": "⭕️ 〰️🇺🇸❌🇮🇷 سنتکام: پرواز جنگنده‌های پنهان‌کار اف-۳۵سی از پایگاهی در خاورمیانه 💢فرماندهی مرکزی آمریکا (سنتکام) اعلام کرد تفنگداران دریایی این کشور در جریان عملیات پروازی معمول، جنگنده‌های پنهان‌کار F-35C را از یک پایگاه در خاورمیانه به پرواز درآوردند."
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 77
+  "requests": 78
  },
- "flip": 1629,
+ "flip": 1630,
  "quote_n": 745,
  "signals": [
-  {
-   "t": 1792671965.4241781,
-   "s": 2,
-   "p": 50
-  },
-  {
-   "t": 1792671969.8526416,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1792673190.1783543,
    "s": 5,
@@ -1581,6 +1570,11 @@
    "t": 1792758413.2679775,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792758693.5455012,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
