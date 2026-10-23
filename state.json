@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132600
+   "last_id": 132602
   },
   "TelNews_Magazine": {
-   "last_id": 101813
+   "last_id": 101814
   },
   "NE_WG": {
-   "last_id": 115501
+   "last_id": 115502
   }
  },
  "fails": {},
@@ -466,7 +466,8 @@
     "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
     "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
     "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
-    "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html"
+    "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
+    "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html"
    ]
   },
   "Treasury": {
@@ -519,11 +520,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792759681.0,
-   "n": "نشست مشترک کشورهای r4 و e3 به میزبانی ترکیه در استانبول هاکان فیدان وزیر خارجه ترکیه میزبان نخستین نشست مشترک وزرای خارجه گروه r4 شامل ترکیه مصر پاکستان و عربستان با گروه e3 شامل بریتانیا فرانسه و آلمان بود ایتالیا نیز به ابتکار آنکارا در این نشست حضور یافت محورهای گفت وگو شامل مسئله فلسطین گسترش شهرک سازی اسرائیل امنیت تنگه هرمز و یمن و تلاش ها برای پایان جنگ روسیه و اوکراین بود فیدان بر ضرورت مد",
-   "fa": "🔄 به‌روزرسانی 🇹🇷🔴 نشست مشترک کشورهای R4 و E3 به میزبانی ترکیه در استانبول 🔴 هاکان فیدان، وزیر خارجه ترکیه، میزبان نخستین نشست مشترک وزرای خارجه گروه R4 شامل ترکیه، مصر، پاکستان و عربستان با گروه E3 شامل بریتانیا، فرانسه و آلمان بود؛ ایتالیا نیز به ابتکار آنکارا در این نشست حضور یافت. 🔴 محورهای گفت‌وگو شامل مسئله فلسطین، گسترش شهرک‌سازی اسرائیل، امنیت تنگه هرمز و یمن و تلاش‌ها برای پایان جنگ روسیه "
-  },
   {
    "t": 1792759817.0,
    "n": "israeli prime minister netanyahu as for our heroic settlers you are an example to the people of israel you are an example to the state of israel we are going to destroy the terrorist infrastructure and we are going to build the settlement infrastructure we are building and regulating over 100 new settlements and farms right here and not just here of course",
@@ -818,25 +814,20 @@
    "t": 1792772101.0,
    "n": "تام باراک ترامپ تهدیدهای توخالی نمی کند تام باراک نماینده ویژه آمریکا اگر جهان در حال خفه شدن باشد و مسیر جایگزینی برای حل بحران وجود نداشته باشد می توان مطمئن بود که ترامپ به آنچه گفته عمل خواهد کرد",
    "fa": "🇺🇸🇮🇷 تام باراک: ترامپ تهدیدهای توخالی نمی‌کند 〰️ تام باراک، نماینده ویژه آمریکا: «اگر جهان در حال خفه‌شدن باشد و مسیر جایگزینی برای حل بحران وجود نداشته باشد، می‌توان مطمئن بود که ترامپ به آنچه گفته عمل خواهد کرد.»"
+  },
+  {
+   "t": 1792772084.0,
+   "n": "global oil price hits 117 a barrel highest since april investors have grown increasingly concerned that the war in iran could escalate again putting energy supplies at greater risk",
+   "fa": "🔴 افزایش قیمت نفت جهانی به ۱۱۷ دلار در هر بشکه و نگرانی‌ها از تشدید جنگ در ایران به گزارش نیویورک تایمز سرمایه‌گذاران به طور فزاینده‌ای نگران شده‌اند که جنگ در ایران ممکن است دوباره تشدید شود و عرضه انرژی را در معرض خطر بیشتری قرار دهد. قیمت نفت جهانی به ۱۱۷ دلار در هر بشکه رسید که بالاترین میزان از ماه آوریل تاکنون است."
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 122
+  "requests": 124
  },
- "flip": 1678,
- "quote_n": 764,
+ "flip": 1679,
+ "quote_n": 765,
  "signals": [
-  {
-   "t": 1792686096.027455,
-   "s": 4,
-   "p": 65
-  },
-  {
-   "t": 1792686100.2457347,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1792686397.356442,
    "s": 5,
@@ -1691,6 +1682,11 @@
    "t": 1792772181.214392,
    "s": 4,
    "p": 80
+  },
+  {
+   "t": 1792772767.9448233,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
