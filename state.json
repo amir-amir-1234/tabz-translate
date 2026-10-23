@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 108960
+   "last_id": 108961
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132571
+   "last_id": 132572
   },
   "TelNews_Magazine": {
    "last_id": 101791
   },
   "NE_WG": {
-   "last_id": 115466
+   "last_id": 115467
   }
  },
  "fails": {},
@@ -461,7 +461,8 @@
     "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
     "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
     "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
-    "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html"
+    "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
+    "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html"
    ]
   },
   "Treasury": {
@@ -514,16 +515,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792735174.0,
-   "n": "ای بی سی به نقل از یک منبع آگاه گزارش داده ارتش آمریکا در حال جابه جایی نیروها در پایگاه های خود در خاورمیانه است به گفته این منبع این تحرکات شباهت هایی با جابه جایی هایی دارد که پیش از آغاز جنگ با ایران در ماه فوریه به صورت بی سروصدا انجام شده بود احتمال حمله دوباره آمریکا و اسرائیل به ایران پس از انتخابات مطرح است",
-   "fa": "🔄 به‌روزرسانی ⚠️💢ای‌بی‌سی به نقل از یک منبع آگاه گزارش داده ارتش آمریکا در حال جابه‌جایی نیروها در پایگاه‌های خود در خاورمیانه است. 🔴 به گفته این منبع، این تحرکات شباهت‌هایی با جابه‌جایی‌هایی دارد که پیش از آغاز جنگ با ایران در ماه فوریه، به‌صورت بی‌سروصدا انجام شده بود. 🔴احتمال حمله دوباره آمریکا و اسرائیل به ایران پس از انتخابات مطرح است."
-  },
-  {
-   "t": 1792735885.0,
-   "n": "الجزیره تهدید زیرساخت های دیجیتال خلیج فارس می تواند فراتر از قطعی اینترنت سرمایه گذاری در هوش مصنوعی را به خطر بیندازد",
-   "fa": "💢☄️الجزیره: تهدید زیرساخت‌های دیجیتال خلیج‌فارس می‌تواند فراتر از قطعی اینترنت، سرمایه‌گذاری در هوش‌مصنوعی را به خطر بیندازد"
-  },
   {
    "t": 1792736942.0,
    "n": "عراقچی همان طور که پیش از خروج رئیس جمهور ایالات متحده از برجام در سال ۲۰۱۸ آقای ماکرون در برابر کنگره آمریکا اصرار داشت که فرانسه از برجام خارج نخواهد شد زیرا آن را امضا کرده ایم امروز او ادعا می کند که همیشه با هرگونه فعالیت هسته ای در ایران مخالف بوده است داستان خود را درست کنید آقای رئیس جمهور",
@@ -813,13 +804,23 @@
    "t": 1792759817.0,
    "n": "israeli prime minister netanyahu as for our heroic settlers you are an example to the people of israel you are an example to the state of israel we are going to destroy the terrorist infrastructure and we are going to build the settlement infrastructure we are building and regulating over 100 new settlements and farms right here and not just here of course",
    "fa": "🇮🇱❌🇵🇸 — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: در مورد شهرک‌نشینان قهرمان ما: شما الگویی برای مردم اسرائیل هستید. شما الگویی برای دولت اسرائیل هستید. ما قصد داریم زیرساخت‌های تروریستی را نابود کنیم و زیرساخت‌های شهرک‌سازی را بسازیم. ما در حال ساخت و قانونمند کردن بیش از ۱۰۰ شهرک و مزرعه جدید همینجا هستیم. و البته نه فقط اینجا."
+  },
+  {
+   "t": 1792759889.0,
+   "n": "پرواز بالگردهای میل ـ۸ بر فراز تهران با تجهیزات جنگ الکترونیک بالگردهای mil mi 8 ایرانی بر فراز تهران مشاهده شده اند که به غلاف هایی مجهز هستند که گفته می شود برای اخلال الکترونیکی یا نظارت به کار می روند",
+   "fa": "🇮🇷🚁پرواز بالگردهای میل‌ـ۸ بر فراز تهران با تجهیزات جنگ الکترونیک؟ 🔴 بالگردهای Mil Mi-8 ایرانی بر فراز تهران مشاهده شده‌اند که به غلاف‌هایی مجهز هستند که گفته می‌شود برای اخلال الکترونیکی یا نظارت به کار می‌روند."
+  },
+  {
+   "t": 1792759989.0,
+   "n": "warhound a new texas based defense biotechnology startup developed by colossal biosciences ceo ben lamm and anduril founder palmer luckey has emerged from stealth with 200 million in seed funding to develop genetically enhanced military working dogs fortune writes led by former pentagon chief data officer david spirk the company plans to clone proven military dogs and use gene editing to eliminate",
+   "fa": "🇺🇸⚡️ — به گزارش فورچون، «وارهاوند» (Warhound)، یک استارتاپ جدید بیوتکنولوژی دفاعی مستقر در تگزاس که توسط بن لام، مدیرعامل شرکت «کلوسال بایوساینسز» و پالمر لاکی، بنیان‌گذار شرکت «آندوریل» تأسیس شده، با جذب ۲۰۰ میلیون دلار سرمایه اولیه از حالت مخفیانه خارج شد. هدف این شرکت توسعه سگ‌های نظامی با اصلاحات ژنتیکی است. این شرکت که توسط دیوید اسپیرک، مدیر ارشد سابق داده‌های پنتاگون هدایت می‌شود، قصد دارد "
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 83
+  "requests": 85
  },
- "flip": 1640,
+ "flip": 1642,
  "quote_n": 749,
  "signals": [
   {
@@ -1611,6 +1612,11 @@
    "t": 1792759893.5420208,
    "s": 3,
    "p": 60
+  },
+  {
+   "t": 1792760214.146577,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
