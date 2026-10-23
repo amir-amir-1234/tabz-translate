@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109005
+   "last_id": 109006
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132619
+   "last_id": 132620
   },
   "TelNews_Magazine": {
-   "last_id": 101828
+   "last_id": 101829
   },
   "NE_WG": {
-   "last_id": 115528
+   "last_id": 115529
   }
  },
  "fails": {},
@@ -115,7 +115,8 @@
     "https://www.foxnews.com/world/first-fox-50-antifa-groups-france-mobilize-growing-network-287-organizations-chaos-inc",
     "https://www.foxnews.com/world/two-suspected-gunmen-dead-two-idf-soldiers-killed-west-bank-shooting",
     "https://www.foxnews.com/world/serbias-longtime-leader-faces-biggest-political-test-students-mount-election-challenge",
-    "https://www.foxnews.com/world/state-department-says-trump-spot-on-france-protests-macron-decries-stupid-comments"
+    "https://www.foxnews.com/world/state-department-says-trump-spot-on-france-protests-macron-decries-stupid-comments",
+    "https://www.foxnews.com/world/gunmen-kill-7-christian-church-jordan-king-calls-act-terrorism"
    ]
   },
   "WSJ": {
@@ -526,16 +527,6 @@
  },
  "recent": [
   {
-   "t": 1792767814.0,
-   "n": "ترامپ درباره ایران مسئله این است که آیا می خواهیم کار را یکسره کنیم یا بگذاریم به تدریج از پا دربیاید ما داریم به تمام چیزهایی که می خواهیم می رسیم",
-   "fa": "⭕️ترامپ درباره ایران: «مسئله این است که آیا می‌خواهیم کار را یکسره کنیم یا بگذاریم به‌تدریج از پا دربیاید؟ ما داریم به تمام چیزهایی که می‌خواهیم می‌رسیم.»"
-  },
-  {
-   "t": 1792767929.0,
-   "n": "ukmto reports that a tanker was struck by a projectile 7 nautical miles northeast of limah oman while transiting outbound in the strait of hormuz yesterday the tanker was able to continue its voyage to the next port of call",
-   "fa": "🇮🇷🇴🇲⚡️ — سازمان تجارت دریایی بریتانیا (UKMTO) گزارش داد که دیروز یک تانکر در حال عبور از خروج تنگه هرمز، در ۷ مایلی دریایی شمال شرقی لیمح در عمان مورد اصابت یک پرتابه قرار گرفت. این تانکر توانست به سفر خود به بندر بعدی ادامه دهد."
-  },
-  {
    "t": 1792768034.0,
    "n": "reporter you must know now who ordered starlink limitations on ukraine trump i have no idea i wouldn t tell you if i did know why would i tell you",
    "fa": "🇺🇸🇺🇦⚡️ — خبرنگار: شما باید اکنون بدانید چه کسی دستور محدودیت‌های استارلینک در اوکراین را صادر کرد. ترامپ: هیچ ایده‌ای ندارم. اگر هم می‌دانستم به شما نمی‌گفتم. چرا باید به شما بگویم؟"
@@ -824,11 +815,21 @@
    "t": 1792778491.0,
    "n": "کانال ۱۴ اسراییل میگه ایران می خواد برای شروع جنگ تاسیسات اتمی اسراییل رو بزنه",
    "fa": "⭕️کانال ۱۴ اسراییل میگه ایران می‌خواد برای شروع جنگ تاسیسات اتمی اسراییل رو بزنه!"
+  },
+  {
+   "t": 1792778742.0,
+   "n": "ترامپ درباره احتمال حمله به ایران در آخر هفته چیزی درباره آن نمی دانم خبرنگار از دونالد ترامپ رئیس جمهور آمریکا پرسید که سفیر آمریکا در ترکیه گفته است احتمال حمله به ایران در آخر هفته قطعا وجود دارد ترامپ در پاسخ گفت او مرد قدرتمندی است فکر می کنم من چیزی درباره این موضوع نمی دانم",
+   "fa": "⭕️ترامپ درباره احتمال حمله به ایران در آخر هفته: چیزی درباره آن نمی‌دانم خبرنگار از دونالد ترامپ، رئیس‌جمهور آمریکا، پرسید که سفیر آمریکا در ترکیه گفته است احتمال حمله به ایران در آخر هفته «قطعاً» وجود دارد. ترامپ در پاسخ گفت: «او مرد قدرتمندی است، فکر می‌کنم. من چیزی درباره این موضوع نمی‌دانم.»"
+  },
+  {
+   "t": 1792778803.0,
+   "n": "reporter your ambassador to türkiye said that absolutely there could be a strike on iran this weekend trump he is a powerful man i guess i don t know anything about it",
+   "fa": "🇺🇸🇮🇷⚡️ — خبرنگار: سفیر شما در ترکیه گفته است که «قطعاً» ممکن است آخر هفته حمله‌ای به ایران صورت بگیرد. ترامپ: گمان می‌کنم او مرد قدرتمندی است. من چیزی در این باره نمی‌دانم."
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 159
+  "requests": 161
  },
  "flip": 1702,
  "quote_n": 776,
@@ -1702,6 +1703,16 @@
    "t": 1792778773.133201,
    "s": 5,
    "p": 90
+  },
+  {
+   "t": 1792779092.8215916,
+   "s": 5,
+   "p": 85
+  },
+  {
+   "t": 1792779100.2929313,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
