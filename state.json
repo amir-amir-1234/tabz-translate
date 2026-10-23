@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109006
+   "last_id": 109008
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132627
+   "last_id": 132629
   },
   "TelNews_Magazine": {
    "last_id": 101830
   },
   "NE_WG": {
-   "last_id": 115535
+   "last_id": 115536
   }
  },
  "fails": {},
@@ -527,16 +527,6 @@
  },
  "recent": [
   {
-   "t": 1792768469.0,
-   "n": "reporter zelensky says starlink is still not working for ukraine trump i haven t heard that but i will look at it",
-   "fa": "🇺🇸🇺🇦⚡️ — خبرنگار: زلنسکی می‌گوید استارلینک هنوز برای اوکراین کار نمی‌کند. ترامپ: این را نشنیده‌ام، اما آن را بررسی خواهم کرد."
-  },
-  {
-   "t": 1792768513.0,
-   "n": "president trump on canada i hate to say this but we have all the cards just like i told zelensky we have all the cards",
-   "fa": "🇺🇸🇨🇦⚡️ — رئیس‌جمهور ترامپ درباره کانادا: متنفرم این را بگویم، اما ما همه برگ برنده را در دست داریم. درست همان‌طور که به زلنسکی گفتم، ما همه برگ برنده را داریم."
-  },
-  {
    "t": 1792768676.0,
    "n": "reporter will the first lady be part of the trilateral peace talks with russia and ukraine trump no but it s not the worst idea i ve ever heard what she wants to do is save children",
    "fa": "🇺🇸🇺🇦🇷🇺⚡️ — خبرنگار: آیا بانوی اول در مذاکرات صلح سه‌جانبه با روسیه و اوکراین شرکت خواهد داشت؟ ترامپ: نه، اما این بدترین ایده‌ای نیست که تا به حال شنیده‌ام. کاری که او می‌خواهد بکند نجات کودکان است."
@@ -825,13 +815,23 @@
    "t": 1792780120.0,
    "n": "نخست وزیر عراق عراق به زودی به کشوری عاری از گروه های مسلح تبدیل خواهد شد",
    "fa": "🇮🇶 نخست‌وزیر عراق: عراق به‌زودی به کشوری عاری از گروه‌های مسلح تبدیل خواهد شد💢"
+  },
+  {
+   "t": 1792780282.0,
+   "n": "u s special envoy tom barrack on the israeli backed druze in suwayda it s not israel that worries me it s a particular druze sheikh hikmat al hijri who utilizes the perception of israeli backing in some alignment with america to persecute other druze but suwayda to daraa is the captagon manufacturing operation of the world that s what it does it lives off of the manufacturing and selling of illici",
+   "fa": "🇺🇸🇮🇱🇸🇾🇸🇾⚡️ — تام باراک، فرستاده ویژه ایالات متحده درباره دروزی‌های تحت حمایت اسرائیل در سویدا: چیزی که من را نگران می‌کند اسرائیل نیست. یک شیخ خاص دروزی [حکمت الهجری] است که از تصور حمایت اسرائیل در نوعی همسویی با آمریکا برای آزار و اذیت سایر دروزی‌ها استفاده می‌کند. اما از سویدا تا درعا، مرکز تولید کاپتاگون در جهان است. کار آن همین است. این منطقه از تولید و فروش مواد مخدر غیرقانونی زندگی می‌کند."
+  },
+  {
+   "t": 1792780485.0,
+   "n": "عراقچی پرزیدنت پزشکیان هفته آینده عازم مسکو می شود",
+   "fa": "🔄 به‌روزرسانی 🇷🇺🇮🇷عراقچی: پرزیدنت پزشکیان هفته آینده عازم مسکو می‌شود."
   }
  ],
  "usage": {
   "date": "2026-10-23",
-  "requests": 165
+  "requests": 166
  },
- "flip": 1706,
+ "flip": 1708,
  "quote_n": 778,
  "signals": [
   {
@@ -1723,6 +1723,16 @@
    "t": 1792780301.6070201,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1792780579.058875,
+   "s": 3,
+   "p": 40
+  },
+  {
+   "t": 1792780584.4061081,
+   "s": 3,
+   "p": 60
   }
  ],
  "risk": {
