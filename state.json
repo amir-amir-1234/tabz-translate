@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109131
+   "last_id": 109132
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132768
+   "last_id": 132769
   },
   "TelNews_Magazine": {
    "last_id": 101923
   },
   "NE_WG": {
-   "last_id": 115708
+   "last_id": 115709
   }
  },
  "fails": {},
@@ -551,11 +551,6 @@
  },
  "recent": [
   {
-   "t": 1792858107.0,
-   "n": "ansarallah announces its armed forces conducted seven military operations using ballistic missiles and uavs against ksa in response to 100 royal saudi air force airstrikes against sana a and other areas of ansarallah controlled yemen ansarallah announced targeting numerous oil infrastructures including the east west crude oil pipeline aramco facilities in yanbu and the petro rabigh oil refinery an",
-   "fa": "🇾🇪❌🇸🇦 — انصارالله اعلام کرد که نیروهای مسلح این جنبش در پاسخ به ۱۰۰ حمله هوایی نیروی هوایی سلطنتی سعودی به صنعا و سایر مناطق تحت کنترل انصارالله در یمن، ۷ عملیات نظامی با استفاده از موشک‌های بالستیک و پهپاد علیه عربستان سعودی انجام دادند. انصارالله اعلام کرد که زیرساخت‌های نفتی متعددی از جمله خط لوله نفت خام شرق به غرب، تأسیسات آرامکو در ینبع و پالایشگاه نفت پترو رابغ را هدف قرار داده است. انصارال"
-  },
-  {
    "t": 1792857858.0,
    "n": "death toll rises to 9 in church attack as officials blame extremist islamist ideology a group of gunmen stormed a christian church in jordan during a funeral on friday killing nine people and injuring more than two dozen according to authorities the shooting took place at a greek orthodox church in karak about 55 miles south of the capital amman jordanian health minister ibrahim al budour said sat",
    "fa": "🔴 افزایش شمار قربانیان حمله مسلحانه به کلیسایی در اردن به ۹ کشته به گزارش فاکس نیوز مقام‌های رسمی اعلام کردند که در پی یورش گروهی از مردان مسلح به یک کلیسای مسیحی در اردن در جریان مراسم تشییع جنازه در روز جمعه، ۹ نفر کشته و بیش از ۲۵ تن دیگر زخمی شدند. این تیراندازی در یک کلیسای ارتدوکس یونانی در شهر کرک، واقع در حدود ۵۵ مایلی جنوب امان، پایتخت این کشور رخ داد. ابراهیم البدور، وزیر بهداشت اردن، رو"
@@ -849,19 +844,20 @@
    "t": 1792875568.0,
    "n": "president trump on iran wsj wrote two days ago that we re getting more oil out of the hormuz strait than we did before the war started we get it out very very strongly our navy has done an incredible job",
    "fa": "🇺🇸🇮🇷⚡️ — دونالد ترامپ درباره ایران: وال‌استریت ژورنال دو روز پیش نوشت که ما نفت بیشتری نسبت به قبل از شروع جنگ از تنگه هرمز خارج می‌کنیم. ما این کار را بسیار بسیار قاطعانه انجام می‌دهیم. نیروی دریایی ما کار فوق‌العاده‌ای انجام داده است."
+  },
+  {
+   "t": 1792875664.0,
+   "n": "president trump on iran they have no jet fighters left they had 259 jet fighters you know they are laying out all over the runway in little pieces our military knocked out every jet fighter in iran our military knocked out every ship 259 ships all are at the bottom of the sea",
+   "fa": "🇺🇸🇮🇷⚡️ — دونالد ترامپ درباره ایران: آن‌ها دیگر هیچ جنگنده‌ای ندارند. آن‌ها ۲۵۹ جنگنده داشتند. می‌دانید که آن‌ها به صورت قطعات کوچک در سراسر باند فرودگاه پخش شده‌اند. ارتش ما هر جنگنده‌ای را در ایران از بین برد. ارتش ما هر کشتی را از بین برد، ۲۵۹ کشتی - همه در کف دریا هستند."
   }
  ],
  "usage": {
   "date": "2026-10-24",
-  "requests": 182
+  "requests": 183
  },
- "flip": 1882,
+ "flip": 1883,
  "quote_n": 864,
  "feed": [
-  {
-   "t": 1792844066.0,
-   "tx": "🇺🇦🇺🇸⚡️ — خبرنگار: فکر می‌کردم می‌گویید رئیس‌جمهور ترامپ بسیار مؤدب است.\n\nزلنسکی: به نظر شما بستگی دارد."
-  },
   {
    "t": 1792844200.0,
    "tx": "🇮🇷🇨🇳‼️چین هشدار داده است که تحریم ها و اقدام نظامی علیه ایران تنش ها را تشدید می کند. این کشور خواستار بازگشت به دیپلماسی و در عین حال دفاع از حق تهران برای داشتن انرژی صلح آمیز هسته ای شد."
@@ -1257,14 +1253,13 @@
   {
    "t": 1792875568.0,
    "tx": "🇺🇸🇮🇷⚡️ — دونالد ترامپ درباره ایران:\nوال‌استریت ژورنال دو روز پیش نوشت که ما نفت بیشتری نسبت به قبل از شروع جنگ از تنگه هرمز خارج می‌کنیم.\n\nما این کار را بسیار بسیار قاطعانه انجام می‌دهیم. نیروی دریایی ما کار فوق‌العاده‌ای انجام داده است."
+  },
+  {
+   "t": 1792875664.0,
+   "tx": "🇺🇸🇮🇷⚡️ — دونالد ترامپ درباره ایران:\nآن‌ها دیگر هیچ جنگنده‌ای ندارند. آن‌ها ۲۵۹ جنگنده داشتند. می‌دانید که آن‌ها به صورت قطعات کوچک در سراسر باند فرودگاه پخش شده‌اند. ارتش ما هر جنگنده‌ای را در ایران از بین برد.\n\nارتش ما هر کشتی را از بین برد، ۲۵۹ کشتی - همه در کف دریا هستند."
   }
  ],
  "signals": [
-  {
-   "t": 1792789295.2476897,
-   "s": 5,
-   "p": 85
-  },
   {
    "t": 1792789570.832102,
    "s": 5,
@@ -2134,6 +2129,11 @@
    "t": 1792875718.8753567,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1792875973.9037957,
+   "s": 5,
+   "p": 85
   }
  ],
  "risk": {
