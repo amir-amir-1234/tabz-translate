@@ -485,7 +485,8 @@
     "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
     "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
     "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
-    "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html"
+    "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html",
+    "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html"
    ]
   },
   "Treasury": {
@@ -538,11 +539,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792785813.0,
-   "n": "ترامپ جمهوری اسلامی ایران به شما خواهد گفت که بهترین تجهیزات نظامی را در اختیار داریم",
-   "fa": "🇺🇸🇮🇷‼️ترامپ: جمهوری اسلامی ایران به شما خواهد گفت که بهترین تجهیزات نظامی را در اختیار داریم."
-  },
   {
    "t": 1792785926.0,
    "n": "ترامپ من در ۸ جنگ میانجی گری کرده ام به این فکر کنید آیا جایزه نوبل گرفتم نه خب می دانید نروژ کشور بسیار لیبرالی است ماریا جایزه نوبل خود را به من داد من این را فراموش نخواهم کرد",
@@ -837,14 +833,19 @@
    "t": 1792812958.0,
    "n": "jordan s king abdullah ii wearing his military uniform visited victims injured in the isis attack on the greek orthodox hammoud church in jordan s karak governorate",
    "fa": "🇯🇴⚡️ — ملک عبدالله دوم، پادشاه اردن، در حالی که لباس نظامی به تن داشت، از مصدومان حمله داعش به کلیسای ارتدوکس یونانی حمود در استان کرک اردن عیادت کرد."
+  },
+  {
+   "t": 1792813614.0,
+   "n": "iran in advanced stages of planning attacks against americans officials say the u s government has ordered diplomats and other federal employees to leave saudi arabia it is also drawing down staff at other missions in the region",
+   "fa": "🚨 دستور دولت آمریکا به خروج دیپلمات‌ها از عربستان سعودی به گزارش نیویورک تایمز دولت آمریکا به دیپلمات‌ها و سایر کارمندان فدرال خود دستور داده است عربستان سعودی را ترک کنند. این کشور همچنین در حال کاهش دادن کادر خود در سایر نمایندگی‌ها در منطقه است."
   }
  ],
  "usage": {
   "date": "2026-10-24",
-  "requests": 14
+  "requests": 16
  },
  "flip": 1759,
- "quote_n": 808,
+ "quote_n": 809,
  "feed": [
   {
    "t": 1792781419.0,
@@ -1169,6 +1170,10 @@
   {
    "t": 1792812958.0,
    "tx": "🇯🇴⚡️ — ملک عبدالله دوم، پادشاه اردن، در حالی که لباس نظامی به تن داشت، از مصدومان حمله داعش به کلیسای ارتدوکس یونانی حمود در استان کرک اردن عیادت کرد."
+  },
+  {
+   "t": 1792813614.0,
+   "tx": "🚨 دستور دولت آمریکا به خروج دیپلمات‌ها از عربستان سعودی\n\nبه گزارش نیویورک تایمز دولت آمریکا به دیپلمات‌ها و سایر کارمندان فدرال خود دستور داده است عربستان سعودی را ترک کنند. این کشور همچنین در حال کاهش دادن کادر خود در سایر نمایندگی‌ها در منطقه است."
   }
  ],
  "signals": [
@@ -2171,11 +2176,16 @@
    "t": 1792812970.6185796,
    "s": 4,
    "p": 70
+  },
+  {
+   "t": 1792813870.5991375,
+   "s": 5,
+   "p": 90
   }
  ],
  "risk": {
   "base": 100,
-  "ts": 1792809077.4446554,
+  "ts": 1792813873.6028414,
   "attack": true
  },
  "attack_ts": 1792794074.1875687,
