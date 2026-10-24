@@ -486,7 +486,8 @@
     "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
     "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
     "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html",
-    "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html"
+    "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
+    "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html"
    ]
   },
   "Treasury": {
@@ -539,11 +540,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792785926.0,
-   "n": "ترامپ من در ۸ جنگ میانجی گری کرده ام به این فکر کنید آیا جایزه نوبل گرفتم نه خب می دانید نروژ کشور بسیار لیبرالی است ماریا جایزه نوبل خود را به من داد من این را فراموش نخواهم کرد",
-   "fa": "🇺🇸ترامپ : من در ۸ جنگ میانجی‌گری کرده‌ام؛ به این فکر کنید. آیا جایزه نوبل گرفتم؟ نه! 🔴خب، می‌دانید، نروژ کشور بسیار لیبرالی است 🔴ماریا جایزه نوبل خود را به من داد. من این را فراموش نخواهم کرد"
-  },
   {
    "t": 1792786439.0,
    "n": "ترامپ با گوگل تماس گرفتم و عکسی از اقیانوس اطلس برایش فرستادم واقعا همین کار را کردم گفتم سوندار سوندار پیچای مدیرعامل گوگل می خواهم نام اقیانوس اطلس را به اقیانوس آمریکا تغییر بدهم و حالا که مشغول این کار هستی می خواهم نام تنگه هرمز را هم به تنگه ترامپ تغییر بدهی سوندار گفت قربان وجدانا دیگر نمی توانم این کار را انجام بدهم دیگر خسته شده ام من نمی توانم اسم اقیانوس ها را عوض کنم قربان دیگر سراغ ای",
@@ -838,14 +834,19 @@
    "t": 1792813614.0,
    "n": "iran in advanced stages of planning attacks against americans officials say the u s government has ordered diplomats and other federal employees to leave saudi arabia it is also drawing down staff at other missions in the region",
    "fa": "🚨 دستور دولت آمریکا به خروج دیپلمات‌ها از عربستان سعودی به گزارش نیویورک تایمز دولت آمریکا به دیپلمات‌ها و سایر کارمندان فدرال خود دستور داده است عربستان سعودی را ترک کنند. این کشور همچنین در حال کاهش دادن کادر خود در سایر نمایندگی‌ها در منطقه است."
+  },
+  {
+   "t": 1792814469.0,
+   "n": "netanyahu has reinvented himself will voters think it s enough the oct 7 attacks marred prime minister benjamin netanyahu s image as mr security ahead of elections he s trying to sell israelis on the new hawkish version of himself",
+   "fa": "⭕️ تلاش بنیامین نتانیاهو برای بازسازی چهره سیاسی خود پیش از انتخابات به گزارش نیویورک تایمز حملات ۷ اکتبر چهره بنیامین نتانیاهو را به عنوان آقای امنیت مخدوش کرد. او پیش از انتخابات تلاش می‌کند نسخه جدید و سرسخت‌تر خود را به اسرائیلی‌ها بفروشد."
   }
  ],
  "usage": {
   "date": "2026-10-24",
-  "requests": 16
+  "requests": 18
  },
- "flip": 1759,
- "quote_n": 809,
+ "flip": 1760,
+ "quote_n": 810,
  "feed": [
   {
    "t": 1792781419.0,
@@ -1174,6 +1175,10 @@
   {
    "t": 1792813614.0,
    "tx": "🚨 دستور دولت آمریکا به خروج دیپلمات‌ها از عربستان سعودی\n\nبه گزارش نیویورک تایمز دولت آمریکا به دیپلمات‌ها و سایر کارمندان فدرال خود دستور داده است عربستان سعودی را ترک کنند. این کشور همچنین در حال کاهش دادن کادر خود در سایر نمایندگی‌ها در منطقه است."
+  },
+  {
+   "t": 1792814469.0,
+   "tx": "⭕️ تلاش بنیامین نتانیاهو برای بازسازی چهره سیاسی خود پیش از انتخابات\n\nبه گزارش نیویورک تایمز حملات ۷ اکتبر چهره بنیامین نتانیاهو را به عنوان آقای امنیت مخدوش کرد. او پیش از انتخابات تلاش می‌کند نسخه جدید و سرسخت‌تر خود را به اسرائیلی‌ها بفروشد."
   }
  ],
  "signals": [
@@ -2181,6 +2186,11 @@
    "t": 1792813870.5991375,
    "s": 5,
    "p": 90
+  },
+  {
+   "t": 1792814767.4479,
+   "s": 4,
+   "p": 50
   }
  ],
  "risk": {
