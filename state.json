@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109216
+   "last_id": 109220
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132893
+   "last_id": 132894
   },
   "TelNews_Magazine": {
    "last_id": 102009
@@ -439,7 +439,8 @@
     "WP-WSJ-0004005903",
     "SB12339201052325324086104593534170720417286",
     "SB11676206231181634135104593530302389699508",
-    "WP-WSJ-0004005514"
+    "WP-WSJ-0004005514",
+    "SB10865903614445404644304593528231995384320"
    ]
   },
   "NYT": {
@@ -523,7 +524,8 @@
     "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
     "https://www.nytimes.com/video/world/middleeast/100000011225659/expat-voters-israel-election.html",
     "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
-    "https://www.nytimes.com/2026/10/25/business/media/caryle-murphy-dead.html"
+    "https://www.nytimes.com/2026/10/25/business/media/caryle-murphy-dead.html",
+    "https://www.nytimes.com/2026/10/25/obituaries/uriel-simon-dead.html"
    ]
   },
   "Treasury": {
@@ -576,26 +578,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792947818.0,
-   "n": "nicki minaj on trump we have a president that understands economics i said before that the president is naturally a businessman he s worked his way out of not having a dollar left in the bank so if he can do that with himself and his own finances surely he knows what to do with the country he s very tough he s tough internationally he tells them what we need not what they need we re not going to b",
-   "fa": "🇺🇸⚡️ — نیکی میناژ درباره ترامپ: ما رئیسی داریم که اقتصاد را می‌فهمد. پیش‌تر گفته بودم که رئیس‌جمهور ذاتاً یک تاجر است. او از شرایطی که حتی یک دلار در بانک نداشت راه خود را به بیرون باز کرده است. بنابراین، اگر او می‌تواند این کار را با خودش و امور مالی‌اش انجام دهد، قطعی است که می‌داند با کشور چه کند. او بسیار سرسخت است. او در سطح بین‌المللی سرسخت است. او به آن‌ها می‌گوید ما چه چیزی نیاز داریم، نه "
-  },
-  {
-   "t": 1792947980.0,
-   "n": "wh communications director cheung is there anyone who works harder than president trump on the campaign trail nicki minaj absolutely not you have a man who s won three elections you know legacy media continues to attack him left and right and what does he do he wakes up at 4 o clock in the morning he outworks people that you know are half his age what does that say about his character he knows tha",
-   "fa": "🇺🇸⚡️ — مدیر ارتباطات کاخ سفید، چانگ: آیا کسی هست که سخت‌تر از پرزیدنت ترامپ در مسیر کمپین انتخاباتی کار کند؟ نیکی میناژ: قطعاً خیر. شما مردی را دارید که سه انتخابات برنده شده است. می‌دانید، رسانه‌های جریان اصلی همچنان از چپ و راست به او حمله می‌کنند. و او چه کار می‌کند؟ او ساعت ۴ صبح از خواب بیدار می‌شود. او از کسانی که نصف سن او را دارند سخت‌تر کار می‌کند. این چه چیزی درباره شخصیت او می‌گوید؟ او "
-  },
-  {
-   "t": 1792948029.0,
-   "n": "nicki minaj on trump he can kick his feet up and just you know chill out for the rest of his presidency but no he s paying it forward he s thinking about the other republicans that have to win during these elections and so that tells me that he s a great guy",
-   "fa": "🇺🇸⚡️ — نیکی میناژ درباره ترامپ: او می‌تواند پاهایش را روی میز بگذارد و برای بقیه دوران ریاست جمهوری‌اش فقط، می‌دانید، استراحت کند. اما نه، او دارد لطف را جبران می‌کند. او به جمهوری‌خواهان دیگری فکر می‌کند که باید در جریان این انتخابات پیروز شوند. و این به من می‌گوید که او آدم بزرگی است."
-  },
-  {
-   "t": 1792948138.0,
-   "n": "nicki minaj let s ask hillary clinton how fake the fake polls are we don t pay those polls any mind obviously they are there to deter our voters from going out and casting their vote conservatives we are winning we need to not let anything stand in our way of taking it all away bringing it all the way home to the bank",
-   "fa": "🇺🇸⚡️ — نیکی میناژ: بیایید از هیلاری کلینتون بپرسیم که نظرسنجی‌های جعلی چقدر جعلی هستند. ما به آن نظرسنجی‌ها هیچ توجهی نمی‌کنیم. بدیهی است که آن‌ها آنجا هستند تا رأی‌دهندگان ما را از بیرون رفتن و به صندوق رأی انداختن بازدارند. محافظه‌کاران، ما در حال پیروزی هستیم. ما نباید اجازه دهیم هیچ‌چیز مانع ما شود تا همه چیز را بگیریم، و آن را به طور کامل به خانه برسانیم."
-  },
   {
    "t": 1792948279.0,
    "n": "کانال i24 اسراییل ترامپ به رسانه ها گفت که روز یکشنبه حمله ای صورت نخواهد گرفت این در حالی است که تخلیه سفارتخانه ها در منطقه خلیج فارس همچنان ادامه دارد",
@@ -875,31 +857,35 @@
    "t": 1792962000.0,
    "n": "how the seizure of a russian vessel brought the ukraine war to the arctic a 12 year legal campaign resulted in norway s seizing a research ship in svalbard deep in the arctic circle",
    "fa": "⭕️ توفیق نروژ در توقیف یک کشتی تحقیقاتی روسیه در مجمع‌الجزایر سوالبارد قطب شمال به گزارش وال‌استریت ژورنال، یک نبرد حقوقی ۱۲ ساله منجر به این شد که نروژ یک کشتی تحقیقاتی متعلق به روسیه را در سوالبارد، واقع در اعماق دایره قطبی شمال، توقیف کند و بدین ترتیب جنگ اوکراین را به قطب شمال بکشاند."
+  },
+  {
+   "t": 1792962203.0,
+   "n": "president trump abdul el sayed would be the only senator who would have to go through a metal detector before he is allowed to go into the senate",
+   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ: عبدالالسیف تنها سناتوری خواهد بود که پیش از ورود به سنا باید از دستگاه فلزیاب عبور کند."
+  },
+  {
+   "t": 1792962216.0,
+   "n": "یک نفتکش حامل ۴۰ هزار تن گازوئیل روسیه پس از توافق با دونالد ترامپ رئیس جمهور آمریکا در مسیر نیویورک قرار دارد",
+   "fa": "🇺🇸🇷🇺🔴یک نفتکش حامل ۴۰ هزار تن گازوئیل روسیه، پس از توافق با دونالد ترامپ، رئیس‌جمهور آمریکا، در مسیر نیویورک قرار دارد."
+  },
+  {
+   "t": 1792962225.0,
+   "n": "president trump abdul el sayed campaigns with communist agitator hasan piker who says that america deserved 9 11 el sayed refuses to disavow this guy",
+   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ: عبدالالسیف با حسن پیکر، فعال کمونیست که می‌گوید آمریکا سزاوار حادثه ۱۱ سپتامبر بود، کمپین برگزار می‌کند. السیف از اعلام برائت از این فرد خودداری می‌کند."
+  },
+  {
+   "t": 1792962256.0,
+   "n": "president trump abdul el sayed wants sharia law and if he ever pulls that off he should be the first one that s tried i ll be a witness",
+   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ: عبدالالسیف قانون شریعت را می‌خواهد. و اگر او روزی دست به چنین کاری بزند، باید اولین کسی باشد که محاکمه می‌شود. من شاهد خواهم بود."
   }
  ],
  "usage": {
   "date": "2026-10-25",
-  "requests": 186
+  "requests": 187
  },
- "flip": 2030,
- "quote_n": 934,
+ "flip": 2034,
+ "quote_n": 935,
  "feed": [
-  {
-   "t": 1792936777.0,
-   "tx": "🇮🇶‼️پروازهای مکرر و گسترده هواپیماهای جنگی در آسمان بصره، واقع در جنوب عراق."
-  },
-  {
-   "t": 1792937197.0,
-   "tx": "🇬🇧⚡️ — وزیر دفاع بریتانیا، وس استریتینگ، هشدار داده است که بریتانیا کمی بیش از ۱۰۰۰ روز برای آمادگی جهت یک جنگ احتمالی فرصت دارد و استدلال کرده است که قدرت‌های متخاصم می‌توانند ظرفیت‌های نظامی و اقتصادهای جنگی لازم برای آغاز حملات را تا سال ۲۰۳۰ توسعه دهند.\n\nاستریتینگ در یادداشتی در روزنامه تلگراف نوشت که بریتانیا باید به سرعت نیروهای مسلح خود را تقویت کند، تولید تسلیحات داخلی را گسترش دهد و همکاری با ناتو و ایالات متحده را برای بازداشتن دشمنان بالقوه عمیق‌تر سازد."
-  },
-  {
-   "t": 1792937342.0,
-   "tx": "🇾🇪❌🇸🇦 سازمان دفاع مدنی عربستان سعودی اعلام کرد که دو نفر بر اثر اصابت ترکش‌های دو راکت در شهر خمیس مشیط و منطقه أحد رفیده مجروح شده‌اند."
-  },
-  {
-   "t": 1792937741.0,
-   "tx": "🔄 به‌روزرسانی\n⭕️رویترز: تلاش‌های میانجی‌گرانه قطر با هماهنگی ایالات متحده انجام شده است"
-  },
   {
    "t": 1792937957.0,
    "tx": "🚨ترامپ:\n\nسؤال من در حال حاضر این است که آیا با ایرانی‌ها به توافق برسم، یا اینکه آن‌ها را به‌کلی نابود کنم؟"
@@ -1283,24 +1269,25 @@
   {
    "t": 1792962000.0,
    "tx": "⭕️ توفیق نروژ در توقیف یک کشتی تحقیقاتی روسیه در مجمع‌الجزایر سوالبارد قطب شمال\n\nبه گزارش وال‌استریت ژورنال، یک نبرد حقوقی ۱۲ ساله منجر به این شد که نروژ یک کشتی تحقیقاتی متعلق به روسیه را در سوالبارد، واقع در اعماق دایره قطبی شمال، توقیف کند و بدین ترتیب جنگ اوکراین را به قطب شمال بکشاند."
+  },
+  {
+   "t": 1792962203.0,
+   "tx": "🇺🇸⚡️ — رئیس‌جمهور ترامپ:\n\nعبدالالسیف تنها سناتوری خواهد بود که پیش از ورود به سنا باید از دستگاه فلزیاب عبور کند."
+  },
+  {
+   "t": 1792962216.0,
+   "tx": "🇺🇸🇷🇺🔴یک نفتکش حامل ۴۰ هزار تن گازوئیل روسیه، پس از توافق با دونالد ترامپ، رئیس‌جمهور آمریکا، در مسیر نیویورک قرار دارد."
+  },
+  {
+   "t": 1792962225.0,
+   "tx": "🇺🇸⚡️ — رئیس‌جمهور ترامپ:\nعبدالالسیف با حسن پیکر، فعال کمونیست که می‌گوید آمریکا سزاوار حادثه ۱۱ سپتامبر بود، کمپین برگزار می‌کند.\n\nالسیف از اعلام برائت از این فرد خودداری می‌کند."
+  },
+  {
+   "t": 1792962256.0,
+   "tx": "🇺🇸⚡️ — رئیس‌جمهور ترامپ:\nعبدالالسیف قانون شریعت را می‌خواهد. و اگر او روزی دست به چنین کاری بزند، باید اولین کسی باشد که محاکمه می‌شود.\n\nمن شاهد خواهم بود."
   }
  ],
  "signals": [
-  {
-   "t": 1792875702.0842724,
-   "s": 4,
-   "p": 70
-  },
-  {
-   "t": 1792875710.6953902,
-   "s": 4,
-   "p": 40
-  },
-  {
-   "t": 1792875718.8753567,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1792875973.9037957,
    "s": 5,
@@ -2145,6 +2132,26 @@
    "t": 1792962096.414427,
    "s": 4,
    "p": 40
+  },
+  {
+   "t": 1792962375.1748416,
+   "s": 4,
+   "p": 40
+  },
+  {
+   "t": 1792962378.559986,
+   "s": 4,
+   "p": 60
+  },
+  {
+   "t": 1792962385.6985774,
+   "s": 4,
+   "p": 40
+  },
+  {
+   "t": 1792962392.2731855,
+   "s": 4,
+   "p": 50
   }
  ],
  "risk": {
