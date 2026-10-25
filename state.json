@@ -500,7 +500,8 @@
     "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
     "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
     "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
-    "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html"
+    "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
+    "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html"
    ]
   },
   "Treasury": {
@@ -553,11 +554,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792867963.0,
-   "n": "iranian shahed 136 uavs enter iraqi kurdistan through haji omran erbil governorate",
-   "fa": "🇮🇷❌🇮🇶 — پهپادهای شاهد-۱۳۶ ایران از طریق حاجی عمران در استان اربیل وارد اقلیم کردستان عراق شدند."
-  },
   {
    "t": 1792868092.0,
    "n": "العربیه به نقل از منابع آگاه ایران از طریق پاکستان پیشنهادی به دولت آمریکا ارائه کرده است این پیشنهاد شامل بازگشایی تنگه هرمز در مقابل رفع محاصره آمریکا علیه بنادر ایران است ایران به پاکستان اعلام کرده که برای ازسرگیری مذاکرات با آمریکا آمادگی دارد",
@@ -852,19 +848,20 @@
    "t": 1792889458.0,
    "n": "president trump while oil prices are temporarily high and will be falling dramatically in a short period of time as soon as that war is over because there s so much oil all in the hormuz strait there s ships waiting to come we re getting them out so fast the united states oil and gas business is making hundreds of billions of dollars",
    "fa": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ: در حالی که قیمت‌های نفت موقتاً بالا است و در مدت کوتاهی به شدت کاهش خواهد یافت، به محض اینکه آن جنگ تمام شود، به دلیل وجود نفت بسیار زیاد، همه در تنگه هرمز، کشتی‌هایی منتظر آمدن هستند. ما آن‌ها را بسیار سریع خارج می‌کنیم. کسب‌وکار نفت و گاز ایالات متحده صدها میلیارد دلار درآمد دارد."
+  },
+  {
+   "t": 1792889758.0,
+   "n": "a new level of threat and fear risks pushing the u s and iran back to full war with new intelligence and the possibility of all sides seeking pretexts for action the war in iran is entering a dangerous phase ahead of elections in the united states and israel",
+   "fa": "⭕️ هشدار نیویورک تایمز درباره خطر بازگشت آمریکا و ایران به جنگ تمام‌عیار به گزارش نیویورک تایمز با اطلاعات جدید و احتمال اینکه همه طرف‌ها به دنبال بهانه‌هایی برای اقدام باشند، جنگ در ایران در آستانه انتخابات در ایالات متحده و اسرائیل وارد مرحله خطرناکی می‌شود."
   }
  ],
  "usage": {
   "date": "2026-10-25",
-  "requests": 6
+  "requests": 8
  },
- "flip": 1899,
- "quote_n": 871,
+ "flip": 1900,
+ "quote_n": 872,
  "feed": [
-  {
-   "t": 1792852562.0,
-   "tx": "⭕️افزایش تدریجی شمار هواپیماهای سوخت‌رسان آمریکایی در یک پایگاه هوایی در تل‌آویو، پس از کاهش تعداد آن‌ها در گذشته."
-  },
   {
    "t": 1792853030.0,
    "tx": "💢🇸🇦🇵🇰 یک فروند هواپیمای نظامی ترابری C-130 متعلق به پاکستان وارد شهر ظهران در عربستان سعودی شد."
@@ -1260,6 +1257,10 @@
   {
    "t": 1792889458.0,
    "tx": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ:\nدر حالی که قیمت‌های نفت موقتاً بالا است و در مدت کوتاهی به شدت کاهش خواهد یافت، به محض اینکه آن جنگ تمام شود، به دلیل وجود نفت بسیار زیاد، همه در تنگه هرمز، کشتی‌هایی منتظر آمدن هستند. ما آن‌ها را بسیار سریع خارج می‌کنیم.\n\nکسب‌وکار نفت و گاز ایالات متحده صدها میلیارد دلار درآمد دارد."
+  },
+  {
+   "t": 1792889758.0,
+   "tx": "⭕️ هشدار نیویورک تایمز درباره خطر بازگشت آمریکا و ایران به جنگ تمام‌عیار\n\nبه گزارش نیویورک تایمز با اطلاعات جدید و احتمال اینکه همه طرف‌ها به دنبال بهانه‌هایی برای اقدام باشند، جنگ در ایران در آستانه انتخابات در ایالات متحده و اسرائیل وارد مرحله خطرناکی می‌شود."
   }
  ],
  "signals": [
@@ -2077,6 +2078,11 @@
    "t": 1792889774.74195,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1792890097.0701869,
+   "s": 5,
+   "p": 85
   }
  ],
  "risk": {
