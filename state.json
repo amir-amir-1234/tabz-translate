@@ -422,7 +422,8 @@
     "WP-WSJ-0004004888",
     "WP-WSJ-0004001508",
     "WP-WSJ-0004004878",
-    "WP-WSJ-0004003237"
+    "WP-WSJ-0004003237",
+    "WP-WSJ-0004005489"
    ]
   },
   "NYT": {
@@ -555,11 +556,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792871626.0,
-   "n": "elon musk on ukraine using starlink a civilian commercial service for offensive drone strikes to kill people has never been allowed nor should it be ukraine military violated starlink terms of service and used it for offensive drone strikes to kill people that loophole was closed last week starlink remains critical to the defense of ukraine as it is the only system that cannot be jammed or blown u",
-   "fa": "🇺🇸🇺🇦⚡️ — ایلان ماسک درباره اوکراین: استفاده از استارلینک، یک خدمات تجاری غیرنظامی، برای حملات پهپادی تهاجمی به منظور کشتن افراد هرگز مجاز نبوده و نباید هم باشد. ارتش اوکراین شرایط خدمات استارلینک را نقض کرد و از آن برای حملات پهپادی تهاجمی جهت کشتن انسان‌ها استفاده نمود. آن منفذ هفته گذشته مسدود شد. استارلینک برای دفاع از اوکراین حیاتی باقی می‌ماند، زیرا تنها سیستمی است که نمی‌توان آن را مسدود یا "
-  },
   {
    "t": 1792871722.0,
    "n": "head of the iranian parliament s national security commission ebrahim azizi a single miscalculation is all it takes the occupied lands rendered uninhabitable in under an hour",
@@ -854,19 +850,20 @@
    "t": 1792911062.0,
    "n": "ترامپ لیبی یمن هائیتی سومالی من به این ها میگم کشورهای آشغال",
    "fa": "⭕️ترامپ: «لیبی، یمن، هائیتی، سومالی… من به این‌ها میگم کشورهای آشغال"
+  },
+  {
+   "t": 1792912440.0,
+   "n": "kim jong un makes surprise trip to china crosses new bridge ties are warming between beijing and pyongyang though chinese leader xi jinping didn t attend the get together",
+   "fa": "🔴 سفر غیرمنتظره کیم جونگ اون به چین و عبور از پل جدید به گزارش وال‌استریت ژورنال روابط میان پکن و پیونگ‌یانگ رو به گرم شدن است، هرچند شی جین‌پینگ، رهبر چین، در این گردهمایی حضور نیافت."
   }
  ],
  "usage": {
   "date": "2026-10-25",
-  "requests": 30
+  "requests": 32
  },
- "flip": 1908,
- "quote_n": 877,
+ "flip": 1909,
+ "quote_n": 878,
  "feed": [
-  {
-   "t": 1792856818.0,
-   "tx": "🚨🇦🇪 رأس الخیمه، تمام سواحل خود را تا اطلاع بعدی به دلیل نشت نفت از یک تانکر نفتی در دریا، بست. این اقدام پس از اقدامات مشابه در شهرهای الشارجه و ام‌الکوین انجام شد.\n\nمقامات امارات متحده عربی در تلاش هستند تا از گسترش این نشت جلوگیری کرده و اثرات زیست‌محیطی آن را ارزیابی کنند."
-  },
   {
    "t": 1792856818.0,
    "tx": "🇺🇸🇮🇷 اطلاعات آمریکا هشدار می دهد که برنامه های جمهوری اسلامی ایران برای ترور مقامات آمریکایی در خارج از کشور به مراحل پیشرفته رسیده است."
@@ -1262,6 +1259,10 @@
   {
    "t": 1792911062.0,
    "tx": "⭕️ترامپ: «لیبی، یمن، هائیتی، سومالی… من به این‌ها میگم کشورهای آشغال"
+  },
+  {
+   "t": 1792912440.0,
+   "tx": "🔴 سفر غیرمنتظره کیم جونگ اون به چین و عبور از پل جدید\n\nبه گزارش وال‌استریت ژورنال روابط میان پکن و پیونگ‌یانگ رو به گرم شدن است، هرچند شی جین‌پینگ، رهبر چین، در این گردهمایی حضور نیافت."
   }
  ],
  "signals": [
