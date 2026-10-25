@@ -503,7 +503,8 @@
     "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
     "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
     "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
-    "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html"
+    "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
+    "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html"
    ]
   },
   "Treasury": {
@@ -556,11 +557,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792875664.0,
-   "n": "president trump on iran they have no jet fighters left they had 259 jet fighters you know they are laying out all over the runway in little pieces our military knocked out every jet fighter in iran our military knocked out every ship 259 ships all are at the bottom of the sea",
-   "fa": "🇺🇸🇮🇷⚡️ — دونالد ترامپ درباره ایران: آن‌ها دیگر هیچ جنگنده‌ای ندارند. آن‌ها ۲۵۹ جنگنده داشتند. می‌دانید که آن‌ها به صورت قطعات کوچک در سراسر باند فرودگاه پخش شده‌اند. ارتش ما هر جنگنده‌ای را در ایران از بین برد. ارتش ما هر کشتی را از بین برد، ۲۵۹ کشتی - همه در کف دریا هستند."
-  },
   {
    "t": 1792876501.0,
    "n": "باراک اوباما ایران سلاح هسته ای نداشت چون توافق هسته ای رو اجرا کردیم بدون شلیک حتی یه موشک فقط با مذاکره و دیپلماسی تونستیم به توافق برسیم",
@@ -815,19 +811,20 @@
    "t": 1792918633.0,
    "n": "قالیباف در مقابل هرگونه جسارت به تمامیت ارضی ایران پاسخی خارج از تصور می دهیم",
    "fa": "💢قالیباف: در مقابل هرگونه جسارت به تمامیت ارضی ایران، پاسخی خارج از تصور می دهیم"
+  },
+  {
+   "t": 1792918860.0,
+   "n": "israel s high stakes election what to know israelis head to the polls on tuesday for an election that will determine the country s next prime minister but it can take weeks months or longer to form a new government",
+   "fa": "⭕️ برگزاری انتخابات سرنوشت‌ساز در اسرائیل برای تعیین نخست‌وزیر آینده به گزارش نیویورک تایمز اسرائیلی‌ها روز سه‌شنبه برای شرکت در انتخاباتی که نخست‌وزیر آینده این کشور را مشخص خواهد کرد، به پای صندوق‌های رای می‌روند. با این حال، تشکیل یک دولت جدید ممکن است هفته‌ها، ماه‌ها یا بیشتر طول بکشد."
   }
  ],
  "usage": {
   "date": "2026-10-25",
-  "requests": 44
+  "requests": 46
  },
- "flip": 1917,
- "quote_n": 884,
+ "flip": 1918,
+ "quote_n": 885,
  "feed": [
-  {
-   "t": 1792865011.0,
-   "tx": "⭕️دبیر انجمن شرکت‌های هواپیمایی از افزایش حدود ۴۰ درصدی قیمت بلیت خبر داد."
-  },
   {
    "t": 1792866081.0,
    "tx": "⭕️رئیس‌کل نیرو مسلح:\n\nآمریکا اگه جرات داره یدونه ناو بیاره نزدیکی ایران"
@@ -1223,14 +1220,13 @@
   {
    "t": 1792918633.0,
    "tx": "💢قالیباف: در مقابل هرگونه جسارت به تمامیت ارضی ایران، پاسخی خارج از تصور می دهیم"
+  },
+  {
+   "t": 1792918860.0,
+   "tx": "⭕️ برگزاری انتخابات سرنوشت‌ساز در اسرائیل برای تعیین نخست‌وزیر آینده\n\nبه گزارش نیویورک تایمز اسرائیلی‌ها روز سه‌شنبه برای شرکت در انتخاباتی که نخست‌وزیر آینده این کشور را مشخص خواهد کرد، به پای صندوق‌های رای می‌روند. با این حال، تشکیل یک دولت جدید ممکن است هفته‌ها، ماه‌ها یا بیشتر طول بکشد."
   }
  ],
  "signals": [
-  {
-   "t": 1792832491.4161239,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1792833075.0694788,
    "s": 3,
@@ -1990,6 +1986,11 @@
    "t": 1792918893.6776147,
    "s": 4,
    "p": 80
+  },
+  {
+   "t": 1792919169.143317,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
