@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109220
+   "last_id": 109222
   },
   "khabarfouri": {
    "last_id": 569949
@@ -16,7 +16,9 @@
    "last_id": 115839
   }
  },
- "fails": {},
+ "fails": {
+  "tabzlive/109223": 1
+ },
  "web": {
   "Fox News": {
    "seen": [
@@ -881,7 +883,7 @@
  ],
  "usage": {
   "date": "2026-10-25",
-  "requests": 187
+  "requests": 190
  },
  "flip": 2034,
  "quote_n": 935,
@@ -1288,11 +1290,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1792875973.9037957,
-   "s": 5,
-   "p": 85
-  },
   {
    "t": 1792876581.3029583,
    "s": 1,
