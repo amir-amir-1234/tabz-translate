@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132804
+   "last_id": 132805
   },
   "TelNews_Magazine": {
    "last_id": 101946
   },
   "NE_WG": {
-   "last_id": 115746
+   "last_id": 115747
   }
  },
  "fails": {},
@@ -559,11 +559,6 @@
  },
  "recent": [
   {
-   "t": 1792876930.0,
-   "n": "barack obama blasts pete hegseth how much time do you think this defense secretary spends looking at himself in the mirror in the morning i mean he s working his hair because that s how warriors look these are not serious people they re not serious people and the problem is you end up having to pay the price for their lack of seriousness",
-   "fa": "🇺🇸⚡️ — باراک اوباما به پیت هگستث حمله کرد: فکر می‌کنید این وزیر دفاع صبح‌ها چقدر جلوی آینه به خودش نگاه می‌کند؟ منظورم این است که او دارد روی موهایش کار می‌کند، چون جنگجویان این‌طور به نظر می‌رسند. این‌ها آدم‌های جدی نیستند. آن‌ها آدم‌های جدی نیستند. و مشکل این است که در نهایت شما باید به خاطر عدم جدی بودن آن‌ها هزینه بپردازید."
-  },
-  {
    "t": 1792877337.0,
    "n": "ترامپ اوباما یک رئیس جمهور ضعیف بود",
    "fa": "🇺🇸ترامپ: اوباما یک رئیس‌جمهور ضعیف بود!"
@@ -841,7 +836,7 @@
  ],
  "usage": {
   "date": "2026-10-25",
-  "requests": 49
+  "requests": 50
  },
  "flip": 1922,
  "quote_n": 888,
@@ -1248,11 +1243,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1792833685.5083108,
-   "s": 3,
-   "p": 50
-  },
   {
    "t": 1792833971.6995957,
    "s": 4,
