@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109156
+   "last_id": 109157
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,7 +10,7 @@
    "last_id": 132817
   },
   "TelNews_Magazine": {
-   "last_id": 101954
+   "last_id": 101955
   },
   "NE_WG": {
    "last_id": 115760
@@ -125,7 +125,8 @@
     "https://www.foxnews.com/world/death-toll-rises-9-church-attack-officials-blame-extremist-islamist-ideology",
     "https://www.foxnews.com/world/135-people-arrested-across-france-police-find-potential-weapons-protestors-official-says",
     "https://www.foxnews.com/world/nearly-1000-arrested-across-france-police-find-potential-weapons-protestors",
-    "https://www.foxnews.com/world/former-israeli-army-chief-gadi-eisenkot-emerges-netanyahus-leading-election-challenger"
+    "https://www.foxnews.com/world/former-israeli-army-chief-gadi-eisenkot-emerges-netanyahus-leading-election-challenger",
+    "https://www.foxnews.com/world/brazil-becomes-next-test-latin-americas-surging-conservative-movement"
    ]
   },
   "WSJ": {
@@ -814,19 +815,20 @@
    "t": 1792925475.0,
    "n": "آغاز موج جدید آزمایش های موشکی سپاه پاسداران در داخل خاک ایران",
    "fa": "🚨 〰️🚨آغاز موج جدید آزمایش‌های موشکی سپاه پاسداران در داخل خاک ایران"
+  },
+  {
+   "t": 1792926263.0,
+   "n": "around 2 hours ago the saudi led coalition announced that 10 houthi ansarallah ballistic missiles aimed at southern saudi arabia were intercepted",
+   "fa": "🔄 به‌روزرسانی 🇸🇦🇾🇪⚡️ — حدود ۲ ساعت پیش، ائتلاف به رهبری عربستان اعلام کرد که ۱۰ فروند موشک بالستیک انصارالله به مقصد جنوب عربستان رهگیری شده‌اند."
   }
  ],
  "usage": {
   "date": "2026-10-25",
-  "requests": 69
+  "requests": 70
  },
  "flip": 1933,
- "quote_n": 892,
+ "quote_n": 893,
  "feed": [
-  {
-   "t": 1792869241.0,
-   "tx": "⭕️اسراییل: ارتش در آستانه انتخابات روز سه‌شنبه در بالاترین سطح آماده‌باش قرار دارد و ده‌ها هزار نیرو در جبهه‌های مختلف مستقر شده‌اند"
-  },
   {
    "t": 1792869518.0,
    "tx": "🇮🇷❌🇮🇶 — لحظاتی پیش پهپادهای شاهد-۱۳۶ به هدفی در دره آلانا، در جنوب غربی سوران در استان اربیل اصابت کردند."
@@ -1222,24 +1224,13 @@
   {
    "t": 1792925475.0,
    "tx": "🚨 〰️🚨آغاز موج جدید آزمایش‌های موشکی سپاه پاسداران در داخل خاک ایران"
+  },
+  {
+   "t": 1792926263.0,
+   "tx": "🔄 به‌روزرسانی\n🇸🇦🇾🇪⚡️ — حدود ۲ ساعت پیش، ائتلاف به رهبری عربستان اعلام کرد که ۱۰ فروند موشک بالستیک انصارالله به مقصد جنوب عربستان رهگیری شده‌اند."
   }
  ],
  "signals": [
-  {
-   "t": 1792839695.2721438,
-   "s": 5,
-   "p": 90
-  },
-  {
-   "t": 1792839698.7248783,
-   "s": 3,
-   "p": 40
-  },
-  {
-   "t": 1792839702.2116199,
-   "s": 5,
-   "p": 70
-  },
   {
    "t": 1792839971.884783,
    "s": 5,
@@ -1982,6 +1973,11 @@
   },
   {
    "t": 1792925772.0418053,
+   "s": 4,
+   "p": 75
+  },
+  {
+   "t": 1792926366.8907945,
    "s": 4,
    "p": 75
   }
