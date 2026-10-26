@@ -10,7 +10,7 @@
    "last_id": 132910
   },
   "TelNews_Magazine": {
-   "last_id": 102016
+   "last_id": 102017
   },
   "NE_WG": {
    "last_id": 115864
@@ -889,7 +889,7 @@
  ],
  "usage": {
   "date": "2026-10-26",
-  "requests": 17
+  "requests": 18
  },
  "flip": 2061,
  "quote_n": 946,
@@ -2203,9 +2203,17 @@
   }
  ],
  "risk": {
-  "base": 100,
-  "ts": 1792987579.2299721,
-  "attack": true
+  "base": 60,
+  "ts": 1792991161.3194358,
+  "attack": false,
+  "n": 181,
+  "shares": {
+   "1": 1,
+   "2": 4,
+   "3": 27,
+   "4": 47,
+   "5": 21
+  }
  },
  "attack_ts": 1792969307.3544073,
  "attack_cand": [
