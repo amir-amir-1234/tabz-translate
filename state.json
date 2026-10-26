@@ -7,7 +7,7 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133028
+   "last_id": 133029
   },
   "TelNews_Magazine": {
    "last_id": 102088
@@ -615,11 +615,6 @@
  },
  "recent": [
   {
-   "t": 1793039768.0,
-   "n": "netanyahu fights for political future as israel heads to polls with iran threat looming ahead of israel s oct 27 national vote u s president donald trump issued a sweeping endorsement of prime minister benjamin netanyahu s reelection bid calling him a great warrior an even greater partner for peace and an ally in the confrontation with iran the backing could give israel s longest serving prime min",
-   "fa": "🔴 حمایت ترامپ از نتانیاهو و چالش‌های سیاسی نخست‌وزیر اسرائیل در آستانه انتخابات به گزارش فاکس نیوز در آستانه رای‌گیری سراسری ۲۷ اکتبر اسرائیل، دونالد ترامپ، رئیس‌جمهور ایالات متحده، حمایت قاطع خود را از تلاش‌های انتخاباتی مجدد بنیامین نتانیاهو، نخست‌وزیر اسرائیل، اعلام کرد و او را «یک جنگجوی بزرگ»، «شریکی حتی بزرگ‌تر برای صلح» و هم‌پیمانی در رویارویی با ایران نامید. این حمایت ممکن است به طولانی‌تر"
-  },
-  {
    "t": 1793040231.0,
    "n": "new the un independent international commission of inquiry has concluded that israel has committed war crimes and crimes against humanity including extermination persecution torture rape and other forms of sexual violence across the occupied palestinian territory while continuing the genocide in gaza in today s report the commission found that israeli military operations and settler violence in th",
    "fa": "🇺🇳🇮🇱🇵🇸⚡️ — جدید: کمیسیون مستقل بین‌المللی تحقیق سازمان ملل متحد به این نتیجه رسیده است که اسرائیل مرتکب جنایات جنگی و جنایات علیه بشریت، از جمله نابودی، آزار و اذیت، شکنجه، تجاوز جنسی و سایر اشکال خشونت جنسی در سراسر اراضی اشغالی فلسطین شده و در عین حال نسل‌کشی در غزه را ادامه داده است. در گزارش امروز، این کمیسیون دریافت که عملیات‌های نظامی اسرائیل و خشونت شهرک‌نشینان در کرانه باختری اشغالی بخشی ا"
@@ -913,19 +908,20 @@
    "t": 1793053177.0,
    "n": "گزارش ها از حمله هوایی به مرز عراق و سوریه خبر می دهند",
    "fa": "🇸🇾🇮🇶🚨گزارش ها از حمله هوایی به مرز عراق و سوریه خبر می دهند."
+  },
+  {
+   "t": 1793053614.0,
+   "n": "ترامپ خداوکیلی فردا به بی بی رای بدید",
+   "fa": "🇺🇸🇮🇱ترامپ: خداوکیلی فردا به بی‌بی رای بدید!"
   }
  ],
  "usage": {
   "date": "2026-10-26",
-  "requests": 206
+  "requests": 207
  },
- "flip": 2209,
+ "flip": 2210,
  "quote_n": 1022,
  "feed": [
-  {
-   "t": 1793029597.0,
-   "tx": "‼️قیمت نفت خام برنت به ۱۱۶ دلار برای هر بشکه افزایش یافت."
-  },
   {
    "t": 1793029941.0,
    "tx": "🇫🇷 رئیس‌جمهور فرانسه، مکرون:\n\nدولت حضور خواهد داشت و نظم عمومی حفظ خواهد شد."
@@ -1321,6 +1317,10 @@
   {
    "t": 1793053177.0,
    "tx": "🇸🇾🇮🇶🚨گزارش ها از حمله هوایی به مرز عراق و سوریه خبر می دهند."
+  },
+  {
+   "t": 1793053614.0,
+   "tx": "🇺🇸🇮🇱ترامپ: خداوکیلی فردا به بی‌بی رای بدید!"
   }
  ],
  "signals": [
@@ -2143,6 +2143,11 @@
    "t": 1793053283.1682205,
    "s": 4,
    "p": 70
+  },
+  {
+   "t": 1793053883.1616845,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
