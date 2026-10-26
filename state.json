@@ -539,7 +539,8 @@
     "https://www.nytimes.com/2026/10/25/business/media/caryle-murphy-dead.html",
     "https://www.nytimes.com/2026/10/25/obituaries/uriel-simon-dead.html",
     "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
-    "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html"
+    "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
+    "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html"
    ]
   },
   "Treasury": {
@@ -592,11 +593,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792968647.0,
-   "n": "هواپیمای اختصاصی امیر قطر از تهران به سمت دوحه عزیمت کرد",
-   "fa": "🇶🇦🇮🇷🚨هواپیمای اختصاصی امیر قطر از تهران به سمت دوحه عزیمت کرد!"
-  },
   {
    "t": 1792968702.0,
    "n": "zelenskyy can leverage moscow ties from comedy days to make peace deal says former key aide ukrainian president volodymyr zelenskyy s former spokesperson urged him sunday to meet russian president vladimir putin face to face in moscow arguing that his past business and political connections in the russian capital from years back could help him negotiate a peace deal there iuliia mendel who served ",
@@ -891,19 +887,20 @@
    "t": 1793008991.0,
    "n": "طعنه ترامپ به ناآرامی های فرانسه دونالد ترامپ رئیس جمهور آمریکا مطلبی را بازنشر کرد که در آن ادعا شده است در جریان ناآرامی های فرانسه حتی یک مسجد هم آسیب ندیده است در این مطلب با لحنی کنایه آمیز آمده است باید یک معجزه باشد",
    "fa": "🇺🇸🇫🇷 طعنه ترامپ به ناآرامی‌های فرانسه 🔴 دونالد ترامپ، رئیس‌جمهور آمریکا، مطلبی را بازنشر کرد که در آن ادعا شده است در جریان ناآرامی‌های فرانسه، حتی یک مسجد هم آسیب ندیده است. 🔴 در این مطلب با لحنی کنایه‌آمیز آمده است: «باید یک معجزه باشد.»"
+  },
+  {
+   "t": 1793008851.0,
+   "n": "u s army trains apache helicopter pilots to shoot drones the u s army is training apache pilots to shoot down drones as militaries around the world assess the efficacy of 20th century technologies in a new era",
+   "fa": "🔴 آموزش خلبانان هلیکوپتر آپاتچی ارتش ایالات متحده برای انهدام پهپادها به گزارش نیویورک تایمز ارتش ایالات متحده در حال آموزش دادن به خلبانان هلیکوپترهای آپاتچی برای سرنگون کردن پهپادها است، در حالی که ارتش‌های سراسر جهان اثربخشی فناوری‌های قرن بیستمی را در یک عصر جدید ارزیابی می‌کنند."
   }
  ],
  "usage": {
   "date": "2026-10-26",
-  "requests": 61
+  "requests": 63
  },
- "flip": 2092,
- "quote_n": 965,
+ "flip": 2093,
+ "quote_n": 966,
  "feed": [
-  {
-   "t": 1792958446.0,
-   "tx": "🇮🇱🇮🇷🚨منابع عبری: نتانیاهو در نظرسنجی‌ها عقب است و برای جلوگیری از شکست یا تعویق انتخابات به ایران حمله می‌کند!!"
-  },
   {
    "t": 1792958841.0,
    "tx": "🇺🇸🇮🇱ترامپ: «من در اسرائیل ۹۹ درصد آرا رو دارم.»"
@@ -1299,6 +1296,10 @@
   {
    "t": 1793008991.0,
    "tx": "🇺🇸🇫🇷 طعنه ترامپ به ناآرامی‌های فرانسه\n\n🔴 دونالد ترامپ، رئیس‌جمهور آمریکا، مطلبی را بازنشر کرد که در آن ادعا شده است در جریان ناآرامی‌های فرانسه، حتی یک مسجد هم آسیب ندیده است.\n\n🔴 در این مطلب با لحنی کنایه‌آمیز آمده است: «باید یک معجزه باشد.»"
+  },
+  {
+   "t": 1793008851.0,
+   "tx": "🔴 آموزش خلبانان هلیکوپتر آپاتچی ارتش ایالات متحده برای انهدام پهپادها\n\nبه گزارش نیویورک تایمز ارتش ایالات متحده در حال آموزش دادن به خلبانان هلیکوپترهای آپاتچی برای سرنگون کردن پهپادها است، در حالی که ارتش‌های سراسر جهان اثربخشی فناوری‌های قرن بیستمی را در یک عصر جدید ارزیابی می‌کنند."
   }
  ],
  "signals": [
