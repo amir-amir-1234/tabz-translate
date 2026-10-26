@@ -559,7 +559,8 @@
     "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
     "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
     "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
-    "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html"
+    "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html",
+    "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html"
    ]
   },
   "Treasury": {
@@ -916,7 +917,7 @@
  ],
  "usage": {
   "date": "2026-10-26",
-  "requests": 201
+  "requests": 202
  },
  "flip": 2204,
  "quote_n": 1021,
@@ -1323,16 +1324,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1792964780.3007228,
-   "s": 5,
-   "p": 90
-  },
-  {
-   "t": 1792964787.9812174,
-   "s": 4,
-   "p": 70
-  },
   {
    "t": 1792965078.8972378,
    "s": 3,
