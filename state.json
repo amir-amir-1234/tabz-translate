@@ -7,7 +7,7 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133022
+   "last_id": 133024
   },
   "TelNews_Magazine": {
    "last_id": 102084
@@ -134,7 +134,8 @@
     "https://www.foxnews.com/world/conservative-wave-hits-roadblock-brazil-lula-holds-off-bolsonaro-challenge",
     "https://www.foxnews.com/world/israel-drills-surprise-attack-massive-military-exercise-expert-invokes-1973-war",
     "https://www.foxnews.com/world/former-israeli-pm-emerges-wildcard-high-stakes-election-middle-easts-future-stake",
-    "https://www.foxnews.com/world/netanyahu-fights-political-future-israel-heads-polls-iran-threat-looming"
+    "https://www.foxnews.com/world/netanyahu-fights-political-future-israel-heads-polls-iran-threat-looming",
+    "https://www.foxnews.com/world/former-colombian-president-accused-exploiting-dozens-women-presidential-parties"
    ]
   },
   "WSJ": {
@@ -910,7 +911,7 @@
  ],
  "usage": {
   "date": "2026-10-26",
-  "requests": 191
+  "requests": 192
  },
  "flip": 2195,
  "quote_n": 1014,
@@ -1317,26 +1318,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1792962375.1748416,
-   "s": 4,
-   "p": 40
-  },
-  {
-   "t": 1792962378.559986,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1792962385.6985774,
-   "s": 4,
-   "p": 40
-  },
-  {
-   "t": 1792962392.2731855,
-   "s": 4,
-   "p": 50
-  },
   {
    "t": 1792962982.7049017,
    "s": 4,
