@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109303
+   "last_id": 109304
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133004
+   "last_id": 133006
   },
   "TelNews_Magazine": {
    "last_id": 102075
   },
   "NE_WG": {
-   "last_id": 115963
+   "last_id": 115965
   }
  },
  "fails": {},
@@ -606,11 +606,6 @@
  },
  "recent": [
   {
-   "t": 1793026860.0,
-   "n": "what s on the line as israelis prepare to vote israelis will vote tuesday in parliamentary elections that could decide whether longtime prime minister benjamin netanyahu remains in power or a new leader takes office",
-   "fa": "🔴 آغاز رای‌گیری پارلمانی در اسرائیل برای تعیین سرنوشت سیاسی نتانیاهو به گزارش وال‌استریت ژورنال، اسرائیلی‌ها روز سه‌شنبه در انتخابات پارلمانی رای خواهند داد که می‌تواند مشخص کند آیا بنیامین نتانیاهو، نخست‌وزیر دیرینه این کشور، در قدرت باقی می‌ماند یا رهبر جدیدی روی کار می‌آید."
-  },
-  {
    "t": 1793027237.0,
    "n": "never forget one year has passed since the el fasher massacre in sudan s darfur region one of the deadliest episodes of ethnically targeted violence in recent decades which un investigators said had hallmarks of genocide between october 26 and november 4 2025 the uae backed rapid support forces rsf carried out unprecedented killings after capturing el fasher the sudanese military s last major stro",
    "fa": "🇸🇩🇦🇪❌🇸🇩 — هرگز فراموش نکنید: یک سال از کشتار الفاشر در منطقه دارفور سودان، یکی از مرگبارترین حوادث خشونت‌های هدفمند قومی در دهه‌های اخیر که بازرسان سازمان ملل آن را دارای «نشانه‌های نسل‌کشی» توصیف کردند، می‌گذرد. بین ۲۶ اکتبر و ۴ نوامبر ۲۰۲۵، نیروهای واکنش سریع (RSF) تحت حمایت امارات پس از تصرف الفاشر، آخرین پایگاه اصلی ارتش سودان در دارفور، دست به کشتار بی‌سابقه‌ای زدند. این خشونت‌ها عمدتاً جوامع"
@@ -904,19 +899,20 @@
    "t": 1793041388.0,
    "n": "vice president jd vance we re self confident men in the trump vance administration president trump has been noticing a lot about the physiques of everybody lately",
    "fa": "🇺🇸⚡️ — معاون رئیس‌جمهور جی‌دی ونس: ما در دولت ترامپ/ونس مردانی بااعتمادبه‌نفس هستیم. رئیس‌جمهور ترامپ اخیراً توجه زیادی به فیزیک بدنی همگان داشته است."
+  },
+  {
+   "t": 1793042049.0,
+   "n": "پزشکیان همه باهم درستش میکنیم",
+   "fa": "🇮🇷‼️پزشکیان: همه باهم درستش میکنیم"
   }
  ],
  "usage": {
   "date": "2026-10-26",
-  "requests": 162
+  "requests": 166
  },
- "flip": 2167,
+ "flip": 2168,
  "quote_n": 1004,
  "feed": [
-  {
-   "t": 1793010253.0,
-   "tx": "⭕️انفجار در یک طبقه مسکونی در نارمک\n\n+ دلیل انفجار، نشت گاز عنوان شده است"
-  },
   {
    "t": 1793011662.0,
    "tx": "🇸🇦🇾🇪 بلومبرگ: عربستان سعودی به یک ائتلاف جدید علیه حوثی‌ها در یمن نیاز دارد."
@@ -1312,14 +1308,13 @@
   {
    "t": 1793041388.0,
    "tx": "🇺🇸⚡️ — معاون رئیس‌جمهور جی‌دی ونس:\nما در دولت ترامپ/ونس مردانی بااعتمادبه‌نفس هستیم.\n\nرئیس‌جمهور ترامپ اخیراً توجه زیادی به فیزیک بدنی همگان داشته است."
+  },
+  {
+   "t": 1793042049.0,
+   "tx": "🇮🇷‼️پزشکیان: همه باهم درستش میکنیم"
   }
  ],
  "signals": [
-  {
-   "t": 1792955474.5261867,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1792955781.0601423,
    "s": 3,
@@ -2199,6 +2194,11 @@
    "t": 1793041582.5612469,
    "s": 5,
    "p": 80
+  },
+  {
+   "t": 1793042301.591987,
+   "s": 3,
+   "p": 20
   }
  ],
  "risk": {
