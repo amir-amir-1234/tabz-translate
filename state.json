@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 132942
+   "last_id": 132943
   },
   "TelNews_Magazine": {
    "last_id": 102036
   },
   "NE_WG": {
-   "last_id": 115891
+   "last_id": 115893
   }
  },
  "fails": {},
@@ -452,7 +452,8 @@
     "WP-WSJ-0004006795",
     "WP-WSJ-0004006820",
     "WP-WSJ-0004006520",
-    "WP-WSJ-0004006900"
+    "WP-WSJ-0004006900",
+    "WP-WSJ-0004003813"
    ]
   },
   "NYT": {
@@ -593,11 +594,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1792974548.0,
-   "n": "brazil s electoral authority has declared president luiz inácio lula da silva the winner of the presidential runoff securing him a fourth term and defeating senator flávio bolsonaro",
-   "fa": "🇧🇷⚡️ — مرجع انتخاباتی برزیل، رئیس‌جمهور لوئیس ایناسیو لولا داسیلوا را به عنوان پیروز دور دوم انتخابات ریاست‌جمهوری اعلام کرد و برای او چهارمین دوره ریاست‌جمهوری را به ارمغان آورد و سناتور فلاویو بولسونارو را شکست داد."
-  },
   {
    "t": 1792975344.0,
    "n": "israel drills for surprise attack with massive military exercise as expert invokes 1973 war the israeli military launched large scale domestic military exercises on sunday to counter surprise border infiltrations and ground raids across northern and central israel mobilizing multiple divisions and air assets amid rising regional tensions the drills set to continue over 48 hours came as an israeli ",
@@ -892,19 +888,20 @@
    "t": 1793011662.0,
    "n": "بلومبرگ عربستان سعودی به یک ائتلاف جدید علیه حوثی ها در یمن نیاز دارد",
    "fa": "🇸🇦🇾🇪 بلومبرگ: عربستان سعودی به یک ائتلاف جدید علیه حوثی‌ها در یمن نیاز دارد."
+  },
+  {
+   "t": 1793012760.0,
+   "n": "the morning risk report lula wins fourth term in brazil election upset plus citi gets regulator nod for wholly owned securities venture in china and tanker carrying russian diesel signals u s port after trump putin deal",
+   "fa": "🔴 پیروزی لولا در انتخابات برزیل و تحولات اقتصادی و انرژی به گزارش وال‌استریت ژورنال در گزارش صبحگاهی ریسک، لولا در یک پیروزی غافلگیرکننده چهارمین دوره ریاست جمهوری خود را در انتخابات برزیل به دست آورد. علاوه بر این، سیتی‌گروپ تاییدیه تنظیم‌کنندگان مقررات را برای ایجاد یک شرکت کارگزاری اوراق بهادار با مالکیت کامل در چین دریافت کرد. همچنین، یک نفتکش حامل گازوئیل روسیه پس از توافق ترامپ و پوتین، سیگن"
   }
  ],
  "usage": {
   "date": "2026-10-26",
-  "requests": 70
+  "requests": 72
  },
- "flip": 2096,
- "quote_n": 968,
+ "flip": 2097,
+ "quote_n": 969,
  "feed": [
-  {
-   "t": 1792960039.0,
-   "tx": "🇺🇸🇮🇷ترامپ : تهدید هسته‌ای ایران را برای همیشه پایان دادم"
-  },
   {
    "t": 1792960119.0,
    "tx": "🇺🇸 ترامپ: آمریکایی‌ها این‌همه سال با کمونیست‌ها و تروریست‌ها نجنگیدن که حالا بشینن و تماشا کنن همه‌چیز نابود بشه و از هم بپاشه!\n\n💢ما آمریکا رو تسلیم جهادی‌های کمونیست نمی‌کنیم."
@@ -1300,24 +1297,13 @@
   {
    "t": 1793011662.0,
    "tx": "🇸🇦🇾🇪 بلومبرگ: عربستان سعودی به یک ائتلاف جدید علیه حوثی‌ها در یمن نیاز دارد."
+  },
+  {
+   "t": 1793012760.0,
+   "tx": "🔴 پیروزی لولا در انتخابات برزیل و تحولات اقتصادی و انرژی\n\nبه گزارش وال‌استریت ژورنال در گزارش صبحگاهی ریسک، لولا در یک پیروزی غافلگیرکننده چهارمین دوره ریاست جمهوری خود را در انتخابات برزیل به دست آورد. علاوه بر این، سیتی‌گروپ تاییدیه تنظیم‌کنندگان مقررات را برای ایجاد یک شرکت کارگزاری اوراق بهادار با مالکیت کامل در چین دریافت کرد. همچنین، یک نفتکش حامل گازوئیل روسیه پس از توافق ترامپ و پوتین، سیگنال حرکت به سمت یک بندر ایالات متحده را صادر کرد."
   }
  ],
  "signals": [
-  {
-   "t": 1792926366.8907945,
-   "s": 4,
-   "p": 75
-  },
-  {
-   "t": 1792926675.6704586,
-   "s": 3,
-   "p": 30
-  },
-  {
-   "t": 1792926679.126633,
-   "s": 2,
-   "p": 65
-  },
   {
    "t": 1792926978.1670022,
    "s": 5,
