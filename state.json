@@ -7,7 +7,7 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133138
+   "last_id": 133139
   },
   "TelNews_Magazine": {
    "last_id": 102163
@@ -597,7 +597,8 @@
     "https://www.nytimes.com/live/2026/10/27/world/israel-elections/relatives-of-victims-of-the-oct-7-attack-israeli-election",
     "https://www.nytimes.com/live/2026/10/27/world/israel-elections/netanyahu-accuses-arab-citizens-of-trying-to-steal-the-elections-in-racial-appeal-to-voters",
     "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-four-things.html",
-    "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israeli-elections-have-great-consequences-for-palestinians-but-they-dont-get-to-vote"
+    "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israeli-elections-have-great-consequences-for-palestinians-but-they-dont-get-to-vote",
+    "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israels-economic-future-is-on-the-ballot-after-netanyahu-offers-a-grim-forecast"
    ]
   },
   "Treasury": {
@@ -652,11 +653,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793118459.0,
-   "n": "israeli pm netanyahu do you see this this is record turnout at the polling stations of the arab parties there has never been anything like this the left is at an all time high likud voters go out and vote",
-   "fa": "🇮🇱⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: آیا این را می‌بینید؟ این میزان مشارکت بی‌سابقه در حوزه‌های رأی‌گیری احزاب عرب است؛ هرگز چیزی شبیه به این وجود نداشته است. میزان مشارکت چپ‌ها در بالاترین حد خود است. رأی‌دهندگان لیکود: بروید و رأی بدهید!"
-  },
   {
    "t": 1793118477.0,
    "n": "israeli opposition candidate gadi eisenkot in recent hours netanyahu has returned to his familiar tricks to lies and fear mongering in order to mobilize the masses the same lies from previous election campaigns this puts the change at risk",
@@ -951,19 +947,20 @@
    "t": 1793129345.0,
    "n": "روزنامه اسرائیل هیوم گزارش داد که میزان مشارکت در رأی گیری در اردوگاه نتانیاهو به ۷۰ ۶۹ درصد رسیده است در حالی که این میزان در اردوگاه آیزنکوت ۷۶ ۵ درصد بوده است",
    "fa": "⭕️روزنامه «اسرائیل هیوم» گزارش داد که میزان مشارکت در رأی‌گیری در اردوگاه نتانیاهو به ۷۰٫۶۹ درصد رسیده است؛ در حالی که این میزان در اردوگاه آیزنکوت ۷۶٫۵ درصد بوده است."
+  },
+  {
+   "t": 1793129404.0,
+   "n": "israel s economic future is on the ballot after netanyahu offers a grim forecast",
+   "fa": "🔴 آینده اقتصادی اسرائیل پس از پیش‌بینی تیره نتانیاهو در پای صندوق‌های رأی تعیین می‌شود به گزارش نیویورک تایمز آینده اقتصادی اسرائیل پس از آنکه نتانیاهو پیش‌بینی تیره‌ای را ارائه داد، در پای صندوق‌های رأی قرار دارد."
   }
  ],
  "usage": {
   "date": "2026-10-27",
-  "requests": 176
+  "requests": 178
  },
- "flip": 2360,
- "quote_n": 1097,
+ "flip": 2361,
+ "quote_n": 1098,
  "feed": [
-  {
-   "t": 1793104798.0,
-   "tx": "⭕️پزشکیان: باید محاصره دریایی و هوایی ایران از سوی آمریکا محکوم و به‌طور موثری با آن مقابله شود"
-  },
   {
    "t": 1793106291.0,
    "tx": "🚨 〰️🇮🇷 روابط عمومی نیروی دریایی اعلام کرد که یک تانکر که قصد عبور از یک منطقه ممنوعه و ناامن در شرق تنگه هرمز را داشت و سیستم‌های ناوبری آن خاموش بود، به مین‌های دریایی برخورد کرد، دچار آسیب شد و آتش گرفت.\n\nاین اطلاعیه مجدداً تأکید کرد که این تنگه ناامن است و برای کشتی‌هایی که قوانین را نقض می‌کنند و همچنین برای کشتی‌هایی که بدون هماهنگی قصد عبور از آن را دارند، بسته است، و برای عبور ایمن، هماهنگی با نیروهای مسلح ایران ضروری است."
@@ -1359,14 +1356,13 @@
   {
    "t": 1793129345.0,
    "tx": "⭕️روزنامه «اسرائیل هیوم» گزارش داد که میزان مشارکت در رأی‌گیری در اردوگاه نتانیاهو به ۷۰٫۶۹ درصد رسیده است؛ در حالی که این میزان در اردوگاه آیزنکوت ۷۶٫۵ درصد بوده است."
+  },
+  {
+   "t": 1793129404.0,
+   "tx": "🔴 آینده اقتصادی اسرائیل پس از پیش‌بینی تیره نتانیاهو در پای صندوق‌های رأی تعیین می‌شود\n\nبه گزارش نیویورک تایمز آینده اقتصادی اسرائیل پس از آنکه نتانیاهو پیش‌بینی تیره‌ای را ارائه داد، در پای صندوق‌های رأی قرار دارد."
   }
  ],
  "signals": [
-  {
-   "t": 1793043087.6186364,
-   "s": 4,
-   "p": 50
-  },
   {
    "t": 1793043366.2943964,
    "s": 2,
@@ -2351,6 +2347,11 @@
    "t": 1793129501.808226,
    "s": 3,
    "p": 50
+  },
+  {
+   "t": 1793129767.2367496,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
