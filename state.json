@@ -10,10 +10,10 @@
    "last_id": 133142
   },
   "TelNews_Magazine": {
-   "last_id": 102163
+   "last_id": 102164
   },
   "NE_WG": {
-   "last_id": 116110
+   "last_id": 116111
   }
  },
  "fails": {},
@@ -489,7 +489,8 @@
     "SB10865903614445404644304593528140543036964",
     "WP-WSJ-0004010990",
     "SB11835459989585144157804593535914260468432",
-    "WP-WSJ-0004006681"
+    "WP-WSJ-0004006681",
+    "WP-WSJ-0004011154"
    ]
   },
   "NYT": {
@@ -599,7 +600,8 @@
     "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-four-things.html",
     "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israeli-elections-have-great-consequences-for-palestinians-but-they-dont-get-to-vote",
     "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israels-economic-future-is-on-the-ballot-after-netanyahu-offers-a-grim-forecast",
-    "https://www.nytimes.com/2026/10/27/world/middleeast/israeli-election-turnout.html"
+    "https://www.nytimes.com/2026/10/27/world/middleeast/israeli-election-turnout.html",
+    "https://www.nytimes.com/live/2026/10/27/world/israel-elections/twice-before-netanyahu-was-ousted-then-returned-to-power"
    ]
   },
   "Treasury": {
@@ -654,11 +656,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793118686.0,
-   "n": "watch u s ambassador to the un mike waltz lashed out on cuban foreign minister bruno rodríguez parrilla during a un general assembly session on tuesday rodríguez approached the podium and accused waltz of lying while he discussed cuba s real estate holdings prompting waltz to shout you understand who you re dealing with this is america back up",
-   "fa": "🇺🇸🇨🇺🇺🇳⚡️ — تماشا کنید: مایک والتز، سفیر ایالات متحده در سازمان ملل، روز سه‌شنبه در جریان نشست مجمع عمومی سازمان ملل متحد بر سر برونو رودریگرز پاریلیا، وزیر خارجه کوبا، فریاد کشید و او را به چالش کشید."
-  },
   {
    "t": 1793118686.0,
    "n": "president trump via truth social in short order we will be officially banning the term ai artificial intelligence in all relevant documents and everything else due to its inaccuracy",
@@ -953,19 +950,20 @@
    "t": 1793130153.0,
    "n": "israelis surge to polls with nation s future on the ballot as prime minister benjamin netanyahu and his right wing allies fought to remain in power voter turnout especially among israeli arabs hit a new high",
    "fa": "⭕️ مشارکت گسترده رای‌دهندگان اسرائیلی در انتخابات همزمان با تلاش نتانیاهو برای ماندن در قدرت به گزارش نیویورک تایمز همزمان که بنیامین نتانیاهو، نخست‌وزیر، و متحدان راست‌گرای او برای باقی ماندن در قدرت می‌جنگیدند، میزان مشارکت رای‌دهندگان، به ویژه در میان اعراب اسرائیلی، به رکورد جدیدی رسید."
+  },
+  {
+   "t": 1793130318.0,
+   "n": "twice before netanyahu was ousted then returned to power",
+   "fa": "🔴 بررسی دو دوره برکناری و بازگشت مجدد نتانیاهو به قدرت به گزارش نیویورک تایمز نتانیاهو دو بار پیش از این از قدرت برکنار شده و سپس به قدرت بازگشته است."
   }
  ],
  "usage": {
   "date": "2026-10-27",
-  "requests": 182
+  "requests": 184
  },
- "flip": 2364,
- "quote_n": 1099,
+ "flip": 2365,
+ "quote_n": 1100,
  "feed": [
-  {
-   "t": 1793106960.0,
-   "tx": "🇮🇱 گادی آیزنکوت و همسرش هم رفتن رای دادن"
-  },
   {
    "t": 1793107381.0,
    "tx": "💢آیزنکوت قبل رای دادن سر قبر پسرش رفت که تو جنگ غزه کشته شده بود"
@@ -1361,24 +1359,13 @@
   {
    "t": 1793130153.0,
    "tx": "⭕️ مشارکت گسترده رای‌دهندگان اسرائیلی در انتخابات همزمان با تلاش نتانیاهو برای ماندن در قدرت\n\nبه گزارش نیویورک تایمز همزمان که بنیامین نتانیاهو، نخست‌وزیر، و متحدان راست‌گرای او برای باقی ماندن در قدرت می‌جنگیدند، میزان مشارکت رای‌دهندگان، به ویژه در میان اعراب اسرائیلی، به رکورد جدیدی رسید."
+  },
+  {
+   "t": 1793130318.0,
+   "tx": "🔴 بررسی دو دوره برکناری و بازگشت مجدد نتانیاهو به قدرت\n\nبه گزارش نیویورک تایمز نتانیاهو دو بار پیش از این از قدرت برکنار شده و سپس به قدرت بازگشته است."
   }
  ],
  "signals": [
-  {
-   "t": 1793043976.0482285,
-   "s": 4,
-   "p": 40
-  },
-  {
-   "t": 1793043980.619813,
-   "s": 4,
-   "p": 50
-  },
-  {
-   "t": 1793043988.6111124,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1793044781.4858751,
    "s": 4,
@@ -2353,6 +2340,11 @@
    "t": 1793130373.680023,
    "s": 3,
    "p": 50
+  },
+  {
+   "t": 1793130682.3748116,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
