@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109401
+   "last_id": 109402
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 102177
   },
   "NE_WG": {
-   "last_id": 116125
+   "last_id": 116126
   }
  },
  "fails": {},
@@ -964,7 +964,7 @@
  ],
  "usage": {
   "date": "2026-10-27",
-  "requests": 195
+  "requests": 196
  },
  "flip": 2380,
  "quote_n": 1108,
