@@ -136,7 +136,8 @@
     "https://www.foxnews.com/world/former-israeli-pm-emerges-wildcard-high-stakes-election-middle-easts-future-stake",
     "https://www.foxnews.com/world/netanyahu-fights-political-future-israel-heads-polls-iran-threat-looming",
     "https://www.foxnews.com/world/former-colombian-president-accused-exploiting-dozens-women-presidential-parties",
-    "https://www.foxnews.com/world/israel-heads-deeply-divided-election-oct-7-reckoning-looms-what-know"
+    "https://www.foxnews.com/world/israel-heads-deeply-divided-election-oct-7-reckoning-looms-what-know",
+    "https://www.foxnews.com/world/ceasefire-negotiated-melania-trump-holds-russia-occupied-ukrainian-city"
    ]
   },
   "WSJ": {
@@ -935,7 +936,7 @@
  ],
  "usage": {
   "date": "2026-10-27",
-  "requests": 89
+  "requests": 90
  },
  "flip": 2285,
  "quote_n": 1058,
