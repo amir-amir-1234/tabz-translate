@@ -471,7 +471,8 @@
     "SB12683950670106423529304593535413641456732",
     "WP-WSJ-0004008081",
     "WP-WSJ-0003999022",
-    "WP-WSJ-0004000455"
+    "WP-WSJ-0004000455",
+    "WP-WSJ-0004009796"
    ]
   },
   "NYT": {
@@ -617,11 +618,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793046385.0,
-   "n": "footage showing the impact of several russian rm 48u modified s 400 ballistic missiles in the eastern suburbs of kyiv there were no interceptions as ukraine is still out of patriot pac 3 interceptors",
-   "fa": "🚨 تصاویری از اصابت چند فروند موشک بالستیک اصلاح‌شده اس-۴۰۰ مدل RM-48U روسیه در حومه شرقی کی‌یف. هیچ رهگیری صورت نگرفته است زیرا اوکراین همچنان فاقد رهگیرهای پاتریوت PAC-3 است."
-  },
   {
    "t": 1793046607.0,
    "n": "israel has committed genocidal acts in gaza since cease fire u n human rights panel says the panel also accuses israel of committing crimes against humanity in the west bank israel condemned the report",
@@ -916,19 +912,20 @@
    "t": 1793068824.0,
    "n": "the earlier rjaf airstrikes against daraa and as suwayda governorates southern syria caused civilian casualties 5 people all from the same family were killed in the village of latf daraa governorate women children and a teacher were killed in response to these airstrikes the syrian transitional government ordered the closure of the nasib border crossing the stg also denied any coordination took pl",
    "fa": "🇯🇴❌🇸🇾 — حملات هوایی پیشین نیروی هوایی پادشاهی اردن به استان‌های درعا و سویدا در جنوب سوریه تلفات غیرنظامی برجای گذاشت. ۵ نفر از اعضای یک خانواده در روستای لطف در استان درعا کشته شدند. زنان، کودکان و یک معلم در میان جان‌باختگان هستند. در واکنش به این حملات هوایی، دولت گذار سوریه دستور بسته شدن گذرگاه مرزی نصیب را صادر کرد. دولت گذار همچنین هرگونه هماهنگی با اردن در خصوص این حملات هوایی را رد کرد."
+  },
+  {
+   "t": 1793070960.0,
+   "n": "china s industrial profit growth surged in september china s industrial profit growth rose 14 4 from a year earlier in september supported by strong gains in electronics and high tech manufacturing linked to ai and digital infrastructure spending",
+   "fa": "⭕️ جهش رشد سود صنعتی چین در ماه سپتامبر با حمایت بخش فناوری به گزارش وال‌استریت ژورنال رشد سود صنعتی چین در ماه سپتامبر ۱۴.۴ درصد نسبت به سال قبل افزایش یافت که با بردهای قوی در صنایع الکترونیک و تولیدات با فناوری پیشرفته مرتبط با هوش مصنوعی و هزینه‌کرد زیرساخت‌های دیجیتال پشتیبانی شده است."
   }
  ],
  "usage": {
   "date": "2026-10-27",
-  "requests": 12
+  "requests": 14
  },
- "flip": 2231,
- "quote_n": 1029,
+ "flip": 2232,
+ "quote_n": 1030,
  "feed": [
-  {
-   "t": 1793038350.0,
-   "tx": "🚨شنیده شدن صدای انفجاری در تنگه هرمز"
-  },
   {
    "t": 1793038368.0,
    "tx": "🔄 به‌روزرسانی\n⭕️ یک مقام دولتی از یکی از کشورهای حاشیه خلیج فارس به نیویورک تایمز گفت که میانجی‌گران قطری در حال کار روی توافقی هستند که بر اساس آن، ایران و ایالات متحده طی یک دوره پنج‌روزه مجموعه‌ای از امتیازها را ارائه خواهند کرد؛ از جمله بازگشایی تنگه هرمز توسط ایران و لغو محاصره دریایی آمریکا بر بندرهای ایران.\n\nموانع اصلی این توافق، زمان‌بندی اجرای امتیازها از سوی هر یک از طرف‌ها و نیز اصرار میانجی‌گران قطری بر یک امتیاز مربوط به برنامه هسته‌ای ایران است که مذاکره‌کنندگان ایرانی آن را رد می‌کنند."
@@ -1324,14 +1321,13 @@
   {
    "t": 1793068824.0,
    "tx": "🇯🇴❌🇸🇾 — حملات هوایی پیشین نیروی هوایی پادشاهی اردن به استان‌های درعا و سویدا در جنوب سوریه تلفات غیرنظامی برجای گذاشت. ۵ نفر از اعضای یک خانواده در روستای لطف در استان درعا کشته شدند. زنان، کودکان و یک معلم در میان جان‌باختگان هستند.\n\nدر واکنش به این حملات هوایی، دولت گذار سوریه دستور بسته شدن گذرگاه مرزی نصیب را صادر کرد. دولت گذار همچنین هرگونه هماهنگی با اردن در خصوص این حملات هوایی را رد کرد."
+  },
+  {
+   "t": 1793070960.0,
+   "tx": "⭕️ جهش رشد سود صنعتی چین در ماه سپتامبر با حمایت بخش فناوری\n\nبه گزارش وال‌استریت ژورنال رشد سود صنعتی چین در ماه سپتامبر ۱۴.۴ درصد نسبت به سال قبل افزایش یافت که با بردهای قوی در صنایع الکترونیک و تولیدات با فناوری پیشرفته مرتبط با هوش مصنوعی و هزینه‌کرد زیرساخت‌های دیجیتال پشتیبانی شده است."
   }
  ],
  "signals": [
-  {
-   "t": 1792984567.122744,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1792987571.912603,
    "s": 3,
