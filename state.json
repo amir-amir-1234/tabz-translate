@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109411
+   "last_id": 109413
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 102190
   },
   "NE_WG": {
-   "last_id": 116164
+   "last_id": 116165
   }
  },
  "fails": {},
@@ -2493,7 +2493,7 @@
  ],
  "risk": {
   "base": 53,
-  "ts": 1793143575.8868735,
+  "ts": 1793143881.2866437,
   "attack": false,
   "n": 223,
   "shares": {
