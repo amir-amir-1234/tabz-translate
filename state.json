@@ -598,7 +598,8 @@
     "https://www.nytimes.com/live/2026/10/27/world/israel-elections/netanyahu-accuses-arab-citizens-of-trying-to-steal-the-elections-in-racial-appeal-to-voters",
     "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-four-things.html",
     "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israeli-elections-have-great-consequences-for-palestinians-but-they-dont-get-to-vote",
-    "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israels-economic-future-is-on-the-ballot-after-netanyahu-offers-a-grim-forecast"
+    "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israels-economic-future-is-on-the-ballot-after-netanyahu-offers-a-grim-forecast",
+    "https://www.nytimes.com/2026/10/27/world/middleeast/israeli-election-turnout.html"
    ]
   },
   "Treasury": {
@@ -653,11 +654,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793118550.0,
-   "n": "پاکستان راهکار دیپلماتیک برای پرونده هسته ای ایران حیاتی است نماینده پاکستان در نشست شورای امنیت سازمان ملل متحد وضعیت پرونده هسته ای ایران به شدت وخیم شده و اختلافات عمیق شکنندگی اوضاع و خطر تنش آفرینی را افزایش داده است از تمامی طرف ها درخواست می کنیم از اظهارات و اقدامات بی ثبات کننده پرهیز کرده و مسیر خویشتن داری را انتخاب کنند حل وفصل چالش های موجود صرفا از طریق تعامل دیپلماتیک مستمر گفت وگو ",
-   "fa": "🇵🇰🇮🇷پاکستان: راهکار دیپلماتیک برای پرونده هسته‌ای ایران حیاتی است ❌نماینده پاکستان در نشست شورای امنیت سازمان ملل متحد: 〰️وضعیت پرونده هسته‌ای ایران به شدت وخیم شده و اختلافات عمیق، شکنندگی اوضاع و خطر تنش‌آفرینی را افزایش داده است. 〰️از تمامی طرف‌ها درخواست می‌کنیم از اظهارات و اقدامات بی‌ثبات‌کننده پرهیز کرده و مسیر خویشتن‌داری را انتخاب کنند. 〰️حل‌وفصل چالش‌های موجود صرفاً از طریق تعامل دیپلمات"
-  },
   {
    "t": 1793118686.0,
    "n": "watch u s ambassador to the un mike waltz lashed out on cuban foreign minister bruno rodríguez parrilla during a un general assembly session on tuesday rodríguez approached the podium and accused waltz of lying while he discussed cuba s real estate holdings prompting waltz to shout you understand who you re dealing with this is america back up",
@@ -952,19 +948,20 @@
    "t": 1793130001.0,
    "n": "یک نکته جالب روز انتخابات در اسرائیل یک روز تعطیل با حقوق است اول رأی می دهیم بعد می رویم ساحل",
    "fa": "🇮🇱 یک نکته جالب: روز انتخابات در اسرائیل، یک روز تعطیل با حقوق است! اول رأی می‌دهیم، بعد می‌رویم ساحل. 🏖️"
+  },
+  {
+   "t": 1793130153.0,
+   "n": "israelis surge to polls with nation s future on the ballot as prime minister benjamin netanyahu and his right wing allies fought to remain in power voter turnout especially among israeli arabs hit a new high",
+   "fa": "⭕️ مشارکت گسترده رای‌دهندگان اسرائیلی در انتخابات همزمان با تلاش نتانیاهو برای ماندن در قدرت به گزارش نیویورک تایمز همزمان که بنیامین نتانیاهو، نخست‌وزیر، و متحدان راست‌گرای او برای باقی ماندن در قدرت می‌جنگیدند، میزان مشارکت رای‌دهندگان، به ویژه در میان اعراب اسرائیلی، به رکورد جدیدی رسید."
   }
  ],
  "usage": {
   "date": "2026-10-27",
-  "requests": 180
+  "requests": 182
  },
- "flip": 2363,
- "quote_n": 1098,
+ "flip": 2364,
+ "quote_n": 1099,
  "feed": [
-  {
-   "t": 1793106737.0,
-   "tx": "⭕️طبق احتمالات میدانی جدید، نتانیاهو یک کرسی بیشتر خواهد داشت"
-  },
   {
    "t": 1793106960.0,
    "tx": "🇮🇱 گادی آیزنکوت و همسرش هم رفتن رای دادن"
@@ -1360,19 +1357,13 @@
   {
    "t": 1793130001.0,
    "tx": "🇮🇱 یک نکته جالب: روز انتخابات در اسرائیل، یک روز تعطیل با حقوق است!\n\nاول رأی می‌دهیم، بعد می‌رویم ساحل. 🏖️"
+  },
+  {
+   "t": 1793130153.0,
+   "tx": "⭕️ مشارکت گسترده رای‌دهندگان اسرائیلی در انتخابات همزمان با تلاش نتانیاهو برای ماندن در قدرت\n\nبه گزارش نیویورک تایمز همزمان که بنیامین نتانیاهو، نخست‌وزیر، و متحدان راست‌گرای او برای باقی ماندن در قدرت می‌جنگیدند، میزان مشارکت رای‌دهندگان، به ویژه در میان اعراب اسرائیلی، به رکورد جدیدی رسید."
   }
  ],
  "signals": [
-  {
-   "t": 1793043677.4926536,
-   "s": 3,
-   "p": 50
-  },
-  {
-   "t": 1793043686.5768487,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1793043976.0482285,
    "s": 4,
@@ -2357,6 +2348,11 @@
    "t": 1793130076.0762978,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1793130373.680023,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
