@@ -7,7 +7,7 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133057
+   "last_id": 133058
   },
   "TelNews_Magazine": {
    "last_id": 102108
@@ -570,7 +570,8 @@
     "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
     "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
     "https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest",
-    "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html"
+    "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
+    "https://www.nytimes.com/2026/10/27/world/middleeast/israel-elections-key-issues.html"
    ]
   },
   "Treasury": {
@@ -927,7 +928,7 @@
  ],
  "usage": {
   "date": "2026-10-27",
-  "requests": 51
+  "requests": 52
  },
  "flip": 2254,
  "quote_n": 1043,
