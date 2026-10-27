@@ -13,7 +13,7 @@
    "last_id": 102164
   },
   "NE_WG": {
-   "last_id": 116111
+   "last_id": 116112
   }
  },
  "fails": {},
@@ -601,7 +601,8 @@
     "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israeli-elections-have-great-consequences-for-palestinians-but-they-dont-get-to-vote",
     "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israels-economic-future-is-on-the-ballot-after-netanyahu-offers-a-grim-forecast",
     "https://www.nytimes.com/2026/10/27/world/middleeast/israeli-election-turnout.html",
-    "https://www.nytimes.com/live/2026/10/27/world/israel-elections/twice-before-netanyahu-was-ousted-then-returned-to-power"
+    "https://www.nytimes.com/live/2026/10/27/world/israel-elections/twice-before-netanyahu-was-ousted-then-returned-to-power",
+    "https://www.nytimes.com/2026/10/27/world/middleeast/what-to-expect-when-the-polls-close-in-israel.html"
    ]
   },
   "Treasury": {
@@ -656,11 +657,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793118686.0,
-   "n": "president trump via truth social in short order we will be officially banning the term ai artificial intelligence in all relevant documents and everything else due to its inaccuracy",
-   "fa": "🇺🇸⚡️ — دونالد ترامپ در شبکه اجتماعی تروث سوشال: به زودی و به دلیل نادرستی اصطلاح «هوش مصنوعی»، استفاده از آن را در تمامی اسناد مربوطه و سایر موارد رسماً ممنوع خواهیم کرد."
-  },
   {
    "t": 1793118918.0,
    "n": "روسیه تعداد کارکنان خود در نیروگاه هسته ای بوشهر را افزایش می دهد به گزارش خبرگزاری اینترفاکس شرکت دولتی هسته ای روسیه روس اتم تعداد کارکنان خود در نیروگاه هسته ای بوشهر ایران را به ۷۰۰ نفر افزایش خواهد داد",
@@ -955,19 +951,20 @@
    "t": 1793130318.0,
    "n": "twice before netanyahu was ousted then returned to power",
    "fa": "🔴 بررسی دو دوره برکناری و بازگشت مجدد نتانیاهو به قدرت به گزارش نیویورک تایمز نتانیاهو دو بار پیش از این از قدرت برکنار شده و سپس به قدرت بازگشته است."
+  },
+  {
+   "t": 1793130730.0,
+   "n": "شبکه 14 اسرائیل هم زمان با آخرین دقایق انتخابات اسرائیل ایرانیان آشکارا در تمام شبکه های اجتماعی از بی بی نتانیاهو حمایت و برای پیروزی او دعا می کنند زیرا معتقد هستند با ادامه نخست وزیری او جمهوری اسلامی سقوط خواهد کرد",
+   "fa": "🇮🇱❤️ شبکه 14 اسرائیل: هم‌زمان با آخرین دقایق انتخابات اسرائیل، ایرانیان آشکارا در تمام شبکه‌های اجتماعی از بی‌بی نتانیاهو حمایت و برای پیروزی او دعا می‌کنند زیرا معتقد هستند با ادامه نخست‌وزیری او، جمهوری اسلامی سقوط خواهد کرد."
   }
  ],
  "usage": {
   "date": "2026-10-27",
-  "requests": 184
+  "requests": 185
  },
- "flip": 2365,
- "quote_n": 1100,
+ "flip": 2366,
+ "quote_n": 1101,
  "feed": [
-  {
-   "t": 1793107381.0,
-   "tx": "💢آیزنکوت قبل رای دادن سر قبر پسرش رفت که تو جنگ غزه کشته شده بود"
-  },
   {
    "t": 1793107510.0,
    "tx": "🇮🇱پیش‌بینی نهایی انتخابات اسرائیل؛ رقابت میلی‌متری نتانیاهو و مخالفانش\n\n🔵آبی: موافقان نتانیاهو\n🟡زرد: مخالفان نتانیاهو"
@@ -1363,6 +1360,10 @@
   {
    "t": 1793130318.0,
    "tx": "🔴 بررسی دو دوره برکناری و بازگشت مجدد نتانیاهو به قدرت\n\nبه گزارش نیویورک تایمز نتانیاهو دو بار پیش از این از قدرت برکنار شده و سپس به قدرت بازگشته است."
+  },
+  {
+   "t": 1793130730.0,
+   "tx": "🇮🇱❤️ شبکه 14 اسرائیل:\n\nهم‌زمان با آخرین دقایق انتخابات اسرائیل، ایرانیان آشکارا در تمام شبکه‌های اجتماعی از بی‌بی نتانیاهو حمایت و برای پیروزی او دعا می‌کنند زیرا معتقد هستند با ادامه نخست‌وزیری او، جمهوری اسلامی سقوط خواهد کرد."
   }
  ],
  "signals": [
@@ -2345,6 +2346,11 @@
    "t": 1793130682.3748116,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1793130972.5369797,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
