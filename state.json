@@ -137,7 +137,8 @@
     "https://www.foxnews.com/world/netanyahu-fights-political-future-israel-heads-polls-iran-threat-looming",
     "https://www.foxnews.com/world/former-colombian-president-accused-exploiting-dozens-women-presidential-parties",
     "https://www.foxnews.com/world/israel-heads-deeply-divided-election-oct-7-reckoning-looms-what-know",
-    "https://www.foxnews.com/world/ceasefire-negotiated-melania-trump-holds-russia-occupied-ukrainian-city"
+    "https://www.foxnews.com/world/ceasefire-negotiated-melania-trump-holds-russia-occupied-ukrainian-city",
+    "https://www.foxnews.com/world/pakistans-top-court-upholds-christian-mans-death-sentence-blasphemy"
    ]
   },
   "WSJ": {
@@ -940,7 +941,7 @@
  ],
  "usage": {
   "date": "2026-10-27",
-  "requests": 110
+  "requests": 111
  },
  "flip": 2302,
  "quote_n": 1063,
