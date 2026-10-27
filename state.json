@@ -10,10 +10,10 @@
    "last_id": 133077
   },
   "TelNews_Magazine": {
-   "last_id": 102119
+   "last_id": 102120
   },
   "NE_WG": {
-   "last_id": 116040
+   "last_id": 116041
   }
  },
  "fails": {},
@@ -631,11 +631,6 @@
  },
  "recent": [
   {
-   "t": 1793068382.0,
-   "n": "photos published by the royal jordanian air force of one of its f 16am fighting falcon fighter jets that participated in operation jordanian deterrence hamoud intended as a retaliatory operation against isis followimg their terrorist attack against hamoud church air to ground munitions visible are two blu 111 500 pound bombs equipped with jdam guidance kits",
-   "fa": "🇯🇴❌🇸🇾🏴‍☠️ — تصاویری که نیروی هوایی پادشاهی اردن از یکی از جنگنده‌های F-16AM Fighting Falcon خود منتشر کرده است که در عملیات «بازدارندگی اردنی - حمود» شرکت داشت؛ این عملیات به عنوان اقدامی تلافی‌جویانه علیه داعش پس از حمله تروریستی آن‌ها به کلیسای حمود در نظر گرفته شده است. مهمات هوا به زمین قابل مشاهده شامل دو بمب ۵۰۰ پوندی BLU-111 مجهز به کیت‌های هدایت JDAM است."
-  },
-  {
    "t": 1793068824.0,
    "n": "the earlier rjaf airstrikes against daraa and as suwayda governorates southern syria caused civilian casualties 5 people all from the same family were killed in the village of latf daraa governorate women children and a teacher were killed in response to these airstrikes the syrian transitional government ordered the closure of the nasib border crossing the stg also denied any coordination took pl",
    "fa": "🇯🇴❌🇸🇾 — حملات هوایی پیشین نیروی هوایی پادشاهی اردن به استان‌های درعا و سویدا در جنوب سوریه تلفات غیرنظامی برجای گذاشت. ۵ نفر از اعضای یک خانواده در روستای لطف در استان درعا کشته شدند. زنان، کودکان و یک معلم در میان جان‌باختگان هستند. در واکنش به این حملات هوایی، دولت گذار سوریه دستور بسته شدن گذرگاه مرزی نصیب را صادر کرد. دولت گذار همچنین هرگونه هماهنگی با اردن در خصوص این حملات هوایی را رد کرد."
@@ -929,19 +924,20 @@
    "t": 1793101086.0,
    "n": "استقبال ولادمیر پوتین از پرزیدنت پزشکیان در اجلاس سران کشورهای صادر کننده گاز",
    "fa": "🇮🇷🇷🇺استقبال ولادمیر پوتین از پرزیدنت پزشکیان در اجلاس سران کشورهای صادر‌کننده گاز"
+  },
+  {
+   "t": 1793101460.0,
+   "n": "تعداد زیادی از فلسطینیان داخل اسرائیل در انتخابات کنونی شرکت می کنند",
+   "fa": "⭕️تعداد زیادی از فلسطینیان داخل اسرائیل در انتخابات کنونی شرکت می‌کنند."
   }
  ],
  "usage": {
   "date": "2026-10-27",
-  "requests": 78
+  "requests": 79
  },
- "flip": 2278,
+ "flip": 2279,
  "quote_n": 1054,
  "feed": [
-  {
-   "t": 1793050608.0,
-   "tx": "⭕️پروازهای گسترده جنگنده‌های امریکا بر فراز آسمان عراق."
-  },
   {
    "t": 1793050860.0,
    "tx": "🔴 انتقاد وال‌استریت ژورنال از مواضع ایلان ماسک درباره ولادیمیر پوتین\n\nبه گزارش وال‌استریت ژورنال، مدیرعامل شرکت اسپیس‌اکس، «جنگ‌طلبان خون‌خوار» واقعی در مسکو را نادیده می‌گیرد."
@@ -1337,24 +1333,13 @@
   {
    "t": 1793101086.0,
    "tx": "🇮🇷🇷🇺استقبال ولادمیر پوتین از پرزیدنت پزشکیان در اجلاس سران کشورهای صادر‌کننده گاز"
+  },
+  {
+   "t": 1793101460.0,
+   "tx": "⭕️تعداد زیادی از فلسطینیان داخل اسرائیل در انتخابات کنونی شرکت می‌کنند."
   }
  ],
  "signals": [
-  {
-   "t": 1793014872.350675,
-   "s": 2,
-   "p": 60
-  },
-  {
-   "t": 1793014875.791517,
-   "s": 3,
-   "p": 50
-  },
-  {
-   "t": 1793014880.1906135,
-   "s": 3,
-   "p": 50
-  },
   {
    "t": 1793015768.3978748,
    "s": 4,
@@ -2264,6 +2249,11 @@
    "t": 1793101291.1951613,
    "s": 3,
    "p": 50
+  },
+  {
+   "t": 1793101582.3058743,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
