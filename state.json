@@ -582,7 +582,8 @@
     "https://www.nytimes.com/2026/10/25/world/middleeast/israel-election-guide-netanyahu-eisenkot.html",
     "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-ben-gvir-smotrich.html",
     "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-avigdor-liberman-naftali-bennett.html",
-    "https://www.nytimes.com/live/2026/10/27/world/israel-elections/why-parties-with-dim-prospects-get-so-much-airtime-in-israel"
+    "https://www.nytimes.com/live/2026/10/27/world/israel-elections/why-parties-with-dim-prospects-get-so-much-airtime-in-israel",
+    "https://www.nytimes.com/live/2026/10/27/world/israel-elections/votes-from-israels-arab-citizens-could-help-decide-the-election"
    ]
   },
   "Treasury": {
@@ -939,7 +940,7 @@
  ],
  "usage": {
   "date": "2026-10-27",
-  "requests": 105
+  "requests": 106
  },
  "flip": 2298,
  "quote_n": 1062,
@@ -1346,16 +1347,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793024206.0649595,
-   "s": 4,
-   "p": 70
-  },
-  {
-   "t": 1793024213.853346,
-   "s": 4,
-   "p": 65
-  },
   {
    "t": 1793024812.8154078,
    "s": 4,
