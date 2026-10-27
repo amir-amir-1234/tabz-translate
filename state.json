@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133041
+   "last_id": 133042
   },
   "TelNews_Magazine": {
-   "last_id": 102092
+   "last_id": 102093
   },
   "NE_WG": {
-   "last_id": 116002
+   "last_id": 116003
   }
  },
  "fails": {},
@@ -565,7 +565,8 @@
     "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
     "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html",
     "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
-    "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html"
+    "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
+    "https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest"
    ]
   },
   "Treasury": {
@@ -922,7 +923,7 @@
  ],
  "usage": {
   "date": "2026-10-27",
-  "requests": 19
+  "requests": 20
  },
  "flip": 2235,
  "quote_n": 1031,
