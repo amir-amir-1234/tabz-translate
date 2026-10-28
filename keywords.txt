@@ -41,11 +41,6 @@ opec
 brent
 oil
 tanker
-ukraine
-russia
-putin
-zelensky
-lavrov
 macron
 starmer
 qatar
@@ -67,9 +62,6 @@ deepseek
 ai
 chatgpt
 gemini
-pandemic
-plague
-outbreak
 ایران
 تهران
 سپاه
@@ -90,8 +82,6 @@ outbreak
 تحریم
 مذاکره
 آتش‌بس
-اوکراین
-روسیه
 پوتین
 نفت
 برنت
