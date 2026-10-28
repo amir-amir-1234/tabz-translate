@@ -631,7 +631,8 @@
     "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
     "https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest",
     "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
-    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html"
+    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html",
+    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-eisenkot.html"
    ]
   },
   "Treasury": {
@@ -689,11 +690,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793186518.0,
-   "n": "a french navy frigate shot down a ballistic missile near belgian minehunter bns primula in the bab el mandeb strait in mid october belgium s ministry of defence confirmed to vrt nws on october 26 the missile was most likely launched by yemen s houthi rebels no casualties or damage were reported and there is no indication that the belgian vessel was the intended target france has reportedly opened ",
-   "fa": "🇫🇷🇧🇪⚡️ — وزارت دفاع بلژیک روز ۲۶ اکتبر به شبکه VRT NWS تأیید کرد که یک فرچه ناو نیروی دریایی فرانسه در اواسط ماه اکتبر یک موشک بالستیک را در نزدیکی شناور مین‌روب بلژیکی BNS Primula در تنگه باب‌المندب سرنگون کرده است. این موشک به احتمال زیاد توسط شورشیان حوثی یمن شلیک شده است. هیچ تلفات یا خسارتی گزارش نشده و هیچ نشانه‌ای وجود ندارد که شناور بلژیکی هدف مورد نظر بوده باشد. گزارش شده است که فرانسه تح"
-  },
   {
    "t": 1793187121.0,
    "n": "انتخابات اسرائیل با شمارش ۸۴ ۶۶ درصد آرا ائتلاف لیکود 54 کرسی ائتلاف یاشار 49 کرسی ائتلاف عربی 17 کرسی",
@@ -988,19 +984,20 @@
    "t": 1793200706.0,
    "n": "خبرنگار ایرنا پیشنهاد انتقال اورانیوم ۶۰ درصدی به یک کشور ثالث کذب است",
    "fa": "🇮🇷 خبرنگار ایرنا: پیشنهاد انتقال اورانیوم ۶۰ درصدی به یک کشور ثالث کذب است‼️"
+  },
+  {
+   "t": 1793200824.0,
+   "n": "eisenkot netanyahu s main rival in israel s election faces a dilemma to form a government israeli opposition leader gadi eisenkot needs to either join forces with arab parties anathema to many israelis or with members of benjamin netanyahu s alliance",
+   "fa": "🔴 معضل بزرگ گادی آیزنکوت رقیب اصلی نتانیاهو در انتخابات اسرائیل به گزارش نیویورک تایمز برای تشکیل دولت، گادی آیزنکوت رهبر اپوزیسیون اسرائیل باید یا با احزاب عربی ائتلاف کند که این امر برای بسیاری از اسرائیلی‌ها غیرقابل قبول است، یا با اعضای ائتلاف بنیامین نتانیاهو همکاری نماید."
   }
  ],
  "usage": {
   "date": "2026-10-28",
-  "requests": 145
+  "requests": 147
  },
- "flip": 2512,
- "quote_n": 1165,
+ "flip": 2513,
+ "quote_n": 1166,
  "feed": [
-  {
-   "t": 1793170805.0,
-   "tx": "🔄 به‌روزرسانی\n🇺🇸🇮🇷💢دونالد ترامپ، رئیس‌جمهوری آمریکا، درباره احتمال توافق با تهران گفت: «جمهوری اسلامی می‌خواست توافق کند. شاید منتظر انتخابات هستند. انتخابات کمکی به آنها نخواهد کرد.»\n\nترامپ با اشاره به پیامدهای جنگ گفت: «ما توان نظامی‌شان را در هم کوبیده‌ایم و منابع مالی‌شان را به‌شدت تضعیف کرده‌ایم. آنها پولی ندارند.»\n\nرئیس‌جمهوری آمریکا بار دیگر تاکید که ایران با ۳۴۰ درصد «بالاترین نرخ تورم جهان» را دارد."
-  },
   {
    "t": 1793171083.0,
    "tx": "💢پلیس صربستان از کشته شدن یک فرد در مقابل سفارت اسرائیل در بلگراد خبر داد.\n\n💢به گفته پلیس، این فرد پس از تلاش برای حمله به سفارت اسرائیل، هدف گلوله نیروهای پلیس قرار گرفت و کشته شد."
@@ -1396,14 +1393,13 @@
   {
    "t": 1793200706.0,
    "tx": "🇮🇷 خبرنگار ایرنا: پیشنهاد انتقال اورانیوم ۶۰ درصدی به یک کشور ثالث کذب است‼️"
+  },
+  {
+   "t": 1793200824.0,
+   "tx": "🔴 معضل بزرگ گادی آیزنکوت رقیب اصلی نتانیاهو در انتخابات اسرائیل\n\nبه گزارش نیویورک تایمز برای تشکیل دولت، گادی آیزنکوت رهبر اپوزیسیون اسرائیل باید یا با احزاب عربی ائتلاف کند که این امر برای بسیاری از اسرائیلی‌ها غیرقابل قبول است، یا با اعضای ائتلاف بنیامین نتانیاهو همکاری نماید."
   }
  ],
  "signals": [
-  {
-   "t": 1793114485.1638834,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1793114768.0903447,
    "s": 3,
@@ -2598,6 +2594,11 @@
    "t": 1793200894.8594787,
    "s": 2,
    "p": 60
+  },
+  {
+   "t": 1793201196.376846,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
