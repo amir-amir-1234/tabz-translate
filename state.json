@@ -633,7 +633,8 @@
     "https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest",
     "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
     "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html",
-    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-eisenkot.html"
+    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-eisenkot.html",
+    "https://www.nytimes.com/2026/10/28/world/middleeast/netanyahu-israel-election.html"
    ]
   },
   "Treasury": {
@@ -691,11 +692,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793189795.0,
-   "n": "استقبال جولانی از زیدی در فرودگاه دمشق",
-   "fa": "🇸🇾🇮🇶استقبال جولانی از زیدی در فرودگاه دمشق"
-  },
   {
    "t": 1793189985.0,
    "n": "reporter would you approve of flávio bolsonaro coming to the united states trump well i would approve i think they re fine people",
@@ -990,19 +986,20 @@
    "t": 1793204335.0,
    "n": "وزیر دفاع اسرائیل نیروهای نظامی هر تصمیمی را که در مورد ایران گرفته شود اجرا خواهند کرد",
    "fa": "⭕️وزیر دفاع اسرائیل: نیروهای نظامی هر تصمیمی را که در مورد ایران گرفته شود اجرا خواهند کرد."
+  },
+  {
+   "t": 1793204647.0,
+   "n": "netanyahu didn t win israel s election but he s far from out prime minister benjamin netanyahu lost some support from voters but preliminary results suggest he has multiple ways to remain in power given the country s fractured politics",
+   "fa": "⭕️ بنیامین نتانیاهو در انتخابات اسرائیل حمایت از دست داد اما راه هایی برای ماندن در قدرت دارد به گزارش نیویورک تایمز بنیامین نتانیاهو نخست وزیر مقداری از حمایت رای دهندگان را از دست داد اما نتایج اولیه نشان می دهد که با توجه به سیاست های متفرق این کشور او راه های متعددی برای ماندن در قدرت دارد."
   }
  ],
  "usage": {
   "date": "2026-10-28",
-  "requests": 158
+  "requests": 160
  },
- "flip": 2521,
- "quote_n": 1170,
+ "flip": 2522,
+ "quote_n": 1171,
  "feed": [
-  {
-   "t": 1793178323.0,
-   "tx": "🇮🇷🇶🇦🇺🇸⚠️رویترز: واسطه‌های قطری روز یکشنبه، پیش‌نویس یک توافق جدید را به تهران ارائه کردند. این پیش‌نویس، یک چارچوب زمانی به مدت ۷ روز برای رفع نگرانی‌های بین واشنگتن و تهران تعیین می‌کند و در آن، چندین کشور به عنوان ضامن توافق جدید حضور دارند."
-  },
   {
    "t": 1793178341.0,
    "tx": "🇺🇸🇺🇦🇷🇺 پرزیدنت ترامپ:\n\nما پیشرفت‌های چشمگیری در رابطه با مسئله روسیه و اوکراین داشته‌ایم.\n\nبه زودی یک جلسه برگزار خواهد شد."
@@ -1398,6 +1395,10 @@
   {
    "t": 1793204335.0,
    "tx": "⭕️وزیر دفاع اسرائیل:\n\nنیروهای نظامی هر تصمیمی را که در مورد ایران گرفته شود اجرا خواهند کرد."
+  },
+  {
+   "t": 1793204647.0,
+   "tx": "⭕️ بنیامین نتانیاهو در انتخابات اسرائیل حمایت از دست داد اما راه هایی برای ماندن در قدرت دارد\n\nبه گزارش نیویورک تایمز بنیامین نتانیاهو نخست وزیر مقداری از حمایت رای دهندگان را از دست داد اما نتایج اولیه نشان می دهد که با توجه به سیاست های متفرق این کشور او راه های متعددی برای ماندن در قدرت دارد."
   }
  ],
  "signals": [
@@ -2590,6 +2591,11 @@
    "t": 1793204493.8051543,
    "s": 5,
    "p": 75
+  },
+  {
+   "t": 1793204793.9381967,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
