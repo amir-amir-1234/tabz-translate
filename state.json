@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133259
+   "last_id": 133260
   },
   "TelNews_Magazine": {
    "last_id": 102253
   },
   "NE_WG": {
-   "last_id": 116265
+   "last_id": 116266
   }
  },
  "fails": {},
@@ -638,7 +638,8 @@
     "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html",
     "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-eisenkot.html",
     "https://www.nytimes.com/2026/10/28/world/middleeast/netanyahu-israel-election.html",
-    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-netanyahu-eisenkot-mood.html"
+    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-netanyahu-eisenkot-mood.html",
+    "https://www.nytimes.com/live/2026/10/28/world/israel-elections/israels-opposition-may-not-be-able-to-form-a-government-but-it-still-could-control-parliament"
    ]
   },
   "Treasury": {
@@ -696,16 +697,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793192656.0,
-   "n": "at least 64 people have been killed and 80 injured including 50 seriously after two high speed trains collided near urda in spain s toledo province earlier today el país reports an ave high speed train struck an iryo train that had stopped on the tracks sending two iryo carriages and one ave carriage down an embankment more than 540 passengers were aboard the two trains spanish government sources ",
-   "fa": "🔄 به‌روزرسانی 🇪🇸⚡️ — بر اساس گزارش روزنامه ال‌پاییس، در پی برخورد دو قطار پرسرعت در نزدیکی اوردا در استان تولدوی اسپانیا، دست‌کم ۶۴ نفر کشته و ۸۰ تن دیگر زخمی شدند که حال ۵۰ نفر از آن‌ها وخیم گزارش شده است. یک قطار پرسرعت ای‌وی‌ئی با یک قطار ایریو که روی ریل متوقف شده بود برخورد کرد و باعث شد دو واگن ایریو و یک واگن ای‌وی‌ئی به داخل خاکریز سقوط کنند. بیش از ۵۴۰ مسافر در این دو قطار حضور داشتند. من"
-  },
-  {
-   "t": 1793192820.0,
-   "n": "u k budget keeps government on track to stay within rules the u k government will stay within its fiscal rules although with a slightly reduced cushion against setbacks according to the office for budget responsibility",
-   "fa": "🔴 بودجه بریتانیا دولت را در مسیر پایبندی به قوانین مالی نگه می‌دارد به گزارش وال‌استریت ژورنال بر اساس اعلام دفتر مسئولیت بودجه، دولت بریتانیا در چارچوب قوانین مالی خود باقی خواهد ماند، هرچند که حاشیه امنیت این کشور در برابر مشکلات و موانع اندکی کاهش یافته است."
-  },
   {
    "t": 1793192883.0,
    "n": "نتیجه نهایی و قطعی انتخابات اسرائیل فردا اعلام می شود حدود ۶۰۰ هزار رأی موسوم به پاکت های دوگانه باقی مانده است که فرایند شمارش آن ها تا فردا به اتمام خواهد رسید پاکت دوتایی در اسرائیل یک روش ویژه برای رأی گیری است که به افراد اجازه می دهد خارج از حوزه رأی گیری معمول خود بتوانند رأی بدهند پاکت دوتایی سربازان و نظامیان که در پایگاه یا محل خدمت رأی می دهند بیماران و کارکنان بیمارستان ها افراد دارای ",
@@ -995,23 +986,25 @@
    "t": 1793210390.0,
    "n": "the ukrainian military launched operation veles in the kupiansk sector of the kharkiv oblast last week the operation headed by the khartia brigade of the national guard saw ukrainian troops infiltrate the russian rear guard by passing through underground gas pipelines which were also used by russian troops creating a full scale underground warfare ukrainian sources claim more than 100 russian sold",
    "fa": "🇺🇦❌🇷🇺 — ارتش اوکراین هفته گذشته «عملیات ولِس» را در بخش کوپیانسک در استان خارکف آغاز کرد. این عملیات که توسط تیپ خارتیا از گارد ملی هدایت می‌شود، شاهد نفوذ نیروهای اوکراینی به عقب‌دار روسیه با عبور از خطوط لوله گاز زیرزمینی بود که توسط نیروهای روسی نیز استفاده می‌شد و به جنگ تمام‌عیار زیرزمینی منجر شد. منابع اوکراینی مدعی شدند تاکنون بیش از ۱۰۰ سرباز روس کشته و ۳۰ نفر اسیر شده‌اند."
+  },
+  {
+   "t": 1793210492.0,
+   "n": "israel s opposition may not be able to form a government but it still could control parliament",
+   "fa": "⭕️ احتمال ناکامی مخالفان اسرائیل در تشکیل دولت و در عین حال حفظ کنترل پارلمان به گزارش نیویورک تایمز مخالفان اسرائیل ممکن است نتوانند دولت تشکیل دهند، اما همچنان می‌توانند کنترل پارلمان را در دست داشته باشند."
+  },
+  {
+   "t": 1793210575.0,
+   "n": "توضیح صداوسیما درباره اختلال به وجود آمده در پخش خبر زنده",
+   "fa": "🔄 به‌روزرسانی 💢توضیح صداوسیما درباره اختلال به‌وجود آمده در پخش خبر زنده"
   }
  ],
  "usage": {
   "date": "2026-10-28",
-  "requests": 173
+  "requests": 175
  },
- "flip": 2531,
- "quote_n": 1175,
+ "flip": 2533,
+ "quote_n": 1176,
  "feed": [
-  {
-   "t": 1793183902.0,
-   "tx": "🔄 به‌روزرسانی\n📊تورم سالانه مهرماه به ۷۶.۸ درصد رسید‼️\n\nطبق اعلام مرکز آمار ایران، تورم سالانه ۷۶.۸ درصد، تورم نقطه‌به‌نقطه ۸۸.۷ درصد و تورم ماهانه ۴.۴ درصد ثبت شده است.\n\nتورم نقطه‌ای نسبت به شهریور یک درصد کاهش، اما تورم سالانه ۳.۵ درصد افزایش داشته است./ ایرنا"
-  },
-  {
-   "t": 1793184133.0,
-   "tx": "🇮🇱🚨با شمارش 82 درصد آرا؛\n\n🔴ائتلاف نتانیاهو: 54 کرسی\n🔵ائتلاف آیزنکوت: 49 کرسی\n🟢ائتلاف اعراب: 17 کرسی"
-  },
   {
    "t": 1793184395.0,
    "tx": "‼️ثبت‌سفارش واردات خودرو متوقف شد"
@@ -1403,24 +1396,17 @@
   {
    "t": 1793210390.0,
    "tx": "🇺🇦❌🇷🇺 — ارتش اوکراین هفته گذشته «عملیات ولِس» را در بخش کوپیانسک در استان خارکف آغاز کرد. این عملیات که توسط تیپ خارتیا از گارد ملی هدایت می‌شود، شاهد نفوذ نیروهای اوکراینی به عقب‌دار روسیه با عبور از خطوط لوله گاز زیرزمینی بود که توسط نیروهای روسی نیز استفاده می‌شد و به جنگ تمام‌عیار زیرزمینی منجر شد. منابع اوکراینی مدعی شدند تاکنون بیش از ۱۰۰ سرباز روس کشته و ۳۰ نفر اسیر شده‌اند."
+  },
+  {
+   "t": 1793210492.0,
+   "tx": "⭕️ احتمال ناکامی مخالفان اسرائیل در تشکیل دولت و در عین حال حفظ کنترل پارلمان\n\nبه گزارش نیویورک تایمز مخالفان اسرائیل ممکن است نتوانند دولت تشکیل دهند، اما همچنان می‌توانند کنترل پارلمان را در دست داشته باشند."
+  },
+  {
+   "t": 1793210575.0,
+   "tx": "🔄 به‌روزرسانی\n💢توضیح صداوسیما درباره اختلال به‌وجود آمده در پخش خبر زنده"
   }
  ],
  "signals": [
-  {
-   "t": 1793124105.7382598,
-   "s": 3,
-   "p": 40
-  },
-  {
-   "t": 1793124110.6962433,
-   "s": 3,
-   "p": 60
-  },
-  {
-   "t": 1793124119.0442755,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1793124696.3366287,
    "s": 4,
@@ -2545,6 +2531,16 @@
    "t": 1793209595.3856041,
    "s": 4,
    "p": 70
+  },
+  {
+   "t": 1793210793.8411696,
+   "s": 3,
+   "p": 40
+  },
+  {
+   "t": 1793210800.8267298,
+   "s": 3,
+   "p": 20
   }
  ],
  "risk": {
