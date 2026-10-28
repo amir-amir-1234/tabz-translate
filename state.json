@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109499
+   "last_id": 109500
   },
   "khabarfouri": {
    "last_id": 569949
@@ -640,7 +640,8 @@
     "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-eisenkot.html",
     "https://www.nytimes.com/2026/10/28/world/middleeast/netanyahu-israel-election.html",
     "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-netanyahu-eisenkot-mood.html",
-    "https://www.nytimes.com/live/2026/10/28/world/israel-elections/israels-opposition-may-not-be-able-to-form-a-government-but-it-still-could-control-parliament"
+    "https://www.nytimes.com/live/2026/10/28/world/israel-elections/israels-opposition-may-not-be-able-to-form-a-government-but-it-still-could-control-parliament",
+    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html"
    ]
   },
   "Treasury": {
@@ -1001,7 +1002,7 @@
  ],
  "usage": {
   "date": "2026-10-28",
-  "requests": 195
+  "requests": 197
  },
  "flip": 2545,
  "quote_n": 1187,
@@ -1408,11 +1409,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793130682.3748116,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1793130972.5369797,
    "s": 3,
