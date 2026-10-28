@@ -147,7 +147,8 @@
     "https://www.foxnews.com/world/spain-high-speed-train-crash-deaths",
     "https://www.foxnews.com/world/attacker-shouting-allahu-akbar-killed-outside-israeli-embassy-serbia-police-say",
     "https://www.foxnews.com/world/holocaust-educator-says-mamdani-could-learn-from-uks-targeted-approach-antisemitism-schools",
-    "https://www.foxnews.com/world/spain-high-speed-railway-crash-kills-train-stopped-tracks"
+    "https://www.foxnews.com/world/spain-high-speed-railway-crash-kills-train-stopped-tracks",
+    "https://www.foxnews.com/world/gop-lawmakers-urge-rubio-weigh-visa-restrictions-corrupt-officials-albania-rocked-protests"
    ]
   },
   "WSJ": {
@@ -996,7 +997,7 @@
  ],
  "usage": {
   "date": "2026-10-28",
-  "requests": 164
+  "requests": 165
  },
  "flip": 2525,
  "quote_n": 1172,
@@ -1403,26 +1404,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793120499.4270647,
-   "s": 3,
-   "p": 40
-  },
-  {
-   "t": 1793120502.8347728,
-   "s": 5,
-   "p": 70
-  },
-  {
-   "t": 1793120508.7663522,
-   "s": 4,
-   "p": 65
-  },
-  {
-   "t": 1793120515.9758658,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1793121083.4635658,
    "s": 4,
