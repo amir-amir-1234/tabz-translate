@@ -83,6 +83,12 @@ STATE_FILE = Path(env("STATE_FILE", "state.json"))
 FEED_ENABLED = env_bool("FEED_ENABLED", True)
 FEED_FILE = Path(env("FEED_FILE", "feed.md"))
 FEED_KEEP = int(env("FEED_KEEP", "100"))
+# Website outlets (names as in sources_web.txt, comma separated) whose articles are published ONLY when they are about Iran.
+IRAN_ONLY_SOURCES = {x.strip() for x in env("IRAN_ONLY_SOURCES", "Fox News").split(",") if x.strip()}
+# Outlets whose posts always get the whole body in ONE collapsible quote, whatever its length.
+EXPANDABLE_SOURCES = {x.strip() for x in env("EXPANDABLE_SOURCES", "Fox News").split(",") if x.strip()}
+IRAN_RE = re.compile(r"\b(iran|iranian|iranians|tehran|irgc|hormuz|khamenei|pezeshkian|araghchi|islamic republic|"
+                     r"revolutionary guard|persian gulf)\b", re.I)
 GLOSSARY_FILE = Path(env("GLOSSARY_FILE", "glossary.txt"))
 
 BATCH_SIZE = 12           # posts per Gemini request
@@ -352,8 +358,9 @@ Return a JSON array with exactly one entry per item:
 
 STEP 1 - relevance. Decide with the TOPICS list below.
 - relevant=true when the post is about (or quotes) anything in the list. When unsure, choose true: missing important news is worse than publishing a borderline item.
-- For the two broad categories "AI news" and "important world news", publish everything that is genuine news.
+- For the broad category "AI news", publish everything that is genuine news. Every other topic follows the exact limits written in the TOPICS list (some topics are restricted to very major events only): obey those limits strictly, and do not publish an item just because it is a real event.
 - relevant=false for advertisements, channel promotion, giveaways, memes, entertainment and sports, and anything clearly outside the list.
+- Items with "iran_only": true come from a general news outlet. For them set relevant=true ONLY when Iran (its government, military, economy, people, nuclear programme, or the Iran war and US/Israel-Iran confrontation) is a real subject of the article. A passing mention of Iran, or an article about something else, is relevant=false.
 - "reason": one short Persian sentence. For rejected items say why; for accepted items name the matching topic.
 
 STEP 2 - duplicates (only for relevant items).
@@ -525,7 +532,8 @@ Return a JSON array with one entry per article: {"id": <same number>, "headline"
 How to write each report:
 - Write it as a reporter conveying what the outlet reported, in fluent, natural, formal news Persian. Begin with the attribution «به گزارش <outlet_fa>» (use the outlet_fa value exactly) followed by the main news.
 - Do NOT translate sentence by sentence. Restructure sentences and choose your own wording, so the text is not a literal translation.
-- Do NOT summarize and do NOT drop details: keep every fact, name, number, date, place, claim, and every direct quote. Quotes stay in quotation marks with the speaker's name and role.
+- Do NOT summarize and do NOT drop details: keep every fact, name, number, date, place, claim, and every direct quote. Quotes stay in quotation marks with the speaker's name and role. The ONLY exception is the length limit below.
+- LENGTH LIMIT: the whole report ("fa") must be at most about 6000 Persian characters (spaces included). If the article is longer, keep the most important facts, quotes and paragraphs, and leave out the least important details from the end of the article instead of shortening everything.
 - Do not add anything that is not in the article: no analysis, no opinion, no background of your own.
 - Do NOT censor or refuse: report violent, military and political content exactly as the article states it.
 - Write person, place and organization names in their standard Persian spelling, fully in Persian script. Never attach Latin letters to Persian letters inside one word.
@@ -627,6 +635,7 @@ def process_posts(posts, recent=None):
     dead = set()      # models that hit quota/auth problems during this run
     fa_ids = {p["id"] for p in posts if is_persian(p["text"])}
     src_of = {p["id"]: p["source"] for p in posts if p.get("source")}     # website articles
+    iran_ids = {p["id"] for p in posts if p.get("iran_only")}              # articles that must be about Iran
 
     def try_models(need):
         for model in GEMINI_MODELS:
@@ -635,7 +644,8 @@ def process_posts(posts, recent=None):
             if model in dead:
                 continue
             try:
-                got = gemini_filter(model, [{"id": i, "text": t, **({"source": src_of[i]} if i in src_of else {})}
+                got = gemini_filter(model, [{"id": i, "text": t, **({"source": src_of[i]} if i in src_of else {}),
+                                             **({"iran_only": True} if i in iran_ids else {})}
                                             for i, t in need.items()], recent, system_prompt)
             except QuotaError as e:
                 log("  quota:", e)
@@ -861,8 +871,49 @@ def download(url, retry=False):
         return None
 
 
+_QUOTE_RE = re.compile(r"^(?P<pre>.*?)<blockquote(?P<exp> expandable)?>(?P<inner>.*)</blockquote>(?P<post>.*)$", re.S)
+QUOTE_CHUNK = 3700            # characters of quote text per message (the limit of one Telegram message is 4096)
+MAX_MESSAGES = int(env("MAX_MESSAGES", "2"))   # a post never takes more messages than this; the rest of a very long text is left out
+
+
+def split_html(text, limit=4096):
+    """Like split_message, but a post whose quote block is too long for one message is split INSIDE the quote:
+    every message gets its own complete <blockquote>, so Telegram never sees a broken tag (which would make the
+    whole post fall back to plain text). The headline stays in the first message, the footer in the last."""
+    if len(text) <= limit:
+        return [text]
+    m = _QUOTE_RE.match(text)
+    return _split_quote(m, limit) if m else split_message(text, limit)
+
+
+def _split_quote(m, limit):
+    pre, inner, post = m.group("pre"), m.group("inner"), m.group("post")
+    tag = "<blockquote expandable>" if m.group("exp") else "<blockquote>"
+    chunks = split_message(inner, QUOTE_CHUNK)
+    if MAX_MESSAGES > 0 and len(chunks) > MAX_MESSAGES:      # cut at a paragraph boundary, never inside a sentence
+        log(f"  post too long: {len(chunks)} messages needed, keeping {MAX_MESSAGES}")
+        chunks = chunks[:MAX_MESSAGES]
+        chunks[-1] = chunks[-1].rstrip() + " …"
+    # never cut an HTML entity in the middle
+    for k in range(len(chunks) - 1):
+        a = chunks[k]
+        amp = a.rfind("&")
+        if amp != -1 and ";" not in a[amp:] and len(a) - amp <= 8:
+            chunks[k], chunks[k + 1] = a[:amp], a[amp:] + chunks[k + 1]
+    msgs = [f"{tag}{c}</blockquote>" for c in chunks]
+    if pre.strip():
+        msgs[0] = pre.rstrip() + "\n\n" + msgs[0]
+    if post.strip():
+        tail = post.strip()
+        if len(msgs[-1]) + 2 + len(tail) <= limit:
+            msgs[-1] += "\n\n" + tail
+        else:
+            msgs.append(tail)
+    return msgs
+
+
 def _text_only(text):
-    for part in split_message(text):
+    for part in split_html(text):
         tg_html("sendMessage", {"chat_id": TARGET, "text": part, "disable_web_page_preview": "true"})
 
 
@@ -905,7 +956,7 @@ def is_long_post(body, titled=None):
     return body_len(_split_blocks(body, titled)[1]) > LONG_CHARS
 
 
-def format_post(body, emoji="", titled=None, quote_short=False):
+def format_post(body, emoji="", titled=None, quote_short=False, force_long=False):
     """HTML text for Telegram. The headline is never inside a quote.
     Long post (body longer than LONG_CHARS characters, whatever the number of paragraphs): bold headline, and
     the whole body in ONE collapsible quote. Without a headline the whole text is the collapsible quote.
@@ -915,7 +966,7 @@ def format_post(body, emoji="", titled=None, quote_short=False):
     title, blocks = _split_blocks(body, titled)
     esc = lambda t: html.escape(t, quote=False)
     lead = lambda t: t if (not emoji or _EMOJI_START.match(t)) else f"{emoji} {t}"
-    long_post = body_len(blocks) > LONG_CHARS
+    long_post = force_long or body_len(blocks) > LONG_CHARS
     parts = [esc(b) for b in blocks]
     if title is None and parts:
         parts[0] = lead(parts[0])                  # no headline: the emoji goes on the first line of the text
@@ -1308,6 +1359,8 @@ def main():
                 log(f"[{tag(p['channel'])}] post {p['id']}: video without a usable URL, skipped")
         elif not p["text"]:
             e["kind"] = "photo" if (p["photos"] and PUBLISH_PHOTO_ONLY) else "skip"
+        elif p.get("outlet") in IRAN_ONLY_SOURCES and not IRAN_RE.search(p.get("title", "") + " " + p.get("body", "")):
+            e["kind"] = "iran_gate"          # a general outlet and no mention of Iran at all: not sent to the AI
         else:
             cleaned = clean_text(p["text"], strip_decor=is_persian(p["text"]))
             e["cleaned"] = cleaned
@@ -1319,7 +1372,8 @@ def main():
             else:
                 run_norms.append(n)
                 e["idx"] = len(to_check) + 1
-                to_check.append({"id": e["idx"], "text": cleaned, **({"source": p["source"]} if p.get("source") else {})})
+                to_check.append({"id": e["idx"], "text": cleaned, **({"source": p["source"]} if p.get("source") else {}),
+                                 **({"iran_only": True} if p.get("outlet") in IRAN_ONLY_SOURCES else {})})
 
     recent_prompt = [{"ref": f"R{k}", "fa": r.get("fa", "")}
                      for k, r in enumerate(state["recent"][-RECENT_IN_PROMPT:], 1)]
@@ -1384,6 +1438,11 @@ def main():
         if e["kind"] == "skip":
             advance()
             continue
+        if e["kind"] == "iran_gate":
+            send_review(p, {"reason": "منبع عمومی و بدون ارتباط با ایران", "ai": False})
+            rejected += 1
+            advance()
+            continue
         if e["kind"] == "dup_text":
             send_review(p, {"reason": "تکراری (متن مشابه)", "ai": True})
             rejected += 1
@@ -1422,10 +1481,11 @@ def main():
                 body_fa = v["fa"]
                 titled = None
             emoji, used_flip = pick_emoji(v, state["flip"])
-            quote_eligible = (QUOTE_EVERY > 0 and not p["photos"] and not p["has_video"]
+            force_long = p.get("outlet") in EXPANDABLE_SOURCES
+            quote_eligible = (QUOTE_EVERY > 0 and not p["photos"] and not p["has_video"] and not force_long
                               and not is_long_post(body_fa, titled))
             quote = quote_eligible and state["quote_n"] % QUOTE_EVERY == 0
-            fa = prefix + format_post(body_fa, emoji, titled, quote_short=quote)
+            fa = prefix + format_post(body_fa, emoji, titled, quote_short=quote, force_long=force_long)
 
         try:
             send_post(p, fa, allow_text_only=state["fails"].get(key, 0) >= MAX_FAILS - 1)
