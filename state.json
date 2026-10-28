@@ -614,7 +614,8 @@
     "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html",
     "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html",
     "https://www.nytimes.com/2026/10/27/us/politics/iran-war-cost-rises.html",
-    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html"
+    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
+    "https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest"
    ]
   },
   "Treasury": {
@@ -972,7 +973,7 @@
  ],
  "usage": {
   "date": "2026-10-28",
-  "requests": 31
+  "requests": 32
  },
  "flip": 2431,
  "quote_n": 1127,
@@ -1379,11 +1380,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793079675.3916807,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1793080569.3567903,
    "s": 3,
