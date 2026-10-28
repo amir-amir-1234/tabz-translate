@@ -3,21 +3,21 @@
 
 == TOPICS ==
 - The Iran war and Iran-Israel conflict; Israel-Iran strikes; US-Iran confrontation and any US/Israeli military action involving Iran
-- Saudi-Houthi conflict, Houthis/Ansarallah attacks, Red Sea and Bab el-Mandeb shipping
+- Houthi/Ansarallah attacks on international shipping and the Red Sea / Bab el-Mandeb (ships hit, oil shipping affected)
+- Saudi-Houthi conflict: publish ONLY an EXTREMELY MAJOR, VERY VERY IMPORTANT event, for example an explosion or strike that destroys or disables a large part of a major refinery or another major oil or energy facility, a hit on a critical national facility with heavy damage, or the assassination of a very senior commander, minister or leader on either side. ALL routine fighting is NOT relevant: ordinary airstrikes, shelling, clashes, drone or missile attacks that are intercepted or cause limited damage, front-line news, minor casualties, statements. When in doubt about this topic, publish nothing.
 - Hezbollah and Lebanon; Hamas, Gaza and Palestinian territories
 - Strait of Hormuz: closures, tanker attacks, shipping, insurance
-- US Treasury / OFAC sanctions (especially Iran, oil, shipping, banks), sanctions relief or snapback
-- Mediation and negotiations by Turkey, Pakistan, Qatar, Egypt, Oman or anyone else; every negotiation news item (US-Iran, Israel-Hamas, Russia-Ukraine)
+- US Treasury / OFAC sanctions: ONLY when they are about IRAN (Iranian people, companies, banks, oil and shipping networks, networks supporting Iran), or relief or snapback of sanctions on Iran. Sanctions on ANY other country, group or subject (North Korea, Russia, Venezuela, China, Africa, cartels, terrorism, cyber crime, etc.) are NOT relevant, even if they are published by Treasury or OFAC.
+- Mediation and negotiations by Turkey, Pakistan, Qatar, Egypt, Oman or anyone else; every negotiation news item about US-Iran and Israel-Hamas (Russia-Ukraine is not covered at all)
 - US midterm elections; Israeli elections
-- Iran-related economic news: rial and dollar rate, Iranian economy, oil exports, central bank, budget, inflation, Iranian stock market
+- Iran-related economic news and ANY economic decision that affects Iran: rial and dollar rate, Iranian economy, oil exports, central bank, budget, inflation, Iranian stock market; decisions by governments, banks, companies or markets that affect Iran's trade, oil sales, banking, payments or shipping (for example China, India, Turkey or Iraq buying or stopping Iranian oil or gas, bank or payment decisions, tariffs or trade rules touching Iran, OPEC or oil-price decisions that hit Iran). These are VERY IMPORTANT: always publish them.
 - Statements by Iranian MPs and any Iranian official
 - ANY country or government speaking about Iran
-- Russia-Ukraine war: only important economic or geographic developments (front-line changes, strikes on energy infrastructure, sanctions, oil price cap, grain, gas) plus ALL negotiation news
 - Oil and energy markets: OPEC and OPEC+ decisions, Saudi production, oil price moves, gas, tankers
-- Markets that matter to Iranian traders: US dollar, gold, Federal Reserve and interest rates, US tariffs, major sanctions
+- Markets that matter to Iranian traders: US dollar, gold, Federal Reserve and interest rates, US tariffs, sanctions on Iran
 - Nuclear programme: enrichment, IAEA inspections, snapback of UN sanctions
 - AI news (broad category: publish every genuine AI news item): new models, regulation, big deals, chips and export controls, major company moves (OpenAI, Google, Anthropic, Nvidia, Meta, Microsoft, xAI, DeepSeek)
-- Important world news (broad category: publish every genuine important world event): disease outbreaks such as a new plague or pandemic warnings, WHO alerts, major natural disasters, major accidents, coups, big terror attacks, events that move markets
+- Terrorist attacks: (a) ANY terrorist attack or attack on people or property anywhere in the world that is linked, or suspected to be linked, to Iran or an Iranian order (even a small attack in a remote place, or a report that the attacker may have acted on Iranian instructions, or on Iran-backed or IRGC networks): publish it. (b) Other terrorist attacks only when they are MAJOR (large attacks with notable casualties or targets). Also coups or coup attempts (military takeovers, seizures of power) anywhere in the world.
 - China and Taiwan only when linked to Iran, oil, sanctions or the war
 
 == PEOPLE (any statement by or about them; also match their titles) ==
@@ -27,12 +27,17 @@
 - US Treasury Secretary; US Energy Secretary; US ambassador to the UN; key pro-Trump senators
 - Benjamin Netanyahu; Israeli military commanders and other important Israeli figures
 - Masoud Pezeshkian; Ali Khamenei; Abdolnaser Hemmati (head of the Central Bank of Iran); Madanizadeh (Iran's economy minister); Iranian military commanders; Mohsen Rezaei; Abbas Araghchi; head of the Atomic Energy Organization of Iran (AEOI); Iranian MPs
-- UK Prime Minister; Emmanuel Macron; Rafael Grossi (IAEA); the UN Secretary-General
-- Vladimir Putin, Sergey Lavrov, Dmitry Peskov, Volodymyr Zelensky and the Russian and Ukrainian negotiators
+- UK Prime Minister, Emmanuel Macron and other European leaders, the UN Secretary-General and UN officials: ONLY what they say or do about IRAN (the Iran war, nuclear programme, sanctions, Hormuz, negotiations with Iran, Iranians). Their statements on any other subject are NOT relevant.
+- Rafael Grossi and the IAEA: only about Iran's nuclear programme, inspections and enrichment
 - Saudi crown prince, the Emir of Qatar, Erdogan, foreign ministers of Turkey, Pakistan, Qatar and Egypt, Houthi and Hezbollah leaders
-- Federal Reserve chair
-- Statements by these people count when they talk about the Iran/Israel war, Saudi-Houthi, Hezbollah, Hamas, sanctions, Hormuz, mediation, negotiations, elections or Iran's economy; when in doubt, publish.
+- Federal Reserve chair: ONLY what he or she says about IRAN. Statements on any other subject are NOT relevant (Fed interest-rate decisions themselves are still covered under markets).
+- Statements by these people count when they talk about the Iran/Israel war, Hezbollah, Hamas, sanctions on Iran, Hormuz, mediation, negotiations, elections or Iran's economy; when in doubt, publish. Statements by Russian or Ukrainian officials are NOT relevant unless they are about Iran.
 
 == NOT RELEVANT ==
+- Russia-Ukraine war and its negotiations: ALL of it is NOT relevant (attacks, front line, statements by Putin, Zelensky, Lavrov, Peskov, aid, sanctions, talks), unless the item is directly about Iran
+- Routine Saudi-Houthi fighting and any Saudi-Houthi event that is not EXTREMELY MAJOR (see the rule above)
+- Treasury or OFAC sanctions that are not about Iran
+- General world news: disease outbreaks, epidemics, natural disasters, accidents, train or plane crashes, and central bank decisions of other countries (the US Federal Reserve is the exception)
+- Statements by European leaders, the UN Secretary-General or UN officials that are not about Iran
 - Channel advertisements, promotions, giveaways, sponsored posts, memes, celebrity/entertainment and sports news
 - Local crime or conflicts in countries unrelated to the topics above (for example Myanmar) unless they affect oil, sanctions or the Iran war
