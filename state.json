@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109489
+   "last_id": 109492
   },
   "khabarfouri": {
    "last_id": 569949
@@ -637,7 +637,8 @@
     "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
     "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html",
     "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-eisenkot.html",
-    "https://www.nytimes.com/2026/10/28/world/middleeast/netanyahu-israel-election.html"
+    "https://www.nytimes.com/2026/10/28/world/middleeast/netanyahu-israel-election.html",
+    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-netanyahu-eisenkot-mood.html"
    ]
   },
   "Treasury": {
@@ -695,11 +696,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793192525.0,
-   "n": "با شمارش تمام درصد آرا عادی در انتخابات سراسری اسرائیل به استثنای حدود 600 000 رای با پوشش دوگانه پیش بینی های به روزرسانی شده از تعداد کرسی ها به این شرح است لیکود 26 1 یاشار آیزنکوت 21 1 بن ت 12 فهرست مشترک 12 1 دموکرات ها 8 یسرائیل بیتنو 7 شاس 7 ائتلاف یهودیان ارتدوکس 7 راعم 7 1 اوتزما یهودیت 7 صهیونیسم مذهبی 6 توزیع فعلی احزاب در گروه ها گروه نتانیاهو 53 کرسی گروه مخالف 48 کرسی فهرست مشترک 12 ",
-   "fa": "🇮🇱با شمارش تمام درصد آرا عادی در انتخابات سراسری اسرائیل، به استثنای حدود 600,000 رای با پوشش دوگانه، پیش‌بینی‌های به‌روزرسانی‌شده از تعداد کرسی‌ها به این شرح است: • لیکود: 26 (-1) • یاشار (آیزنکوت): 21 (-1) • بنِت: 12 • فهرست مشترک: 12 (+1) • دموکرات‌ها: 8 • یسرائیل بیتنو: 7 • شاس: 7 • ائتلاف یهودیان ارتدوکس: 7 • راعم: 7 (+1) • اوتزما یهودیت: 7 • صهیونیسم مذهبی: 6 ﻿ 💢توزیع فعلی احزاب در گروه‌ها: "
-  },
   {
    "t": 1793192656.0,
    "n": "at least 64 people have been killed and 80 injured including 50 seriously after two high speed trains collided near urda in spain s toledo province earlier today el país reports an ave high speed train struck an iryo train that had stopped on the tracks sending two iryo carriages and one ave carriage down an embankment more than 540 passengers were aboard the two trains spanish government sources ",
@@ -994,19 +990,20 @@
    "t": 1793209981.0,
    "n": "زلنسکی پس از ناامیدی از ترامپ وقت آن رسیده که جهان مقابل ترامپ بایستد",
    "fa": "⭕️زلنسکی پس از ناامیدی از ترامپ: وقت آن رسیده که جهان مقابل ترامپ بایستد"
+  },
+  {
+   "t": 1793210390.0,
+   "n": "the ukrainian military launched operation veles in the kupiansk sector of the kharkiv oblast last week the operation headed by the khartia brigade of the national guard saw ukrainian troops infiltrate the russian rear guard by passing through underground gas pipelines which were also used by russian troops creating a full scale underground warfare ukrainian sources claim more than 100 russian sold",
+   "fa": "🇺🇦❌🇷🇺 — ارتش اوکراین هفته گذشته «عملیات ولِس» را در بخش کوپیانسک در استان خارکف آغاز کرد. این عملیات که توسط تیپ خارتیا از گارد ملی هدایت می‌شود، شاهد نفوذ نیروهای اوکراینی به عقب‌دار روسیه با عبور از خطوط لوله گاز زیرزمینی بود که توسط نیروهای روسی نیز استفاده می‌شد و به جنگ تمام‌عیار زیرزمینی منجر شد. منابع اوکراینی مدعی شدند تاکنون بیش از ۱۰۰ سرباز روس کشته و ۳۰ نفر اسیر شده‌اند."
   }
  ],
  "usage": {
   "date": "2026-10-28",
-  "requests": 172
+  "requests": 173
  },
- "flip": 2530,
+ "flip": 2531,
  "quote_n": 1175,
  "feed": [
-  {
-   "t": 1793183866.0,
-   "tx": "⭕️مشمولانی که HIV مثبت دارند از خدمت سربازی معاف می‌شوند\n\n‏براساس آیین‌نامه معاینه و معافیت پزشکی مشمولان خدمت وظیفه عمومی، ابتلا به بیماری نقص ایمنی سلولی اکتسابی (ایدز) و همچنین حامل بودن ویروس نقص ایمنی انسانی (HIV)، از موارد پیش‌بینی‌شده برای معافیت دائم پزشکی از خدمت سربازی است."
-  },
   {
    "t": 1793183902.0,
    "tx": "🔄 به‌روزرسانی\n📊تورم سالانه مهرماه به ۷۶.۸ درصد رسید‼️\n\nطبق اعلام مرکز آمار ایران، تورم سالانه ۷۶.۸ درصد، تورم نقطه‌به‌نقطه ۸۸.۷ درصد و تورم ماهانه ۴.۴ درصد ثبت شده است.\n\nتورم نقطه‌ای نسبت به شهریور یک درصد کاهش، اما تورم سالانه ۳.۵ درصد افزایش داشته است./ ایرنا"
@@ -1402,24 +1399,13 @@
   {
    "t": 1793209981.0,
    "tx": "⭕️زلنسکی پس از ناامیدی از ترامپ:\n\nوقت آن رسیده که جهان مقابل ترامپ بایستد"
+  },
+  {
+   "t": 1793210390.0,
+   "tx": "🇺🇦❌🇷🇺 — ارتش اوکراین هفته گذشته «عملیات ولِس» را در بخش کوپیانسک در استان خارکف آغاز کرد. این عملیات که توسط تیپ خارتیا از گارد ملی هدایت می‌شود، شاهد نفوذ نیروهای اوکراینی به عقب‌دار روسیه با عبور از خطوط لوله گاز زیرزمینی بود که توسط نیروهای روسی نیز استفاده می‌شد و به جنگ تمام‌عیار زیرزمینی منجر شد. منابع اوکراینی مدعی شدند تاکنون بیش از ۱۰۰ سرباز روس کشته و ۳۰ نفر اسیر شده‌اند."
   }
  ],
  "signals": [
-  {
-   "t": 1793123808.7104447,
-   "s": 3,
-   "p": 40
-  },
-  {
-   "t": 1793123812.1929142,
-   "s": 5,
-   "p": 85
-  },
-  {
-   "t": 1793123815.6847777,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1793124105.7382598,
    "s": 3,
