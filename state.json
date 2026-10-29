@@ -148,7 +148,8 @@
     "https://www.foxnews.com/world/attacker-shouting-allahu-akbar-killed-outside-israeli-embassy-serbia-police-say",
     "https://www.foxnews.com/world/holocaust-educator-says-mamdani-could-learn-from-uks-targeted-approach-antisemitism-schools",
     "https://www.foxnews.com/world/spain-high-speed-railway-crash-kills-train-stopped-tracks",
-    "https://www.foxnews.com/world/gop-lawmakers-urge-rubio-weigh-visa-restrictions-corrupt-officials-albania-rocked-protests"
+    "https://www.foxnews.com/world/gop-lawmakers-urge-rubio-weigh-visa-restrictions-corrupt-officials-albania-rocked-protests",
+    "https://www.foxnews.com/world/netanyahu-alleges-fraud-arab-parties-score-record-gains-emerge-potential-kingmakers"
    ]
   },
   "WSJ": {
@@ -531,7 +532,8 @@
     "WP-WSJ-0004017537",
     "WP-WSJ-0004014334",
     "WP-WSJ-0004016120",
-    "WP-WSJ-0004016729"
+    "WP-WSJ-0004016729",
+    "WP-WSJ-0004017896"
    ]
   },
   "NYT": {
@@ -931,7 +933,7 @@
  ],
  "usage": {
   "date": "2026-10-29",
-  "requests": 52
+  "requests": 53
  },
  "flip": 2588,
  "quote_n": 1215,
@@ -1338,11 +1340,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793182575.7588086,
-   "s": 3,
-   "p": 50
-  },
   {
    "t": 1793182879.6503413,
    "s": 4,
