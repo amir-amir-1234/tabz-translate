@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109557
+   "last_id": 109561
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,7 +10,7 @@
    "last_id": 133356
   },
   "TelNews_Magazine": {
-   "last_id": 102318
+   "last_id": 102321
   },
   "NE_WG": {
    "last_id": 116361
@@ -150,7 +150,8 @@
     "https://www.foxnews.com/world/spain-high-speed-railway-crash-kills-train-stopped-tracks",
     "https://www.foxnews.com/world/gop-lawmakers-urge-rubio-weigh-visa-restrictions-corrupt-officials-albania-rocked-protests",
     "https://www.foxnews.com/world/netanyahu-alleges-fraud-arab-parties-score-record-gains-emerge-potential-kingmakers",
-    "https://www.foxnews.com/world/netanyahu-bloc-falls-short-arab-vote-surges-qatar-election-interference-allegations-emerge"
+    "https://www.foxnews.com/world/netanyahu-bloc-falls-short-arab-vote-surges-qatar-election-interference-allegations-emerge",
+    "https://www.foxnews.com/world/asra-nomani-106-far-left-groups-red-green-alliance-target-global-ports"
    ]
   },
   "WSJ": {
@@ -1028,7 +1029,7 @@
  ],
  "usage": {
   "date": "2026-10-29",
-  "requests": 130
+  "requests": 132
  },
  "flip": 2619,
  "quote_n": 1235,
