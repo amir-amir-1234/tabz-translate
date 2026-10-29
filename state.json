@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109580
+   "last_id": 109581
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133382
+   "last_id": 133383
   },
   "TelNews_Magazine": {
    "last_id": 102334
@@ -736,11 +736,6 @@
  },
  "recent": [
   {
-   "t": 1793281669.0,
-   "n": "netanyahu falls short of majority as israel faces three possible paths to a new government tel aviv israel israeli prime minister benjamin netanyahu s governing coalition remained well short of a parliamentary majority thursday as newly counted ballots showed a dramatic surge in support for arab parties potentially giving the opposition enough votes to challenge his control of parliament with 93 8",
-   "fa": "🔄 به‌روزرسانی ⭕️ ائتلاف بنیامین نتانیاهو از کسب اکثریت کرسی‌های پارلمان اسرائیل بازماند به گزارش فاکس نیوز ائتلاف دولتی بنیامین نتانیاهو، نخست‌وزیر اسرائیل، روز پنج‌شنبه همچنان به‌طور چشمگیری از کسب اکثریت پارلمانی فاصله داشت؛ چرا که شمارش آرای جدید از جهش چشمگیر حمایت از احزاب عربی حکایت داشت و به‌طور بالقوه تعداد آرای کافی را در اختیار اپوزیسیون قرار می‌داد تا کنترل او بر پارلمان را به چالش بکشد"
-  },
-  {
    "t": 1793282240.0,
    "n": "iran s irgc has published footage of mq 9a reaper and mq 1c gray eagle ucav interceptions above the strait of hormuz by irgc operated surface to air missile systems irgc claims 54 mq 9a and 14 mq 1c ucavs have been shot down by the irgc aerospace force irgc also announced an mq 1c was shot down off the coast of sirik iran early this morning",
    "fa": "🇮🇷❌🇺🇸 — سپاه پاسداران ایران تصاویری از رهگیری پهپادهای رزمی MQ-9A ریپر و MQ-1C گری ایگل توسط سیستم‌های موشکی زمین به هوای خود در بالای تنگه هرمز منتشر کرد. سپاه ادعا می‌کند ۵۴ فروند MQ-9A و ۱۴ فروند MQ-1C توسط نیروی هوافضای سپاه سرنگون شده‌اند. سپاه همچنین اعلام کرد که یک فروند MQ-1C بامداد امروز در نزدیکی سواحل سیریک ایران سرنگون شده است."
@@ -1034,19 +1029,20 @@
    "t": 1793304766.0,
    "n": "آکسیوس باتری های اضافی پاتریوت هواپیماها بمب ها و نفرات ارتش آمریکا در حال ورود به منطقه سنتکام هستند",
    "fa": "⭕️آکسیوس: باتری‌های اضافی پاتریوت‌، هواپیماها، بمب‌ها و نفرات ارتش آمریکا در حال ورود به منطقه سنتکام هستند"
+  },
+  {
+   "t": 1793305197.0,
+   "n": "fighter jet activity in northeastern and central eastern iraq another probing simulated airstrike round by american israeli fighter jets they entered through the west israeli air force fighter jets and or u s air force fighter jets based in israel muwaffaq salti ab jordan are participating",
+   "fa": "🇮🇶⚡️ — فعالیت جنگنده‌ها در شمال شرق و مرکز-شرق عراق، دور دیگری از حملات شناسایی و شبیه‌سازی‌شده توسط جنگنده‌های آمریکایی/اسرائیلی. آنها از سمت غرب وارد شدند؛ جنگنده‌های نیروی هوایی اسرائیل و/یا نیروی هوایی ایالات متحده مستقر در اسرائیل/پایگاه هوایی موفق سلطی در اردن در حال مشارکت هستند."
   }
  ],
  "usage": {
   "date": "2026-10-29",
-  "requests": 167
+  "requests": 168
  },
  "flip": 2635,
- "quote_n": 1248,
+ "quote_n": 1249,
  "feed": [
-  {
-   "t": 1793255461.0,
-   "tx": "🇾🇪🇸🇦🔥تصاویر ماهواره‌ای نشان می‌دهند که مخازن نفت در پالایشگاه رابغ در عربستان سعودی، در پی حملات اخیر از یمن، ویرانی‌هایی را متحمل شده‌اند."
-  },
   {
    "t": 1793256541.0,
    "tx": "🇺🇸🇮🇱🚫🇮🇱⚠️کانال 11 به نقل از کان عبری: ترامپ در حال بررسی حمایت از تشکیل دولت اسرائیل به ریاست نتانیاهو، اما بدون بن گویر است."
@@ -1442,6 +1438,10 @@
   {
    "t": 1793304766.0,
    "tx": "⭕️آکسیوس:\n\nباتری‌های اضافی پاتریوت‌، هواپیماها، بمب‌ها و نفرات ارتش آمریکا در حال ورود به منطقه سنتکام هستند"
+  },
+  {
+   "t": 1793305197.0,
+   "tx": "🇮🇶⚡️ — فعالیت جنگنده‌ها در شمال شرق و مرکز-شرق عراق، دور دیگری از حملات شناسایی و شبیه‌سازی‌شده توسط جنگنده‌های آمریکایی/اسرائیلی.\n\nآنها از سمت غرب وارد شدند؛ جنگنده‌های نیروی هوایی اسرائیل و/یا نیروی هوایی ایالات متحده مستقر در اسرائیل/پایگاه هوایی موفق سلطی در اردن در حال مشارکت هستند."
   }
  ],
  "signals": [
@@ -2089,19 +2089,24 @@
    "t": 1793304980.3574874,
    "s": 5,
    "p": 85
+  },
+  {
+   "t": 1793305565.5479167,
+   "s": 5,
+   "p": 85
   }
  ],
  "risk": {
-  "base": 58,
-  "ts": 1793301394.9544117,
+  "base": 60,
+  "ts": 1793305568.5536664,
   "attack": false,
-  "n": 124,
+  "n": 129,
   "shares": {
-   "1": 2,
-   "2": 5,
-   "3": 32,
-   "4": 43,
-   "5": 17
+   "1": 5,
+   "2": 4,
+   "3": 26,
+   "4": 38,
+   "5": 28
   }
  },
  "attack_ts": 1793055697.5627077,
