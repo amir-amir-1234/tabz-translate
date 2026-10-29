@@ -10,7 +10,7 @@
    "last_id": 133299
   },
   "TelNews_Magazine": {
-   "last_id": 102274
+   "last_id": 102275
   },
   "NE_WG": {
    "last_id": 116306
@@ -713,11 +713,6 @@
  },
  "recent": [
   {
-   "t": 1793210390.0,
-   "n": "the ukrainian military launched operation veles in the kupiansk sector of the kharkiv oblast last week the operation headed by the khartia brigade of the national guard saw ukrainian troops infiltrate the russian rear guard by passing through underground gas pipelines which were also used by russian troops creating a full scale underground warfare ukrainian sources claim more than 100 russian sold",
-   "fa": "🇺🇦❌🇷🇺 — ارتش اوکراین هفته گذشته «عملیات ولِس» را در بخش کوپیانسک در استان خارکف آغاز کرد. این عملیات که توسط تیپ خارتیا از گارد ملی هدایت می‌شود، شاهد نفوذ نیروهای اوکراینی به عقب‌دار روسیه با عبور از خطوط لوله گاز زیرزمینی بود که توسط نیروهای روسی نیز استفاده می‌شد و به جنگ تمام‌عیار زیرزمینی منجر شد. منابع اوکراینی مدعی شدند تاکنون بیش از ۱۰۰ سرباز روس کشته و ۳۰ نفر اسیر شده‌اند."
-  },
-  {
    "t": 1793210492.0,
    "n": "israel s opposition may not be able to form a government but it still could control parliament",
    "fa": "⭕️ احتمال ناکامی مخالفان اسرائیل در تشکیل دولت و در عین حال حفظ کنترل پارلمان به گزارش نیویورک تایمز مخالفان اسرائیل ممکن است نتوانند دولت تشکیل دهند، اما همچنان می‌توانند کنترل پارلمان را در دست داشته باشند."
@@ -1010,7 +1005,7 @@
  ],
  "usage": {
   "date": "2026-10-29",
-  "requests": 18
+  "requests": 19
  },
  "flip": 2571,
  "quote_n": 1200,
