@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133306
+   "last_id": 133307
   },
   "TelNews_Magazine": {
    "last_id": 102284
   },
   "NE_WG": {
-   "last_id": 116313
+   "last_id": 116314
   }
  },
  "fails": {},
@@ -715,11 +715,6 @@
  },
  "recent": [
   {
-   "t": 1793218208.0,
-   "n": "vice president jd vance has sent a letter to iran s supreme national security council secretary mohsen rezaee in an effort to revive peace negotiations according to wsj the letter was sent at president trump s direction as washington considers renewed military strikes against iran following next week s midterm elections the outreach has focused on establishing a framework for future negotiations r",
-   "fa": "🔄 به‌روزرسانی 🇺🇸🇮🇷⚡️ — به گزارش وال‌استریت ژورنال، جی‌دی ونس، معاون رئیس‌جمهور آمریکا، در تلاشی برای احیای مذاکرات صلح، نامه‌ای به محسن رضایی، دبیر شورای عالی امنیت ملی ایران ارسال کرده است. این نامه به دستور رئیس‌جمهور ترامپ و در حالی ارسال شده که واشنگتن در حال بررسی حملات نظامی جدید علیه ایران پس از انتخابات میان‌دوره‌ای هفته آینده است. تمرکز این اقدام بر ایجاد چارچوبی برای مذاکرات آینده است، ن"
-  },
-  {
    "t": 1793218903.0,
    "n": "کانال 15 عبری هیچ چیز به نام عملیات کوتاه وجود ندارد ایرانی ها تصمیم خواهند گرفت به شلیک ادامه دهند",
    "fa": "⭕️کانال 15 عبری : هیچ چیز به نام \"عملیات کوتاه\" وجود ندارد؛ ایرانی‌ها تصمیم خواهند گرفت به شلیک ادامه دهند."
@@ -937,7 +932,7 @@
  ],
  "usage": {
   "date": "2026-10-29",
-  "requests": 34
+  "requests": 35
  },
  "flip": 2578,
  "quote_n": 1208,
