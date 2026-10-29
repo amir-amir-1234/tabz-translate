@@ -528,7 +528,8 @@
     "WP-WSJ-0004014679",
     "WP-WSJ-0004016200",
     "WP-WSJ-0004016974",
-    "WP-WSJ-0004017537"
+    "WP-WSJ-0004017537",
+    "WP-WSJ-0004014334"
    ]
   },
   "NYT": {
@@ -713,16 +714,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793214818.0,
-   "n": "الحدث میانجی گران در تلاش برای برگزاری یک نشست در ترکیه با حضور ایران و آمریکا هستند",
-   "fa": "⭕️الحدث: میانجی‌گران در تلاش برای برگزاری یک نشست در ترکیه با حضور ایران و آمریکا هستند"
-  },
-  {
-   "t": 1793214885.0,
-   "n": "turkish president erdoğan told president trump during a phone call that ankara was pursuing diplomatic solutions to tensions in the strait of hormuz and yemen erdoğan said türkiye was closely monitoring developments in both areas as part of the mecca joint defense alliance and was working to ease tensions through diplomacy he also reaffirmed türkiye s willingness to help restart peace negotiations",
-   "fa": "🔄 به‌روزرسانی 🇹🇷📞🇺🇸 — رجب طیب اردوغان، رئیس‌جمهور ترکیه، در مکالمه تلفنی با رئیس‌جمهور ترامپ گفت که آنکارا در حال پیگیری راه‌حل‌های دیپلماتیک برای تنش‌ها در تنگه هرمز و یمن است. اردوغان گفت که ترکیه تحولات هر دو منطقه را به عنوان بخشی از اهدای دفاع مشترک مکه از نزدیک زیر نظر دارد و برای کاهش تنش‌ها از طریق دیپلماسی تلاش می‌کند. او همچنین آمادگی ترکیه را برای کمک به از سرگیری مذاکرات صلح بین روسیه "
-  },
   {
    "t": 1793215222.0,
    "n": "u s central command all internationally recognized primary transit routes through the strait of hormuz have been cleared of sea mines by u s forces and remain so thousands of commercial vessels have safely used the transit lanes and continue today",
@@ -966,7 +957,7 @@
  ],
  "usage": {
   "date": "2026-10-29",
-  "requests": 27
+  "requests": 28
  },
  "flip": 2576,
  "quote_n": 1204,
@@ -1373,11 +1364,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793171475.075733,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1793172679.5761063,
    "s": 3,
