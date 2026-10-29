@@ -683,7 +683,9 @@
     "https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html",
     "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
     "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
-    "https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html"
+    "https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html",
+    "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+    "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html"
    ]
   },
   "Treasury": {
@@ -742,11 +744,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793289873.0,
-   "n": "ukmto updated this alert announcing regional authorities identified it as a dhow which sunk due to a maritime security incident the earlier video published by the islamic republic of iran navy is thus from a different vessel as the vessel shown in the video is definitely not a dhow",
-   "fa": "🔄 به‌روزرسانی 🇮🇷🇴🇲⚡️ — سازمان عملیات تجارت دریایی بریتانیا (UKMTO) این هشدار را به‌روزرسانی کرد و اعلام نمود که مقامات منطقه‌ای آن را یک لنج تشخیص داده‌اند که به دلیل یک «حادثه امنیت دریایی» غرق شده است. بنابراین، ویدیوی قبلی منتشر شده توسط نیروی دریایی جمهوری اسلامی ایران مربوط به یک شناور دیگر است، زیرا شناور نشان داده‌شده در ویدیو قطعاً لنج نیست."
-  },
   {
    "t": 1793290837.0,
    "n": "ادامه افزایش حضور نظامی ایالات متحده در خاورمیانه در حال حاضر 6 فروند c17 و 1 فروند c 5m در راه خاورمیانه هستند",
@@ -1041,19 +1038,20 @@
    "t": 1793314377.0,
    "n": "axios reports that over the past 2 weeks u s forces have conducted self defense strikes against iranian missile launchers in coastal southern iran confirming our report analysis on the situation",
    "fa": "🇺🇸❌🇮🇷 — آکسیوس گزارش داد که طی دو هفته گذشته، نیروهای آمریکایی «حملات دفاع از خود» را علیه لانچرهای موشکی ایران در سواحل جنوبی ایران انجام داده‌اند که گزارش و تحلیل ما را از وضعیت تأیید می‌کند."
+  },
+  {
+   "t": 1793315269.0,
+   "n": "no clear winner in israel election final results show prime minister benjamin netanyahu s party and its allies won 53 seats in parliament falling short of the outright majority needed to form a government the main opposition bloc led by gadi eisenkot won 48",
+   "fa": "⭕️ نتایج نهایی انتخابات اسرائیل نشان داد هیچ پیروز قطعی وجود ندارد به گزارش نیویورک تایمز حزب بنیامین نتانیاهو، نخست‌وزیر، و متحدانش ۵۳ کرسی در پارلمان به دست آوردند و از کسب اکثریت قاطع مورد نیاز برای تشکیل دولت بازماندند. بلوک اصلی اپوزیسیون به رهبری گادی آیزنکوت نیز ۴۸ کرسی را به خود اختصاص داد."
   }
  ],
  "usage": {
   "date": "2026-10-29",
-  "requests": 197
+  "requests": 199
  },
- "flip": 2639,
- "quote_n": 1257,
+ "flip": 2640,
+ "quote_n": 1258,
  "feed": [
-  {
-   "t": 1793265760.0,
-   "tx": "⭕️میدری، وزیر کار: وزارت کار افزایش یارانه را برای حدود ۴۰ الی ۴۴ میلیون از جمعیت کشور در نظر گرفته است"
-  },
   {
    "t": 1793267220.0,
    "tx": "🔴 تلاش تأمین‌کنندگان تراشه اپل برای بهره‌گیری از هوش مصنوعی پس از سال‌ها فشار\n\nبه گزارش وال‌استریت ژورنال اپل سال‌ها تأمین‌کنندگان تراشه خود را تحت فشار قرار داده بود، اما اکنون هوش مصنوعی به آن‌ها کمک می‌کند تا شرایط خود را بهبود بخشند. به علاوه، مؤسسه حقوقی ویل گاتشال اعلام کرده است که فعالیت خود را متوقف می‌کند و گزارش‌هایی درباره تلاش برای تصاحب زمین به ارزش ۳۱۱ میلیون دلار جهت ساخت یکی از گران‌قیمت‌ترین خانه‌های آمریکا منتشر شده است."
@@ -1449,6 +1447,10 @@
   {
    "t": 1793314377.0,
    "tx": "🇺🇸❌🇮🇷 — آکسیوس گزارش داد که طی دو هفته گذشته، نیروهای آمریکایی «حملات دفاع از خود» را علیه لانچرهای موشکی ایران در سواحل جنوبی ایران انجام داده‌اند که گزارش و تحلیل ما را از وضعیت تأیید می‌کند."
+  },
+  {
+   "t": 1793315269.0,
+   "tx": "⭕️ نتایج نهایی انتخابات اسرائیل نشان داد هیچ پیروز قطعی وجود ندارد\n\nبه گزارش نیویورک تایمز حزب بنیامین نتانیاهو، نخست‌وزیر، و متحدانش ۵۳ کرسی در پارلمان به دست آوردند و از کسب اکثریت قاطع مورد نیاز برای تشکیل دولت بازماندند. بلوک اصلی اپوزیسیون به رهبری گادی آیزنکوت نیز ۴۸ کرسی را به خود اختصاص داد."
   }
  ],
  "signals": [
@@ -2091,6 +2093,11 @@
    "t": 1793314568.6583345,
    "s": 5,
    "p": 90
+  },
+  {
+   "t": 1793315772.949418,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
