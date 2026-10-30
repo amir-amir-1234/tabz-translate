@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109636
+   "last_id": 109637
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,7 +10,7 @@
    "last_id": 133485
   },
   "TelNews_Magazine": {
-   "last_id": 102416
+   "last_id": 102417
   },
   "NE_WG": {
    "last_id": 116474
@@ -1058,7 +1058,7 @@
  ],
  "usage": {
   "date": "2026-10-30",
-  "requests": 137
+  "requests": 138
  },
  "flip": 2703,
  "quote_n": 1306,
@@ -1465,11 +1465,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793306476.1474154,
-   "s": 5,
-   "p": 85
-  },
   {
    "t": 1793307069.521546,
    "s": 5,
