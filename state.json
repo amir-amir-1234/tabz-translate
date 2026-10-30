@@ -13,7 +13,7 @@
    "last_id": 102357
   },
   "NE_WG": {
-   "last_id": 116413
+   "last_id": 116414
   }
  },
  "fails": {},
@@ -158,7 +158,6 @@
   },
   "WSJ": {
    "seen": [
-    "WP-WSJ-0003966161",
     "WP-WSJ-0003966492",
     "WP-WSJ-0003966120",
     "WP-WSJ-0003965530",
@@ -557,7 +556,8 @@
     "WP-WSJ-0004009983",
     "WP-WSJ-0004016299",
     "WP-WSJ-0004021469",
-    "WP-WSJ-0004021576"
+    "WP-WSJ-0004021576",
+    "WP-WSJ-0004021588"
    ]
   },
   "NYT": {
@@ -748,11 +748,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793305197.0,
-   "n": "fighter jet activity in northeastern and central eastern iraq another probing simulated airstrike round by american israeli fighter jets they entered through the west israeli air force fighter jets and or u s air force fighter jets based in israel muwaffaq salti ab jordan are participating",
-   "fa": "🇮🇶⚡️ — فعالیت جنگنده‌ها در شمال شرق و مرکز-شرق عراق، دور دیگری از حملات شناسایی و شبیه‌سازی‌شده توسط جنگنده‌های آمریکایی/اسرائیلی. آنها از سمت غرب وارد شدند؛ جنگنده‌های نیروی هوایی اسرائیل و/یا نیروی هوایی ایالات متحده مستقر در اسرائیل/پایگاه هوایی موفق سلطی در اردن در حال مشارکت هستند."
-  },
   {
    "t": 1793306298.0,
    "n": "عرب نیوز مقام های آمریکایی و اسرائیلی گفته اند که عملیات احتمالی علیه ایران ممکن است شامل یک هفته حملات گسترده و سنگین باشد",
@@ -946,7 +941,7 @@
  ],
  "usage": {
   "date": "2026-10-30",
-  "requests": 32
+  "requests": 33
  },
  "flip": 2650,
  "quote_n": 1268,
