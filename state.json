@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133414
+   "last_id": 133415
   },
   "TelNews_Magazine": {
    "last_id": 102360
   },
   "NE_WG": {
-   "last_id": 116415
+   "last_id": 116416
   }
  },
  "fails": {},
@@ -689,7 +689,8 @@
     "https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html",
     "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
     "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
-    "https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html"
+    "https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html",
+    "https://www.nytimes.com/2026/10/30/movies/who-killed-alex-odeh-review.html"
    ]
   },
   "Treasury": {
@@ -931,7 +932,7 @@
  ],
  "usage": {
   "date": "2026-10-30",
-  "requests": 38
+  "requests": 39
  },
  "flip": 2651,
  "quote_n": 1269,
