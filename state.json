@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133445
+   "last_id": 133446
   },
   "TelNews_Magazine": {
    "last_id": 102388
   },
   "NE_WG": {
-   "last_id": 116446
+   "last_id": 116448
   }
  },
  "fails": {},
@@ -159,7 +159,6 @@
   },
   "WSJ": {
    "seen": [
-    "WP-WSJ-0003964225",
     "WP-WSJ-0003962961",
     "WP-WSJ-0003964404",
     "WP-WSJ-0003917366",
@@ -558,7 +557,8 @@
     "WP-WSJ-0004021588",
     "WP-WSJ-0004021259",
     "WP-WSJ-0004021749",
-    "WP-WSJ-0003966120"
+    "WP-WSJ-0003966120",
+    "WP-WSJ-0004006591"
    ]
   },
   "NYT": {
@@ -751,16 +751,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793332880.0,
-   "n": "an arab town in israel celebrates the election but wonders what will change gains for arab led parties have electrified taibe in central israel even as voters elsewhere in israel say they have no place in any future government",
-   "fa": "⭕️ پیروزی‌های حزب عربی در شهر طیبه موجی از امید و پرسش ایجاد کرده است به گزارش نیویورک تایمز دستاوردهای احزاب عرب‌محور شهر طیبه در مرکز اسرائیل را به هیجان آورده است، حتی در شرایطی که رأی‌دهندگان در نقاط دیگر اسرائیل می‌گویند هیچ جایی در هیچ دولت آینده‌ای ندارند."
-  },
-  {
-   "t": 1793335844.0,
-   "n": "vice president jd vance has offered to meet iran s supreme national security council secretary mohsen rezaee to negotiate an end to the war according to wapo washington views rezaei which u s intelligence says maintains close ties to supreme leader mojtaba khamenei as the key figure capable of securing a nuclear agreement a meeting could take place in istanbul or doha although tehran welcomed the ",
-   "fa": "🇺🇸🇮🇷⚡️ — به گزارش واشنگتن پست، جی‌دی ونس، معاون رئیس‌جمهور آمریکا، پیشنهاد دیدار با محسن رضایی، دبیر شورای عالی امنیت ملی ایران، را برای مذاکره جهت پایان دادن به جنگ ارائه کرده است. واشنگتن، رضایی را که به گفته نهادهای اطلاعاتی آمریکا روابط نزدیکی با رهبر جمهوری اسلامی، مجتبی خامنه‌ای، دارد، به عنوان چهره کلیدی توانمند در دستیابی به توافق هسته‌ای می‌داند. این دیدار ممکن است در استانبول یا دوحه برگ"
-  },
   {
    "t": 1793336200.0,
    "n": "ukmto updated this alert announcing a small boat likely irgc navy speedboat planted two explosives on the port side of the oil tanker causing a fire to the engine room that temporarily disabled the vessel the fire was since extinguished and the tanker is continuing its journey irgc navy speedboat attacks are relatively uncommon these days compared to irgc navy uav and anti ship cruise missile stri",
@@ -1050,23 +1040,25 @@
    "t": 1793372281.0,
    "n": "حجم تجهیزاتی که آمریکا دیروز به خاورمیانه ارسال کرده است",
    "fa": "⭕️ ?🇺🇸🇮🇷حجم تجهیزاتی که آمریکا دیروز به خاورمیانه ارسال کرده است‼️"
+  },
+  {
+   "t": 1793372820.0,
+   "n": "these trucks haul 90 tons of coal on battery power and drive themselves autonomous vehicles have been taking a bigger role at mines worldwide for years now many of them are going electric especially in china",
+   "fa": "🔴 گسترش استفاده از کامیون‌های برقی و خودران با ظرفیت نود تن در معادن جهان به گزارش وال‌استریت ژورنال وسایل نقلیه خودران سال‌هاست که نقش پررنگ‌تری را در معادن سراسر جهان بر عهده گرفته‌اند. اکنون بسیاری از آن‌ها به ویژه در چین برقی می‌شوند."
+  },
+  {
+   "t": 1793372955.0,
+   "n": "آغاز تخلیه سوخت رسان ها از العدید قطر خروج ۳ فروند هواپیمای سوخت رسان آمریکایی از پایگاه العدید قطر به سمت عربستان سعودی و اسرائیل",
+   "fa": "🇺🇸🇶🇦آغاز تخلیه سوخت‌رسان‌ها از العدید قطر خروج ۳ فروند هواپیمای سوخت‌رسان آمریکایی از پایگاه العدید قطر به‌سمت عربستان سعودی و اسرائیل"
   }
  ],
  "usage": {
   "date": "2026-10-30",
-  "requests": 87
+  "requests": 89
  },
- "flip": 2680,
- "quote_n": 1287,
+ "flip": 2681,
+ "quote_n": 1288,
  "feed": [
-  {
-   "t": 1793300461.0,
-   "tx": "🇮🇷 جانشین فرمانده کل سپاه: میدان‌ها را رها نکنید تا دشمن نتواند توطئه‌های خود را عملی کند"
-  },
-  {
-   "t": 1793300587.0,
-   "tx": "🇷🇺🇮🇷پوتین:\n\nآیا کسی می‌خواهد دریای بالتیک به شرایطی شبیه به خلیج فارس یا تنگه هرمز تبدیل شود؟\n\nمن نمی‌دانم. ما این را نمی‌خواهیم."
-  },
   {
    "t": 1793301180.0,
    "tx": "🚨 نشست مقام‌های ارشد کاخ سفید با حضور دریادار کوپر برای بررسی گزینه‌های نظامی علیه ایران\n\nبه گزارش وال‌استریت ژورنال در روز پنج‌شنبه، در پی بررسی عملیات‌های رزمی جدید از سوی ایالات متحده آمریکا، نشستی در کاخ سفید برگزار شد که شامل یک جلسه توجیهی حضوری نادر از سوی دریادار کوپر بود."
@@ -1458,14 +1450,17 @@
   {
    "t": 1793372281.0,
    "tx": "⭕️ ?🇺🇸🇮🇷حجم تجهیزاتی که آمریکا دیروز به خاورمیانه ارسال کرده است‼️"
+  },
+  {
+   "t": 1793372820.0,
+   "tx": "🔴 گسترش استفاده از کامیون‌های برقی و خودران با ظرفیت نود تن در معادن جهان\n\nبه گزارش وال‌استریت ژورنال وسایل نقلیه خودران سال‌هاست که نقش پررنگ‌تری را در معادن سراسر جهان بر عهده گرفته‌اند. اکنون بسیاری از آن‌ها به ویژه در چین برقی می‌شوند."
+  },
+  {
+   "t": 1793372955.0,
+   "tx": "🇺🇸🇶🇦آغاز تخلیه سوخت‌رسان‌ها از العدید قطر\n\nخروج ۳ فروند هواپیمای سوخت‌رسان آمریکایی از پایگاه العدید قطر به‌سمت عربستان سعودی و اسرائیل"
   }
  ],
  "signals": [
-  {
-   "t": 1793286444.755475,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1793286713.3947222,
    "s": 4,
@@ -2095,6 +2090,11 @@
    "t": 1793372494.4475522,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1793373098.8871455,
+   "s": 5,
+   "p": 90
   }
  ],
  "risk": {
