@@ -155,7 +155,8 @@
     "https://www.foxnews.com/world/houthis-hold-37-un-food-workers-trump-backed-wfp-chief-inherits-humanitarian-crises-across-globe",
     "https://www.foxnews.com/world/albanian-opposition-lawmakers-disrupt-parliament-smoke-flares-furious-attacks-socialist-pm",
     "https://www.foxnews.com/world/netanyahus-bloc-falls-short-longtime-allies-reportedly-weigh-move-could-end-his-rule",
-    "https://www.foxnews.com/world/polish-president-turns-plane-around-after-coup-at-nations-top-court"
+    "https://www.foxnews.com/world/polish-president-turns-plane-around-after-coup-at-nations-top-court",
+    "https://www.foxnews.com/world/exclusive-state-department-accuses-politicians-endangering-afrikaner-lives-gruesome-farm-attacks"
    ]
   },
   "WSJ": {
@@ -1402,11 +1403,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793365874.488134,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1793366187.3750746,
    "s": 4,
