@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133542
+   "last_id": 133543
   },
   "TelNews_Magazine": {
    "last_id": 102464
   },
   "NE_WG": {
-   "last_id": 116531
+   "last_id": 116532
   }
  },
  "fails": {},
@@ -156,7 +156,8 @@
     "https://www.foxnews.com/world/albanian-opposition-lawmakers-disrupt-parliament-smoke-flares-furious-attacks-socialist-pm",
     "https://www.foxnews.com/world/netanyahus-bloc-falls-short-longtime-allies-reportedly-weigh-move-could-end-his-rule",
     "https://www.foxnews.com/world/polish-president-turns-plane-around-after-coup-at-nations-top-court",
-    "https://www.foxnews.com/world/exclusive-state-department-accuses-politicians-endangering-afrikaner-lives-gruesome-farm-attacks"
+    "https://www.foxnews.com/world/exclusive-state-department-accuses-politicians-endangering-afrikaner-lives-gruesome-farm-attacks",
+    "https://www.foxnews.com/world/france-deploys-70000-police-officers-prepare-new-wave-protests-halloween"
    ]
   },
   "WSJ": {
@@ -1011,7 +1012,7 @@
  ],
  "usage": {
   "date": "2026-10-31",
-  "requests": 82
+  "requests": 83
  },
  "flip": 2767,
  "quote_n": 1349,
@@ -1418,11 +1419,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793370689.2465768,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1793370973.036752,
    "s": 4,
