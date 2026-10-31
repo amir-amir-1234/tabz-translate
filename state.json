@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109657
+   "last_id": 109658
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133534
+   "last_id": 133535
   },
   "TelNews_Magazine": {
    "last_id": 102457
   },
   "NE_WG": {
-   "last_id": 116523
+   "last_id": 116524
   }
  },
  "fails": {},
@@ -759,11 +759,6 @@
  },
  "recent": [
   {
-   "t": 1793409790.0,
-   "n": "a diplomatic tell axios that qatari mediators held talks with iran for over 12 hours in tehran today and that the focus is on qatar getting iran and the u s to agree on reciprocal steps that would be implemented over a few days in preparation for direct iranian american negotiations on issues including the iranian nuclear program the main things holding up negotiations are american demands that ir",
-   "fa": "🔄 به‌روزرسانی 🇶🇦🇺🇸🇮🇷⚡️ — یک منبع دیپلماتیک به آکسیوس گفت که میانجی‌گران قطری امروز بیش از ۱۲ ساعت در تهران با ایران گفتگو کردند و تمرکز بر این است که قطر ایران و ایالات متحده را به توافق بر سر گام‌های متقابل ترغیب کند که طی چند روز برای آماده‌سازی مذاکرات مستقیم ایران و آمریکا در مورد موضوعاتی از جمله برنامه هسته‌ای ایران اجرا شود. مهم‌ترین موانع مذاکرات، مطالبات آمریکا از ایران برای امتیازدهی در "
-  },
-  {
    "t": 1793410041.0,
    "n": "a u s official tells axios that u s secretary of war pete hegseth and secretary of state marco rubio are skeptical a nuclear agreement would reach results and support more strikes against iran u s vice president j d vance special envoy to the middle east steve witkoff special envoy for peace jared kushner and secretary of the treasury scott bessent oppose strikes president trump is ultimately skep",
    "fa": "🇺🇸🇮🇷⚡️ — یک مقام آمریکایی به آکسیوس گفت که پیت هگستث، وزیر جنگ آمریکا، و مارکو روبیو، وزیر امور خارجه، نسبت به حصول نتیجه از توافق هسته‌ای تردید دارند و از انجام حملات بیشتر علیه ایران حمایت می‌کنند. در مقابل، جی‌دی ونس، معاون رئیس‌جمهور آمریکا، استیو ویتکوف، فرستاده ویژه به خاورمیانه، جرد کوشنر، فرستاده ویژه صلح، و اسکات بسنت، وزیر خزانه‌داری، با حملات مخالفند. دونالد ترامپ، رئیس‌جمهور آمریکا، در"
@@ -1001,7 +996,7 @@
  ],
  "usage": {
   "date": "2026-10-31",
-  "requests": 67
+  "requests": 68
  },
  "flip": 2762,
  "quote_n": 1345,
@@ -1408,11 +1403,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793366477.3574083,
-   "s": 4,
-   "p": 50
-  },
   {
    "t": 1793367377.409549,
    "s": 4,
