@@ -10,13 +10,15 @@
    "last_id": 133535
   },
   "TelNews_Magazine": {
-   "last_id": 102457
+   "last_id": 102458
   },
   "NE_WG": {
    "last_id": 116524
   }
  },
- "fails": {},
+ "fails": {
+  "tabzlive/109659": 1
+ },
  "web": {
   "Fox News": {
    "seen": [
@@ -759,11 +761,6 @@
  },
  "recent": [
   {
-   "t": 1793410041.0,
-   "n": "a u s official tells axios that u s secretary of war pete hegseth and secretary of state marco rubio are skeptical a nuclear agreement would reach results and support more strikes against iran u s vice president j d vance special envoy to the middle east steve witkoff special envoy for peace jared kushner and secretary of the treasury scott bessent oppose strikes president trump is ultimately skep",
-   "fa": "🇺🇸🇮🇷⚡️ — یک مقام آمریکایی به آکسیوس گفت که پیت هگستث، وزیر جنگ آمریکا، و مارکو روبیو، وزیر امور خارجه، نسبت به حصول نتیجه از توافق هسته‌ای تردید دارند و از انجام حملات بیشتر علیه ایران حمایت می‌کنند. در مقابل، جی‌دی ونس، معاون رئیس‌جمهور آمریکا، استیو ویتکوف، فرستاده ویژه به خاورمیانه، جرد کوشنر، فرستاده ویژه صلح، و اسکات بسنت، وزیر خزانه‌داری، با حملات مخالفند. دونالد ترامپ، رئیس‌جمهور آمریکا، در"
-  },
-  {
    "t": 1793410370.0,
    "n": "a regional source tells axios that countries in west asia including egypt iraq pakistan saudi arabia and türkiye have been urging iran to resume negotiating with the u s before the u s midterm elections saudi crown prince mohammed bin salman and turkish president recep tayyip erdoğan also urged president trump to allow more time for negotiations while israeli prime minister benjamin netanyahu has ",
    "fa": "🇺🇸🇮🇷🇮🇱🇸🇦⚡️ — یک منبع منطقه‌ای به آکسیوس گفت که کشورهای غرب آسیا از جمله مصر، عراق، پاکستان، عربستان سعودی و ترکیه از ایران خواسته‌اند پیش از انتخابات میان‌دوره‌ای آمریکا، مذاکرات با ایالات متحده را از سر بگیرند. محمد بن سلمان، ولیعهد عربستان سعودی، و رجب طیب اردوغان، رئیس‌جمهور ترکیه، همچنین از رئیس‌جمهور ترامپ خواستند که زمان بیشتری به مذاکرات اختصاص دهد، در حالی که بنیامین نتانیاهو، نخست‌وزیر اس"
@@ -992,19 +989,20 @@
    "t": 1793452520.0,
    "n": "photo of an islamic republic of iran air force fighter jet conducting a patrol above iran s khuzestan province a few hours ago a local source reports fighter jet s conducted patrols throughout khuzestan province this morning with fighter jet activity being audible for over 1 hour and 40 minutes",
    "fa": "🇮🇷⚡️ — تصویری از یک فروند جنگنده نیروی هوایی ارتش جمهوری اسلامی ایران در حال گشت‌زنی بر فراز استان خوزستان در چند ساعت گذشته. یک منبع محلی گزارش می‌دهد که جنگنده‌ها امروز صبح در سراسر استان خوزستان گشت‌زنی کرده‌اند و صدای فعالیت جنگنده‌ها بیش از ۱ ساعت و ۴۰ دقیقه شنیده شده است."
+  },
+  {
+   "t": 1793453327.0,
+   "n": "فاکس نیوز رهبر ایران مجتبی خامنه ای به شدت از ترامپ خشمگین است",
+   "fa": "⭕️فاکس نیوز: رهبر ایران، مجتبی خامنه‌ای، به‌شدت از ترامپ خشمگین است"
   }
  ],
  "usage": {
   "date": "2026-10-31",
-  "requests": 68
+  "requests": 72
  },
- "flip": 2762,
- "quote_n": 1345,
+ "flip": 2763,
+ "quote_n": 1346,
  "feed": [
-  {
-   "t": 1793380131.0,
-   "tx": "🇺🇸🇮🇷🇮🇶 جنگنده‌های آمریکایی در مرز ایران و عراق پرواز می‌کنند!"
-  },
   {
    "t": 1793381201.0,
    "tx": "⭕️رهبر طالبان:\n\nشاید از مریخ به ایران حمله شود اما از خاک افغانستان به ایران حمله ای نخواهد شد!"
@@ -1400,6 +1398,10 @@
   {
    "t": 1793452520.0,
    "tx": "🇮🇷⚡️ — تصویری از یک فروند جنگنده نیروی هوایی ارتش جمهوری اسلامی ایران در حال گشت‌زنی بر فراز استان خوزستان در چند ساعت گذشته. یک منبع محلی گزارش می‌دهد که جنگنده‌ها امروز صبح در سراسر استان خوزستان گشت‌زنی کرده‌اند و صدای فعالیت جنگنده‌ها بیش از ۱ ساعت و ۴۰ دقیقه شنیده شده است."
+  },
+  {
+   "t": 1793453327.0,
+   "tx": "⭕️فاکس نیوز:\n\nرهبر ایران، مجتبی خامنه‌ای، به‌شدت از ترامپ خشمگین است"
   }
  ],
  "signals": [
@@ -2027,6 +2029,11 @@
    "t": 1793452874.3107533,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1793453506.5136054,
+   "s": 4,
+   "p": 70
   }
  ],
  "risk": {
