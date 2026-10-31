@@ -1,24 +1,22 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109658
+   "last_id": 109659
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133535
+   "last_id": 133536
   },
   "TelNews_Magazine": {
    "last_id": 102458
   },
   "NE_WG": {
-   "last_id": 116524
+   "last_id": 116525
   }
  },
- "fails": {
-  "tabzlive/109659": 1
- },
+ "fails": {},
  "web": {
   "Fox News": {
    "seen": [
@@ -761,11 +759,6 @@
  },
  "recent": [
   {
-   "t": 1793410370.0,
-   "n": "a regional source tells axios that countries in west asia including egypt iraq pakistan saudi arabia and türkiye have been urging iran to resume negotiating with the u s before the u s midterm elections saudi crown prince mohammed bin salman and turkish president recep tayyip erdoğan also urged president trump to allow more time for negotiations while israeli prime minister benjamin netanyahu has ",
-   "fa": "🇺🇸🇮🇷🇮🇱🇸🇦⚡️ — یک منبع منطقه‌ای به آکسیوس گفت که کشورهای غرب آسیا از جمله مصر، عراق، پاکستان، عربستان سعودی و ترکیه از ایران خواسته‌اند پیش از انتخابات میان‌دوره‌ای آمریکا، مذاکرات با ایالات متحده را از سر بگیرند. محمد بن سلمان، ولیعهد عربستان سعودی، و رجب طیب اردوغان، رئیس‌جمهور ترکیه، همچنین از رئیس‌جمهور ترامپ خواستند که زمان بیشتری به مذاکرات اختصاص دهد، در حالی که بنیامین نتانیاهو، نخست‌وزیر اس"
-  },
-  {
    "t": 1793412249.0,
    "n": "wsj s correspondent on the u s navy nimitz class aircraft carrier uss george washington wrote an article describing the operations the aircraft carrier does to assist u s forces in facilitating transit through the strait of hormuz f 35c lightning ii fighter jets f a 18 super hornet fighter jets e a 18g growler electronic warfare jets e 2d advanced hawkeye aew c aircraft and mh 60r seahawk anti sub",
    "fa": "🇺🇸🇮🇷⚡️ — خبرنگار وال‌استریت ژورنال روی ناو هواپیمابر کلاس نیمیتز آمریکا، یواس‌اس جورج واشنگتن، گزارشی درباره عملیات این ناو برای کمک به نیروهای آمریکایی در تسهیل تردد از تنگه هرمز نوشت. جنگنده‌های اف-۳۵سی لایتنینگ ۲، اف/ای-۱۸ سوپر هورنت، جنگنده‌های جنگ الکترونیک ای/ای-۱۸جی گرولر، هواپیماهای هشدار زودهنگام هوابرد ای-۲دی ادونسد هاوآی و هلیکوپترهای ضد زیردریایی و ضد سطحی ام‌اچ-۶۰آر سی‌هاوک تقریباً هر"
@@ -998,7 +991,7 @@
  ],
  "usage": {
   "date": "2026-10-31",
-  "requests": 72
+  "requests": 73
  },
  "flip": 2763,
  "quote_n": 1346,
