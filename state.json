@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133539
+   "last_id": 133540
   },
   "TelNews_Magazine": {
    "last_id": 102463
   },
   "NE_WG": {
-   "last_id": 116528
+   "last_id": 116529
   }
  },
  "fails": {},
@@ -759,11 +759,6 @@
  },
  "recent": [
   {
-   "t": 1793412249.0,
-   "n": "wsj s correspondent on the u s navy nimitz class aircraft carrier uss george washington wrote an article describing the operations the aircraft carrier does to assist u s forces in facilitating transit through the strait of hormuz f 35c lightning ii fighter jets f a 18 super hornet fighter jets e a 18g growler electronic warfare jets e 2d advanced hawkeye aew c aircraft and mh 60r seahawk anti sub",
-   "fa": "🇺🇸🇮🇷⚡️ — خبرنگار وال‌استریت ژورنال روی ناو هواپیمابر کلاس نیمیتز آمریکا، یواس‌اس جورج واشنگتن، گزارشی درباره عملیات این ناو برای کمک به نیروهای آمریکایی در تسهیل تردد از تنگه هرمز نوشت. جنگنده‌های اف-۳۵سی لایتنینگ ۲، اف/ای-۱۸ سوپر هورنت، جنگنده‌های جنگ الکترونیک ای/ای-۱۸جی گرولر، هواپیماهای هشدار زودهنگام هوابرد ای-۲دی ادونسد هاوآی و هلیکوپترهای ضد زیردریایی و ضد سطحی ام‌اچ-۶۰آر سی‌هاوک تقریباً هر"
-  },
-  {
    "t": 1793422861.0,
    "n": "ترامپ سلاح هسته ای را از چنگ ایران خارج کردم",
    "fa": "🇺🇸🇮🇷ترامپ: سلاح هسته‌ای را از چنگ ایران خارج کردم!"
@@ -1006,7 +1001,7 @@
  ],
  "usage": {
   "date": "2026-10-31",
-  "requests": 78
+  "requests": 79
  },
  "flip": 2765,
  "quote_n": 1347,
