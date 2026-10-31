@@ -10,7 +10,7 @@
    "last_id": 133550
   },
   "TelNews_Magazine": {
-   "last_id": 102469
+   "last_id": 102470
   },
   "NE_WG": {
    "last_id": 116538
@@ -157,7 +157,8 @@
     "https://www.foxnews.com/world/netanyahus-bloc-falls-short-longtime-allies-reportedly-weigh-move-could-end-his-rule",
     "https://www.foxnews.com/world/polish-president-turns-plane-around-after-coup-at-nations-top-court",
     "https://www.foxnews.com/world/exclusive-state-department-accuses-politicians-endangering-afrikaner-lives-gruesome-farm-attacks",
-    "https://www.foxnews.com/world/france-deploys-70000-police-officers-prepare-new-wave-protests-halloween"
+    "https://www.foxnews.com/world/france-deploys-70000-police-officers-prepare-new-wave-protests-halloween",
+    "https://www.foxnews.com/world/us-embassy-warns-credible-mass-casualty-threat-popular-moscow-tourist-attraction"
    ]
   },
   "WSJ": {
@@ -1043,19 +1044,20 @@
    "t": 1793461286.0,
    "n": "هواپیماهای نظامی باری کویت به طور روزانه به انتقال تجهیزات و نیروهای نظامی به جنوب عربستان سعودی ادامه می دهند",
    "fa": "🇰🇼🇸🇦‼️هواپیماهای نظامی باری کویت به طور روزانه به انتقال تجهیزات و نیروهای نظامی به جنوب عربستان سعودی ادامه می‌دهند."
+  },
+  {
+   "t": 1793461740.0,
+   "n": "ترامپ ابتدا کار ایران را تمام می کنیم و سپس به سراغ کوبا می رویم",
+   "fa": "🚨ترامپ: ابتدا کار ایران را تمام می‌کنیم و سپس به سراغ کوبا می‌رویم!"
   }
  ],
  "usage": {
   "date": "2026-10-31",
-  "requests": 96
+  "requests": 97
  },
  "flip": 2772,
- "quote_n": 1352,
+ "quote_n": 1353,
  "feed": [
-  {
-   "t": 1793387487.0,
-   "tx": "🚨گزارش حمله به یک کشتی در نزدیکی جزیره لاوان ایران\n\nسازمان عملیات تجارت دریایی بریتانیا (UKMTO) اعلام کرد یک شناور در فاصله ۴۰ مایل دریایی جنوب جزیره لاوان، هدف پرتابه‌ای ناشناس قرار گرفته است.\n\nاین پرتابه به سمت چپ کشتی اصابت کرده و باعث وقوع آتش‌سوزی در داخل آن شده است.\n\nتمامی خدمه در سلامت هستند و تاکنون گزارشی از خسارت زیست‌محیطی منتشر نشده است.\n\nبررسی درباره این حادثه آغاز شده و علت و عامل حمله هنوز مشخص نیست."
-  },
   {
    "t": 1793387821.0,
    "tx": "🚨گزارش ارسال پیام اضطراری از سوی یک هواپیمای سوخت‌رسان آمریکایی بر فراز اردن\n\nگزارش‌ها حاکی است یک فروند هواپیمای سوخت‌رسان KC-135R ارتش آمریکا، پس از برخاستن از تل‌آویو، هنگام پرواز بر فراز حریم هوایی اردن پیام اضطراری ارسال کرده است."
@@ -1451,6 +1453,10 @@
   {
    "t": 1793461286.0,
    "tx": "🇰🇼🇸🇦‼️هواپیماهای نظامی باری کویت به طور روزانه به انتقال تجهیزات و نیروهای نظامی به جنوب عربستان سعودی ادامه می‌دهند."
+  },
+  {
+   "t": 1793461740.0,
+   "tx": "🚨ترامپ: ابتدا کار ایران را تمام می‌کنیم و سپس به سراغ کوبا می‌رویم!"
   }
  ],
  "signals": [
@@ -2053,6 +2059,11 @@
    "t": 1793461577.338064,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1793461865.9824631,
+   "s": 5,
+   "p": 90
   }
  ],
  "risk": {
