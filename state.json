@@ -698,7 +698,9 @@
     "https://www.nytimes.com/2026/10/30/movies/who-killed-alex-odeh-review.html",
     "https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html",
     "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
-    "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html"
+    "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+    "https://www.nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
+    "https://www.nytimes.com/2026/11/01/world/middleeast/israel-arab-parties.html"
    ]
   },
   "Treasury": {
@@ -761,11 +763,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793484242.0,
-   "n": "پست جدید و مشترک وزارت جنگ آمریکا و کاخ سفید دشمنان آمریکا را شکار کنید",
-   "fa": "🇺🇸🇮🇷🔴پست جدید و مشترک وزارت جنگ آمریکا و کاخ سفید: دشمنان آمریکا را شکار کنید‌."
-  },
   {
    "t": 1793484504.0,
    "n": "head of the iranian parliament s national security commission ebrahim azizi the decree of iran s wise and resolute supreme leader is absolute and non negotiable to any threat we will deliver an immediate and even harsher response with zero limits and an open bank of targets without a doubt we dictate when this war ends not those who failed in the imposed wars of the past",
@@ -905,23 +902,25 @@
    "t": 1793527141.0,
    "n": "تریتا پارسی 48 ساعت آینده برای ایران و آمریکا تعیین کننده است",
    "fa": "⭕️تریتا پارسی: 48 ساعت آینده برای ایران و آمریکا تعیین‌کننده است."
+  },
+  {
+   "t": 1793527349.0,
+   "n": "how a little known company dominated the persian gulf oil trade south korea s sinokor controls about half the tanker transits through the strait of hormuz benefiting from a big bet just before the war in iran started",
+   "fa": "⭕️ تسلط یک شرکت ناشناخته کره جنوبی بر نیمی از حمل‌ونقل نفت در تنگه هرمز به گزارش نیویورک تایمز شرکت سینوکور کره جنوبی با انجام یک سرمایه‌گذاری بزرگ درست پیش از آغاز جنگ در ایران، کنترل حدود نیمی از تردد نفتکش‌ها را در تنگه هرمز به دست گرفته و از این وضعیت سود می‌برد."
+  },
+  {
+   "t": 1793527431.0,
+   "n": "where do israel s arab parties stand having won a record 19 seats in israel s parliament the two arab led parties say they want to work with opposition factions to take down the netanyahu government",
+   "fa": "🔴 احزاب عربی اسرائیل به دنبال ائتلاف با مخالفان برای سرنگونی دولت نتانیاهو به گزارش نیویورک تایمز دو حزب عرب‌محور در پارلمان اسرائیل که موفق به کسب رکورد ۱۹ کرسی شده‌اند، اعلام کردند که می‌خواهند برای سرنگونی دولت نتانیاهو با جناح‌های اپوزیسیون همکاری کنند."
   }
  ],
  "usage": {
   "date": "2026-11-01",
-  "requests": 39
+  "requests": 42
  },
- "flip": 2837,
- "quote_n": 1383,
+ "flip": 2839,
+ "quote_n": 1385,
  "feed": [
-  {
-   "t": 1793452520.0,
-   "tx": "🇮🇷⚡️ — تصویری از یک فروند جنگنده نیروی هوایی ارتش جمهوری اسلامی ایران در حال گشت‌زنی بر فراز استان خوزستان در چند ساعت گذشته. یک منبع محلی گزارش می‌دهد که جنگنده‌ها امروز صبح در سراسر استان خوزستان گشت‌زنی کرده‌اند و صدای فعالیت جنگنده‌ها بیش از ۱ ساعت و ۴۰ دقیقه شنیده شده است."
-  },
-  {
-   "t": 1793453327.0,
-   "tx": "⭕️فاکس نیوز:\n\nرهبر ایران، مجتبی خامنه‌ای، به‌شدت از ترامپ خشمگین است"
-  },
   {
    "t": 1793453772.0,
    "tx": "🇺🇸🇯🇴🟨🟧🟥 2 فروند ترابری C_17آمریکایی به اردن رسیدن"
@@ -1313,6 +1312,14 @@
   {
    "t": 1793527141.0,
    "tx": "⭕️تریتا پارسی:\n\n48 ساعت آینده برای ایران و آمریکا تعیین‌کننده است."
+  },
+  {
+   "t": 1793527349.0,
+   "tx": "⭕️ تسلط یک شرکت ناشناخته کره جنوبی بر نیمی از حمل‌ونقل نفت در تنگه هرمز\n\nبه گزارش نیویورک تایمز شرکت سینوکور کره جنوبی با انجام یک سرمایه‌گذاری بزرگ درست پیش از آغاز جنگ در ایران، کنترل حدود نیمی از تردد نفتکش‌ها را در تنگه هرمز به دست گرفته و از این وضعیت سود می‌برد."
+  },
+  {
+   "t": 1793527431.0,
+   "tx": "🔴 احزاب عربی اسرائیل به دنبال ائتلاف با مخالفان برای سرنگونی دولت نتانیاهو\n\nبه گزارش نیویورک تایمز دو حزب عرب‌محور در پارلمان اسرائیل که موفق به کسب رکورد ۱۹ کرسی شده‌اند، اعلام کردند که می‌خواهند برای سرنگونی دولت نتانیاهو با جناح‌های اپوزیسیون همکاری کنند."
   }
  ],
  "signals": [
@@ -1905,6 +1912,11 @@
    "t": 1793527282.8428452,
    "s": 4,
    "p": 70
+  },
+  {
+   "t": 1793527660.6808414,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
