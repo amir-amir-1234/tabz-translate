@@ -10,7 +10,7 @@
    "last_id": 133616
   },
   "TelNews_Magazine": {
-   "last_id": 102525
+   "last_id": 102526
   },
   "NE_WG": {
    "last_id": 116608
@@ -765,11 +765,6 @@
  },
  "recent": [
   {
-   "t": 1793486932.0,
-   "n": "president trump spoke by phone with israeli prime minister benjamin netanyahu on saturday morning as washington prepares for a possible resumption of airstrikes against iran according to wsj",
-   "fa": "🇺🇸📞🇮🇱 — به گزارش وال‌استریت ژورنال، رئیس‌جمهور ترامپ صبح شنبه در حالی که واشنگتن برای از سرگیری احتمالی حملات هوایی علیه ایران آماده می‌شود، تلفنی با بنیامین نتانیاهو، نخست‌وزیر اسرائیل گفتگو کرد."
-  },
-  {
    "t": 1793494230.0,
    "n": "president trump on iran we ve got iran they ll never have a nuclear weapon they want to make a deal we ll see if they make a deal",
    "fa": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره ایران: ما ایران را در اختیار داریم، آن‌ها هرگز سلاح هسته‌ای نخواهند داشت. آن‌ها می‌خواهند توافق کنند، خواهیم دید که آیا توافق می‌کنند یا خیر."
@@ -927,7 +922,7 @@
  ],
  "usage": {
   "date": "2026-11-01",
-  "requests": 47
+  "requests": 48
  },
  "flip": 2843,
  "quote_n": 1388,
