@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133607
+   "last_id": 133608
   },
   "TelNews_Magazine": {
    "last_id": 102516
   },
   "NE_WG": {
-   "last_id": 116599
+   "last_id": 116600
   }
  },
  "fails": {},
@@ -762,16 +762,6 @@
  },
  "recent": [
   {
-   "t": 1793477131.0,
-   "n": "شش فروند هواپیمای سوخت رسان k35r ایالات متحده بر فراز خلیج فارس و در نزدیکی ایران در حال پرواز هستند",
-   "fa": "🇺🇸🇮🇷 شش فروند هواپیمای سوخت‌رسان K35R ایالات متحده بر فراز خلیج فارس و در نزدیکی ایران در حال پرواز هستند."
-  },
-  {
-   "t": 1793477201.0,
-   "n": "سخنگوی ارتش نیمی از کشته های آمریکا در جنگ مربوط به عملیات حمله اف۵ ها به قطر است",
-   "fa": "⭕️سخنگوی ارتش: نیمی از کشته‌های آمریکا در جنگ مربوط به عملیات حمله اف۵ ها به قطر است"
-  },
-  {
    "t": 1793477917.0,
    "n": "iranian negotiators met with qatari mediators in doha on saturday as diplomatic efforts intensify to prevent renewed u s strikes against iran following the american midterm elections reuters reports the meeting followed more than 12 hours of talks in tehran on friday with qatar maintaining regular contact with washington mediators have proposed a seven day plan involving daily confidence building ",
    "fa": "🇮🇷🇶🇦🇺🇸⚡️ — به گزارش رویترز، مذاکره‌کنندگان ایرانی روز شنبه در دوحه با میانجی‌گران قطری دیدار کردند تا در پی تشدید تلاش‌های دیپلماتیک برای جلوگیری از حملات مجدد ایالات متحده علیه ایران پس از انتخابات میان‌دوره‌ای آمریکا، گفتگو کنند. این دیدار پس از بیش از ۱۲ ساعت مذاکره در تهران در روز جمعه انجام شد و قطر تماس‌های منظمی را با واشنگتن حفظ کرده است. میانجی‌گران طرحی هفت‌روزه شامل اقدامات اعتمادساز رو"
@@ -949,7 +939,7 @@
  ],
  "usage": {
   "date": "2026-11-01",
-  "requests": 28
+  "requests": 29
  },
  "flip": 2831,
  "quote_n": 1378,
