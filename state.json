@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133598
+   "last_id": 133599
   },
   "TelNews_Magazine": {
    "last_id": 102505
   },
   "NE_WG": {
-   "last_id": 116590
+   "last_id": 116591
   }
  },
  "fails": {},
@@ -1064,7 +1064,7 @@
  ],
  "usage": {
   "date": "2026-11-01",
-  "requests": 9
+  "requests": 10
  },
  "flip": 2821,
  "quote_n": 1376,
@@ -2088,9 +2088,17 @@
   }
  ],
  "risk": {
-  "base": 100,
-  "ts": 1793500275.3675525,
-  "attack": true
+  "base": 60,
+  "ts": 1793507764.1785214,
+  "attack": false,
+  "n": 123,
+  "shares": {
+   "1": 1,
+   "2": 13,
+   "3": 15,
+   "4": 56,
+   "5": 15
+  }
  },
  "attack_ts": 1793485886.2369566,
  "attack_cand": [
