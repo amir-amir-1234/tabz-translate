@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133599
+   "last_id": 133600
   },
   "TelNews_Magazine": {
    "last_id": 102505
   },
   "NE_WG": {
-   "last_id": 116591
+   "last_id": 116592
   }
  },
  "fails": {},
@@ -762,21 +762,6 @@
  },
  "recent": [
   {
-   "t": 1793464839.0,
-   "n": "تصاویر ماهواره ای با وضوح بالا خسارات جدی وارد شده به سامانه های ارتباطی و انبارهای موجود در پایگاه پشتیبانی دریایی آمریکا در بحرین را نشان می دهند این خسارات همچنین پایگاه ها و مراکز نظامی دیگری متعلق به آمریکا را در منطقه از جمله کویت عربستان سعودی قطر اردن و امارات تحت تأثیر قرار داده است",
-   "fa": "🇮🇷❌🇺🇸 تصاویر ماهواره‌ای با وضوح بالا، خسارات جدی وارد شده به سامانه‌های ارتباطی و انبارهای موجود در پایگاه پشتیبانی دریایی آمریکا در بحرین را نشان می‌دهند. 💢این خسارات همچنین پایگاه‌ها و مراکز نظامی دیگری متعلق به آمریکا را در منطقه، از جمله کویت، عربستان سعودی، قطر، اردن و امارات، تحت تأثیر قرار داده است."
-  },
-  {
-   "t": 1793464884.0,
-   "n": "secretary of state marco rubio on iran the u s remains the most highly capable military power on earth we can achieve military objectives if we seek to",
-   "fa": "🇺🇸🇮🇷⚡️ — مارکو روبیو، وزیر امور خارجه آمریکا درباره ایران: ایالات متحده همچنان تواناترین قدرت نظامی روی زمین باقی مانده است. اگر بخواهیم می‌توانیم به اهداف نظامی دست یابیم."
-  },
-  {
-   "t": 1793464986.0,
-   "n": "secretary of state marco rubio on iran what president trump has expressed is that if the u s needed to do something militarily on iran we would have the ability to do it we have everything we need to be successful but we would prefer to do it peacefully",
-   "fa": "🇺🇸🇮🇷⚡️ — مارکو روبیو، وزیر امور خارجه آمریکا درباره ایران: آنچه رئیس‌جمهور ترامپ ابراز کرده این است که اگر ایالات متحده نیاز داشته باشد از نظر نظامی علیه ایران اقدامی انجام دهد، توانایی انجام آن را خواهیم داشت. ما هر آنچه را که برای موفقیت نیاز داریم در اختیار داریم، اما ترجیح می‌دهیم کار را به صورت مسالمت‌آمیز انجام دهیم."
-  },
-  {
    "t": 1793465146.0,
    "n": "secretary of state marco rubio on iran the iranian regime is basically arguing that unless we get what we want we will destroy the energy infrastructure of the entire region just think about that that s not normal behavior we re there to help protect against it",
    "fa": "🇺🇸🇮🇷⚡️ — مارکو روبیو، وزیر امور خارجه آمریکا درباره ایران: رژیم ایران اساساً استدلال می‌کند که «تا زمانی که به آنچه می‌خواهیم نرسیم، زیرساخت‌های انرژی کل منطقه را نابود خواهیم کرد.» فقط به آن فکر کنید. این یک رفتار عادی نیست. ما اینجا هستیم تا به محافظت در برابر آن کمک کنیم."
@@ -1064,7 +1049,7 @@
  ],
  "usage": {
   "date": "2026-11-01",
-  "requests": 10
+  "requests": 11
  },
  "flip": 2821,
  "quote_n": 1376,
