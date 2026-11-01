@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133613
+   "last_id": 133614
   },
   "TelNews_Magazine": {
    "last_id": 102523
   },
   "NE_WG": {
-   "last_id": 116605
+   "last_id": 116606
   }
  },
  "fails": {},
@@ -764,11 +764,6 @@
  },
  "recent": [
   {
-   "t": 1793484504.0,
-   "n": "head of the iranian parliament s national security commission ebrahim azizi the decree of iran s wise and resolute supreme leader is absolute and non negotiable to any threat we will deliver an immediate and even harsher response with zero limits and an open bank of targets without a doubt we dictate when this war ends not those who failed in the imposed wars of the past",
-   "fa": "🇮🇷🇺🇸🇮🇱⚡️ — ابراهیم عزیزی، رئیس کمیسیون امنیت ملی و سیاست خارجی مجلس: فرمان رهبر حکیم و قاطع ایران مطلق و غیرقابل مذاکره است. به هر تهدیدی، پاسخی فوری و حتی کوبنده‌تر خواهیم داد؛ با صفر محدودیت و بانک اهداف باز. بدون تردید، این ماییم که پایان این جنگ را دیکته می‌کنیم — نه کسانی که در جنگ‌های تحمیلی گذشته شکست خوردند."
-  },
-  {
    "t": 1793485520.0,
    "n": "نیویورک پست برای آغاز دوباره جنگ با ایران اسرائیل احتمالا در حال طراحی حمله ای مشابه عملیات پیجرهای انفجاری است",
    "fa": "🇺🇸🇮🇷🇱🇧نیویورک‌پست: برای آغاز دوباره جنگ با ایران، اسرائیل احتمالا در حال طراحی حمله‌ای مشابه «عملیات پیجرهای انفجاری» است!"
@@ -916,7 +911,7 @@
  ],
  "usage": {
   "date": "2026-11-01",
-  "requests": 42
+  "requests": 43
  },
  "flip": 2839,
  "quote_n": 1385,
