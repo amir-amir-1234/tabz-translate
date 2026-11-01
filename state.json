@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109757
+   "last_id": 109758
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,7 +10,7 @@
    "last_id": 133644
   },
   "TelNews_Magazine": {
-   "last_id": 102551
+   "last_id": 102552
   },
   "NE_WG": {
    "last_id": 116639
@@ -159,7 +159,8 @@
     "https://www.foxnews.com/world/exclusive-state-department-accuses-politicians-endangering-afrikaner-lives-gruesome-farm-attacks",
     "https://www.foxnews.com/world/france-deploys-70000-police-officers-prepare-new-wave-protests-halloween",
     "https://www.foxnews.com/world/us-embassy-warns-credible-mass-casualty-threat-popular-moscow-tourist-attraction",
-    "https://www.foxnews.com/world/colombias-el-tigre-takes-fight-cartels-trump-alliance-takes-shape"
+    "https://www.foxnews.com/world/colombias-el-tigre-takes-fight-cartels-trump-alliance-takes-shape",
+    "https://www.foxnews.com/world/us-calls-turkey-libya-maritime-deal-unhelpful-and-provocative-amid-regional-backlash"
    ]
   },
   "WSJ": {
@@ -766,11 +767,6 @@
  },
  "recent": [
   {
-   "t": 1793518616.0,
-   "n": "نایب رئیس مجلس نیکزاد پنجره مذاکرات هسته ای به روی دشمنان بسته شده است",
-   "fa": "⭕️نایب رئیس مجلس،نیکزاد: پنجره مذاکرات هسته‌ای به روی دشمنان بسته شده است"
-  },
-  {
    "t": 1793521081.0,
    "n": "رحیم صفوی از یک وزیر دفاع پرسیدم ایران در حمله آمریکا چقدر دوام می آورد گفت ۲ ساعت ۲ ساعت و نیم چرا کسی پاسخگو نیست که مسئول شکست ایران در سوریه کیست چند میلیارد پول ما به سوریه رفت یک نفر پاسخگو نبود",
    "fa": "💢رحیم صفوی: از یک وزیر دفاع پرسیدم ایران در حمله آمریکا چقدر دوام می‌آورد؛ گفت ۲ ساعت؛ ۲ ساعت و نیم 🔴چرا کسی پاسخگو نیست که مسئول شکست ایران در سوریه کیست؛ چند میلیارد پول ما به سوریه رفت؛ یک نفر پاسخگو نبود"
@@ -1064,19 +1060,20 @@
    "t": 1793552033.0,
    "n": "canadian prime minister mark carney held a productive conversation with u s president trump about the future of canada u s trade carney said the discussion built on previous negotiations toward a mutually beneficial trade agreement aimed at creating jobs improving affordability and respecting canada s sovereignty languages and culture negotiating teams from both countries will continue working tow",
    "fa": "🇨🇦📞🇺🇸 — مارک کارنی، نخست‌وزیر کانادا، گفت‌وگوی سازنده‌ای با دونالد ترامپ، رئیس‌جمهور ایالات متحده، درباره آینده تجارت کانادا و آمریکا انجام داد. کارنی گفت این بحث بر اساس مذاکرات قبلی در راستای دستیابی به یک توافق تجاری سودمند متقابل با هدف ایجاد مشاغل، بهبود مقرون‌به‌صرفه بودن و احترام به حاکمیت، زبان‌ها و فرهنگ کانادا بنا شده است. تیم‌های مذاکره‌کننده از هر دو کشور در هفته‌های آینده به کار برای "
+  },
+  {
+   "t": 1793552216.0,
+   "n": "correction the footage showcasing the ah 64 apache helicopter is actually from 2018 and the yemeni emergency forces falsely showed it as new we apologize for the mistake as of now we re considering the entire video inauthentic as there s a strong chance there s more old footage in the video falsely claimed to be recent",
+   "fa": "🔴 تصحیح: تصاویری که هلیکوپتر آپاچی AH-64 را نشان می‌دهد در واقع متعلق به سال ۲۰۱۸ است و نیروهای اضطراری یمن به اشتباه آن را به عنوان جدید نشان دادند. از این اشتباه پوزش می‌طلبیم. از این رو، ما کل ویدیو را غیرمعتبر می‌دانیم، زیرا احتمال زیادی وجود دارد که تصاویر قدیمی دیگری در این ویدیو وجود داشته باشد که به دروغ ادعا شده جدید هستند."
   }
  ],
  "usage": {
   "date": "2026-11-01",
-  "requests": 101
+  "requests": 102
  },
- "flip": 2876,
- "quote_n": 1403,
+ "flip": 2877,
+ "quote_n": 1404,
  "feed": [
-  {
-   "t": 1793474641.0,
-   "tx": "💢محسن رضایی: شورای‌عالی امنیت ملی مسئول دیپلماسی در زمان جنگ است\n\n💢ممکن است اختلافاتی وجود داشته باشد اما در ایستادن پشت سر رهبری هم‌صدا هستیم؛ امروز ما بالاترین هم‌صدایی را داریم."
-  },
   {
    "t": 1793475327.0,
    "tx": "⭕️محسن رضایی:\n\nیه چیزایی داریم که اگه جنگ بشه رونمایی میکنیم که باعث میشه جهان توی شوک فرو بره"
@@ -1472,14 +1469,13 @@
   {
    "t": 1793552033.0,
    "tx": "🇨🇦📞🇺🇸 — مارک کارنی، نخست‌وزیر کانادا، گفت‌وگوی سازنده‌ای با دونالد ترامپ، رئیس‌جمهور ایالات متحده، درباره آینده تجارت کانادا و آمریکا انجام داد.\n\nکارنی گفت این بحث بر اساس مذاکرات قبلی در راستای دستیابی به یک توافق تجاری سودمند متقابل با هدف ایجاد مشاغل، بهبود مقرون‌به‌صرفه بودن و احترام به حاکمیت، زبان‌ها و فرهنگ کانادا بنا شده است.\n\nتیم‌های مذاکره‌کننده از هر دو کشور در هفته‌های آینده به کار برای رسیدن به توافق ادامه خواهند داد."
+  },
+  {
+   "t": 1793552216.0,
+   "tx": "🔴 تصحیح:\n\nتصاویری که هلیکوپتر آپاچی AH-64 را نشان می‌دهد در واقع متعلق به سال ۲۰۱۸ است و نیروهای اضطراری یمن به اشتباه آن را به عنوان جدید نشان دادند. از این اشتباه پوزش می‌طلبیم.\n\nاز این رو، ما کل ویدیو را غیرمعتبر می‌دانیم، زیرا احتمال زیادی وجود دارد که تصاویر قدیمی دیگری در این ویدیو وجود داشته باشد که به دروغ ادعا شده جدید هستند."
   }
  ],
  "signals": [
-  {
-   "t": 1793465766.6124952,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1793466087.8032043,
    "s": 2,
@@ -2084,6 +2080,11 @@
    "t": 1793552166.4576552,
    "s": 4,
    "p": 35
+  },
+  {
+   "t": 1793552576.8299181,
+   "s": 4,
+   "p": 40
   }
  ],
  "risk": {
