@@ -13,7 +13,7 @@
    "last_id": 102662
   },
   "NE_WG": {
-   "last_id": 116819
+   "last_id": 116820
   }
  },
  "fails": {},
@@ -745,7 +745,8 @@
     "https://home.treasury.gov/news/press-releases/sb0673/",
     "https://home.treasury.gov/news/press-releases/sb0672/",
     "https://home.treasury.gov/news/press-releases/sb0675/",
-    "https://home.treasury.gov/news/press-releases/sb0676/"
+    "https://home.treasury.gov/news/press-releases/sb0676/",
+    "https://home.treasury.gov/news/press-releases/sb0674/"
    ]
   },
   "OFAC": {
@@ -1078,7 +1079,7 @@
  ],
  "usage": {
   "date": "2026-11-02",
-  "requests": 178
+  "requests": 179
  },
  "flip": 3004,
  "quote_n": 1484,
