@@ -161,7 +161,8 @@
     "https://www.foxnews.com/world/us-embassy-warns-credible-mass-casualty-threat-popular-moscow-tourist-attraction",
     "https://www.foxnews.com/world/colombias-el-tigre-takes-fight-cartels-trump-alliance-takes-shape",
     "https://www.foxnews.com/world/us-calls-turkey-libya-maritime-deal-unhelpful-and-provocative-amid-regional-backlash",
-    "https://www.foxnews.com/world/iranian-ghost-fleet-filmed-evading-us-blockade-en-route-china-uani-says"
+    "https://www.foxnews.com/world/iranian-ghost-fleet-filmed-evading-us-blockade-en-route-china-uani-says",
+    "https://www.foxnews.com/world/ukraine-air-alert-system-hacked-false-radiation-warning-kyiv"
    ]
   },
   "WSJ": {
@@ -2049,9 +2050,17 @@
   }
  ],
  "risk": {
-  "base": 100,
-  "ts": 1793575895.5749855,
-  "attack": true
+  "base": 59,
+  "ts": 1793586076.1225224,
+  "attack": false,
+  "n": 114,
+  "shares": {
+   "1": 0,
+   "2": 9,
+   "3": 25,
+   "4": 48,
+   "5": 19
+  }
  },
  "attack_ts": 1793564472.255636,
  "attack_cand": [
