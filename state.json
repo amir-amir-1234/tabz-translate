@@ -10,10 +10,10 @@
    "last_id": 133722
   },
   "TelNews_Magazine": {
-   "last_id": 102606
+   "last_id": 102607
   },
   "NE_WG": {
-   "last_id": 116716
+   "last_id": 116717
   }
  },
  "fails": {},
@@ -771,21 +771,6 @@
  },
  "recent": [
   {
-   "t": 1793575736.0,
-   "n": "ترامپ برجام یک توافق افتضاح بود همین که به قدرت رسیدم توافق افتضاح اوباما با ایران را لغو کردم برجام به ایران اجازه می داد که تأسیسات هسته ای داشته باشد",
-   "fa": "🇺🇸🇮🇷ترامپ: برجام یک توافق افتضاح بود!/ همین که به قدرت رسیدم، توافق افتضاح اوباما با ایران را لغو کردم! ‼️برجام به ایران اجازه می‌داد که تأسیسات هسته‌ای داشته باشد!"
-  },
-  {
-   "t": 1793575757.0,
-   "n": "ترامپ تأسیسات هسته ای ایران را در عملیات چکش نیمه شب کاملا نابود کردیم و ونزوئلا را هم در یک روز شکست دادیم بیشتر منابع ایران نابود شده اند",
-   "fa": "🇺🇸🇮🇷ترامپ: تأسیسات هسته‌ای ایران را در عملیات چکش نیمه شب کاملاً نابود کردیم و ونزوئلا را هم در یک روز شکست دادیم!/ بیشتر منابع ایران نابود شده اند!"
-  },
-  {
-   "t": 1793575718.0,
-   "n": "iranian ghost fleet filmed evading us blockade en route to china uani says small iranian ghost fleet tankers are slipping past the u s naval blockade and smuggling sanctioned liquefied petroleum gas lpg to china through a shadowy maritime hub off malaysia according to u s investigators who covertly filmed one of the vessels en route in september united against nuclear iran uani which conducted the",
-   "fa": "🔴 گریز نفت‌کش‌های سایه ایران از محاصره دریایی آمریکا و انتقال گاز مایع به چین به گزارش فاکس نیوز بر اساس تحقیقات محققان آمریکایی که مخفیانه یکی از این شناورها را در ماه سپتامبر رصد کرده‌اند، نفت‌کش‌های کوچک «ناوگان سایه» ایران موفق می‌شوند از محاصره دریایی ایالات متحده عبور کنند و گاز مایع تحریم‌شده را از طریق یک مرکز دریایی مبهم در آب‌های مالزی به چین قاچاق کنند. سازمان «وحدت علیه ایران هسته‌ای» "
-  },
-  {
    "t": 1793587555.0,
    "n": "ukmto announces an oil tanker 72 nautical miles east of ras al khafji ksa traveling southeast through the persian gulf was struck by 2 projectiles on its port side crew are accounted for and the tanker did not report any environmental impact",
    "fa": "🇮🇷⚡️ — سازمان عملیات تجارت دریایی بریتانیا (UKMTO) اعلام کرد یک نفتکش در فاصله ۷۲ مایلی دریایی شرق رأس‌الخفجی در عربستان سعودی که به سمت جنوب شرقی در خلیج فارس در حال حرکت بود، از سمت چپ مورد اصابت ۲ پرتابه قرار گرفت. خدمه در سلامت کامل به سر می‌برند و نفتکش هیچ‌گونه گزارش مبنی بر آسیب زیست‌محیطی ارائه نکرده است."
@@ -983,7 +968,7 @@
  ],
  "usage": {
   "date": "2026-11-02",
-  "requests": 58
+  "requests": 59
  },
  "flip": 2939,
  "quote_n": 1439,
@@ -2022,16 +2007,16 @@
   }
  ],
  "risk": {
-  "base": 58,
-  "ts": 1793608288.5852263,
+  "base": 55,
+  "ts": 1793619087.6870706,
   "attack": false,
-  "n": 121,
+  "n": 126,
   "shares": {
    "1": 0,
-   "2": 12,
-   "3": 27,
-   "4": 44,
-   "5": 18
+   "2": 18,
+   "3": 36,
+   "4": 36,
+   "5": 10
   }
  },
  "attack_ts": 1793564472.255636,
