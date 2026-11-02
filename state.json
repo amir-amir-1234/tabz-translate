@@ -10,7 +10,7 @@
    "last_id": 133699
   },
   "TelNews_Magazine": {
-   "last_id": 102585
+   "last_id": 102586
   },
   "NE_WG": {
    "last_id": 116696
@@ -769,11 +769,6 @@
  },
  "recent": [
   {
-   "t": 1793557532.0,
-   "n": "ایرانخودرو رسما درخواست افزایش ۵۵ درصدی قیمت تمام محصولاتش رو داد",
-   "fa": "⭕️ایرانخودرو رسما درخواست افزایش ۵۵ درصدی قیمت تمام محصولاتش رو داد"
-  },
-  {
    "t": 1793558972.0,
    "n": "ukmto reports that the master of a merchant vessel in the strait of hormuz issued a mayday call after being struck by a projectile earlier today",
    "fa": "🇮🇷⚡️ — سازمان عملیات تجارت دریایی بریتانیا (UKMTO) گزارش داد که کاپیتان یک کشتی تجاری در تنگه هرمز پس از اصابت یک پرتابه در امروز، پیام اضطرار (مِی‌دی) ارسال کرده است."
@@ -956,7 +951,7 @@
  ],
  "usage": {
   "date": "2026-11-02",
-  "requests": 17
+  "requests": 18
  },
  "flip": 2912,
  "quote_n": 1422,
