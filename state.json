@@ -16,7 +16,9 @@
    "last_id": 116737
   }
  },
- "fails": {},
+ "fails": {
+  "tabzlive/109792": 1
+ },
  "web": {
   "Fox News": {
    "seen": [
@@ -1064,7 +1066,7 @@
  ],
  "usage": {
   "date": "2026-11-02",
-  "requests": 86
+  "requests": 90
  },
  "flip": 2955,
  "quote_n": 1446,
