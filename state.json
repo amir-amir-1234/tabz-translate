@@ -708,7 +708,8 @@
     "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
     "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html",
     "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
-    "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html"
+    "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+    "https://www.nytimes.com/2026/11/02/us/politics/jury-selection-death-penalty-cole-bombing.html"
    ]
   },
   "Treasury": {
@@ -1074,7 +1075,7 @@
  ],
  "usage": {
   "date": "2026-11-02",
-  "requests": 126
+  "requests": 127
  },
  "flip": 2977,
  "quote_n": 1462,
