@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109851
+   "last_id": 109852
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133865
+   "last_id": 133866
   },
   "TelNews_Magazine": {
    "last_id": 102686
@@ -1065,7 +1065,7 @@
  ],
  "usage": {
   "date": "2026-11-03",
-  "requests": 83
+  "requests": 84
  },
  "flip": 3050,
  "quote_n": 1508,
