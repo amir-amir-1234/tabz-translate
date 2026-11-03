@@ -712,7 +712,8 @@
     "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html",
     "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
     "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
-    "https://www.nytimes.com/2026/11/02/us/politics/jury-selection-death-penalty-cole-bombing.html"
+    "https://www.nytimes.com/2026/11/02/us/politics/jury-selection-death-penalty-cole-bombing.html",
+    "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html"
    ]
   },
   "Treasury": {
@@ -1081,7 +1082,7 @@
  ],
  "usage": {
   "date": "2026-11-03",
-  "requests": 41
+  "requests": 42
  },
  "flip": 3020,
  "quote_n": 1490,
@@ -2275,9 +2276,17 @@
   }
  ],
  "risk": {
-  "base": 100,
-  "ts": 1793683890.602341,
-  "attack": true
+  "base": 60,
+  "ts": 1793690770.7948434,
+  "attack": false,
+  "n": 157,
+  "shares": {
+   "1": 4,
+   "2": 12,
+   "3": 15,
+   "4": 45,
+   "5": 23
+  }
  },
  "attack_ts": 1793669165.7091444,
  "attack_cand": [
