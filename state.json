@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109877
+   "last_id": 109878
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133907
+   "last_id": 133908
   },
   "TelNews_Magazine": {
    "last_id": 102729
   },
   "NE_WG": {
-   "last_id": 116905
+   "last_id": 116906
   }
  },
  "fails": {},
@@ -717,7 +717,8 @@
     "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
     "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
     "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
-    "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html"
+    "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html",
+    "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-united-states-trump.html"
    ]
   },
   "Treasury": {
@@ -783,11 +784,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793707031.0,
-   "n": "عمان و مصر باید مانع جنگ ایران و آمریکا بشیم",
-   "fa": "⭕️عمان و مصر: باید مانع جنگ ایران و آمریکا بشیم"
-  },
   {
    "t": 1793707206.0,
    "n": "israeli opposition parties have agreed to move swiftly to replace prime minister benjamin netanyahu s government with a national emergency coalition opposition leaders agreed to nominate gadi eisenkot to form the next government and immediately begin coalition negotiations aiming to establish a new administration and avoid another election",
@@ -1082,19 +1078,20 @@
    "t": 1793727710.0,
    "n": "رئیس جمهور مصر طرف های مرتبط با بحران میان آمریکا و ایران زمینه را برای تفاهم فراهم کنند نتایج تنش نظامی برای منطقه و جهان فاجعه بار خواهد بود",
    "fa": "🇪🇬🇺🇸🇮🇷رئیس‌جمهور مصر: طرف‌های مرتبط با بحران میان آمریکا و ایران، زمینه را برای تفاهم فراهم کنند/ نتایج تنش نظامی برای منطقه و جهان فاجعه‌بار خواهد بود"
+  },
+  {
+   "t": 1793728083.0,
+   "n": "israeli claims of iranian chemical weapons divide u s officials some administration officials suggested prime minister benjamin netanyahu is trying to draw president trump back into military action",
+   "fa": "⭕️ ادعاهای اسرائیل درباره تسلیحات شیمیایی ایران مقامات آمریکایی را دچار اختلاف کرد به گزارش نیویورک تایمز ادعاهای اسرائیل درباره تسلیحات شیمیایی ایران مقامات آمریکایی را دچار اختلاف کرده است. برخی از مقامات دولت آمریکا این احتمال را مطرح کردند که بنیامین نتانیاهو نخست‌وزیر اسرائیل ممکن است در تلاش باشد تا رئیس‌جمهور ترامپ را دوباره به اقدام نظامی بکشاند."
   }
  ],
  "usage": {
   "date": "2026-11-03",
-  "requests": 155
+  "requests": 157
  },
- "flip": 3089,
- "quote_n": 1523,
+ "flip": 3090,
+ "quote_n": 1524,
  "feed": [
-  {
-   "t": 1793688722.0,
-   "tx": "⭕️تصاویری از فعالیت جنگنده های آمریکایی و اسرائیلی ساعاتی پیش در آسمان عراق"
-  },
   {
    "t": 1793689741.0,
    "tx": "⭕️روزنامه کیهان: ساده لوحی است اگر فکر کنیم با شکست ترامپ و جمهوریخواهان، امریکا به ایران حمله نمی کند"
@@ -1490,14 +1487,13 @@
   {
    "t": 1793727710.0,
    "tx": "🇪🇬🇺🇸🇮🇷رئیس‌جمهور مصر: طرف‌های مرتبط با بحران میان آمریکا و ایران، زمینه را برای تفاهم فراهم کنند/ نتایج تنش نظامی برای منطقه و جهان فاجعه‌بار خواهد بود"
+  },
+  {
+   "t": 1793728083.0,
+   "tx": "⭕️ ادعاهای اسرائیل درباره تسلیحات شیمیایی ایران مقامات آمریکایی را دچار اختلاف کرد\n\nبه گزارش نیویورک تایمز ادعاهای اسرائیل درباره تسلیحات شیمیایی ایران مقامات آمریکایی را دچار اختلاف کرده است. برخی از مقامات دولت آمریکا این احتمال را مطرح کردند که بنیامین نتانیاهو نخست‌وزیر اسرائیل ممکن است در تلاش باشد تا رئیس‌جمهور ترامپ را دوباره به اقدام نظامی بکشاند."
   }
  ],
  "signals": [
-  {
-   "t": 1793641878.8879786,
-   "s": 5,
-   "p": 85
-  },
   {
    "t": 1793642171.1548007,
    "s": 4,
@@ -2402,6 +2398,11 @@
    "t": 1793728011.6415193,
    "s": 2,
    "p": 50
+  },
+  {
+   "t": 1793728595.1587343,
+   "s": 4,
+   "p": 75
   }
  ],
  "risk": {
