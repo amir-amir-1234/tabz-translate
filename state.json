@@ -722,7 +722,8 @@
     "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-united-states-trump.html",
     "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
     "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
-    "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html"
+    "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
+    "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html"
    ]
   },
   "Treasury": {
@@ -793,11 +794,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793791081.0,
-   "n": "همتی خطاب به بسنت طرد اقتصادی ایران نتیجه نگرفت طرد سیاسی جمهوری خواهان در آمریکا محقق شد",
-   "fa": "⭕️همتی خطاب به بسنت: طرد اقتصادی ایران نتیجه نگرفت؛ طرد سیاسی جمهوری‌خواهان در آمریکا محقق شد"
-  },
   {
    "t": 1793791908.0,
    "n": "پرزیدنت ترامپ در پاسخ به سوالی درباره استفاده از سلاح های هسته ای علیه جمهوری اسلامی ایران من به آن نیازی ندارم ما آن ها را از قبل تا 90 درصد خنثی کرده ایم بنابراین به آن نیازی ندارم",
@@ -1092,19 +1088,20 @@
    "t": 1793816774.0,
    "n": "president trump on when the iran war will end whenever i want it to end",
    "fa": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره زمان پایان جنگ ایران: هر زمان که من بخواهم [پایان می‌یابد]."
+  },
+  {
+   "t": 1793817064.0,
+   "n": "for israelis u s midterms show how far their star has fallen in america israel once had bipartisan support in the united states but a strong showing for democrats some of whom are deeply critical of the war in gaza has left the country with fewer friends in congress",
+   "fa": "⭕️ کاهش حمایت دوحزبی از اسرائیل در کنگره آمریکا پس از انتخابات میان‌دوره‌ای به گزارش نیویورک تایمز اسرائیل روزگاری از حمایت دوحزبی در ایالات متحده برخوردار بود، اما عملکرد قوی دموکرات‌ها که برخی از آن‌ها منتقدان سرسخت جنگ در غزه هستند، این کشور را با دوستان کمتری در کنگره مواجه کرده است."
   }
  ],
  "usage": {
   "date": "2026-11-04",
-  "requests": 201
+  "requests": 203
  },
- "flip": 3257,
- "quote_n": 1608,
+ "flip": 3258,
+ "quote_n": 1609,
  "feed": [
-  {
-   "t": 1793773192.0,
-   "tx": "🇺🇸⚡️ — پیش‌بینی می‌شود عبدال السید (دموکرات) در انتخابات سنای میشیگان پیروز شود و در برابر چالش مایک راجرز (جمهوری‌خواه) به پیروزی دست یابد."
-  },
   {
    "t": 1793773237.0,
    "tx": "💢با شکست جمهوری‌خواه‌ها در انتخابات کنگره، طلای جهانی به بالای ۴۰۰۰ دلار برگشت"
@@ -1500,6 +1497,10 @@
   {
    "t": 1793816774.0,
    "tx": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره زمان پایان جنگ ایران:\n\nهر زمان که من بخواهم [پایان می‌یابد]."
+  },
+  {
+   "t": 1793817064.0,
+   "tx": "⭕️ کاهش حمایت دوحزبی از اسرائیل در کنگره آمریکا پس از انتخابات میان‌دوره‌ای\n\nبه گزارش نیویورک تایمز اسرائیل روزگاری از حمایت دوحزبی در ایالات متحده برخوردار بود، اما عملکرد قوی دموکرات‌ها که برخی از آن‌ها منتقدان سرسخت جنگ در غزه هستند، این کشور را با دوستان کمتری در کنگره مواجه کرده است."
   }
  ],
  "signals": [
@@ -2457,6 +2458,11 @@
    "t": 1793817088.1759322,
    "s": 4,
    "p": 75
+  },
+  {
+   "t": 1793817393.2001228,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
