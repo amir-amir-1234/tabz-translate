@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109995
+   "last_id": 109996
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 133983
+   "last_id": 133984
   },
   "TelNews_Magazine": {
    "last_id": 102754
@@ -787,11 +787,6 @@
  },
  "recent": [
   {
-   "t": 1793754346.0,
-   "n": "ddhq has projected democrat chris pappas as the winner of the new hampshire u s senate race",
-   "fa": "🇺🇸⚡️ — وب‌سایت دی‌دی‌اچ‌کیو، کریس پاپاس، نامزد دموکرات را به عنوان پیروز رقابت سنای ایالات متحده در نیوهمپشایر پیش‌بینی کرد."
-  },
-  {
    "t": 1793754380.0,
    "n": "that s a lotta closings polls closed in alabama connecticut delaware the florida panhandle illinois parts of kansas maine maryland massachusetts parts of michigan mississippi missouri new hampshire new jersey oklahoma pennsylvania rhode island parts of texas and washington d c six minutes ago",
    "fa": "🇺🇸⚡️ — بسته شدن حوزه‌های رأی‌گیری در ایالت‌های مختلف آمریکا در جریان انتخابات میان‌دوره‌ای."
@@ -1085,19 +1080,20 @@
    "t": 1793772176.0,
    "n": "حزب ترامپ در مجلس نمایندگان هم شکست خورد دموکرات ها ۲۰۲ کرسی جمهوری خواهان ۱۲۲ کرسی",
    "fa": "🔄 به‌روزرسانی 🔴حزب ترامپ در مجلس نمایندگان هم شکست خورد 🟠دموکرات‌ها ۲۰۲ کرسی 🟠جمهوری‌خواهان ۱۲۲ کرسی"
+  },
+  {
+   "t": 1793772906.0,
+   "n": "breaking maine senator susan collins r is projected to lose her senate seat after holding it for 30 years troy jackson d is projected to win maine s senate election flipping the seat from republican to democrat",
+   "fa": "🔄 به‌روزرسانی 🇺🇸⚡️ — فوری: پیش‌بینی می‌شود سوزان کالینز، سناتور جمهوری‌خواه مین، پس از ۳۰ سال کرسی خود را در سنا از دست بدهد. پیش‌بینی می‌شود تروی جکسون (دموکرات) پیروز انتخابات سنای مین شود و این کرسی را از حزب جمهوری‌خواه به دموکرات منتقل کند."
   }
  ],
  "usage": {
   "date": "2026-11-04",
-  "requests": 68
+  "requests": 69
  },
  "flip": 3180,
  "quote_n": 1573,
  "feed": [
-  {
-   "t": 1793742486.0,
-   "tx": "🚨گزارش‌ها از شنیدن صدای انفجار از تنگه هرمز"
-  },
   {
    "t": 1793742566.0,
    "tx": "🇮🇷🇮🇱‼️مشاور فیلد مارشال محسن رضایی: تصمیم قطعی گرفته شده که این بار حملات سنگینی به اسرائیل شود"
@@ -1493,6 +1489,10 @@
   {
    "t": 1793772176.0,
    "tx": "🔄 به‌روزرسانی\n🔴حزب ترامپ در مجلس نمایندگان هم شکست خورد\n\n🟠دموکرات‌ها ۲۰۲ کرسی\n🟠جمهوری‌خواهان ۱۲۲ کرسی"
+  },
+  {
+   "t": 1793772906.0,
+   "tx": "🔄 به‌روزرسانی\n🇺🇸⚡️ — فوری: پیش‌بینی می‌شود سوزان کالینز، سناتور جمهوری‌خواه مین، پس از ۳۰ سال کرسی خود را در سنا از دست بدهد.\n\nپیش‌بینی می‌شود تروی جکسون (دموکرات) پیروز انتخابات سنای مین شود و این کرسی را از حزب جمهوری‌خواه به دموکرات منتقل کند."
   }
  ],
  "signals": [
