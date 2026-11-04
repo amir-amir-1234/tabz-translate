@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109994
+   "last_id": 109995
   },
   "khabarfouri": {
    "last_id": 569949
@@ -166,7 +166,8 @@
     "https://www.foxnews.com/world/polands-constitutional-crisis-deepens-prime-minister-tusk-faces-accusations-power-grab",
     "https://www.foxnews.com/world/russia-planning-massive-strike-midterms-zelenskyy-warns-urges-us-stop-putin",
     "https://www.foxnews.com/world/us-mediate-upcoming-ukraine-russia-talks-abu-dhabi-witkoff-says",
-    "https://www.foxnews.com/world/ukraine-zelenskyy-defying-us-attacking-russian-oil-response-must-be-painful"
+    "https://www.foxnews.com/world/ukraine-zelenskyy-defying-us-attacking-russian-oil-response-must-be-painful",
+    "https://www.foxnews.com/world/netanyahu-faces-coalition-showdown-rivals-maneuver-form-israels-next-government"
    ]
   },
   "WSJ": {
@@ -1088,7 +1089,7 @@
  ],
  "usage": {
   "date": "2026-11-04",
-  "requests": 67
+  "requests": 68
  },
  "flip": 3180,
  "quote_n": 1573,
@@ -1495,11 +1496,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793685972.1254725,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1793688676.0802143,
    "s": 4,
