@@ -168,7 +168,8 @@
     "https://www.foxnews.com/world/us-mediate-upcoming-ukraine-russia-talks-abu-dhabi-witkoff-says",
     "https://www.foxnews.com/world/ukraine-zelenskyy-defying-us-attacking-russian-oil-response-must-be-painful",
     "https://www.foxnews.com/world/netanyahu-faces-coalition-showdown-rivals-maneuver-form-israels-next-government",
-    "https://www.foxnews.com/world/bukeles-warning-haitian-gang-leaders-forces-finish-el-salvador"
+    "https://www.foxnews.com/world/bukeles-warning-haitian-gang-leaders-forces-finish-el-salvador",
+    "https://www.foxnews.com/world/canadian-mother-daughter-dead-suspected-grizzly-bear-attack-hiking-trail"
    ]
   },
   "WSJ": {
@@ -1505,16 +1506,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793744494.3991354,
-   "s": 2,
-   "p": 55
-  },
-  {
-   "t": 1793744497.7871685,
-   "s": 5,
-   "p": 90
-  },
   {
    "t": 1793744775.7831404,
    "s": 4,
