@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 109996
+   "last_id": 109997
   },
   "khabarfouri": {
    "last_id": 569949
@@ -787,11 +787,6 @@
  },
  "recent": [
   {
-   "t": 1793754380.0,
-   "n": "that s a lotta closings polls closed in alabama connecticut delaware the florida panhandle illinois parts of kansas maine maryland massachusetts parts of michigan mississippi missouri new hampshire new jersey oklahoma pennsylvania rhode island parts of texas and washington d c six minutes ago",
-   "fa": "🇺🇸⚡️ — بسته شدن حوزه‌های رأی‌گیری در ایالت‌های مختلف آمریکا در جریان انتخابات میان‌دوره‌ای."
-  },
-  {
    "t": 1793754571.0,
    "n": "nbc news projects that democrat jb pritzker has been reelected as governor of illinois",
    "fa": "🇺🇸⚡️ — ان‌بی‌سی نیوز پیش‌بینی می‌کند جی‌بی پریزکر، نامزد دموکرات، به عنوان فرماندار ایلینوی مجدداً انتخاب شده است."
@@ -1085,19 +1080,20 @@
    "t": 1793772906.0,
    "n": "breaking maine senator susan collins r is projected to lose her senate seat after holding it for 30 years troy jackson d is projected to win maine s senate election flipping the seat from republican to democrat",
    "fa": "🔄 به‌روزرسانی 🇺🇸⚡️ — فوری: پیش‌بینی می‌شود سوزان کالینز، سناتور جمهوری‌خواه مین، پس از ۳۰ سال کرسی خود را در سنا از دست بدهد. پیش‌بینی می‌شود تروی جکسون (دموکرات) پیروز انتخابات سنای مین شود و این کرسی را از حزب جمهوری‌خواه به دموکرات منتقل کند."
+  },
+  {
+   "t": 1793773192.0,
+   "n": "abdul el sayed d is projected to win michigan s senate election fending off a challenge from mike rogers r",
+   "fa": "🇺🇸⚡️ — پیش‌بینی می‌شود عبدال السید (دموکرات) در انتخابات سنای میشیگان پیروز شود و در برابر چالش مایک راجرز (جمهوری‌خواه) به پیروزی دست یابد."
   }
  ],
  "usage": {
   "date": "2026-11-04",
-  "requests": 69
+  "requests": 70
  },
  "flip": 3180,
  "quote_n": 1573,
  "feed": [
-  {
-   "t": 1793742566.0,
-   "tx": "🇮🇷🇮🇱‼️مشاور فیلد مارشال محسن رضایی: تصمیم قطعی گرفته شده که این بار حملات سنگینی به اسرائیل شود"
-  },
   {
    "t": 1793742724.0,
    "tx": "🇺🇸🇮🇷🇮🇱نیویورک تایمز: برخی مقامات آمریکایی معتقدند این حقه نتانياهو برای بازگشت به جنگ است!"
@@ -1493,6 +1489,10 @@
   {
    "t": 1793772906.0,
    "tx": "🔄 به‌روزرسانی\n🇺🇸⚡️ — فوری: پیش‌بینی می‌شود سوزان کالینز، سناتور جمهوری‌خواه مین، پس از ۳۰ سال کرسی خود را در سنا از دست بدهد.\n\nپیش‌بینی می‌شود تروی جکسون (دموکرات) پیروز انتخابات سنای مین شود و این کرسی را از حزب جمهوری‌خواه به دموکرات منتقل کند."
+  },
+  {
+   "t": 1793773192.0,
+   "tx": "🇺🇸⚡️ — پیش‌بینی می‌شود عبدال السید (دموکرات) در انتخابات سنای میشیگان پیروز شود و در برابر چالش مایک راجرز (جمهوری‌خواه) به پیروزی دست یابد."
   }
  ],
  "signals": [
@@ -2498,6 +2498,11 @@
   },
   {
    "t": 1793772367.7158296,
+   "s": 4,
+   "p": 60
+  },
+  {
+   "t": 1793773277.792174,
    "s": 4,
    "p": 60
   }
