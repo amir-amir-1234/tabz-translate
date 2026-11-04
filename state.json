@@ -10,7 +10,7 @@
    "last_id": 134000
   },
   "TelNews_Magazine": {
-   "last_id": 102772
+   "last_id": 102773
   },
   "NE_WG": {
    "last_id": 117015
@@ -720,7 +720,8 @@
     "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
     "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html",
     "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-united-states-trump.html",
-    "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html"
+    "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
+    "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html"
    ]
   },
   "Treasury": {
@@ -786,11 +787,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793763729.0,
-   "n": "president trump via truth social i wasn t on the ballot and if i was we would have won in a landslide",
-   "fa": "🇺🇸⚡️ — دونالد ترامپ در پیامی در شبکه اجتماعی توث سوشال: من در برگه رأی نبودم و اگر بودم، با اختلاف و به شکلی قاطع پیروز می‌شدیم!"
-  },
   {
    "t": 1793763888.0,
    "n": "iran is intensifying asymmetric attacks on commercial shipping in the strait of hormuz using underwater explosive drones rocket propelled grenades and limpet mines to disrupt oil exports and pressure washington amid stalled negotiations according to wsj",
@@ -1085,19 +1081,20 @@
    "t": 1793784961.0,
    "n": "نماینده قم دموکرات ها بدونن اگه مسیر جمهوری خواهان رو ادامه بدن به همون سرنوشت دچارشون میکنیم",
    "fa": "⭕️نماینده قم: دموکرات ها بدونن اگه مسیر جمهوری خواهان رو ادامه بدن به همون سرنوشت دچارشون میکنیم"
+  },
+  {
+   "t": 1793785708.0,
+   "n": "ترامپ درمورد ایران بررسی خواهیم کرد که آیا به حمله به ایران نیاز داریم یا خیر ما هنوز مأموریت خود در ایران را به پایان نرسانده ایم ممکن است این کار را انجام دهیم و شاید هم ندهیم اگر فرصتی برای یک اقدام علیه ایران ببینیم آن را انجام خواهیم داد",
+   "fa": "🔄 به‌روزرسانی ⭕️ترامپ درمورد ایران : بررسی خواهیم کرد که آیا به حمله به ایران نیاز داریم یا خیر. ما هنوز مأموریت خود در ایران را به پایان نرسانده‌ایم، ممکن است این کار را انجام دهیم و شاید هم ندهیم. اگر فرصتی برای یک اقدام علیه ایران ببینیم، آن را انجام خواهیم داد"
   }
  ],
  "usage": {
   "date": "2026-11-04",
-  "requests": 105
+  "requests": 106
  },
  "flip": 3208,
- "quote_n": 1584,
+ "quote_n": 1585,
  "feed": [
-  {
-   "t": 1793753320.0,
-   "tx": "🇺🇸⚡️ — جی‌دی فورد، نامزد حزب دموکرات، با شمارش ۵۴ درصد آرا، با اختلاف ۱۵ درصدی از ویکتوریا اسپارتز، نماینده راست افراطی جمهوری‌خواه، پیشتاز است."
-  },
   {
    "t": 1793753425.0,
    "tx": "🇺🇸⚡️ — با شمارش ۸۱ درصد آرا، انژی نیکسون (دموکرات) همچنان با حدود ۳۰ هزار رأی پیشتاز است.\n\nتصحیح - ۲۰ هزار رأی. اشتباه خوانده شده بود."
@@ -1493,6 +1490,10 @@
   {
    "t": 1793784961.0,
    "tx": "⭕️نماینده قم:\n\nدموکرات ها بدونن اگه مسیر جمهوری خواهان رو ادامه بدن به همون سرنوشت دچارشون میکنیم"
+  },
+  {
+   "t": 1793785708.0,
+   "tx": "🔄 به‌روزرسانی\n⭕️ترامپ درمورد ایران : بررسی خواهیم کرد که آیا به حمله به ایران نیاز داریم یا خیر. ما هنوز مأموریت خود در ایران را به پایان نرسانده‌ایم، ممکن است این کار را انجام دهیم و شاید هم ندهیم. اگر فرصتی برای یک اقدام علیه ایران ببینیم، آن را انجام خواهیم داد"
   }
  ],
  "signals": [
@@ -2545,19 +2546,24 @@
    "t": 1793785125.3148742,
    "s": 4,
    "p": 55
+  },
+  {
+   "t": 1793785876.6413827,
+   "s": 5,
+   "p": 85
   }
  ],
  "risk": {
   "base": 60,
-  "ts": 1793781109.9347887,
+  "ts": 1793785879.6453304,
   "attack": false,
-  "n": 209,
+  "n": 211,
   "shares": {
-   "1": 2,
+   "1": 1,
    "2": 4,
    "3": 12,
-   "4": 72,
-   "5": 12
+   "4": 71,
+   "5": 11
   }
  },
  "attack_ts": 1793739092.5270197,
