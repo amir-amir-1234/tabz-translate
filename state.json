@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110066
+   "last_id": 110069
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 134109
+   "last_id": 134110
   },
   "TelNews_Magazine": {
    "last_id": 102870
   },
   "NE_WG": {
-   "last_id": 117124
+   "last_id": 117125
   }
  },
  "fails": {},
@@ -170,7 +170,8 @@
     "https://www.foxnews.com/world/netanyahu-faces-coalition-showdown-rivals-maneuver-form-israels-next-government",
     "https://www.foxnews.com/world/bukeles-warning-haitian-gang-leaders-forces-finish-el-salvador",
     "https://www.foxnews.com/world/canadian-mother-daughter-dead-suspected-grizzly-bear-attack-hiking-trail",
-    "https://www.foxnews.com/world/us-marine-dies-training-incident-japan-military-base"
+    "https://www.foxnews.com/world/us-marine-dies-training-incident-japan-military-base",
+    "https://www.foxnews.com/world/multiple-flights-europe-diverted-bomb-threats"
    ]
   },
   "WSJ": {
@@ -1069,23 +1070,25 @@
    "t": 1793882106.0,
    "n": "president trump told aides on several occasions that he was unconcerned about the 2026 midterm elections placing greater importance on foreign policy and shaping his presidential legacy wsj reports trump had become frustrated with domestic political matters viewing them as less significant than international affairs and his long term legacy",
    "fa": "🇺🇸⚡️ — وال‌استریت ژورنال گزارش داد: ترامپ در چندین نوبت به دستیارانش گفته است که نگران انتخابات میان‌دوره‌ای ۲۰۲۶ نیست و اهمیت بیشتری برای سیاست خارجی و شکل‌دهی به میراث ریاست‌جمهوری خود قائل است. ترامپ از مسائل سیاسی داخلی ناامید شده و آن‌ها را کم‌اهمیت‌تر از امور بین‌المللی و میراث بلندمدت خود می‌داند."
+  },
+  {
+   "t": 1793882195.0,
+   "n": "irgc ground forces commander brigadier general mohammad karami inspected military units stationed on islands in the persian gulf including forces operating under the medina forward headquarters and declared their readiness to respond forcefully to any hostile action karami said iran s armed forces are guided by divine principles and recognize no power greater than god s",
+   "fa": "🇮🇷⚡️ — سردار محمد کرمی، فرمانده نیروی زمینی سپاه پاسداران، از یگان‌های مستقر در جزایر خلیج فارس، از جمله نیروهای تحت امر قرارگاه پیشرو مدینه بازدید کرد و آمادگی آن‌ها را برای پاسخ قاطع به هرگونه اقدام خصمانه اعلام نمود. سردار کرمی گفت نیروهای مسلح ایران با اصول الهی هدایت می‌شوند و هیچ قدرتی را بالاتر از قدرت خدا نمی‌شناسند."
+  },
+  {
+   "t": 1793882228.0,
+   "n": "الله کرم مشتاقی اصلا مهم نیست که زیرساخت های برق و آب و نفت رو بزنن مهم اینه ما بمونیم",
+   "fa": "‼️الله کرم مشتاقی: اصلا مهم نیست که زیرساخت‌های برق و آب و نفت رو بزنن 🔴مهم اینه ما بمونیم"
   }
  ],
  "usage": {
   "date": "2026-11-05",
-  "requests": 119
+  "requests": 123
  },
- "flip": 3333,
+ "flip": 3335,
  "quote_n": 1640,
  "feed": [
-  {
-   "t": 1793816630.0,
-   "tx": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره پست ونس در خصوص انتخابات میان‌دوره‌ای:\n\nمن می‌دانم جی‌دی ونس چه احساسی نسبت به آن (جنگ ایران) دارد. فکر می‌کنم پست او خوب بود."
-  },
-  {
-   "t": 1793816693.0,
-   "tx": "🇺🇸⚡️ — رئیس‌جمهور ترامپ درباره سال ۲۰۲۸:\nشاید هیچ‌کس نامزد نشود. نمی‌دانم چه کسی نامزد خواهد شد.\n\nاما می‌توانم به شما بگویم تا جایی که به آن جنگ [ایران] مربوط می‌شود، من هیچ کار متفاوتی انجام نمی‌دادم."
-  },
   {
    "t": 1793816774.0,
    "tx": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره زمان پایان جنگ ایران:\n\nهر زمان که من بخواهم [پایان می‌یابد]."
@@ -1477,14 +1480,17 @@
   {
    "t": 1793882106.0,
    "tx": "🇺🇸⚡️ — وال‌استریت ژورنال گزارش داد: ترامپ در چندین نوبت به دستیارانش گفته است که نگران انتخابات میان‌دوره‌ای ۲۰۲۶ نیست و اهمیت بیشتری برای سیاست خارجی و شکل‌دهی به میراث ریاست‌جمهوری خود قائل است. ترامپ از مسائل سیاسی داخلی ناامید شده و آن‌ها را کم‌اهمیت‌تر از امور بین‌المللی و میراث بلندمدت خود می‌داند."
+  },
+  {
+   "t": 1793882195.0,
+   "tx": "🇮🇷⚡️ — سردار محمد کرمی، فرمانده نیروی زمینی سپاه پاسداران، از یگان‌های مستقر در جزایر خلیج فارس، از جمله نیروهای تحت امر قرارگاه پیشرو مدینه بازدید کرد و آمادگی آن‌ها را برای پاسخ قاطع به هرگونه اقدام خصمانه اعلام نمود. سردار کرمی گفت نیروهای مسلح ایران با اصول الهی هدایت می‌شوند و هیچ قدرتی را بالاتر از قدرت خدا نمی‌شناسند."
+  },
+  {
+   "t": 1793882228.0,
+   "tx": "‼️الله کرم مشتاقی: اصلا مهم نیست که زیرساخت‌های برق و آب و نفت رو بزنن\n\n🔴مهم اینه ما بمونیم"
   }
  ],
  "signals": [
-  {
-   "t": 1793795771.0565214,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1793796375.1857445,
    "s": 3,
@@ -2212,6 +2218,16 @@
   },
   {
    "t": 1793882195.3619852,
+   "s": 3,
+   "p": 30
+  },
+  {
+   "t": 1793882501.9642394,
+   "s": 3,
+   "p": 40
+  },
+  {
+   "t": 1793882508.8155704,
    "s": 3,
    "p": 30
   }
