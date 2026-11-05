@@ -801,7 +801,8 @@
     "https://ofac.treasury.gov/recent-actions/20261027",
     "https://ofac.treasury.gov/recent-actions/20261028",
     "https://ofac.treasury.gov/recent-actions/20261029",
-    "https://ofac.treasury.gov/recent-actions/20261104"
+    "https://ofac.treasury.gov/recent-actions/20261104",
+    "https://ofac.treasury.gov/recent-actions/20261105"
    ]
   }
  },
@@ -1109,7 +1110,7 @@
  ],
  "usage": {
   "date": "2026-11-05",
-  "requests": 245
+  "requests": 249
  },
  "flip": 3377,
  "quote_n": 1654,
