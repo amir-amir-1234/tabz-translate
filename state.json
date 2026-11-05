@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 134095
+   "last_id": 134096
   },
   "TelNews_Magazine": {
    "last_id": 102858
   },
   "NE_WG": {
-   "last_id": 117108
+   "last_id": 117109
   }
  },
  "fails": {},
@@ -727,7 +727,8 @@
     "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
     "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
     "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
-    "https://www.nytimes.com/2026/11/05/world/middleeast/israel-herzog-prime-minister.html"
+    "https://www.nytimes.com/2026/11/05/world/middleeast/israel-herzog-prime-minister.html",
+    "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html"
    ]
   },
   "Treasury": {
@@ -987,19 +988,20 @@
    "t": 1793872556.0,
    "n": "محمد مرندی آمریکا و اسرائیل در حال آماده سازی یک حمله بزرگ هستند",
    "fa": "⭕️محمد مرندی: آمریکا و اسرائیل در حال آماده سازی یک حمله بزرگ هستند"
+  },
+  {
+   "t": 1793873083.0,
+   "n": "midterm election losses complicate trump s options on iran war the midterm results laid bare the deep unpopularity of the war of choice that president trump started and is now struggling to end",
+   "fa": "⭕️ پیچیدگی گزینه‌های ترامپ برای جنگ با ایران پس از نتایج انتخابات میان‌دوره‌ای به گزارش نیویورک تایمز، نتایج انتخابات میان‌دوره‌ای، عدم محبوبیت گسترده جنگی را که دونالد ترامپ، رئیس‌جمهور، آغاز کرده و اکنون برای پایان دادن به آن با دشواری مواجه است، آشکار کرد."
   }
  ],
  "usage": {
   "date": "2026-11-05",
-  "requests": 57
+  "requests": 62
  },
- "flip": 3313,
- "quote_n": 1628,
+ "flip": 3314,
+ "quote_n": 1629,
  "feed": [
-  {
-   "t": 1793809822.0,
-   "tx": "🔄 به‌روزرسانی\n‼️نفت برنت با شکست جمهوری‌خواهان دورقمی شد"
-  },
   {
    "t": 1793809903.0,
    "tx": "⭕️چاک شومر رهبر اکثریت دموکرات سنا:\n\nجنگ ایران باید تمام شود. باید تمام شود."
@@ -1395,6 +1397,10 @@
   {
    "t": 1793872556.0,
    "tx": "⭕️محمد مرندی: آمریکا و اسرائیل در حال آماده سازی یک حمله بزرگ هستند"
+  },
+  {
+   "t": 1793873083.0,
+   "tx": "⭕️ پیچیدگی گزینه‌های ترامپ برای جنگ با ایران پس از نتایج انتخابات میان‌دوره‌ای\n\nبه گزارش نیویورک تایمز، نتایج انتخابات میان‌دوره‌ای، عدم محبوبیت گسترده جنگی را که دونالد ترامپ، رئیس‌جمهور، آغاز کرده و اکنون برای پایان دادن به آن با دشواری مواجه است، آشکار کرد."
   }
  ],
  "signals": [
@@ -2067,6 +2073,11 @@
    "t": 1793872892.7083042,
    "s": 5,
    "p": 85
+  },
+  {
+   "t": 1793873553.6072843,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
