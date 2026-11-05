@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110087
+   "last_id": 110088
   },
   "khabarfouri": {
    "last_id": 569949
@@ -771,7 +771,8 @@
     "https://home.treasury.gov/news/press-releases/sb0680/",
     "https://home.treasury.gov/news/press-releases/sb0678/",
     "https://home.treasury.gov/news/press-releases/sb0679/",
-    "https://home.treasury.gov/news/press-releases/sb0681/"
+    "https://home.treasury.gov/news/press-releases/sb0681/",
+    "https://home.treasury.gov/news/press-releases/sb0682/"
    ]
   },
   "OFAC": {
@@ -1105,7 +1106,7 @@
  ],
  "usage": {
   "date": "2026-11-05",
-  "requests": 179
+  "requests": 183
  },
  "flip": 3360,
  "quote_n": 1647,
