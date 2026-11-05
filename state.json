@@ -733,7 +733,8 @@
     "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
     "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
     "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
-    "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html"
+    "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
+    "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html"
    ]
   },
   "Treasury": {
@@ -1108,7 +1109,7 @@
  ],
  "usage": {
   "date": "2026-11-05",
-  "requests": 227
+  "requests": 228
  },
  "flip": 3372,
  "quote_n": 1651,
@@ -1515,16 +1516,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793810791.8590019,
-   "s": 4,
-   "p": 75
-  },
-  {
-   "t": 1793810796.7027318,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1793811384.2568138,
    "s": 4,
