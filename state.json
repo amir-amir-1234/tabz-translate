@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110118
+   "last_id": 110119
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 102900
   },
   "NE_WG": {
-   "last_id": 117163
+   "last_id": 117165
   }
  },
  "fails": {},
@@ -172,7 +172,8 @@
     "https://www.foxnews.com/world/canadian-mother-daughter-dead-suspected-grizzly-bear-attack-hiking-trail",
     "https://www.foxnews.com/world/us-marine-dies-training-incident-japan-military-base",
     "https://www.foxnews.com/world/multiple-flights-europe-diverted-bomb-threats",
-    "https://www.foxnews.com/world/protests-erupt-across-france-left-wing-groups-call-mobilization"
+    "https://www.foxnews.com/world/protests-erupt-across-france-left-wing-groups-call-mobilization",
+    "https://www.foxnews.com/world/melania-trump-oleshky-ceasefire-spark-more-enduring-peace-ukraine-russia"
    ]
   },
   "WSJ": {
@@ -809,11 +810,6 @@
  },
  "recent": [
   {
-   "t": 1793882195.0,
-   "n": "irgc ground forces commander brigadier general mohammad karami inspected military units stationed on islands in the persian gulf including forces operating under the medina forward headquarters and declared their readiness to respond forcefully to any hostile action karami said iran s armed forces are guided by divine principles and recognize no power greater than god s",
-   "fa": "🇮🇷⚡️ — سردار محمد کرمی، فرمانده نیروی زمینی سپاه پاسداران، از یگان‌های مستقر در جزایر خلیج فارس، از جمله نیروهای تحت امر قرارگاه پیشرو مدینه بازدید کرد و آمادگی آن‌ها را برای پاسخ قاطع به هرگونه اقدام خصمانه اعلام نمود. سردار کرمی گفت نیروهای مسلح ایران با اصول الهی هدایت می‌شوند و هیچ قدرتی را بالاتر از قدرت خدا نمی‌شناسند."
-  },
-  {
    "t": 1793882228.0,
    "n": "الله کرم مشتاقی اصلا مهم نیست که زیرساخت های برق و آب و نفت رو بزنن مهم اینه ما بمونیم",
    "fa": "‼️الله کرم مشتاقی: اصلا مهم نیست که زیرساخت‌های برق و آب و نفت رو بزنن 🔴مهم اینه ما بمونیم"
@@ -1107,19 +1103,20 @@
    "t": 1793902635.0,
    "n": "هوکشتاین دیپلمات پیشین آمریکایی حمله به ایران برای این هفته برنامه ریزی شده بود و متحدان آمریکا از روز آن خبر داشتند اما ترامپ در آخرین لحظه حمله را برای یک یا دو هفته به تعویق انداخت",
    "fa": "⭕️هوکشتاین، دیپلمات پیشین آمریکایی: حمله به ایران برای این هفته برنامه‌ریزی شده بود و متحدان آمریکا از روز آن خبر داشتند، اما ترامپ در آخرین لحظه حمله را برای یک یا دو هفته به تعویق انداخت"
+  },
+  {
+   "t": 1793903142.0,
+   "n": "u s tech stocks had a significant selloff today nvda and tsla had the biggest losses this comes amidst a broader selloff in ai companies over recent days",
+   "fa": "🇺🇸⚡️ — سهام فناوری ایالات متحده امروز با فروش قابل توجهی مواجه شد؛ انویدیا و تسلا بیشترین کاهش را داشتند. این روند در میان موج گسترده‌تری از فروش سهام شرکت‌های هوش مصنوعی در روزهای اخیر رخ داده است."
   }
  ],
  "usage": {
   "date": "2026-11-05",
-  "requests": 273
+  "requests": 274
  },
- "flip": 3385,
+ "flip": 3386,
  "quote_n": 1658,
  "feed": [
-  {
-   "t": 1793860561.0,
-   "tx": "🇮🇷🇷🇺❌یک فروند هواپیمای دولتی ایران در حال پرواز به مقصد مسکو است.\n\nعلت این پرواز در حال حاضر مشخص نیست."
-  },
   {
    "t": 1793861941.0,
    "tx": "🚫شبکه فاکس‌نیوز به نقل از منابع آگاه گزارش داد که جی‌دی ونس، معاون رئیس‌جمهور آمریکا، به دنبال تشکیل ائتلافی جدید با جمهوری‌خواهانی است که از دونالد ترامپ ناراضی هستند."
@@ -1515,19 +1512,13 @@
   {
    "t": 1793902635.0,
    "tx": "⭕️هوکشتاین، دیپلمات پیشین آمریکایی:\n\nحمله به ایران برای این هفته برنامه‌ریزی شده بود و متحدان آمریکا از روز آن خبر داشتند، اما ترامپ در آخرین لحظه حمله را برای یک یا دو هفته به تعویق انداخت"
+  },
+  {
+   "t": 1793903142.0,
+   "tx": "🇺🇸⚡️ — سهام فناوری ایالات متحده امروز با فروش قابل توجهی مواجه شد؛ انویدیا و تسلا بیشترین کاهش را داشتند. این روند در میان موج گسترده‌تری از فروش سهام شرکت‌های هوش مصنوعی در روزهای اخیر رخ داده است."
   }
  ],
  "signals": [
-  {
-   "t": 1793816839.2709463,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1793816846.747082,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1793817088.1759322,
    "s": 4,
