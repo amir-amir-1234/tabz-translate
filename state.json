@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110079
+   "last_id": 110081
   },
   "khabarfouri": {
    "last_id": 569949
@@ -730,7 +730,8 @@
     "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
     "https://www.nytimes.com/2026/11/05/world/middleeast/israel-herzog-prime-minister.html",
     "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
-    "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html"
+    "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
+    "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html"
    ]
   },
   "Treasury": {
@@ -801,11 +802,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793841985.0,
-   "n": "vice president jd vance has led efforts within president trump s inner circle to secure a negotiated end to the war with iran privately criticizing israeli prime minister benjamin netanyahu as being wrong on everything regarding iran according to axios vance warned that the war s unpopularity would eventually cost republicans the midterm elections a concern shared by most senior trump administrati",
-   "fa": "🇺🇸🇮🇱🇮🇷⚡️ — به گزارش آکسیوس، جی‌دی ونس، معاون رئیس‌جمهور آمریکا، تلاش‌ها را در درون حلقه نزدیک به دونالد ترامپ برای دستیابی به راه حل مذاکره‌شده برای پایان دادن به جنگ با ایران رهبری کرده و در محافل خصوصی بنیامین نتانیاهو، نخست‌وزیر اسرائیل، را به خاطر مواضعش درباره ایران «در تمامی مسائل در اشتباه» دانسته است. ونس هشدار داده بود که عدم محبوبیت این جنگ در نهایت پیروزی جمهوری‌خواهان در انتخابات میان‌"
-  },
   {
    "t": 1793842102.0,
    "n": "the u s military is finalizing preparations for a potential resumption of major combat operations against iran including deploying additional military assets to the region axios reports meanwhile qatari mediators are attempting to secure u s and iranian approval for a draft agreement aimed at preventing renewed hostilities and potentially restarting direct negotiations within days diplomats and ad",
@@ -1100,19 +1096,20 @@
    "t": 1793883315.0,
    "n": "president trump told abc news that he has received calls from people expressing complaints about secretary of war pete hegseth i get these calls you know about him i don t understand why trump said",
    "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ به ای‌بی‌سی نیوز گفت که تماس‌هایی از افرادی دریافت کرده که درباره پیت هگست، وزیر جنگ، شکایت دارند. ترامپ گفت: «من این تماس‌ها را درباره او دریافت می‌کنم. نمی‌فهمم چرا.»"
+  },
+  {
+   "t": 1793883629.0,
+   "n": "former rep marjorie taylor greene israel has killed over 22 000 children in gaza these aren t terrorists we re talking about kids most americans are so absolutely horrified and disgusted that our tax dollars by the billions go to that country every single year that our military produced weapons and ammunition have been used to murder kids create over 70 000 orphans thousands of children with amput",
+   "fa": "🇺🇸🇮🇱🇵🇸⚡️ — مارجری تیلور گرین، نماینده پیشین مجلس آمریکا: اسرائیل بیش از ۲۲ هزار کودک را در غزه کشته است. این‌ها تروریست نیستند، ما درباره کودکان صحبت می‌کنیم. بیشتر آمریکایی‌ها از اینکه دلارهای مالیاتی ما، میلیاردها دلار، هر ساله به آن کشور می‌رود، وحشت‌زده و منزجر هستند. اینکه سلاح‌ها و مهمات تولیدشده توسط ارتش ما برای قتل کودکان، ایجاد بیش از ۷۰ هزار یتیم و هزاران کودک با دست و پای قطع‌شده استفا"
   }
  ],
  "usage": {
   "date": "2026-11-05",
-  "requests": 136
+  "requests": 140
  },
- "flip": 3342,
+ "flip": 3343,
  "quote_n": 1641,
  "feed": [
-  {
-   "t": 1793818441.0,
-   "tx": "🇺🇸🇮🇷دونالد ترامپ، رئیس‌جمهور آمریکا درباره ایران:\n\n💢«اکنون حجم عظیمی نفت از تنگه هرمز عبور می‌کند؛ اما در ابتدای کار، هیچ نفتی از آنجا عبور نمی‌کرد.»"
-  },
   {
    "t": 1793819017.0,
    "tx": "🇺🇸🇮🇷ترامپ، هنگامی که از او پرسیده شد که جنگ با ایران تا کی ادامه خواهد داشت: هر زمان که بخواهم!"
@@ -1508,6 +1505,10 @@
   {
    "t": 1793883315.0,
    "tx": "🇺🇸⚡️ — رئیس‌جمهور ترامپ به ای‌بی‌سی نیوز گفت که تماس‌هایی از افرادی دریافت کرده که درباره پیت هگست، وزیر جنگ، شکایت دارند.\n\nترامپ گفت: «من این تماس‌ها را درباره او دریافت می‌کنم. نمی‌فهمم چرا.»"
+  },
+  {
+   "t": 1793883629.0,
+   "tx": "🇺🇸🇮🇱🇵🇸⚡️ — مارجری تیلور گرین، نماینده پیشین مجلس آمریکا:\nاسرائیل بیش از ۲۲ هزار کودک را در غزه کشته است. این‌ها تروریست نیستند، ما درباره کودکان صحبت می‌کنیم.\n\nبیشتر آمریکایی‌ها از اینکه دلارهای مالیاتی ما، میلیاردها دلار، هر ساله به آن کشور می‌رود، وحشت‌زده و منزجر هستند.\n\nاینکه سلاح‌ها و مهمات تولیدشده توسط ارتش ما برای قتل کودکان، ایجاد بیش از ۷۰ هزار یتیم و هزاران کودک با دست و پای قطع‌شده استفاده شده است."
   }
  ],
  "signals": [
