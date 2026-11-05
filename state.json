@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110123
+   "last_id": 110124
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 134145
+   "last_id": 134146
   },
   "TelNews_Magazine": {
    "last_id": 102902
@@ -810,11 +810,6 @@
  },
  "recent": [
   {
-   "t": 1793883315.0,
-   "n": "president trump told abc news that he has received calls from people expressing complaints about secretary of war pete hegseth i get these calls you know about him i don t understand why trump said",
-   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ به ای‌بی‌سی نیوز گفت که تماس‌هایی از افرادی دریافت کرده که درباره پیت هگست، وزیر جنگ، شکایت دارند. ترامپ گفت: «من این تماس‌ها را درباره او دریافت می‌کنم. نمی‌فهمم چرا.»"
-  },
-  {
    "t": 1793883629.0,
    "n": "former rep marjorie taylor greene israel has killed over 22 000 children in gaza these aren t terrorists we re talking about kids most americans are so absolutely horrified and disgusted that our tax dollars by the billions go to that country every single year that our military produced weapons and ammunition have been used to murder kids create over 70 000 orphans thousands of children with amput",
    "fa": "🇺🇸🇮🇱🇵🇸⚡️ — مارجری تیلور گرین، نماینده پیشین مجلس آمریکا: اسرائیل بیش از ۲۲ هزار کودک را در غزه کشته است. این‌ها تروریست نیستند، ما درباره کودکان صحبت می‌کنیم. بیشتر آمریکایی‌ها از اینکه دلارهای مالیاتی ما، میلیاردها دلار، هر ساله به آن کشور می‌رود، وحشت‌زده و منزجر هستند. اینکه سلاح‌ها و مهمات تولیدشده توسط ارتش ما برای قتل کودکان، ایجاد بیش از ۷۰ هزار یتیم و هزاران کودک با دست و پای قطع‌شده استفا"
@@ -1108,19 +1103,20 @@
    "t": 1793904857.0,
    "n": "ایتامار بن گویر هیچ کس به اندازه چپ گرایان دورو دروغگو و خطرناک نیست",
    "fa": "⭕️ایتامار بن‌گویر: هیچ‌کس به اندازه چپ‌گرایان دورو، دروغگو و خطرناک نیست!"
+  },
+  {
+   "t": 1793905384.0,
+   "n": "court documents reviewed by ap show that the u s government held talks with iran on deporting iranians as the iran war waged on with some documents dated mid october saying the iranians would be deported to a third country the documents show continued collaboration between american and iranian officials on iranians being sent back to iran specifically in regards to travel documents and avenues for",
+   "fa": "🇺🇸🇮🇷⚡️ — اسناد دادگاهی که توسط آسوشیتدپرس بررسی شده نشان می‌دهد که دولت ایالات متحده در جریان جنگ ایران و آمریکا، درباره اخراج ایرانی‌ها گفتگو کرده است و برخی اسناد مربوط به اواسط ماه اکتبر حاکی از آن است که ایرانی‌ها به یک کشور ثالث دیپورت خواهند شد. اسناد نشان‌دهنده تداوم همکاری میان مقامات آمریکایی و ایرانی درباره بازگرداندن ایرانی‌ها به ایران، به‌ویژه در زمینه اسناد مسافرتی و «راه‌های اخراج» ا"
   }
  ],
  "usage": {
   "date": "2026-11-05",
-  "requests": 284
+  "requests": 285
  },
- "flip": 3389,
+ "flip": 3390,
  "quote_n": 1661,
  "feed": [
-  {
-   "t": 1793867521.0,
-   "tx": "❌کالابرگ مرحله جدید از فردا برای مشمولان دارای رقم پایانی کد ملی ۰، ۱ و ۲ و خانوارهای حمایتی و نیروهای مسلح شارژ می‌شود."
-  },
   {
    "t": 1793867957.0,
    "tx": "⭕️آسوشیتدپرس: ترامپ با وجود هزینه سیاسی جنگ ایران، همچنان از ادامه آن دفاع می‌کند."
@@ -1516,6 +1512,10 @@
   {
    "t": 1793904857.0,
    "tx": "⭕️ایتامار بن‌گویر: هیچ‌کس به اندازه چپ‌گرایان دورو، دروغگو و خطرناک نیست!"
+  },
+  {
+   "t": 1793905384.0,
+   "tx": "🇺🇸🇮🇷⚡️ — اسناد دادگاهی که توسط آسوشیتدپرس بررسی شده نشان می‌دهد که دولت ایالات متحده در جریان جنگ ایران و آمریکا، درباره اخراج ایرانی‌ها گفتگو کرده است و برخی اسناد مربوط به اواسط ماه اکتبر حاکی از آن است که ایرانی‌ها به یک کشور ثالث دیپورت خواهند شد. اسناد نشان‌دهنده تداوم همکاری میان مقامات آمریکایی و ایرانی درباره بازگرداندن ایرانی‌ها به ایران، به‌ویژه در زمینه اسناد مسافرتی و «راه‌های اخراج» است."
   }
  ],
  "signals": [
@@ -2278,6 +2278,11 @@
    "t": 1793904995.3352847,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1793905566.7596357,
+   "s": 2,
+   "p": 40
   }
  ],
  "risk": {
