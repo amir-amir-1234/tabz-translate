@@ -798,16 +798,6 @@
  },
  "recent": [
   {
-   "t": 1793816630.0,
-   "n": "president trump on vance s post regarding the midterms i know how jd vance feels about it the iran war i think his post was good",
-   "fa": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره پست ونس در خصوص انتخابات میان‌دوره‌ای: من می‌دانم جی‌دی ونس چه احساسی نسبت به آن (جنگ ایران) دارد. فکر می‌کنم پست او خوب بود."
-  },
-  {
-   "t": 1793816693.0,
-   "n": "president trump on 2028 maybe nobody s going to run i don t know who s going to run but i can tell you that as far as that iran war is concerned i would have done nothing different",
-   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ درباره سال ۲۰۲۸: شاید هیچ‌کس نامزد نشود. نمی‌دانم چه کسی نامزد خواهد شد. اما می‌توانم به شما بگویم تا جایی که به آن جنگ [ایران] مربوط می‌شود، من هیچ کار متفاوتی انجام نمی‌دادم."
-  },
-  {
    "t": 1793816774.0,
    "n": "president trump on when the iran war will end whenever i want it to end",
    "fa": "🇺🇸🇮🇷⚡️ — رئیس‌جمهور ترامپ درباره زمان پایان جنگ ایران: هر زمان که من بخواهم [پایان می‌یابد]."
@@ -1502,11 +1492,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793773277.792174,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1793773881.5921702,
    "s": 4,
