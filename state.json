@@ -10,10 +10,10 @@
    "last_id": 134245
   },
   "TelNews_Magazine": {
-   "last_id": 102993
+   "last_id": 102994
   },
   "NE_WG": {
-   "last_id": 117282
+   "last_id": 117283
   }
  },
  "fails": {},
@@ -815,11 +815,6 @@
  },
  "recent": [
   {
-   "t": 1793966378.0,
-   "n": "معاون دبیر شورای عالی امنیت ملی هدف اصلی سفر سرلشکر رضایی به روسیه ارائه پیام رهبری به رئیس جمهور روسیه بود",
-   "fa": "‼️معاون دبیر شورای عالی امنیت ملی: هدف اصلی سفر سرلشکر رضایی به روسیه، ارائه پیام رهبری به رئیس جمهور روسیه بود"
-  },
-  {
    "t": 1793967046.0,
    "n": "ukmto has received a late report from yesterday of an explosion involving a tanker approximately 16 nautical miles east of khasab oman in the strait of hormuz the explosion occurred at the waterline on the tanker s port side while it was sailing outbound through the strait all crew members are safe and accounted for and the tanker remains operational continuing its voyage under its own power",
    "fa": "🇮🇷🇴🇲⚡️ — سازمان عملیات تجارت دریایی بریتانیا (UKMTO) گزارش تاخیری مربوط به روز گذشته درباره وقوع انفجار در یک فروند نفتکش در حدود ۱۶ مایلی دریایی شرق خصب، عمان، در تنگه هرمز دریافت کرده است. این انفجار در خط آبخور در سمت چپ (بندر) نفتکش هنگام حرکت به سمت خارج از تنگه رخ داده است. تمامی خدمه در سلامت کامل هستند و نفتکش همچنان عملیاتی بوده و با نیروی خود به مسیرش ادامه می‌دهد."
@@ -1113,19 +1108,20 @@
    "t": 1793993760.6584163,
    "n": "iran related designations specially designated nationals list updates 1380079 bc ltd a k a amin exchange vancouver a k a sarafi amin 104 1700 marine drive north vancouver british columbia v7p 2z8 canada montreal quebec canada website aminexchange ca secondary sanctions risk see section 2 of e o 13902 organization established date 26 sep 2022 organization type other monetary intermediation digital ",
    "fa": "🚨 اعلام به‌روزرسانی‌های فهرست اتباع ویژه تعیین‌شده مرتبط با ایران توسط دفتر کنترل دارایی‌های خارجی آمریکا به گزارش دفتر کنترل دارایی‌های خارجی آمریکا (اوفک)، به‌روزرسانی‌هایی در فهرست اتباع ویژه تعیین‌شده انجام شده است که شامل موارد مرتبط با ایران می‌شود. شرکت 1380079 BC LTD (همچنین شناخته شده با نام‌های AMIN EXCHANGE VANCOUVER و SARAFI AMIN) واقع در 104-1700 Marine Drive, North Vancouver, British"
+  },
+  {
+   "t": 1793993822.0,
+   "n": "ادعای فعال رسانه ای ایرانی اگر آمریکا به کوه کلنگ حمله هسته ای کند ایران بمب اتمی خود را آزمایش خواهد کرد",
+   "fa": "‼️ادعای فعال رسانه‌ای ایرانی: اگر آمریکا به کوه کلنگ حمله هسته‌ای کند، ایران بمب اتمی خود را آزمایش خواهد کرد"
   }
  ],
  "usage": {
   "date": "2026-11-06",
-  "requests": 147
+  "requests": 148
  },
- "flip": 3490,
+ "flip": 3491,
  "quote_n": 1715,
  "feed": [
-  {
-   "t": 1793945461.0,
-   "tx": "🇺🇸📲 حمله دوباره ترامپ به دموکرات‌ها پس از سقوط بازار سهام آمریکا: خودتان را مقصر بدانید!"
-  },
   {
    "t": 1793946176.0,
    "tx": "🚫یک فروند هواپیمای سوخت‌رسان هوایی KC-46A پگاسوس نیروی هوایی آمریکا با شماره بدنه 21-46091، در استان شرقی عربستان سعودی و با اسکورت جنگنده‌ها مأموریت انجام داد.\n\nهدف اصلی این مأموریت، حفاظت از زیرساخت‌های حیاتی انرژی، به‌ویژه تأسیسات نفت و گاز عنوان شده است.\n\nاین هواپیما پس از پایان مأموریت، به پایگاه هوایی العدید در قطر بازگشت."
@@ -1521,19 +1517,13 @@
   {
    "t": 1793993760.6584163,
    "tx": "🚨 اعلام به‌روزرسانی‌های فهرست اتباع ویژه تعیین‌شده مرتبط با ایران توسط دفتر کنترل دارایی‌های خارجی آمریکا\n\nبه گزارش دفتر کنترل دارایی‌های خارجی آمریکا (اوفک)، به‌روزرسانی‌هایی در فهرست اتباع ویژه تعیین‌شده انجام شده است که شامل موارد مرتبط با ایران می‌شود.\n\nشرکت 1380079 BC LTD (همچنین شناخته شده با نام‌های AMIN EXCHANGE VANCOUVER و SARAFI AMIN) واقع در 104-1700 Marine Drive, North Vancouver, British Columbia V7P 2Z8, Canada؛ Montreal, Quebec, Canada؛ وبسایت aminexchange.ca؛ ریسک تحریم‌های ثانویه: بخش 2 فرمان اجرایی 13902؛ تاریخ تأسیس سازمان 26 سپتامبر 2022؛ نوع سازمان: سایر واسطه‌گری‌های پولی؛ آدرس ارز دیجیتال - TRX TLyRLCNwBhaXkYak1bTFUYTj72crbgN5Vy؛ آدرس‌های جایگزین ارز دیجیتال - TRX THauYJJEaFGLpEknoKnYmXmT5TCeQGKjDE و TRX TJT3JZKJWVHVkKRKSmWmg5UYHhAqBM7mfP؛ شماره ثبت کسب‌وکار 700268402 (کانادا)؛ شماره ثبت BC1380079 (کانادا)؛ شماره ثبت MSB M23258996 (کانادا) تحت فرمان اجرایی 13902 مربوط به ایران.\n\nشرکت 2397639 ONTARIO LTD (همچنین شناخته شده با نام FARAH EXCHANGE) واقع در 6039 Yonge St, North York, Ontario M2M 3W2, Canada؛ ریسک تحریم‌های ثانویه: بخش 2 فرمان اجرایی 13902؛ تاریخ تأسیس سازمان 27 نوامبر 2013؛ نوع سازمان: سایر واسطه‌گری‌های پولی؛ آدرس ارز دیجیتال - TRX TW5NEaaoPHXC1rt5PaYgG474gQ49oiZ2F5؛ شماره ثبت 2397639 (کانادا)؛ شماره ثبت MSB M19648033 (کانادا) تحت فرمان اجرایی 13902 مربوط به ایران.\n\nشرکت B GALAXY INC (همچنین شناخته شده با نام‌های C EXCHANEG، CRYPTOYAL و C EXCHANGE) واقع در 6118 Yonge Street, Unit B, North York, Ontario M2M 3W7, Canada؛ 3118 Yonge Street, Unit B, North York, Ontario M2M 3W7, Canada؛ 7181 Yonge Street, Unit 4, Thornhill, Ontario L3T 0C7, Canada؛ وبسایت cryptoyal.net؛ ریسک تحریم‌های ثانویه: بخش 2 فرمان اجرایی 13902؛ تاریخ تأسیس سازمان 13 اوت 2019؛ نوع سازمان: سایر واسطه‌گری‌های پولی؛ شماره ثبت 2711268 (کانادا)؛ شماره ثبت MSB N300001022 (کانادا) تحت فرمان اجرایی 13902 مربوط به ایران.\n\nشرکت CCC INC (همچنین شناخته شده با نام‌های CCURRENCY EXCHANGE، CRYPTOYAL، SARAFI C، C EXCHANGE، PARSIS EXCHANGE، SALAM EXCHANGE و SARAFI CAPITAL) واقع در 6118 Yonge Street, Unit B, North York, Ontario M2M 3W7, Canada؛ وبسایت sarafic.com؛ وبسایت جایگزین cryptoyal.net؛ ریسک تحریم‌های ثانویه: بخش 2 فرمان اجرایی 13902؛ تاریخ تأسیس سازمان 22 مه 2020؛ نوع سازمان: سایر واسطه‌گری‌های پولی؛ آدرس ارز دیجیتال - TRX TCreRMzGspdHNEkqkasejS6xTzqXNkYJJZ؛ شماره ثبت 2756992 (کانادا)؛ شماره ثبت MSB N300000785 (کانادا) تحت فرمان اجرایی 13902 مربوط به ایران.\n\nشرکت DARVISH EXCHANGE (همچنین شناخته شده با نام‌های KANATA MD INC و CANADA EXCHANGE) واقع در 10144 Yonge Street, Richmond Hill, Ontario L4C 1T6, Canada؛ 6093 Yonge Street, North York, Ontario M2M 3W2, Canada؛ وبسایت darvishexchange.com؛ ریسک تحریم‌های ثانویه: بخش 2 فرمان اجرایی 13902؛ تاریخ تأسیس سازمان 3 مه 2022؛ نوع سازمان: سایر واسطه‌گری‌های پولی؛ شماره ثبت کسب‌وکار 729493502 (کانادا)؛ شماره ثبت 1400801-4 (کانادا)؛ شماره ثبت MSB N300000169 (کانادا) تحت فرمان اجرایی 13902 مربوط به ایران.\n\nشرکت DIVERSE TRADE INC (همچنین شناخته شده با نام‌های MILLION EXCHANGE، MILLION MONEY EXCHANGE و MILLIONEX) واقع در 2-10097 Yonge St, Richmond Hill, Ontario L4C 1T7, Canada؛ 65 Wellesley Street East, Unit 200, Toronto, Ontario M4Y 1G7, Canada؛ 1405 Blvd De Maisonneuve Ouest, Montreal, Quebec H3G 1M6, Canada؛ وبسایت millionex.ca؛ ریسک تحریم‌های ثانویه: بخش 2 فرمان اجرایی 13902؛ تاریخ تأسیس سازمان 7 مه 2018؛ نوع سازمان: سایر واسطه‌گری‌های پولی؛ آدرس ارز دیجیتال - TRX TJHZswisiMgjioAVpmpMSWXCeQGCPjcTMK؛ شماره ثبت کسب‌وکار 755878287 (کانادا)؛ شماره ثبت 2634119 (کانادا)؛ شماره ثبت MSB M19315656 (کانادا) تحت فرمان اجرایی 13902 مربوط به ایران.\n\nشرکت NIA NATIONS CURRENCY LTD (همچنین شناخته شده با نام‌های NIA EXCHANGE، NIA NATIONS CURRENCY EXCHANGE و NIA NATIONS EXCHANGE) واقع در 806 W Hastings St, Vancouver, British Columbia V6C 3L3, Canada؛ 2-987 Marine Dr, North Vancouver, British Columbia V7P 1S4, Canada؛ 905-158 13th St W, North Vancouver, British Columbia V7M 0A7, Canada؛ وبسایت nnce.ca؛ ریسک تحریم‌های ثانویه: بخش 2 فرمان اجرایی 13902؛ تاریخ تأسیس سازمان 9 اکتبر 2019؛ نوع سازمان: سایر واسطه‌گری‌های پولی؛ شماره ثبت کسب‌وکار 766820930 (کانادا)؛ شماره ثبت BC1226308 (کانادا)؛ شماره ثبت MSB M21153461 (کانادا) تحت فرمان اجرایی 13902 مربوط به ایران.\n\nشرکت TOP PC TECHNICIAN INC (همچنین شناخته شده با نام‌های 2840711 ONTARIO INC، AMIN EXCHANGE TORONTO و AMINEX TORONTO) واقع در A1-6174 Yonge Street, North York, Ontario M2M 3X1, Canada؛ 7181 Yonge St, Unit 164, Thornhill, Ontario L3T 0C7, Canada؛ ریسک تحریم‌های ثانویه: بخش 2 فرمان اجرایی 13902؛ تاریخ تأسیس سازمان 17 مه 2021؛ نوع سازمان: سایر واسطه‌گری‌های پولی؛ شماره ثبت 2840711 (کانادا)؛ شماره ثبت MSB M21487848 (کانادا) تحت فرمان اجرایی 13902 مربوط به ایران."
+  },
+  {
+   "t": 1793993822.0,
+   "tx": "‼️ادعای فعال رسانه‌ای ایرانی: اگر آمریکا به کوه کلنگ حمله هسته‌ای کند، ایران بمب اتمی خود را آزمایش خواهد کرد"
   }
  ],
  "signals": [
-  {
-   "t": 1793907376.193254,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1793907379.6337564,
-   "s": 4,
-   "p": 70
-  },
   {
    "t": 1793907677.1169946,
    "s": 4,
@@ -2248,6 +2238,11 @@
    "t": 1793993787.0870283,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1793994077.3939333,
+   "s": 5,
+   "p": 75
   }
  ],
  "risk": {
