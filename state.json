@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110206
+   "last_id": 110207
   },
   "khabarfouri": {
    "last_id": 569949
@@ -812,16 +812,6 @@
  },
  "recent": [
   {
-   "t": 1793924470.0,
-   "n": "axios citing two u s officials reports that president trump met his top several security advisers to discuss iran as part of his weekly intelligence briefing we earlier reported on several cars arriving to the white house s west wing including one carrying chairman of the joint chiefs of staff general dan caine a u s official reports that u s central command is finalizing preparations to resume fu",
-   "fa": "🇺🇸🇮🇷⚡️ — آکسیوس به نقل از دو مقام آمریکایی گزارش داد که رئیس‌جمهور ترامپ در چارچوب نشست هفتگی اطلاعاتی خود با چند تن از مشاوران ارشد امنیت ملی خود درباره ایران دیدار کرده است؛ ما پیش‌تر درباره ورود چند خودرو به بال غربی کاخ سفید از جمله خودروی حامل ژنرال دن کین، رئیس ستاد مشترک ارتش، گزارشی منتشر کرده بودیم. یک مقام آمریکایی گزارش می‌دهد که فرماندهی مرکزی ایالات متحده (سنتکام) در حال نهایی کردن آم"
-  },
-  {
-   "t": 1793924616.0,
-   "n": "axios also revealed additional details on the pre nuclear deal agreement being drafted by qatar regional sources tell axios that on the first day centcom would lift its blockade on iranian ports and release some iranian frozen funds in exchange for iran officially inviting the iaea to inspect its nuclear sites bombed by israel and the united states earlier in the conflict the strait of hormuz woul",
-   "fa": "🇺🇸🇮🇷🇶🇦⚡️ — پایگاه خبری آکسیوس همچنین جزئیات جدیدی از توافق پیش از توافق هسته‌ای که توسط قطر در حال تدوین است را فاش کرد. منابع منطقه‌ای به آکسیوس گفتند که در روز نخست، سنتکام محاصره بنادر ایران را لغو کرده و برخی از منابع مالی مسدود شده ایران را آزاد خواهد کرد، در ازای آن که ایران رسماً از آژانس بین‌المللی انرژی اتمی دعوت کند تا از تأسیسات هسته‌ای خود که پیش‌تر در جریان درگیری‌ها توسط اسرائیل و ای"
-  },
-  {
    "t": 1793934000.0,
    "n": "gulf airports built to connect the world are now in the crosshairs the region s renowned aviation hubs are a few hours from much of the world s population but even closer to iran s missiles",
    "fa": "🔴 فرودگاه‌های منطقه خلیج فارس در تیررس موشک‌های ایران قرار دارند به گزارش وال‌استریت ژورنال هاب‌های هوانوردی مشهور منطقه که برای اتصال جهان ساخته شده‌اند، اکنون در تیررس قرار گرفته‌اند. این هاب‌های هوانوردی منطقه فاصله کمی تا بیشتر جمعیت جهان دارند، اما حتی به موشک‌های ایران نزدیک‌تر هستند."
@@ -1054,7 +1044,7 @@
  ],
  "usage": {
   "date": "2026-11-06",
-  "requests": 70
+  "requests": 72
  },
  "flip": 3453,
  "quote_n": 1691,
@@ -1461,11 +1451,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793881301.4397695,
-   "s": 4,
-   "p": 70
-  },
   {
    "t": 1793882195.3619852,
    "s": 3,
