@@ -10,10 +10,10 @@
    "last_id": 134226
   },
   "TelNews_Magazine": {
-   "last_id": 102984
+   "last_id": 102985
   },
   "NE_WG": {
-   "last_id": 117259
+   "last_id": 117260
   }
  },
  "fails": {},
@@ -779,7 +779,8 @@
     "https://home.treasury.gov/news/press-releases/sb0679/",
     "https://home.treasury.gov/news/press-releases/sb0681/",
     "https://home.treasury.gov/news/press-releases/sb0682/",
-    "https://home.treasury.gov/news/press-releases/sb0683/"
+    "https://home.treasury.gov/news/press-releases/sb0683/",
+    "https://home.treasury.gov/news/press-releases/sb0684/"
    ]
   },
   "OFAC": {
@@ -1114,7 +1115,7 @@
  ],
  "usage": {
   "date": "2026-11-06",
-  "requests": 121
+  "requests": 122
  },
  "flip": 3477,
  "quote_n": 1708,
@@ -1521,11 +1522,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793899890.1464727,
-   "s": 2,
-   "p": 70
-  },
   {
    "t": 1793900802.8783991,
    "s": 4,
