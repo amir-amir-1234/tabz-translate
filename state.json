@@ -736,7 +736,8 @@
     "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
     "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
     "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
-    "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html"
+    "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
+    "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html"
    ]
   },
   "Treasury": {
@@ -810,11 +811,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793916757.0,
-   "n": "اظهارات عجیب معاون اجرائی پزشکیان از امام حسین یاد گرفتیم که مقابل زور نباید ایستاد",
-   "fa": "⭕️اظهارات عجیب معاون اجرائی پزشکیان: از امام حسین یاد گرفتیم که مقابل زور نباید ایستاد"
-  },
   {
    "t": 1793917029.0,
    "n": "گزارش ها از هدف قرار گرفتن یک مخزن نفتی آرامکو در جده واقع در غرب عربستان سعودی توسط نیروهای حوثی حکایت دارد",
@@ -1038,7 +1034,7 @@
  ],
  "usage": {
   "date": "2026-11-06",
-  "requests": 51
+  "requests": 52
  },
  "flip": 3441,
  "quote_n": 1686,
@@ -1445,11 +1441,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793873553.6072843,
-   "s": 3,
-   "p": 50
-  },
   {
    "t": 1793874088.3552804,
    "s": 3,
