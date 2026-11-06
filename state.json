@@ -737,7 +737,8 @@
     "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
     "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
     "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
-    "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html"
+    "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
+    "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html"
    ]
   },
   "Treasury": {
@@ -812,11 +813,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1793956795.0,
-   "n": "ولایتی یا امنیت جمعی محقق می شود یا همه ناامنی جمعی را تجربه می کنند",
-   "fa": "📲ولایتی: یا امنیت جمعی محقق می‌شود یا همه ناامنی جمعی را تجربه می‌کنند"
-  },
   {
    "t": 1793957501.0,
    "n": "شبکه ۱۴ اسرائیل گزارش داده است که پیش از آغاز جنگ ۴۰ روزه به طور میانگین روزانه ۵ پرواز ترابری نظامی آمریکا به منطقه انجام می شد اما این تعداد اکنون به حدود ۶۷ پرواز در روز رسیده است",
@@ -1111,19 +1107,20 @@
    "t": 1793986942.0,
    "n": "نیویورک تایمز مطالبه ایرانیان برای تولید سلاح هسته ای هر روز بیشتر می شود",
    "fa": "‼️نیویورک تایمز: مطالبه ایرانیان برای تولید سلاح هسته‌ای هر روز بیشتر می‌شود"
+  },
+  {
+   "t": 1793987402.0,
+   "n": "after israel s election who will get the first chance to form a government president isaac herzog is set to task a candidate with trying to form a government following two days of talks with party leaders and officials after an inconclusive election",
+   "fa": "⭕️ اسحاق هرتزوگ مامور تشکیل دولت جدید در اسرائیل می‌شود به گزارش نیویورک تایمز رئیس‌جمهور ایسحاق هرتزوگ آماده می‌شود تا پس از دو روز گفتگو با رهبران حزب و مقامات به دنبال یک انتخابات بی‌نتیجه، وظیفه تلاش برای تشکیل دولت را به یک نامزد محول کند."
   }
  ],
  "usage": {
   "date": "2026-11-06",
-  "requests": 124
+  "requests": 126
  },
- "flip": 3479,
- "quote_n": 1709,
+ "flip": 3480,
+ "quote_n": 1710,
  "feed": [
-  {
-   "t": 1793916757.0,
-   "tx": "⭕️اظهارات عجیب معاون اجرائی پزشکیان: از امام حسین یاد گرفتیم که مقابل زور نباید ایستاد"
-  },
   {
    "t": 1793917029.0,
    "tx": "🚨گزارش‌ها از هدف قرار گرفتن یک مخزن نفتی آرامکو در جده، واقع در غرب عربستان سعودی، توسط نیروهای حوثی حکایت دارد"
@@ -1519,14 +1516,13 @@
   {
    "t": 1793986942.0,
    "tx": "‼️نیویورک تایمز: مطالبه ایرانیان برای تولید سلاح هسته‌ای هر روز بیشتر می‌شود"
+  },
+  {
+   "t": 1793987402.0,
+   "tx": "⭕️ اسحاق هرتزوگ مامور تشکیل دولت جدید در اسرائیل می‌شود\n\nبه گزارش نیویورک تایمز رئیس‌جمهور ایسحاق هرتزوگ آماده می‌شود تا پس از دو روز گفتگو با رهبران حزب و مقامات به دنبال یک انتخابات بی‌نتیجه، وظیفه تلاش برای تشکیل دولت را به یک نامزد محول کند."
   }
  ],
  "signals": [
-  {
-   "t": 1793901077.7293212,
-   "s": 4,
-   "p": 65
-  },
   {
    "t": 1793901370.9216418,
    "s": 5,
@@ -2256,6 +2252,11 @@
    "t": 1793987174.4099948,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1793987772.075365,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
