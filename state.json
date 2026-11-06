@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110237
+   "last_id": 110238
   },
   "khabarfouri": {
    "last_id": 569949
@@ -815,11 +815,6 @@
  },
  "recent": [
   {
-   "t": 1793967046.0,
-   "n": "ukmto has received a late report from yesterday of an explosion involving a tanker approximately 16 nautical miles east of khasab oman in the strait of hormuz the explosion occurred at the waterline on the tanker s port side while it was sailing outbound through the strait all crew members are safe and accounted for and the tanker remains operational continuing its voyage under its own power",
-   "fa": "🇮🇷🇴🇲⚡️ — سازمان عملیات تجارت دریایی بریتانیا (UKMTO) گزارش تاخیری مربوط به روز گذشته درباره وقوع انفجار در یک فروند نفتکش در حدود ۱۶ مایلی دریایی شرق خصب، عمان، در تنگه هرمز دریافت کرده است. این انفجار در خط آبخور در سمت چپ (بندر) نفتکش هنگام حرکت به سمت خارج از تنگه رخ داده است. تمامی خدمه در سلامت کامل هستند و نفتکش همچنان عملیاتی بوده و با نیروی خود به مسیرش ادامه می‌دهد."
-  },
-  {
    "t": 1793968902.0,
    "n": "the u s and iran are nearing a possible breakthrough in negotiations to end the war with tehran signaling a willingness to discuss previously excluded aspects of its nuclear program according to bloomberg citing a diplomat with knowledge of the talks iran is still reviewing proposals presented by qatar the main mediator",
    "fa": "🇺🇸🇮🇷🇶🇦⚡️ — به گزارش بلومبرگ به نقل از یک دیپلمات مطلع از مذاکرات، ایالات متحده و ایران به یک توافق احتمالی برای پایان دادن به جنگ نزدیک می‌شوند و تهران تمایل خود را برای بحث درباره ابعاد قبلاً مستثنی‌شده برنامه هسته‌ای خود نشان داده است. ایران همچنان در حال بررسی پیشنهادهای ارائه شده توسط قطر، میانجی اصلی، است."
@@ -1113,19 +1108,20 @@
    "t": 1793993822.0,
    "n": "ادعای فعال رسانه ای ایرانی اگر آمریکا به کوه کلنگ حمله هسته ای کند ایران بمب اتمی خود را آزمایش خواهد کرد",
    "fa": "‼️ادعای فعال رسانه‌ای ایرانی: اگر آمریکا به کوه کلنگ حمله هسته‌ای کند، ایران بمب اتمی خود را آزمایش خواهد کرد"
+  },
+  {
+   "t": 1793994103.0,
+   "n": "u s department of the treasury announces sanctions against eight canada registered financial and currency exchange businesses adding them to the sdn list for alleged ties with iran",
+   "fa": "🇺🇸🇨🇦🇮🇷⚡️ — وزارت خزانه‌داری ایالات متحده تحریم‌هایی را علیه هشت مؤسسه مالی و صرافی ثبت‌شده در کانادا اعلام کرد و آن‌ها را به اتهام ارتباط با ایران به فهرست SDN افزود."
   }
  ],
  "usage": {
   "date": "2026-11-06",
-  "requests": 148
+  "requests": 149
  },
  "flip": 3491,
- "quote_n": 1715,
+ "quote_n": 1716,
  "feed": [
-  {
-   "t": 1793946176.0,
-   "tx": "🚫یک فروند هواپیمای سوخت‌رسان هوایی KC-46A پگاسوس نیروی هوایی آمریکا با شماره بدنه 21-46091، در استان شرقی عربستان سعودی و با اسکورت جنگنده‌ها مأموریت انجام داد.\n\nهدف اصلی این مأموریت، حفاظت از زیرساخت‌های حیاتی انرژی، به‌ویژه تأسیسات نفت و گاز عنوان شده است.\n\nاین هواپیما پس از پایان مأموریت، به پایگاه هوایی العدید در قطر بازگشت."
-  },
   {
    "t": 1793946361.0,
    "tx": "⭕️نیویورک تایمز: ضربه سیاسی ناشی از انتخابات، تصمیم ترامپ برای حمله مجدد به ایران را پیچیده‌تر کرد"
@@ -1521,14 +1517,13 @@
   {
    "t": 1793993822.0,
    "tx": "‼️ادعای فعال رسانه‌ای ایرانی: اگر آمریکا به کوه کلنگ حمله هسته‌ای کند، ایران بمب اتمی خود را آزمایش خواهد کرد"
+  },
+  {
+   "t": 1793994103.0,
+   "tx": "🇺🇸🇨🇦🇮🇷⚡️ — وزارت خزانه‌داری ایالات متحده تحریم‌هایی را علیه هشت مؤسسه مالی و صرافی ثبت‌شده در کانادا اعلام کرد و آن‌ها را به اتهام ارتباط با ایران به فهرست SDN افزود."
   }
  ],
  "signals": [
-  {
-   "t": 1793907677.1169946,
-   "s": 4,
-   "p": 75
-  },
   {
    "t": 1793908885.7608218,
    "s": 2,
@@ -2243,6 +2238,11 @@
    "t": 1793994077.3939333,
    "s": 5,
    "p": 75
+  },
+  {
+   "t": 1793994365.350546,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
