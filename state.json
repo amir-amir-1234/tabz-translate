@@ -10,7 +10,7 @@
    "last_id": 134203
   },
   "TelNews_Magazine": {
-   "last_id": 102954
+   "last_id": 102955
   },
   "NE_WG": {
    "last_id": 117228
@@ -812,11 +812,6 @@
  },
  "recent": [
   {
-   "t": 1793923643.0,
-   "n": "president trump via truth social the stock market suffered one of the worst days in history based on the results of the election such a sad thing to watch it took so much work to get us to a level that no one has ever seen before and then this your 401 k s have therefore dropped remember it wasn t republicans it was dumocrats do not fear however we will soon one way or the other be bigger and stro",
-   "fa": "🇺🇸⚡️ — پرزیدنت ترامپ در توجیه‌سوشیال: بازار سهام بر اساس نتایج انتخابات یکی از بدترین روزهای تاریخ خود را تجربه کرد. تماشای چنین چیزی بسیار غم‌انگیز است! زحمت زیادی کشیده شد تا ما را به سطحی برسانیم که هیچ‌کس تا به حال ندیده بود، و بعد این اتفاق افتاد. بنابراین حساب‌های بازنشستگی شما کاهش یافته است. به یاد داشته باشید، این کار جمهوری‌خواهان نبود، بلکه دموکرات‌ها بودند. با این حال نترسید، ما به زود"
-  },
-  {
    "t": 1793924470.0,
    "n": "axios citing two u s officials reports that president trump met his top several security advisers to discuss iran as part of his weekly intelligence briefing we earlier reported on several cars arriving to the white house s west wing including one carrying chairman of the joint chiefs of staff general dan caine a u s official reports that u s central command is finalizing preparations to resume fu",
    "fa": "🇺🇸🇮🇷⚡️ — آکسیوس به نقل از دو مقام آمریکایی گزارش داد که رئیس‌جمهور ترامپ در چارچوب نشست هفتگی اطلاعاتی خود با چند تن از مشاوران ارشد امنیت ملی خود درباره ایران دیدار کرده است؛ ما پیش‌تر درباره ورود چند خودرو به بال غربی کاخ سفید از جمله خودروی حامل ژنرال دن کین، رئیس ستاد مشترک ارتش، گزارشی منتشر کرده بودیم. یک مقام آمریکایی گزارش می‌دهد که فرماندهی مرکزی ایالات متحده (سنتکام) در حال نهایی کردن آم"
@@ -1054,7 +1049,7 @@
  ],
  "usage": {
   "date": "2026-11-06",
-  "requests": 67
+  "requests": 68
  },
  "flip": 3453,
  "quote_n": 1691,
@@ -1461,21 +1456,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793880394.76303,
-   "s": 3,
-   "p": 40
-  },
-  {
-   "t": 1793880398.225088,
-   "s": 3,
-   "p": 30
-  },
-  {
-   "t": 1793880401.65995,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1793881301.4397695,
    "s": 4,
