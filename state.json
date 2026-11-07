@@ -10,7 +10,7 @@
    "last_id": 134329
   },
   "TelNews_Magazine": {
-   "last_id": 103047
+   "last_id": 103048
   },
   "NE_WG": {
    "last_id": 117364
@@ -820,11 +820,6 @@
  },
  "recent": [
   {
-   "t": 1794015073.0,
-   "n": "ترامپ درباره ایران تمام آنچه در اختیار داریم اشغال شده است ما تنگه هرمز را در کنترل خود داریم",
-   "fa": "🇺🇸🇮🇷ترامپ درباره ایران: «تمام آنچه در اختیار داریم اشغال شده است؛ ما تنگه هرمز را در کنترل خود داریم.»"
-  },
-  {
    "t": 1794019987.0,
    "n": "president trump acknowledged minor strikes against iranian air defenses in qeshm island q there are reports of strikes near iran today in qeshm island did the u s do those president trump i don t wanna talk about it we do minor strikes they built a little bit of an anti aircraft device and we knocked it out in about 15 minutes maybe 5",
    "fa": "🔄 به‌روزرسانی 🇺🇸❌🇮🇷 — دونالد ترامپ، رئیس‌جمهور آمریکا، به «حملات جزئی» علیه پدافند هوایی ایران در جزیره قشم اذعان کرد: خبرنگار: «امروز گزارش‌هایی از حملات در نزدیکی ایران، در جزیره قشم منتشر شد، آیا ایالات متحده آن کار را انجام داد؟» رئیس‌جمهور ترامپ: «نمی‌خواهم درباره آن صحبت کنم. ما حملات جزئی انجام می‌دهیم. آن‌ها کمی تجهیزات ضد هوایی ساختند و ما آن را در حدود ۱۵ دقیقه از بین بردیم. شاید ۵ دقیقه"
@@ -1032,7 +1027,7 @@
  ],
  "usage": {
   "date": "2026-11-07",
-  "requests": 83
+  "requests": 84
  },
  "flip": 3547,
  "quote_n": 1765,
