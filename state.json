@@ -739,7 +739,8 @@
     "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
     "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
     "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
-    "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html"
+    "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+    "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html"
    ]
   },
   "Treasury": {
@@ -818,16 +819,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1794001751.0,
-   "n": "fighter jet activity above bahrain a local source informs tabz",
-   "fa": "🇧🇭⚡️ — فعالیت جنگنده در آسمان بحرین، بر اساس گزارش یک منبع محلی به تبز."
-  },
-  {
-   "t": 1794001781.0,
-   "n": "والانیوز ایران موشک هایش را روی شهرهای اسرائیل قفل کرده است",
-   "fa": "🇮🇷🇮🇱🚨والانیوز: ایران موشک‌هایش را روی شهرهای اسرائیل قفل کرده است!"
-  },
   {
    "t": 1794001956.0,
    "n": "شبکه mtv هواپیماهای جنگنده اسرائیلی به طرز دیوانه واری در حال پرواز بر فراز آسمان دمشق سوریه به سمت مرز با عراق می باشند",
@@ -1052,19 +1043,20 @@
    "t": 1794044161.0,
    "n": "سپاه این هفته شهر موشکی جدید رو میکنیم",
    "fa": "⭕️سپاه: این هفته شهر موشکی جدید رو میکنیم"
+  },
+  {
+   "t": 1794044825.0,
+   "n": "why israel s ex army chief s next mission could be mission impossible gadi eisenkot is poised to get a chance to form a new government replacing benjamin netanyahu as prime minister but the obstacles are formidable",
+   "fa": "⭕️ چالش‌های دشوار گادی آیزنکوت برای تشکیل دولت جدید اسرائیل به گزارش نیویورک تایمز، گادی آیزنکوت رئیس پیشین ارتش اسرائیل در آستانه فرصتی برای تشکیل یک دولت جدید و جایگزینی بنیامین نتانیاهو به عنوان نخست‌وزیر قرار دارد، اما موانع پیش روی او بسیار بزرگ و دشوار هستند."
   }
  ],
  "usage": {
   "date": "2026-11-07",
-  "requests": 51
+  "requests": 53
  },
- "flip": 3529,
- "quote_n": 1752,
+ "flip": 3530,
+ "quote_n": 1753,
  "feed": [
-  {
-   "t": 1793983892.0,
-   "tx": "⭕️علی قلهکی: با اولین تست اتمی ایران، پول ملی هم تقویت میشه"
-  },
   {
    "t": 1793984761.0,
    "tx": "⭕️آمار رسمی مرکز آمار ایران نشون میده نرخ بیکاری تو افرادی که تحصیلات عالی دارن بیشتر از افراد عادیه\n\nحدود ۴۰ درصد از کل بیکاران کشور، مدرک دانشگاهی دارن؛ لیسانسه‌ها و به‌خصوص زنان تحصیل‌کرده، بیشتر از بقیه با این مشکل روبه‌رو هستن"
@@ -1460,6 +1452,10 @@
   {
    "t": 1794044161.0,
    "tx": "⭕️سپاه: این هفته شهر موشکی جدید رو میکنیم"
+  },
+  {
+   "t": 1794044825.0,
+   "tx": "⭕️ چالش‌های دشوار گادی آیزنکوت برای تشکیل دولت جدید اسرائیل\n\nبه گزارش نیویورک تایمز، گادی آیزنکوت رئیس پیشین ارتش اسرائیل در آستانه فرصتی برای تشکیل یک دولت جدید و جایگزینی بنیامین نتانیاهو به عنوان نخست‌وزیر قرار دارد، اما موانع پیش روی او بسیار بزرگ و دشوار هستند."
   }
  ],
  "signals": [
@@ -2202,6 +2198,11 @@
    "t": 1794044477.092023,
    "s": 3,
    "p": 50
+  },
+  {
+   "t": 1794045070.7080472,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
