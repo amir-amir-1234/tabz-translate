@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 134310
+   "last_id": 134311
   },
   "TelNews_Magazine": {
    "last_id": 103036
   },
   "NE_WG": {
-   "last_id": 117347
+   "last_id": 117348
   }
  },
  "fails": {},
@@ -820,16 +820,6 @@
  },
  "recent": [
   {
-   "t": 1794005506.0,
-   "n": "واکنش سنتکام به انفجارها در قشم یک مقام در ستاد فرماندهی مرکزی ایالات متحده سنتکام به الجزیره گفت گزارش ها درباره جزیره قشم را شنیده ایم و اوضاع نسبتا آرام است و هیچ نظری در این خصوص نداریم",
-   "fa": "🇺🇸🇺🇸🇮🇷واکنش سنتکام به انفجارها در قشم ❌یک مقام در ستاد فرماندهی مرکزی ایالات متحده (سنتکام) به الجزیره گفت: گزارش‌ها درباره جزیره قشم را شنیده‌ایم و اوضاع نسبتاً آرام است و هیچ نظری در این خصوص نداریم."
-  },
-  {
-   "t": 1794005557.0,
-   "n": "u s vice president j d vance has been heavily involved in indirect negotiations with iran over the past two weeks two sources familiar with the matter tell axios the push began two weeks ago when vance sent a letter to iran s supreme national security council secretary maj gen mohsen rezaei proposing direct negotiations vance has also been speaking almost daily to mediators involved in iranian ame",
-   "fa": "🇺🇸🇮🇷⚡️ — جی‌دی ونس، معاون رئیس‌جمهور ایالات متحده، طی دو هفته گذشته به گفته دو منبع مطلع به پایگاه اکسیوس، به‌طور جدی در مذاکرات غیرمستقیم با ایران دخالت داشته است. این تلاش‌ها از دو هفته پیش زمانی آغاز شد که ونس نامه‌ای به سرلشکر محسن رضایی، دبیر شورای عالی امنیت ملی ایران، فرستاد و پیشنهاد مذاکرات مستقیم را مطرح کرد. ونس همچنین تقریباً هر روز با میانجی‌گران درگیر در مذاکرات صلح ایران و آمریکا، ا"
-  },
-  {
    "t": 1794005844.0,
    "n": "u s embassy manama just renewed this security alert warning of a possible escalation in the ksa ansarallah war and that iran and iranian aligned groups may target u s interests high chance security alerts are renewed throughout west asia will update when all alerts seem to be reissued",
    "fa": "🇺🇸🇮🇷🇾🇪⚡️ — سفارت ایالات متحده در منامه هشدار امنیتی جدیدی صادر کرد که در آن نسبت به احتمال تشدید تنش در جنگ عربستان و انصارالله و تهدید منافع ایالات متحده از سوی ایران و گروه‌های همسو با آن هشدار داده شده است. احتمال تمدید هشدار‌های امنیتی در سراسر غرب آسیا زیاد است. با بازنشر تمامی هشدار‌ها، اطلاع‌رسانی خواهد شد."
@@ -1037,7 +1027,7 @@
  ],
  "usage": {
   "date": "2026-11-07",
-  "requests": 61
+  "requests": 62
  },
  "flip": 3537,
  "quote_n": 1756,
