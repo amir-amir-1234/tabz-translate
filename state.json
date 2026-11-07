@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110311
+   "last_id": 110312
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 134363
+   "last_id": 134364
   },
   "TelNews_Magazine": {
    "last_id": 103082
   },
   "NE_WG": {
-   "last_id": 117417
+   "last_id": 117419
   }
  },
  "fails": {},
@@ -176,7 +176,8 @@
     "https://www.foxnews.com/world/melania-trump-oleshky-ceasefire-spark-more-enduring-peace-ukraine-russia",
     "https://www.foxnews.com/world/oil-rich-uae-makes-massive-ai-bet-sam-altman-unveils-ambitious-plan-transform-energy-industry",
     "https://www.foxnews.com/world/gulf-official-glimmer-hope-trump-iran-nuclear-talks-threat-war-hangs-region",
-    "https://www.foxnews.com/world/gunman-opens-fire-moving-car-european-tourist-hotspot-leaving-5-dead-12-wounded"
+    "https://www.foxnews.com/world/gunman-opens-fire-moving-car-european-tourist-hotspot-leaving-5-dead-12-wounded",
+    "https://www.foxnews.com/world/paris-agitators-defy-police-orders-renew-nationwide-protests-centered-paris"
    ]
   },
   "WSJ": {
@@ -1125,7 +1126,7 @@
  ],
  "usage": {
   "date": "2026-11-07",
-  "requests": 150
+  "requests": 152
  },
  "flip": 3575,
  "quote_n": 1788,
@@ -1532,11 +1533,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793994077.3939333,
-   "s": 5,
-   "p": 75
-  },
   {
    "t": 1793994365.350546,
    "s": 4,
