@@ -10,7 +10,7 @@
    "last_id": 134350
   },
   "TelNews_Magazine": {
-   "last_id": 103067
+   "last_id": 103069
   },
   "NE_WG": {
    "last_id": 117398
@@ -741,7 +741,8 @@
     "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
     "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
     "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-    "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html"
+    "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+    "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html"
    ]
   },
   "Treasury": {
@@ -1123,7 +1124,7 @@
  ],
  "usage": {
   "date": "2026-11-07",
-  "requests": 125
+  "requests": 126
  },
  "flip": 3565,
  "quote_n": 1777,
@@ -1530,11 +1531,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1793986277.1396065,
-   "s": 1,
-   "p": 60
-  },
   {
    "t": 1793987169.6781926,
    "s": 2,
