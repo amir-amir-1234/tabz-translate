@@ -740,7 +740,8 @@
     "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
     "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
     "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
-    "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html"
+    "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+    "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html"
    ]
   },
   "Treasury": {
@@ -1122,7 +1123,7 @@
  ],
  "usage": {
   "date": "2026-11-07",
-  "requests": 114
+  "requests": 115
  },
  "flip": 3561,
  "quote_n": 1776,
