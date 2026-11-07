@@ -7,7 +7,7 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 134321
+   "last_id": 134322
   },
   "TelNews_Magazine": {
    "last_id": 103042
@@ -820,11 +820,6 @@
  },
  "recent": [
   {
-   "t": 1794011111.0,
-   "n": "new u s central command says the state department s rewards for justice program is offering up to 20 million and possible relocation for information related to iran s nuclear program according to centcom the reward applies to information about nuclear facilities equipment associated personnel including members of the scientific community and the movement of any of those elements",
-   "fa": "⭕️ — 🇺🇸/🇮🇷 جدید: ستاد فرماندهی مرکزی ایالات متحده (سنتکام) اعلام کرد برنامه پاداش برای عدالت وزارت امور خارجه تا ۲۰ میلیون دلار و جابجایی احتمالی را برای اطلاعات مربوط به برنامه هسته‌ای ایران پیشنهاد می‌کند. به گزارش سنتکام، این پاداش شامل اطلاعات درباره تأسیسات هسته‌ای، تجهیزات، پرسنل مرتبط از جمله اعضای جامعه علمی و جابجایی هر یک از این عناصر می‌شود."
-  },
-  {
    "t": 1794012721.0,
    "n": "پست اینستاگرام کاخ سفید ترامپ و پیت هگستث صلح از طریق قدرت پیت هگستث وزیر جنگ در حال ایجاد یک ارتش قوی تر و یک آمریکا امن تر است",
    "fa": "🔴 〰️🇺🇸🇺🇸🇺🇸🎬پست اینستاگرام کاخ سفید، ترامپ و پیت هگستث: صلح از طریق قدرت. پیت هگستث، وزیر جنگ، در حال ایجاد یک ارتش قوی‌تر و یک آمریکا امن‌تر است."
@@ -1007,7 +1002,7 @@
  ],
  "usage": {
   "date": "2026-11-07",
-  "requests": 73
+  "requests": 74
  },
  "flip": 3542,
  "quote_n": 1760,
