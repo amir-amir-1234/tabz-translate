@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 134311
+   "last_id": 134312
   },
   "TelNews_Magazine": {
    "last_id": 103036
   },
   "NE_WG": {
-   "last_id": 117348
+   "last_id": 117350
   }
  },
  "fails": {},
@@ -820,16 +820,6 @@
  },
  "recent": [
   {
-   "t": 1794005844.0,
-   "n": "u s embassy manama just renewed this security alert warning of a possible escalation in the ksa ansarallah war and that iran and iranian aligned groups may target u s interests high chance security alerts are renewed throughout west asia will update when all alerts seem to be reissued",
-   "fa": "🇺🇸🇮🇷🇾🇪⚡️ — سفارت ایالات متحده در منامه هشدار امنیتی جدیدی صادر کرد که در آن نسبت به احتمال تشدید تنش در جنگ عربستان و انصارالله و تهدید منافع ایالات متحده از سوی ایران و گروه‌های همسو با آن هشدار داده شده است. احتمال تمدید هشدار‌های امنیتی در سراسر غرب آسیا زیاد است. با بازنشر تمامی هشدار‌ها، اطلاع‌رسانی خواهد شد."
-  },
-  {
-   "t": 1794006011.0,
-   "n": "islamic republic of iran army announces the interception of a u s air force mq 9a reaper ucav above qeshm island iran minutes ago",
-   "fa": "🇮🇷❌🇺🇸 — ارتش جمهوری اسلامی ایران دقایقی پیش از رهگیری یک فروند پهپاد رزمی MQ-9A Reaper نیروی هوایی ایالات متحده در فراز جزیره قشم، ایران خبر داد."
-  },
-  {
    "t": 1794006690.0,
    "n": "روابط عمومی ارتش یک فروند پهپاد mq9 ارتش آمریکا رهگیری و منهدم شد",
    "fa": "🔄 به‌روزرسانی 🇮🇷🇺🇸روابط عمومی ارتش: یک فروند پهپاد MQ9 ارتش آمریکا رهگیری و منهدم شد‼️"
@@ -1027,7 +1017,7 @@
  ],
  "usage": {
   "date": "2026-11-07",
-  "requests": 62
+  "requests": 63
  },
  "flip": 3537,
  "quote_n": 1756,
