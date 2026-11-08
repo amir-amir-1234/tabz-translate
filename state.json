@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110343
+   "last_id": 110345
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 134416
+   "last_id": 134417
   },
   "TelNews_Magazine": {
-   "last_id": 103099
+   "last_id": 103102
   },
   "NE_WG": {
-   "last_id": 117483
+   "last_id": 117484
   }
  },
  "fails": {},
@@ -826,11 +826,6 @@
  },
  "recent": [
   {
-   "t": 1794079244.0,
-   "n": "four explosions in bandar jask coastal southern iran",
-   "fa": "🇮🇷⚡️ — چهار انفجار در بندر جاسک، در سواحل جنوبی ایران."
-  },
-  {
    "t": 1794079423.0,
    "n": "repeated missile launches from bandar khamir north of qeshm island iran two missile launches took place within 20 minutes",
    "fa": "🇮🇷⚡️ — شلیک‌های مکرر موشک از بندر خمیر، واقع در شمال جزیره قشم، ایران. دو فروند موشک ظرف مدت ۲۰ دقیقه شلیک شد."
@@ -1124,19 +1119,20 @@
    "t": 1794103417.0,
    "n": "uae national guard command announces the uae national guard coast guard group rescued 22 people from a fire at a cargo ship in the gulf of oman all individuals are in stable condition earlier iran s irgc navy announced a vessel had been struck in the gulf of oman",
    "fa": "🇦🇪🇮🇷⚡️ — فرماندهی گارد ملی امارات اعلام کرد گروه گارد ساحلی این کشور ۲۲ نفر را از آتش‌سوزی یک کشتی باری در دریای عمان نجات داده است. حال تمامی افراد مساعد گزارش شده است. پیش‌تر، نیروی دریایی سپاه پاسداران ایران از اصابت به یک شناور در دریای عمان خبر داده بود."
+  },
+  {
+   "t": 1794114223.0,
+   "n": "alerts in riyadh city capital of ksa",
+   "fa": "🔄 به‌روزرسانی 🇸🇦🚨— هشدارها در شهر ریاض، پایتخت عربستان سعودی."
   }
  ],
  "usage": {
   "date": "2026-11-08",
-  "requests": 13
+  "requests": 14
  },
  "flip": 3608,
- "quote_n": 1803,
+ "quote_n": 1804,
  "feed": [
-  {
-   "t": 1794062714.0,
-   "tx": "💢واکنش پزشکیان به خاموش کردن برق توسط وزیر کشور: دمت گرم!"
-  },
   {
    "t": 1794062881.0,
    "tx": "⭕️وزیر خارجه عراق:\n\nشرایط کنونی از احتمال آغاز دوباره جنگ در منطقه حکایت دارد."
@@ -1532,6 +1528,10 @@
   {
    "t": 1794103417.0,
    "tx": "🇦🇪🇮🇷⚡️ — فرماندهی گارد ملی امارات اعلام کرد گروه گارد ساحلی این کشور ۲۲ نفر را از آتش‌سوزی یک کشتی باری در دریای عمان نجات داده است. حال تمامی افراد مساعد گزارش شده است.\n\nپیش‌تر، نیروی دریایی سپاه پاسداران ایران از اصابت به یک شناور در دریای عمان خبر داده بود."
+  },
+  {
+   "t": 1794114223.0,
+   "tx": "🔄 به‌روزرسانی\n🇸🇦🚨— هشدارها در شهر ریاض، پایتخت عربستان سعودی."
   }
  ],
  "signals": [
@@ -2249,6 +2249,11 @@
    "t": 1794103564.9738603,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1794114368.9406946,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
