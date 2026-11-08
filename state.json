@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110397
+   "last_id": 110398
   },
   "khabarfouri": {
    "last_id": 569949
@@ -830,11 +830,6 @@
  },
  "recent": [
   {
-   "t": 1794159924.0,
-   "n": "president trump told cnn that renewed military strikes against iran are highly unlikely if negotiations produce progress on tehran s nuclear program and reopening the strait of hormuz although he warned that washington remains prepared to resume operations if necessary trump said any agreement would need to be sufficiently strong claiming iran is suffering from 301 inflation severe financial press",
-   "fa": "🔄 به‌روزرسانی 🇺🇸🇮🇷⚡️ — دونالد ترامپ در گفتگو با سی‌ان‌ان اعلام کرد در صورت پیشرفت مذاکرات درباره برنامه هسته‌ای تهران و بازگشایی تنگه هرمز، حملات نظامی مجدد به ایران «بسیار بعید» است، هرچند هشدار داد که واشنگتن در صورت لزوم برای از سرگیری عملیات‌ها آماده می‌ماند. ترامپ گفت هر توافقی باید به اندازه کافی قوی باشد و مدعی شد که ایران پس از هشت ماه جنگ از تورم ۳۰۱ درصدی، فشار شدید مالی و آسیب گسترده نظ"
-  },
-  {
    "t": 1794160024.0,
    "n": "president trump to cnn on iran we have 38 bridges in our site that we can knock down in literally one hour they ll all be down i don t want to do that because essentially it ll take 10 years to rebuild them i don t like ripping down bridges and the hardest thing to build is a bridge it takes years and i m a good builder",
    "fa": "🇺🇸🇮🇷⚡️ — دونالد ترامپ در گفتگو با سی‌ان‌ان درباره ایران: ما ۳۸ پل در اختیار داریم که می‌توانیم به‌معنای واقعی کلمه در عرض یک ساعت آن‌ها را منهدم کنیم. همه آن‌ها فرو خواهند ریخت. من نمی‌خواهم این کار را انجام دهم زیرا اساساً بازسازی آن‌ها ۱۰ سال طول می‌کشد. من دوست ندارم پل‌ها را خراب کنم. و ساختن پل سخت‌ترین کار است. سال‌ها طول می‌کشد و من یک سازنده خوب هستم."
@@ -1128,19 +1123,20 @@
    "t": 1794177704.0,
    "n": "secretary of state marco rubio on iran i wouldn t say we re on the verge of a breakthrough president trump would always prefer to solve every problem diplomatically sometimes that s not possible but if there s a chance to do it we will explore it right now it hasn t been very productive because the iranian demands are simply not just unacceptable but in some cases outrageous and ridiculous and rea",
    "fa": "🔄 به‌روزرسانی 🇺🇸🇮🇷⚡️ — وزیر خارجه آمریکا مارکو روبیو درباره ایران: نمی‌توانم بگویم که به توافق نزدیک شده‌ایم. رئیس‌جمهور ترامپ همیشه ترجیح می‌دهد هر مشکلی را از راه دیپلماسی حل کند. گاهی این کار ممکن نیست. اما اگر فرصتی برای این کار وجود داشته باشد، آن را بررسی خواهیم کرد. در حال حاضر، این تلاش‌ها چندان نتیجه‌بخش نبوده است، زیرا خواسته‌های ایران به سادگی غیرقابل قبول و در برخی موارد خنده‌دار، مسخر"
+  },
+  {
+   "t": 1794178779.0,
+   "n": "breaking during a meeting with iraqi coordination framework leaders iraqi prime minister ali al zaidi discussed war plans presented by the u s government to president trump presumably shared with the iraqi government al mada reports the plan consists of three scenarios two of which are shared in this article one scenario consists of u s forces launching an invasion of southern iran through iraqi t",
+   "fa": "🇮🇷🇮🇶🇺🇸⚡️ — فوری: علی الزییدی، نخست‌وزیر عراق در دیدار با رهبران چارچوب هماهنگی، درباره طرح‌های جنگی ارائه شده توسط دولت آمریکا به دونالد ترامپ گفتگو کرد که احتمالاً با دولت عراق نیز به اشتراک گذاشته شده است، گزارش مادا این طرح شامل سه سناریو است که دو سناریوی آن در این مقاله ذکر شده است. یک سناریو شامل حمله نیروهای آمریکایی به جنوب ایران از طریق خاک عراق است و سناریوی دیگر شامل حمله ایران به کویت "
   }
  ],
  "usage": {
   "date": "2026-11-08",
-  "requests": 186
+  "requests": 187
  },
  "flip": 3691,
  "quote_n": 1860,
  "feed": [
-  {
-   "t": 1794140921.0,
-   "tx": "⭕️پزشکیان:\n\nتنها راه حل مشکلات اینه که همه دست به دست هم بدیم و صرفه جویی کنیم"
-  },
   {
    "t": 1794141352.0,
    "tx": "🇮🇱🇵🇸⚡️ — اسرائیل ۱۴ فعال غربی را که برای حمایت از فلسطینیان در برابر خشونت شهرک‌نشینان به کرانه باختری اشغالی سفر کرده بودند، اخراج کرد.\n\nاین فعالان روز جمعه در نزدیکی رام‌الله پس از درگیری با شهرک‌نشینان بازداشت شدند.\n\nاین گروه از فعالان برای کمک به محافظت از کشاورزان فلسطینی در جریان برداشت سالانه زیتون سفر کرده بودند که با موجی از حملات شهرک‌نشینان شامل ضرب و شتم و سرقت مختل شده است."
@@ -1536,6 +1532,10 @@
   {
    "t": 1794177704.0,
    "tx": "🔄 به‌روزرسانی\n🇺🇸🇮🇷⚡️ — وزیر خارجه آمریکا مارکو روبیو درباره ایران:\nنمی‌توانم بگویم که به توافق نزدیک شده‌ایم.\n\nرئیس‌جمهور ترامپ همیشه ترجیح می‌دهد هر مشکلی را از راه دیپلماسی حل کند. گاهی این کار ممکن نیست.\n\nاما اگر فرصتی برای این کار وجود داشته باشد، آن را بررسی خواهیم کرد.\n\nدر حال حاضر، این تلاش‌ها چندان نتیجه‌بخش نبوده است، زیرا خواسته‌های ایران به سادگی غیرقابل قبول و در برخی موارد خنده‌دار، مسخره و واقعاً غیرواقعی است."
+  },
+  {
+   "t": 1794178779.0,
+   "tx": "🇮🇷🇮🇶🇺🇸⚡️ — فوری: علی الزییدی، نخست‌وزیر عراق در دیدار با رهبران چارچوب هماهنگی، درباره طرح‌های جنگی ارائه شده توسط دولت آمریکا به دونالد ترامپ گفتگو کرد که احتمالاً با دولت عراق نیز به اشتراک گذاشته شده است، گزارش مادا\n\nاین طرح شامل سه سناریو است که دو سناریوی آن در این مقاله ذکر شده است. یک سناریو شامل حمله نیروهای آمریکایی به جنوب ایران از طریق خاک عراق است و سناریوی دیگر شامل حمله ایران به کویت از طریق خاک عراق است.\n\nنخست‌وزیر علی الزییدی همچنین به مقامات چارچوب هماهنگی و مقاومت اسلامی در عراق هشدار داد که اگر شبه‌نظامیان عراقی وارد جنگ بعدی آمریکا و ایران شوند، دولت عراق علیه مقاومت اسلامی در عراق دست به بازداشت خواهد زد."
   }
  ],
  "signals": [
@@ -2238,6 +2238,11 @@
    "t": 1794177972.8599079,
    "s": 2,
    "p": 65
+  },
+  {
+   "t": 1794178889.8057005,
+   "s": 5,
+   "p": 85
   }
  ],
  "risk": {
