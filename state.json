@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 134441
+   "last_id": 134443
   },
   "TelNews_Magazine": {
-   "last_id": 103131
+   "last_id": 103132
   },
   "NE_WG": {
-   "last_id": 117508
+   "last_id": 117510
   }
  },
  "fails": {},
@@ -827,16 +827,6 @@
  },
  "recent": [
   {
-   "t": 1794095482.0,
-   "n": "حمله چند ساعت پیش اسرائیل به جنوب لبنان",
-   "fa": "🚨🇮🇱 حمله چند ساعت پیش اسرائیل به جنوب لبنان"
-  },
-  {
-   "t": 1794095550.0,
-   "n": "florida governor ron desantis on ai and data centers it represents a future that a lot of people don t find appealing talk to the tech ceos about what ai is going to do well it s going to cause half the people to lose their job",
-   "fa": "🇺🇸⚡️ — اظهارات رون دسانتیس، فرماندار فلوریدا درباره هوش مصنوعی و مراکز داده: این آینده‌ای را نشان می‌دهد که بسیاری از مردم آن را جذاب نمی‌دانند. با مدیران عامل فناوری درباره کارهایی که هوش مصنوعی انجام خواهد داد صحبت کنید. خوب، این باعث خواهد شد که نیمی از مردم شغل خود را از دست بدهند."
-  },
-  {
    "t": 1794097612.0,
    "n": "the trump administration has approved roughly two dozen chinese companies to purchase or handle nvidia s advanced h200 ai chips despite concerns about their ties to u s blacklisted firms and chinese military contractors nyt reports two approved companies new matrix and maginfra operated from vacant offices and had connections to sanctioned chinese technology firms other recipients were linked to b",
    "fa": "🇺🇸🇨🇳⚡️ — دولت ترامپ علی‌رغم نگرانی‌ها درباره ارتباط شرکت‌های چینی با نهادهای تحریم‌شده آمریکایی و پیمانکاران نظامی چین، مجوز خرید یا مدیریت تراشه‌های پیشرفته H200 انویدیا را برای حدود دو جین شرکت چینی صادر کرده است؛ این خبر را نیویورک تایمز گزارش داده است. دو شرکت تأییدشده به نام‌های نیوماتریکس و مگاینفرا، از دفاتر خالی فعالیت می‌کردند و با شرکت‌های فناوری تحریم‌شده چینی ارتباط داشتند. سایر دریافت"
@@ -1029,7 +1019,7 @@
  ],
  "usage": {
   "date": "2026-11-08",
-  "requests": 67
+  "requests": 68
  },
  "flip": 3626,
  "quote_n": 1818,
