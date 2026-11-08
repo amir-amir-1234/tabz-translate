@@ -10,7 +10,7 @@
    "last_id": 134422
   },
   "TelNews_Magazine": {
-   "last_id": 103116
+   "last_id": 103117
   },
   "NE_WG": {
    "last_id": 117490
@@ -826,21 +826,6 @@
  },
  "recent": [
   {
-   "t": 1794084045.0,
-   "n": "ten minutes ago an additional u s strike was conducted against bandar jask coastal southern iran",
-   "fa": "🇺🇸❌🇮🇷 — ده دقیقه پیش، یک حمله دیگر از سوی ایالات متحده علیه بندر جاسک در سواحل جنوبی ایران انجام شد."
-  },
-  {
-   "t": 1794084079.0,
-   "n": "ایرنا صدای انفجار دیگری مجددا از بندر جاسک شنیده شد که منابع رسمی اصابت را تایید کردند",
-   "fa": "🔄 به‌روزرسانی 🚨ایرنا: صدای انفجار دیگری مجددا از بندر جاسک شنیده شد که منابع رسمی اصابت را تایید کردند."
-  },
-  {
-   "t": 1794084255.0,
-   "n": "u s central command announces conducting airstrikes against the m v huda in the gulf of oman as it attempted to depart regional waters without centcom s authorization after visiting an iranian port airstrikes were conducted against the stern disabling the ship",
-   "fa": "🇺🇸🇮🇷⚡️ — فرماندهی مرکزی ایالات متحده (سنتکام) از انجام حملات هوایی علیه کشتی تجاری «هدا» در خلیج عمان خبر داد، هنگامی که این کشتی تلاش کرد بدون اجازه سنتکام پس از بازدید از یک بندر ایرانی، آب‌های منطقه را ترک کند. حملات هوایی به سمت پاشنه کشتی انجام شد و آن را از کار انداخت."
-  },
-  {
    "t": 1794084646.0,
    "n": "کان نیوز عبری نتانیاهو موفق شده ترامپ را برای حملات مجدد علیه ایران راضی کند",
    "fa": "🇮🇱🇺🇸🇮🇷🚨کان‌نیوز عبری: نتانیاهو موفق شده ترامپ را برای حملات مجدد علیه ایران راضی کند💢"
@@ -1118,7 +1103,7 @@
  ],
  "usage": {
   "date": "2026-11-08",
-  "requests": 36
+  "requests": 37
  },
  "flip": 3617,
  "quote_n": 1812,
