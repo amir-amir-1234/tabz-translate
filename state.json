@@ -747,7 +747,8 @@
     "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
     "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
     "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
-    "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html"
+    "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
+    "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html"
    ]
   },
   "Treasury": {
@@ -1019,7 +1020,7 @@
  ],
  "usage": {
   "date": "2026-11-08",
-  "requests": 74
+  "requests": 75
  },
  "flip": 3626,
  "quote_n": 1818,
@@ -1426,16 +1427,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794053772.4036958,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1794053776.0993245,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1794055273.161533,
    "s": 4,
