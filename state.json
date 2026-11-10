@@ -185,7 +185,8 @@
     "https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict",
     "https://www.foxnews.com/world/riot-torn-france-struggles-chaos-home-macron-eyes-military-mission-thousands-miles-away",
     "https://www.foxnews.com/world/tv-anchor-found-dead-gunshot-wound-head-officials-arrest-husband",
-    "https://www.foxnews.com/world/mojtaba-khamenei-aide-chilling-40-years-warning-surfaces-us-push-iran-deal"
+    "https://www.foxnews.com/world/mojtaba-khamenei-aide-chilling-40-years-warning-surfaces-us-push-iran-deal",
+    "https://www.foxnews.com/world/senior-us-army-soldier-arrested-uk-suspicion-spying-russia"
    ]
   },
   "WSJ": {
@@ -1148,7 +1149,7 @@
  ],
  "usage": {
   "date": "2026-11-10",
-  "requests": 216
+  "requests": 217
  },
  "flip": 3924,
  "quote_n": 1975,
@@ -1555,21 +1556,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794261373.1145744,
-   "s": 4,
-   "p": 70
-  },
-  {
-   "t": 1794261380.3945477,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1794261387.7980244,
-   "s": 1,
-   "p": 60
-  },
   {
    "t": 1794261694.6040256,
    "s": 4,
