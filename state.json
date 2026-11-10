@@ -10,7 +10,7 @@
    "last_id": 134710
   },
   "TelNews_Magazine": {
-   "last_id": 103353
+   "last_id": 103355
   },
   "NE_WG": {
    "last_id": 117780
@@ -183,7 +183,8 @@
     "https://www.foxnews.com/world/trumps-proposed-russia-deal-raises-nato-alarm-ex-commander-warns-putin-seeks-influence-over-europe",
     "https://www.foxnews.com/world/poland-krakow-square-shooting-gunman-dies",
     "https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict",
-    "https://www.foxnews.com/world/riot-torn-france-struggles-chaos-home-macron-eyes-military-mission-thousands-miles-away"
+    "https://www.foxnews.com/world/riot-torn-france-struggles-chaos-home-macron-eyes-military-mission-thousands-miles-away",
+    "https://www.foxnews.com/world/tv-anchor-found-dead-gunshot-wound-head-officials-arrest-husband"
    ]
   },
   "WSJ": {
@@ -844,11 +845,6 @@
  },
  "recent": [
   {
-   "t": 1794317895.0,
-   "n": "president trump via truth social pete hegseth gets an a plus plus plus for his defense against a disgruntled angry defeated former congressman thomas massie a total loser",
-   "fa": "🇺🇸⚡️ — دونالد ترامپ در توجیه‌تروث سوشال: پیت هگست نمره «آ» پلاس، پلاس، پلاس برای دفاع خود در برابر یک نماینده سابق ناراضی، خشمگین و شکست‌خورده یعنی توماس مسی می‌گیرد، او یک بازنده مطلق است!"
-  },
-  {
    "t": 1794318054.0,
    "n": "secretary of state marco rubio on iran if iran crosses certain red lines if their regime does certain things that should not happen and i m not going to speculate what those are but you know what they are obviously the u s military the most capable military in the world stands ready to address it but as of now there s really no need for major combat operations any longer because the blockade and t",
    "fa": "🇺🇸🇮🇷⚡️ — مارکو روبیو، وزیر خارجه آمریکا، درباره ایران: اگر ایران از خطوط قرمز مشخصی عبور کند و رژیم آن‌ها کارهایی انجام دهد که نباید اتفاق بیفتد - و من قصد ندارم درباره اینکه آن‌ها چه هستند گمانه‌زنی کنم، اما شما می‌دانید آن‌ها چه هستند - طبیعتاً ارتش ایالات متحده، تواناترین ارتش جهان، آماده است تا به آن رسیدگی کند. اما تا این لحظه، دیگر واقعاً نیازی به عملیات‌های رزمی بزرگ نیست، زیرا محاصره و تحر"
@@ -1142,19 +1138,20 @@
    "t": 1794340798.0,
    "n": "معاون سیاست گذاری مصرف و هدفمندی یارانه های انرژی با کاهش ۱۰ درصدی استفاده از وسایل گرمایشی از وضعیت دشوار زمستان عبور می کنیم",
    "fa": "💢معاون سیاست‌گذاری مصرف و هدفمندی یارانه‌های انرژی: با کاهش ۱۰ درصدی استفاده از وسایل گرمایشی، از وضعیت دشوار زمستان عبور می‌کنیم"
+  },
+  {
+   "t": 1794340862.0,
+   "n": "این دو تا حرف رو ترامپ امروز فقط با چند دقیقه فاصله از هم گفته",
+   "fa": "⭕️این دو تا حرف رو ترامپ امروز فقط با چند دقیقه فاصله از هم گفته:"
   }
  ],
  "usage": {
   "date": "2026-11-10",
-  "requests": 197
+  "requests": 198
  },
- "flip": 3912,
+ "flip": 3913,
  "quote_n": 1966,
  "feed": [
-  {
-   "t": 1794306600.0,
-   "tx": "🔴 مدیریت آرام‌تر جنسن هوانگ بهترین گزینه برای آینده انویدیا است\n\nبه گزارش وال‌استریت ژورنال یک مدیر ارشد آرام‌تر و مهارشده‌تر برای مرحله بعدی رونق هوش مصنوعی مناسب این غول تراشه‌سازی خواهد بود."
-  },
   {
    "t": 1794306934.0,
    "tx": "🇮🇷🇶🇦🇫🇷 سفر اعلام‌نشده نخست‌وزیر قطر به پاریس با محوریت تحولات ایران\n\n💢براساس گزارش‌ها، نخست‌وزیر قطر در سفر به پاریس، نتایج گفت‌وگو با ترامپ درباره جنگ علیه ایران را با مقام‌های اروپایی و سعودی در میان می‌گذارد و درباره پیامدهای منطقه‌ای بحران رایزنی می‌کند."
@@ -1550,19 +1547,13 @@
   {
    "t": 1794340798.0,
    "tx": "💢معاون سیاست‌گذاری مصرف و هدفمندی یارانه‌های انرژی: با کاهش ۱۰ درصدی استفاده از وسایل گرمایشی، از وضعیت دشوار زمستان عبور می‌کنیم"
+  },
+  {
+   "t": 1794340862.0,
+   "tx": "⭕️این دو تا حرف رو ترامپ امروز فقط با چند دقیقه فاصله از هم گفته:"
   }
  ],
  "signals": [
-  {
-   "t": 1794254501.5924287,
-   "s": 3,
-   "p": 50
-  },
-  {
-   "t": 1794254505.0600293,
-   "s": 1,
-   "p": 75
-  },
   {
    "t": 1794254768.8104894,
    "s": 2,
@@ -2357,6 +2348,11 @@
    "t": 1794340889.8237598,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1794341181.9882593,
+   "s": 4,
+   "p": 50
   }
  ],
  "risk": {
