@@ -761,7 +761,8 @@
     "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
     "https://www.nytimes.com/2026/11/10/business/media/haaretz-us-expansion.html",
     "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
-    "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html"
+    "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
+    "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html"
    ]
   },
   "Treasury": {
@@ -1144,7 +1145,7 @@
  ],
  "usage": {
   "date": "2026-11-10",
-  "requests": 157
+  "requests": 158
  },
  "flip": 3891,
  "quote_n": 1954,
