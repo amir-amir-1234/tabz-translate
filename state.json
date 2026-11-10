@@ -10,7 +10,7 @@
    "last_id": 134700
   },
   "TelNews_Magazine": {
-   "last_id": 103344
+   "last_id": 103345
   },
   "NE_WG": {
    "last_id": 117768
@@ -843,11 +843,6 @@
  },
  "recent": [
   {
-   "t": 1794316151.0,
-   "n": "secretary of war pete hegseth they impeached president trump over a perfect phone call they impeached him again in his final week in office both times they failed he came back stronger and the american people sent him back to the white house now they re trying a third time this time against a member of his cabinet they will fail again and if standing with president trump puts me in that company i ",
-   "fa": "🇺🇸⚡️ — پیت هگست، وزیر جنگ آمریکا: آن‌ها رئیس‌جمهور ترامپ را بر سر یک تلفن بی‌نقص استیضاح کردند. آن‌ها او را بار دیگر در هفته پایانی ریاست‌جمهوری‌اش استیضاح کردند. هر دو بار شکست خوردند."
-  },
-  {
    "t": 1794316207.0,
    "n": "secretary of war pete hegseth on his impeachment resolution let s be clear about what this resolution actually does it tells our enemies iran the cartels every adversary watching that the united states will actually punish its own warriors and its own civilian leadership for successfully executing lawful military operations",
    "fa": "🇺🇸⚡️ — پیت هگست، وزیر جنگ آمریکا درباره طرح استیضاح خود: بیایید صریح بگوییم که این قطعنامه عملاً چه می‌کند. این قطعنامه به دشمنان ما، ایران، کارتل‌ها و هر دشمنی که نظاره‌گر است، می‌گوید که ایالات متحده در واقع جنگجویان و رهبری غیرنظامی خود را به خاطر اجرای موفقیت‌آمیز عملیات‌های نظامی قانونی مجازات خواهد کرد."
@@ -1141,19 +1136,20 @@
    "t": 1794333512.0,
    "n": "واکنش سخنگوی وزارت خارجه به سفرهای اخیر نخست وزیر قطر",
    "fa": "🎥 واکنش سخنگوی وزارت خارجه به سفرهای اخیر نخست‌وزیر قطر"
+  },
+  {
+   "t": 1794334621.0,
+   "n": "آیزنکوت و نتانیاهو امروز در یک قاب",
+   "fa": "⭕️آیزنکوت و نتانیاهو امروز در یک قاب"
   }
  ],
  "usage": {
   "date": "2026-11-10",
-  "requests": 171
+  "requests": 172
  },
- "flip": 3898,
+ "flip": 3899,
  "quote_n": 1959,
  "feed": [
-  {
-   "t": 1794296041.0,
-   "tx": "🎬سخنگوی دولت: ناترازی گاز در زمستان امسال به ۴۳۰ میلیون مترمکعب می‌رسد\n\nحدود ۳۰۰ میلیون متر مکعب در سال‌های گذشته در زمستان ناترازی داشتیم.\n\nدر حملاتی که دشمن به کشور انجام داد، پالایشگاه‌های گازی آسیب دیدند و ۲۳۰ میلیون متر مکعب هم آنجا از دست دادیم."
-  },
   {
    "t": 1794297170.0,
    "tx": "⭕️عراقچی: برنامه‌ای برای دیدار محسن رضایی و ونس وجود ندارد"
@@ -1549,6 +1545,10 @@
   {
    "t": 1794333512.0,
    "tx": "🎥 واکنش سخنگوی وزارت خارجه به سفرهای اخیر نخست‌وزیر قطر"
+  },
+  {
+   "t": 1794334621.0,
+   "tx": "⭕️آیزنکوت و نتانیاهو امروز در یک قاب"
   }
  ],
  "signals": [
@@ -2346,6 +2346,11 @@
    "t": 1794333697.158944,
    "s": 2,
    "p": 40
+  },
+  {
+   "t": 1794334878.7803946,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
