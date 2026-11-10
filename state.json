@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 134651
+   "last_id": 134652
   },
   "TelNews_Magazine": {
    "last_id": 103305
   },
   "NE_WG": {
-   "last_id": 117719
+   "last_id": 117720
   }
  },
  "fails": {},
@@ -839,11 +839,6 @@
  },
  "recent": [
   {
-   "t": 1794262260.0,
-   "n": "opinion the war and the fog of trump the president s lack of clarity made the conflict into a serious political liability",
-   "fa": "🔴 تاثیر عدم شفافیت رئیس‌جمهور بر تبدیل شدن مناقشه به یک مسئولیت جدی سیاسی به گزارش وال‌استریت ژورنال، عدم شفافیت رئیس‌جمهور باعث شد که این مناقشه به یک مسئولیت جدی سیاسی تبدیل شود."
-  },
-  {
    "t": 1794262807.0,
    "n": "president trump what has hegseth done he won the war he was in charge he won the war in venezuela and he certainly i think he s won the war in iran",
    "fa": "🇺🇸🇮🇷🇻🇪⚡️ — رئیس‌جمهور ترامپ: هگست چه کرده است؟ او جنگ را برد. او مسئول بود. او جنگ در ونزوئلا را برد. و او، قطعاً، فکر می‌کنم او جنگ در ایران را برده است."
@@ -1011,7 +1006,7 @@
  ],
  "usage": {
   "date": "2026-11-10",
-  "requests": 52
+  "requests": 53
  },
  "flip": 3837,
  "quote_n": 1931,
