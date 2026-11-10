@@ -10,7 +10,7 @@
    "last_id": 134651
   },
   "TelNews_Magazine": {
-   "last_id": 103304
+   "last_id": 103305
   },
   "NE_WG": {
    "last_id": 117719
@@ -757,7 +757,8 @@
     "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
     "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
     "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
-    "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html"
+    "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
+    "https://www.nytimes.com/2026/11/10/business/media/haaretz-us-expansion.html"
    ]
   },
   "Treasury": {
@@ -837,11 +838,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1794261914.0,
-   "n": "president trump on iran we have some great allies there and we have to make sure they re not hurt and they would be hurt they are right now a lot safer than they were six months ago because iran s been very much decapitated but they re still the bully of the middle east a little bit we want to make sure they re okay we want to take care of people that have been very good to us over the years",
-   "fa": "🇺🇸🇮🇷⚡️ — دونالد ترامپ درباره ایران: ما متحدان بزرگی در آنجا داریم و باید مطمئن شویم که آسیبی نببینند، وگرنه آسیب می‌دیدند. آن‌ها در حال حاضر بسیار امن‌تر از شش ماه پیش هستند، زیرا سران ایران تا حد زیادی قطع شده‌اند، اما آن‌ها هنوز هم تا حدی قلدر خاورمیانه هستند. ما می‌خواهیم مطمئن شویم که اوضاع آن‌ها خوب است. ما می‌خواهیم از افرادی که در طول سال‌ها با ما بسیار خوب بوده‌اند مراقبت کنیم."
-  },
   {
    "t": 1794262021.0,
    "n": "president trump on iran we just had just in case another aircraft carrier we have many sailing over and just arriving in the middle east so we have three and they re all locked and loaded and hopefully we don t have to use them",
@@ -1030,7 +1026,7 @@
  ],
  "usage": {
   "date": "2026-11-10",
-  "requests": 51
+  "requests": 52
  },
  "flip": 3837,
  "quote_n": 1931,
