@@ -10,7 +10,7 @@
    "last_id": 134709
   },
   "TelNews_Magazine": {
-   "last_id": 103352
+   "last_id": 103353
   },
   "NE_WG": {
    "last_id": 117777
@@ -844,11 +844,6 @@
  },
  "recent": [
   {
-   "t": 1794317147.0,
-   "n": "secretary of war pete hegseth on iran we will not apologize for destroying the capabilities of a regime that chants death to america and if that regime makes one wrong move as president trump has said we remain locked and loaded with the full weight and lethality of central command",
-   "fa": "🇺🇸🇮🇷⚡️ — پیت هگست، وزیر جنگ آمریکا، درباره ایران: ما برای نابودی توانمندی‌های رژیمی که شعار «مرگ بر آمریکا» سر می‌دهد، عذرخواهی نخواهیم کرد. و اگر آن رژیم یک اشتباه دیگر مرتکب شود، همان‌طور که رئیس‌جمهور ترامپ گفته است، ما با تمام توان و کشندگی ستاد فرماندهی مرکزی آمریکا آماده و مسلح باقی می‌مانیم."
-  },
-  {
    "t": 1794317755.0,
    "n": "secretary of war pete hegseth for the first time in american history a cabinet secretary overseeing america s military is being attacked not for losing conflicts with our enemies but for winning them",
    "fa": "🇺🇸⚡️ — پیت هگست، وزیر جنگ آمریکا: برای نخستین بار در تاریخ آمریکا، یک وزیر کابینه ناظر بر ارتش ایالات متحده نه به دلیل باختن در درگیری با دشمنان، بلکه به دلیل بردن در آن‌ها مورد حمله قرار می‌گیرد."
@@ -1142,19 +1137,20 @@
    "t": 1794339228.0,
    "n": "rubio says major combat operations in iran war are no longer needed the u s secretary of state said that american economic pressure is doing sufficient damage to the leadership in tehran",
    "fa": "⭕️ روبیو اعلام کرد عملیات رزمی عمده در جنگ با ایران دیگر ضروری نیست به گزارش نیویورک تایمز وزیر امور خارجه ایالات متحده گفت که فشار اقتصادی آمریکا آسیب کافی را به رهبری در تهران وارد می‌کند."
+  },
+  {
+   "t": 1794339776.0,
+   "n": "روابط عمومی شرکت نفت و گاز پارس حریق در فاز ۱۴ پارس جنوبی مهار شد",
+   "fa": "⭕️روابط‌عمومی شرکت نفت و گاز پارس: حریق در فاز ۱۴ پارس جنوبی مهار شد"
   }
  ],
  "usage": {
   "date": "2026-11-10",
-  "requests": 192
+  "requests": 193
  },
- "flip": 3910,
- "quote_n": 1965,
+ "flip": 3911,
+ "quote_n": 1966,
  "feed": [
-  {
-   "t": 1794306122.0,
-   "tx": "🚫عراق مجوز پرواز مستقیم تیم ملی ایران به بصره را صادر نکرد\n\nملی‌پوشان ابتدا با هواپیما راهی آبادان می‌شوند و سپس زمینی به بصره خواهند رفت"
-  },
   {
    "t": 1794306193.0,
    "tx": "⚠️سردار محمدیان، فرمانده انتظامی تهران بزرگ: دستور تیر برای مقابله با سارقان در شرایط جنگی همچنان پابرجاست"
@@ -1550,6 +1546,10 @@
   {
    "t": 1794339228.0,
    "tx": "⭕️ روبیو اعلام کرد عملیات رزمی عمده در جنگ با ایران دیگر ضروری نیست\n\nبه گزارش نیویورک تایمز وزیر امور خارجه ایالات متحده گفت که فشار اقتصادی آمریکا آسیب کافی را به رهبری در تهران وارد می‌کند."
+  },
+  {
+   "t": 1794339776.0,
+   "tx": "⭕️روابط‌عمومی شرکت نفت و گاز پارس: حریق در فاز ۱۴ پارس جنوبی مهار شد"
   }
  ],
  "signals": [
@@ -2367,6 +2367,11 @@
    "t": 1794339385.8286905,
    "s": 4,
    "p": 60
+  },
+  {
+   "t": 1794339977.3224034,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
