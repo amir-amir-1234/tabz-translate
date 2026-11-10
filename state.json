@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110568
+   "last_id": 110570
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 134688
+   "last_id": 134692
   },
   "TelNews_Magazine": {
-   "last_id": 103334
+   "last_id": 103336
   },
   "NE_WG": {
-   "last_id": 117757
+   "last_id": 117760
   }
  },
  "fails": {},
@@ -182,7 +182,8 @@
     "https://www.foxnews.com/world/iran-vows-astonishing-strikes-lifts-missile-range-limit-us-targets-land-routes",
     "https://www.foxnews.com/world/trumps-proposed-russia-deal-raises-nato-alarm-ex-commander-warns-putin-seeks-influence-over-europe",
     "https://www.foxnews.com/world/poland-krakow-square-shooting-gunman-dies",
-    "https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict"
+    "https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict",
+    "https://www.foxnews.com/world/riot-torn-france-struggles-chaos-home-macron-eyes-military-mission-thousands-miles-away"
    ]
   },
   "WSJ": {
@@ -841,21 +842,6 @@
  },
  "recent": [
   {
-   "t": 1794310844.0,
-   "n": "president trump warned iraqi prime minister ali al zaidi in a phone call on thursday that washington would target iran aligned armed groups in iraq and their leaders if they participate in any renewed war alongside iran according to lebanese newspaper an nahar trump also urged baghdad to bring the armed factions under government control",
-   "fa": "🇺🇸🇮🇶🇮🇷⚡️ — دونالد ترامپ در تماس تلفنی روز پنجشنبه به علی الزیدی، نخست‌وزیر عراق، هشدار داد که اگر گروه‌های مسلح همسو با ایران در عراق در هرگونه جنگ مجدد در کنار ایران شرکت کنند، واشنگتن این گروه‌ها و رهبران آن‌ها را هدف قرار خواهد داد. ترامپ همچنین از بغداد خواست که جناح‌های مسلح را تحت کنترل دولت درآورد."
-  },
-  {
-   "t": 1794310990.0,
-   "n": "بلومبرگ تهران در گزارشی ۱۰ صفحه ای به آژانس اعلام کرده است تا زمانی که تهدید حملات آمریکا ادامه دارد خود را ملزم به فراهم کردن امکان نظارت کامل بر برنامه هسته ای اش نمی داند",
-   "fa": "⚠️🇮🇷〰️❌🇺🇸〰️ بلومبرگ: تهران در گزارشی ۱۰ صفحه‌ای به آژانس اعلام کرده است تا زمانی که تهدید حملات آمریکا ادامه دارد، خود را ملزم به فراهم کردن امکان نظارت کامل بر برنامه هسته‌ای‌اش نمی‌داند."
-  },
-  {
-   "t": 1794311038.0,
-   "n": "iran s irgc navy says two tankers attempting to cross the strait of hormuz through an unauthorized route were hit by explosions and left burning near the strait s southern shores the irgc stated that one supertanker struck a naval mine while a second tanker escorted by u s fighter jets caught fire after an incident during an attempted covert passage",
-   "fa": "🇮🇷🇺🇸⚡️ — نیروی دریایی سپاه پاسداران اعلام کرد که دو تانکر در تلاش برای عبور از تنگه هرمز از طریق «مسیر غیرمجاز»، بر اثر انفجار هدف قرار گرفته و در سواحل جنوبی این تنگه در آتش می‌سوزند. سپاه اعلام کرد که یک ابرتانکر به مین دریایی برخورد کرده و تانکر دوم که توسط جنگنده‌های آمریکایی اسکور می‌شد، پس از یک «حادثه» در جریان تلاش برای عبور مخفیانه دچار حریق شد."
-  },
-  {
    "t": 1794311260.0,
    "n": "senator ted cruz either hegseth is going to step down either he will resign voluntarily or trump will fire him or if that does not happen i think it is extremely likely if not certain that the house will impeach him because on the face of it the votes are there",
    "fa": "🇺🇸⚡️ — سناتور تد کروز: یا هگست کنار می‌رود، یا داوطلبانه استعفا می‌دهد یا ترامپ او را اخراج می‌کند، یا اگر این اتفاق نیفتد، فکر می‌کنم بسیار محتمل است، اگر نگەریم قطعی است، که مجلس نمایندگان او را استیضاح کند، زیرا در ظاهر امر، آرا وجود دارد."
@@ -1139,27 +1125,30 @@
    "t": 1794327535.0,
    "n": "netanyahu we need to remove all restrictions on the investigation of the elections naftali bennett interrupts what about the investigation into the events of october 7th",
    "fa": "🇮🇱⚡️ — نتانیاهو: ما باید تمامی محدودیت‌ها را درباره تحقیقات انتخابات حذف کنیم. نفتالی بنت حرف او را قطع می‌کند: درباره تحقیقات مربوط به رویدادهای ۷ اکتبر چه می‌گویید؟"
+  },
+  {
+   "t": 1794327941.0,
+   "n": "israeli prime minister netanyahu we will face international pressure which is already beginning to retreat from our tremendous achievements this includes the achievements of the security zones in syria in lebanon of course in gaza deep inside gaza and also in the west bank where they will try to dictate the establishment of a palestinian state to us a palestinian state under iranian patronage woul",
+   "fa": "🇮🇱🇵🇸🇱🇧🇸🇾⚡️ — نخست‌وزیر اسرائیل، نتانیاهو: ما با فشارهای بین‌المللی که از هم‌اکنون آغاز شده است، برای عقب‌نشینی از دستاوردهای بزرگ خود مواجه خواهیم شد. این شامل دستاوردهای مناطق امنیتی در سوریه، در لبنان، البته در غزه، در اعماق غزه و همچنین در کرانه باختری می‌شود، جایی که آن‌ها تلاش خواهند کرد تأسیس یک کشور فلسطینی را به ما دیکته کنند. یک کشور فلسطینی تحت حمایت ایران حتی بدتر از آن چیزی خواهد بود ک"
+  },
+  {
+   "t": 1794328000.0,
+   "n": "محسن رضایی تا زمانی که شروط ایران محقق نشود تنگه هرمز باز نخواهد شد",
+   "fa": "⭕️محسن رضایی: تا زمانی که شروط ایران محقق نشود، تنگه هرمز باز نخواهد شد"
+  },
+  {
+   "t": 1794328716.0,
+   "n": "ریزش شدید قیمت دلار هم اکنون",
+   "fa": "💢ریزش شدید قیمت دلار هم‌اکنون"
   }
  ],
  "usage": {
   "date": "2026-11-10",
-  "requests": 155
+  "requests": 157
  },
- "flip": 3889,
- "quote_n": 1952,
+ "flip": 3891,
+ "quote_n": 1954,
  "feed": [
-  {
-   "t": 1794264480.0,
-   "tx": "⭕️ حمله سایبری حکومت ایران به یخچال‌های سوپرمارکت‌های اروپا\n\nبه گزارش وال‌استریت ژورنال رژیم تهران یخچال‌های مواد غذایی سوپرمارکت‌های قاره اروپا را هدف حملات خود قرار می‌دهد."
-  },
-  {
-   "t": 1794264960.0,
-   "tx": "🔴 رابطه مدیرعامل انویدیا با یک جاسوس ادعایی و پیامدهای امنیت ملی آن\n\nبه گزارش وال‌استریت ژورنال ماجرای رابطه جنسن هوانگ با فردی که ادعا می‌شود جاسوس بوده، دارای پیامدهای مهمی برای امنیت ملی است."
-  },
-  {
-   "t": 1794270304.0,
-   "tx": "🇺🇸🇮🇷⚡️ — سناتور چاک شومر:\n\nسنا باید پیت هگست را محاکمه کند تا بتوانیم او را به دلیل شکست فاجعه‌بارش در ایران برکنار کنیم."
-  },
   {
    "t": 1794271561.0,
    "tx": "🇾🇪❌🇸🇦 — فعال شدن آژیرهای هشدار در شهر ریاض عربستان سعودی."
@@ -1547,19 +1536,21 @@
   {
    "t": 1794327535.0,
    "tx": "🇮🇱⚡️ — نتانیاهو: ما باید تمامی محدودیت‌ها را درباره تحقیقات انتخابات حذف کنیم.\n\nنفتالی بنت حرف او را قطع می‌کند: درباره تحقیقات مربوط به رویدادهای ۷ اکتبر چه می‌گویید؟"
+  },
+  {
+   "t": 1794327941.0,
+   "tx": "🇮🇱🇵🇸🇱🇧🇸🇾⚡️ — نخست‌وزیر اسرائیل، نتانیاهو:\nما با فشارهای بین‌المللی که از هم‌اکنون آغاز شده است، برای عقب‌نشینی از دستاوردهای بزرگ خود مواجه خواهیم شد.\n\nاین شامل دستاوردهای مناطق امنیتی در سوریه، در لبنان، البته در غزه، در اعماق غزه و همچنین در کرانه باختری می‌شود، جایی که آن‌ها تلاش خواهند کرد تأسیس یک کشور فلسطینی را به ما دیکته کنند.\n\nیک کشور فلسطینی تحت حمایت ایران حتی بدتر از آن چیزی خواهد بود که تاکنون شناخته‌ایم. هدف آن، البته، نابودی دولت اسرائیل خواهد بود."
+  },
+  {
+   "t": 1794328000.0,
+   "tx": "⭕️محسن رضایی:\n\nتا زمانی که شروط ایران محقق نشود، تنگه هرمز باز نخواهد شد"
+  },
+  {
+   "t": 1794328716.0,
+   "tx": "💢ریزش شدید قیمت دلار هم‌اکنون"
   }
  ],
  "signals": [
-  {
-   "t": 1794241886.0395327,
-   "s": 4,
-   "p": 60
-  },
-  {
-   "t": 1794241889.4775882,
-   "s": 4,
-   "p": 65
-  },
   {
    "t": 1794243075.853873,
    "s": 4,
@@ -2344,6 +2335,21 @@
    "t": 1794327696.0593226,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1794329198.536269,
+   "s": 4,
+   "p": 70
+  },
+  {
+   "t": 1794329201.875623,
+   "s": 4,
+   "p": 75
+  },
+  {
+   "t": 1794329205.3251235,
+   "s": 3,
+   "p": 50
   }
  ],
  "risk": {
