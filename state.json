@@ -756,7 +756,8 @@
     "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
     "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
     "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
-    "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html"
+    "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
+    "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html"
    ]
   },
   "Treasury": {
@@ -1134,7 +1135,7 @@
  ],
  "usage": {
   "date": "2026-11-10",
-  "requests": 30
+  "requests": 34
  },
  "flip": 3825,
  "quote_n": 1923,
