@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 134739
+   "last_id": 134741
   },
   "TelNews_Magazine": {
    "last_id": 103384
   },
   "NE_WG": {
-   "last_id": 117813
+   "last_id": 117815
   }
  },
  "fails": {},
@@ -851,11 +851,6 @@
  },
  "recent": [
   {
-   "t": 1794352123.0,
-   "n": "now the republican controlled u s house of representatives voted 211 204 to block an impeachment resolution against secretary of war pete hegseth introduced by republican rep thomas massie over u s military operations in iran yemen venezuela and the caribbean",
-   "fa": "🇺🇸⚡️ — هم‌اکنون: مجلس نمایندگان ایالات متحده با کنترل جمهوری‌خواهان با ۲۱۱ رأی در برابر ۲۰۴ رأی، قطعنامه استیضاح پیت هگست، وزیر جنگ را که توسط توماس مسی، نماینده جمهوری‌خواه، به دلیل عملیات‌های نظامی آمریکا در ایران، یمن، ونزوئلا و کارائیب ارائه شده بود، مسدود کرد."
-  },
-  {
    "t": 1794352976.0,
    "n": "iranian foreign minister abbas araghchi unable to manage fridges let alone addressing grievances of its people french government is shifting blame for its failures onto others yes iran is powerful but unlike france we do not exercise power via support for massacres in gaza or bombings of schools and hospitals",
    "fa": "🇮🇷🇫🇷⚡️ — وزیر امور خارجه ایران، عباس عراقچی: دولت فرانسه که از مدیریت یخچال‌ها نیز ناتوان است چه رسد به رسیدگی به مطالبات مردم خود، در حال فرافکنی شکست‌هایش به دیگران است. بله، ایران قدرتمند است. اما برخلاف فرانسه، ما قدرت خود را از طریق حمایت از کشتارها در غزه یا بمباران مدارس و بیمارستان‌ها اعمال نمی‌کنیم."
@@ -1058,7 +1053,7 @@
  ],
  "usage": {
   "date": "2026-11-11",
-  "requests": 75
+  "requests": 76
  },
  "flip": 3955,
  "quote_n": 1990,
@@ -1465,11 +1460,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794308766.8270383,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1794309075.7974365,
    "s": 4,
