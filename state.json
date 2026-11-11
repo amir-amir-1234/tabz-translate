@@ -13,7 +13,7 @@
    "last_id": 103378
   },
   "NE_WG": {
-   "last_id": 117808
+   "last_id": 117809
   }
  },
  "fails": {},
@@ -851,16 +851,6 @@
  },
  "recent": [
   {
-   "t": 1794346380.0,
-   "n": "opinion if you think war is unpopular wait till you see defeat truman s lesson for iran history often vindicates difficult decisions that exact a political price",
-   "fa": "🔴 درس‌های ترومن برای ایران و اثبات درستی تصمیمات سخت تاریخی به گزارش وال‌استریت ژورنال، اگر فکر می‌کنید جنگ محبوبیت ندارد، صبر کنید تا شکست را ببینید. درس ترومن برای ایران این است که تاریخ اغلب تصمیمات دشواری را که بهای سیاسی به همراه دارند، تایید می‌کند."
-  },
-  {
-   "t": 1794346384.0,
-   "n": "mojtaba khamenei aide s chilling 40 years warning surfaces amid us push for iran deal iran s top security official who reportedly received a letter from vice president jd vance about resuming peace talks warned in a resurfaced interview that wartime negotiations with tehran could drag on for decades and during which both sides should be prepared to fight mohsen rezaei a former commander of iran s ",
-   "fa": "⭕️ هشدار محسن رضایی درباره مذاکرات طولانی با آمریکا و باز نشر مواضع گذشته به گزارش فاکس نیوز مقام ارشد امنیتی ایران که گزارش شده نامه‌ای از جی‌دی ونس معاون رئیس‌جمهور آمریکا درباره از سرگیری مذاکرات صلح دریافت کرده است، در یک مصاحبه بازنشرشده هشدار داد که مذاکرات زمان جنگ با تهران می‌تواند دهه‌ها به طول بینجامد و در طول آن هر دو طرف باید «آماده جنگ باشند». محسن رضایی فرمانده پیشین سپاه پاسداران که"
-  },
-  {
    "t": 1794346891.0,
    "n": "بنا به گزارش ها هم اکنون ترامپ و نتانیاهو نخست وزیر اسرائیل گفتگوی داغی درباره ایران داشته اند",
    "fa": "🔴 بنا به گزارش‌ها هم‌اکنون؛ ترامپ و نتانیاهو، نخست وزیر اسرائیل، گفتگوی داغی درباره ایران داشته‌اند."
@@ -1048,7 +1038,7 @@
  ],
  "usage": {
   "date": "2026-11-11",
-  "requests": 60
+  "requests": 61
  },
  "flip": 3949,
  "quote_n": 1984,
