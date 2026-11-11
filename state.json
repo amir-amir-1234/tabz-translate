@@ -187,7 +187,8 @@
     "https://www.foxnews.com/world/tv-anchor-found-dead-gunshot-wound-head-officials-arrest-husband",
     "https://www.foxnews.com/world/mojtaba-khamenei-aide-chilling-40-years-warning-surfaces-us-push-iran-deal",
     "https://www.foxnews.com/world/senior-us-army-soldier-arrested-uk-suspicion-spying-russia",
-    "https://www.foxnews.com/world/american-girl-7-killed-mexican-cartel-operation-mother-blames-police-helicopter-report"
+    "https://www.foxnews.com/world/american-girl-7-killed-mexican-cartel-operation-mother-blames-police-helicopter-report",
+    "https://www.foxnews.com/world/us-evacuates-13-military-aircraft-second-uk-base-new-iran-threat-raises-alarm"
    ]
   },
   "WSJ": {
@@ -1150,7 +1151,7 @@
  ],
  "usage": {
   "date": "2026-11-11",
-  "requests": 8
+  "requests": 9
  },
  "flip": 3929,
  "quote_n": 1976,
