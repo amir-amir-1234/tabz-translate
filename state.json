@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 134786
+   "last_id": 134787
   },
   "TelNews_Magazine": {
    "last_id": 103431
   },
   "NE_WG": {
-   "last_id": 117869
+   "last_id": 117870
   }
  },
  "fails": {},
@@ -192,7 +192,8 @@
     "https://www.foxnews.com/world/inside-holocaust-memorial-heart-arab-world-founder-reveals-changed-everything",
     "https://www.foxnews.com/world/israels-political-shake-up-enters-new-phase-former-pm-plays-kingmaker-deadline-looms",
     "https://www.foxnews.com/world/russian-ambassador-us-alexander-darchiev-dies-suddenly-66",
-    "https://www.foxnews.com/world/dna-links-4-grizzly-bears-deadly-attack-mother-daughter-canada-officials-say"
+    "https://www.foxnews.com/world/dna-links-4-grizzly-bears-deadly-attack-mother-daughter-canada-officials-say",
+    "https://www.foxnews.com/world/fiery-chaos-erupts-spain-protesters-clash-police-massive-nationwide-strike"
    ]
   },
   "WSJ": {
@@ -1565,16 +1566,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794347168.9303937,
-   "s": 4,
-   "p": 65
-  },
-  {
-   "t": 1794347172.301387,
-   "s": 4,
-   "p": 70
-  },
   {
    "t": 1794350166.1312506,
    "s": 4,
