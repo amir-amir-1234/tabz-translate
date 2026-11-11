@@ -390,7 +390,8 @@ STEP 3c - stance: a code for what the item says about the situation between Iran
 - 4: TENSION: harsh threats or rhetoric, new sanctions, proxy or ship incidents, military drills, deployments, talks stalled.
 - 5: SERIOUS THREAT: an ultimatum, an announced or visibly imminent strike, evacuations, talks collapsed, an official warning of an imminent attack, or a direct attack that has actually happened.
 "power" (0-100): how strong and clear the item is inside its stance. 50 is typical, 20 is a weak hint, 90 is an extreme or unmistakable case. For stance 1 a high power means very strong positive news (a deal signed); for the others a high power means more severe.
-"direct_attack": true ONLY when the item itself reports a NEW military strike that has just happened (within the last hours) by the US and/or Israel on Iran, or by Iran on the US/Israel, on territory or official armed forces. Always false for: statistics, totals or summaries ("since February...", "at least N attacks"), analyses and recaps of the ongoing or an earlier war, quotes about past operations, attacks on Gulf states or other countries, proxies, threats, drills, and ceasefire or blockade news. When in doubt, false.
+Calibration (important): threats and rhetoric are everywhere and are mostly empty words, so give them a LOW power: a verbal threat or warning by Trump, his officials, Israeli or Iranian politicians, with no concrete action behind it, is stance 4 with power 25 or lower. Raise stance 4 above 50 only for a concrete step (troops or ships moved, a formal deadline, new sanctions actually imposed). Positive negotiation news is rare and usually real: a confirmed meeting, a message exchanged, a mediator at work, an agreement or de-escalation step gets a HIGH power (stance 1: 60-100; stance 2: 50-80).
+"direct_attack": true ONLY for a HEAVY, NEW attack that has just happened (within the last hours) INSIDE TEHRAN (the city): heavy missile or air strikes on Tehran, or the assassination of senior officials in Tehran. Always false for: strikes anywhere else (Kish, Bushehr, the Gulf, borders, bases, radars, missile launchers, ships), air-defence activation or sounds of explosions in Tehran, a drone that passed or was shot down, interceptions, rumours or unconfirmed reports, statistics, totals or summaries ("since February...", "at least N attacks"), analyses and recaps of the war, quotes about past operations, attacks on Gulf states or other countries, proxies, threats, drills, and ceasefire or blockade news. Attacks outside Tehran are stance 5 but direct_attack=false. When in doubt, false.
 
 STEP 4 - translation, only when relevant=true (otherwise "fa" is an empty string):
 - Items that have a "source" field are website articles (title plus the first lines): always set "fa" to an empty string for them; a separate step writes their Persian text.
@@ -1126,65 +1127,118 @@ def send_review(post, verdict):
 
 # ------------------------------------------------------------- attack risk ---
 # No extra Gemini request: the filter step gives every published item a stance code (1-5) and a power (0-100).
-# Every 3-hour slot (Tehran time), and once more after an urgent post, the estimate is recomputed from the items
-# of the last 24 hours; newer items weigh more. prices.py reads state["risk"] and shows it under the prices.
+# Method ("shock + slow return"): the estimate is a living level that starts at RISK_NEUTRAL. Every 3-hour slot the
+# items of that slot push it: real positive talks push it down hard, real clashes push it up a little, tension and
+# threats (the baseline of this feed, mostly empty words) push nothing. Between slots it drifts back to neutral.
+# The result is stretched over 40-70. 100 is reserved for a heavy attack on Tehran (see is_heavy_tehran_attack).
+# prices.py reads state["risk"] and shows it under the prices (with a small hourly wobble).
 RISK_ENABLED = env_bool("RISK_ENABLED", True)     # false: no attack estimate at all
 RISK_SLOT_HOURS = 3
 RISK_URGENT_GAP = 3600
 RISK_WINDOW = 24 * 3600
-RISK_HALF_LIFE = float(env("RISK_HALF_LIFE_HOURS", "6")) * 3600
 RISK_MIN_SIGNALS = int(env("RISK_MIN_SIGNALS", "5"))      # fewer items in the window: keep the previous estimate
-RISK_ATTACK_HOLD = float(env("RISK_ATTACK_HOURS", "6")) * 3600   # after a direct attack the estimate stays 100 this long
-# stance -> (low, high) of the estimate. 1 = positive negotiations ... 5 = serious threat
+RISK_ATTACK_HOLD = float(env("RISK_ATTACK_HOURS", "6")) * 3600   # after a heavy attack on Tehran the estimate stays 100 this long
+RISK_DECAY = float(env("RISK_DECAY_HOURS", "12")) * 3600         # ...and then falls back to the normal value over this long
 ATTACK_CONFIRM_WINDOW = 2 * 3600
-RISK_RANGES = {1: (20, 40), 2: (30, 50), 3: (40, 60), 4: (50, 70), 5: (60, 80)}
+# stance -> (low, high) of the INTENSITY. The model's power 0-100 is mapped into this range, so rare positive news
+# is heavy and the very common threats are light. 1 = positive talks ... 5 = military clash
+RISK_INTENSITY = {1: (50, 100), 2: (40, 70), 3: (40, 60), 4: (30, 60), 5: (30, 65)}
+# push on the level at intensity 100 (negative = lowers the estimate)
+RISK_PUSH = {1: -14.0, 2: -9.0, 3: 0.0, 4: 0.0, 5: 5.0}
+RISK_NEUTRAL = 60.0
+RISK_REVERT_HOURS = float(env("RISK_REVERT_HOURS", "8"))     # half-life of the return to neutral
+RISK_SLOT_CAP = 8.0                                          # the level moves at most this much per slot
+RISK_RAW_LO, RISK_RAW_HI = 44.0, 64.0                        # this raw level range ...
+RISK_MIN, RISK_MAX = 40, 70                                  # ... is shown as 40-70
+RISK_STANCES = tuple(RISK_INTENSITY)
+
+TEHRAN_RE = re.compile(r"تهران|طهران|tehran", re.I)
+# unmistakable heavy-attack words: killing, assassination, bombardment
+STRONG_ATTACK_RE = re.compile(r"ترور|کشته|شهید|شهادت|بمباران|حمله\s*(?:ی\s*)?هوایی|assassinat|killed|air\s?strike|bombard", re.I)
+# weak signs: air defence activation, a drone, an interception, sounds, rumours
+WEAK_ATTACK_RE = re.compile(r"پدافند|پهپاد|رهگیری|صدای|شایعه|air[\s-]*defen[cs]e|drone|intercept|rumou?r|sounds? of", re.I)
+HEAVY_WORD_RE = re.compile(r"موشک|حمله\s*(?:ی\s*)?(?:سنگین|گسترده)|missile|massive|heavy", re.I)
+
+
+def is_heavy_tehran_attack(text):
+    """The only thing that can make the estimate 100: a heavy attack on Tehran or the assassination of officials in
+    Tehran. The model flags candidates; this check on the text is the second lock. Air-defence activation, a drone,
+    an interception, strikes anywhere else (a radar on Kish, a launcher, a border base) never pass."""
+    t = strip_tags(text or "")
+    if not TEHRAN_RE.search(t):
+        return False
+    if STRONG_ATTACK_RE.search(t):
+        return True
+    if WEAK_ATTACK_RE.search(t):
+        return False
+    return bool(HEAVY_WORD_RE.search(t))
 
 
 def tehran_idx(ts):
     return int((ts + 12600) // 3600)          # hour counter in Tehran local time (UTC+3:30)
 
 
-def signal_value(stance, power):
-    """One item -> a number inside its stance range. Stronger positive news (stance 1) lowers the number;
-    for every other stance a higher power moves it toward the top of the range."""
-    lo, hi = RISK_RANGES[stance]
-    p = max(0, min(100, power)) / 100
-    return hi - p * (hi - lo) if stance == 1 else lo + p * (hi - lo)
+def signal_intensity(stance, power):
+    """The model's power (0-100) mapped into the intensity range of its stance."""
+    lo, hi = RISK_INTENSITY[stance]
+    return lo + (hi - lo) * max(0, min(100, power)) / 100
+
+
+def stretch_risk(raw):
+    """Raw level -> the shown 40-70 (linear, clipped)."""
+    x = RISK_MIN + (RISK_MAX - RISK_MIN) * (raw - RISK_RAW_LO) / (RISK_RAW_HI - RISK_RAW_LO)
+    return max(RISK_MIN, min(RISK_MAX, x))
 
 
 def compute_risk(signals, now):
-    """-> (value, n, shares) from the signals of the last 24 h, or None when there are too few of them."""
-    use = [x for x in signals if now - x.get("t", 0) <= RISK_WINDOW and x.get("s") in RISK_RANGES]
+    """-> (value 40-70, n, shares, raw level) from the signals of the last 24 h, or None when there are too few."""
+    use = sorted((x for x in signals if now - x.get("t", 0) <= RISK_WINDOW and x.get("s") in RISK_INTENSITY),
+                 key=lambda x: x["t"])
     if len(use) < RISK_MIN_SIGNALS:
         return None
-    tot = acc = 0.0
-    share = {k: 0.0 for k in RISK_RANGES}
+    slot = RISK_SLOT_HOURS * 3600
+    n_slots = RISK_WINDOW // slot
+    start = now - RISK_WINDOW
+    decay = 0.5 ** (RISK_SLOT_HOURS / RISK_REVERT_HOURS)
+    level, i = RISK_NEUTRAL, 0
+    for k in range(n_slots):
+        end = start + (k + 1) * slot
+        push = 0.0
+        while i < len(use) and use[i]["t"] <= end:
+            x = use[i]
+            push += RISK_PUSH[x["s"]] * signal_intensity(x["s"], x.get("p", 50)) / 100
+            i += 1
+        push = max(-RISK_SLOT_CAP, min(RISK_SLOT_CAP, push))
+        level = RISK_NEUTRAL + (level - RISK_NEUTRAL) * decay + push
+    counts = {k: 0 for k in RISK_INTENSITY}
     for x in use:
-        w = 0.5 ** (max(0.0, now - x["t"]) / RISK_HALF_LIFE)
-        tot += w
-        acc += w * signal_value(x["s"], x.get("p", 50))
-        share[x["s"]] += w
-    return acc / tot, len(use), {k: round(100 * v / tot) for k, v in share.items()}
+        counts[x["s"]] += 1
+    shares = {k: round(100 * v / len(use)) for k, v in counts.items()}
+    return stretch_risk(level), len(use), shares, level
 
 
 def note_signal(state, v, ts, text=""):
-    """Called for every item that is published. A direct attack counts only when the item is also urgent,
-    or when a second item reports one within 2 hours: one wrong flag (a statistic, a recap) is not enough."""
+    """Called for every item that is published. A heavy attack on Tehran counts only when the model flags it, the
+    text passes is_heavy_tehran_attack, and the item is urgent or a second such item follows within 2 hours.
+    While such attacks keep coming, every confirmed one renews the 6-hour hold."""
     if not RISK_ENABLED:
         return
     if v.get("direct_attack"):
         snippet = re.sub(r"\s+", " ", strip_tags(text)).strip()[:160]
-        cand = [c for c in state.get("attack_cand", []) if ts - c.get("t", 0) <= ATTACK_CONFIRM_WINDOW]
-        cand.append({"t": ts, "h": snippet})
-        state["attack_cand"] = cand[-10:]
-        if v.get("urgent") or len(cand) >= 2:
-            state["attack_ts"] = max(state.get("attack_ts", 0), ts)
-            state["attack_why"] = snippet
-            log(f"  direct attack flagged by: {snippet}")
+        if not is_heavy_tehran_attack(text):
+            log(f"  attack flag ignored (not a heavy attack on Tehran): {snippet}")
         else:
-            log(f"  direct attack suspected, waiting for confirmation: {snippet}")
+            cand = [c for c in state.get("attack_cand", []) if ts - c.get("t", 0) <= ATTACK_CONFIRM_WINDOW]
+            cand.append({"t": ts, "h": snippet})
+            state["attack_cand"] = cand[-10:]
+            if v.get("urgent") or len(cand) >= 2:
+                state["attack_ts"] = max(state.get("attack_ts", 0), ts)
+                state["attack_why"] = snippet
+                log(f"  heavy attack on Tehran flagged by: {snippet}")
+            else:
+                log(f"  heavy attack on Tehran suspected, waiting for confirmation: {snippet}")
     s = v.get("stance", 0)
-    if s in RISK_RANGES:
+    if s in RISK_INTENSITY:
         state.setdefault("signals", []).append({"t": ts, "s": s, "p": v.get("power", 50)})
 
 
@@ -1194,7 +1248,7 @@ def risk_due(state, now, urgent=False):
     r = state.get("risk") or {}
     if not r.get("ts"):
         return True
-    if state.get("attack_ts", 0) > r["ts"]:        # a new direct attack: the estimate is 100 at once
+    if state.get("attack_ts", 0) > r["ts"]:        # a new heavy attack: the estimate is 100 at once
         return True
     if r.get("attack") and now - state.get("attack_ts", 0) >= RISK_ATTACK_HOLD:   # the 100 has run out
         return True
@@ -1204,21 +1258,30 @@ def risk_due(state, now, urgent=False):
 
 
 def update_risk(state, now=None):
-    """state['risk'] = {'base','ts','attack','n','shares'}. With too few items the old value stays."""
+    """state['risk'] = {'base','ts','attack','decay','n','shares','raw'}. With too few items the old value stays.
+    100 for 6 hours after the last confirmed heavy attack on Tehran, then a fall to the normal value over 12 hours."""
     now = now or time.time()
-    if now - state.get("attack_ts", 0) < RISK_ATTACK_HOLD:
+    since = now - state.get("attack_ts", 0) if state.get("attack_ts") else None
+    if since is not None and since < RISK_ATTACK_HOLD:
         state["risk"] = {"base": 100, "ts": now, "attack": True}
-        log("Attack estimate: 100% (direct attack in the last hours)")
+        log("Attack estimate: 100% (heavy attack on Tehran in the last hours)")
         return
     got = compute_risk(state.get("signals", []), now)
-    if got is None:
+    decaying = since is not None and since < RISK_ATTACK_HOLD + RISK_DECAY
+    if got is None and not decaying:
         log("Attack estimate: too few items in the last 24 h, keeping the previous value")
         return
-    value, n, shares = got
-    base = max(1, min(80, round(value)))
-    state["risk"] = {"base": base, "ts": now, "attack": False, "n": n,
+    value, n, shares, raw = got if got else (55.0, 0, {}, RISK_NEUTRAL)
+    if decaying:
+        frac = 1 - (since - RISK_ATTACK_HOLD) / RISK_DECAY
+        value = value + (100 - value) * frac
+        base = max(RISK_MIN, min(99, round(value)))
+    else:
+        base = max(RISK_MIN, min(RISK_MAX, round(value)))
+    state["risk"] = {"base": base, "ts": now, "attack": False, "decay": bool(decaying), "n": n, "raw": round(raw, 1),
                      "shares": {str(k): v for k, v in shares.items()}}
-    log(f"Attack estimate: {base}% from {n} item(s), shares by stance {shares}")
+    log(f"Attack estimate: {base}% from {n} item(s), raw level {raw:.1f}, shares by stance {shares}"
+        + (" (falling back after an attack)" if decaying else ""))
 
 
 # ------------------------------------------------------------ recent items ---
