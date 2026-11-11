@@ -814,7 +814,8 @@
     "https://home.treasury.gov/news/press-releases/sb0684/",
     "https://home.treasury.gov/news/press-releases/sb0685/",
     "https://home.treasury.gov/news/press-releases/sb0686/",
-    "https://home.treasury.gov/news/press-releases/sb0687/"
+    "https://home.treasury.gov/news/press-releases/sb0687/",
+    "https://home.treasury.gov/news/press-releases/sb0688/"
    ]
   },
   "OFAC": {
@@ -1151,7 +1152,7 @@
  ],
  "usage": {
   "date": "2026-11-11",
-  "requests": 9
+  "requests": 10
  },
  "flip": 3929,
  "quote_n": 1976,
