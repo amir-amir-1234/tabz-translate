@@ -851,11 +851,6 @@
  },
  "recent": [
   {
-   "t": 1794353214.0,
-   "n": "a dual iranian iraqi national allegedly directed the failed plot against raf fairford the british airbase hosting u s b 1 bombers while imprisoned in new york according to a federal indictment mohammad dawood al saadi a kataib hezbollah commander reportedly used coded prison calls to arrange funding and coordinate with irgc operative mohsen mohajeri and mohammad ali al hassani the plot involved fu",
-   "fa": "🔄 به‌روزرسانی 🇮🇷🇺🇸🇬🇧⚡️ — بر اساس یک کیفرخواست فدرال، یک تبعه دوتابعیتی ایرانی-عراقی در حالی که در نیویورک زندانی بوده، طرح ناموفق حمله به پایگاه هوایی فیرفورد بریتانیا را که میزبان بمب‌افکن‌های B-1 ایالات متحده است، هدایت کرده است. به گزارش دادستانی، محمد داوود الساعدی، از فرماندهان کتائب حزب‌الله، ظاهراً با استفاده از تماس‌های رمزگذاری‌شده زندان، تأمین مالی را ترتیب داده و با محسن مهاجری، عامل سپ"
-  },
-  {
    "t": 1794356537.0,
    "n": "u s treasury secretary scott bessent has relocated from his home to a military base following iranian threats against his life according to nyt u s intelligence officials have assessed that iranian plots targeting current and former american officials have reached a more advanced stage with threats against bessent contributing to those concerns",
    "fa": "🇺🇸🇮🇷⚡️ — به گزارش نیویورک تایمز، اسکات بسنت، وزیر خزانه‌داری ایالات متحده، به دنبال تهدیدات ایران علیه جان خود، از منزلش به یک پایگاه نظامی منتقل شده است. مقام‌های اطلاعاتی ایالات متحده ارزیابی کرده‌اند که توطئه‌های ایران با هدف قرار دادن مقام‌های کنونی و پیشین آمریکا به مرحله پیشرفته‌تری رسیده است و تهدیدات علیه بسنت به این نگرانی‌ها دامن زده است."
@@ -2183,15 +2178,15 @@
  ],
  "risk": {
   "base": 59,
-  "ts": 1794391880.298457,
+  "ts": 1794396680.5433586,
   "attack": false,
-  "n": 148,
+  "n": 144,
   "shares": {
    "1": 2,
    "2": 3,
-   "3": 24,
-   "4": 62,
-   "5": 8
+   "3": 26,
+   "4": 60,
+   "5": 10
   }
  },
  "attack_ts": 1794316305.369647,
