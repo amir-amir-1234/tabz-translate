@@ -254,7 +254,10 @@ def shown_risk(risk, now):
         if abs(off + d) > 3:
             d = -d
         off += d
-    return max(1, min(99, base + off))
+    shown = base + off
+    if not risk.get("decay"):                       # the normal estimate always stays inside 40-70
+        shown = max(40, min(70, shown))
+    return max(1, min(99, shown))
 
 
 def read_risk(now=None):
