@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 134774
+   "last_id": 134775
   },
   "TelNews_Magazine": {
    "last_id": 103421
   },
   "NE_WG": {
-   "last_id": 117856
+   "last_id": 117857
   }
  },
  "fails": {},
@@ -190,7 +190,8 @@
     "https://www.foxnews.com/world/american-girl-7-killed-mexican-cartel-operation-mother-blames-police-helicopter-report",
     "https://www.foxnews.com/world/us-evacuates-13-military-aircraft-second-uk-base-new-iran-threat-raises-alarm",
     "https://www.foxnews.com/world/inside-holocaust-memorial-heart-arab-world-founder-reveals-changed-everything",
-    "https://www.foxnews.com/world/israels-political-shake-up-enters-new-phase-former-pm-plays-kingmaker-deadline-looms"
+    "https://www.foxnews.com/world/israels-political-shake-up-enters-new-phase-former-pm-plays-kingmaker-deadline-looms",
+    "https://www.foxnews.com/world/russian-ambassador-us-alexander-darchiev-dies-suddenly-66"
    ]
   },
   "WSJ": {
@@ -1156,7 +1157,7 @@
  ],
  "usage": {
   "date": "2026-11-11",
-  "requests": 187
+  "requests": 188
  },
  "flip": 4008,
  "quote_n": 2012,
@@ -1563,11 +1564,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794338175.7395892,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1794338776.1829584,
    "s": 4,
