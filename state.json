@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110627
+   "last_id": 110629
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 134745
+   "last_id": 134746
   },
   "TelNews_Magazine": {
    "last_id": 103388
@@ -851,11 +851,6 @@
  },
  "recent": [
   {
-   "t": 1794356537.0,
-   "n": "u s treasury secretary scott bessent has relocated from his home to a military base following iranian threats against his life according to nyt u s intelligence officials have assessed that iranian plots targeting current and former american officials have reached a more advanced stage with threats against bessent contributing to those concerns",
-   "fa": "🇺🇸🇮🇷⚡️ — به گزارش نیویورک تایمز، اسکات بسنت، وزیر خزانه‌داری ایالات متحده، به دنبال تهدیدات ایران علیه جان خود، از منزلش به یک پایگاه نظامی منتقل شده است. مقام‌های اطلاعاتی ایالات متحده ارزیابی کرده‌اند که توطئه‌های ایران با هدف قرار دادن مقام‌های کنونی و پیشین آمریکا به مرحله پیشرفته‌تری رسیده است و تهدیدات علیه بسنت به این نگرانی‌ها دامن زده است."
-  },
-  {
    "t": 1794357362.0,
    "n": "u s commerce secretary howard lutnick received a highly classified intelligence memo warning about nvidia ceo jensen huang s relationship with alice huang whom american intelligence officials suspect of working for chinese intelligence according to axios the memo prepared under secretary of state marco rubio s supervision drew on surveillance of alice huang and an investigation into alleged chip s",
    "fa": "🇺🇸🇨🇳⚡️ — به گزارش آکسیوس، هاوارد لاتنیک، وزیر بازرگانی ایالات متحده، یک یادداشت اطلاعاتی بسیار محرمانه دریافت کرد که درباره رابطه جنسن هوانگ، مدیرعامل انویدیا، با آلیس هوانگ هشدار می‌داد؛ فردی که مقام‌های اطلاعاتی آمریکا مظنونند برای اطلاعات چین کار می‌کند. این یادداشت که تحت نظارت مارکو روبیو، وزیر امور خارجه تهیه شده بود، بر اساس نظارت بر آلیس هوانگ و تحقیقات درباره قاچاق ادعایی تراشه توسط شرکت "
@@ -1079,19 +1074,20 @@
    "t": 1794399423.0,
    "n": "iran has designated argentina s navy and air force as terrorist organizations in retaliation for buenos aires decision in april to classify iran s irgc as a terrorist organization",
    "fa": "🇮🇷❌🇦🇷 — ایران در واکنش به اقدام آرژانتین در قرار دادن نام سپاه پاسداران در فهرست سازمان‌های تروریستی، نیروی دریایی و هوایی این کشور را در فهرست «سازمان‌های تروریستی» قرار داد."
+  },
+  {
+   "t": 1794399700.0,
+   "n": "china s northwestern polytechnical university which has close ties to the people s liberation army purchased two nvidia h200 ai chips for 123 000 through a chinese supplier in october despite being on a u s export blacklist according to procurement records reviewed by reuters other chinese universities have also obtained restricted nvidia processors or rented access to them",
+   "fa": "🇨🇳🇺🇸⚡️ — به گزارش رویترز بر اساس اسناد تدارکاتی، دانشگاه پلی‌تکنیک شمال غربی چین که پیوندهای نزدیکی با ارتش آزادیبخش خلق دارد، در ماه اکتبر علیرغم قرار داشتن در فهرست تحریم‌های صادراتی ایالات متحده، دو تراشه هوش مصنوعی H200 انویدیا را به مبلغ ۱۲۳ هزار دلار از طریق یک تامین‌کننده چینی خریداری کرده است. سایر دانشگاه‌های چین نیز پردازنده‌های محدودشده انویدیا را به دست آورده یا به دسترسی به آن‌ها اجار"
   }
  ],
  "usage": {
   "date": "2026-11-11",
-  "requests": 87
+  "requests": 88
  },
- "flip": 3963,
+ "flip": 3964,
  "quote_n": 1993,
  "feed": [
-  {
-   "t": 1794326961.0,
-   "tx": "⭕️ جان باختن چهار تن از اعضای یک خانواده در غزه بر اثر طوفان و جاری شدن سیل\n\nبه گزارش نیویورک تایمز دست‌کم چهار نفر از اعضای یک خانواده جان خود را از دست دادند و هزاران فلسطینی پس از آنکه یک طوفان اردوگاه‌های پرجمعیت چادرنشین را در هم کوبید، سرپناه خود را از دست دادند."
-  },
   {
    "t": 1794327346.0,
    "tx": "⭕️قیمت تتر هم اکنون در صرافی های داخلی به 250.000 تومان رسیده است"
@@ -1487,14 +1483,13 @@
   {
    "t": 1794399423.0,
    "tx": "🇮🇷❌🇦🇷 — ایران در واکنش به اقدام آرژانتین در قرار دادن نام سپاه پاسداران در فهرست سازمان‌های تروریستی، نیروی دریایی و هوایی این کشور را در فهرست «سازمان‌های تروریستی» قرار داد."
+  },
+  {
+   "t": 1794399700.0,
+   "tx": "🇨🇳🇺🇸⚡️ — به گزارش رویترز بر اساس اسناد تدارکاتی، دانشگاه پلی‌تکنیک شمال غربی چین که پیوندهای نزدیکی با ارتش آزادیبخش خلق دارد، در ماه اکتبر علیرغم قرار داشتن در فهرست تحریم‌های صادراتی ایالات متحده، دو تراشه هوش مصنوعی H200 انویدیا را به مبلغ ۱۲۳ هزار دلار از طریق یک تامین‌کننده چینی خریداری کرده است.\n\nسایر دانشگاه‌های چین نیز پردازنده‌های محدودشده انویدیا را به دست آورده یا به دسترسی به آن‌ها اجاره داده‌اند."
   }
  ],
  "signals": [
-  {
-   "t": 1794313280.1892238,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1794313567.9390485,
    "s": 2,
