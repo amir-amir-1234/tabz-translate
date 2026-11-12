@@ -10,7 +10,7 @@
    "last_id": 134823
   },
   "TelNews_Magazine": {
-   "last_id": 103465
+   "last_id": 103466
   },
   "NE_WG": {
    "last_id": 117907
@@ -862,11 +862,6 @@
  },
  "recent": [
   {
-   "t": 1794448800.0,
-   "n": "huang s coziness with trump wasn t enough to save him from spying scandal u s officials have repeatedly raised concerns about the nvidia ceo s influence with the president and his posture toward china",
-   "fa": "⭕️ نگرانی مقامات ایالات متحده از نفوذ مدیرعامل انویدیا بر رئیس‌جمهور و رویکرد او در قبال چین به گزارش وال‌استریت ژورنال، مقامات ایالات متحده بارها درباره نفوذ مدیرعامل انویدیا بر رئیس‌جمهور و موضع‌گیری او در قبال چین ابراز نگرانی کرده‌اند."
-  },
-  {
    "t": 1794453079.0,
    "n": "strike on gaza hospital kills at least 6 and injures 20 rescuers say nassar hospital in khan younis was attacked despite the 2025 cease fire a surgeon an official and a disabled patient were among the victims a witness said",
    "fa": "🔴 حمله به بیمارستانی در غزه دستکم ۶ کشته و ۲۰ زخمی برجا گذاشت به گزارش نیویورک تایمز حمله به بیمارستان ناصر در خان یونس علی‌رغم آتش‌بس سال ۲۰۲۵، حداقل ۶ کشته و ۲۰ زخمی برجا گذاشت. یک شاهد عینی اعلام کرد که یک جراح، یک مقام رسمی و یک بیمار معلول در میان قربانیان این حمله بودند."
@@ -1119,7 +1114,7 @@
  ],
  "usage": {
   "date": "2026-11-12",
-  "requests": 88
+  "requests": 89
  },
  "flip": 4080,
  "quote_n": 2050,
