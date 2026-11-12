@@ -10,7 +10,7 @@
    "last_id": 134820
   },
   "TelNews_Magazine": {
-   "last_id": 103461
+   "last_id": 103462
   },
   "NE_WG": {
    "last_id": 117903
@@ -862,11 +862,6 @@
  },
  "recent": [
   {
-   "t": 1794444896.0,
-   "n": "iran recently attacked ship navigation systems on oman s didamar island in the strait of hormuz according to reuters citing three sources familiar with the matter the strikes targeted infrastructure used to help restore shipping and gulf oil flows the sources provided no damage assessment shipping and maritime security sources said the attacks would likely have a limited impact on commercial traff",
-   "fa": "🔄 به‌روزرسانی 🇮🇷🇴🇲⚡️ — به گزارش رویترز به نقل از سه منبع آگاه، ایران اخیراً سامانه‌های ناوبری کشتی‌ها را در جزیره «دیدامار» متعلق به عمان در تنگه هرمز هدف قرار داده است. این حملات زیرساخت‌هایی را هدف قرار داده که برای کمک به احیای کشتیرانی و جریان نفت خلیج فارس استفاده می‌شدند. منابع مذکور ارزیابی دقیقی از خسارات ارائه نکردند. منابع امنیت دریایی اعلام کردند که این حملات احتمالاً تأثیر محدودی بر تر"
-  },
-  {
    "t": 1794445200.0,
    "n": "the spread of cheaper ballistic missiles rips up decades of military thinking as interceptor supplies run down iran and the houthis have shown how american bases are increasingly vulnerable",
    "fa": "🔴 گسترش موشک‌های بالستیک ارزان‌قیمت آسیب‌پذیری پایگاه‌های آمریکایی را افزایش داده است به گزارش وال‌استریت ژورنال با کاهش ذخایر تسلیحات رهگیر، ایران و حوثی‌ها نشان داده‌اند که پایگاه‌های آمریکایی روزبه‌روز بیشتر در معرض آسیب‌پذیری قرار دارند و این روند، دهه‌ها تفکر نظامی را دستخوش دگرگونی کرده است."
@@ -1094,7 +1089,7 @@
  ],
  "usage": {
   "date": "2026-11-12",
-  "requests": 77
+  "requests": 78
  },
  "flip": 4076,
  "quote_n": 2048,
