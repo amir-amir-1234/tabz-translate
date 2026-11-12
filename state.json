@@ -779,7 +779,8 @@
     "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
     "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
     "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
-    "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html"
+    "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
+    "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html"
    ]
   },
   "Treasury": {
@@ -1063,7 +1064,7 @@
  ],
  "usage": {
   "date": "2026-11-12",
-  "requests": 64
+  "requests": 65
  },
  "flip": 4069,
  "quote_n": 2045,
