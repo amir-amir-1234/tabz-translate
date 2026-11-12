@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 134809
+   "last_id": 134811
   },
   "TelNews_Magazine": {
    "last_id": 103448
   },
   "NE_WG": {
-   "last_id": 117893
+   "last_id": 117894
   }
  },
  "fails": {},
@@ -778,7 +778,8 @@
     "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
     "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
     "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
-    "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html"
+    "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
+    "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html"
    ]
   },
   "Treasury": {
@@ -1058,19 +1059,20 @@
    "t": 1794476547.0,
    "n": "وزارت خزانه داری آمریکا تهدیدهای جمهوری اسلامی علیه بسنت مانع ادامه فشار اقتصادی نمیشه",
    "fa": "🇺🇸❌🇮🇷وزارت خزانه‌داری آمریکا: تهدیدهای جمهوری اسلامی علیه بسنت مانع ادامه فشار اقتصادی نمیشه"
+  },
+  {
+   "t": 1794476746.0,
+   "n": "they left iran but now the regime is seizing their assets to silence them the iranian authorities are pursuing diaspora dissidents and journalists extending the government s repressive apparatus far beyond its borders",
+   "fa": "🔴 مصادره اموال مخالفان و روزنامه‌نگاران مقیم خارج از سوی حکومت ایران به گزارش نیویورک تایمز مقامات ایرانی در حال تعقیب مخالفان و روزنامه‌نگاران دور از وطن هستند و دستگاه سرکوب حکومت را بسیار فراتر از مرزهای خود گسترش داده‌اند."
   }
  ],
  "usage": {
   "date": "2026-11-12",
-  "requests": 47
+  "requests": 49
  },
- "flip": 4060,
- "quote_n": 2037,
+ "flip": 4061,
+ "quote_n": 2038,
  "feed": [
-  {
-   "t": 1794406876.0,
-   "tx": "📈با افزایش قیمت هر کیلو مرغ به ۳۵۰ هزار تومان تورم نقطه به نقطه آن به ۱۴۲ درصد رسیده و قیمت مرغ در یک سال و نسبت به آبان سال گذشته ۱۴۲ درصد بیشتر شده است"
-  },
   {
    "t": 1794407335.0,
    "tx": "🇮🇷🇺🇸محسن رضایی: اگر آمریکا به کوه کلنگ حمله کند پایگاه‌های فرامنطقه‌‌ای آنها را هم می‌زنیم‼️"
@@ -1466,14 +1468,13 @@
   {
    "t": 1794476547.0,
    "tx": "🇺🇸❌🇮🇷وزارت خزانه‌داری آمریکا: تهدیدهای جمهوری اسلامی علیه بسنت مانع ادامه فشار اقتصادی نمیشه"
+  },
+  {
+   "t": 1794476746.0,
+   "tx": "🔴 مصادره اموال مخالفان و روزنامه‌نگاران مقیم خارج از سوی حکومت ایران\n\nبه گزارش نیویورک تایمز مقامات ایرانی در حال تعقیب مخالفان و روزنامه‌نگاران دور از وطن هستند و دستگاه سرکوب حکومت را بسیار فراتر از مرزهای خود گسترش داده‌اند."
   }
  ],
  "signals": [
-  {
-   "t": 1794390376.5066988,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1794391877.2946274,
    "s": 4,
@@ -2077,6 +2078,11 @@
   {
    "t": 1794476773.7291946,
    "s": 4,
+   "p": 40
+  },
+  {
+   "t": 1794477072.924972,
+   "s": 3,
    "p": 40
   }
  ],
