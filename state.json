@@ -777,7 +777,8 @@
     "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
     "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
     "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
-    "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html"
+    "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
+    "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html"
    ]
   },
   "Treasury": {
@@ -858,11 +859,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1794414821.0,
-   "n": "پزشکیان سازمان های بین المللی باید سازوکار جبران خسارت زیست محیطی به ایران توسط آمریکا و اسرائیل را دنبال کنند",
-   "fa": "🇮🇷🇺🇸🇮🇱پزشکیان: سازمان‌های بین‌المللی باید سازوکار جبران خسارت زیست‌محیطی به ایران توسط آمریکا و اسرائیل را دنبال کنند."
-  },
   {
    "t": 1794414834.0,
    "n": "پزشکیان ایران با وجود تحریم های ظالمانه و جنگ مسیر کاهش انتشار گازهای گلخانه ای و توسعۀ انرژی پاک را دنبال کرده است",
@@ -1157,19 +1153,20 @@
    "t": 1794448800.0,
    "n": "huang s coziness with trump wasn t enough to save him from spying scandal u s officials have repeatedly raised concerns about the nvidia ceo s influence with the president and his posture toward china",
    "fa": "⭕️ نگرانی مقامات ایالات متحده از نفوذ مدیرعامل انویدیا بر رئیس‌جمهور و رویکرد او در قبال چین به گزارش وال‌استریت ژورنال، مقامات ایالات متحده بارها درباره نفوذ مدیرعامل انویدیا بر رئیس‌جمهور و موضع‌گیری او در قبال چین ابراز نگرانی کرده‌اند."
+  },
+  {
+   "t": 1794453079.0,
+   "n": "strike on gaza hospital kills at least 6 and injures 20 rescuers say nassar hospital in khan younis was attacked despite the 2025 cease fire a surgeon an official and a disabled patient were among the victims a witness said",
+   "fa": "🔴 حمله به بیمارستانی در غزه دستکم ۶ کشته و ۲۰ زخمی برجا گذاشت به گزارش نیویورک تایمز حمله به بیمارستان ناصر در خان یونس علی‌رغم آتش‌بس سال ۲۰۲۵، حداقل ۶ کشته و ۲۰ زخمی برجا گذاشت. یک شاهد عینی اعلام کرد که یک جراح، یک مقام رسمی و یک بیمار معلول در میان قربانیان این حمله بودند."
   }
  ],
  "usage": {
   "date": "2026-11-12",
-  "requests": 8
+  "requests": 10
  },
- "flip": 4038,
- "quote_n": 2025,
+ "flip": 4039,
+ "quote_n": 2026,
  "feed": [
-  {
-   "t": 1794395673.0,
-   "tx": "⭕️پیشنهاد ترامپ به رئیس جمهور چین:\n\nبه جای نفت ایران، نفت آمریکا را بخرید."
-  },
   {
    "t": 1794397081.0,
    "tx": "🇺🇸❌〰️🇮🇷 نیویورک تایمز :\n\nاسکات بسنت، وزیر خزانه داری آمریکا بدلیل تهدیدهای جمهوری‌ اسلامی علیه جونش از خونه‌ش به یک پایگاه نظامی منتقل شده!"
@@ -1565,6 +1562,10 @@
   {
    "t": 1794448800.0,
    "tx": "⭕️ نگرانی مقامات ایالات متحده از نفوذ مدیرعامل انویدیا بر رئیس‌جمهور و رویکرد او در قبال چین\n\nبه گزارش وال‌استریت ژورنال، مقامات ایالات متحده بارها درباره نفوذ مدیرعامل انویدیا بر رئیس‌جمهور و موضع‌گیری او در قبال چین ابراز نگرانی کرده‌اند."
+  },
+  {
+   "t": 1794453079.0,
+   "tx": "🔴 حمله به بیمارستانی در غزه دستکم ۶ کشته و ۲۰ زخمی برجا گذاشت\n\nبه گزارش نیویورک تایمز حمله به بیمارستان ناصر در خان یونس علی‌رغم آتش‌بس سال ۲۰۲۵، حداقل ۶ کشته و ۲۰ زخمی برجا گذاشت. یک شاهد عینی اعلام کرد که یک جراح، یک مقام رسمی و یک بیمار معلول در میان قربانیان این حمله بودند."
   }
  ],
  "signals": [
@@ -2197,6 +2198,11 @@
    "t": 1794445568.0392365,
    "s": 4,
    "p": 50
+  },
+  {
+   "t": 1794453368.1505175,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
