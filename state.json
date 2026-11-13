@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110814
+   "last_id": 110817
   },
   "khabarfouri": {
    "last_id": 569949
@@ -864,11 +864,6 @@
  },
  "recent": [
   {
-   "t": 1794533620.0,
-   "n": "senate banking chair tim scott has summoned u s commerce secretary howard lutnick and former nvidia ceo jensen huang to testify before the senate banking committee next month over national security concerns following revelations that huang had a relationship with alice huang whom u s intelligence suspects of being a chinese spy the committee is ready to issue a subpoena if huang doesn t show up",
-   "fa": "🇺🇸⚡️ — تیم اسکات، رئیس کمیته بانکی سنا، هاوارد لوتنیک، وزیر بازرگانی ایالات متحده، و جنسن هوانگ، مدیرعامل سابق انویدیا، را احضار کرد تا ماه آینده به دنبال افشای رابطه هوانگ با آلیس هوانگ که اطلاعات ایالات متحده او را به جاسوسی برای چین مشکوک می‌داند، در خصوص نگرانی‌های امنیت ملی در کمیته بانکی سنا شهادت دهند. این کمیته آماده است در صورت حضور نیافتن هوانگ، احضاریه صادر کند."
-  },
-  {
    "t": 1794534501.0,
    "n": "president trump called jensen huang on tuesday urging him to fight to retain his ceo position at nvidia before his resignation amid an escalating chinese espionage scandal according to nyt trump continued supporting huang despite u s intelligence assessments that the nvidia executive had been involved in an affair with alice huang a woman suspected of being a chinese spy trump was warned twice onc",
    "fa": "🇺🇸🇨🇳⚡️ — به نوشته نیویورک تایمز، رئیس‌جمهور ترامپ روز سه‌شنبه با جنسن هوانگ تماس گرفت و از او خواست پیش از استعفایش در میان تشدید رسوایی جاسوسی چین، برای حفظ سمت مدیرعاملی خود در انویدیا بجنگد. ترامپ علیرغم ارزیابی‌های اطلاعاتی ایالات متحده مبنی بر اینکه مدیرعامل انویدیا رابطه با آلیس هوانگ، زنی که مشکوک به جاسوسی برای چین است، داشته است، به حمایت از هوانگ ادامه داد. ترامپ دو بار (یک بار در اواخر "
@@ -1142,19 +1137,20 @@
    "t": 1794576532.0,
    "n": "u s treasury secretary scott bessent on iran we have shut down the airlines in and out i tell the irgc which is one of the reasons they want to kill me that if you like your country congratulations you can t leave you can t go to london to see your relatives anymore you can t go to paris to see your girlfriends and you can t go to geneva to visit your money",
    "fa": "🇺🇸🇮🇷⚡️ — اسکات بسنت، وزیر خزانه‌داری آمریکا درباره ایران: ما پروازهای ورودی و خروجی را متوقف کرده‌ایم. من به سپاه پاسداران می‌گویم - که یکی از دلایل تمایل آن‌ها برای کشتن من همین است - که اگر کشور خود را دوست دارید، تبریک می‌گویم، دیگر نمی‌توانید خارج شوید. دیگر نمی‌توانید برای دیدن خویشاوندان خود به لندن بروید، دیگر نمی‌توانید برای دیدن دوستان خود به پاریس بروید، و دیگر نمی‌توانید برای سر زدن به "
+  },
+  {
+   "t": 1794576634.0,
+   "n": "u s treasury secretary scott bessent on iran with iran the president back when i came into the position told me in march 2025 scott go get them and we started a maximum pressure campaign i gave a speech at the economic club of new york and having been in the finance business i said i know a couple of things about trading currencies i think the iranian currency is going to collapse it was at 600 00",
+   "fa": "🇺🇸🇮🇷⚡️ — اسکات بسنت، وزیر خزانه‌داری آمریکا درباره ایران: با ایران، رئیس‌جمهور، زمانی که من وارد این سمت شدم، در مارس ۲۰۲۵ به من گفت: «اسکات، برو آن‌ها را بگیر.» و ما یک کارزار فشار حداکثری را آغاز کردیم. من در باشگاه اقتصادی نیویورک سخنرانی کردم و با توجه به حضورم در تجارت مالی، گفتم: «من یکی دو چیز درباره معامله ارز می‌دانم. فکر می‌کنم پول ایران سقوط خواهد کرد.» آن زمان نرخ برابری ۶۰۰ هزار تومان"
   }
  ],
  "usage": {
   "date": "2026-11-13",
-  "requests": 98
+  "requests": 99
  },
- "flip": 4205,
+ "flip": 4206,
  "quote_n": 2107,
  "feed": [
-  {
-   "t": 1794516206.0,
-   "tx": "❌گزارش ها از اختلال شدید اینترنت"
-  },
   {
    "t": 1794516240.0,
    "tx": "🔴 مقاومت پایین رأی‌دهندگان آمریکایی در برابر گرانی بنزین به سود ایران است\n\nبه گزارش وال‌استریت ژورنال ایران از عدم تمایل آمریکایی‌ها برای پذیرش قیمت‌های بالاتر بنزین سود می‌برد."
@@ -1550,6 +1546,10 @@
   {
    "t": 1794576532.0,
    "tx": "🇺🇸🇮🇷⚡️ — اسکات بسنت، وزیر خزانه‌داری آمریکا درباره ایران:\nما پروازهای ورودی و خروجی را متوقف کرده‌ایم.\n\nمن به سپاه پاسداران می‌گویم - که یکی از دلایل تمایل آن‌ها برای کشتن من همین است - که اگر کشور خود را دوست دارید، تبریک می‌گویم، دیگر نمی‌توانید خارج شوید.\n\nدیگر نمی‌توانید برای دیدن خویشاوندان خود به لندن بروید، دیگر نمی‌توانید برای دیدن دوستان خود به پاریس بروید، و دیگر نمی‌توانید برای سر زدن به پول‌هایتان به ژنو بروید."
+  },
+  {
+   "t": 1794576634.0,
+   "tx": "🇺🇸🇮🇷⚡️ — اسکات بسنت، وزیر خزانه‌داری آمریکا درباره ایران:\nبا ایران، رئیس‌جمهور، زمانی که من وارد این سمت شدم، در مارس ۲۰۲۵ به من گفت: «اسکات، برو آن‌ها را بگیر.» و ما یک کارزار فشار حداکثری را آغاز کردیم.\n\nمن در باشگاه اقتصادی نیویورک سخنرانی کردم و با توجه به حضورم در تجارت مالی، گفتم: «من یکی دو چیز درباره معامله ارز می‌دانم. فکر می‌کنم پول ایران سقوط خواهد کرد.»\n\nآن زمان نرخ برابری ۶۰۰ هزار تومان در برابر دلار بود. اکنون به ۳ میلیون رسیده است. بنابراین آن‌ها دارای تورم ۲۰۰ درصدی هستند و اقتصاد اکنون به قدری بد است که چاپ کردن قیمت غیرقانونی شده است."
   }
  ],
  "signals": [
@@ -2340,6 +2340,11 @@
   },
   {
    "t": 1794576692.3014266,
+   "s": 4,
+   "p": 65
+  },
+  {
+   "t": 1794576970.1614661,
    "s": 4,
    "p": 65
   }
