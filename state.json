@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110811
+   "last_id": 110812
   },
   "khabarfouri": {
    "last_id": 569949
@@ -864,11 +864,6 @@
  },
  "recent": [
   {
-   "t": 1794531668.0,
-   "n": "former nvidia ceo jensen huang reportedly had an intimate relationship with a third woman employed by the company according to reuters citing two sources familiar with the matter the disclosure follows revelations of two other extramarital affairs that led to huang s resignation on thursday those relationships involved alice huang whom u s intelligence suspects of being a chinese spy and kimberly ",
-   "fa": "🇺🇸⚡️ — به گزارش رویترز به نقل از دو منبع آگاه، جنسن هوانگ، مدیرعامل سابق انویدیا، ظاهراً رابطه نزدیکی با سومین زن شاغل در این شرکت داشته است. این افشاگری به دنبال فاش شدن دو رابطه نامشروع دیگر صورت می‌گیرد که روز پنجشنبه به استعفای هوانگ منجر شد. آن روابط شامل آلیس هوانگ که اطلاعات ایالات متحده او را به جاسوسی برای چین مشکوک می‌داند، و کیمبرلی پاول، معاون بخش مراقبت‌های بهداشتی انویدیا، می‌شود."
-  },
-  {
    "t": 1794533620.0,
    "n": "senate banking chair tim scott has summoned u s commerce secretary howard lutnick and former nvidia ceo jensen huang to testify before the senate banking committee next month over national security concerns following revelations that huang had a relationship with alice huang whom u s intelligence suspects of being a chinese spy the committee is ready to issue a subpoena if huang doesn t show up",
    "fa": "🇺🇸⚡️ — تیم اسکات، رئیس کمیته بانکی سنا، هاوارد لوتنیک، وزیر بازرگانی ایالات متحده، و جنسن هوانگ، مدیرعامل سابق انویدیا، را احضار کرد تا ماه آینده به دنبال افشای رابطه هوانگ با آلیس هوانگ که اطلاعات ایالات متحده او را به جاسوسی برای چین مشکوک می‌داند، در خصوص نگرانی‌های امنیت ملی در کمیته بانکی سنا شهادت دهند. این کمیته آماده است در صورت حضور نیافتن هوانگ، احضاریه صادر کند."
@@ -1127,19 +1122,20 @@
    "t": 1794574600.0,
    "n": "ابوترابی نماینده مجلس با اطلاع میگم رهبر در بسیاری از شهرا شخصا میاد تو تجمعات",
    "fa": "⭕️ابوترابی، نماینده مجلس: با اطلاع میگم رهبر در بسیاری از شهرا شخصا میاد تو تجمعات"
+  },
+  {
+   "t": 1794574890.0,
+   "n": "u s central command denies the irgc s claim that they destroyed an american early warning radar in bahrain centcom says two drones launched at bahrain was intercepted by u s forces resulting in no injuries or damage",
+   "fa": "🇺🇸🇧🇭🇮🇷⚡️ — فرماندهی مرکزی ایالات متحده (سنتکام) ادعای سپاه پاسداران مبنی بر انهدام یک رادار هشدار زودهنگام آمریکایی در بحرین را رد کرد. سنتکام اعلام کرد دو پهپاد پرتاب شده به سمت بحرین توسط نیروهای آمریکایی رهگیری شده‌اند و این حادثه هیچ تلفات جانی یا خسارتی در پی نداشته است."
   }
  ],
  "usage": {
   "date": "2026-11-13",
-  "requests": 93
+  "requests": 94
  },
- "flip": 4202,
+ "flip": 4203,
  "quote_n": 2107,
  "feed": [
-  {
-   "t": 1794515461.0,
-   "tx": "⭕️نمایش و روشن کردن پهباد شاهد 136 در تجمعات شبانه خوزستان"
-  },
   {
    "t": 1794515629.0,
    "tx": "🔄 به‌روزرسانی\n⭕️/ ترامپ: در صورت لزوم در استفادهٔ مجدد از نیروی نظامی علیه ایران تردید نخواهم کرد\n\nممکن است همین الان این کار را انجام دهم."
@@ -1535,6 +1531,10 @@
   {
    "t": 1794574600.0,
    "tx": "⭕️ابوترابی، نماینده مجلس:\n\nبا اطلاع میگم رهبر در بسیاری از شهرا شخصا میاد تو تجمعات"
+  },
+  {
+   "t": 1794574890.0,
+   "tx": "🇺🇸🇧🇭🇮🇷⚡️ — فرماندهی مرکزی ایالات متحده (سنتکام) ادعای سپاه پاسداران مبنی بر انهدام یک رادار هشدار زودهنگام آمریکایی در بحرین را رد کرد.\n\nسنتکام اعلام کرد دو پهپاد پرتاب شده به سمت بحرین توسط نیروهای آمریکایی رهگیری شده‌اند و این حادثه هیچ تلفات جانی یا خسارتی در پی نداشته است."
   }
  ],
  "signals": [
@@ -2322,6 +2322,11 @@
    "t": 1794574709.1117277,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1794575173.4559782,
+   "s": 4,
+   "p": 45
   }
  ],
  "risk": {
