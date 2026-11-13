@@ -10,7 +10,7 @@
    "last_id": 134926
   },
   "TelNews_Magazine": {
-   "last_id": 103537
+   "last_id": 103538
   },
   "NE_WG": {
    "last_id": 118020
@@ -864,16 +864,6 @@
  },
  "recent": [
   {
-   "t": 1794530532.0,
-   "n": "president trump on jensen huang i always thought of him as a fine man i spoke to him yesterday he s going through hell what he feels most badly about is his wife and family that s what he told me it s very hard to replace him but i had an idea this morning that i sort of just released tim cook",
-   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ درباره جنسن هوانگ: من همیشه او را مرد خوبی می‌دانستم. دیروز با او صحبت کردم. او شرایط بسیار سختی را می‌گذراند. چیزی که بیش از همه باعث ناراحتی او شده، همسر و خانواده‌اش است. این چیزی است که او به من گفت. جایگزین کردن او بسیار دشوار است، اما من امروز صبح ایده‌ای داشتم که آن را مطرح کردم: تیم کوک."
-  },
-  {
-   "t": 1794530605.0,
-   "n": "president trump on nvidia i think tim cook would be a great candidate to run nvidia",
-   "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ درباره انویدیا: من فکر می‌کنم تیم کوک گزینه فوق‌العاده‌ای برای اداره انویدیا خواهد بود."
-  },
-  {
    "t": 1794531533.0,
    "n": "saudi arabia is lobbying the european union to designate yemen s houthis ansarallah as a terrorist organization amid near daily attacks on the kingdom according to reuters citing six european officials several eu governments oppose the proposal fearing that a terrorist designation could sever remaining diplomatic channels with the houthis and jeopardize future peace negotiations the designation wo",
    "fa": "🇸🇦🇪🇺🇾🇪⚡️ — به گزارش رویترز به نقل از ۶ مقام اروپایی، عربستان سعودی در حال لابی با اتحادیه اروپا است تا حوثی‌های یمن (انصارالله) را در میان حملات تقریبا روزانه به این پادشاهی، به عنوان سازمان تروریستی معرفی کند. چندین دولت اروپایی با این پیشنهاد مخالفت کرده و ابراز نگرانی کرده‌اند که تروریستی اعلام کردن این گروه می‌تواند کانال‌های دیپلماتیک باقی‌مانده با حوثی‌ها را قطع کرده و مذاکرات صلح آینده را ب"
@@ -1141,7 +1131,7 @@
  ],
  "usage": {
   "date": "2026-11-13",
-  "requests": 90
+  "requests": 91
  },
  "flip": 4200,
  "quote_n": 2106,
