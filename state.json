@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110852
+   "last_id": 110853
   },
   "khabarfouri": {
    "last_id": 569949
@@ -10,10 +10,10 @@
    "last_id": 134952
   },
   "TelNews_Magazine": {
-   "last_id": 103565
+   "last_id": 103567
   },
   "NE_WG": {
-   "last_id": 118054
+   "last_id": 118055
   }
  },
  "fails": {},
@@ -785,7 +785,8 @@
     "https://www.nytimes.com/2026/11/13/world/middleeast/the-us-israel-relationship-is-broken-heres-how-eisenkot-could-fix-it.html",
     "https://www.nytimes.com/2026/11/13/world/middleeast/israel-trump-eisenkot.html",
     "https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html",
-    "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-accuses-netanyahu-of-inciting-hatred-against-arabs.html"
+    "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-accuses-netanyahu-of-inciting-hatred-against-arabs.html",
+    "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html"
    ]
   },
   "Treasury": {
@@ -1171,7 +1172,7 @@
  ],
  "usage": {
   "date": "2026-11-13",
-  "requests": 155
+  "requests": 156
  },
  "flip": 4240,
  "quote_n": 2124,
