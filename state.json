@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110848
+   "last_id": 110849
   },
   "khabarfouri": {
    "last_id": 569949
@@ -859,7 +859,8 @@
     "https://ofac.treasury.gov/recent-actions/20261104",
     "https://ofac.treasury.gov/recent-actions/20261105",
     "https://ofac.treasury.gov/recent-actions/20261106",
-    "https://ofac.treasury.gov/recent-actions/20261109"
+    "https://ofac.treasury.gov/recent-actions/20261109",
+    "https://ofac.treasury.gov/recent-actions/20261113"
    ]
   }
  },
@@ -1167,7 +1168,7 @@
  ],
  "usage": {
   "date": "2026-11-13",
-  "requests": 133
+  "requests": 134
  },
  "flip": 4228,
  "quote_n": 2113,
