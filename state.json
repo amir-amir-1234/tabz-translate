@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 134928
+   "last_id": 134929
   },
   "TelNews_Magazine": {
    "last_id": 103542
   },
   "NE_WG": {
-   "last_id": 118021
+   "last_id": 118022
   }
  },
  "fails": {},
@@ -864,11 +864,6 @@
  },
  "recent": [
   {
-   "t": 1794534501.0,
-   "n": "president trump called jensen huang on tuesday urging him to fight to retain his ceo position at nvidia before his resignation amid an escalating chinese espionage scandal according to nyt trump continued supporting huang despite u s intelligence assessments that the nvidia executive had been involved in an affair with alice huang a woman suspected of being a chinese spy trump was warned twice onc",
-   "fa": "🇺🇸🇨🇳⚡️ — به نوشته نیویورک تایمز، رئیس‌جمهور ترامپ روز سه‌شنبه با جنسن هوانگ تماس گرفت و از او خواست پیش از استعفایش در میان تشدید رسوایی جاسوسی چین، برای حفظ سمت مدیرعاملی خود در انویدیا بجنگد. ترامپ علیرغم ارزیابی‌های اطلاعاتی ایالات متحده مبنی بر اینکه مدیرعامل انویدیا رابطه با آلیس هوانگ، زنی که مشکوک به جاسوسی برای چین است، داشته است، به حمایت از هوانگ ادامه داد. ترامپ دو بار (یک بار در اواخر "
-  },
-  {
    "t": 1794534888.0,
    "n": "california governor gavin newsom on iran it s a colossal mistake by the trump administration the way it s been conducted the loss of life civilian lives is a disgrace president trump never apologized for the attack on the minab school it s a disgrace we called that out right when it happened",
    "fa": "🇺🇸🇮🇷⚡️ — گاوین نیوسام، فرماندار کالیفرنیا، درباره ایران: این یک اشتباه بزرگ از سوی دولت ترامپ است، با نحوه هدایت آن. از دست رفتن جان انسان‌ها—زندگی غیرنظامیان—یک مایه شرمساری است. رئیس‌جمهور ترامپ هرگز برای حمله به مدرسه میناب عذرخواهی نکرد. این یک شرمساری است. ما همان زمان که اتفاق افتاد، آن را محکوم کردیم."
@@ -1156,7 +1151,7 @@
  ],
  "usage": {
   "date": "2026-11-13",
-  "requests": 101
+  "requests": 102
  },
  "flip": 4207,
  "quote_n": 2107,
