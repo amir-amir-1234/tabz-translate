@@ -10,7 +10,7 @@
    "last_id": 135014
   },
   "TelNews_Magazine": {
-   "last_id": 103619
+   "last_id": 103620
   },
   "NE_WG": {
    "last_id": 118155
@@ -871,11 +871,6 @@
  },
  "recent": [
   {
-   "t": 1794620228.0,
-   "n": "dhs secretary markwayne mullin on the nationwide ground stop there is no connection between this and microsoft there is no cyberattack",
-   "fa": "🇺🇸⚡️ — مارکوین مولین، وزیر امنیت داخلی آمریکا در خصوص توقف سراسری پروازها: هیچ ارتباطی میان این موضوع و مایکروسافت وجود ندارد. هیچ حمله سایبری‌ای رخ نداده است."
-  },
-  {
    "t": 1794620618.0,
    "n": "transportation secretary sean duffy what we have is an incredibly old air traffic control system president trump and i have been talking about this for the past two years president trump has for the last year asked congress to fully fund a full build of a brand new air traffic control system",
    "fa": "🔄 به‌روزرسانی 🇺🇸⚡️ — شان داف، وزیر حمل‌ونقل: آنچه ما داریم یک سیستم کنترل ترافیک هوایی فوق‌العاده قدیمی است. رئیس‌جمهور ترامپ و من در دو سال گذشته درباره این موضوع صحبت کرده‌ایم. رئیس‌جمهور ترامپ در سال گذشته از کنگره خواسته است که بودجه کامل برای ساخت یک سیستم کنترل ترافیک هوایی کاملاً جدید را تأمین کند."
@@ -1123,7 +1118,7 @@
  ],
  "usage": {
   "date": "2026-11-14",
-  "requests": 89
+  "requests": 90
  },
  "flip": 4320,
  "quote_n": 2165,
@@ -1530,11 +1525,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794576970.1614661,
-   "s": 4,
-   "p": 65
-  },
   {
    "t": 1794577293.2279444,
    "s": 4,
