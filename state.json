@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110951
+   "last_id": 110952
   },
   "khabarfouri": {
    "last_id": 569949
@@ -871,11 +871,6 @@
  },
  "recent": [
   {
-   "t": 1794619666.0,
-   "n": "former nvidia ceo jensen huang misled senior company executives including general counsel tim teter and chief marketing officer alison wagonfeld about his relationship with chinese businesswoman alice huang who is suspected to be a chinese spy with whom he had an extramarital affair according to reuters internal correspondence reviewed by reuters shows that huang repeatedly described his interacti",
-   "fa": "🇺🇸🇨🇳⚡️ — به گزارش رویترز، جنسن هوانگ، مدیرعامل سابق انویدیا، ارشدترین مدیران شرکت از جمله تیم تتر، مشاور حقوقی کل، و آلیسون واگن‌فلد، مدیر ارشد بازاریابی، را درباره رابطه خود با آلیس هوانگ، تاجر چینی که به جاسوسی برای چین مشهور است و رابطه خارج از ازدواج با او داشته، فریب داده است. مکاتبات داخلی بررسی‌شده توسط رویترز نشان می‌دهد که هوانگ مکرراً تعاملات خود با آلیس هوانگ و شرکت مگاسپید اینترنشنال، "
-  },
-  {
    "t": 1794620228.0,
    "n": "dhs secretary markwayne mullin on the nationwide ground stop there is no connection between this and microsoft there is no cyberattack",
    "fa": "🇺🇸⚡️ — مارکوین مولین، وزیر امنیت داخلی آمریکا در خصوص توقف سراسری پروازها: هیچ ارتباطی میان این موضوع و مایکروسافت وجود ندارد. هیچ حمله سایبری‌ای رخ نداده است."
@@ -1128,7 +1123,7 @@
  ],
  "usage": {
   "date": "2026-11-14",
-  "requests": 88
+  "requests": 89
  },
  "flip": 4320,
  "quote_n": 2165,
