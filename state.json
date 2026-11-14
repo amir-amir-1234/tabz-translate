@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135013
+   "last_id": 135014
   },
   "TelNews_Magazine": {
    "last_id": 103614
   },
   "NE_WG": {
-   "last_id": 118154
+   "last_id": 118155
   }
  },
  "fails": {},
@@ -196,12 +196,12 @@
     "https://www.foxnews.com/world/fiery-chaos-erupts-spain-protesters-clash-police-massive-nationwide-strike",
     "https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops",
     "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops",
-    "https://www.foxnews.com/world/irans-shadow-operations-stretch-across-europe-chilling-spy-convictions-expose-tehrans-reach"
+    "https://www.foxnews.com/world/irans-shadow-operations-stretch-across-europe-chilling-spy-convictions-expose-tehrans-reach",
+    "https://www.foxnews.com/world/inside-arab-nations-battle-against-radicalism-top-official-warns-threat-brewing-europes-streets"
    ]
   },
   "WSJ": {
    "seen": [
-    "SB10553546939527494218504593523850102740668",
     "SB10865903614445404644304593524021041939016",
     "SB11676206231181634135104593523643473933844",
     "WP-WSJ-0003992282",
@@ -600,7 +600,8 @@
     "WP-WSJ-0004065530",
     "WP-WSJ-0004058091",
     "WP-WSJ-0003983537",
-    "WP-WSJ-0004061482"
+    "WP-WSJ-0004061482",
+    "WP-WSJ-0004065180"
    ]
   },
   "NYT": {
@@ -1123,19 +1124,20 @@
    "t": 1794657240.0,
    "n": "iran s irgc announced that they shot down a u s mq 1 drone over qeshm island using their advanced air defense system claiming it to be the 17th downed american mq 1 drone",
    "fa": "🇮🇷🇺🇸⚡️ — سپاه پاسداران انقلاب اسلامی اعلام کرد که یک پهپاد MQ-1 آمریکا را بر فراز جزیره قشم با استفاده از سامانه پدافندی پیشرفته خود سرنگون کرده است. این هفدهمین پهپاد MQ-1 آمریکایی است که توسط ایران سرنگون می‌شود."
+  },
+  {
+   "t": 1794657960.0,
+   "n": "the massive chinese spy operation targeting western tech and ai plus democrats ordered elon musk to preserve records related to ukraine s starlink access and our columnist hunts for a crisper apple",
+   "fa": "🔴 عملیات جاسوسی گسترده چین با هدف قراردادن فناوری غربی و هوش مصنوعی به گزارش وال‌استریت ژورنال، این روزنامه در گزارشی به بررسی عملیات جاسوسی گسترده چین با هدف قرار دادن فناوری غربی و هوش مصنوعی پرداخته است. علاوه بر این، دموکرات‌ها به ایلان ماسک دستور داده‌اند تا سوابق مربوط به دسترسی اوکراین به استارلینک را حفظ کند و ستون‌نویس این نشریه نیز به دنبال سیبی تردتر است."
   }
  ],
  "usage": {
   "date": "2026-11-14",
-  "requests": 76
+  "requests": 78
  },
- "flip": 4316,
- "quote_n": 2163,
+ "flip": 4317,
+ "quote_n": 2164,
  "feed": [
-  {
-   "t": 1794597926.0,
-   "tx": "‼️‼️در حال حاضر یک کشتی در تنگه هرمز دچار آتش‌سوزی شده است"
-  },
   {
    "t": 1794598626.0,
    "tx": "🔄 به‌روزرسانی\n🇮🇱🇺🇸〰️❌〰️🇮🇷 کانال 13 اسرائیل:\n\n‼️رئیس موساد امشب اطلاعاتی محرمانه و تازه در مورد توسعه برنامه هسته‌ای ایران به ترامپ ارائه خواهد داد، او همچنین اطلاعاتی در مورد برنامه توسعه موشکی رژیم ایران در جلسات واشینگتن به اشتراک خواهد گذاشت."
@@ -1531,6 +1533,10 @@
   {
    "t": 1794657240.0,
    "tx": "🇮🇷🇺🇸⚡️ — سپاه پاسداران انقلاب اسلامی اعلام کرد که یک پهپاد MQ-1 آمریکا را بر فراز جزیره قشم با استفاده از سامانه پدافندی پیشرفته خود سرنگون کرده است. این هفدهمین پهپاد MQ-1 آمریکایی است که توسط ایران سرنگون می‌شود."
+  },
+  {
+   "t": 1794657960.0,
+   "tx": "🔴 عملیات جاسوسی گسترده چین با هدف قراردادن فناوری غربی و هوش مصنوعی\n\nبه گزارش وال‌استریت ژورنال، این روزنامه در گزارشی به بررسی عملیات جاسوسی گسترده چین با هدف قرار دادن فناوری غربی و هوش مصنوعی پرداخته است. علاوه بر این، دموکرات‌ها به ایلان ماسک دستور داده‌اند تا سوابق مربوط به دسترسی اوکراین به استارلینک را حفظ کند و ستون‌نویس این نشریه نیز به دنبال سیبی تردتر است."
   }
  ],
  "signals": [
