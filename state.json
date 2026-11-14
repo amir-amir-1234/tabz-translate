@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110952
+   "last_id": 110953
   },
   "khabarfouri": {
    "last_id": 569949
@@ -871,16 +871,6 @@
  },
  "recent": [
   {
-   "t": 1794620618.0,
-   "n": "transportation secretary sean duffy what we have is an incredibly old air traffic control system president trump and i have been talking about this for the past two years president trump has for the last year asked congress to fully fund a full build of a brand new air traffic control system",
-   "fa": "🔄 به‌روزرسانی 🇺🇸⚡️ — شان داف، وزیر حمل‌ونقل: آنچه ما داریم یک سیستم کنترل ترافیک هوایی فوق‌العاده قدیمی است. رئیس‌جمهور ترامپ و من در دو سال گذشته درباره این موضوع صحبت کرده‌ایم. رئیس‌جمهور ترامپ در سال گذشته از کنگره خواسته است که بودجه کامل برای ساخت یک سیستم کنترل ترافیک هوایی کاملاً جدید را تأمین کند."
-  },
-  {
-   "t": 1794620677.0,
-   "n": "transportation secretary sean duffy our routers actually got overloaded with data and it went down i shouldn t say they went down they started giving us inconsistencies in the data from those routers and because of that we shut the system down",
-   "fa": "🇺🇸⚡️ — شان داف، وزیر حمل‌ونقل: روترهای ما در واقع با داده‌ها بارگذاری بیش از حد شدند و از کار افتادند. نباید بگویم از کار افتادند؛ آن‌ها داده‌های ناسازگاری را از آن روترها به ما دادند و به همین دلیل، ما سیستم را خاموش کردیم."
-  },
-  {
    "t": 1794620895.0,
    "n": "transportation secretary sean duffy let s not do a patchwork a fix to a air traffic system that s critical for every single family it s not red it s not blue it s not democrat it s not republican it s american give us the money to fix it",
    "fa": "🇺🇸⚡️ — شان داف، وزیر حمل‌ونقل: بیایید به جای یک وصلهه‌پینه موقتی، سیستمی را که برای تک‌تک خانواده‌ها حیاتی است، تعمیر کنیم. این موضوع قرمز یا آبی، دموکرات یا جمهوری‌خواه نیست، بلکه آمریکایی است. بودجه لازم را به ما بدهید تا آن را تعمیر کنیم!"
@@ -1118,7 +1108,7 @@
  ],
  "usage": {
   "date": "2026-11-14",
-  "requests": 90
+  "requests": 91
  },
  "flip": 4320,
  "quote_n": 2165,
@@ -1525,11 +1515,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794577293.2279444,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1794577576.701628,
    "s": 4,
