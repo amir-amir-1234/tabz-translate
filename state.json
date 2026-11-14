@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110944
+   "last_id": 110947
   },
   "khabarfouri": {
    "last_id": 569949
@@ -871,11 +871,6 @@
  },
  "recent": [
   {
-   "t": 1794615817.0,
-   "n": "fox news reports u s secretary of state marco rubio has returned to the white house and is monitoring the ground stop situation with his national security team",
-   "fa": "🇺🇸⚡️ — فاکس‌نیوز گزارش داد مارکو روبیو، وزیر امور خارجه ایالات متحده، به کاخ سفید بازگشته و وضعیت توقف پروازها را با تیم امنیت ملی خود زیر نظر دارد."
-  },
-  {
    "t": 1794618322.0,
    "n": "president trump told fox news that the nationwide u s flight ground stop does not appear to be connected to a cyberattack suggesting instead that outdated aviation systems may be responsible for the disruption",
    "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ به فاکس‌نیوز گفت که توقف سراسری پروازها در ایالات متحده به نظر نمی‌رسد ارتباطی با یک حمله سایبری داشته باشد و به جای آن پیشنهاد کرد که سیستم‌های قدیمی هوانوردی ممکن است مسئول این اختلال باشند."
@@ -1133,7 +1128,7 @@
  ],
  "usage": {
   "date": "2026-11-14",
-  "requests": 79
+  "requests": 81
  },
  "flip": 4318,
  "quote_n": 2165,
