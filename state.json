@@ -10,10 +10,10 @@
    "last_id": 135007
   },
   "TelNews_Magazine": {
-   "last_id": 103603
+   "last_id": 103604
   },
   "NE_WG": {
-   "last_id": 118149
+   "last_id": 118150
   }
  },
  "fails": {},
@@ -870,16 +870,6 @@
  },
  "recent": [
   {
-   "t": 1794608170.0,
-   "n": "dhs secretary markwayne mullin there s no reason for the public to be afraid or scared for your loved ones this isn t a another 9 11 i just can t repeat that enough this is a telecommunications outage this is much different",
-   "fa": "🇺🇸⚡️ — مارکوین مولین، وزیر امنیت داخلی آمریکا: هیچ دلیلی وجود ندارد که مردم یا عزیزانتان بترسند. این حمله دیگری مانند ۱۱ سپتامبر نیست. من نمی‌توانم به اندازه کافی روی این موضوع تأکید کنم. این یک قطعی مخابراتی است. این بسیار متفاوت است."
-  },
-  {
-   "t": 1794608240.0,
-   "n": "dhs secretary markwayne mullin the president took a lead in this immediately that s what leaders do president trump is the best at leading us",
-   "fa": "🇺🇸⚡️ — مارکوین مولین، وزیر امنیت داخلی آمریکا: رئیس‌جمهور فوراً رهبری را به دست گرفت. این کاری است که رهبران انجام می‌دهند. رئیس‌جمهور ترامپ بهترین فرد در رهبری ما است."
-  },
-  {
    "t": 1794608521.0,
    "n": "وزیر امنیت داخلی آمریکا به تمام افرادی که در حال حاضر در هواپیما هستند اطمینان می دهیم که شما را سالم به زمین خواهیم رساند از سرگیری پروازها در آمریکا مدتی طول خواهد کشید",
    "fa": "🇺🇸 وزیر امنیت داخلی آمریکا: «به تمام افرادی که در حال حاضر در هواپیما هستند، اطمینان می‌دهیم که شما را سالم به زمین خواهیم رساند. از سرگیری پروازها در آمریکا مدتی طول خواهد کشید.»"
@@ -1162,7 +1152,7 @@
  ],
  "usage": {
   "date": "2026-11-14",
-  "requests": 59
+  "requests": 60
  },
  "flip": 4309,
  "quote_n": 2159,
