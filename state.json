@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 110943
+   "last_id": 110944
   },
   "khabarfouri": {
    "last_id": 569949
@@ -871,11 +871,6 @@
  },
  "recent": [
   {
-   "t": 1794615441.0,
-   "n": "fox news denies the authenticity of this report regarding a botched atc systems update saying this is not remotely close to what occured",
-   "fa": "🔄 به‌روزرسانی 🇺🇸⚡️ — فاکس‌نیوز صحت گزارش مربوط به به‌روزرسانی ناموفق سیستم‌های کنترل ترافیک هوایی را رد کرد و گفت این موضوع «حتی از دور» هم به آنچه رخ داده شباهت ندارد."
-  },
-  {
    "t": 1794615817.0,
    "n": "fox news reports u s secretary of state marco rubio has returned to the white house and is monitoring the ground stop situation with his national security team",
    "fa": "🇺🇸⚡️ — فاکس‌نیوز گزارش داد مارکو روبیو، وزیر امور خارجه ایالات متحده، به کاخ سفید بازگشته و وضعیت توقف پروازها را با تیم امنیت ملی خود زیر نظر دارد."
@@ -1545,11 +1540,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794572177.8971066,
-   "s": 4,
-   "p": 70
-  },
   {
    "t": 1794572770.303375,
    "s": 2,
