@@ -16,7 +16,9 @@
    "last_id": 118217
   }
  },
- "fails": {},
+ "fails": {
+  "TelNews_Magazine/103679": 1
+ },
  "web": {
   "Fox News": {
    "seen": [
@@ -1136,7 +1138,7 @@
  ],
  "usage": {
   "date": "2026-11-15",
-  "requests": 67
+  "requests": 68
  },
  "flip": 4390,
  "quote_n": 2211,
