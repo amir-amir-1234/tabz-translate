@@ -796,7 +796,8 @@
     "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
     "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
     "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-backed-forces-in-yemen-retreat-from-red-sea-as-houthis-advance.html",
-    "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html"
+    "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+    "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html"
    ]
   },
   "Treasury": {
@@ -1182,7 +1183,7 @@
  ],
  "usage": {
   "date": "2026-11-15",
-  "requests": 198
+  "requests": 199
  },
  "flip": 4465,
  "quote_n": 2253,
