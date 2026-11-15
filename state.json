@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111030
+   "last_id": 111031
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135109
+   "last_id": 135110
   },
   "TelNews_Magazine": {
-   "last_id": 103707
+   "last_id": 103708
   },
   "NE_WG": {
-   "last_id": 118244
+   "last_id": 118245
   }
  },
  "fails": {},
@@ -793,7 +793,8 @@
     "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
     "https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html",
     "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
-    "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html"
+    "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+    "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-backed-forces-in-yemen-retreat-from-red-sea-as-houthis-advance.html"
    ]
   },
   "Treasury": {
@@ -876,11 +877,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1794720348.0,
-   "n": "نایا تصاویری از وقوع انفجار و آتش سوزی گسترده در یک نفت کش پس از برخورد با مین های دریایی در تنگه هرمز این نفت کش قصد داشت از مسیری که از سوی جمهوری اسلامی ایران غیرمجاز اعلام شده بود عبور کند",
-   "fa": "🔥💢نایا: تصاویری از وقوع انفجار و آتش‌سوزی گسترده در یک نفت‌کش پس از برخورد با مین‌های دریایی در تنگه هرمز؛ این نفت‌کش قصد داشت از مسیری که از سوی جمهوری اسلامی ایران غیرمجاز اعلام شده بود، عبور کند"
-  },
   {
    "t": 1794723340.0,
    "n": "the irgc launched multiple anti ship cruise missiles from sirik southern iran towards vessels travelling down disallowed routes in the strait of hormuz around 40 minutes ago these launched coincided with what locals in sirik described as the sounds of fighter jets although its possible that this was mixed up with the sounds of the missile overflights",
@@ -1175,19 +1171,20 @@
    "t": 1794756590.0,
    "n": "surface to air missile launch from tula eastern qeshm island iran",
    "fa": "🔄 به‌روزرسانی 🇮🇷❌🇺🇸 — پرتاب موشک زمین به هوا از تولا، در شرق جزیره قشم، ایران."
+  },
+  {
+   "t": 1794757487.0,
+   "n": "کانال ۱۳ اسرائیل نتانیاهو به واشنگتن اطلاع داد در صورت اقدام نکردن آمریکا اسرائیل به تنهایی به ایران حمله خواهد کرد",
+   "fa": "🚨کانال ۱۳ اسرائیل: نتانیاهو به واشنگتن اطلاع داد در صورت اقدام نکردن آمریکا، اسرائیل به‌تنهایی به ایران حمله خواهد کرد"
   }
  ],
  "usage": {
   "date": "2026-11-15",
-  "requests": 136
+  "requests": 137
  },
  "flip": 4423,
- "quote_n": 2227,
+ "quote_n": 2228,
  "feed": [
-  {
-   "t": 1794684707.0,
-   "tx": "🔴 〰️ پنتاگون در حال بررسی این موضوع است که تنها حدود ۵۰۰۰ نفر از مجموع حدود ۸۰ هزار سرباز مستقر در اروپا را کاهش دهد، که این میزان بسیار کمتر از ۲۵ هزار نفری است که در ابتدا توسط متحدان ناتو مورد نگرانی قرار داشت.\n\nاین تغییرات نشان‌دهنده افزایش هزینه‌های دفاعی در اروپا و اتکای واشنگتن به پایگاه‌های اروپایی برای ادامه جنگ خود علیه ایران است.\n\nبیشترین کاهش‌ها احتمالاً بر آلمان تأثیر خواهد گذاشت، در حالی که مرزهای شرقی ناتو ممکن است تقویت شوند.\n\nپیش‌بینی می‌شود که پیټ هیگ‌ست در تاریخ ۱ دسامبر، پیشنهادات نهایی خود را به ترامپ ارائه دهد.\n\nمنبع: بلومبرگ"
-  },
   {
    "t": 1794685503.0,
    "tx": "⭕️داده‌های پروازی نشان می‌دهد یک هواپیمای دولتی قطری به سمت تهران، ایران در حرکت است"
@@ -1583,19 +1580,13 @@
   {
    "t": 1794756590.0,
    "tx": "🔄 به‌روزرسانی\n🇮🇷❌🇺🇸 — پرتاب موشک زمین به هوا از تولا، در شرق جزیره قشم، ایران."
+  },
+  {
+   "t": 1794757487.0,
+   "tx": "🚨کانال ۱۳ اسرائیل: نتانیاهو به واشنگتن اطلاع داد در صورت اقدام نکردن آمریکا، اسرائیل به‌تنهایی به ایران حمله خواهد کرد"
   }
  ],
  "signals": [
-  {
-   "t": 1794670876.119451,
-   "s": 4,
-   "p": 45
-  },
-  {
-   "t": 1794670879.4863555,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1794672986.4326704,
    "s": 4,
@@ -2195,6 +2186,11 @@
    "t": 1794756968.7424247,
    "s": 5,
    "p": 75
+  },
+  {
+   "t": 1794757574.5587332,
+   "s": 5,
+   "p": 80
   }
  ],
  "risk": {
