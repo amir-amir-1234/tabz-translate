@@ -791,7 +791,8 @@
     "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-accuses-netanyahu-of-inciting-hatred-against-arabs.html",
     "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
     "https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html",
-    "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html"
+    "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
+    "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html"
    ]
   },
   "Treasury": {
@@ -874,11 +875,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1794704400.0,
-   "n": "u s figures iran still has up to 2 500 missiles countering trump assertions the reconstitution of tehran s missile stockpile has factored into the trump administration s discussions about whether to resume strikes",
-   "fa": "⭕️ برآورد جدید آمریکا حاکی از وجود حداکثر ۲۵۰۰ موشک در ایران است به گزارش وال‌استریت ژورنال برآورد مقامات آمریکایی نشان می‌دهد که ایران همچنان تا ۲۵۰۰ موشک در اختیار دارد که این موضوع در تضاد با ادعاهای ترامپ است. بازسازی ذخایر موشکی تهران یکی از عوامل مؤثر در گفتگوهای دولت ترامپ پیرامون احتمال از سرگیری حملات بوده است."
-  },
   {
    "t": 1794704419.0,
    "n": "president trump via truth social has anyone noticed that immediately after the election the stock market lost 3 trillion dollars in value in other words investors throughout the world hated seeing what took place on election day but have no fear the market has since gone up and america will soon be greater than ever before",
@@ -1173,19 +1169,20 @@
    "t": 1794744061.0,
    "n": "هم اکنون رزمایش سپاه و پرتاب موشک بالستیک از تبریز",
    "fa": "⭕️هم اکنون رزمایش سپاه و پرتاب موشک بالستیک از تبریز"
+  },
+  {
+   "t": 1794744424.0,
+   "n": "iran attacks bahrain for the second time in days the resumption of attacks after a two month lull comes as peace talks between the u s and iran appear to have stalled",
+   "fa": "🚨 از سرگیری حملات علیه بحرین پس از وقفه دو ماهه همزمان با بن‌بست در مذاکرات صلح به گزارش نیویورک تایمز، ایران برای دومین بار در چند روز گذشته به بحرین حمله کرد. از سرگیری این حملات پس از یک وقفه دو ماهه در حالی رخ می‌دهد که مذاکرات صلح میان ایالات متحده آمریکا و ایران متوقف به نظر می‌رسد."
   }
  ],
  "usage": {
   "date": "2026-11-15",
-  "requests": 99
+  "requests": 101
  },
  "flip": 4404,
- "quote_n": 2217,
+ "quote_n": 2218,
  "feed": [
-  {
-   "t": 1794670777.0,
-   "tx": "⭕️خبرگزاری رکنا:\n\nکار از ماشین و‌ خونه و گوشی گذشته. مردم حتی نمیتونن لباس نو بخرن و همون لباس های سال های گذشته رو میپوشن چون پوشاک نسبت به پارسال ۱۰۸ درصد گرون شده و فقط در ماه گذشته ۱۱ درصد افزایش داشته."
-  },
   {
    "t": 1794672702.0,
    "tx": "🇺🇸❌〰️🇮🇷 اظهارات آنتونی بلینکن، وزیر امور خارجه سابق ایالات متحده، درباره جمهوري اسلامي:\n\nآن چیزی که رئیس‌جمهور ترامپ انتخاب کرد، یعنی اقدام نظامی، به نظر من باز هم یک اشتباه بود، زیرا هر دولت قبلی این موضوع را بررسی کرده بود و به این نتیجه رسیده بود که این اقدام باید آخرین راه حل باشد.\n\nحتی اگر این کار را انجام می‌دادید، ممکن بود برای مدتی ایران را عقب نگه دارید، اما به احتمال زیاد فقط یک عقب‌ماندگی چند ساله به دست می‌آوردید.\n\nاین برنامه عمیق‌تر در زیر زمین پنهان می‌شد و آن‌ها دوباره بازمی‌گشتند و حتی اقدامات بیشتری انجام می‌دادند."
@@ -1581,6 +1578,10 @@
   {
    "t": 1794744061.0,
    "tx": "⭕️هم اکنون رزمایش سپاه و پرتاب موشک بالستیک از تبریز"
+  },
+  {
+   "t": 1794744424.0,
+   "tx": "🚨 از سرگیری حملات علیه بحرین پس از وقفه دو ماهه همزمان با بن‌بست در مذاکرات صلح\n\nبه گزارش نیویورک تایمز، ایران برای دومین بار در چند روز گذشته به بحرین حمله کرد. از سرگیری این حملات پس از یک وقفه دو ماهه در حالی رخ می‌دهد که مذاکرات صلح میان ایالات متحده آمریکا و ایران متوقف به نظر می‌رسد."
   }
  ],
  "signals": [
@@ -2133,6 +2134,11 @@
    "t": 1794744373.6119325,
    "s": 4,
    "p": 45
+  },
+  {
+   "t": 1794744675.8588002,
+   "s": 5,
+   "p": 80
   }
  ],
  "risk": {
