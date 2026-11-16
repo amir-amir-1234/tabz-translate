@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135218
+   "last_id": 135219
   },
   "TelNews_Magazine": {
    "last_id": 103796
   },
   "NE_WG": {
-   "last_id": 118374
+   "last_id": 118375
   }
  },
  "fails": {},
@@ -1189,7 +1189,7 @@
  ],
  "usage": {
   "date": "2026-11-16",
-  "requests": 150
+  "requests": 152
  },
  "flip": 4537,
  "quote_n": 2293,
