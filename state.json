@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111127
+   "last_id": 111128
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135251
+   "last_id": 135252
   },
   "TelNews_Magazine": {
    "last_id": 103811
@@ -206,7 +206,8 @@
     "https://www.foxnews.com/world/blinken-warns-us-ground-invasion-iran-would-be-disaster-tehran-escalates-attacks",
     "https://www.foxnews.com/world/mexicos-cartel-godfather-convicted-american-dea-agents-murder-dies-age-80",
     "https://www.foxnews.com/world/spain-canary-islands-flooded-thousands-migrants-country-declares-emergency",
-    "https://www.foxnews.com/world/ukraine-hits-putins-prized-bridge-record-drone-blitz-kremlin-tells-lawmakers-prepare-victory"
+    "https://www.foxnews.com/world/ukraine-hits-putins-prized-bridge-record-drone-blitz-kremlin-tells-lawmakers-prepare-victory",
+    "https://www.foxnews.com/world/pope-leo-xiv-hit-face-flying-rosary-farewell-mass-peru-video-shows"
    ]
   },
   "WSJ": {
@@ -1190,7 +1191,7 @@
  ],
  "usage": {
   "date": "2026-11-16",
-  "requests": 196
+  "requests": 197
  },
  "flip": 4561,
  "quote_n": 2300,
@@ -1597,21 +1598,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794775273.7834957,
-   "s": 3,
-   "p": 30
-  },
-  {
-   "t": 1794775278.1904745,
-   "s": 1,
-   "p": 50
-  },
-  {
-   "t": 1794775281.6130574,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1794776167.8917925,
    "s": 4,
