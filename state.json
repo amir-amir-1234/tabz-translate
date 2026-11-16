@@ -10,7 +10,7 @@
    "last_id": 135175
   },
   "TelNews_Magazine": {
-   "last_id": 103759
+   "last_id": 103761
   },
   "NE_WG": {
    "last_id": 118328
@@ -209,7 +209,6 @@
   },
   "WSJ": {
    "seen": [
-    "SB10865903614445404644304593521712820250312",
     "SB11676206231181634135104593521590675071644",
     "WP-WSJ-0003991741",
     "WP-WSJ-0003995591",
@@ -608,7 +607,8 @@
     "WP-WSJ-0004067719",
     "WP-WSJ-0004065969",
     "WP-WSJ-0004067780",
-    "WP-WSJ-0004068093"
+    "WP-WSJ-0004068093",
+    "WP-WSJ-0004068237"
    ]
   },
   "NYT": {
@@ -884,21 +884,6 @@
  },
  "recent": [
   {
-   "t": 1794781733.0,
-   "n": "qatar s prime minister look at how many fronts were opened by netanyahu s government during the war and how much instability it created for the region we have experienced a lot of setbacks unfortunately because of the attitude of the government in israel at that time because of its rejections and because it kept raising the bar every day while changing the situation on the ground",
-   "fa": "🇶🇦🇮🇱⚡️ — نخست‌وزیر قطر: بنگرید که دولت نتانیاهو در طول جنگ چه تعداد جبهه را باز کرد و چه میزان بی‌ثباتی برای منطقه ایجاد نمود. متأسفانه ما به دلیل رویکرد دولت وقت اسرائیل، به خاطر رد کردن‌ها و به این دلیل که روزبه‌روز سطح خواسته‌ها را بالاتر برده و وضعیت میدان را تغییر می‌داد، متحمل شکست‌های زیادی شده‌ایم."
-  },
-  {
-   "t": 1794781774.0,
-   "n": "آکسیوس ناو هواپیمابر تئودور روزولت هم اکنون زودتر از موعد مقرر وارد منطقه عملیاتی سنتکام شد",
-   "fa": "🚨آکسیوس: ناو هواپیمابر تئودور روزولت هم اکنون زودتر از موعد مقرر وارد منطقه عملیاتی سنتکام شد"
-  },
-  {
-   "t": 1794781818.0,
-   "n": "qatar s prime minister we have been warning that having an agreement without addressing the whole issue including withdrawal giving the people of gaza the right to live a normal life and giving palestinians the right to self determination and statehood will always leave the door open the entire region will remain at risk of another escalation",
-   "fa": "🇶🇦🇵🇸🇮🇱⚡️ — نخست‌وزیر قطر: ما هشدار داده بودیم که داشتن توافقی بدون پرداختن به کل موضوع، از جمله خروج نیروها، دادن حق زندگی طبیعی به مردم غزه و اعطای حق تعیین سرنوشت و تشکیل کشور به فلسطینی‌ها، همیشه درها را باز خواهد گذاشت. تمام منطقه در معرض خطر تشدید تنش‌های مجدد باقی خواهد ماند."
-  },
-  {
    "t": 1794781897.0,
    "n": "qatar s prime minister on gaza netanyahu has been acting with impunity and i don t think many would disagree with this point he ignored the agreement he got what he wanted from it and he continued his escalation against gaza he continued the blockade the siege the killing of people and the targeting of people every day yes we call it a ceasefire but more than 1 000 people have been killed since th",
    "fa": "🇶🇦🇮🇱🇵🇸⚡️ — نخست‌وزیر قطر درباره غزه: نتانیاهو با مصونیت عمل کرده است و فکر نمی‌کنم کسی با این نکته مخالف باشد. او توافق را نادیده گرفت. او آنچه را که می‌خواست از آن به دست آورد و به تشدید تنش علیه غزه ادامه داد. او به محاصره، کشتار مردم و هدف قرار دادن روزانه آن‌ها ادامه داد. بله، ما آن را «آتش‌بس» می‌نامیم، اما از زمان آتش‌بس تا امروز بیش از ۱۰۰۰ نفر کشته شده‌اند."
@@ -1057,23 +1042,25 @@
    "t": 1794824090.0,
    "n": "فارن افرز اسرائیل در خطر از دست دادن حمایت آمریکا است",
    "fa": "🇺🇸🇮🇱⚠️فارن افرز: اسرائیل در خطر از دست دادن حمایت آمریکا است"
+  },
+  {
+   "t": 1794824820.0,
+   "n": "eurozone industrial production picked up in september eurozone industrial production rebounded in september offering some relief to the sector which has struggled to regain momentum amid persistently high energy costs driven by the war in iran",
+   "fa": "📊 رشد تولید صنعتی منطقه یورو در ماه سپتامبر به گزارش وال‌استریت ژورنال تولید صنعتی منطقه یورو در ماه سپتامبر با افزایشی روبه‌رو شد و تسکین خاطر کوچکی را برای این بخش به همراه آورد؛ بخشی که تلاش کرده است در میان هزینه‌های بالای انرژی ناشی از جنگ در ایران، شتاب خود را دوباره به دست آورد."
+  },
+  {
+   "t": 1794824881.0,
+   "n": "ترامپ باشد که خداوند از سربازان ما محافظت کند",
+   "fa": "🚨ترامپ: باشد که خداوند از سربازان ما محافظت کند"
   }
  ],
  "usage": {
   "date": "2026-11-16",
-  "requests": 40
+  "requests": 42
  },
  "flip": 4493,
- "quote_n": 2268,
+ "quote_n": 2269,
  "feed": [
-  {
-   "t": 1794756446.0,
-   "tx": "🚨هم اکنون گزارش انفجار در جزیره قشم"
-  },
-  {
-   "t": 1794756590.0,
-   "tx": "🔄 به‌روزرسانی\n🇮🇷❌🇺🇸 — پرتاب موشک زمین به هوا از تولا، در شرق جزیره قشم، ایران."
-  },
   {
    "t": 1794757487.0,
    "tx": "🚨کانال ۱۳ اسرائیل: نتانیاهو به واشنگتن اطلاع داد در صورت اقدام نکردن آمریکا، اسرائیل به‌تنهایی به ایران حمله خواهد کرد"
@@ -1465,19 +1452,17 @@
   {
    "t": 1794824090.0,
    "tx": "🇺🇸🇮🇱⚠️فارن افرز: اسرائیل در خطر از دست دادن حمایت آمریکا است"
+  },
+  {
+   "t": 1794824820.0,
+   "tx": "📊 رشد تولید صنعتی منطقه یورو در ماه سپتامبر\n\nبه گزارش وال‌استریت ژورنال تولید صنعتی منطقه یورو در ماه سپتامبر با افزایشی روبه‌رو شد و تسکین خاطر کوچکی را برای این بخش به همراه آورد؛ بخشی که تلاش کرده است در میان هزینه‌های بالای انرژی ناشی از جنگ در ایران، شتاب خود را دوباره به دست آورد."
+  },
+  {
+   "t": 1794824881.0,
+   "tx": "🚨ترامپ:\n\nباشد که خداوند از سربازان ما محافظت کند"
   }
  ],
  "signals": [
-  {
-   "t": 1794738366.783536,
-   "s": 5,
-   "p": 60
-  },
-  {
-   "t": 1794738370.975354,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1794738966.0312188,
    "s": 4,
@@ -2107,21 +2092,31 @@
    "t": 1794824169.6836085,
    "s": 4,
    "p": 35
+  },
+  {
+   "t": 1794825084.6727612,
+   "s": 3,
+   "p": 30
+  },
+  {
+   "t": 1794825088.8925023,
+   "s": 4,
+   "p": 40
   }
  ],
  "risk": {
-  "base": 70,
-  "ts": 1794817883.371409,
+  "base": 63,
+  "ts": 1794825091.8958924,
   "attack": false,
   "decay": false,
-  "n": 132,
-  "raw": 70.8,
+  "n": 128,
+  "raw": 59.4,
   "shares": {
    "1": 3,
-   "2": 6,
-   "3": 17,
-   "4": 57,
-   "5": 17
+   "2": 7,
+   "3": 18,
+   "4": 56,
+   "5": 16
   }
  },
  "attack_ts": 1794422166.7186296,
