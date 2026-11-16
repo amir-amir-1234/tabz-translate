@@ -13,7 +13,7 @@
    "last_id": 103740
   },
   "NE_WG": {
-   "last_id": 118315
+   "last_id": 118316
   }
  },
  "fails": {},
@@ -884,11 +884,6 @@
  },
  "recent": [
   {
-   "t": 1794763987.0,
-   "n": "scenes from al mussayib district northern babil governorate iraq",
-   "fa": "🇮🇶🇮🇶⚡️ — تصاویری از منطقه المسیرب، شمال استان بابل، عراق."
-  },
-  {
    "t": 1794764200.0,
    "n": "kata ib hezbollah controlled media outlet sabereen news denies reports of an explosion in jurf al sakhar if this is true the explosion was elsewhere in al mussayib district and probably not related to kata ib hezbollah",
    "fa": "🇮🇶🇮🇶⚡️ — صابرین‌نیوز، رسانه وابسته به کتائب حزب‌الله، گزارش‌ها درباره وقوع انفجار در جرف‌الصخر را رد کرد. اگر این خبر صحت داشته باشد، انفجار در جای دیگری در منطقه المسیرب رخ داده و احتمالاً ارتباطی با کتائب حزب‌الله ندارد."
@@ -1593,11 +1588,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794720686.5847192,
-   "s": 4,
-   "p": 65
-  },
   {
    "t": 1794723671.7506611,
    "s": 4,
