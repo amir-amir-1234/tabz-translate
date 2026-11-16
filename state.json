@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111139
+   "last_id": 111142
   },
   "khabarfouri": {
    "last_id": 569949
@@ -207,12 +207,12 @@
     "https://www.foxnews.com/world/mexicos-cartel-godfather-convicted-american-dea-agents-murder-dies-age-80",
     "https://www.foxnews.com/world/spain-canary-islands-flooded-thousands-migrants-country-declares-emergency",
     "https://www.foxnews.com/world/ukraine-hits-putins-prized-bridge-record-drone-blitz-kremlin-tells-lawmakers-prepare-victory",
-    "https://www.foxnews.com/world/pope-leo-xiv-hit-face-flying-rosary-farewell-mass-peru-video-shows"
+    "https://www.foxnews.com/world/pope-leo-xiv-hit-face-flying-rosary-farewell-mass-peru-video-shows",
+    "https://www.foxnews.com/world/french-troops-secretly-deployed-ukraine-ex-nato-chief-praises-macrons-guts"
    ]
   },
   "WSJ": {
    "seen": [
-    "WP-WSJ-0003997275",
     "WP-WSJ-0003997679",
     "WP-WSJ-0003997707",
     "WP-WSJ-0003990449",
@@ -611,7 +611,8 @@
     "WP-WSJ-0004069706",
     "WP-WSJ-0004070080",
     "SB10244603575487233329204593577063234514272",
-    "SB10152295085169523334704593578303711825148"
+    "SB10152295085169523334704593578303711825148",
+    "SB10152295085169523334704593577653026324118"
    ]
   },
   "NYT": {
@@ -1191,7 +1192,7 @@
  ],
  "usage": {
   "date": "2026-11-16",
-  "requests": 225
+  "requests": 227
  },
  "flip": 4572,
  "quote_n": 2302,
@@ -1598,11 +1599,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794782776.6067724,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1794783075.5587647,
    "s": 5,
