@@ -7,17 +7,17 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135183
+   "last_id": 135185
   },
   "TelNews_Magazine": {
-   "last_id": 103770
+   "last_id": 103771
   },
   "NE_WG": {
-   "last_id": 118337
+   "last_id": 118339
   }
  },
  "fails": {
-  "tabzlive/111077": 1
+  "tabzlive/111077": 2
  },
  "web": {
   "Fox News": {
@@ -802,7 +802,8 @@
     "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
     "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-backed-forces-in-yemen-retreat-from-red-sea-as-houthis-advance.html",
     "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
-    "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html"
+    "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+    "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html"
    ]
   },
   "Treasury": {
@@ -1099,19 +1100,20 @@
    "t": 1794832321.0,
    "n": "اسرائیل هیوم نتانیاهو در حال پیگیری جدی برای آغاز یک جنگ علیه ایران است",
    "fa": "⭕️اسرائیل هیوم: نتانیاهو در حال پیگیری جدی برای آغاز یک جنگ علیه ایران است."
+  },
+  {
+   "t": 1794833695.0,
+   "n": "bahrain convicts dozens of shiite clerics in sweeping terrorism trial the defendants were accused of colluding with iran rights groups said the case raised concerns about religious persecution in bahrain which is ruled by a sunni monarchy",
+   "fa": "🔴 محکومیت ده ها روحانی شیعه در بحرین طی یک محاکمه گسترده به اتهام تروریسم به گزارش نیویورک تایمز بحرین ده ها روحانی شیعه را در یک محاکمه گسترده مربوط به تروریسم محکوم کرده است. متهمان متهم شده بودند که با ایران تبانی کرده اند. گروه های حقوق بشری اعلام کردند که این پرونده نگرانی هایی را درباره آزار و اذیت مذهبی در بحرین ایجاد کرده است، کشوری که توسط یک پادشاهی سنی اداره می شود."
   }
  ],
  "usage": {
   "date": "2026-11-16",
-  "requests": 64
+  "requests": 69
  },
- "flip": 4506,
- "quote_n": 2277,
+ "flip": 4507,
+ "quote_n": 2278,
  "feed": [
-  {
-   "t": 1794764200.0,
-   "tx": "🇮🇶🇮🇶⚡️ — صابرین‌نیوز، رسانه وابسته به کتائب حزب‌الله، گزارش‌ها درباره وقوع انفجار در جرف‌الصخر را رد کرد. اگر این خبر صحت داشته باشد، انفجار در جای دیگری در منطقه المسیرب رخ داده و احتمالاً ارتباطی با کتائب حزب‌الله ندارد."
-  },
   {
    "t": 1794764221.0,
    "tx": "⭕️بقایی:\n\nآلمان دشمن ایرانه، دهه ۶۰ بمب میداد به عراق، الانم بمب میده به اسرائیل"
@@ -1507,6 +1509,10 @@
   {
    "t": 1794832321.0,
    "tx": "⭕️اسرائیل هیوم:\n\nنتانیاهو در حال پیگیری جدی برای آغاز یک جنگ علیه ایران است."
+  },
+  {
+   "t": 1794833695.0,
+   "tx": "🔴 محکومیت ده ها روحانی شیعه در بحرین طی یک محاکمه گسترده به اتهام تروریسم\n\nبه گزارش نیویورک تایمز بحرین ده ها روحانی شیعه را در یک محاکمه گسترده مربوط به تروریسم محکوم کرده است. متهمان متهم شده بودند که با ایران تبانی کرده اند. گروه های حقوق بشری اعلام کردند که این پرونده نگرانی هایی را درباره آزار و اذیت مذهبی در بحرین ایجاد کرده است، کشوری که توسط یک پادشاهی سنی اداره می شود."
   }
  ],
  "signals": [
@@ -2159,6 +2165,11 @@
    "t": 1794832580.2211545,
    "s": 4,
    "p": 35
+  },
+  {
+   "t": 1794834167.5413632,
+   "s": 3,
+   "p": 40
   }
  ],
  "risk": {
