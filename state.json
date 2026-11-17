@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111178
+   "last_id": 111181
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 103846
   },
   "NE_WG": {
-   "last_id": 118455
+   "last_id": 118456
   }
  },
  "fails": {},
@@ -893,11 +893,6 @@
  },
  "recent": [
   {
-   "t": 1794876180.0,
-   "n": "put downs parties and a royal family the culture inside jensen huang s nvidia the longtime nvidia boss was known for being demanding and difficult so was his daughter",
-   "fa": "⭕️ بررسی فرهنگ سازمانی انویدیا و مدیریت سخت‌گیرانه جنسن هوانگ و دخترش به گزارش وال‌استریت ژورنال، مدیر دیرینه انویدیا به عنوان فردی سخت‌گیر و دشوار شناخته می‌شد و دختر او نیز همین ویژگی را داشت."
-  },
-  {
    "t": 1794882120.0,
    "n": "alice huang s husband built a data center empire backed by the chinese state kang wei developed the business while his wife was involved with nvidia s ceo",
    "fa": "🔴 همسر آلیس هوانگ امپراتوری مرکز داده با حمایت دولت چین ساخت به گزارش وال‌استریت ژورنال کانگ وی این کسب‌وکار را در حالی توسعه داد که همسرش با مدیرعامل انویدیا در ارتباط بود."
@@ -1110,7 +1105,7 @@
  ],
  "usage": {
   "date": "2026-11-17",
-  "requests": 97
+  "requests": 98
  },
  "flip": 4609,
  "quote_n": 2321,
