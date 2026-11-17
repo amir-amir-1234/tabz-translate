@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135302
+   "last_id": 135303
   },
   "TelNews_Magazine": {
    "last_id": 103828
   },
   "NE_WG": {
-   "last_id": 118442
+   "last_id": 118443
   }
  },
  "fails": {},
@@ -892,11 +892,6 @@
  },
  "recent": [
   {
-   "t": 1794859892.0,
-   "n": "israeli prime minister netanyahu europe is not a spectator europe is a target there may be in europe what churchill called the slumber of democracies they sort of go to sleep and they don t wake up until they hear the jarring gong of danger but that gong is already heard for those who care to listen",
-   "fa": "🇮🇱🇪🇺⚡️ — نخست‌وزیر اسرائیل، بنیامین نتانیاهو: اروپا تماشاگر نیست. اروپا هدف است. شاید در اروپا چیزی باشد که چرچیل آن را خواب دموکراسی‌ها نامید. آن‌ها به نوعی به خواب می‌روند و تا زمانی که صدای ناقوس گوش‌خراش خطر را نشنوند، بیدار نمی‌شوند. اما آن ناقوس از قبل برای کسانی که مایل به شنیدن باشند، به گوش می‌رسد."
-  },
-  {
    "t": 1794860221.0,
    "n": "کاربران مجازی این گزارش نیویورک تایمز را زمینه ساز حمله آمریکا به سدهای کشور تلقی کردند",
    "fa": "🇺🇸🇮🇷کاربران مجازی این گزارش نیویورک‌تایمز را زمینه‌ساز حمله آمریکا به سدهای کشور تلقی کردند‼️"
@@ -1154,7 +1149,7 @@
  ],
  "usage": {
   "date": "2026-11-17",
-  "requests": 41
+  "requests": 42
  },
  "flip": 4592,
  "quote_n": 2314,
@@ -1561,21 +1556,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794816676.8551455,
-   "s": 4,
-   "p": 45
-  },
-  {
-   "t": 1794816680.2566767,
-   "s": 3,
-   "p": 40
-  },
-  {
-   "t": 1794816684.6715832,
-   "s": 5,
-   "p": 70
-  },
   {
    "t": 1794818769.303591,
    "s": 4,
