@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135358
+   "last_id": 135359
   },
   "TelNews_Magazine": {
-   "last_id": 103873
+   "last_id": 103877
   },
   "NE_WG": {
-   "last_id": 118495
+   "last_id": 118496
   }
  },
  "fails": {},
@@ -213,7 +213,8 @@
     "https://www.foxnews.com/world/american-basketball-players-nigeria-trip-ends-arrest-officials-spot-abandoning-suspicious-bags",
     "https://www.foxnews.com/world/state-department-presses-egypt-respect-religious-freedom-christian-convert-faces-possible-execution",
     "https://www.foxnews.com/world/bahrain-intercepts-iranian-drones-targeting-us-radar-after-2-month-lull-gulf-strikes",
-    "https://www.foxnews.com/world/after-un-peacekeeping-mission-ends-morocco-says-western-sahara-dispute-enters-new-phase"
+    "https://www.foxnews.com/world/after-un-peacekeeping-mission-ends-morocco-says-western-sahara-dispute-enters-new-phase",
+    "https://www.foxnews.com/world/ukraine-releases-video-showing-damage-putins-prized-bridge-following-unprecedented-operation-crimea"
    ]
   },
   "WSJ": {
@@ -897,11 +898,6 @@
  },
  "recent": [
   {
-   "t": 1794902161.0,
-   "n": "پزشکیان مردم شایسته زندگی بهتری هستن و ما مقصریم",
-   "fa": "⭕️پزشکیان: مردم شایسته زندگی بهتری هستن و ما مقصریم."
-  },
-  {
    "t": 1794904741.0,
    "n": "پزشکیان خطاب به آمریکا اگر مرد جنگ هستید چرا زیرساخت های علمی کشور و دانشمندان ما را هدف قرار می دهید",
    "fa": "⭕️پزشکیان خطاب به آمریکا: اگر مرد جنگ هستید چرا زیرساخت‌های علمی کشور و دانشمندان ما را هدف قرار می‌دهید."
@@ -1195,19 +1191,20 @@
    "t": 1794935977.0,
    "n": "the nsa s classified communications network nsanet is temporarily offline for software updates and security patches with no evidence of a cyberattack according to wsj citing u s officials",
    "fa": "🔄 به‌روزرسانی 🇺🇸⚡️ — طبق گزارش وال‌استریت ژورنال به نقل از مقامات آمریکایی، شبکه ارتباطی فوق‌محرمانه آژانس امنیت ملی آمریکا (NSANet) به دلیل به‌روزرسانی‌های نرم‌افزاری و وصله‌های امنیتی به‌طور موقت آفلاین شده است و هیچ مدرکی مبنی بر حمله سایبری وجود ندارد."
+  },
+  {
+   "t": 1794936001.0,
+   "n": "آیت الله فقیهی مرحوم آیت الله وحید خراسانی بارها تأکید می کرد تضعیف نظام جمهوری اسلامی حرام است",
+   "fa": "💢آیت‌الله فقیهی: مرحوم آیت‌الله وحید خراسانی بارها تأکید می‌کرد تضعیف نظام جمهوری اسلامی حرام است‼️"
   }
  ],
  "usage": {
   "date": "2026-11-17",
-  "requests": 181
+  "requests": 182
  },
- "flip": 4634,
+ "flip": 4635,
  "quote_n": 2332,
  "feed": [
-  {
-   "t": 1794863888.0,
-   "tx": "🇮🇷🚫🇺🇸💢مقایسه جنگنده های فعلی و اوج عملیات خشم حماسی :"
-  },
   {
    "t": 1794864181.0,
    "tx": "🇺🇸🇮🇷👀مقایسه وضعیت حضور و آرایش نظامی آمریکا در منطقه در جریان جنگ ۴۰روزه با وضعیت کنونی"
@@ -1603,6 +1600,10 @@
   {
    "t": 1794935977.0,
    "tx": "🔄 به‌روزرسانی\n🇺🇸⚡️ — طبق گزارش وال‌استریت ژورنال به نقل از مقامات آمریکایی، شبکه ارتباطی فوق‌محرمانه آژانس امنیت ملی آمریکا (NSANet) به دلیل به‌روزرسانی‌های نرم‌افزاری و وصله‌های امنیتی به‌طور موقت آفلاین شده است و هیچ مدرکی مبنی بر حمله سایبری وجود ندارد."
+  },
+  {
+   "t": 1794936001.0,
+   "tx": "💢آیت‌الله فقیهی: مرحوم آیت‌الله وحید خراسانی بارها تأکید می‌کرد تضعیف نظام جمهوری اسلامی حرام است‼️"
   }
  ],
  "signals": [
@@ -2230,6 +2231,11 @@
    "t": 1794934924.1722972,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1794936391.2999527,
+   "s": 3,
+   "p": 30
   }
  ],
  "risk": {
