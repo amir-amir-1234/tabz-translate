@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111263
+   "last_id": 111264
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135419
+   "last_id": 135420
   },
   "TelNews_Magazine": {
    "last_id": 103902
@@ -905,11 +905,6 @@
  },
  "recent": [
   {
-   "t": 1794938308.0,
-   "n": "u s central command has published footage of u s navy nimitz class aircraft carriers uss theodore roosevelt and uss george washington operating in the arabian sea confirmation that the uss theodore roosevelt has arrived in the centcom area of responsibility",
-   "fa": "🔄 به‌روزرسانی 🇺🇸🇮🇷⚡️ — فرماندهی مرکزی ایالات متحده تصاویری از فعالیت ناوهواپیمابر کلاس نیمیتز یواس‌اس تئودور روزولت و یواس‌اس جورج واشنگتن در دریای عرب منتشر کرد. این تصاویر تأیید می‌کند که یواس‌اس تئودور روزولت وارد منطقه مسئولیت سنتکام شده است."
-  },
-  {
    "t": 1794938640.0,
    "n": "ex hostage recounts captivity in iran backed militia stronghold now targeted by iraqi prime minister an israeli russian researcher held hostage for 903 days by an iran backed iraqi terrorist group revealed to fox news digital that she spent the first four and a half months of her captivity inside the very militia stronghold iraq s trump backed prime minister has now ordered the army to reclaim eli",
    "fa": "⭕️ روایت گروگان سابق از زندان‌های کتائب حزب‌الله در جرف الصخر به گزارش فاکس نیوز، الیزابت تسورکوف، پژوهشگر اسرائیلی-روسی که به مدت ۹۰۳ روز توسط یک گروه شبه‌نظامی عراقی تحت حمایت ایران در اسارت بود، فاش کرد که چهار ماه و نیم نخست دوران اسارت خود را در دژ مستحکم این گروه در «جرف الصخر» در جنوب بغداد گذرانده است. این منطقه همان جایی است که نخست‌وزیر عراق با حمایت دونالد ترامپ، دستور بازپس‌گیری آن را "
@@ -1203,19 +1198,20 @@
    "t": 1794957445.0,
    "n": "alerts in bahrain began 13 minutes ago",
    "fa": "🇮🇷❌🇺🇸🇧🇭— آژیرهای هشدار در بحرین از ۱۳ دقیقه پیش به صدا درآمده‌اند."
+  },
+  {
+   "t": 1794957621.0,
+   "n": "explosion in bahrain now",
+   "fa": "🔄 به‌روزرسانی 🇮🇷❌🇺🇸🇧🇭 — هم‌اکنون انفجاری در بحرین رخ داد."
   }
  ],
  "usage": {
   "date": "2026-11-17",
-  "requests": 276
+  "requests": 277
  },
  "flip": 4676,
- "quote_n": 2360,
+ "quote_n": 2361,
  "feed": [
-  {
-   "t": 1794921215.0,
-   "tx": "🔄 به‌روزرسانی\n🇺🇸❌🇮🇷 — تصاویری از جزیره قشم، ایران. یک سایت پدافند هوایی در نریمان، در شمال شهر قشم هدف قرار گرفت."
-  },
   {
    "t": 1794921381.0,
    "tx": "🔄 به‌روزرسانی\n⭕️حداقل ۴ انفجار در قشم گزارش شده"
@@ -1611,6 +1607,10 @@
   {
    "t": 1794957445.0,
    "tx": "🇮🇷❌🇺🇸🇧🇭— آژیرهای هشدار در بحرین از ۱۳ دقیقه پیش به صدا درآمده‌اند."
+  },
+  {
+   "t": 1794957621.0,
+   "tx": "🔄 به‌روزرسانی\n🇮🇷❌🇺🇸🇧🇭 — هم‌اکنون انفجاری در بحرین رخ داد."
   }
  ],
  "signals": [
@@ -2293,6 +2293,11 @@
    "t": 1794957689.8571591,
    "s": 5,
    "p": 75
+  },
+  {
+   "t": 1794957981.2110562,
+   "s": 5,
+   "p": 85
   }
  ],
  "risk": {
