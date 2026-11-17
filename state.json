@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111165
+   "last_id": 111168
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135307
+   "last_id": 135308
   },
   "TelNews_Magazine": {
    "last_id": 103838
@@ -892,16 +892,6 @@
  },
  "recent": [
   {
-   "t": 1794868945.0,
-   "n": "chuck schumer let s not forget that trump holds tens of millions of dollars in nvidia stock and stands to make immense profits if he lets china continue access to these chips despite the huge damage it does to our country in the short and long term even now trump is still making excuses for jensen huang after his salacious espionage scandal",
-   "fa": "🇺🇸🇨🇳⚡️ — چاک شومر: فراموش نکنیم که ترامپ ده‌ها میلیون دلار سهام انویدیا دارد و اگر اجازه دهد چین همچنان به این تراشه‌ها دسترسی داشته باشد، سود کلانی به جیب خواهد زد، علی‌رغم آسیبی که این کار در کوتاه مدت و بلندمدت به کشور ما وارد می‌کند. حتی اکنون نیز ترامپ همچنان در حال توجیه‌تراشی برای جنسن هوانگ پس از رسوایی جاسوسی او است."
-  },
-  {
-   "t": 1794869002.0,
-   "n": "chuck schumer congress needs to stop trump from taking our country in this dangerous direction we must pass bipartisan export control bills crucially we need to bring jensen huang and top trump administration officials before congress to answer why these export controls were loosened in the first place",
-   "fa": "🇺🇸🇨🇳⚡️ — چاک شومر: کنگره باید مانع از آن شود که ترامپ کشورمان را در این مسیر خطرناک هدایت کند. ما باید لوایح کنترل صادرات دوحزبی را تصویب کنیم. نکته مهم این است که ما باید جنسن هوانگ و مقامات ارشد دولت ترامپ را به کنگره بیاوریم تا پاسخ دهند که چرا این کنترل‌های صادراتی در وهله اول تسهیل شده‌اند."
-  },
-  {
    "t": 1794869520.0,
    "n": "opinion president trump s choice in iran a good outcome means an open strait and no nuclear bomb program",
    "fa": "🔴 انتخاب رئیس‌جمهور ترامپ در قبال ایران به گزارش وال‌استریت ژورنال یک نتیجه خوب به معنای داشتن یک تنگه هرمز باز و بدون برنامه بمب هسته‌ای است."
@@ -1095,19 +1085,20 @@
    "t": 1794911820.0,
    "n": "nvidia forms national security committee after huang s exit the company formed a board committee to oversee national security and export controls after founder jensen huang resigned over an affair with a woman u s officials suspect was working for chinese intelligence",
    "fa": "⭕️ تشکیل کمیته امنیت ملی در انویدیا پس از استعفای جنسن هوانگ به گزارش وال‌استریت ژورنال این شرکت پس از استعفای جنسن هوانگ، بنیان‌گذار آن، به دلیل رابطه با زنی که مقامات آمریکایی به همکاری او با اطلاعات چین مشکوک هستند، یک کمیته هیئت مدیره برای نظارت بر امنیت ملی و کنترل صادرات تشکیل داد."
+  },
+  {
+   "t": 1794912088.0,
+   "n": "syria s fm asaad al shaibani repeated israeli attacks and incursions constitute a flagrant violation of syrian sovereignty seriously undermine the projects and investments we are building together and threaten the stability of the entire region we look forward to greater and clearer european and international pressure to stop these attacks",
+   "fa": "🇸🇾🇮🇱⚡️ — اسعد الشیبانی، وزیر امور خارجه سوریه: حملات و تجاوزات مکرر اسرائیل نقض آشکار حاکمیت سوریه است، پروژه‌ها و سرمایه‌گذاری‌هایی را که در حال ساختن آن‌ها با یکدیگر هستیم به شدت تضعیف می‌کند و ثبات کل منطقه را تهدید می‌کند. ما مشتاقانه منتظر فشار بیشتر و واضح‌تر اروپایی و بین‌المللی برای توقف این حملات هستیم."
   }
  ],
  "usage": {
   "date": "2026-11-17",
-  "requests": 72
+  "requests": 73
  },
- "flip": 4600,
+ "flip": 4601,
  "quote_n": 2320,
  "feed": [
-  {
-   "t": 1794846146.0,
-   "tx": "⭕️قالیباف: بدون پایان جنگ در لبنان منطقه آرام نمی‌شود"
-  },
   {
    "t": 1794846236.0,
    "tx": "🇮🇱❌🇱🇧🇱🇧 — ارتش اسرائیل اعلام کرد که نیروهای این کشور برای دستگیری دو تن از اعضای تیپ‌های مقاومت لبنان وابسته به حزب‌الله، به کفرشوبا در جنوب لبنان یورش بردند. کفرشوبا پیش از این تهاجم در اشغال ارتش اسرائیل نبود."
@@ -1503,6 +1494,10 @@
   {
    "t": 1794911820.0,
    "tx": "⭕️ تشکیل کمیته امنیت ملی در انویدیا پس از استعفای جنسن هوانگ\n\nبه گزارش وال‌استریت ژورنال این شرکت پس از استعفای جنسن هوانگ، بنیان‌گذار آن، به دلیل رابطه با زنی که مقامات آمریکایی به همکاری او با اطلاعات چین مشکوک هستند، یک کمیته هیئت مدیره برای نظارت بر امنیت ملی و کنترل صادرات تشکیل داد."
+  },
+  {
+   "t": 1794912088.0,
+   "tx": "🇸🇾🇮🇱⚡️ — اسعد الشیبانی، وزیر امور خارجه سوریه:\nحملات و تجاوزات مکرر اسرائیل نقض آشکار حاکمیت سوریه است، پروژه‌ها و سرمایه‌گذاری‌هایی را که در حال ساختن آن‌ها با یکدیگر هستیم به شدت تضعیف می‌کند و ثبات کل منطقه را تهدید می‌کند.\n\nما مشتاقانه منتظر فشار بیشتر و واضح‌تر اروپایی و بین‌المللی برای توقف این حملات هستیم."
   }
  ],
  "signals": [
@@ -2175,6 +2170,11 @@
    "t": 1794911773.334318,
    "s": 2,
    "p": 65
+  },
+  {
+   "t": 1794912382.7223024,
+   "s": 4,
+   "p": 45
   }
  ],
  "risk": {
