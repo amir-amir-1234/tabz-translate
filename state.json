@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111249
+   "last_id": 111250
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 103892
   },
   "NE_WG": {
-   "last_id": 118529
+   "last_id": 118531
   }
  },
  "fails": {},
@@ -216,7 +216,8 @@
     "https://www.foxnews.com/world/after-un-peacekeeping-mission-ends-morocco-says-western-sahara-dispute-enters-new-phase",
     "https://www.foxnews.com/world/ukraine-releases-video-showing-damage-putins-prized-bridge-following-unprecedented-operation-crimea",
     "https://www.foxnews.com/world/ex-hostage-recounts-captivity-iran-backed-militia-stronghold-now-targeted-iraqi-prime-minister",
-    "https://www.foxnews.com/world/vances-midterm-blame-game-hits-snag-trumps-own-israel-ambassador-disputes-key-claim"
+    "https://www.foxnews.com/world/vances-midterm-blame-game-hits-snag-trumps-own-israel-ambassador-disputes-key-claim",
+    "https://www.foxnews.com/world/us-carries-out-self-defense-strike-irgc-missile-launch-site-qeshm-island"
    ]
   },
   "WSJ": {
@@ -1203,7 +1204,7 @@
  ],
  "usage": {
   "date": "2026-11-17",
-  "requests": 238
+  "requests": 239
  },
  "flip": 4657,
  "quote_n": 2341,
@@ -1610,11 +1611,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794861373.4012253,
-   "s": 4,
-   "p": 40
-  },
   {
    "t": 1794861703.4034345,
    "s": 4,
