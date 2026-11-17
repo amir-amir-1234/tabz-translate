@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111264
+   "last_id": 111265
   },
   "khabarfouri": {
    "last_id": 569949
@@ -906,11 +906,6 @@
  },
  "recent": [
   {
-   "t": 1794938640.0,
-   "n": "ex hostage recounts captivity in iran backed militia stronghold now targeted by iraqi prime minister an israeli russian researcher held hostage for 903 days by an iran backed iraqi terrorist group revealed to fox news digital that she spent the first four and a half months of her captivity inside the very militia stronghold iraq s trump backed prime minister has now ordered the army to reclaim eli",
-   "fa": "⭕️ روایت گروگان سابق از زندان‌های کتائب حزب‌الله در جرف الصخر به گزارش فاکس نیوز، الیزابت تسورکوف، پژوهشگر اسرائیلی-روسی که به مدت ۹۰۳ روز توسط یک گروه شبه‌نظامی عراقی تحت حمایت ایران در اسارت بود، فاش کرد که چهار ماه و نیم نخست دوران اسارت خود را در دژ مستحکم این گروه در «جرف الصخر» در جنوب بغداد گذرانده است. این منطقه همان جایی است که نخست‌وزیر عراق با حمایت دونالد ترامپ، دستور بازپس‌گیری آن را "
-  },
-  {
    "t": 1794939422.0,
    "n": "گزارش انفجار جدید در جزیره قشم",
    "fa": "🚨گزارش انفجار جدید در جزیره قشم"
@@ -1204,19 +1199,20 @@
    "t": 1794957621.0,
    "n": "explosion in bahrain now",
    "fa": "🔄 به‌روزرسانی 🇮🇷❌🇺🇸🇧🇭 — هم‌اکنون انفجاری در بحرین رخ داد."
+  },
+  {
+   "t": 1794958696.0,
+   "n": "explosion in southern bahrain almost certainly targeting sheikh issa ab",
+   "fa": "🔄 به‌روزرسانی 🇮🇷❌🇺🇸🇧🇭 — انفجار در جنوب بحرین. تقریباً به طور قطع پایگاه هوایی شیخ عیسی هدف قرار گرفته است."
   }
  ],
  "usage": {
   "date": "2026-11-17",
-  "requests": 278
+  "requests": 279
  },
  "flip": 4676,
- "quote_n": 2361,
+ "quote_n": 2362,
  "feed": [
-  {
-   "t": 1794921381.0,
-   "tx": "🔄 به‌روزرسانی\n⭕️حداقل ۴ انفجار در قشم گزارش شده"
-  },
   {
    "t": 1794921987.0,
    "tx": "🚨سه ستون دود جداگانه که در شمال جزیره قشم به دلیل حملات هوایی آمریکا مشاهده می‌شوند."
@@ -1612,6 +1608,10 @@
   {
    "t": 1794957621.0,
    "tx": "🔄 به‌روزرسانی\n🇮🇷❌🇺🇸🇧🇭 — هم‌اکنون انفجاری در بحرین رخ داد."
+  },
+  {
+   "t": 1794958696.0,
+   "tx": "🔄 به‌روزرسانی\n🇮🇷❌🇺🇸🇧🇭 — انفجار در جنوب بحرین. تقریباً به طور قطع پایگاه هوایی شیخ عیسی هدف قرار گرفته است."
   }
  ],
  "signals": [
@@ -2287,6 +2287,11 @@
   },
   {
    "t": 1794957981.2110562,
+   "s": 5,
+   "p": 85
+  },
+  {
+   "t": 1794958874.612693,
    "s": 5,
    "p": 85
   }
