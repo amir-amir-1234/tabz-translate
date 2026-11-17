@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135312
+   "last_id": 135313
   },
   "TelNews_Magazine": {
    "last_id": 103843
   },
   "NE_WG": {
-   "last_id": 118450
+   "last_id": 118452
   }
  },
  "fails": {},
@@ -893,11 +893,6 @@
  },
  "recent": [
   {
-   "t": 1794872861.0,
-   "n": "president trump s approval rating remains near its lowest level at 32 according to a new reuters ipsos poll barely above his record low of 31 recorded in mid october trump s declining popularity has been driven partly by the ongoing u s war with iran which has pushed fuel prices higher and strained americans finances contributing to republican losses in the november 3 midterm elections the poll fo",
-   "fa": "🇺🇸⚡️ — به گزارش نظرسنجی جدید رویترز/ایپسوس، میزان محبوبیت رئیس‌جمهور ترامپ همچنان در نزدیکی پایین‌ترین سطح خود یعنی ۳۲ درصد باقی مانده است و به سختی بالاتر از رکورد پایین ۳۱ درصدی ثبت‌شده در اواسط اکتبر قرار دارد. کاهش محبوبیت ترامپ تا حدی ناشی از جنگ جاری ایالات متحده با ایران است که قیمت سوخت را افزایش داده و وضعیت مالی آمریکایی‌ها را تحت فشار قرار داده و به شکست جمهوری‌خواهان در انتخابات میان‌د"
-  },
-  {
    "t": 1794874980.0,
    "n": "oil falls as improving supply prospects offset mideast tensions oil weakened as improving supply prospects offset middle east tensions",
    "fa": "🔴 کاهش قیمت نفت به دنبال بهبود چشم‌انداز عرضه در برابر تنش‌های خاورمیانه به گزارش وال‌استریت ژورنال قیمت نفت کاهش یافت، زیرا بهبود چشم‌انداز عرضه توانեց تنش‌های خاورمیانه را خنثی کند."
@@ -1095,7 +1090,7 @@
  ],
  "usage": {
   "date": "2026-11-17",
-  "requests": 83
+  "requests": 84
  },
  "flip": 4604,
  "quote_n": 2320,
