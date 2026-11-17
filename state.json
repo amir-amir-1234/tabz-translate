@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135339
+   "last_id": 135340
   },
   "TelNews_Magazine": {
    "last_id": 103864
   },
   "NE_WG": {
-   "last_id": 118476
+   "last_id": 118477
   }
  },
  "fails": {},
@@ -212,7 +212,8 @@
     "https://www.foxnews.com/world/ecuador-president-denies-us-operates-military-base-reports-troop-buildup",
     "https://www.foxnews.com/world/american-basketball-players-nigeria-trip-ends-arrest-officials-spot-abandoning-suspicious-bags",
     "https://www.foxnews.com/world/state-department-presses-egypt-respect-religious-freedom-christian-convert-faces-possible-execution",
-    "https://www.foxnews.com/world/bahrain-intercepts-iranian-drones-targeting-us-radar-after-2-month-lull-gulf-strikes"
+    "https://www.foxnews.com/world/bahrain-intercepts-iranian-drones-targeting-us-radar-after-2-month-lull-gulf-strikes",
+    "https://www.foxnews.com/world/after-un-peacekeeping-mission-ends-morocco-says-western-sahara-dispute-enters-new-phase"
    ]
   },
   "WSJ": {
@@ -1197,7 +1198,7 @@
  ],
  "usage": {
   "date": "2026-11-17",
-  "requests": 131
+  "requests": 133
  },
  "flip": 4620,
  "quote_n": 2331,
