@@ -10,7 +10,7 @@
    "last_id": 135309
   },
   "TelNews_Magazine": {
-   "last_id": 103840
+   "last_id": 103841
   },
   "NE_WG": {
    "last_id": 118448
@@ -210,7 +210,8 @@
     "https://www.foxnews.com/world/pope-leo-xiv-hit-face-flying-rosary-farewell-mass-peru-video-shows",
     "https://www.foxnews.com/world/french-troops-secretly-deployed-ukraine-ex-nato-chief-praises-macrons-guts",
     "https://www.foxnews.com/world/ecuador-president-denies-us-operates-military-base-reports-troop-buildup",
-    "https://www.foxnews.com/world/american-basketball-players-nigeria-trip-ends-arrest-officials-spot-abandoning-suspicious-bags"
+    "https://www.foxnews.com/world/american-basketball-players-nigeria-trip-ends-arrest-officials-spot-abandoning-suspicious-bags",
+    "https://www.foxnews.com/world/state-department-presses-egypt-respect-religious-freedom-christian-convert-faces-possible-execution"
    ]
   },
   "WSJ": {
@@ -892,11 +893,6 @@
  },
  "recent": [
   {
-   "t": 1794870594.0,
-   "n": "new u s intelligence indicates that iran is developing plans to potentially target senior trump administration officials with a radioactive dirty bomb or chemical weapon in washington d c according to cnn citing seven u s officials the intelligence identifies specific targets and locations prompting urgent contingency planning however officials emphasized that the alleged plotting appears to be pr",
-   "fa": "🇺🇸🇮🇷⚡️ — تازه: به گزارش سی‌ان‌ان به نقل از هفت مقام آمریکایی، اطلاعات ایالات متحده نشان می‌دهد که ایران در حال تدوین برنامه‌هایی برای احتمال هدف قرار دادن مقامات ارشد دولت ترامپ با بمب کثیف رادیواکتیو یا سلاح شیمیایی در واشنگتن دی‌سی است. این اطلاعات اهداف و مکان‌های مشخصی را شناسایی کرده و برنامه‌ریزی اضطراری فوری را به دنبال داشته است. با این حال، مقامات تأکید کردند که توطئه ادعایی به نظر مقدمات"
-  },
-  {
    "t": 1794871166.0,
    "n": "خبر فوری به گزارش شبکه سی ان ان به نقل از هفت مقام آمریکایی اطلاعاتی به دست آمده حاکی از آن است که ایران در حال تدوین طرح هایی است تا احتمالا مقامات ارشد دولت ترامپ را در واشنگتن دی سی با استفاده از یک بمب کثیف حاوی مواد رادیواکتیو یا سلاح شیمیایی هدف قرار دهد این اطلاعات اهداف و مکان های مشخصی را شناسایی می کند و این امر برنامه ریزی های اضطراری فوری را ضروری ساخته است با این حال مقامات تأکید کردن",
    "fa": "🔄 به‌روزرسانی 🇺🇸🇮🇷⚡️— خبر فوری: به گزارش شبکه سی‌ان‌ان، به نقل از هفت مقام آمریکایی، اطلاعاتی به دست آمده حاکی از آن است که ایران در حال تدوین طرح‌هایی است تا احتمالاً مقامات ارشد دولت ترامپ را در واشنگتن، دی.سی.، با استفاده از یک بمب کثیف حاوی مواد رادیواکتیو یا سلاح شیمیایی، هدف قرار دهد. 💢این اطلاعات، اهداف و مکان‌های مشخصی را شناسایی می‌کند و این امر، برنامه‌ریزی‌های اضطراری فوری را ضروری ساخت"
@@ -1114,7 +1110,7 @@
  ],
  "usage": {
   "date": "2026-11-17",
-  "requests": 78
+  "requests": 79
  },
  "flip": 4604,
  "quote_n": 2320,
@@ -1521,21 +1517,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794827174.12605,
-   "s": 4,
-   "p": 75
-  },
-  {
-   "t": 1794827180.1961238,
-   "s": 4,
-   "p": 40
-  },
-  {
-   "t": 1794827184.5531597,
-   "s": 4,
-   "p": 70
-  },
   {
    "t": 1794827485.917542,
    "s": 3,
