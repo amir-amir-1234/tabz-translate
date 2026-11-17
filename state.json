@@ -819,7 +819,8 @@
     "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
     "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
     "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html",
-    "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html"
+    "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html",
+    "https://www.nytimes.com/2026/11/17/world/middleeast/youssef-ibrahim-correspondent-obituary.html"
    ]
   },
   "Treasury": {
@@ -1207,7 +1208,7 @@
  ],
  "usage": {
   "date": "2026-11-17",
-  "requests": 277
+  "requests": 278
  },
  "flip": 4676,
  "quote_n": 2361,
@@ -1614,11 +1615,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794871584.2557397,
-   "s": 5,
-   "p": 90
-  },
   {
    "t": 1794871907.9258583,
    "s": 4,
@@ -2302,17 +2298,17 @@
  ],
  "risk": {
   "base": 70,
-  "ts": 1794954975.057872,
+  "ts": 1794958292.7405646,
   "attack": false,
   "decay": false,
-  "n": 132,
-  "raw": 67.1,
+  "n": 136,
+  "raw": 74.8,
   "shares": {
    "1": 1,
    "2": 5,
    "3": 27,
-   "4": 49,
-   "5": 18
+   "4": 47,
+   "5": 20
   }
  },
  "attack_ts": 1794422166.7186296,
