@@ -1,13 +1,13 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111164
+   "last_id": 111165
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135306
+   "last_id": 135307
   },
   "TelNews_Magazine": {
    "last_id": 103838
@@ -215,7 +215,6 @@
   },
   "WSJ": {
    "seen": [
-    "WP-WSJ-0003999646",
     "SB11676206231181634135104593528032272153790",
     "WP-WSJ-0003994735",
     "WP-WSJ-0003999309",
@@ -614,7 +613,8 @@
     "WP-WSJ-0004070040",
     "WP-WSJ-0004071198",
     "WP-WSJ-0004071418",
-    "WP-WSJ-0004071518"
+    "WP-WSJ-0004071518",
+    "WP-WSJ-0004071558"
    ]
   },
   "NYT": {
@@ -892,11 +892,6 @@
  },
  "recent": [
   {
-   "t": 1794868815.0,
-   "n": "britain s prime minister andy burnham we cannot allow iran to have a nuclear weapon nor to massacre their own people and threaten the region unchecked we cannot allow this war to continue indefinitely as it drives the price of energy through the roof for ordinary people we are working to support the mediators in securing an agreement that ends the war reopens the strait of hormuz and prevents iran",
-   "fa": "🇬🇧🇺🇸🇮🇷⚡️ — نخست‌وزیر بریتانیا، اندی برنهام: ما نمی‌توانیم به ایران اجازه دهیم سلاح هسته‌ای داشته باشد یا مردم خود را قتل‌عام کند و منطقه را بدون مانع تهدید کند. ما نمی‌توانیم اجازه دهیم این جنگ به‌طور نامحدود ادامه پیدا کند زیرا قیمت انرژی را برای مردم عادی سرسام‌آور می‌کند. ما در حال تلاش برای حمایت از میانجی‌ها جهت دستیابی به توافقی هستیم که به جنگ پایان دهد، تنگه هرمز را بازگشایی کند و مانع از "
-  },
-  {
    "t": 1794868945.0,
    "n": "chuck schumer let s not forget that trump holds tens of millions of dollars in nvidia stock and stands to make immense profits if he lets china continue access to these chips despite the huge damage it does to our country in the short and long term even now trump is still making excuses for jensen huang after his salacious espionage scandal",
    "fa": "🇺🇸🇨🇳⚡️ — چاک شومر: فراموش نکنیم که ترامپ ده‌ها میلیون دلار سهام انویدیا دارد و اگر اجازه دهد چین همچنان به این تراشه‌ها دسترسی داشته باشد، سود کلانی به جیب خواهد زد، علی‌رغم آسیبی که این کار در کوتاه مدت و بلندمدت به کشور ما وارد می‌کند. حتی اکنون نیز ترامپ همچنان در حال توجیه‌تراشی برای جنسن هوانگ پس از رسوایی جاسوسی او است."
@@ -1095,19 +1090,20 @@
    "t": 1794911583.0,
    "n": "وزارت امور خارجه قطر امروز جلسه ای با طرف ایرانی به عنوان بخشی از تلاش های میانجیگری برای نزدیک تر کردن طرفین به یکدیگر برگزار خواهد شد",
    "fa": "⭕️وزارت امور خارجه قطر: امروز جلسه‌ای با طرف ایرانی به عنوان بخشی از تلاش‌های میانجیگری برای نزدیک‌تر کردن طرفین به یکدیگر برگزار خواهد شد"
+  },
+  {
+   "t": 1794911820.0,
+   "n": "nvidia forms national security committee after huang s exit the company formed a board committee to oversee national security and export controls after founder jensen huang resigned over an affair with a woman u s officials suspect was working for chinese intelligence",
+   "fa": "⭕️ تشکیل کمیته امنیت ملی در انویدیا پس از استعفای جنسن هوانگ به گزارش وال‌استریت ژورنال این شرکت پس از استعفای جنسن هوانگ، بنیان‌گذار آن، به دلیل رابطه با زنی که مقامات آمریکایی به همکاری او با اطلاعات چین مشکوک هستند، یک کمیته هیئت مدیره برای نظارت بر امنیت ملی و کنترل صادرات تشکیل داد."
   }
  ],
  "usage": {
   "date": "2026-11-17",
-  "requests": 70
+  "requests": 72
  },
- "flip": 4599,
- "quote_n": 2319,
+ "flip": 4600,
+ "quote_n": 2320,
  "feed": [
-  {
-   "t": 1794846039.0,
-   "tx": "🇮🇱 استقرار سامانه های پدافندی گنبد آهنین در اسرائیل ادامه دارد‼️"
-  },
   {
    "t": 1794846146.0,
    "tx": "⭕️قالیباف: بدون پایان جنگ در لبنان منطقه آرام نمی‌شود"
@@ -1503,6 +1499,10 @@
   {
    "t": 1794911583.0,
    "tx": "⭕️وزارت امور خارجه قطر: امروز جلسه‌ای با طرف ایرانی به عنوان بخشی از تلاش‌های میانجیگری برای نزدیک‌تر کردن طرفین به یکدیگر برگزار خواهد شد"
+  },
+  {
+   "t": 1794911820.0,
+   "tx": "⭕️ تشکیل کمیته امنیت ملی در انویدیا پس از استعفای جنسن هوانگ\n\nبه گزارش وال‌استریت ژورنال این شرکت پس از استعفای جنسن هوانگ، بنیان‌گذار آن، به دلیل رابطه با زنی که مقامات آمریکایی به همکاری او با اطلاعات چین مشکوک هستند، یک کمیته هیئت مدیره برای نظارت بر امنیت ملی و کنترل صادرات تشکیل داد."
   }
  ],
  "signals": [
