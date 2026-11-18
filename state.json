@@ -10,7 +10,7 @@
    "last_id": 135466
   },
   "TelNews_Magazine": {
-   "last_id": 103944
+   "last_id": 103945
   },
   "NE_WG": {
    "last_id": 118603
@@ -221,7 +221,8 @@
     "https://www.foxnews.com/world/europe-assassination-scheme-emerges-iran-denies-dirty-bomb-plot-amid-trump-warning",
     "https://www.foxnews.com/world/kim-jong-uns-daughter-hits-ski-slopes-rare-photos-north-korean-dictator-tours-mountain-resort",
     "https://www.foxnews.com/world/pope-leo-breaks-silence-rosary-striking-face-peru-reveals-details-cancer-major-surgery",
-    "https://www.foxnews.com/world/iran-targets-us-air-base-kuwait-us-defensive-strikes-criticism-gulf-states"
+    "https://www.foxnews.com/world/iran-targets-us-air-base-kuwait-us-defensive-strikes-criticism-gulf-states",
+    "https://www.foxnews.com/world/german-chancellor-warns-islamic-immigrants-others-honor-nations-holocaust-legacy-leave"
    ]
   },
   "WSJ": {
@@ -1212,7 +1213,7 @@
  ],
  "usage": {
   "date": "2026-11-18",
-  "requests": 117
+  "requests": 118
  },
  "flip": 4727,
  "quote_n": 2395,
@@ -1619,11 +1620,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794930698.8566334,
-   "s": 4,
-   "p": 35
-  },
   {
    "t": 1794931300.0280225,
    "s": 4,
