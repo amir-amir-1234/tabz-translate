@@ -224,7 +224,8 @@
     "https://www.foxnews.com/world/iran-targets-us-air-base-kuwait-us-defensive-strikes-criticism-gulf-states",
     "https://www.foxnews.com/world/german-chancellor-warns-islamic-immigrants-others-honor-nations-holocaust-legacy-leave",
     "https://www.foxnews.com/world/protesters-call-regime-change-iran-following-deadly-crash-killed-13-oil-gas-workers",
-    "https://www.foxnews.com/world/rare-anti-government-protests-erupt-iran-workers-deaths"
+    "https://www.foxnews.com/world/rare-anti-government-protests-erupt-iran-workers-deaths",
+    "https://www.foxnews.com/world/ukraine-strikes-one-largest-oil-refineries-southern-russia-ahead-putin-trump-meeting-china"
    ]
   },
   "WSJ": {
@@ -1219,7 +1220,7 @@
  ],
  "usage": {
   "date": "2026-11-18",
-  "requests": 159
+  "requests": 161
  },
  "flip": 4746,
  "quote_n": 2405,
@@ -1626,11 +1627,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794940570.8334994,
-   "s": 4,
-   "p": 55
-  },
   {
    "t": 1794941204.3826354,
    "s": 4,
