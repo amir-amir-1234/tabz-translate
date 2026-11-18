@@ -10,10 +10,10 @@
    "last_id": 135434
   },
   "TelNews_Magazine": {
-   "last_id": 103914
+   "last_id": 103915
   },
   "NE_WG": {
-   "last_id": 118563
+   "last_id": 118564
   }
  },
  "fails": {},
@@ -2320,11 +2320,11 @@
  ],
  "risk": {
   "base": 70,
-  "ts": 1794989488.902411,
+  "ts": 1794990682.6419034,
   "attack": false,
   "decay": false,
-  "n": 139,
-  "raw": 74.9,
+  "n": 140,
+  "raw": 81.4,
   "shares": {
    "1": 0,
    "2": 4,
