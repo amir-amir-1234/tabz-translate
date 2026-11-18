@@ -228,12 +228,12 @@
     "https://www.foxnews.com/world/ukraine-strikes-one-largest-oil-refineries-southern-russia-ahead-putin-trump-meeting-china",
     "https://www.foxnews.com/world/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount",
     "https://www.foxnews.com/world/kim-jong-un-nuclear-buildup-sparks-serious-concern-trump-xi-putin-summit",
-    "https://www.foxnews.com/world/us-races-build-bunkers-across-middle-east-iranian-strikes-threaten-american-troops"
+    "https://www.foxnews.com/world/us-races-build-bunkers-across-middle-east-iranian-strikes-threaten-american-troops",
+    "https://www.foxnews.com/world/japan-scrambles-fighter-jets-russian-aircraft-breach-airspace-rising-pacific-tensions"
    ]
   },
   "WSJ": {
    "seen": [
-    "SB10553546939527494218504593527852041223168",
     "WP-WSJ-0004005523",
     "WP-WSJ-0003997514",
     "WP-WSJ-0004005903",
@@ -632,7 +632,8 @@
     "WP-WSJ-0004076570",
     "SB10244603575487233329204593576953642488378",
     "SB11388017491371113356004593576981353179210",
-    "SB10152295085169523334704593580130452957790"
+    "SB10152295085169523334704593580130452957790",
+    "SB11388017491371113356004593580592671509734"
    ]
   },
   "NYT": {
@@ -1226,7 +1227,7 @@
  ],
  "usage": {
   "date": "2026-11-18",
-  "requests": 218
+  "requests": 219
  },
  "flip": 4769,
  "quote_n": 2413,
