@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135443
+   "last_id": 135444
   },
   "TelNews_Magazine": {
    "last_id": 103921
   },
   "NE_WG": {
-   "last_id": 118577
+   "last_id": 118578
   }
  },
  "fails": {},
@@ -908,16 +908,6 @@
  },
  "recent": [
   {
-   "t": 1794953650.0,
-   "n": "کان آیزنکوت به کابینه امنیتی تاکید کرده است که با هرگونه حمله به ایران مخالف است",
-   "fa": "🇮🇱🇮🇷کان: آیزنکوت به کابینه امنیتی تاکید کرده است که با هرگونه حمله به ایران مخالف است💢"
-  },
-  {
-   "t": 1794953671.0,
-   "n": "israeli prime minister netanyahu the threats today are no less serious than they were before the 1967 six day war in certain respects they are even greater i am not saying this lightly this is not spin this is the reality and those who need to know know",
-   "fa": "🇮🇱⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: تهدیدهای امروز دست‌کم به اندازه تهدیدهای پیش از جنگ شش‌روزه ۱۹۶۷ جدی هستند. از برخی جهات، آن‌ها حتی بزرگ‌تر نیز هستند. من این حرف را به سبک‌سری نمی‌زنم. این یک مانور سیاسی نیست. این واقعیت است و کسانی که باید بدانند، می‌دانند."
-  },
-  {
    "t": 1794953777.0,
    "n": "israeli prime minister netanyahu the results of these elections are not what i wanted they are not what others wanted either but this is what the people want this is what they told us in these elections the people want us to unite",
    "fa": "🇮🇱⚡️ — بنیامین نتانیاهو، نخست‌وزیر اسرائیل: نتایج این انتخابات آن چیزی نیست که من می‌خواستم. این چیزی نیست که دیگران هم می‌خواستند. اما این چیزی است که مردم می‌خواهند. این همان چیزی است که آن‌ها در این انتخابات به ما گفتند. مردم می‌خواهند که ما متحد شویم."
@@ -1150,7 +1140,7 @@
  ],
  "usage": {
   "date": "2026-11-18",
-  "requests": 62
+  "requests": 63
  },
  "flip": 4697,
  "quote_n": 2378,
