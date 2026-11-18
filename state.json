@@ -883,7 +883,8 @@
     "https://home.treasury.gov/news/press-releases/sb0689/",
     "https://home.treasury.gov/news/press-releases/sb0690/",
     "https://home.treasury.gov/news/press-releases/sb0691/",
-    "https://home.treasury.gov/news/press-releases/sb0692/"
+    "https://home.treasury.gov/news/press-releases/sb0692/",
+    "https://home.treasury.gov/news/press-releases/sb0693/"
    ]
   },
   "OFAC": {
@@ -1222,7 +1223,7 @@
  ],
  "usage": {
   "date": "2026-11-18",
-  "requests": 195
+  "requests": 196
  },
  "flip": 4761,
  "quote_n": 2412,
@@ -1629,11 +1630,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794949311.5875857,
-   "s": 4,
-   "p": 55
-  },
   {
    "t": 1794950476.832829,
    "s": 3,
