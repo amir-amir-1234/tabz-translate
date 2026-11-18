@@ -13,7 +13,7 @@
    "last_id": 103975
   },
   "NE_WG": {
-   "last_id": 118667
+   "last_id": 118668
   }
  },
  "fails": {},
@@ -229,7 +229,8 @@
     "https://www.foxnews.com/world/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount",
     "https://www.foxnews.com/world/kim-jong-un-nuclear-buildup-sparks-serious-concern-trump-xi-putin-summit",
     "https://www.foxnews.com/world/us-races-build-bunkers-across-middle-east-iranian-strikes-threaten-american-troops",
-    "https://www.foxnews.com/world/japan-scrambles-fighter-jets-russian-aircraft-breach-airspace-rising-pacific-tensions"
+    "https://www.foxnews.com/world/japan-scrambles-fighter-jets-russian-aircraft-breach-airspace-rising-pacific-tensions",
+    "https://www.foxnews.com/world/irish-activist-indicted-us-alleged-destruction-60m-military-plane"
    ]
   },
   "WSJ": {
@@ -1227,7 +1228,7 @@
  ],
  "usage": {
   "date": "2026-11-18",
-  "requests": 225
+  "requests": 226
  },
  "flip": 4771,
  "quote_n": 2413,
