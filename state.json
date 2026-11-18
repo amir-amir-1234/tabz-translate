@@ -13,7 +13,7 @@
    "last_id": 103919
   },
   "NE_WG": {
-   "last_id": 118574
+   "last_id": 118575
   }
  },
  "fails": {},
@@ -908,21 +908,6 @@
  },
  "recent": [
   {
-   "t": 1794951438.0,
-   "n": "director of national intelligence jay clayton on recent tech outages this is not a cyberattack and this is not a coordinated action by a nation state",
-   "fa": "🇺🇸⚡️ — جی کلیتون، مدیر اطلاعات ملی آمریکا درباره قطعی‌های اخیر فناوری: این یک حمله سایبری نیست و اقدام هماهنگ‌شده از سوی یک دولت نیست."
-  },
-  {
-   "t": 1794951514.0,
-   "n": "خبرنگار صداوسیما صدای انفجار در قشم ناشی از حمله دشمن به محدوده ای در حاشیه شهر بود",
-   "fa": "‼️خبرنگار صداوسیما: صدای انفجار در قشم ناشی از حمله دشمن به محدوده‌ای در حاشیه شهر بود"
-  },
-  {
-   "t": 1794951540.0,
-   "n": "opinion chips china and trump in the jensen huang scandal the bigger picture is still the ai security race",
-   "fa": "🔴 بررسی ابعاد امنیتی و رقابت هوش مصنوعی در سایه مسائل اخیر به گزارش وال‌استریت ژورنال در رسوایی مربوط به جنسن هوانگ، تصویر بزرگ‌تر همچنان مسابقه امنیت هوش مصنوعی است."
-  },
-  {
    "t": 1794951694.0,
    "n": "breaking kuwaiti air defenses are currently countering hostile drone attacks",
    "fa": "🇮🇷🇰🇼⚡️ — فوری: پدافند هوایی کویت در حال مقابله با «حملات پهپادی متخاصم» است."
@@ -1210,7 +1195,7 @@
  ],
  "usage": {
   "date": "2026-11-18",
-  "requests": 57
+  "requests": 58
  },
  "flip": 4696,
  "quote_n": 2377,
