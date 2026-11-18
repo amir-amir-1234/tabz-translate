@@ -13,7 +13,7 @@
    "last_id": 103932
   },
   "NE_WG": {
-   "last_id": 118585
+   "last_id": 118586
   }
  },
  "fails": {},
@@ -908,11 +908,6 @@
  },
  "recent": [
   {
-   "t": 1794963300.0,
-   "n": "oil edges lower as supply surplus prospects offset mideast tensions oil edged lower as supply surplus prospects offset middle east tensions",
-   "fa": "⭕️ کاهش جزئی قیمت نفت تحت تاثیر چشم‌انداز مازاد عرضه به گزارش وال‌استریت ژورنال قیمت نفت با وجود تنش‌های خاورمیانه به دلیل چشم‌انداز مازاد عرضه اندکی کاهش یافت."
-  },
-  {
    "t": 1794964707.0,
    "n": "alerts in bahrain have been lifted they lasted around 26 minutes shorter attack",
    "fa": "🔄 به‌روزرسانی 🇧🇭⚡️ — آژیرهای هشدار در بحرین لغو شدند. این وضعیت حدود ۲۶ دقیقه ادامه داشت."
@@ -1130,7 +1125,7 @@
  ],
  "usage": {
   "date": "2026-11-18",
-  "requests": 80
+  "requests": 81
  },
  "flip": 4709,
  "quote_n": 2388,
