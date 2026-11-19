@@ -10,7 +10,7 @@
    "last_id": 135581
   },
   "TelNews_Magazine": {
-   "last_id": 104019
+   "last_id": 104020
   },
   "NE_WG": {
    "last_id": 118729
@@ -235,7 +235,8 @@
     "https://www.foxnews.com/world/iran-warns-bahrain-monarchy-survival-risk-push-evict-us-fifth-fleet",
     "https://www.foxnews.com/world/iran-warns-bahrain-monarchy-survival-risk-amid-push-evict-us-fifth-fleet",
     "https://www.foxnews.com/world/bukele-gets-heros-welcome-thousands-rally-haiti-gang-crackdown",
-    "https://www.foxnews.com/world/israeli-shepherds-report-suspected-agricultural-terror-targeting-livestock"
+    "https://www.foxnews.com/world/israeli-shepherds-report-suspected-agricultural-terror-targeting-livestock",
+    "https://www.foxnews.com/world/syrias-christian-leaders-warn-grave-threat-communitys-future-amid-wave-attacks"
    ]
   },
   "WSJ": {
@@ -1214,7 +1215,7 @@
  ],
  "usage": {
   "date": "2026-11-19",
-  "requests": 128
+  "requests": 130
  },
  "flip": 4816,
  "quote_n": 2437,
