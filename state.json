@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135525
+   "last_id": 135526
   },
   "TelNews_Magazine": {
    "last_id": 103976
   },
   "NE_WG": {
-   "last_id": 118673
+   "last_id": 118674
   }
  },
  "fails": {},
@@ -931,11 +931,6 @@
  },
  "recent": [
   {
-   "t": 1795021771.0,
-   "n": "president trump has grown increasingly frustrated with vice president jd vance for blaming republicans midterm election losses on the war with iran without defending trump s decision to launch the war according to nyt although trump initially acknowledged that vance s assessment was largely accurate he has privately complained to aides and allies that the vice president should have explicitly stat",
-   "fa": "🇺🇸🇮🇷⚡️ — به گزارش نیویورک تایمز، دونالد ترامپ، رئیس‌جمهور آمریکا، به‌طور فزاینده‌ای از جی‌دی ونس، معاون رئیس‌جمهور، به دلیل اینکه شکست‌های جمهوری‌خواهان در انتخابات میان‌دوره‌ای را به جنگ با ایران نسبت داده اما از تصمیم ترامپ برای آغاز جنگ دفاع نکرده است، خشمگین شده است. اگرچه ترامپ در ابتدا اذعان کرده بود که ارزیابی ونس تا حد زیادی دقیق است، اما او در محافل خصوصی به دستیاران و متحدانش شکایت کرده "
-  },
-  {
    "t": 1795021843.0,
    "n": "پزشکیان مردم باید بدانند ارزان یا رایگان بودن انرژی زمینه تخلف و سوء استفاده های کلان برای عده ای فراهم کرده",
    "fa": "⭕️پزشکیان: مردم باید بدانند ارزان یا رایگان بودن انرژی زمینه تخلف و سوء استفاده‌های کلان برای عده‌ای فراهم کرده"
@@ -1223,7 +1218,7 @@
  ],
  "usage": {
   "date": "2026-11-19",
-  "requests": 11
+  "requests": 12
  },
  "flip": 4775,
  "quote_n": 2416,
@@ -1630,11 +1625,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1794978371.634325,
-   "s": 5,
-   "p": 85
-  },
   {
    "t": 1794978973.3808722,
    "s": 4,
