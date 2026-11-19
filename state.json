@@ -928,16 +928,12 @@
     "https://ofac.treasury.gov/recent-actions/20261106",
     "https://ofac.treasury.gov/recent-actions/20261109",
     "https://ofac.treasury.gov/recent-actions/20261113",
-    "https://ofac.treasury.gov/recent-actions/20261118"
+    "https://ofac.treasury.gov/recent-actions/20261118",
+    "https://ofac.treasury.gov/recent-actions/20261119"
    ]
   }
  },
  "recent": [
-  {
-   "t": 1795055904.0,
-   "n": "اکسیوس ایران در حال توسعه سلاح های بیولوژیکی و شیمیایی به منظور آمادگی برای هر جنگ احتمالی است",
-   "fa": "🔄 به‌روزرسانی 🇮🇷🇺🇸اکسیوس: ایران در حال توسعه سلاح‌های بیولوژیکی و شیمیایی به منظور آمادگی برای هر جنگ احتمالی است‼️"
-  },
   {
    "t": 1795065888.0,
    "n": "ترامپ مذاکرات قبلی با ایران اتلاف وقت بود فهمیدیم نمی توان به آن ها اعتماد کرد",
@@ -1161,7 +1157,7 @@
  ],
  "usage": {
   "date": "2026-11-19",
-  "requests": 96
+  "requests": 97
  },
  "flip": 4811,
  "quote_n": 2431,
