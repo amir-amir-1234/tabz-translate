@@ -240,7 +240,6 @@
   },
   "WSJ": {
    "seen": [
-    "WP-WSJ-0004002197",
     "WP-WSJ-0004002959",
     "WP-WSJ-0004006699",
     "WP-WSJ-0004006795",
@@ -639,7 +638,8 @@
     "WP-WSJ-0004078496",
     "WP-WSJ-0004077912",
     "WP-WSJ-0004077052",
-    "WP-WSJ-0004078923"
+    "WP-WSJ-0004078923",
+    "WP-WSJ-0004079343"
    ]
   },
   "NYT": {
@@ -897,7 +897,8 @@
     "https://home.treasury.gov/news/press-releases/sb0691/",
     "https://home.treasury.gov/news/press-releases/sb0692/",
     "https://home.treasury.gov/news/press-releases/sb0693/",
-    "https://home.treasury.gov/news/press-releases/sb0694/"
+    "https://home.treasury.gov/news/press-releases/sb0694/",
+    "https://home.treasury.gov/news/press-releases/sb0695/"
    ]
   },
   "OFAC": {
@@ -1167,7 +1168,7 @@
  ],
  "usage": {
   "date": "2026-11-19",
-  "requests": 103
+  "requests": 107
  },
  "flip": 4811,
  "quote_n": 2433,
