@@ -10,7 +10,7 @@
    "last_id": 135525
   },
   "TelNews_Magazine": {
-   "last_id": 103975
+   "last_id": 103976
   },
   "NE_WG": {
    "last_id": 118673
@@ -840,7 +840,8 @@
     "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
     "https://www.nytimes.com/2026/11/18/world/middleeast/israeli-tanks-advance-across-gaza-cease-fire-line-in-rare-incursion.html",
     "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
-    "https://www.nytimes.com/2026/11/18/arts/design/frieze-abu-dhabi-biennial.html"
+    "https://www.nytimes.com/2026/11/18/arts/design/frieze-abu-dhabi-biennial.html",
+    "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html"
    ]
   },
   "Treasury": {
@@ -1222,7 +1223,7 @@
  ],
  "usage": {
   "date": "2026-11-19",
-  "requests": 10
+  "requests": 11
  },
  "flip": 4775,
  "quote_n": 2416,
