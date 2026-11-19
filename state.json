@@ -238,7 +238,8 @@
     "https://www.foxnews.com/world/israeli-shepherds-report-suspected-agricultural-terror-targeting-livestock",
     "https://www.foxnews.com/world/syrias-christian-leaders-warn-grave-threat-communitys-future-amid-wave-attacks",
     "https://www.foxnews.com/world/russia-putin-vows-response-far-more-painful-ukraine-attacks-prized-bridge-crimea",
-    "https://www.foxnews.com/world/china-could-exploit-us-technology-threaten-american-forces-congressional-watchdog-leaders-warn"
+    "https://www.foxnews.com/world/china-could-exploit-us-technology-threaten-american-forces-congressional-watchdog-leaders-warn",
+    "https://www.foxnews.com/world/trump-putin-xi-issue-4-point-declaration-historic-summit"
    ]
   },
   "WSJ": {
@@ -1649,11 +1650,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1795026382.9423609,
-   "s": 4,
-   "p": 40
-  },
   {
    "t": 1795027577.193988,
    "s": 5,
