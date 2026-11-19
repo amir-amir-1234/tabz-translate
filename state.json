@@ -13,7 +13,7 @@
    "last_id": 104003
   },
   "NE_WG": {
-   "last_id": 118699
+   "last_id": 118700
   }
  },
  "fails": {},
@@ -842,7 +842,8 @@
     "https://www.nytimes.com/2026/11/18/world/middleeast/israeli-tanks-advance-across-gaza-cease-fire-line-in-rare-incursion.html",
     "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
     "https://www.nytimes.com/2026/11/18/arts/design/frieze-abu-dhabi-biennial.html",
-    "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html"
+    "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
+    "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html"
    ]
   },
   "Treasury": {
@@ -1114,7 +1115,7 @@
  ],
  "usage": {
   "date": "2026-11-19",
-  "requests": 65
+  "requests": 66
  },
  "flip": 4801,
  "quote_n": 2426,
