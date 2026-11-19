@@ -7,16 +7,18 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135604
+   "last_id": 135605
   },
   "TelNews_Magazine": {
    "last_id": 104038
   },
   "NE_WG": {
-   "last_id": 118751
+   "last_id": 118752
   }
  },
- "fails": {},
+ "fails": {
+  "web:Fox News/2673439184": 1
+ },
  "web": {
   "Fox News": {
    "seen": [
@@ -1244,7 +1246,7 @@
  ],
  "usage": {
   "date": "2026-11-19",
-  "requests": 180
+  "requests": 186
  },
  "flip": 4835,
  "quote_n": 2444,
@@ -1651,11 +1653,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1795029386.7217324,
-   "s": 5,
-   "p": 35
-  },
   {
    "t": 1795029726.0055823,
    "s": 3,
