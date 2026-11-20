@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135664
+   "last_id": 135665
   },
   "TelNews_Magazine": {
    "last_id": 104087
   },
   "NE_WG": {
-   "last_id": 118819
+   "last_id": 118820
   }
  },
  "fails": {},
@@ -242,7 +242,8 @@
     "https://www.foxnews.com/world/trump-putin-xi-issue-4-point-declaration-historic-summit",
     "https://www.foxnews.com/world/iran-backed-houthi-terrorist-attack-hits-riyadh-tallest-skyscraper-hq-saudi-public-investment-fund",
     "https://www.foxnews.com/world/iran-regime-execution-spree-continues-twins-face-death-penalty-decades-prison-alleged-torture",
-    "https://www.foxnews.com/world/zelenskyy-presses-us-expanded-russia-talks-kushner-announces-breakthrough"
+    "https://www.foxnews.com/world/zelenskyy-presses-us-expanded-russia-talks-kushner-announces-breakthrough",
+    "https://www.foxnews.com/world/senate-foreign-relations-chairman-warns-horrific-trend-christians-killed-ethiopia"
    ]
   },
   "WSJ": {
@@ -1221,7 +1222,7 @@
  ],
  "usage": {
   "date": "2026-11-20",
-  "requests": 75
+  "requests": 76
  },
  "flip": 4893,
  "quote_n": 2470,
