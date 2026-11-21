@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111513
+   "last_id": 111514
   },
   "khabarfouri": {
    "last_id": 569949
@@ -949,16 +949,6 @@
  },
  "recent": [
   {
-   "t": 1795198917.0,
-   "n": "reporter there was reporting this week that you re unhappy with the statement made by jd vance saying the reason republicans lost the midterms was the iran war trump i didn t say i was unhappy i thought the statement was fine",
-   "fa": "🇺🇸🇮🇷 خبرنگار: گزارش‌هایی منتشر شده که شما از اظهارات جی‌دی ونس مبنی بر اینکه دلیل شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای، جنگ با ایران بوده، ناراضی هستید. ترامپ: من نگفتم ناراضی هستم. فکر می‌کنم آن اظهارات مشکلی نداشت."
-  },
-  {
-   "t": 1795199027.0,
-   "n": "reporter you said putin is your friend russia is iran s biggest ally do you believe putin is a friend to america trump i can t speak to america i consider putin to be someone i have a very good relationship with",
-   "fa": "🇺🇸🇷🇺 خبرنگار: شما گفتید پوتین دوست شماست. روسیه بزرگترین متحد ایران است. آیا فکر می‌کنید پوتین دوست آمریکا است؟ ترامپ: من نمی‌توانم از طرف آمریکا صحبت کنم. من پوتین را کسی می‌دانم که رابطه بسیار خوبی با او دارم."
-  },
-  {
    "t": 1795199234.0,
    "n": "president trump on nvidia i d like to see jensen huang make a big apology and go back",
    "fa": "🇺🇸⚡️ — رئیس‌جمهور ترامپ درباره انویدیا: من دوست دارم ببینم جنسن هوانگ یک عذرخواهی بزرگ بکند و برگردد."
@@ -1216,7 +1206,7 @@
  ],
  "usage": {
   "date": "2026-11-21",
-  "requests": 29
+  "requests": 30
  },
  "flip": 4957,
  "quote_n": 2503,
