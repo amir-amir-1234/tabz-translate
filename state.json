@@ -10,10 +10,10 @@
    "last_id": 135772
   },
   "TelNews_Magazine": {
-   "last_id": 104170
+   "last_id": 104171
   },
   "NE_WG": {
-   "last_id": 118938
+   "last_id": 118939
   }
  },
  "fails": {},
@@ -953,11 +953,6 @@
  },
  "recent": [
   {
-   "t": 1795233312.0,
-   "n": "an hour ago a large gas explosion occured at the al hartha thermal power station basrah governorate southern iraq a fire subsequently occured causing several firefighting teams to be deployed",
-   "fa": "🇮🇶⚡️ — یک ساعت پیش، یک انفجار بزرگ گاز در نیروگاه حرارتی الحارثه در استان بصره واقع در جنوب عراق رخ داد. به دنبال آن آتش‌سوزی به وقوع پیوست که منجر به اعزام چندین تیم آتش‌نشانی شد."
-  },
-  {
    "t": 1795234419.0,
    "n": "channel 12 reports likud s starting position in talks to form a likud yashar unity government include all parties except arab parties being in government with benjamin netanyahu remaining prime minister for 4 years coalition partners would have to sign a statement opposing the establishment of a palestinian state and a statement recognizing israel as the nation state of the jewish people coalition",
    "fa": "🇮🇱⚡️ — شبکه ۱۲ تلویزیون اسرائیل گزارش داد که موضع اولیه حزب لیکود در مذاکرات برای تشکیل دولت وحدت شامل حضور همه احزاب به جز احزاب عربی در دولت است و بنیامین نتانیاهو به مدت ۴ سال به عنوان نخست‌وزیر باقی خواهد ماند. شرکای ائتلافی باید بیانیه‌ای در مخالفت با تأسیس دولت فلسطینی و بیانیه‌ای در به رسمیت شناختن اسرائیل به عنوان دولت-ملت قوم یهود امضا کنند. اعضای ائتلاف ملزم خواهند بود که از حمله مجدد به"
@@ -1255,7 +1250,7 @@
  ],
  "usage": {
   "date": "2026-11-21",
-  "requests": 121
+  "requests": 123
  },
  "flip": 4994,
  "quote_n": 2524,
@@ -1662,16 +1657,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1795189899.0423205,
-   "s": 4,
-   "p": 40
-  },
-  {
-   "t": 1795189902.428612,
-   "s": 3,
-   "p": 50
-  },
   {
    "t": 1795190180.6758595,
    "s": 5,
