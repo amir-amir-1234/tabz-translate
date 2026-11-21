@@ -1,19 +1,19 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111541
+   "last_id": 111542
   },
   "khabarfouri": {
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135768
+   "last_id": 135769
   },
   "TelNews_Magazine": {
    "last_id": 104165
   },
   "NE_WG": {
-   "last_id": 118934
+   "last_id": 118935
   }
  },
  "fails": {},
@@ -247,7 +247,8 @@
     "https://www.foxnews.com/world/putin-launches-ukraine-barrage-hours-after-trump-meeting-amid-alleged-russian-missile-breach-nato-airspace",
     "https://www.foxnews.com/world/ukraine-deals-major-blow-putins-crimea-lifeline-european-intel-assessment-claims",
     "https://www.foxnews.com/world/fbi-ten-most-wanted-cartel-leader-chapo-isidro-captured-mexicos-elite-military-forces-us-help",
-    "https://www.foxnews.com/world/asra-q-nomani-communist-left-wing-extremist-groups-organize-youth-strike-realize-socialist-revolution"
+    "https://www.foxnews.com/world/asra-q-nomani-communist-left-wing-extremist-groups-organize-youth-strike-realize-socialist-revolution",
+    "https://www.foxnews.com/world/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-danish-soil"
    ]
   },
   "WSJ": {
@@ -952,11 +953,6 @@
  },
  "recent": [
   {
-   "t": 1795228749.0,
-   "n": "iran s irgc announces intercepting a u s air force mq 9a reaper ucav operating above the strait of hormuz",
-   "fa": "🇮🇷❌🇺🇸 — سپاه پاسداران انقلاب اسلامی ایران از رهگیری یک فروند پهپاد رزمی MQ-9A Reaper نیروی هوایی ایالات متحده در حال فعالیت بر فراز تنگه هرمز خبر داد."
-  },
-  {
    "t": 1795230672.0,
    "n": "a u s army thaad anti ballistic missile defense system deployed to israel in october 2024 was removed sometime in mid 2026 according to satellite imagery image credit noctumind",
    "fa": "🇺🇸🇮🇱⚡️ — تصاویر ماهواره‌ای نشان می‌دهد یک سامانه دفاع ضدموشکی بالستیک تاد ارتش ایالات متحده که در اکتبر ۲۰۲۴ در اسرائیل مستقر شده بود، در اواسط سال ۲۰۲۶ جمع‌آوری و خارج شده است. منبع تصویر: NoctuMind"
@@ -1229,7 +1225,7 @@
  ],
  "usage": {
   "date": "2026-11-21",
-  "requests": 109
+  "requests": 110
  },
  "flip": 4991,
  "quote_n": 2518,
