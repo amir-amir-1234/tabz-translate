@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135758
+   "last_id": 135760
   },
   "TelNews_Magazine": {
    "last_id": 104148
   },
   "NE_WG": {
-   "last_id": 118923
+   "last_id": 118925
   }
  },
  "fails": {},
@@ -244,7 +244,8 @@
     "https://www.foxnews.com/world/iran-regime-execution-spree-continues-twins-face-death-penalty-decades-prison-alleged-torture",
     "https://www.foxnews.com/world/zelenskyy-presses-us-expanded-russia-talks-kushner-announces-breakthrough",
     "https://www.foxnews.com/world/senate-foreign-relations-chairman-warns-horrific-trend-christians-killed-ethiopia",
-    "https://www.foxnews.com/world/putin-launches-ukraine-barrage-hours-after-trump-meeting-amid-alleged-russian-missile-breach-nato-airspace"
+    "https://www.foxnews.com/world/putin-launches-ukraine-barrage-hours-after-trump-meeting-amid-alleged-russian-missile-breach-nato-airspace",
+    "https://www.foxnews.com/world/ukraine-deals-major-blow-putins-crimea-lifeline-european-intel-assessment-claims"
    ]
   },
   "WSJ": {
@@ -1101,7 +1102,7 @@
  ],
  "usage": {
   "date": "2026-11-21",
-  "requests": 60
+  "requests": 61
  },
  "flip": 4975,
  "quote_n": 2509,
@@ -1508,11 +1509,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1795172770.9312007,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1795173080.6419604,
    "s": 4,
