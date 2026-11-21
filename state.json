@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135747
+   "last_id": 135748
   },
   "TelNews_Magazine": {
    "last_id": 104139
   },
   "NE_WG": {
-   "last_id": 118913
+   "last_id": 118914
   }
  },
  "fails": {},
@@ -949,11 +949,6 @@
  },
  "recent": [
   {
-   "t": 1795206966.7902458,
-   "n": "iran designations issuance of cuba frequently asked questions the department of the treasury s office of foreign assets control ofac is issuing two new cuba related frequently asked questions faqs 1277 and 1278 additionally ofac has made the following changes to the list of specially designated nationals and blocked persons sdn list specially designated nationals list updates arabnejad mojtaba ara",
-   "fa": "🚨 اع اعمال تحریم‌های جدید از سوی دفتر کنترل دارایی‌های خارجی آمریکا علیه چند فرد مرتبط با ایران به گزارش دفتر کنترل دارایی‌های خارجی آمریکا (اوفک)، این دفتر دو پرسش و پاسخ جدید مرتبط با کوبا با شماره‌های ۱۲۷۷ و ۱۲۷۸ را منتشر کرده است. علاوه بر این، اوفک تغییراتی را در فهرست اتباع ویژه تحریم‌شده و افراد مسدودشده اعمال کرده است که شامل اضافه شدن چند فرد می‌شود. به روزرسانی‌های فهرست اتباع ویژه تحریم"
-  },
-  {
    "t": 1795207368.0,
    "n": "امروز هم ۲ ۵ تریلیون دلار از ارزش بورس امریکا پاک شد",
    "fa": "📉امروز هم ۲/۵ تریلیون دلار از ارزش بورس امریکا پاک شد"
@@ -1161,7 +1156,7 @@
  ],
  "usage": {
   "date": "2026-11-21",
-  "requests": 42
+  "requests": 43
  },
  "flip": 4967,
  "quote_n": 2505,
