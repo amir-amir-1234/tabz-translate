@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111510
+   "last_id": 111513
   },
   "khabarfouri": {
    "last_id": 569949
@@ -949,11 +949,6 @@
  },
  "recent": [
   {
-   "t": 1795198820.0,
-   "n": "فعالیت پدافند در اهواز",
-   "fa": "🚨فعالیت پدافند در اهواز ‼️"
-  },
-  {
    "t": 1795198917.0,
    "n": "reporter there was reporting this week that you re unhappy with the statement made by jd vance saying the reason republicans lost the midterms was the iran war trump i didn t say i was unhappy i thought the statement was fine",
    "fa": "🇺🇸🇮🇷 خبرنگار: گزارش‌هایی منتشر شده که شما از اظهارات جی‌دی ونس مبنی بر اینکه دلیل شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای، جنگ با ایران بوده، ناراضی هستید. ترامپ: من نگفتم ناراضی هستم. فکر می‌کنم آن اظهارات مشکلی نداشت."
@@ -1221,7 +1216,7 @@
  ],
  "usage": {
   "date": "2026-11-21",
-  "requests": 28
+  "requests": 29
  },
  "flip": 4957,
  "quote_n": 2503,
