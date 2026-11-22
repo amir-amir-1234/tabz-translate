@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111629
+   "last_id": 111630
   },
   "khabarfouri": {
    "last_id": 569949
@@ -250,7 +250,8 @@
     "https://www.foxnews.com/world/asra-q-nomani-communist-left-wing-extremist-groups-organize-youth-strike-realize-socialist-revolution",
     "https://www.foxnews.com/world/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-danish-soil",
     "https://www.foxnews.com/world/zelenskyy-says-russia-strikes-hometown-criticizes-putin-trump-meeting",
-    "https://www.foxnews.com/world/indonesia-candy-factory-fire-leaves-multiple-dead-dozens-missing"
+    "https://www.foxnews.com/world/indonesia-candy-factory-fire-leaves-multiple-dead-dozens-missing",
+    "https://www.foxnews.com/world/flavio-bolsonaro-claims-judge-ordered-passports-seized-just-7-minutes-after-brazil-election-loss"
    ]
   },
   "WSJ": {
@@ -1228,19 +1229,20 @@
    "t": 1795362508.0,
    "n": "پزشکیان زمان شاه که سرباز بودم منو فرستادن منطقه محروم اون موقع بابام ۴۰۰ تومن حقوق می گرفت و من که دیپلم داشتم ۱۸۰۰ تومن پول می گرفتم قیمت موتور چقدر بود ۱۲۰۰ تومن یعنی با یه ماه حقوق سربازیت یه موتور می تونستی بگیری تازه یه چیزیم اضافه میومد اما الان چی استاد تموم دانشگاه هستم رئیس جمهورم هستم اما با حقوق یه ماهم نمیتونم موتور بخرم",
    "fa": "🇮🇷پزشکیان: زمان شاه که سرباز بودم، منو فرستادن منطقه محروم. اون موقع بابام ۴۰۰ تومن حقوق می‌گرفت و من که دیپلم داشتم ۱۸۰۰ تومن پول می‌گرفتم. قیمت موتور چقدر بود؟ ۱۲۰۰ تومن. یعنی با یه ماه حقوق سربازیت یه موتور می‌تونستی بگیری، تازه یه چیزیم اضافه میومد، اما الان چی؟ استاد تموم دانشگاه هستم، رئیس جمهورم هستم، اما با حقوق یه ماهم نمیتونم موتور بخرم."
+  },
+  {
+   "t": 1795363799.0,
+   "n": "ukmto has received a report of an incident involving a tanker and military forces in the gulf of oman high possibility u s forces conducted some sort of action against an iranian oil tanker in the area given the wording in the statement",
+   "fa": "🇺🇸🇮🇷⚡️ — سازمان عملیات تجارت دریایی بریتانیا (UKMTO) گزارشی از یک حادثه مربوط به یک تانکر و «نیروهای نظامی» در دریای عمان دریافت کرده است."
   }
  ],
  "usage": {
   "date": "2026-11-22",
-  "requests": 109
+  "requests": 110
  },
  "flip": 5076,
  "quote_n": 2597,
  "feed": [
-  {
-   "t": 1795288975.0,
-   "tx": "🇮🇷🇺🇸🇧🇭 انفجار دیگری در جنوب بحرین؛ شلیک موشک‌های پدافندی در نزدیکی پایگاه هوایی رفاع\n\n🚨دقایقی پیش صدای انفجار دیگری در مناطق جنوبی بحرین شنیده شد. هم‌زمان گزارش‌ها از شلیک موشک‌های رهگیر سامانه پدافند هوایی در نزدیکی پایگاه هوایی رفاع حکایت دارند."
-  },
   {
    "t": 1795289010.0,
    "tx": "🇧🇭🇮🇷🚨بحرین هدف قرار گرفتن تأسیسات صنعتی در منطقه ستره را تأیید کرد"
@@ -1636,19 +1638,13 @@
   {
    "t": 1795362508.0,
    "tx": "🇮🇷پزشکیان: زمان شاه که سرباز بودم، منو فرستادن منطقه محروم. اون موقع بابام ۴۰۰ تومن حقوق می‌گرفت و من که دیپلم داشتم ۱۸۰۰ تومن پول می‌گرفتم.\n\nقیمت موتور چقدر بود؟ ۱۲۰۰ تومن. یعنی با یه ماه حقوق سربازیت یه موتور می‌تونستی بگیری، تازه یه چیزیم اضافه میومد، اما الان چی؟\n\nاستاد تموم دانشگاه هستم، رئیس جمهورم هستم، اما با حقوق یه ماهم نمیتونم موتور بخرم."
+  },
+  {
+   "t": 1795363799.0,
+   "tx": "🇺🇸🇮🇷⚡️ — سازمان عملیات تجارت دریایی بریتانیا (UKMTO) گزارشی از یک حادثه مربوط به یک تانکر و «نیروهای نظامی» در دریای عمان دریافت کرده است."
   }
  ],
  "signals": [
-  {
-   "t": 1795277180.2834053,
-   "s": 3,
-   "p": 50
-  },
-  {
-   "t": 1795277187.3766139,
-   "s": 1,
-   "p": 80
-  },
   {
    "t": 1795277480.536965,
    "s": 5,
@@ -2323,21 +2319,26 @@
    "t": 1795362690.093563,
    "s": 3,
    "p": 30
+  },
+  {
+   "t": 1795363883.724715,
+   "s": 4,
+   "p": 65
   }
  ],
  "risk": {
   "base": 70,
-  "ts": 1795357898.5612733,
+  "ts": 1795363886.728238,
   "attack": false,
   "decay": false,
-  "n": 143,
-  "raw": 69.2,
+  "n": 135,
+  "raw": 73.5,
   "shares": {
    "1": 1,
-   "2": 5,
-   "3": 20,
-   "4": 44,
-   "5": 30
+   "2": 4,
+   "3": 22,
+   "4": 41,
+   "5": 31
   }
  },
  "attack_ts": 1794422166.7186296,
