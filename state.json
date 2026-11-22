@@ -253,7 +253,8 @@
     "https://www.foxnews.com/world/indonesia-candy-factory-fire-leaves-multiple-dead-dozens-missing",
     "https://www.foxnews.com/world/flavio-bolsonaro-claims-judge-ordered-passports-seized-just-7-minutes-after-brazil-election-loss",
     "https://www.foxnews.com/world/tehran-threatens-break-legs-trump-corridor-prepares-launch-irans-border",
-    "https://www.foxnews.com/world/trump-dares-iran-breach-us-port-blockade-tehran-reportedly-readies-14-oil-tankers"
+    "https://www.foxnews.com/world/trump-dares-iran-breach-us-port-blockade-tehran-reportedly-readies-14-oil-tankers",
+    "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms"
    ]
   },
   "WSJ": {
@@ -1260,7 +1261,7 @@
  ],
  "usage": {
   "date": "2026-11-22",
-  "requests": 205
+  "requests": 206
  },
  "flip": 5121,
  "quote_n": 2624,
