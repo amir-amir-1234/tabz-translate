@@ -249,7 +249,8 @@
     "https://www.foxnews.com/world/fbi-ten-most-wanted-cartel-leader-chapo-isidro-captured-mexicos-elite-military-forces-us-help",
     "https://www.foxnews.com/world/asra-q-nomani-communist-left-wing-extremist-groups-organize-youth-strike-realize-socialist-revolution",
     "https://www.foxnews.com/world/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-danish-soil",
-    "https://www.foxnews.com/world/zelenskyy-says-russia-strikes-hometown-criticizes-putin-trump-meeting"
+    "https://www.foxnews.com/world/zelenskyy-says-russia-strikes-hometown-criticizes-putin-trump-meeting",
+    "https://www.foxnews.com/world/indonesia-candy-factory-fire-leaves-multiple-dead-dozens-missing"
    ]
   },
   "WSJ": {
@@ -1598,11 +1599,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1795267561.8572404,
-   "s": 4,
-   "p": 60
-  },
   {
    "t": 1795267880.8347988,
    "s": 2,
