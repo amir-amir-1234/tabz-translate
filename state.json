@@ -954,16 +954,6 @@
  },
  "recent": [
   {
-   "t": 1795289765.0,
-   "n": "note contrary to reports there are no missile launches identified from khuzestan ahvaz at this time aircraft trails have been frequently misidentified as missile trails",
-   "fa": "⚠️ بر خلاف گزارش‌های منتشر شده، تاکنون هیچ‌گونه شلیک موشکی از خوزستان / اهواز شناسایی نشده است. ردهای به‌جا مانده از هواپیماها بارها به اشتباه به عنوان رد موشک تشخیص داده شده‌اند."
-  },
-  {
-   "t": 1795290009.0,
-   "n": "ballistic missile launchers in khuzestan ahvaz and other sites in western iran are not for gulf state targets they are for either jordan or iraqi kurdistan missile launches in these areas are also frequently surface to air missile launches against american israeli reconnaissance uavs",
-   "fa": "🔴 پرتابگرهای موشک‌های بالستیک در خوزستان، اهواز و سایر پایگاه‌ها در غرب ایران برای اهداف کشورهای حوزه خلیج فارس نیستند. آن‌ها برای اردن یا کردستان عراق در نظر گرفته شده‌اند. همچنین پرتاب موشک‌ها در این مناطق غالباً مربوط به شلیک موشک‌های سطح به هوا علیه پهپادهای شناسایی آمریکایی/اسرائیلی است."
-  },
-  {
    "t": 1795290434.0,
    "n": "آتش سوزی در آب های خلیج فارس در رو به روی بندر عسلویه ایران",
    "fa": "‼️‼️آتش‌سوزی در آب‌های خلیج فارس، در رو به روی بندر عسلویه ایران"
@@ -1628,11 +1618,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1795246571.7871635,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1795247484.7029004,
    "s": 4,
