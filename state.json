@@ -13,7 +13,7 @@
    "last_id": 104347
   },
   "NE_WG": {
-   "last_id": 119250
+   "last_id": 119251
   }
  },
  "fails": {},
@@ -261,7 +261,8 @@
     "https://www.foxnews.com/world/taylor-swift-isis-concert-plot-foiled-israels-help-ex-mossad-chief-says",
     "https://www.foxnews.com/world/israels-leading-contender-prime-minister-clashes-netanyahu-over-iran-strikes",
     "https://www.foxnews.com/world/captain-abandoned-passengers-sinking-costa-concordia-cruise-ship-released-early-prison",
-    "https://www.foxnews.com/world/russia-could-launch-nuclear-capable-satellite-within-weeks-western-intelligence-warns-report"
+    "https://www.foxnews.com/world/russia-could-launch-nuclear-capable-satellite-within-weeks-western-intelligence-warns-report",
+    "https://www.foxnews.com/world/russia-warns-preventive-nuclear-attack-medvedev-claims-ukraine-nato-crossed-line"
    ]
   },
   "WSJ": {
@@ -1273,7 +1274,7 @@
  ],
  "usage": {
   "date": "2026-11-23",
-  "requests": 434
+  "requests": 436
  },
  "flip": 5224,
  "quote_n": 2668,
@@ -1680,11 +1681,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1795381895.2552202,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1795382485.2791328,
    "s": 2,
