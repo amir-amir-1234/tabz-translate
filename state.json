@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111646
+   "last_id": 111648
   },
   "khabarfouri": {
    "last_id": 569949
@@ -254,7 +254,8 @@
     "https://www.foxnews.com/world/flavio-bolsonaro-claims-judge-ordered-passports-seized-just-7-minutes-after-brazil-election-loss",
     "https://www.foxnews.com/world/tehran-threatens-break-legs-trump-corridor-prepares-launch-irans-border",
     "https://www.foxnews.com/world/trump-dares-iran-breach-us-port-blockade-tehran-reportedly-readies-14-oil-tankers",
-    "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms"
+    "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms",
+    "https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea"
    ]
   },
   "WSJ": {
@@ -960,11 +961,6 @@
  },
  "recent": [
   {
-   "t": 1795365615.0,
-   "n": "سفارت آمریکا در بحرین یک هشدار امنیتی جدی در مورد سربازان آمریکایی مستقر در بحرین صادر کرد",
-   "fa": "⭕️سفارت آمریکا در بحرین، یک هشدار امنیتی جدی در مورد سربازان آمریکایی مستقر در بحرین صادر کرد."
-  },
-  {
    "t": 1795365898.0,
    "n": "سپاه دو نفتکش دیگر را در تنگه هرمز هدف قرار داد",
    "fa": "🇮🇷🚨سپاه دو نفتکش دیگر را در تنگه هرمز هدف قرار داد."
@@ -1258,19 +1254,20 @@
    "t": 1795396279.0,
    "n": "israeli political leaders decry jewish terrorism after west bank attacks extremist settlers carried out a spate of violent raids in palestinian villages over the weekend spurring opponents of the netanyahu government to demand a forceful response",
    "fa": "⭕️ محکومیت تروریسم یهودی از سوی رهبران سیاسی اسرائیل پس از حملات کرانه باختری به گزارش نیویورک تایمز شهرک‌نشینان افراطی در طول آخر هفته مجموعه‌ای از یورش‌های خشونت‌آمیز را در روستاهای فلسطینی به اجرا درآوردند که این امر مخالفان دولت نتانیاهو را واداشت تا خواستار واکنشی قاطع شوند."
+  },
+  {
+   "t": 1795397494.0,
+   "n": "fighter jet activity above sulaymaniyah northern iraq a local source informs tabz",
+   "fa": "🇮🇶⚡️ — تحرکات جنگنده‌ها بر فراز سلیمانیه در شمال عراق، یک منبع محلی به تبز اطلاع داد."
   }
  ],
  "usage": {
   "date": "2026-11-23",
-  "requests": 3
+  "requests": 4
  },
- "flip": 5122,
- "quote_n": 2625,
+ "flip": 5123,
+ "quote_n": 2626,
  "feed": [
-  {
-   "t": 1795340360.0,
-   "tx": "🔴 〰️💢سرهنگ قریشی، از سپاه پاسداران انقلاب اسلامی:\n\n💢برد موشک‌ها به بیش از 2000 کیلومتر رسیده است، اما نمی‌توانم دقیقاً بگویم که این میزان چقدر است.\n\n💢طبق دستور مقام معظم رهبری، ما دشمن را به خاطر اقداماتش مجازات خواهیم کرد."
-  },
   {
    "t": 1795340380.0,
    "tx": "🇮🇷دبیر شورای عالی امنیت ملی ایران:\n\n💢ایران در سال ۲۰۲۶، ایرانِ کنفرانس تهران در سال ۱۹۴۳ یا کنفرانس یالتا در سال ۱۹۴۵ نیست. همچنین آمریکا در سال ۲۰۲۶، آمریکای آن دوران نیست، بلکه به کشوری شکست‌خورده تبدیل شده است، نه کشوری پیروز در جنگ!\n\n💢جهان تغییر کرده است و نمی‌توان با استفاده از تصاویر قدیمی، نظم جهانی کنونی را به گذشته بازگرداند!"
@@ -1666,6 +1663,10 @@
   {
    "t": 1795396279.0,
    "tx": "⭕️ محکومیت تروریسم یهودی از سوی رهبران سیاسی اسرائیل پس از حملات کرانه باختری\n\nبه گزارش نیویورک تایمز شهرک‌نشینان افراطی در طول آخر هفته مجموعه‌ای از یورش‌های خشونت‌آمیز را در روستاهای فلسطینی به اجرا درآوردند که این امر مخالفان دولت نتانیاهو را واداشت تا خواستار واکنشی قاطع شوند."
+  },
+  {
+   "t": 1795397494.0,
+   "tx": "🇮🇶⚡️ — تحرکات جنگنده‌ها بر فراز سلیمانیه در شمال عراق، یک منبع محلی به تبز اطلاع داد."
   }
  ],
  "signals": [
@@ -2252,6 +2253,11 @@
   {
    "t": 1795396904.0247834,
    "s": 3,
+   "p": 30
+  },
+  {
+   "t": 1795397763.0395894,
+   "s": 4,
    "p": 30
   }
  ],
