@@ -7,7 +7,7 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 136035
+   "last_id": 136037
   },
   "TelNews_Magazine": {
    "last_id": 104341
@@ -259,7 +259,8 @@
     "https://www.foxnews.com/world/zelenskyy-hails-exemplary-ukrainian-operation-sinking-russian-warship-libya",
     "https://www.foxnews.com/world/exclusive-nih-funded-foreign-labs-troubling-safety-lapses-deadly-bat-virus-experiment",
     "https://www.foxnews.com/world/taylor-swift-isis-concert-plot-foiled-israels-help-ex-mossad-chief-says",
-    "https://www.foxnews.com/world/israels-leading-contender-prime-minister-clashes-netanyahu-over-iran-strikes"
+    "https://www.foxnews.com/world/israels-leading-contender-prime-minister-clashes-netanyahu-over-iran-strikes",
+    "https://www.foxnews.com/world/captain-abandoned-passengers-sinking-costa-concordia-cruise-ship-released-early-prison"
    ]
   },
   "WSJ": {
@@ -1271,7 +1272,7 @@
  ],
  "usage": {
   "date": "2026-11-23",
-  "requests": 386
+  "requests": 389
  },
  "flip": 5211,
  "quote_n": 2664,
@@ -1678,16 +1679,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1795374986.0276592,
-   "s": 4,
-   "p": 45
-  },
-  {
-   "t": 1795375285.5852132,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1795376192.1178534,
    "s": 3,
