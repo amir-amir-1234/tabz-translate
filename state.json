@@ -10,7 +10,7 @@
    "last_id": 135971
   },
   "TelNews_Magazine": {
-   "last_id": 104310
+   "last_id": 104311
   },
   "NE_WG": {
    "last_id": 119153
@@ -256,7 +256,8 @@
     "https://www.foxnews.com/world/trump-dares-iran-breach-us-port-blockade-tehran-reportedly-readies-14-oil-tankers",
     "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms",
     "https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea",
-    "https://www.foxnews.com/world/zelenskyy-hails-exemplary-ukrainian-operation-sinking-russian-warship-libya"
+    "https://www.foxnews.com/world/zelenskyy-hails-exemplary-ukrainian-operation-sinking-russian-warship-libya",
+    "https://www.foxnews.com/world/exclusive-nih-funded-foreign-labs-troubling-safety-lapses-deadly-bat-virus-experiment"
    ]
   },
   "WSJ": {
@@ -1195,7 +1196,7 @@
  ],
  "usage": {
   "date": "2026-11-23",
-  "requests": 64
+  "requests": 65
  },
  "flip": 5164,
  "quote_n": 2644,
@@ -1602,11 +1603,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1795352496.217174,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1795353373.3576167,
    "s": 3,
