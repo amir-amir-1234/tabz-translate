@@ -7,10 +7,10 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 135968
+   "last_id": 135969
   },
   "TelNews_Magazine": {
-   "last_id": 104308
+   "last_id": 104309
   },
   "NE_WG": {
    "last_id": 119150
@@ -255,12 +255,12 @@
     "https://www.foxnews.com/world/tehran-threatens-break-legs-trump-corridor-prepares-launch-irans-border",
     "https://www.foxnews.com/world/trump-dares-iran-breach-us-port-blockade-tehran-reportedly-readies-14-oil-tankers",
     "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms",
-    "https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea"
+    "https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea",
+    "https://www.foxnews.com/world/zelenskyy-hails-exemplary-ukrainian-operation-sinking-russian-warship-libya"
    ]
   },
   "WSJ": {
    "seen": [
-    "WP-WSJ-0004014427",
     "WP-WSJ-0004014764",
     "WP-WSJ-0004015073",
     "WP-WSJ-0004015429",
@@ -659,7 +659,8 @@
     "WP-WSJ-0004086624",
     "WP-WSJ-0004086696",
     "WP-WSJ-0004086840",
-    "WP-WSJ-0004086882"
+    "WP-WSJ-0004086882",
+    "WP-WSJ-0004086128"
    ]
   },
   "NYT": {
@@ -1185,19 +1186,20 @@
    "t": 1795436897.0,
    "n": "سرپرست وزارت نفت در جنگ یک چهارم ظرفیت تولید گاز کشور را از دست دادیم اما الان بیش از ۵۰ درصد آن را به دست آورده ایم",
    "fa": "⭕️سرپرست وزارت نفت: در جنگ، یک‌چهارم ظرفیت تولید گاز کشور را از دست دادیم اما الان بیش از ۵۰ درصد آن را به‌دست‌آورده‌ایم"
+  },
+  {
+   "t": 1795437529.0,
+   "n": "رئیس پیشین موساد خواستار آغاز جنگ با ایران به محض فراهم شدن تمامی شرایط شد",
+   "fa": "⭕️رئیس پیشین موساد خواستار آغاز جنگ با ایران به محض فراهم شدن تمامی شرایط شد."
   }
  ],
  "usage": {
   "date": "2026-11-23",
-  "requests": 60
+  "requests": 61
  },
- "flip": 5163,
- "quote_n": 2643,
+ "flip": 5164,
+ "quote_n": 2644,
  "feed": [
-  {
-   "t": 1795366599.0,
-   "tx": "🔴 تسنیم: صبرمون درباره محاصره تمام شده"
-  },
   {
    "t": 1795366741.0,
    "tx": "⭕️بلک فرایدی تو ایران:\n\nقیمت یه توستر نون که تو حالت عادی ۵ میلیون و ۸۰۰ هزارتومنه، ۸۵ میلیون قیمت زدن که بعد با تخفیف شده ۷ میلیون\n\nنه تنها تخفیفی در کار نیست، بلکه گرون‌ترم میفروشن!"
@@ -1593,14 +1595,13 @@
   {
    "t": 1795436897.0,
    "tx": "⭕️سرپرست وزارت نفت: در جنگ، یک‌چهارم ظرفیت تولید گاز کشور را از دست دادیم اما الان بیش از ۵۰ درصد آن را به‌دست‌آورده‌ایم"
+  },
+  {
+   "t": 1795437529.0,
+   "tx": "⭕️رئیس پیشین موساد خواستار آغاز جنگ با ایران به محض فراهم شدن تمامی شرایط شد."
   }
  ],
  "signals": [
-  {
-   "t": 1795350973.6570976,
-   "s": 4,
-   "p": 35
-  },
   {
    "t": 1795351274.3021908,
    "s": 4,
@@ -2185,6 +2186,11 @@
    "t": 1795437081.7592106,
    "s": 3,
    "p": 50
+  },
+  {
+   "t": 1795437672.9642644,
+   "s": 5,
+   "p": 65
   }
  ],
  "risk": {
