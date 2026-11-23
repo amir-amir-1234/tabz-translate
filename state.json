@@ -10,7 +10,7 @@
    "last_id": 135964
   },
   "TelNews_Magazine": {
-   "last_id": 104302
+   "last_id": 104303
   },
   "NE_WG": {
    "last_id": 119146
@@ -866,7 +866,8 @@
     "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
     "https://www.nytimes.com/2026/11/19/theater/birthright-broadway-israel.html",
     "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-    "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html"
+    "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+    "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html"
    ]
   },
   "Treasury": {
@@ -1158,7 +1159,7 @@
  ],
  "usage": {
   "date": "2026-11-23",
-  "requests": 51
+  "requests": 52
  },
  "flip": 5158,
  "quote_n": 2639,
