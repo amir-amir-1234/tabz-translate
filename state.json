@@ -16,7 +16,9 @@
    "last_id": 119221
   }
  },
- "fails": {},
+ "fails": {
+  "web:OFAC/2534643848": 1
+ },
  "web": {
   "Fox News": {
    "seen": [
@@ -1269,7 +1271,7 @@
  ],
  "usage": {
   "date": "2026-11-23",
-  "requests": 333
+  "requests": 340
  },
  "flip": 5205,
  "quote_n": 2663,
