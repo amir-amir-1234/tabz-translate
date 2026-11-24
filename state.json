@@ -10,7 +10,7 @@
    "last_id": 136071
   },
   "TelNews_Magazine": {
-   "last_id": 104353
+   "last_id": 104354
   },
   "NE_WG": {
    "last_id": 119278
@@ -974,16 +974,6 @@
  },
  "recent": [
   {
-   "t": 1795456659.0,
-   "n": "شلیک موشک های کروز جدید از قشم به سمت تنگه هرمز",
-   "fa": "🚨 〰️ شلیک موشک های کروز جدید از قشم به سمت تنگه هرمز."
-  },
-  {
-   "t": 1795456800.0,
-   "n": "treasury identifies nearly 15 billion in potential iranian shadow banking washington in a new financial trend analysis the u s department of the treasury s financial crimes enforcement network fincen identified approximately 14 7 billion of financial activity from january 2025 to august 2026 potentially linked to iranian shadow banking as part of their compliance requirements u s financial institu",
-   "fa": "🚨 شناسایی نزدیک به ۱۵ میلیارد دلار فعالیت مالی مشکوک مرتبط با شبکه بانکداری سایه ایران توسط وزارت خزانه‌داری آمریکا به گزارش وزارت خزانه‌داری آمریکا، شبکه اجرای جرایم مالی این وزارتخانه (FinCEN) در تحلیل جدید خود از روندهای مالی، حدود ۱۴.۷ میلیارد دلار فعالیت مالی را شناسایی کرده است که از ژانویه ۲۰۲۵ تا اوت ۲۰۲۶ انجام شده و احتمالاً با شبکه بانکداری سایه ایران مرتبط است. مؤسسات مالی ایالات متحده "
-  },
-  {
    "t": 1795456981.0,
    "n": "جیپ های سفیر به غنیمت گرفته شده از ایران در سوریه مراسم رژه ارتش سوریه در خیابان های دمشق",
    "fa": "⭕️جیپ های سفیر به غنیمت گرفته شده از ایران در سوریه مراسم رژه ارتش سوریه در خیابان های دمشق"
@@ -1236,7 +1226,7 @@
  ],
  "usage": {
   "date": "2026-11-24",
-  "requests": 19
+  "requests": 20
  },
  "flip": 5236,
  "quote_n": 2672,
