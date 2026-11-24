@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111704
+   "last_id": 111705
   },
   "khabarfouri": {
    "last_id": 569949
@@ -13,7 +13,7 @@
    "last_id": 104432
   },
   "NE_WG": {
-   "last_id": 119382
+   "last_id": 119386
   }
  },
  "fails": {},
@@ -984,11 +984,6 @@
  },
  "recent": [
   {
-   "t": 1795536452.0,
-   "n": "iran s persian gulf strait authority has announced 26 tugboats and offshore support vessels have been added to its non compliance list following intelligence collected by the pgsa and information sent to it by residents of neighboring countries virtually all of these vessels have been active in emirati ports and several are actively owned by emirati companies 14 of these vessels are also known to ",
-   "fa": "🇮🇷⚡️ — سازمان بنادر و دریانوردی خلیج فارس ایران اعلام کرد که بر اساس اطلاعات جمع‌آوری‌شده توسط این سازمان و اطلاعات ارسال‌شده توسط ساکنان کشورهای همسایه، ۲۶ فروند یدک‌کش و شناور پشتیبانی فراساحلی را به فهرست عدم رعایت قوانین خود افزوده است. عملاً تمام این شناورها در بنادر امارات فعال بوده‌ار و تعدادی از آن‌ها رسماً متعلق به شرکت‌های اماراتی هستند. همچنین ۱۴ فروند از این شناورها در صنعت نفت و گاز ف"
-  },
-  {
    "t": 1795536513.0,
    "n": "پزشکیان بسیاری از حرف ها را به خاطر حفظ وحدت نمی زنم نه از روی ترس",
    "fa": "🎥پزشکیان: بسیاری از حرف‌ها را به خاطر حفظ وحدت نمی‌زنم، نه از روی ترس"
@@ -1282,19 +1277,20 @@
    "t": 1795559457.0,
    "n": "peshmerga forces are currently deployed at the kgr border with iraq following the iraqi pm s latest order to deploy federal troops at the border",
    "fa": "🇮🇶⚡️ — نیروهای پیشمرگه در پی دستور اخیر نخست‌وزیر عراق برای استقرار نیروهای فدرال در مرز، در گذرگاه مرزی KGR مستقر شدند."
+  },
+  {
+   "t": 1795559932.0,
+   "n": "security alerts were reissued for every country on this map minutes ago warning of a potential rapid escalation and acknowledging recent iranian strikes targeting u s assets in bahrain and kuwait",
+   "fa": "🔄 به‌روزرسانی 🇺🇸🇮🇷🇾🇪⚡️ — هشدارهای امنیتی برای تمامی کشورهای این منطقه دقایقی پیش مجدداً صادر شد که نسبت به احتمال تشدید سریع تنش‌ها هشدار داده و حملات اخیر ایران به اهداف ایالات متحده در بحرین و کویت را تأیید می‌کند."
   }
  ],
  "usage": {
   "date": "2026-11-24",
-  "requests": 528
+  "requests": 529
  },
  "flip": 5331,
- "quote_n": 2725,
+ "quote_n": 2726,
  "feed": [
-  {
-   "t": 1795520757.0,
-   "tx": "🇺🇸🇮🇷نماینده کنگره آمریکا: ما در ماجرای جنگ ایران طرف خوب قضیه نیستیم؛ طرف خوب، مدرسه کودکان را بمباران نمی‌کند"
-  },
   {
    "t": 1795521271.0,
    "tx": "⭕️ارتش اسرائیل: ما با همکاری شین بت، یکی از رهبران ارشد حماس را هدف قرار دادیم"
@@ -1690,6 +1686,10 @@
   {
    "t": 1795559457.0,
    "tx": "🇮🇶⚡️ — نیروهای پیشمرگه در پی دستور اخیر نخست‌وزیر عراق برای استقرار نیروهای فدرال در مرز، در گذرگاه مرزی KGR مستقر شدند."
+  },
+  {
+   "t": 1795559932.0,
+   "tx": "🔄 به‌روزرسانی\n🇺🇸🇮🇷🇾🇪⚡️ — هشدارهای امنیتی برای تمامی کشورهای این منطقه دقایقی پیش مجدداً صادر شد که نسبت به احتمال تشدید سریع تنش‌ها هشدار داده و حملات اخیر ایران به اهداف ایالات متحده در بحرین و کویت را تأیید می‌کند."
   }
  ],
  "signals": [
@@ -2282,18 +2282,23 @@
    "t": 1795559780.3005314,
    "s": 3,
    "p": 40
+  },
+  {
+   "t": 1795560081.8171074,
+   "s": 5,
+   "p": 75
   }
  ],
  "risk": {
   "base": 70,
-  "ts": 1795556179.3888822,
+  "ts": 1795560084.819618,
   "attack": false,
   "decay": false,
   "n": 119,
-  "raw": 77.1,
+  "raw": 78.5,
   "shares": {
    "1": 0,
-   "2": 3,
+   "2": 2,
    "3": 34,
    "4": 50,
    "5": 13
