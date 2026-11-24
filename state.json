@@ -880,7 +880,8 @@
     "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
     "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
     "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
-    "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html"
+    "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
+    "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html"
    ]
   },
   "Treasury": {
@@ -1280,7 +1281,7 @@
  ],
  "usage": {
   "date": "2026-11-24",
-  "requests": 392
+  "requests": 394
  },
  "flip": 5305,
  "quote_n": 2713,
