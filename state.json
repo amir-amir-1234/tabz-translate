@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 136153
+   "last_id": 136154
   },
   "TelNews_Magazine": {
    "last_id": 104426
   },
   "NE_WG": {
-   "last_id": 119365
+   "last_id": 119367
   }
  },
  "fails": {},
@@ -267,7 +267,8 @@
     "https://www.foxnews.com/world/ukraines-drone-strike-russian-warship-libya-risks-serious-escalation-former-official-warns",
     "https://www.foxnews.com/world/iran-flogs-female-singer-74-times-performing-without-hijab-viral-youtube-concert",
     "https://www.foxnews.com/world/former-florida-mayor-urges-american-jews-fight-back-against-rising-antisemitism",
-    "https://www.foxnews.com/world/ex-ukraine-prosecutor-general-accuses-zelenskyys-office-interfering-anti-corruption-investigation"
+    "https://www.foxnews.com/world/ex-ukraine-prosecutor-general-accuses-zelenskyys-office-interfering-anti-corruption-investigation",
+    "https://www.foxnews.com/world/european-leader-warns-russian-aggression-could-escalate-within-weeks-months"
    ]
   },
   "WSJ": {
@@ -981,11 +982,6 @@
  },
  "recent": [
   {
-   "t": 1795530905.0,
-   "n": "iraqi prime minister ali al zaidi ordered the iraqi federal border authority to assume the control of all the border crossings with the kurdistan region the federal oil ministry was also tasked to assume control of the oil fields in kirkuk nineveh diyala and salahaddin currently under peshmerga control",
-   "fa": "🇮🇶🇮🇶⚡️ — علی الزیدی، نخست‌وزیر عراق به اداره کل مرزهای فدرال این کشور دستور داد تا کنترل تمامی گذرگاه‌های مرزی با اقلیم کردستان را به دست گیرد. وزارت نفت فدرال نیز موظف شد کنترل میادین نفتی در کرکوک، نینوا، دیالی و صلاح‌الدین را که در حال حاضر در کنترل پیشمرگه است، به دست گیرد."
-  },
-  {
    "t": 1795531994.0,
    "n": "یک آزمایش پرتاب موشک توسط سپاه پاسداران انقلاب اسلامی در شهر خوی استان آذربایجان غربی مشاهده شد",
    "fa": "‼️〰️ یک آزمایش پرتاب موشک توسط سپاه پاسداران انقلاب اسلامی در شهر خوی، استان آذربایجان غربی، مشاهده شد."
@@ -1279,19 +1275,20 @@
    "t": 1795551704.0,
    "n": "بوریس جانسون ایرانی ها در نهایت با این اقدامات خودشان را نابود می کنند تنگه هرمز برای رونق اقتصادی ایران حیاتی است با مسدود کردن این تنگه آن ها در بلندمدت خسارات بسیار بزرگی به ایران وارد می کنند ما خطوط لوله و مسیرهای جایگزین دیگری ایجاد خواهیم کرد و در نهایت ایران در موقعیت بسیار مضحکی قرار خواهد گرفت",
    "fa": "⭕️بوریس جانسون: «ایرانی‌ها در نهایت با این اقدامات خودشان را نابود می‌کنند. تنگه هرمز برای رونق اقتصادی ایران حیاتی است. با مسدود کردن این تنگه، آن‌ها در بلندمدت خسارات بسیار بزرگی به ایران وارد می‌کنند. ما خطوط لوله و مسیرهای جایگزین دیگری ایجاد خواهیم کرد و در نهایت ایران در موقعیت بسیار مضحکی قرار خواهد گرفت.»"
+  },
+  {
+   "t": 1795552125.0,
+   "n": "روابط عمومی ارتش دو فروند پهپاد لوکاس و mq ۹ بر فراز خلیج فارس توسط نیروی پدافند هوایی ارتش منهدم شدند",
+   "fa": "🔄 به‌روزرسانی 🇮🇷🇺🇸روابط عمومی ارتش: دو فروند پهپاد لوکاس و MQ-۹ بر فراز خلیج فارس توسط نیروی پدافند هوایی ارتش منهدم شدند"
   }
  ],
  "usage": {
   "date": "2026-11-24",
-  "requests": 485
+  "requests": 489
  },
  "flip": 5324,
  "quote_n": 2720,
  "feed": [
-  {
-   "t": 1795514084.0,
-   "tx": "🔄 به‌روزرسانی\n🔽نفت ریخته و الان رسیده به ۸۶ دلار"
-  },
   {
    "t": 1795514221.0,
    "tx": "⭕️روزنامه عبری معاریو:\n\nاحتمال وقوع جنگ افزایش یافته و پایان هفته می‌تواند سرنوشت‌ساز باشد"
@@ -1687,6 +1684,10 @@
   {
    "t": 1795551704.0,
    "tx": "⭕️بوریس جانسون:\n\n«ایرانی‌ها در نهایت با این اقدامات خودشان را نابود می‌کنند. تنگه هرمز برای رونق اقتصادی ایران حیاتی است. با مسدود کردن این تنگه، آن‌ها در بلندمدت خسارات بسیار بزرگی به ایران وارد می‌کنند. ما خطوط لوله و مسیرهای جایگزین دیگری ایجاد خواهیم کرد و در نهایت ایران در موقعیت بسیار مضحکی قرار خواهد گرفت.»"
+  },
+  {
+   "t": 1795552125.0,
+   "tx": "🔄 به‌روزرسانی\n🇮🇷🇺🇸روابط عمومی ارتش: دو فروند پهپاد لوکاس و MQ-۹ بر فراز خلیج فارس توسط نیروی پدافند هوایی ارتش منهدم شدند"
   }
  ],
  "signals": [
@@ -2284,21 +2285,26 @@
    "t": 1795551865.9533935,
    "s": 4,
    "p": 20
+  },
+  {
+   "t": 1795552312.9483106,
+   "s": 5,
+   "p": 80
   }
  ],
  "risk": {
   "base": 70,
-  "ts": 1795549582.032736,
+  "ts": 1795552315.9519367,
   "attack": false,
   "decay": false,
-  "n": 122,
-  "raw": 74.0,
+  "n": 119,
+  "raw": 75.0,
   "shares": {
    "1": 0,
-   "2": 4,
-   "3": 35,
-   "4": 49,
-   "5": 11
+   "2": 3,
+   "3": 34,
+   "4": 51,
+   "5": 13
   }
  },
  "attack_ts": 1794422166.7186296,
