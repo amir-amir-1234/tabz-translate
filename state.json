@@ -13,7 +13,7 @@
    "last_id": 104396
   },
   "NE_WG": {
-   "last_id": 119324
+   "last_id": 119326
   }
  },
  "fails": {},
@@ -265,7 +265,8 @@
     "https://www.foxnews.com/world/russia-warns-preventive-nuclear-attack-medvedev-claims-ukraine-nato-crossed-line",
     "https://www.foxnews.com/world/nato-warns-putin-could-strike-european-army-responds-points-us-military-model",
     "https://www.foxnews.com/world/ukraines-drone-strike-russian-warship-libya-risks-serious-escalation-former-official-warns",
-    "https://www.foxnews.com/world/iran-flogs-female-singer-74-times-performing-without-hijab-viral-youtube-concert"
+    "https://www.foxnews.com/world/iran-flogs-female-singer-74-times-performing-without-hijab-viral-youtube-concert",
+    "https://www.foxnews.com/world/former-florida-mayor-urges-american-jews-fight-back-against-rising-antisemitism"
    ]
   },
   "WSJ": {
@@ -1278,7 +1279,7 @@
  ],
  "usage": {
   "date": "2026-11-24",
-  "requests": 232
+  "requests": 245
  },
  "flip": 5285,
  "quote_n": 2703,
