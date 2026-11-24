@@ -13,7 +13,7 @@
    "last_id": 104427
   },
   "NE_WG": {
-   "last_id": 119371
+   "last_id": 119373
   }
  },
  "fails": {},
@@ -268,12 +268,12 @@
     "https://www.foxnews.com/world/iran-flogs-female-singer-74-times-performing-without-hijab-viral-youtube-concert",
     "https://www.foxnews.com/world/former-florida-mayor-urges-american-jews-fight-back-against-rising-antisemitism",
     "https://www.foxnews.com/world/ex-ukraine-prosecutor-general-accuses-zelenskyys-office-interfering-anti-corruption-investigation",
-    "https://www.foxnews.com/world/european-leader-warns-russian-aggression-could-escalate-within-weeks-months"
+    "https://www.foxnews.com/world/european-leader-warns-russian-aggression-could-escalate-within-weeks-months",
+    "https://www.foxnews.com/world/nato-jet-cleared-shoot-russian-missile-poland-warsaw-pushes-us-troops"
    ]
   },
   "WSJ": {
    "seen": [
-    "WP-WSJ-0004020053",
     "SB12339201052325324086104593542050410628298",
     "SB11835459989585144157804593542183388690440",
     "SB12683950670106423529304593541603862641818",
@@ -672,7 +672,8 @@
     "WP-WSJ-0004091504",
     "SB11388017491371113356004593588880776474180",
     "SB10509620679872893536304593592532944591690",
-    "WP-WSJ-0004092027"
+    "WP-WSJ-0004092027",
+    "WP-WSJ-0004092296"
    ]
   },
   "NYT": {
@@ -1284,7 +1285,7 @@
  ],
  "usage": {
   "date": "2026-11-24",
-  "requests": 501
+  "requests": 503
  },
  "flip": 5326,
  "quote_n": 2720,
