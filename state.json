@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111670
+   "last_id": 111671
   },
   "khabarfouri": {
    "last_id": 569949
@@ -266,7 +266,8 @@
     "https://www.foxnews.com/world/nato-warns-putin-could-strike-european-army-responds-points-us-military-model",
     "https://www.foxnews.com/world/ukraines-drone-strike-russian-warship-libya-risks-serious-escalation-former-official-warns",
     "https://www.foxnews.com/world/iran-flogs-female-singer-74-times-performing-without-hijab-viral-youtube-concert",
-    "https://www.foxnews.com/world/former-florida-mayor-urges-american-jews-fight-back-against-rising-antisemitism"
+    "https://www.foxnews.com/world/former-florida-mayor-urges-american-jews-fight-back-against-rising-antisemitism",
+    "https://www.foxnews.com/world/ex-ukraine-prosecutor-general-accuses-zelenskyys-office-interfering-anti-corruption-investigation"
    ]
   },
   "WSJ": {
@@ -1279,7 +1280,7 @@
  ],
  "usage": {
   "date": "2026-11-24",
-  "requests": 265
+  "requests": 267
  },
  "flip": 5287,
  "quote_n": 2705,
@@ -1686,16 +1687,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1795448553.1470788,
-   "s": 4,
-   "p": 35
-  },
-  {
-   "t": 1795448556.6775558,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1795448772.3249254,
    "s": 4,
