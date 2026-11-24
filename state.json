@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111695
+   "last_id": 111696
   },
   "khabarfouri": {
    "last_id": 569949
@@ -269,7 +269,8 @@
     "https://www.foxnews.com/world/former-florida-mayor-urges-american-jews-fight-back-against-rising-antisemitism",
     "https://www.foxnews.com/world/ex-ukraine-prosecutor-general-accuses-zelenskyys-office-interfering-anti-corruption-investigation",
     "https://www.foxnews.com/world/european-leader-warns-russian-aggression-could-escalate-within-weeks-months",
-    "https://www.foxnews.com/world/nato-jet-cleared-shoot-russian-missile-poland-warsaw-pushes-us-troops"
+    "https://www.foxnews.com/world/nato-jet-cleared-shoot-russian-missile-poland-warsaw-pushes-us-troops",
+    "https://www.foxnews.com/world/israel-raises-prospect-preemptive-strike-emerging-iranian-chemical-weapons-threat"
    ]
   },
   "WSJ": {
@@ -1285,7 +1286,7 @@
  ],
  "usage": {
   "date": "2026-11-24",
-  "requests": 519
+  "requests": 521
  },
  "flip": 5328,
  "quote_n": 2723,
@@ -1692,11 +1693,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1795471441.5183134,
-   "s": 3,
-   "p": 20
-  },
   {
    "t": 1795471879.3106816,
    "s": 4,
