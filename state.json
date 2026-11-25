@@ -10,7 +10,7 @@
    "last_id": 136214
   },
   "TelNews_Magazine": {
-   "last_id": 104467
+   "last_id": 104468
   },
   "NE_WG": {
    "last_id": 119435
@@ -892,7 +892,8 @@
     "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
     "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
     "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
-    "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html"
+    "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
+    "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html"
    ]
   },
   "Treasury": {
@@ -1282,7 +1283,7 @@
  ],
  "usage": {
   "date": "2026-11-25",
-  "requests": 118
+  "requests": 119
  },
  "flip": 5378,
  "quote_n": 2750,
