@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 136266
+   "last_id": 136268
   },
   "TelNews_Magazine": {
    "last_id": 104496
   },
   "NE_WG": {
-   "last_id": 119477
+   "last_id": 119478
   }
  },
  "fails": {},
@@ -897,7 +897,8 @@
     "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
     "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
     "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
-    "https://www.nytimes.com/2026/11/25/world/middleeast/opposition-makes-progress-toward-ousting-netanyahu-party-leader-says.html"
+    "https://www.nytimes.com/2026/11/25/world/middleeast/opposition-makes-progress-toward-ousting-netanyahu-party-leader-says.html",
+    "https://www.nytimes.com/2026/11/25/world/middleeast/israel-opposition-netanyahu-new-government.html"
    ]
   },
   "Treasury": {
@@ -1297,7 +1298,7 @@
  ],
  "usage": {
   "date": "2026-11-25",
-  "requests": 364
+  "requests": 365
  },
  "flip": 5410,
  "quote_n": 2766,
