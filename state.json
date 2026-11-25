@@ -890,7 +890,8 @@
     "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
     "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
     "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
-    "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html"
+    "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
+    "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html"
    ]
   },
   "Treasury": {
@@ -1220,7 +1221,7 @@
  ],
  "usage": {
   "date": "2026-11-25",
-  "requests": 78
+  "requests": 79
  },
  "flip": 5363,
  "quote_n": 2741,
