@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 136248
+   "last_id": 136249
   },
   "TelNews_Magazine": {
-   "last_id": 104485
+   "last_id": 104487
   },
   "NE_WG": {
-   "last_id": 119464
+   "last_id": 119467
   }
  },
  "fails": {},
@@ -275,7 +275,9 @@
     "https://www.foxnews.com/world/iran-execute-2-anti-regime-protesters-dawn-3-days-death-row-holding-cells",
     "https://www.foxnews.com/world/trump-administration-weighs-targeting-irans-top-regime-leaders-bid-end-war-report",
     "https://www.foxnews.com/world/christian-filmmakers-discovery-jewish-roots-sparks-mission-uncover-centuries-old-secret",
-    "https://www.foxnews.com/world/yemeni-military-official-brands-iran-houthis-godfather-says-tehran-directing-war"
+    "https://www.foxnews.com/world/yemeni-military-official-brands-iran-houthis-godfather-says-tehran-directing-war",
+    "https://www.foxnews.com/world/christians-increasingly-targeted-across-europe-watchdog-warns-rising-hostility",
+    "https://www.foxnews.com/world/libyans-pledge-retaliate-ukraine-strikes-russian-warship-benghazi-killing-2-soldiers"
    ]
   },
   "WSJ": {
@@ -1294,7 +1296,7 @@
  ],
  "usage": {
   "date": "2026-11-25",
-  "requests": 288
+  "requests": 302
  },
  "flip": 5401,
  "quote_n": 2762,
