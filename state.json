@@ -10,10 +10,10 @@
    "last_id": 136181
   },
   "TelNews_Magazine": {
-   "last_id": 104442
+   "last_id": 104443
   },
   "NE_WG": {
-   "last_id": 119401
+   "last_id": 119402
   }
  },
  "fails": {},
@@ -987,11 +987,6 @@
  },
  "recent": [
   {
-   "t": 1795548820.0,
-   "n": "iraq s prime minister aims to wrest more power from kurdistan region ali al zaidi who just scored a symbolic victory against a powerful iran backed militia has now moved to assert control over kurdish border crossings and oil resources",
-   "fa": "⭕️ نخست‌وزیر عراق در پی کسب قدرت بیشتر از منطقه اقلیم کردستان است به گزارش نیویورک تایمز علی الزیدی که به تازگی پیروزی نمادینی را در برابر یک شبه‌نظامی قدرتمند تحت حمایت ایران به دست آورده است، اکنون برای اعمال کنترل بر گذرگاه‌های مرزی و منابع نفتی کردی اقدام کرده است."
-  },
-  {
    "t": 1795549331.0,
    "n": "islamic republic of iran army announces one hour ago one u s air force mq 9a reaper ucav was intercepted above the eastern strait of hormuz and one american lucas one way uav was intercepted above the western strait of hormuz",
    "fa": "🇮🇷❌🇺🇸 ارتش جمهوری اسلامی ایران اعلام کرد یک ساعت پیش، یک فروند پهپاد رزمی MQ-9A Reaper نیروی هوایی ایالات متحده در شرق تنگه هرمز و یک فروند پهپاد انتحاری LUCAS آمریکا در غرب تنگه هرمز رهگیری شدند."
@@ -1234,7 +1229,7 @@
  ],
  "usage": {
   "date": "2026-11-25",
-  "requests": 39
+  "requests": 40
  },
  "flip": 5346,
  "quote_n": 2732,
