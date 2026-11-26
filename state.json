@@ -903,7 +903,8 @@
     "https://www.nytimes.com/2026/11/25/world/middleeast/israel-opposition-netanyahu-new-government.html",
     "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
     "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
-    "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html"
+    "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html",
+    "https://www.nytimes.com/2026/11/26/arts/design/venice-biennale-2028-curator-hoor-al-qasimi.html"
    ]
   },
   "Treasury": {
@@ -1228,7 +1229,7 @@
  ],
  "usage": {
   "date": "2026-11-26",
-  "requests": 81
+  "requests": 82
  },
  "flip": 5470,
  "quote_n": 2799,
