@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111760
+   "last_id": 111761
   },
   "khabarfouri": {
    "last_id": 569949
@@ -1003,11 +1003,6 @@
  },
  "recent": [
   {
-   "t": 1795662000.0,
-   "n": "a silent war grips iran as its economy strains under u s blockade cuts to subsidies for fuel and food have put new pressure on the iranian public while highlighting internal political divides",
-   "fa": "🔴 فشار بلوک اقتصادی آمریکا و کاهش یارانه‌ها بر معیشت مردم و بروز شکاف‌های سیاسی در ایران به گزارش وال‌استریت ژورنال کاهش یارانه‌ها برای سوخت and مواد غذایی فشارهای جدیدی را بر عموم مردم ایران وارد کرده و در عین حال شکاف‌های سیاسی داخلی را برجسته ساخته است."
-  },
-  {
    "t": 1795662540.0,
    "n": "asian stocks rise as investors shrug off u s tariff plan asian stock markets staged a major comeback after a selloff as investors shrugged off new u s tariff proposals and wall street recouped most of the sharp losses ahead of the thanksgiving holiday",
    "fa": "⭕️ صعود سهام آسیایی و بازگشت بازارها با بی‌توجهی سرمایه‌گذاران به طرح تعرفه‌ای آمریکا به گزارش وال‌استریت ژورنال بازارهای سهام آسیایی پس از یک دوره فروش سنگین، دست به بازگشتی بزرگ زدند؛ زیرا سرمایه‌گذاران طرح‌های جدید تعرفه‌ای ایالات متحده را نادیده گرفتند و وال‌استریت توانست پیش از تعطیلات روز شکرگزاری، بیشتر زیان‌های شدید خود را جبران کند."
@@ -1285,7 +1280,7 @@
  ],
  "usage": {
   "date": "2026-11-26",
-  "requests": 94
+  "requests": 95
  },
  "flip": 5477,
  "quote_n": 2805,
@@ -1692,16 +1687,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1795618637.6940475,
-   "s": 3,
-   "p": 50
-  },
-  {
-   "t": 1795618641.0966089,
-   "s": 3,
-   "p": 25
-  },
   {
    "t": 1795619119.9000764,
    "s": 4,
