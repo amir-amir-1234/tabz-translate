@@ -10,7 +10,7 @@
    "last_id": 136317
   },
   "TelNews_Magazine": {
-   "last_id": 104521
+   "last_id": 104522
   },
   "NE_WG": {
    "last_id": 119553
@@ -902,7 +902,8 @@
     "https://www.nytimes.com/2026/11/25/world/middleeast/opposition-makes-progress-toward-ousting-netanyahu-party-leader-says.html",
     "https://www.nytimes.com/2026/11/25/world/middleeast/israel-opposition-netanyahu-new-government.html",
     "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
-    "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html"
+    "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
+    "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html"
    ]
   },
   "Treasury": {
@@ -1187,7 +1188,7 @@
  ],
  "usage": {
   "date": "2026-11-26",
-  "requests": 35
+  "requests": 36
  },
  "flip": 5449,
  "quote_n": 2785,
@@ -2232,17 +2233,17 @@
  ],
  "risk": {
   "base": 70,
-  "ts": 1795671091.4848084,
+  "ts": 1795681890.0612142,
   "attack": false,
   "decay": false,
-  "n": 129,
-  "raw": 67.2,
+  "n": 127,
+  "raw": 65.2,
   "shares": {
    "1": 0,
    "2": 2,
    "3": 41,
-   "4": 47,
-   "5": 10
+   "4": 48,
+   "5": 9
   }
  },
  "attack_ts": 1794422166.7186296,
