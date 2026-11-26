@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 136406
+   "last_id": 136407
   },
   "TelNews_Magazine": {
-   "last_id": 104577
+   "last_id": 104578
   },
   "NE_WG": {
-   "last_id": 119640
+   "last_id": 119643
   }
  },
  "fails": {},
@@ -284,7 +284,8 @@
     "https://www.foxnews.com/world/egypt-detains-driver-suspected-causing-cairo-fuel-tanker-crash-inferno-left-31-dead",
     "https://www.foxnews.com/world/bangkok-oil-refinery-explosion-injures-least-9-thailand-company-monitoring-air-quality",
     "https://www.foxnews.com/world/flydubai-resume-tel-aviv-flights-following-attempted-hijacking-incident",
-    "https://www.foxnews.com/world/ukrainian-intelligence-north-korea-paused-missile-deliveries-russia-friction-south-korea"
+    "https://www.foxnews.com/world/ukrainian-intelligence-north-korea-paused-missile-deliveries-russia-friction-south-korea",
+    "https://www.foxnews.com/world/uk-shields-fighter-jets-contacts-reservists-cold-war-scale-push-amid-russia-threat"
    ]
   },
   "WSJ": {
@@ -1310,7 +1311,7 @@
  ],
  "usage": {
   "date": "2026-11-26",
-  "requests": 159
+  "requests": 160
  },
  "flip": 5516,
  "quote_n": 2827,
@@ -1717,11 +1718,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1795641675.9616637,
-   "s": 2,
-   "p": 65
-  },
   {
    "t": 1795641972.2999895,
    "s": 4,
