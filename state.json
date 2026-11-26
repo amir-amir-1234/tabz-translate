@@ -7,13 +7,13 @@
    "last_id": 569949
   },
   "KH_B2": {
-   "last_id": 136376
+   "last_id": 136378
   },
   "TelNews_Magazine": {
    "last_id": 104567
   },
   "NE_WG": {
-   "last_id": 119618
+   "last_id": 119619
   }
  },
  "fails": {},
@@ -906,7 +906,8 @@
     "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
     "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
     "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html",
-    "https://www.nytimes.com/2026/11/26/arts/design/venice-biennale-2028-curator-hoor-al-qasimi.html"
+    "https://www.nytimes.com/2026/11/26/arts/design/venice-biennale-2028-curator-hoor-al-qasimi.html",
+    "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html"
    ]
   },
   "Treasury": {
@@ -1306,7 +1307,7 @@
  ],
  "usage": {
   "date": "2026-11-26",
-  "requests": 131
+  "requests": 132
  },
  "flip": 5502,
  "quote_n": 2820,
@@ -1713,11 +1714,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1795630873.5752242,
-   "s": 4,
-   "p": 35
-  },
   {
    "t": 1795631811.310605,
    "s": 4,
