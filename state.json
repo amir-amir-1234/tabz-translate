@@ -10,7 +10,7 @@
    "last_id": 136447
   },
   "TelNews_Magazine": {
-   "last_id": 104604
+   "last_id": 104605
   },
   "NE_WG": {
    "last_id": 119689
@@ -1229,7 +1229,7 @@
  ],
  "usage": {
   "date": "2026-11-27",
-  "requests": 59
+  "requests": 60
  },
  "flip": 5561,
  "quote_n": 2845,
