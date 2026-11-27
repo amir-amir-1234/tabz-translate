@@ -10,7 +10,7 @@
    "last_id": 136448
   },
   "TelNews_Magazine": {
-   "last_id": 104605
+   "last_id": 104606
   },
   "NE_WG": {
    "last_id": 119690
@@ -1012,11 +1012,6 @@
  },
  "recent": [
   {
-   "t": 1795737911.0,
-   "n": "military aircraft activity was reported above souza southeastern qeshm island in addition to an explosion reported heard in toula far eastern qeshm island toula is known to host surface to air missile batteries it is unclear if the explosion was related to an airstrike or a sam launch towards the military aircraft",
-   "fa": "🇮🇷🇺🇸⚡️ — تحرکات هواپیماهای نظامی بر فراز سوزا در جنوب شرقی جزیره قشم گزارش شد و همچنین صدایی شبیه به انفجار در تولا، در شرق جزیره قشم شنیده شد. منطقه تولا به داشتن باتری‌های موشک زمین‌به‌هوا معروف است. مشخص نیست که آیا این انفجار مربوط به یک حمله هوایی بوده یا شلیک موشک پدافندی به سمت هواپیمای نظامی."
-  },
-  {
    "t": 1795738492.0,
    "n": "ترامپ هم چین و هم روسیه می خواهند توافق هسته ای با ایران به پایان برسد به نظر من آن ها به من کمک می کنند",
    "fa": "🇺🇸🇷🇺🇨🇳🇮🇷ترامپ: هم چین و هم روسیه می‌خواهند توافق هسته‌ای با ایران به پایان برسد. به نظر من، آن‌ها به من کمک می‌کنند!"
@@ -1229,7 +1224,7 @@
  ],
  "usage": {
   "date": "2026-11-27",
-  "requests": 62
+  "requests": 63
  },
  "flip": 5562,
  "quote_n": 2845,
@@ -1636,11 +1631,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1795694504.3783317,
-   "s": 3,
-   "p": 40
-  },
   {
    "t": 1795695970.4558654,
    "s": 4,
