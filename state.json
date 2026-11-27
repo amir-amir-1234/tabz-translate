@@ -913,7 +913,8 @@
     "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
     "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html",
     "https://www.nytimes.com/2026/11/26/arts/design/venice-biennale-2028-curator-hoor-al-qasimi.html",
-    "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html"
+    "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html",
+    "https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html"
    ]
   },
   "Treasury": {
@@ -1010,11 +1011,6 @@
   }
  },
  "recent": [
-  {
-   "t": 1795730981.0,
-   "n": "فیلمی از مسدود کردن یکی از گذرگاه های اقلیم کردستان عراق با ایران",
-   "fa": "‼️فیلمی از مسدود کردن یکی از گذرگاه های اقلیم کردستان عراق با ایران"
-  },
   {
    "t": 1795731373.0,
    "n": "alerts in the warned areas of southwestern ksa have been lifted after 3 minutes",
@@ -1238,7 +1234,7 @@
  ],
  "usage": {
   "date": "2026-11-27",
-  "requests": 41
+  "requests": 42
  },
  "flip": 5551,
  "quote_n": 2840,
@@ -1645,11 +1641,6 @@
   }
  ],
  "signals": [
-  {
-   "t": 1795687568.930013,
-   "s": 3,
-   "p": 30
-  },
   {
    "t": 1795688483.2080185,
    "s": 5,
