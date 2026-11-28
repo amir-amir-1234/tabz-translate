@@ -10,7 +10,7 @@
    "last_id": 136582
   },
   "TelNews_Magazine": {
-   "last_id": 104674
+   "last_id": 104675
   },
   "NE_WG": {
    "last_id": 119835
@@ -290,7 +290,8 @@
     "https://www.foxnews.com/world/putins-grip-crimea-tested-amid-major-blackout-zelenskyy-warns-imminent-russia-strike",
     "https://www.foxnews.com/world/us-military-disables-tanker-ship-attempting-slip-through-iran-blockade-thanksgiving-day",
     "https://www.foxnews.com/world/tiny-english-village-battles-government-over-migrant-housing-plan-amid-crime-fears-women",
-    "https://www.foxnews.com/world/taliban-strips-women-names-afghan-province-called-goat-grandmother"
+    "https://www.foxnews.com/world/taliban-strips-women-names-afghan-province-called-goat-grandmother",
+    "https://www.foxnews.com/world/zelenskyy-compares-putin-hitler-trump-pushes-end-ukraine-war-aggressor-killer"
    ]
   },
   "WSJ": {
@@ -1224,19 +1225,20 @@
    "t": 1795872173.0,
    "n": "تصاویر ماهواره ای نشان می دهند که یک تانکر نفتی در تنگه هرمز در حال سوختن است این حادثه در فاصله حدود ۶ ۵ کیلومتری از سواحل عمان رخ داده و ظاهرا ناشی از حمله ای توسط ایران است",
    "fa": "💢تصاویر ماهواره‌ای نشان می‌دهند که یک تانکر نفتی در تنگه هرمز در حال سوختن است. این حادثه در فاصله حدود ۶.۵ کیلومتری از سواحل عمان رخ داده و ظاهراً ناشی از حمله‌ای توسط ایران است."
+  },
+  {
+   "t": 1795872365.0,
+   "n": "هم اکنون حمله اسرائیل به جنوب لبنان",
+   "fa": "⭕️هم اکنون حمله اسرائیل به جنوب لبنان"
   }
  ],
  "usage": {
   "date": "2026-11-28",
-  "requests": 55
+  "requests": 56
  },
  "flip": 5669,
  "quote_n": 2885,
  "feed": [
-  {
-   "t": 1795801129.0,
-   "tx": "⭕️ ‏💢حسن روحانی و محمدجواد ظریف در مجلس بزرگداشت وحید خراسانی"
-  },
   {
    "t": 1795801500.0,
    "tx": "🚨🚨ادعای منابع عربی:\n\nیک کشتی مرتبط با ایران، خط محاصره (رأس الحد - جیوانی) را عبور کرده و وارد دریای عرب شده است."
@@ -1632,14 +1634,13 @@
   {
    "t": 1795872173.0,
    "tx": "💢تصاویر ماهواره‌ای نشان می‌دهند که یک تانکر نفتی در تنگه هرمز در حال سوختن است. این حادثه در فاصله حدود ۶.۵ کیلومتری از سواحل عمان رخ داده و ظاهراً ناشی از حمله‌ای توسط ایران است."
+  },
+  {
+   "t": 1795872365.0,
+   "tx": "⭕️هم اکنون حمله اسرائیل به جنوب لبنان"
   }
  ],
  "signals": [
-  {
-   "t": 1795785965.9786582,
-   "s": 4,
-   "p": 50
-  },
   {
    "t": 1795786870.99285,
    "s": 5,
@@ -2294,21 +2295,26 @@
    "t": 1795872372.0706987,
    "s": 4,
    "p": 65
+  },
+  {
+   "t": 1795872686.586171,
+   "s": 4,
+   "p": 60
   }
  ],
  "risk": {
-  "base": 64,
-  "ts": 1795865481.372912,
+  "base": 66,
+  "ts": 1795872689.5921533,
   "attack": false,
   "decay": false,
-  "n": 128,
-  "raw": 60.2,
+  "n": 132,
+  "raw": 61.4,
   "shares": {
    "1": 0,
    "2": 3,
-   "3": 34,
-   "4": 55,
-   "5": 9
+   "3": 37,
+   "4": 52,
+   "5": 8
   }
  },
  "attack_ts": 1794422166.7186296,
