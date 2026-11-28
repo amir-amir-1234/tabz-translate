@@ -1,7 +1,7 @@
 {
  "channels": {
   "tabzlive": {
-   "last_id": 111806
+   "last_id": 111807
   },
   "khabarfouri": {
    "last_id": 569949
@@ -1317,7 +1317,7 @@
  ],
  "usage": {
   "date": "2026-11-28",
-  "requests": 2
+  "requests": 3
  },
  "flip": 5637,
  "quote_n": 2869,
@@ -2412,15 +2412,15 @@
  ],
  "risk": {
   "base": 70,
-  "ts": 1795822288.7433856,
+  "ts": 1795833089.4969485,
   "attack": false,
   "decay": false,
-  "n": 140,
-  "raw": 66.3,
+  "n": 137,
+  "raw": 64.5,
   "shares": {
    "1": 0,
    "2": 2,
-   "3": 32,
+   "3": 33,
    "4": 56,
    "5": 9
   }
