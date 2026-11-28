@@ -289,7 +289,8 @@
     "https://www.foxnews.com/world/iran-accuses-zelenskyy-false-flag-kuwait-drone-strike-op-get-trumps-attention",
     "https://www.foxnews.com/world/putins-grip-crimea-tested-amid-major-blackout-zelenskyy-warns-imminent-russia-strike",
     "https://www.foxnews.com/world/us-military-disables-tanker-ship-attempting-slip-through-iran-blockade-thanksgiving-day",
-    "https://www.foxnews.com/world/tiny-english-village-battles-government-over-migrant-housing-plan-amid-crime-fears-women"
+    "https://www.foxnews.com/world/tiny-english-village-battles-government-over-migrant-housing-plan-amid-crime-fears-women",
+    "https://www.foxnews.com/world/taliban-strips-women-names-afghan-province-called-goat-grandmother"
    ]
   },
   "WSJ": {
@@ -1316,7 +1317,7 @@
  ],
  "usage": {
   "date": "2026-11-28",
-  "requests": 1
+  "requests": 2
  },
  "flip": 5637,
  "quote_n": 2869,
